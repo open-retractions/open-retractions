@@ -11,8 +11,19 @@
 
 Use the [web-tool](http://openretractions.com) to check whether a paper has been retracted.
 
-Learn more about using the API below.
+## API
 
-:sparkling_heart:
-*coming soon...*
-:sparkles:
+To query the API, simply `GET` `http://openretractions.com/api/doi/${doi}/data.json`.
+
+For example:
+
+```bash
+curl http://openretractions.com/api/doi/10.7860/JCDR/2013/4833.2724/data.json | jq
+{
+  "retracted": true,
+  "title": "A prevalence of thyroid disorder in Western part of Nepal.",
+  "url": "http://doi.org/10.7860/JCDR/2013/4833.2724",
+  "journal": "Journal of clinical and diagnostic research : JCDR",
+  "update": "retracted"
+}
+```

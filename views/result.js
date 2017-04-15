@@ -15,10 +15,10 @@ module.exports = (state, emit) => {
     <div id="result-wrapper">
       <p id="result-msg">${msg}</p>
       <ul>
-        <li>Title: <strong>${result.title}</strong></li>
-        <li>Journal: <strong>${result.journal}</strong></li>
-        <li>Article link: <strong><a href="${result.url}">${result.url}</a></strong></li>
-        <li>Update: <strong>${result.update}</strong></li>
+        <li>Title: <strong>${state.result.title}</strong></li>
+        <li>Journal: <strong>${state.result.journal}</strong></li>
+        <li>Article link: <strong><a href="${state.result.url}">${state.result.url}</a></strong></li>
+        <li>Update: <strong>${state.result.update}</strong></li>
       </ul>
       <p><a href="${result.jsonpath}" data-no-routing>Download this result as JSON</a></p>
     </div>
