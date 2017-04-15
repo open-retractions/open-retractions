@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/made_with-❤️💛💚💙💜💖-e6e6e6.svg?style=flat-square" /></a>
 </div>
 
-Use the [web-tool](openretractions.com) to check whether a paper has been retracted.
+Use the [web-tool](http://openretractions.com) to check whether a paper has been retracted.
 
 Learn more about using the API below.
 
