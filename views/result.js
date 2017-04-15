@@ -20,7 +20,7 @@ module.exports = (state, emit) => {
         <li>Article link: <strong><a href="${state.result.url}">${state.result.url}</a></strong></li>
         <li>Update: <strong>${state.result.update}</strong></li>
       </ul>
-      <p><a href="${result.jsonpath}" data-no-routing>Download this result as JSON</a></p>
+      <p><a href="${state.result.jsonpath}" data-no-routing>Download this result as JSON</a></p>
     </div>
 
     `

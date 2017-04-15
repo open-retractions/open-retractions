@@ -3674,7 +3674,7 @@ module.exports = function (state, emit) {
   } else if (state.result) {
     var msg = state.result.retracted ? '‼️ This article has been retracted ‼️' : 'This article has not been retracted, but has an update you should be aware of';
 
-    return html(_templateObject, msg, state.result.title, state.result.journal, state.result.url, state.result.url, state.result.update, result.jsonpath);
+    return html(_templateObject, msg, state.result.title, state.result.journal, state.result.url, state.result.url, state.result.update, state.result.jsonpath);
   } else {
     return html(_templateObject2);
   }
