@@ -1,6 +1,6 @@
 <div align="center">
   <h1>:bangbang: :page_facing_up: :mag_right: Open retractions :mag: :page_facing_up: :bangbang:</h1>
-  <h2>An API and JS library to check whether a paper has been retracted</h2>
+  <h2>An API and web interface to check whether a paper has been retracted</h2>
 </div>
 
 <div align="center">

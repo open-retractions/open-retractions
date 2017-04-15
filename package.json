@@ -1,10 +1,10 @@
 {
   "name": "open-retractions",
   "version": "1.0.0",
-  "description": "## An API and JS library to check whether a paper has been retracted",
+  "description": "An API and web interface to check whether a paper has been retracted",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
