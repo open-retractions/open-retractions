@@ -1,4 +1,4 @@
-# Open retractions :mag_right: :page_facing_up: :x:
+# :bangbang: :page_facing_up: :mag_right: Open retractions :mag: :page_facing_up: :bangbang:
 
 ## An API and JS library to check whether a paper has been retracted
 
