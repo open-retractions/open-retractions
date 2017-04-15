@@ -10,7 +10,7 @@ module.exports = function () {
     }
   };
 
-  interval = setInterval(tryscroll, 400);
+  interval = setInterval(tryscroll, 100);
 };
 },{}],2:[function(require,module,exports){
 var app = require('choo')();
@@ -46,7 +46,7 @@ module.exports = function (state, bus) {
 };
 },{"../helpers/scrolltoresults":1}],4:[function(require,module,exports){
 var fetch = require('isomorphic-fetch');
-var BASE_URL = 'http://openretractions.com/api/';
+var BASE_URL = 'http://openretractions.com/api';
 
 var url = function (query) {
   return BASE_URL + '/' + query + '.json';
@@ -3637,7 +3637,7 @@ function extend(target) {
 }
 
 },{}],38:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again.\n</div>\n\n'], ['\n\n<div class="error">\n  Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again.\n</div>\n\n']);
+var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID \u274C.\n  Please try again.\n</div>\n\n'], ['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID \u274C.\n  Please try again.\n</div>\n\n']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3671,7 +3671,7 @@ module.exports = function (state, emit) {
   } else if (!state.query) {
     return null;
   } else if (state.result) {
-    var msg = state.result.retracted ? 'This article has been retracted' : 'This article has not been retracted, but has an update you should be aware of';
+    var msg = state.result.retracted ? '‼️ This article has been retracted ‼️' : 'This article has not been retracted, but has an update you should be aware of';
 
     return html(_templateObject, msg, result.title, result.journal, result.publisher, result.url, result.url, result.updateurl, result.updateurl, result.update, result.jsonpath);
   } else {
