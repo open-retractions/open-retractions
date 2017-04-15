@@ -3620,7 +3620,7 @@ function extend(target) {
 }
 
 },{}],37:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again.\n</div>\n\n'], ['\n\n<div class="error">\n  Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again.\n</div>\n\n']);
+var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again \u274C.\n</div>\n\n'], ['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID. Please try again \u274C.\n</div>\n\n']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3630,7 +3630,7 @@ module.exports = function () {
   return html(_templateObject);
 };
 },{"choo/html":10}],38:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="#">our API</a> \u2728.</p>\n  </div>\n\n  '], ['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="#">our API</a> \u2728.</p>\n  </div>\n\n  ']);
+var _templateObject = _taggedTemplateLiteral(['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions">our API</a> \u2728.</p>\n  </div>\n\n  '], ['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions">our API</a> \u2728.</p>\n  </div>\n\n  ']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3654,7 +3654,7 @@ module.exports = function (state, emit) {
   } else if (!state.query) {
     return null;
   } else if (state.result) {
-    var msg = state.result.retracted ? 'This article has been retracted' : 'This article has not been retracted, but has an update you should be aware of';
+    var msg = state.result.retracted ? '‼️ This article has been retracted ‼️' : 'This article has not been retracted, but has an update you should be aware of';
 
     return html(_templateObject, msg, result.title, result.journal, result.publisher, result.url, result.url, result.updateurl, result.updateurl, result.update, result.jsonpath);
   } else {
