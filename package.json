@@ -19,7 +19,9 @@
   "homepage": "https://github.com/fathomlabs/open-retractions#readme",
   "dependencies": {
     "choo": "^5.1.5",
-    "choo-asyncify": "0.0.2"
+    "choo-asyncify": "0.0.2",
+    "choo-log": "^6.1.1",
+    "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
     "browserify": "^14.3.0",

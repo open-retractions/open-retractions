@@ -1,7 +1,7 @@
-const fetch = require('whatwg-fetch')
+const fetch = require('isomorphic-fetch')
 const BASE_URL = 'http://openretractions.com/api/'
 
-const url = query => `${BASE_URL}/${query}`
+const url = query => `${BASE_URL}/${query}.json`
 
 const querybuilder = query => {
   if (/^10.+\//.test(query)) {
@@ -54,11 +54,15 @@ module.exports = (state, bus) => {
   const noresult = () => bus.emit('noresult')
 
   const search = query => {
-    const queryurl = url(querybuilder(query.trim()))
+    const querypath = querybuilder(query.trim())
 
-    if (!queryurl) return badinput()
+    if (!querypath) return badinput()
+
+    const queryurl = url(querypath)
 
     state.query = query
+
+    console.log('fetch', fetch)
 
     fetch(
       queryurl
@@ -70,4 +74,7 @@ module.exports = (state, bus) => {
       noresult
     )
   }
+
+  bus.on('search', search)
+  bus.on('clear', clear)
 }
