@@ -1,7 +1,12 @@
 module.exports = (state, bus) => {
   state.result = null
 
-  const render = () => bus.emit('render')
+  const scroll = require('../helpers/scrolltoresults')
+
+  const render = () => {
+    bus.emit('render')
+    scroll()
+  }
   const result = data => {
     state.result = data
     render()

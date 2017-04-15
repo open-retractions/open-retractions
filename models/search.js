@@ -1,5 +1,5 @@
 const fetch = require('isomorphic-fetch')
-const BASE_URL = 'http://openretractions.com/api/'
+const BASE_URL = 'http://openretractions.com/api'
 
 const url = query => `${BASE_URL}/${query}.json`
 
