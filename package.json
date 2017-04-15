@@ -1,0 +1,23 @@
+{
+  "name": "open-retractions",
+  "version": "1.0.0",
+  "description": "## An API and JS library to check whether a paper has been retracted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fathomlabs/open-retractions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fathomlabs/open-retractions/issues"
+  },
+  "homepage": "https://github.com/fathomlabs/open-retractions#readme",
+  "dependencies": {
+    "choo": "^5.1.5"
+  }
+}
