@@ -7,7 +7,7 @@ module.exports = (state, emit) => {
     return null
   } else if (state.result) {
     const msg = state.result.retracted
-      ? 'This article has been retracted'
+      ? '‼️ This article has been retracted ‼️'
       : 'This article has not been retracted, but has an update you should be aware of'
 
     return html`
