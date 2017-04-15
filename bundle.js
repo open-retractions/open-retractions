@@ -49,19 +49,19 @@ var fetch = require('isomorphic-fetch');
 var BASE_URL = 'http://openretractions.com/api';
 
 var url = function (query) {
-  return BASE_URL + '/' + query + '.json';
+  return BASE_URL + '/' + query + '/data.json';
 };
 
 var querybuilder = function (query) {
-  if (/^10.+\//.test(query)) {
+  if (/^.+\/.+$/.test(query)) {
     // it's a DOI
     return 'doi/' + query;
-  } else if (/$PMC/.test(query)) {
-    // it's a PubMedCentral ID
-    return 'pmc/' + query;
-  } else if (/^[0-9]+$/.test(query)) {
-    // it's at least plausibly a PubMed ID
-    return 'pubmed/' + query;
+    // } else if (/$PMC/.test(query)) {
+    //   // it's a PubMedCentral ID
+    //   return `pmc/${query}`
+    // } else if (/^[0-9]+$/.test(query)) {
+    //   // it's at least plausibly a PubMed ID
+    //   return `pubmed/${query}`
   } else {
     // wtf is it?
     return null;
@@ -107,6 +107,7 @@ module.exports = function (state, bus) {
   };
 
   var search = function (query) {
+    clear();
     var querypath = querybuilder(query.trim());
 
     if (!querypath) return badinput();
@@ -3637,7 +3638,7 @@ function extend(target) {
 }
 
 },{}],38:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID \u274C.\n  Please try again.\n</div>\n\n'], ['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI, PMID or PMCID \u274C.\n  Please try again.\n</div>\n\n']);
+var _templateObject = _taggedTemplateLiteral(['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI \u274C<br />\n  Please try again\n</div>\n\n'], ['\n\n<div class="error">\n  \u274C Your input doesn\'t appear to be a DOI \u274C<br />\n  Please try again\n</div>\n\n']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3647,7 +3648,7 @@ module.exports = function () {
   return html(_templateObject);
 };
 },{"choo/html":11}],39:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions">our API</a> \u2728.</p>\n  </div>\n\n  '], ['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions">our API</a> \u2728.</p>\n  </div>\n\n  ']);
+var _templateObject = _taggedTemplateLiteral(['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions" data-no-routing>our API</a> \u2728.</p>\n  </div>\n\n  '], ['\n\n  <div id="main-content">\n    <h1>Open retractions</h1>\n    <h2>Check whether any journal article has been retracted</h2>\n    ', '\n    ', '\n    <p id="api-link">If you like this tool, maybe you\'ll want to use \u2728 <a href="https://github.com/fathomlabs/open-retractions" data-no-routing>our API</a> \u2728.</p>\n  </div>\n\n  ']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3658,7 +3659,7 @@ module.exports = function (state, emit) {
   return html(_templateObject, require('./search')(state, emit), require('./result')(state, emit));
 };
 },{"./result":40,"./search":41,"choo":12,"choo/html":11}],40:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Publisher: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update URL: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Publisher: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update URL: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    ']),
+var _templateObject = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    ']),
     _templateObject2 = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <h2>\u2728 Not retracted \u2728</h2>\n      <p id="result-msg">No retraction has been registered for this paper.</p>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <h2>\u2728 Not retracted \u2728</h2>\n      <p id="result-msg">No retraction has been registered for this paper.</p>\n    </div>\n\n    ']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
@@ -3673,13 +3674,13 @@ module.exports = function (state, emit) {
   } else if (state.result) {
     var msg = state.result.retracted ? '‼️ This article has been retracted ‼️' : 'This article has not been retracted, but has an update you should be aware of';
 
-    return html(_templateObject, msg, result.title, result.journal, result.publisher, result.url, result.url, result.updateurl, result.updateurl, result.update, result.jsonpath);
+    return html(_templateObject, msg, result.title, result.journal, result.url, result.url, result.update, result.jsonpath);
   } else {
     return html(_templateObject2);
   }
 };
 },{"./error":38,"choo/html":11}],41:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI, PubMed ID, or PMCID"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  '], ['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI, PubMed ID, or PMCID"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  ']),
+var _templateObject = _taggedTemplateLiteral(['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  '], ['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  ']),
     _templateObject2 = _taggedTemplateLiteral(['<button id="search-submit">\u279C</button>'], ['<button id="search-submit">\u279C</button>']),
     _templateObject3 = _taggedTemplateLiteral(['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n      ', '\n    </div>\n  </div>\n\n  '], ['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n      ', '\n    </div>\n  </div>\n\n  ']),
     _templateObject4 = _taggedTemplateLiteral(['<div id="search-wrapper">', '</div>'], ['<div id="search-wrapper">', '</div>']);

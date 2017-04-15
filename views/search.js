@@ -6,7 +6,7 @@ module.exports = (state, emit) => {
   <input
     id="search-input"
     type="search"
-    placeholder="enter DOI, PubMed ID, or PMCID"
+    placeholder="enter DOI"
     autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
   >
 
