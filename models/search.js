@@ -1,18 +1,18 @@
 const fetch = require('isomorphic-fetch')
 const BASE_URL = 'http://openretractions.com/api'
 
-const url = query => `${BASE_URL}/${query}.json`
+const url = query => `${BASE_URL}/${query}/data.json`
 
 const querybuilder = query => {
-  if (/^10.+\//.test(query)) {
+  if (/^.+\/.+$/.test(query)) {
     // it's a DOI
     return `doi/${query}`
-  } else if (/$PMC/.test(query)) {
-    // it's a PubMedCentral ID
-    return `pmc/${query}`
-  } else if (/^[0-9]+$/.test(query)) {
-    // it's at least plausibly a PubMed ID
-    return `pubmed/${query}`
+  // } else if (/$PMC/.test(query)) {
+  //   // it's a PubMedCentral ID
+  //   return `pmc/${query}`
+  // } else if (/^[0-9]+$/.test(query)) {
+  //   // it's at least plausibly a PubMed ID
+  //   return `pubmed/${query}`
   } else {
     // wtf is it?
     return null
@@ -54,6 +54,7 @@ module.exports = (state, bus) => {
   const noresult = () => bus.emit('noresult')
 
   const search = query => {
+    clear()
     const querypath = querybuilder(query.trim())
 
     if (!querypath) return badinput()

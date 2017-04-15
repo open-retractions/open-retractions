@@ -17,9 +17,7 @@ module.exports = (state, emit) => {
       <ul>
         <li>Title: <strong>${result.title}</strong></li>
         <li>Journal: <strong>${result.journal}</strong></li>
-        <li>Publisher: <strong>${result.publisher}</strong></li>
         <li>Article link: <strong><a href="${result.url}">${result.url}</a></strong></li>
-        <li>Update URL: <strong><a href="${result.updateurl}">${result.updateurl}</a></strong></li>
         <li>Update: <strong>${result.update}</strong></li>
       </ul>
       <p><a href="${result.jsonpath}" data-no-routing>Download this result as JSON</a></p>

@@ -9,7 +9,7 @@ module.exports = (state, emit) => {
     <h2>Check whether any journal article has been retracted</h2>
     ${require('./search')(state, emit)}
     ${require('./result')(state, emit)}
-    <p id="api-link">If you like this tool, maybe you'll want to use ✨ <a href="https://github.com/fathomlabs/open-retractions">our API</a> ✨.</p>
+    <p id="api-link">If you like this tool, maybe you'll want to use ✨ <a href="https://github.com/fathomlabs/open-retractions" data-no-routing>our API</a> ✨.</p>
   </div>
 
   `
