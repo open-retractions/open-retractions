@@ -4,9 +4,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE" alt="MIT license"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" /></a>&nbsp;
+  <a href="https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE" alt="MIT license">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" />
+  </a>&nbsp;
   <a href="http://fathomlabs.io" target="_blank">
-  <img src="https://img.shields.io/badge/made_with-❤️💛💚💙💜💖-e6e6e6.svg?style=flat-square" /></a>
+    <img src="https://img.shields.io/badge/made_with-❤️💛💚💙💜💖-e6e6e6.svg?style=flat-square" />
+  </a>
 </div>
 
 Use the [web-tool](http://openretractions.com) to check whether a paper has been retracted.
@@ -27,3 +30,9 @@ curl http://openretractions.com/api/doi/10.7860/JCDR/2013/4833.2724/data.json | 
   "update": "retracted"
 }
 ```
+
+## copyright and licenses
+
+**The code** in this repository is released under the [MIT license](https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE).
+
+**The data** are factual and therefore not subject to copyright. To the extent that we have accrued any rights to the data (such as compilation, arrangement and presentation rights), we waive those rights to the extent permitted by law, and place all such works in the public domain. Specifically, we do so using the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
