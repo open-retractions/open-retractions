@@ -8,6 +8,7 @@ module.exports = (state, emit) => {
     type="search"
     placeholder="enter DOI"
     autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+    value="${state.query || ''}"
   >
 
   `

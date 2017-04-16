@@ -4,7 +4,7 @@
   "description": "An API and web interface to check whether a paper has been retracted",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node app/build.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,8 @@
   },
   "devDependencies": {
     "browserify": "^14.3.0",
-    "es2020": "^1.1.9"
+    "es2020": "^1.1.9",
+    "uglifyify": "^3.0.4",
+    "yo-yoify": "^3.7.0"
   }
 }

@@ -82,7 +82,6 @@ input:-moz-placeholder {
 #result-wrapper {
   margin-top: 40px;
   box-sizing: border-box;
-  border: 1px solid #f936b2;
   padding: 30px;
   border-radius: 5px;
   text-align: center;
@@ -97,6 +96,7 @@ input:-moz-placeholder {
 }
 
 .error {
+  margin-top: 40px;
   box-sizing: border-box;
   padding: 30px;
   color: red;

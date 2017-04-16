@@ -41,7 +41,7 @@ module.exports = (state, emit) => {
 
     <div id="result-wrapper">
       <h2>✨ Not retracted ✨</h2>
-      <p>No retraction has been registered for this paper.</p>
+      <p id="result-msg">No retraction has been registered for this paper.</p>
     </div>
 
     `
