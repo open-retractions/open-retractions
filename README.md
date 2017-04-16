@@ -34,6 +34,36 @@ curl http://openretractions.com/api/doi/10.7860/JCDR/2013/4833.2724/data.json | 
 }
 ```
 
+## openretraction response format
+
+If the paper has no recorded update in the database, the API will return a 404 (not found) error.
+
+If there's a recorded update, the API will return a JSON object.
+
+If the paper was retracted, the `retracted` field will be `true`. If the field is false, it means a non-retraction update to the paper was recorded by the publisher. This could be:
+
+- a correction or erratum
+- an expression of concern
+- a withdrawal
+
+Here's an example JSON response that shows the full format of an openretraction JSON response:
+
+```json
+{
+  "retracted": false,  // whether or not the paper has been retracted
+  "timestamp": 1361836800000, // the UNIXtime when the original paper was published
+  "update": {
+    "timestamp": 1491464002919, // the UNIXtime when the update was recorded
+    "doi": "10.1002/job.1858", // the DOI of the update
+    "type": "correction" // the publisher's description of the update
+  },
+  "doi": "10.1002/job.1787", // the DOI of the original paper
+  "journal": "Journal of Organizational Behavior",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: Cognitive and affective identification: Exploring the links between different forms of social identification and personality with work attitudes and behavior"
+}
+```
+
 ## credits
 
 - The web app is built with [choo](https://github.com/yoshuawuyts/choo) :steam_locomotive::train::train::train::train: by [@yoshuawuyts](https://github.com/yoshuawuyts) - we really :heart: choo.
