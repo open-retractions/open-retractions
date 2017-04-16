@@ -5,7 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE" alt="MIT license">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" />
+    <img src="https://img.shields.io/badge/code_license-MIT-green.svg?style=flat-square" />
+  </a>&nbsp;
+  <a href="https://github.com/fathomlabs/crossref-cli/blob/master/api/LICENSE" alt="MIT license">
+    <img src="https://img.shields.io/badge/data-public_domain_(CC0_v1.0)-yellow.svg?style=flat-square" />
   </a>&nbsp;
   <a href="http://fathomlabs.io" target="_blank">
     <img src="https://img.shields.io/badge/made_with-❤️💛💚💙💜💖-e6e6e6.svg?style=flat-square" />
