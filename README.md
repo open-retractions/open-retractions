@@ -31,6 +31,14 @@ curl http://openretractions.com/api/doi/10.7860/JCDR/2013/4833.2724/data.json | 
 }
 ```
 
+## credits
+
+- The web app is built with [choo](https://github.com/yoshuawuyts/choo) by @yoshuawuyts - we really <3 choo.
+- The data currently comes from:
+  - the [PubMed API](https://www.ncbi.nlm.nih.gov/home/develop/api.shtml), using [bionode-ncbi](https://github.com/bionode/bionode-ncbi)
+  - the [CrossRef API](http://api.crossref.org), using [crossref-retractions](https://github.com/fathomlabs/crossref-retractions)
+- We use [jq](https://github.com/stedolan/jq) by @stedolan a lot for manipulating streams of JSON data.
+
 ## copyright and licenses
 
 **The code** in this repository is released under the [MIT license](https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE).
