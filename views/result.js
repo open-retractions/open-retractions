@@ -13,14 +13,26 @@ module.exports = (state, emit) => {
     return html`
 
     <div id="result-wrapper">
-      <p id="result-msg">${msg}</p>
-      <ul>
-        <li>Title: <strong>${state.result.title}</strong></li>
-        <li>Journal: <strong>${state.result.journal}</strong></li>
-        <li>Article link: <strong><a href="${state.result.url}">${state.result.url}</a></strong></li>
-        <li>Update: <strong>${state.result.update}</strong></li>
-      </ul>
-      <p><a href="${state.result.jsonpath}" data-no-routing>Download this result as JSON</a></p>
+      <h2 id="result-msg">${msg}</h2>
+      <div class="datagrid">
+        <table>
+          <tfoot>
+            <tr>
+              <td colspan="2">
+                <div id="no-paging">
+                  <a href="${state.result.jsonpath}" data-no-routing>Download this result as JSON</a>
+                </div>
+              </td>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr><td class="field">Title:</td><td>${state.result.title}</td></tr>
+            <tr><td class="field">Journal:</td><td>${state.result.journal}</td></tr>
+            <tr><td class="field">Article link:</td><td><a href="${state.result.url}">${state.result.url}</a></td></tr>
+            <tr><td class="field">Update:</td><td>${state.result.update}</td></tr>
+          </tbody>
+        </table>
+      </div>
     </div>
 
     `

@@ -36,14 +36,14 @@ h2 {
 }
 
 #search-input {
-  display: inline-block;
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
+  display: block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: b;
+  box-sizing: b;
   opacity: 0.8;
-  width: 70%;
+  width: 100%;
   height: 60px;
-  padding: 0px 46px 0px 40px;
+  padding: 0px 20px 0px 40px;
   border-color: #4286f4;
   border-radius: 31px;
   border-style: solid;
@@ -57,37 +57,13 @@ h2 {
   color: #333;
 }
 
-#search-submit {
-  opacity: 0.8;
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  padding: 0;
-  border: none;
-  margin-top: 5vw;
-  margin-bottom: 5vw;
-  margin-right: 5px;
-  background: transparent;
-  color: #4286f4;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 40px;
-  line-height: 60px;
-  outline: none;
-}
-
 #search-input:focus {
   outline: none;
-  border-width: 3px;
   opacity: 0.99;
 }
 
 #search-input:focus#search-submit {
   opacity: 0.99;
-}
-
-#search-submit:hover {
-  opacity: 0.99;
-  cursor: pointer;
 }
 
 ::-webkit-input-placeholder {
@@ -104,6 +80,7 @@ input:-moz-placeholder {
 }
 
 #result-wrapper {
+  margin-top: 40px;
   box-sizing: border-box;
   border: 1px solid #f936b2;
   padding: 30px;
@@ -115,6 +92,10 @@ input:-moz-placeholder {
   color: #f936b2;
 }
 
+#result-msg {
+  color: #333;
+}
+
 .error {
   box-sizing: border-box;
   padding: 30px;
@@ -123,4 +104,49 @@ input:-moz-placeholder {
   border-radius: 5px;
   font-size: 1.2em;
   text-align: center;
+}
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+.datagrid {
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #333333;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.datagrid table td,
+.datagrid table th {
+    padding: 10px 10px;
+}
+.datagrid table tbody td {
+    color: #333333;
+    border-left: 5px solid #E1EEF4;
+    font-size: 16px;
+    font-weight: normal;
+}
+.datagrid table tbody td:first-child {
+    border-left: none;
+}
+.datagrid table tbody tr:last-child td {
+    border-bottom: none;
+}
+.datagrid table tfoot td div {
+    border-top: 1px solid #333333;
+    background: #FFFFFF;
+}
+.datagrid table tfoot td {
+    padding: 0;
+    font-size: 12px
+}
+.datagrid table tfoot td div {
+    padding: 10px;
+}
+
+.field {
+  text-align: right;
 }

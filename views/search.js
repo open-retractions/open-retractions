@@ -19,16 +19,11 @@ module.exports = (state, emit) => {
 
   input.onkeypress = e => { if (e.keyCode === 13) search(e) }
 
-  const btn = html`<button id="search-submit">➜</button>`
-
-  btn.onclick = search
-
   const form = html`
 
   <div id="search-form">
     <div id="input-wrapper">
       ${input}
-      ${btn}
     </div>
   </div>
 

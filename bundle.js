@@ -1808,9 +1808,6 @@ Nanologger.prototype._pad = function (str) {
 },{}],23:[function(require,module,exports){
 var assert = require('assert')
 var morph = require('./lib/morph')
-var rootLabelRegex = /^data-onloadid/
-
-var ELEMENT_NODE = 1
 
 module.exports = nanomorph
 
@@ -1830,8 +1827,6 @@ module.exports = nanomorph
 function nanomorph (oldTree, newTree) {
   assert.equal(typeof oldTree, 'object', 'nanomorph: oldTree should be an object')
   assert.equal(typeof newTree, 'object', 'nanomorph: newTree should be an object')
-
-  persistStatefulRoot(newTree, oldTree)
   var tree = walk(newTree, oldTree)
   return tree
 }
@@ -1882,20 +1877,6 @@ function updateChildren (newNode, oldNode) {
     } else if (retChildNode !== oldChildNode) {
       oldNode.replaceChild(retChildNode, oldChildNode)
       iNew--
-    }
-  }
-}
-
-function persistStatefulRoot (newNode, oldNode) {
-  if (!newNode || !oldNode || oldNode.nodeType !== ELEMENT_NODE || newNode.nodeType !== ELEMENT_NODE) return
-  var oldAttrs = oldNode.attributes
-  var attr, name
-  for (var i = 0, len = oldAttrs.length; i < len; i++) {
-    attr = oldAttrs[i]
-    name = attr.name
-    if (rootLabelRegex.test(name)) {
-      newNode.setAttribute(name, attr.value)
-      break
     }
   }
 }
@@ -2062,7 +2043,7 @@ function updateInput (newNode, oldNode) {
   } else if (newValue !== oldValue) {
     oldNode.setAttribute('value', newValue)
     oldNode.value = newValue
-  } else if (oldNode.type === 'range') {
+  } else {
     // this is so elements like slider move their UI thingy
     oldNode.value = newValue
   }
@@ -3659,7 +3640,7 @@ module.exports = function (state, emit) {
   return html(_templateObject, require('./search')(state, emit), require('./result')(state, emit));
 };
 },{"./result":40,"./search":41,"choo":12,"choo/html":11}],40:[function(require,module,exports){
-var _templateObject = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <p id="result-msg">', '</p>\n      <ul>\n        <li>Title: <strong>', '</strong></li>\n        <li>Journal: <strong>', '</strong></li>\n        <li>Article link: <strong><a href="', '">', '</a></strong></li>\n        <li>Update: <strong>', '</strong></li>\n      </ul>\n      <p><a href="', '" data-no-routing>Download this result as JSON</a></p>\n    </div>\n\n    ']),
+var _templateObject = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <h2 id="result-msg">', '</h2>\n      <div class="datagrid">\n        <table>\n          <tfoot>\n            <tr>\n              <td colspan="2">\n                <div id="no-paging">\n                  <a href="', '" data-no-routing>Download this result as JSON</a>\n                </div>\n              </td>\n            </tr>\n          </tfoot>\n          <tbody>\n            <tr><td class="field">Title:</td><td>', '</td></tr>\n            <tr><td class="field">Journal:</td><td>', '</td></tr>\n            <tr><td class="field">Article link:</td><td><a href="', '">', '</a></td></tr>\n            <tr><td class="field">Update:</td><td>', '</td></tr>\n          </tbody>\n        </table>\n      </div>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <h2 id="result-msg">', '</h2>\n      <div class="datagrid">\n        <table>\n          <tfoot>\n            <tr>\n              <td colspan="2">\n                <div id="no-paging">\n                  <a href="', '" data-no-routing>Download this result as JSON</a>\n                </div>\n              </td>\n            </tr>\n          </tfoot>\n          <tbody>\n            <tr><td class="field">Title:</td><td>', '</td></tr>\n            <tr><td class="field">Journal:</td><td>', '</td></tr>\n            <tr><td class="field">Article link:</td><td><a href="', '">', '</a></td></tr>\n            <tr><td class="field">Update:</td><td>', '</td></tr>\n          </tbody>\n        </table>\n      </div>\n    </div>\n\n    ']),
     _templateObject2 = _taggedTemplateLiteral(['\n\n    <div id="result-wrapper">\n      <h2>\u2728 Not retracted \u2728</h2>\n      <p id="result-msg">No retraction has been registered for this paper.</p>\n    </div>\n\n    '], ['\n\n    <div id="result-wrapper">\n      <h2>\u2728 Not retracted \u2728</h2>\n      <p id="result-msg">No retraction has been registered for this paper.</p>\n    </div>\n\n    ']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
@@ -3674,16 +3655,15 @@ module.exports = function (state, emit) {
   } else if (state.result) {
     var msg = state.result.retracted ? '‼️ This article has been retracted ‼️' : 'This article has not been retracted, but has an update you should be aware of';
 
-    return html(_templateObject, msg, state.result.title, state.result.journal, state.result.url, state.result.url, state.result.update, state.result.jsonpath);
+    return html(_templateObject, msg, state.result.jsonpath, state.result.title, state.result.journal, state.result.url, state.result.url, state.result.update);
   } else {
     return html(_templateObject2);
   }
 };
 },{"./error":38,"choo/html":11}],41:[function(require,module,exports){
 var _templateObject = _taggedTemplateLiteral(['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  '], ['\n\n  <input\n    id="search-input"\n    type="search"\n    placeholder="enter DOI"\n    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"\n  >\n\n  ']),
-    _templateObject2 = _taggedTemplateLiteral(['<button id="search-submit">\u279C</button>'], ['<button id="search-submit">\u279C</button>']),
-    _templateObject3 = _taggedTemplateLiteral(['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n      ', '\n    </div>\n  </div>\n\n  '], ['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n      ', '\n    </div>\n  </div>\n\n  ']),
-    _templateObject4 = _taggedTemplateLiteral(['<div id="search-wrapper">', '</div>'], ['<div id="search-wrapper">', '</div>']);
+    _templateObject2 = _taggedTemplateLiteral(['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n    </div>\n  </div>\n\n  '], ['\n\n  <div id="search-form">\n    <div id="input-wrapper">\n      ', '\n    </div>\n  </div>\n\n  ']),
+    _templateObject3 = _taggedTemplateLiteral(['<div id="search-wrapper">', '</div>'], ['<div id="search-wrapper">', '</div>']);
 
 function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -3701,12 +3681,8 @@ module.exports = function (state, emit) {
     if (e.keyCode === 13) search(e);
   };
 
-  var btn = html(_templateObject2);
+  var form = html(_templateObject2, input);
 
-  btn.onclick = search;
-
-  var form = html(_templateObject3, input, btn);
-
-  return html(_templateObject4, form);
+  return html(_templateObject3, form);
 };
 },{"choo/html":11}]},{},[2]);
