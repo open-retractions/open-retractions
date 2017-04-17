@@ -5,6 +5,7 @@ const path = require('path')
 const pumpify = require('pumpify')
 const through = require('through2')
 const retractions = require('crossref-retractions')
+const arraysplitter = require('array-split-stream')
 const formatter = require('crossref-to-retraction')
 const writedoi = require('./writedoi')
 
@@ -33,6 +34,7 @@ try {
 
 pumpify(
   retractions(),
+  arraysplitter(),
   formatter.stream(),
   writedoi()
 )

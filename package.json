@@ -25,6 +25,7 @@
     "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
+    "array-split-stream": "0.0.1",
     "browserify": "^14.3.0",
     "es2020": "^1.1.9",
     "fs-extra": "^2.1.2",
