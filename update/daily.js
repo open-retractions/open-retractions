@@ -34,7 +34,7 @@ try {
 
 pumpify(
   retractions(),
-  arraysplitter(),
+//  arraysplitter(),
   through.obj((data, enc, done) => {
     console.log('got record', data.DOI)
     done(null, data)
