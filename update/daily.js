@@ -35,6 +35,10 @@ try {
 pumpify(
   retractions(),
   arraysplitter(),
+  through.obj((data, enc, done) => {
+    console.log('got record', data.DOI)
+    done(null, data)
+  },
   formatter.stream(),
   writedoi()
 )
