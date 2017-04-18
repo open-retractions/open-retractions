@@ -35,7 +35,7 @@ module.exports = (state, emit) => {
             <tr><td class="field">Update DOI:</td><td>${state.result.update.doi}</td></tr>
             <tr><td class="field">Update link:</td><td><a href="http://doi.org/${state.result.update.doi}">http://doi.org/${state.result.update.doi}</a></td></tr>
             <tr><td class="field">Update type:</td><td>${state.result.update.type}</td></tr>
-            <tr><td class="field">Update date:</td><td>${(new Date(state.result.update.timestamp * 1000)).toLocaleString()}</td></tr>
+            <tr><td class="field">Update date:</td><td>${(new Date(state.result.update.timestamp)).toLocaleString()}</td></tr>
           </tbody>
         </table>
       </div>
