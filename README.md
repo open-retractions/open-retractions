@@ -25,17 +25,10 @@ Use the [web-tool](http://openretractions.com) to check whether a paper has been
 
 To query the API, simply `GET` `http://openretractions.com/api/doi/${doi}/data.json`.
 
-For example:
+e.g.:
 
 ```bash
-curl http://openretractions.com/api/doi/10.7860/JCDR/2013/4833.2724/data.json | jq
-{
-  "retracted": true,
-  "title": "A prevalence of thyroid disorder in Western part of Nepal.",
-  "url": "http://doi.org/10.7860/JCDR/2013/4833.2724",
-  "journal": "Journal of clinical and diagnostic research : JCDR",
-  "update": "retracted"
-}
+curl http://openretractions.com/api/doi/10.1002/job.1787/data.json
 ```
 
 ## openretraction response format
@@ -50,7 +43,9 @@ If the paper was retracted, the `retracted` field will be `true`. If the field i
 - an expression of concern
 - a withdrawal
 
-Here's an example JSON response that shows the full format of an openretraction JSON response:
+In some cases, publishers mis-label retractions as other updates. It is therefore best to follow the update link to check the full statement about any update.
+
+Here's an example JSON response that shows the full format:
 
 ```js
 {
