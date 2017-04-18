@@ -149,4 +149,5 @@ input:-moz-placeholder {
 
 .field {
   text-align: right;
+  min-width: 100px;
 }
