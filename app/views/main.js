@@ -10,7 +10,7 @@ module.exports = (state, emit) => {
     ${require('./search')(state, emit)}
     ${require('./result')(state, emit)}
     <p id="api-link">If you like this tool, maybe you'll want to use ✨ <a href="https://github.com/fathomlabs/open-retractions" data-no-routing>our API</a> ✨.</p>
-    <p>* note: we only know about retractions and other updates that publishers have properly reported to CrossRef or PubMed</p>
+    <p>* we only know about retractions and other updates that publishers have properly reported to CrossRef or PubMed. That's currently 45,488 papers.</p>
   </div>
 
   `
