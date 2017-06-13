@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1007/s12614-015-5743-3","type":"correction"},"doi":"10.1007/s12614-015-5445-x","journal":"Der Freie Zahnarzt","publisher":"Springer Nature","title":"Erratum zu: Plastische Parodontalchirurgie"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496003297052,
+      "identifier": {
+        "doi": "10.1007/s12614-015-5743-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12614-015-5445-x"
+  },
+  "journal": "Der Freie Zahnarzt",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Plastische Parodontalchirurgie"
+}

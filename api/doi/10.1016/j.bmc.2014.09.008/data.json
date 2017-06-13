@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bmc.2015.02.024","type":"err"},"doi":"10.1016/j.bmc.2014.09.008","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Structure-guided design and development of novel benzimidazole class of compounds targeting DNA gyraseB enzyme of Staphylococcus aureus” [Bioorg. Med. Chem. 22 (2014) 5970–5987]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496047954884,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.02.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2014.09.008"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structure-guided design and development of novel benzimidazole class of compounds targeting DNA gyraseB enzyme of Staphylococcus aureus” [Bioorg. Med. Chem. 22 (2014) 5970–5987]"
+}

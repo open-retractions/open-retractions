@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.cap.2013.04.004","type":"err"},"doi":"10.1016/j.cap.2012.12.014","journal":"Current Applied Physics","publisher":"Elsevier BV","title":"Erratum to “ZnO-treated TiO2 inverse opal electrodes for dye-sensitized solar cells” [Curr. Appl. Phys. (July 2013) 841–845]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496015340482,
+      "identifier": {
+        "doi": "10.1016/j.cap.2013.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cap.2012.12.014"
+  },
+  "journal": "Current Applied Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “ZnO-treated TiO2 inverse opal electrodes for dye-sensitized solar cells” [Curr. Appl. Phys. (July 2013) 841–845]"
+}

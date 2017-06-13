@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466035200000,"doi":"10.1016/j.molcel.2016.06.005","type":"err"},"doi":"10.1016/j.molcel.2016.04.025","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Impairment of DNA Methylation Maintenance Is the Main Cause of Global Demethylation in Naive Embryonic Stem Cells"}
+{
+  "retracted": false,
+  "timestamp": 1466035200000,
+  "updates": [
+    {
+      "timestamp": 1497026583501,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.04.025"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Impairment of DNA Methylation Maintenance Is the Main Cause of Global Demethylation in Naive Embryonic Stem Cells"
+}

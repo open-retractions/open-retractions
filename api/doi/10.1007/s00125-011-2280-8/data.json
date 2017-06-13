@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1318377600000,"doi":"10.1007/s00125-011-2321-3","type":"correction"},"doi":"10.1007/s00125-011-2280-8","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Methylglyoxal impairs insulin signalling and insulin action on glucose-induced insulin secretion in the pancreatic beta cell line INS-1E"}
+{
+  "retracted": false,
+  "timestamp": 1318377600000,
+  "updates": [
+    {
+      "timestamp": 1495816963969,
+      "identifier": {
+        "doi": "10.1007/s00125-011-2321-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-011-2280-8"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Methylglyoxal impairs insulin signalling and insulin action on glucose-induced insulin secretion in the pancreatic beta cell line INS-1E"
+}

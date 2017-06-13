@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411084800000,"doi":"10.1016/j.jhydrol.2014.05.018","type":"err"},"doi":"10.1016/j.jhydrol.2014.03.070","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Transport of dissolved carbon and CO2 degassing from a river system in a mixed silicate and carbonate catchment” [J. Hydrol. 513 (2014) 391–402]"}
+{
+  "retracted": false,
+  "timestamp": 1411084800000,
+  "updates": [
+    {
+      "timestamp": 1496042455269,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2014.05.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2014.03.070"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Transport of dissolved carbon and CO2 degassing from a river system in a mixed silicate and carbonate catchment” [J. Hydrol. 513 (2014) 391–402]"
+}

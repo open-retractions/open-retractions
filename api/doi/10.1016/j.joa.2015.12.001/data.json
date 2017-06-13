@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.joa.2016.08.001","type":"err"},"doi":"10.1016/j.joa.2015.12.001","journal":"Journal of Arrhythmia","publisher":"Elsevier BV","title":"Erratum to ‘2015 HRS/EHRA/APHRS/SOLAECE expert consensus statement on optimal implantable cardioverter-deﬁbrillator programming and testing’ [Journal of Arrhythmia 32/1 (2016) 1–28]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495641667021,
+      "identifier": {
+        "doi": "10.1016/j.joa.2016.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joa.2015.12.001"
+  },
+  "journal": "Journal of Arrhythmia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘2015 HRS/EHRA/APHRS/SOLAECE expert consensus statement on optimal implantable cardioverter-deﬁbrillator programming and testing’ [Journal of Arrhythmia 32/1 (2016) 1–28]"
+}

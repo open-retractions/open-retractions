@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1007/s12544-016-0192-x","type":"correction"},"doi":"10.1007/s12544-015-0162-8","journal":"European Transport Research Review","publisher":"Springer Nature","title":"Erratum to: Spectral density estimation of European airlines load factors for Europe-Middle East and Europe-Far East flights"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1495640422166,
+      "identifier": {
+        "doi": "10.1007/s12544-016-0192-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12544-015-0162-8"
+  },
+  "journal": "European Transport Research Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spectral density estimation of European airlines load factors for Europe-Middle East and Europe-Far East flights"
+}

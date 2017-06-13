@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1016/j.scriptamat.2016.12.007","type":"erratum"},"doi":"10.1016/j.scriptamat.2016.07.020","journal":"Scripta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “High temperature viscosity of calcium-magnesium-aluminosilicate glass from synthetic sand” [Scripta Mater. 124 (2016) 189–192]"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495666775122,
+      "identifier": {
+        "doi": "10.1016/j.scriptamat.2016.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scriptamat.2016.07.020"
+  },
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “High temperature viscosity of calcium-magnesium-aluminosilicate glass from synthetic sand” [Scripta Mater. 124 (2016) 189–192]"
+}

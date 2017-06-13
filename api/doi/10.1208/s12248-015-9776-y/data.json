@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477008000000,"doi":"10.1208/s12248-016-0005-0","type":"correction"},"doi":"10.1208/s12248-015-9776-y","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Computational Advances for the Development of Allosteric Modulators and Bitopic Ligands in G Protein-Coupled Receptors"}
+{
+  "retracted": false,
+  "timestamp": 1477008000000,
+  "updates": [
+    {
+      "timestamp": 1495650880468,
+      "identifier": {
+        "doi": "10.1208/s12248-016-0005-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-015-9776-y"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Computational Advances for the Development of Allosteric Modulators and Bitopic Ligands in G Protein-Coupled Receptors"
+}

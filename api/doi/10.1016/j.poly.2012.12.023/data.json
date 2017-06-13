@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385596800000,"doi":"10.1016/j.poly.2013.08.043","type":"err"},"doi":"10.1016/j.poly.2012.12.023","journal":"Polyhedron","publisher":"Elsevier BV","title":"Erratum to Synthesis, characterization, aggregation, flourescence, electrical and thermal properties of novel octasubstituted metal-free and metallophthalocyanines [Polyhedron 51 (2013) 142–155]"}
+{
+  "retracted": false,
+  "timestamp": 1385596800000,
+  "updates": [
+    {
+      "timestamp": 1496046011260,
+      "identifier": {
+        "doi": "10.1016/j.poly.2013.08.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.poly.2012.12.023"
+  },
+  "journal": "Polyhedron",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to Synthesis, characterization, aggregation, flourescence, electrical and thermal properties of novel octasubstituted metal-free and metallophthalocyanines [Polyhedron 51 (2013) 142–155]"
+}

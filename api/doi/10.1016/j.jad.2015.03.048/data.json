@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jad.2015.05.050","type":"err"},"doi":"10.1016/j.jad.2015.03.048","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Corrigendum: The effect of poor sleep quality on mood outcome differs between men and women: A longitudinal study of bipolar disorder"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496009400825,
+      "identifier": {
+        "doi": "10.1016/j.jad.2015.05.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2015.03.048"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum: The effect of poor sleep quality on mood outcome differs between men and women: A longitudinal study of bipolar disorder"
+}

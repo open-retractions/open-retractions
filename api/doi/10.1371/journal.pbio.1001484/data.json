@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362441600000,"doi":"10.1371/annotation/4a8d9f38-1d0d-4389-a284-9f2564e1ac0b","type":"correction"},"doi":"10.1371/journal.pbio.1001484","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Which Came First, the Head or the Brain?"}
+{
+  "retracted": false,
+  "timestamp": 1362441600000,
+  "updates": [
+    {
+      "timestamp": 1496003935077,
+      "identifier": {
+        "doi": "10.1371/annotation/4a8d9f38-1d0d-4389-a284-9f2564e1ac0b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1001484"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Which Came First, the Head or the Brain?"
+}

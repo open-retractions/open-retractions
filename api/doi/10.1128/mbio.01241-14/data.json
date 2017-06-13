@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.1128/mbio.01575-14","type":"correction"},"doi":"10.1128/mbio.01241-14","journal":"mBio","publisher":"American Society for Microbiology","title":"Erratum for Yeruva et al., Early MicroRNA Expression Profile as a Prognostic Biomarker for the Development of Pelvic Inflammatory Disease in a Mouse Model of Chlamydial Genital Infection"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1495994787827,
+      "identifier": {
+        "doi": "10.1128/mbio.01575-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mbio.01241-14"
+  },
+  "journal": "mBio",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Yeruva et al., Early MicroRNA Expression Profile as a Prognostic Biomarker for the Development of Pelvic Inflammatory Disease in a Mouse Model of Chlamydial Genital Infection"
+}

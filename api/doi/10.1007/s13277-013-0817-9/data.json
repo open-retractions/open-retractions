@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1007/s13277-013-1436-1","type":"correction"},"doi":"10.1007/s13277-013-0817-9","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Prognostication of OCT4 isoform expression in prostate cancer"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496001904774,
+      "identifier": {
+        "doi": "10.1007/s13277-013-1436-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-013-0817-9"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prognostication of OCT4 isoform expression in prostate cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.atherosclerosis.2016.05.006","type":"err"},"doi":"10.1016/j.atherosclerosis.2014.03.001","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Modest alcohol consumption and carotid plaques or carotid artery stenosis in men with non-alcoholic fatty liver disease” [Atherosclerosis 234 (2) (2014) 270–275]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495675402999,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2016.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2014.03.001"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modest alcohol consumption and carotid plaques or carotid artery stenosis in men with non-alcoholic fatty liver disease” [Atherosclerosis 234 (2) (2014) 270–275]"
+}

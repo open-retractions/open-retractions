@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359417600000,"doi":"10.1371/annotation/e3163ad5-f3d8-4a21-b3e1-f2033a76f9db","type":"correction"},"doi":"10.1371/journal.pone.0043418","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inhibitory Effect of mTOR Activator MHY1485 on Autophagy: Suppression of Lysosomal Fusion"}
+{
+  "retracted": false,
+  "timestamp": 1359417600000,
+  "updates": [
+    {
+      "timestamp": 1495994486076,
+      "identifier": {
+        "doi": "10.1371/annotation/e3163ad5-f3d8-4a21-b3e1-f2033a76f9db"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0043418"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inhibitory Effect of mTOR Activator MHY1485 on Autophagy: Suppression of Lysosomal Fusion"
+}

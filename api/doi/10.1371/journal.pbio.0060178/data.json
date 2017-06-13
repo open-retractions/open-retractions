@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243987200000,"doi":"10.1371/annotation/2177fe97-a5bc-45d5-8fa9-5c3639dda4f3","type":"correction"},"doi":"10.1371/journal.pbio.0060178","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Proteomics Reveals Novel Drosophila Seminal Fluid Proteins Transferred at Mating"}
+{
+  "retracted": false,
+  "timestamp": 1243987200000,
+  "updates": [
+    {
+      "timestamp": 1496025196342,
+      "identifier": {
+        "doi": "10.1371/annotation/2177fe97-a5bc-45d5-8fa9-5c3639dda4f3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0060178"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Proteomics Reveals Novel Drosophila Seminal Fluid Proteins Transferred at Mating"
+}

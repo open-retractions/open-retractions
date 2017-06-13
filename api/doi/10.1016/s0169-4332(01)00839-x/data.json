@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.apsusc.2015.02.145","type":"err"},"doi":"10.1016/s0169-4332(01)00839-x","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Real time observation of oxygen chemisorption states on Si(001)−2×1 during supersonic oxygen molecular beam irradiation” [Appl. Surf. Sci. 190 (2002) 60–65]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1495995821777,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2015.02.145"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0169-4332(01)00839-x"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Real time observation of oxygen chemisorption states on Si(001)−2×1 during supersonic oxygen molecular beam irradiation” [Appl. Surf. Sci. 190 (2002) 60–65]"
+}

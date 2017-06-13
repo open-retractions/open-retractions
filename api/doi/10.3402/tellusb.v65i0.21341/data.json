@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.3402/tellusb.v66.25233","type":"correction"},"doi":"10.3402/tellusb.v65i0.21341","journal":"Tellus B: Chemical and Physical Meteorology","publisher":"Informa UK Limited","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050862075,
+      "identifier": {
+        "doi": "10.3402/tellusb.v66.25233"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3402/tellusb.v65i0.21341"
+  },
+  "journal": "Tellus B: Chemical and Physical Meteorology",
+  "publisher": "Informa UK Limited",
+  "title": "ERRATUM"
+}

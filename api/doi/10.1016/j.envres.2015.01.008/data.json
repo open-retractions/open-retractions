@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.envres.2015.06.012","type":"err"},"doi":"10.1016/j.envres.2015.01.008","journal":"Environmental Research","publisher":"Elsevier BV","title":"Corrigendum to “Birth outcomes and background exposures to select elements, the Longitudinal Investigation of Fertility and the Environment (LIFE)” [Environ. Res. 138 (2015) 118–129]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496013047431,
+      "identifier": {
+        "doi": "10.1016/j.envres.2015.06.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2015.01.008"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Birth outcomes and background exposures to select elements, the Longitudinal Investigation of Fertility and the Environment (LIFE)” [Environ. Res. 138 (2015) 118–129]"
+}

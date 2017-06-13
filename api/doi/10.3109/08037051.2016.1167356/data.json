@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463443200000,"doi":"10.1080/08037051.2016.1186444","type":"correction"},"doi":"10.3109/08037051.2016.1167356","journal":"Blood Pressure","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1463443200000,
+  "updates": [
+    {
+      "timestamp": 1495677077815,
+      "identifier": {
+        "doi": "10.1080/08037051.2016.1186444"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/08037051.2016.1167356"
+  },
+  "journal": "Blood Pressure",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.cryogenics.2014.11.006","type":"err"},"doi":"10.1016/j.cryogenics.2014.02.001","journal":"Cryogenics","publisher":"Elsevier BV","title":"Corrigendum to “Modeling, development, and experimental validation of a Joule–Thompson superfluid refrigerator using a pulse tube cryocooler” [Cryogenics 61 (2014) 15–24]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496026735706,
+      "identifier": {
+        "doi": "10.1016/j.cryogenics.2014.11.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cryogenics.2014.02.001"
+  },
+  "journal": "Cryogenics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling, development, and experimental validation of a Joule–Thompson superfluid refrigerator using a pulse tube cryocooler” [Cryogenics 61 (2014) 15–24]"
+}

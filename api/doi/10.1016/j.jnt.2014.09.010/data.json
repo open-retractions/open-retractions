@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jnt.2015.02.001","type":"err"},"doi":"10.1016/j.jnt.2014.09.010","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “Subsequence sums: Direct and inverse problems” [J. Number Theory 148 (2015) 235–256]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496042983768,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2014.09.010"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Subsequence sums: Direct and inverse problems” [J. Number Theory 148 (2015) 235–256]"
+}

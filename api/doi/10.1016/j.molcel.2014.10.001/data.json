@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420675200000,"doi":"10.1016/j.molcel.2014.12.033","type":"erratum"},"doi":"10.1016/j.molcel.2014.10.001","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Redundant Mechanisms to Form Silent Chromatin at Pericentromeric Regions Rely on BEND3 and DNA Methylation"}
+{
+  "retracted": false,
+  "timestamp": 1420675200000,
+  "updates": [
+    {
+      "timestamp": 1496035438941,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2014.12.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2014.10.001"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Redundant Mechanisms to Form Silent Chromatin at Pericentromeric Regions Rely on BEND3 and DNA Methylation"
+}

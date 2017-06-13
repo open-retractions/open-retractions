@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349308800000,"doi":"10.1371/annotation/a753231a-64d0-4038-aa1e-1a31d68f70fb","type":"correction"},"doi":"10.1371/journal.pone.0046563","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Insight into the Oxidoreductase Activity of Helicobacter pylori HP0231 Protein"}
+{
+  "retracted": false,
+  "timestamp": 1349308800000,
+  "updates": [
+    {
+      "timestamp": 1495930896677,
+      "identifier": {
+        "doi": "10.1371/annotation/a753231a-64d0-4038-aa1e-1a31d68f70fb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0046563"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Insight into the Oxidoreductase Activity of Helicobacter pylori HP0231 Protein"
+}

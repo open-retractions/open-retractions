@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1080/03019233.2016.1154366","type":"correction"},"doi":"10.1179/1743281215y.0000000025","journal":"Ironmaking & Steelmaking","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495646138080,
+      "identifier": {
+        "doi": "10.1080/03019233.2016.1154366"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1743281215y.0000000025"
+  },
+  "journal": "Ironmaking & Steelmaking",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393891200000,"doi":"10.1007/s00415-014-7272-4","type":"correction"},"doi":"10.1007/s00415-013-7217-3","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Spinal hemorrhage in eosinophilic granulomatosis with polyangiitis (Churg–Strauss)"}
+{
+  "retracted": false,
+  "timestamp": 1393891200000,
+  "updates": [
+    {
+      "timestamp": 1496022272665,
+      "identifier": {
+        "doi": "10.1007/s00415-014-7272-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-013-7217-3"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spinal hemorrhage in eosinophilic granulomatosis with polyangiitis (Churg–Strauss)"
+}

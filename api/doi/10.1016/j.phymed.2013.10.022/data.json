@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.phymed.2015.01.001","type":"err"},"doi":"10.1016/j.phymed.2013.10.022","journal":"Phytomedicine","publisher":"Elsevier BV","title":"Corrigendum to ``Tectoridin from Maackia amurensis modulates both estrogen and thyroid receptors'' [Phytomedicine 21 (5) (2014) 602–606]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496034959510,
+      "identifier": {
+        "doi": "10.1016/j.phymed.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phymed.2013.10.022"
+  },
+  "journal": "Phytomedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ``Tectoridin from Maackia amurensis modulates both estrogen and thyroid receptors'' [Phytomedicine 21 (5) (2014) 602–606]"
+}

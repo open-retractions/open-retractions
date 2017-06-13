@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1136/bmj.h2321","type":"correction"},"doi":"10.1136/bmj.h2215","journal":"BMJ","publisher":"BMJ","title":"Time to end the political rhetoric on health tourism"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996757080,
+      "identifier": {
+        "doi": "10.1136/bmj.h2321"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2215"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Time to end the political rhetoric on health tourism"
+}

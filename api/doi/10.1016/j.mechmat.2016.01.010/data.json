@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.mechmat.2016.04.010","type":"err"},"doi":"10.1016/j.mechmat.2016.01.010","journal":"Mechanics of Materials","publisher":"Elsevier BV","title":"Corrigendum to Influence of the temperature on the hyper-elastic mechanical behavior of carbon black filled natural rubbers [Mechanics of Materials, 95 (2016) 136–145]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495676074891,
+      "identifier": {
+        "doi": "10.1016/j.mechmat.2016.04.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mechmat.2016.01.010"
+  },
+  "journal": "Mechanics of Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Influence of the temperature on the hyper-elastic mechanical behavior of carbon black filled natural rubbers [Mechanics of Materials, 95 (2016) 136–145]"
+}

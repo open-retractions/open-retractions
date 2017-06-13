@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429660800000,"doi":"10.1063/1.4916942","type":"correction"},"doi":"10.1063/1.4891322","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Publisher's Note: “Bi-directional Alfvén cyclotron instabilities in the mega-amp spherical tokamak” [Phys. Plasmas 21, 082501 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1429660800000,
+  "updates": [
+    {
+      "timestamp": 1496059780192,
+      "identifier": {
+        "doi": "10.1063/1.4916942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4891322"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Bi-directional Alfvén cyclotron instabilities in the mega-amp spherical tokamak” [Phys. Plasmas 21, 082501 (2014)]"
+}

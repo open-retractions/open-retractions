@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433376000000,"doi":"10.1016/j.molcel.2015.05.028","type":"err"},"doi":"10.1016/j.molcel.2015.01.018","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Limited Mitochondrial Permeabilization Causes DNA Damage and Genomic Instability in the Absence of Cell Death"}
+{
+  "retracted": false,
+  "timestamp": 1433376000000,
+  "updates": [
+    {
+      "timestamp": 1496004212269,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.05.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.01.018"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Limited Mitochondrial Permeabilization Causes DNA Damage and Genomic Instability in the Absence of Cell Death"
+}

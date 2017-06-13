@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1186/s12862-016-0725-x","type":"correction"},"doi":"10.1186/s12862-015-0428-8","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: Life habits, hox genes, and affinities of a 311 million-year-old holometabolan larva"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495740876695,
+      "identifier": {
+        "doi": "10.1186/s12862-016-0725-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12862-015-0428-8"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Life habits, hox genes, and affinities of a 311 million-year-old holometabolan larva"
+}

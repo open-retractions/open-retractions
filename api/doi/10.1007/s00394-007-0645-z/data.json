@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1177286400000,"doi":"10.1007/s00394-007-0659-6","type":"correction"},"doi":"10.1007/s00394-007-0645-z","journal":"European Journal of Nutrition","publisher":"Springer Nature","title":"Relationship between diet and anticoagulant response to warfarin"}
+{
+  "retracted": false,
+  "timestamp": 1177286400000,
+  "updates": [
+    {
+      "timestamp": 1495948388820,
+      "identifier": {
+        "doi": "10.1007/s00394-007-0659-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00394-007-0645-z"
+  },
+  "journal": "European Journal of Nutrition",
+  "publisher": "Springer Nature",
+  "title": "Relationship between diet and anticoagulant response to warfarin"
+}

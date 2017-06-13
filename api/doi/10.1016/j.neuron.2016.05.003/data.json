@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475625600000,"doi":"10.1016/j.neuron.2016.09.016","type":"erratum"},"doi":"10.1016/j.neuron.2016.05.003","journal":"Neuron","publisher":"Elsevier BV","title":"TREM2 Haplodeficiency in Mice and Humans Impairs the Microglia Barrier Function Leading to Decreased Amyloid Compaction and Severe Axonal Dystrophy"}
+{
+  "retracted": false,
+  "timestamp": 1475625600000,
+  "updates": [
+    {
+      "timestamp": 1495645437005,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.09.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2016.05.003"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "TREM2 Haplodeficiency in Mice and Humans Impairs the Microglia Barrier Function Leading to Decreased Amyloid Compaction and Severe Axonal Dystrophy"
+}

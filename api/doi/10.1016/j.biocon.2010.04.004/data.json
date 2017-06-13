@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.biocon.2014.07.001","type":"err"},"doi":"10.1016/j.biocon.2010.04.004","journal":"Biological Conservation","publisher":"Elsevier BV","title":"Corrigendum to “Predicting survival, reproduction and abundance of polar bears under climate change” [Biol. Conserv. 143 (2010) 1612–1622]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496054377113,
+      "identifier": {
+        "doi": "10.1016/j.biocon.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocon.2010.04.004"
+  },
+  "journal": "Biological Conservation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Predicting survival, reproduction and abundance of polar bears under climate change” [Biol. Conserv. 143 (2010) 1612–1622]"
+}

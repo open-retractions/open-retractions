@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441670400000,"doi":"10.1007/s10915-015-0086-4","type":"correction"},"doi":"10.1007/s10915-015-0050-3","journal":"Journal of Scientific Computing","publisher":"Springer Nature","title":"Erratum to: A Stabilized Mixed Finite Element Method for Elliptic Optimal Control Problems"}
+{
+  "retracted": false,
+  "timestamp": 1441670400000,
+  "updates": [
+    {
+      "timestamp": 1496028904616,
+      "identifier": {
+        "doi": "10.1007/s10915-015-0086-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10915-015-0050-3"
+  },
+  "journal": "Journal of Scientific Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Stabilized Mixed Finite Element Method for Elliptic Optimal Control Problems"
+}

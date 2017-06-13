@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.1016/j.jallcom.2013.11.027","type":"err"},"doi":"10.1016/j.jallcom.2013.05.001","journal":"Journal of Alloys and Compounds","publisher":"Elsevier BV","title":"Corrigendum to “Magnetic susceptibility and electron magnetic resonance study of monovalent potassium doped manganites Pr0.6Sr0.4−xKxMnO3” [J. Alloys Compd. 580 (2013) 137–142]"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1496000802593,
+      "identifier": {
+        "doi": "10.1016/j.jallcom.2013.11.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jallcom.2013.05.001"
+  },
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Magnetic susceptibility and electron magnetic resonance study of monovalent potassium doped manganites Pr0.6Sr0.4−xKxMnO3” [J. Alloys Compd. 580 (2013) 137–142]"
+}

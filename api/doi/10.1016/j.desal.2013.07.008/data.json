@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.desal.2013.09.015","type":"err"},"doi":"10.1016/j.desal.2013.07.008","journal":"Desalination","publisher":"Elsevier BV","title":"Corrigendum to “A novel forward osmosis membrane pretreatment of seawater for thermal desalination processes” [Desalination 326 (2013) 19–29]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496050945451,
+      "identifier": {
+        "doi": "10.1016/j.desal.2013.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.desal.2013.07.008"
+  },
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel forward osmosis membrane pretreatment of seawater for thermal desalination processes” [Desalination 326 (2013) 19–29]"
+}

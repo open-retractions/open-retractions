@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.buildenv.2016.09.010","type":"err"},"doi":"10.1016/j.buildenv.2016.05.015","journal":"Building and Environment","publisher":"Elsevier BV","title":"Corrigendum to “Moisture dynamics in the masonry fabric of historic buildings subjected to wind-driven rain and flooding” [BAE 104C (2016) 208–220]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495640346364,
+      "identifier": {
+        "doi": "10.1016/j.buildenv.2016.09.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.buildenv.2016.05.015"
+  },
+  "journal": "Building and Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Moisture dynamics in the masonry fabric of historic buildings subjected to wind-driven rain and flooding” [BAE 104C (2016) 208–220]"
+}

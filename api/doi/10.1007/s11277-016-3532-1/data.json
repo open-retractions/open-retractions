@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472428800000,"doi":"10.1007/s11277-016-3630-0","type":"correction"},"doi":"10.1007/s11277-016-3532-1","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: Using Improved Product-Coded Modulation Codes to Reduce the Peak-to-Average Power Ratio in Single-Carrier Frequency Division Multiple Access Systems"}
+{
+  "retracted": false,
+  "timestamp": 1472428800000,
+  "updates": [
+    {
+      "timestamp": 1495741332878,
+      "identifier": {
+        "doi": "10.1007/s11277-016-3630-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-016-3532-1"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Using Improved Product-Coded Modulation Codes to Reduce the Peak-to-Average Power Ratio in Single-Carrier Frequency Division Multiple Access Systems"
+}

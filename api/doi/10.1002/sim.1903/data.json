@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485043200000,"doi":"10.1002/sim.7231","type":"correction"},"doi":"10.1002/sim.1903","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study"}
+{
+  "retracted": false,
+  "timestamp": 1485043200000,
+  "updates": [
+    {
+      "timestamp": 1495677925431,
+      "identifier": {
+        "doi": "10.1002/sim.7231"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.1903"
+  },
+  "journal": "Statistics in Medicine",
+  "publisher": "Wiley-Blackwell",
+  "title": "Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study"
+}

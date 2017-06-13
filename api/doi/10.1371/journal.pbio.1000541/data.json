@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1291248000000,"doi":"10.1371/annotation/1c19d040-9f9f-4b9f-b678-70f1fe387192","type":"correction"},"doi":"10.1371/journal.pbio.1000541","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Pheromonal and Behavioral Cues Trigger Male-to-Female Aggression in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1291248000000,
+  "updates": [
+    {
+      "timestamp": 1496023930310,
+      "identifier": {
+        "doi": "10.1371/annotation/1c19d040-9f9f-4b9f-b678-70f1fe387192"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1000541"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Pheromonal and Behavioral Cues Trigger Male-to-Female Aggression in Drosophila"
+}

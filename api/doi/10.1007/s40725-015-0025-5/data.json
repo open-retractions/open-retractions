@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464220800000,"doi":"10.1007/s40725-016-0039-7","type":"correction"},"doi":"10.1007/s40725-015-0025-5","journal":"Current Forestry Reports","publisher":"Springer Nature","title":"Erratum to: Terrestrial Laser Scanning for Plot-Scale Forest Measurement"}
+{
+  "retracted": false,
+  "timestamp": 1464220800000,
+  "updates": [
+    {
+      "timestamp": 1495680613212,
+      "identifier": {
+        "doi": "10.1007/s40725-016-0039-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40725-015-0025-5"
+  },
+  "journal": "Current Forestry Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Terrestrial Laser Scanning for Plot-Scale Forest Measurement"
+}

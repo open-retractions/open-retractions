@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405728000000,"doi":"10.1007/s00261-014-0198-6","type":"correction"},"doi":"10.1007/s00261-014-0107-z","journal":"Abdominal Imaging","publisher":"Springer Nature","title":"Erratum to: Pancreatic adenocarcinoma: a pilot study of quantitative perfusion and diffusion-weighted breath-hold magnetic resonance imaging"}
+{
+  "retracted": false,
+  "timestamp": 1405728000000,
+  "updates": [
+    {
+      "timestamp": 1496055095631,
+      "identifier": {
+        "doi": "10.1007/s00261-014-0198-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00261-014-0107-z"
+  },
+  "journal": "Abdominal Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pancreatic adenocarcinoma: a pilot study of quantitative perfusion and diffusion-weighted breath-hold magnetic resonance imaging"
+}

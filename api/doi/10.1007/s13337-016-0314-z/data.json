@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464393600000,"doi":"10.1007/s13337-016-0322-z","type":"correction"},"doi":"10.1007/s13337-016-0314-z","journal":"VirusDisease","publisher":"Springer Nature","title":"Erratum to: Chikungunya: a reemerging infection spreading during 2010 dengue fever outbreak in National Capital Region of India"}
+{
+  "retracted": false,
+  "timestamp": 1464393600000,
+  "updates": [
+    {
+      "timestamp": 1495716738878,
+      "identifier": {
+        "doi": "10.1007/s13337-016-0322-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13337-016-0314-z"
+  },
+  "journal": "VirusDisease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chikungunya: a reemerging infection spreading during 2010 dengue fever outbreak in National Capital Region of India"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.1016/j.vetpar.2014.05.001","type":"err"},"doi":"10.1016/j.vetpar.2012.12.015","journal":"Veterinary Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “Molecular epidemiology of Cryptosporidium in livestock animals and humans in the Ismailia province of Egypt” [Vet. Parasitol. 193 (March (1–3)) (2013) 15–24"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1496042249659,
+      "identifier": {
+        "doi": "10.1016/j.vetpar.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetpar.2012.12.015"
+  },
+  "journal": "Veterinary Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular epidemiology of Cryptosporidium in livestock animals and humans in the Ismailia province of Egypt” [Vet. Parasitol. 193 (March (1–3)) (2013) 15–24"
+}

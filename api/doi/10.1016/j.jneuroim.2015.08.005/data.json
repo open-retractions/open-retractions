@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1016/j.jneuroim.2015.10.021","type":"err"},"doi":"10.1016/j.jneuroim.2015.08.005","journal":"Journal of Neuroimmunology","publisher":"Elsevier BV","title":"Corrigendum to “Experimental autoimmune encephalomyelitis and age-related correlations of NADPH oxidase, MMP-9, and cell adhesion molecules: The increased disease severity and blood–brain barrier permeability in middle-aged mice” [J. Neuroimmunol. 287 (2015) 43–53]"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496043632157,
+      "identifier": {
+        "doi": "10.1016/j.jneuroim.2015.10.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneuroim.2015.08.005"
+  },
+  "journal": "Journal of Neuroimmunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Experimental autoimmune encephalomyelitis and age-related correlations of NADPH oxidase, MMP-9, and cell adhesion molecules: The increased disease severity and blood–brain barrier permeability in middle-aged mice” [J. Neuroimmunol. 287 (2015) 43–53]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.bcmd.2014.02.001","type":"err"},"doi":"10.1016/j.bcmd.2013.09.004","journal":"Blood Cells, Molecules, and Diseases","publisher":"Elsevier BV","title":"Corrigendum to “Interleukin-6 Directly Impairs the Erythroid Development of Human TF-1 Erythroleukemic Cells” [Blood Cells Mol. Dis. 52 (2) (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496020376589,
+      "identifier": {
+        "doi": "10.1016/j.bcmd.2014.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcmd.2013.09.004"
+  },
+  "journal": "Blood Cells, Molecules, and Diseases",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interleukin-6 Directly Impairs the Erythroid Development of Human TF-1 Erythroleukemic Cells” [Blood Cells Mol. Dis. 52 (2) (2014)]"
+}

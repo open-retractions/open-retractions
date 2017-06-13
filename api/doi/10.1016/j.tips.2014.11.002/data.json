@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.tips.2015.02.007","type":"err"},"doi":"10.1016/j.tips.2014.11.002","journal":"Trends in Pharmacological Sciences","publisher":"Elsevier BV","title":"Erratum: Data collection as a barrier to personalized medicine"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496054553541,
+      "identifier": {
+        "doi": "10.1016/j.tips.2015.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tips.2014.11.002"
+  },
+  "journal": "Trends in Pharmacological Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum: Data collection as a barrier to personalized medicine"
+}

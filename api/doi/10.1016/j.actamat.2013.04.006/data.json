@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.actamat.2014.03.043","type":"err"},"doi":"10.1016/j.actamat.2013.04.006","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Recrystallization of Cu(In,Ga)Se2 thin films studied by X-ray diffraction” [Acta Mater. 61 (2013) 4347–4353]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496037706623,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.03.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2013.04.006"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Recrystallization of Cu(In,Ga)Se2 thin films studied by X-ray diffraction” [Acta Mater. 61 (2013) 4347–4353]"
+}

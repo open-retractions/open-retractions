@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1371/annotation/d41768c5-b58a-4355-ad17-166f70e347b8","type":"correction"},"doi":"10.1371/journal.pone.0072389","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: SNP Detection in mRNA in Living Cells Using Allele Specific FRET Probes"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495995582785,
+      "identifier": {
+        "doi": "10.1371/annotation/d41768c5-b58a-4355-ad17-166f70e347b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072389"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: SNP Detection in mRNA in Living Cells Using Allele Specific FRET Probes"
+}

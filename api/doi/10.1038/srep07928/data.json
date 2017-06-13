@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478476800000,"doi":"10.1038/srep35092","type":"correction"},"doi":"10.1038/srep07928","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Fish oil supplements in New Zealand are highly oxidised and do not meet label content of n-3 PUFA"}
+{
+  "retracted": false,
+  "timestamp": 1478476800000,
+  "updates": [
+    {
+      "timestamp": 1495655251127,
+      "identifier": {
+        "doi": "10.1038/srep35092"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep07928"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Fish oil supplements in New Zealand are highly oxidised and do not meet label content of n-3 PUFA"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388707200000,"doi":"10.1016/j.vaccine.2013.11.001","type":"err"},"doi":"10.1016/j.vaccine.2008.11.099","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to “Vaccination with HPV16 L2E6E7 fusion protein in GPI-0100 adjuvant elicits protective humoral and cell-mediated immunity” [Vaccine 27 (2009) 1040–1049]"}
+{
+  "retracted": false,
+  "timestamp": 1388707200000,
+  "updates": [
+    {
+      "timestamp": 1495996208086,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2013.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2008.11.099"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Vaccination with HPV16 L2E6E7 fusion protein in GPI-0100 adjuvant elicits protective humoral and cell-mediated immunity” [Vaccine 27 (2009) 1040–1049]"
+}

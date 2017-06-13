@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366934400000,"doi":"10.1016/j.jbiomech.2013.03.001","type":"err"},"doi":"10.1016/j.jbiomech.2012.11.032","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “The SynCardiaTM total artificial heart: In vivo, in vitro and computational modeling studies” [The Journal of Biomechanics 46(2) (2012) 266–275]"}
+{
+  "retracted": false,
+  "timestamp": 1366934400000,
+  "updates": [
+    {
+      "timestamp": 1496007604788,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2013.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2012.11.032"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The SynCardiaTM total artificial heart: In vivo, in vitro and computational modeling studies” [The Journal of Biomechanics 46(2) (2012) 266–275]"
+}

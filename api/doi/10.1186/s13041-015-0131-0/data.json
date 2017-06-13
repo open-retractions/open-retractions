@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1186/s13041-016-0201-y","type":"correction"},"doi":"10.1186/s13041-015-0131-0","journal":"Molecular Brain","publisher":"Springer Nature","title":"Erratum to: Novel function of PIWIL1 in neuronal polarization and migration via regulation of microtubule-associated proteins"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495647027192,
+      "identifier": {
+        "doi": "10.1186/s13041-016-0201-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13041-015-0131-0"
+  },
+  "journal": "Molecular Brain",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Novel function of PIWIL1 in neuronal polarization and migration via regulation of microtubule-associated proteins"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1260489600000,"doi":"10.1371/annotation/c9e68857-cd7e-4b1c-9765-04f66d8237d0","type":"correction"},"doi":"10.1371/journal.pone.0007622","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Reverse Engineering a Signaling Network Using Alternative Inputs"}
+{
+  "retracted": false,
+  "timestamp": 1260489600000,
+  "updates": [
+    {
+      "timestamp": 1496025195950,
+      "identifier": {
+        "doi": "10.1371/annotation/c9e68857-cd7e-4b1c-9765-04f66d8237d0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0007622"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Reverse Engineering a Signaling Network Using Alternative Inputs"
+}

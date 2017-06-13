@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1239667200000,"doi":"10.1073/pnas.0903783106","type":"correction"},"doi":"10.1073/pnas.0902310106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gromley et al., Transient expression of the Arf tumor suppressor during male germ cell and eye development in Arf-Cre reporter mice"}
+{
+  "retracted": false,
+  "timestamp": 1239667200000,
+  "updates": [
+    {
+      "timestamp": 1495927833816,
+      "identifier": {
+        "doi": "10.1073/pnas.0903783106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0902310106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gromley et al., Transient expression of the Arf tumor suppressor during male germ cell and eye development in Arf-Cre reporter mice"
+}

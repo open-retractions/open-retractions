@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1158192000000,"doi":"10.1063/1.2338541","type":"erratum"},"doi":"10.1063/1.477660","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Solid-fluid equilibrium for a molecular model with short ranged directional forces [J. Chem. Phys. 109, 9938 (1998)]"}
+{
+  "retracted": false,
+  "timestamp": 1158192000000,
+  "updates": [
+    {
+      "timestamp": 1495838569333,
+      "identifier": {
+        "doi": "10.1063/1.2338541"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.477660"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Solid-fluid equilibrium for a molecular model with short ranged directional forces [J. Chem. Phys. 109, 9938 (1998)]"
+}

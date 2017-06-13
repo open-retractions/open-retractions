@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447718400000,"doi":"10.1186/s12879-015-1245-9","type":"correction"},"doi":"10.1186/s12879-015-0994-9","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Molecular epidemiology and phylogenetic analysis of Hepatitis B virus in a group of migrants in Italy"}
+{
+  "retracted": false,
+  "timestamp": 1447718400000,
+  "updates": [
+    {
+      "timestamp": 1496046427998,
+      "identifier": {
+        "doi": "10.1186/s12879-015-1245-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-015-0994-9"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular epidemiology and phylogenetic analysis of Hepatitis B virus in a group of migrants in Italy"
+}

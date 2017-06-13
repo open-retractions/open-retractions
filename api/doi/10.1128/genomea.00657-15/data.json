@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1128/genomea.00842-15","type":"correction"},"doi":"10.1128/genomea.00657-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Boinett et al., Complete Genome Sequence ofBordetella pertussisD420"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496016169765,
+      "identifier": {
+        "doi": "10.1128/genomea.00842-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00657-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Boinett et al., Complete Genome Sequence ofBordetella pertussisD420"
+}

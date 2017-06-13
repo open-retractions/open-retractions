@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.maturitas.2014.11.004","type":"err"},"doi":"10.1016/j.maturitas.2014.04.020","journal":"Maturitas","publisher":"Elsevier BV","title":"Erratum to “Treatment of climacteric symptoms in breast cancer patients: A retrospective study from a medication databank” [Maturitas 78 (2014) 228–232]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496022630932,
+      "identifier": {
+        "doi": "10.1016/j.maturitas.2014.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.maturitas.2014.04.020"
+  },
+  "journal": "Maturitas",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Treatment of climacteric symptoms in breast cancer patients: A retrospective study from a medication databank” [Maturitas 78 (2014) 228–232]"
+}

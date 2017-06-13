@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.ijthermalsci.2013.11.015","type":"err"},"doi":"10.1016/j.ijthermalsci.2013.08.014","journal":"International Journal of Thermal Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Investigation of non-Fourier effects in bio-tissues during laser assisted photothermal therapy” [Int. J. Therm. Sci. 76 (February 2014) 208–220]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496007128025,
+      "identifier": {
+        "doi": "10.1016/j.ijthermalsci.2013.11.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijthermalsci.2013.08.014"
+  },
+  "journal": "International Journal of Thermal Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Investigation of non-Fourier effects in bio-tissues during laser assisted photothermal therapy” [Int. J. Therm. Sci. 76 (February 2014) 208–220]"
+}

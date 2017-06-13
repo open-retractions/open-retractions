@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433462400000,"doi":"10.1007/s10948-015-3123-5","type":"correction"},"doi":"10.1007/s10948-014-2888-2","journal":"Journal of Superconductivity and Novel Magnetism","publisher":"Springer Nature","title":"Erratum to: Controlling Superconductivity in La2-xSrxCuO4+δ by Ozone and Vacuum Annealing"}
+{
+  "retracted": false,
+  "timestamp": 1433462400000,
+  "updates": [
+    {
+      "timestamp": 1496004028297,
+      "identifier": {
+        "doi": "10.1007/s10948-015-3123-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10948-014-2888-2"
+  },
+  "journal": "Journal of Superconductivity and Novel Magnetism",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Controlling Superconductivity in La2-xSrxCuO4+δ by Ozone and Vacuum Annealing"
+}

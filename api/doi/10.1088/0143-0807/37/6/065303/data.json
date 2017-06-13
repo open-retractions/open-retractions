@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1088/0143-0807/38/1/019501","type":"correction"},"doi":"10.1088/0143-0807/37/6/065303","journal":"European Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: Fourier transform infrared spectroscopy: an undergraduate experiment (2016 Eur. J. Phys. 37 065303)"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495651338429,
+      "identifier": {
+        "doi": "10.1088/0143-0807/38/1/019501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0143-0807/37/6/065303"
+  },
+  "journal": "European Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Fourier transform infrared spectroscopy: an undergraduate experiment (2016 Eur. J. Phys. 37 065303)"
+}

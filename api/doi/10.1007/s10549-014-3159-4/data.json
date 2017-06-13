@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1007/s10549-016-3733-z","type":"correction"},"doi":"10.1007/s10549-014-3159-4","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Generation of MCF-7 cells with aggressive metastatic potential in vitro and in vivo"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649366714,
+      "identifier": {
+        "doi": "10.1007/s10549-016-3733-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-014-3159-4"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Generation of MCF-7 cells with aggressive metastatic potential in vitro and in vivo"
+}

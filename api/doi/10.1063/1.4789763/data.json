@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373932800000,"doi":"10.1063/1.4815940","type":"correction"},"doi":"10.1063/1.4789763","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Investigation of electrical transport in anodized single TiO2 nanotubes” [Appl. Phys. Lett. 102, 043105 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1373932800000,
+  "updates": [
+    {
+      "timestamp": 1496033646688,
+      "identifier": {
+        "doi": "10.1063/1.4815940"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4789763"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Investigation of electrical transport in anodized single TiO2 nanotubes” [Appl. Phys. Lett. 102, 043105 (2013)]"
+}

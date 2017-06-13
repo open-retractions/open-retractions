@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1080/23311983.2017.1284177","type":"correction"},"doi":"10.1080/23311983.2016.1190439","journal":"Cogent Arts & Humanities","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495716243052,
+      "identifier": {
+        "doi": "10.1080/23311983.2017.1284177"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23311983.2016.1190439"
+  },
+  "journal": "Cogent Arts & Humanities",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

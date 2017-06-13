@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.econlet.2013.07.005","type":"err"},"doi":"10.1016/j.econlet.2012.10.015","journal":"Economics Letters","publisher":"Elsevier BV","title":"Corrigendum to “Rational students and resit exams” [Econom. Lett. 118 (1) (2013) 213–215]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496036222604,
+      "identifier": {
+        "doi": "10.1016/j.econlet.2013.07.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.econlet.2012.10.015"
+  },
+  "journal": "Economics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rational students and resit exams” [Econom. Lett. 118 (1) (2013) 213–215]"
+}

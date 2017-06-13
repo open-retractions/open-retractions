@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.apradiso.2016.05.015","type":"erratum"},"doi":"10.1016/j.apradiso.2009.03.080","journal":"Applied Radiation and Isotopes","publisher":"Elsevier BV","title":"Erratum to “Determination of the irradiation field at the research reactor TRIGA Mainz for BNCT” [J. Appl. Radiat. Isot. 67 (2009) S242–S246]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495717885046,
+      "identifier": {
+        "doi": "10.1016/j.apradiso.2016.05.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apradiso.2009.03.080"
+  },
+  "journal": "Applied Radiation and Isotopes",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Determination of the irradiation field at the research reactor TRIGA Mainz for BNCT” [J. Appl. Radiat. Isot. 67 (2009) S242–S246]"
+}

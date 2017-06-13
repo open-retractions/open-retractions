@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1427155200000,"doi":"10.1016/j.febslet.2015.02.010","type":"err"},"doi":"10.1016/j.febslet.2014.07.033","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “Zinc finger MYND-type containing 8 promotes tumour angiogenesis via induction of vascular endothelial growth factor-A expression” [FEBS Lett. 588 (2014) 3409-3416]"}
+{
+  "retracted": false,
+  "timestamp": 1427155200000,
+  "updates": [
+    {
+      "timestamp": 1496048582111,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2015.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2014.07.033"
+  },
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “Zinc finger MYND-type containing 8 promotes tumour angiogenesis via induction of vascular endothelial growth factor-A expression” [FEBS Lett. 588 (2014) 3409-3416]"
+}

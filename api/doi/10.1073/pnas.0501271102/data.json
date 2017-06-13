@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1121126400000,"doi":"10.1073/pnas.0504835102","type":"correction"},"doi":"10.1073/pnas.0501271102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jeschke et al., From The Cover: Invasion success of vertebrates in Europe and North America, PNAS 2005 102:7198-7202"}
+{
+  "retracted": false,
+  "timestamp": 1121126400000,
+  "updates": [
+    {
+      "timestamp": 1495896412021,
+      "identifier": {
+        "doi": "10.1073/pnas.0504835102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0501271102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jeschke et al., From The Cover: Invasion success of vertebrates in Europe and North America, PNAS 2005 102:7198-7202"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1004572800000,"doi":"10.1107/s0907444901017115","type":"correction"},"doi":"10.1107/s0907444900007356","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"The high-mosaicity illusion: revealing the true physical characteristics of macromolecular crystals. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1004572800000,
+  "updates": [
+    {
+      "timestamp": 1495878214000,
+      "identifier": {
+        "doi": "10.1107/s0907444901017115"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444900007356"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "The high-mosaicity illusion: revealing the true physical characteristics of macromolecular crystals. Erratum"
+}

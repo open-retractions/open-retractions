@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.exphem.2014.04.003","type":"err"},"doi":"10.1016/j.exphem.2012.02.007","journal":"Experimental Hematology","publisher":"Elsevier BV","title":"Corrigendum to “Peginesatide and erythropoietin stimulate similar erythropoietin receptor–mediated signal transduction and gene induction events” [Experimental Hematology 40 (2012) 575–587]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496043087505,
+      "identifier": {
+        "doi": "10.1016/j.exphem.2014.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exphem.2012.02.007"
+  },
+  "journal": "Experimental Hematology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Peginesatide and erythropoietin stimulate similar erythropoietin receptor–mediated signal transduction and gene induction events” [Experimental Hematology 40 (2012) 575–587]"
+}

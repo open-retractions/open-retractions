@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434240000000,"doi":"10.1007/s11738-015-1872-1","type":"correction"},"doi":"10.1007/s11738-015-1852-5","journal":"Acta Physiologiae Plantarum","publisher":"Springer Nature","title":"Erratum to: Stress-inducible GmGSTU4 shapes transgenic tobacco plants metabolome towards increased salinity tolerance"}
+{
+  "retracted": false,
+  "timestamp": 1434240000000,
+  "updates": [
+    {
+      "timestamp": 1496007548173,
+      "identifier": {
+        "doi": "10.1007/s11738-015-1872-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11738-015-1852-5"
+  },
+  "journal": "Acta Physiologiae Plantarum",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Stress-inducible GmGSTU4 shapes transgenic tobacco plants metabolome towards increased salinity tolerance"
+}

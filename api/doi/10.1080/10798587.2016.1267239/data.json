@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488758400000,"doi":"10.1080/10798587.2017.1299889","type":"correction"},"doi":"10.1080/10798587.2016.1267239","journal":"Intelligent Automation & Soft Computing","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1488758400000,
+  "updates": [
+    {
+      "timestamp": 1495726733244,
+      "identifier": {
+        "doi": "10.1080/10798587.2017.1299889"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10798587.2016.1267239"
+  },
+  "journal": "Intelligent Automation & Soft Computing",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

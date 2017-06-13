@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380499200000,"doi":"10.1016/j.devcel.2013.09.007","type":"err"},"doi":"10.1016/j.devcel.2013.07.002","journal":"Developmental Cell","publisher":"Elsevier BV","title":"A Multifunctional Protein, EWS, Is Essential for Early Brown Fat Lineage Determination"}
+{
+  "retracted": false,
+  "timestamp": 1380499200000,
+  "updates": [
+    {
+      "timestamp": 1496050230379,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2013.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2013.07.002"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Multifunctional Protein, EWS, Is Essential for Early Brown Fat Lineage Determination"
+}

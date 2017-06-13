@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1039/c6cs90071b","type":"correction"},"doi":"10.1039/c5cs00650c","journal":"Chem. Soc. Rev.","publisher":"Royal Society of Chemistry (RSC)","title":"Further correction: Low bandgap semiconducting polymers for polymeric photovoltaics"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495729126755,
+      "identifier": {
+        "doi": "10.1039/c6cs90071b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cs00650c"
+  },
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Further correction: Low bandgap semiconducting polymers for polymeric photovoltaics"
+}

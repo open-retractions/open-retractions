@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387843200000,"doi":"10.1371/annotation/4b800314-8d35-454d-afca-af6d0f57b5d1","type":"correction"},"doi":"10.1371/journal.pgen.1003990","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Somatic mtDNA Mutation Spectra in the Aging Human Putamen"}
+{
+  "retracted": false,
+  "timestamp": 1387843200000,
+  "updates": [
+    {
+      "timestamp": 1496125381731,
+      "identifier": {
+        "doi": "10.1371/annotation/4b800314-8d35-454d-afca-af6d0f57b5d1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003990"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Somatic mtDNA Mutation Spectra in the Aging Human Putamen"
+}

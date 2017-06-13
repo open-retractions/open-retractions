@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371081600000,"doi":"10.1371/annotation/18f57a8b-22a4-4251-ad3a-f1b1b8041011","type":"correction"},"doi":"10.1371/journal.pone.0047437","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Genome Analysis of Legionella pneumophila Strains Using a Mixed-Genome Microarray"}
+{
+  "retracted": false,
+  "timestamp": 1371081600000,
+  "updates": [
+    {
+      "timestamp": 1496024133853,
+      "identifier": {
+        "doi": "10.1371/annotation/18f57a8b-22a4-4251-ad3a-f1b1b8041011"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0047437"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genome Analysis of Legionella pneumophila Strains Using a Mixed-Genome Microarray"
+}

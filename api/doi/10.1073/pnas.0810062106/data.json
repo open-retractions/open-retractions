@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1247529600000,"doi":"10.1073/pnas.0908052106","type":"correction"},"doi":"10.1073/pnas.0810062106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Eggermann and Feldmeyer, Cholinergic filtering in the recurrent excitatory microcircuit of cortical layer 4"}
+{
+  "retracted": false,
+  "timestamp": 1247529600000,
+  "updates": [
+    {
+      "timestamp": 1495932748750,
+      "identifier": {
+        "doi": "10.1073/pnas.0908052106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0810062106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Eggermann and Feldmeyer, Cholinergic filtering in the recurrent excitatory microcircuit of cortical layer 4"
+}

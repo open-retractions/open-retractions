@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1241049600000,"doi":"10.1371/annotation/b01c646f-14c7-4aac-8812-9ed4f847c857","type":"correction"},"doi":"10.1371/journal.pone.0005367","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: CTIP2 Expression in Human Head and Neck Squamous Cell Carcinoma Is Linked to Poorly Differentiated Tumor Status"}
+{
+  "retracted": false,
+  "timestamp": 1241049600000,
+  "updates": [
+    {
+      "timestamp": 1496025197299,
+      "identifier": {
+        "doi": "10.1371/annotation/b01c646f-14c7-4aac-8812-9ed4f847c857"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005367"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: CTIP2 Expression in Human Head and Neck Squamous Cell Carcinoma Is Linked to Poorly Differentiated Tumor Status"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1204329600000,"update":{"timestamp":null,"doi":null,"pmid":28356310,"type":"retraction"},"doi":"10.2337/db07-0847","journal":"Diabetes","publisher":null,"title":"Transcription factor 7-like 2 regulates beta-cell survival and function in human pancreatic islets."}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496016337886,
+      "identifier": {
+        "doi": "10.2337/db14-er11"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db07-0847"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Transcription Factor 7-Like 2 Regulates β-Cell Survival and Function in Human Pancreatic Islets. Diabetes 2008;57:645–653"
+}

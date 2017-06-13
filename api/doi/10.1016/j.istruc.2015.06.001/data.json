@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.istruc.2016.03.003","type":"err"},"doi":"10.1016/j.istruc.2015.06.001","journal":"Structures","publisher":"Elsevier BV","title":"Corrigendum to “Improved formulation of travelling fires and application to concrete and steel structures” [Structures 3 (2015) 250–260]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495671212840,
+      "identifier": {
+        "doi": "10.1016/j.istruc.2016.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.istruc.2015.06.001"
+  },
+  "journal": "Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Improved formulation of travelling fires and application to concrete and steel structures” [Structures 3 (2015) 250–260]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.agee.2015.03.006","type":"err"},"doi":"10.1016/j.agee.2013.10.019","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to Spatio-temporal association of fossil fuel CO2 emissions from crop production across US counties"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496052389749,
+      "identifier": {
+        "doi": "10.1016/j.agee.2015.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2013.10.019"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Spatio-temporal association of fossil fuel CO2 emissions from crop production across US counties"
+}

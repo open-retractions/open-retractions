@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jpowsour.2014.03.067","type":"err"},"doi":"10.1016/j.jpowsour.2013.08.132","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Crystal orientation of epitaxial LiCoO2 films grown on SrTiO3 substrates” [J. Power Sources 247 (2014) 687–691]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496028414721,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2014.03.067"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.08.132"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Crystal orientation of epitaxial LiCoO2 films grown on SrTiO3 substrates” [J. Power Sources 247 (2014) 687–691]"
+}

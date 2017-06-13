@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437955200000,"doi":"10.1080/00032719.2015.1060109","type":"correction"},"doi":"10.1080/00032719.2014.917425","journal":"Analytical Letters","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1437955200000,
+  "updates": [
+    {
+      "timestamp": 1496018454843,
+      "identifier": {
+        "doi": "10.1080/00032719.2015.1060109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00032719.2014.917425"
+  },
+  "journal": "Analytical Letters",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

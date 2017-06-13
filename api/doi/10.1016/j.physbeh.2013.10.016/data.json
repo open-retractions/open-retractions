@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397088000000,"doi":"10.1016/j.physbeh.2014.02.001","type":"err"},"doi":"10.1016/j.physbeh.2013.10.016","journal":"Physiology & Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Sex-hormone dependent perception of androstenone suggests its involvement in communicating competition and aggression” [Physiol Behav 123 (2014) 136-141]"}
+{
+  "retracted": false,
+  "timestamp": 1397088000000,
+  "updates": [
+    {
+      "timestamp": 1496017329576,
+      "identifier": {
+        "doi": "10.1016/j.physbeh.2014.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physbeh.2013.10.016"
+  },
+  "journal": "Physiology & Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sex-hormone dependent perception of androstenone suggests its involvement in communicating competition and aggression” [Physiol Behav 123 (2014) 136-141]"
+}

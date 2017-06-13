@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jnnfm.2015.05.010","type":"erratum"},"doi":"10.1016/j.jnnfm.2015.01.010","journal":"Journal of Non-Newtonian Fluid Mechanics","publisher":"Elsevier BV","title":"Corrigendum to “Influence of hydrodynamic drag model on shear stress in the simulation of magnetorheological fluids” [J. Non-Newtonian Fluid Mech. 218 (2015) 16–26]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496014420571,
+      "identifier": {
+        "doi": "10.1016/j.jnnfm.2015.05.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnnfm.2015.01.010"
+  },
+  "journal": "Journal of Non-Newtonian Fluid Mechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of hydrodynamic drag model on shear stress in the simulation of magnetorheological fluids” [J. Non-Newtonian Fluid Mech. 218 (2015) 16–26]"
+}

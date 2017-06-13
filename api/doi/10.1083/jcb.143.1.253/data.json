@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":912384000000,"doi":"10.1083/jcb.143.5.1413","type":"correction"},"doi":"10.1083/jcb.143.1.253","journal":"The Journal of Cell Biology","publisher":"Rockefeller University Press","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 912384000000,
+  "updates": [
+    {
+      "timestamp": 1495644499798,
+      "identifier": {
+        "doi": "10.1083/jcb.143.5.1413"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1083/jcb.143.1.253"
+  },
+  "journal": "The Journal of Cell Biology",
+  "publisher": "Rockefeller University Press",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1016/j.carres.2014.01.019","type":"err"},"doi":"10.1016/j.carres.2013.08.020","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “Non-enveloped virus reduction with quaternized chitosan nanofibers containing graphene” [Carbohydr. Res. 380 (2013) 137–142]"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496037165468,
+      "identifier": {
+        "doi": "10.1016/j.carres.2014.01.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2013.08.020"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Non-enveloped virus reduction with quaternized chitosan nanofibers containing graphene” [Carbohydr. Res. 380 (2013) 137–142]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.euroneuro.2015.07.001","type":"err"},"doi":"10.1016/j.euroneuro.2014.07.013","journal":"European Neuropsychopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Psychomotor retardation is a scar of past depressive episodes, revealed by simple cognitive tests” [Eur. Neuropsychopharmacol. 24 (2014) 1630–1640]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496019670970,
+      "identifier": {
+        "doi": "10.1016/j.euroneuro.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.euroneuro.2014.07.013"
+  },
+  "journal": "European Neuropsychopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Psychomotor retardation is a scar of past depressive episodes, revealed by simple cognitive tests” [Eur. Neuropsychopharmacol. 24 (2014) 1630–1640]"
+}

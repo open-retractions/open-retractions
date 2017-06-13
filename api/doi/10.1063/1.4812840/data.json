@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375228800000,"doi":"10.1063/1.4817530","type":"correction"},"doi":"10.1063/1.4812840","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Excellent retention characteristics of nanocomposite gate insulator consisting of fullerene-containing polystyrene” [Appl. Phys. Lett. 103, 013302 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1375228800000,
+  "updates": [
+    {
+      "timestamp": 1496036933984,
+      "identifier": {
+        "doi": "10.1063/1.4817530"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4812840"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Excellent retention characteristics of nanocomposite gate insulator consisting of fullerene-containing polystyrene” [Appl. Phys. Lett. 103, 013302 (2013)]"
+}

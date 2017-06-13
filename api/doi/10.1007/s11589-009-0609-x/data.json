@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1265760000000,"doi":"10.1007/s11589-009-0041-2","type":"correction"},"doi":"10.1007/s11589-009-0609-x","journal":"Earthquake Science","publisher":"Springer Nature","title":"Erratum to: Estimation of the 2001 Kunlun earthquake fault slip from GPS coseismic data using Hori’s inverse method"}
+{
+  "retracted": false,
+  "timestamp": 1265760000000,
+  "updates": [
+    {
+      "timestamp": 1495817390141,
+      "identifier": {
+        "doi": "10.1007/s11589-009-0041-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11589-009-0609-x"
+  },
+  "journal": "Earthquake Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimation of the 2001 Kunlun earthquake fault slip from GPS coseismic data using Hori’s inverse method"
+}

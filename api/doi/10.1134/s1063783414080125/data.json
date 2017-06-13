@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415232000000,"doi":"10.1134/s1063783414110328","type":"correction"},"doi":"10.1134/s1063783414080125","journal":"Physics of the Solid State","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Electronic properties of ultrathin films based on pyrrolofullerene molecules on the surface of oxidized silicon”"}
+{
+  "retracted": false,
+  "timestamp": 1415232000000,
+  "updates": [
+    {
+      "timestamp": 1496021460411,
+      "identifier": {
+        "doi": "10.1134/s1063783414110328"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063783414080125"
+  },
+  "journal": "Physics of the Solid State",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Electronic properties of ultrathin films based on pyrrolofullerene molecules on the surface of oxidized silicon”"
+}

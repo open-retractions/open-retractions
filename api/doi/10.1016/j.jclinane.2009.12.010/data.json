@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jclinane.2016.05.026","type":"err"},"doi":"10.1016/j.jclinane.2009.12.010","journal":"Journal of Clinical Anesthesia","publisher":"Elsevier BV","title":"Erratum to ‘the “hoop loop” device increases anesthesia and positioning safety in the magnetic resonance imaging (MRI) scanner’ Journal of Clinical Anesthesia 2010:22(7):574–5"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495721161179,
+      "identifier": {
+        "doi": "10.1016/j.jclinane.2016.05.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jclinane.2009.12.010"
+  },
+  "journal": "Journal of Clinical Anesthesia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘the “hoop loop” device increases anesthesia and positioning safety in the magnetic resonance imaging (MRI) scanner’ Journal of Clinical Anesthesia 2010:22(7):574–5"
+}

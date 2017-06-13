@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.ymgme.2014.08.010","type":"err"},"doi":"10.1016/j.ymgme.2014.03.004","journal":"Molecular Genetics and Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Molecular testing of 163 patients with Morquio A (Mucopolysaccharidosis IVA) identifies 39 novel GALNS mutations” [Mol. Genet. Metab. 112 (2014) 160–170]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496007462698,
+      "identifier": {
+        "doi": "10.1016/j.ymgme.2014.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymgme.2014.03.004"
+  },
+  "journal": "Molecular Genetics and Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular testing of 163 patients with Morquio A (Mucopolysaccharidosis IVA) identifies 39 novel GALNS mutations” [Mol. Genet. Metab. 112 (2014) 160–170]"
+}

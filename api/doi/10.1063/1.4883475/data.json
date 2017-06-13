@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429833600000,"doi":"10.1063/1.4919133","type":"correction"},"doi":"10.1063/1.4883475","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Quasi-Moseley's law for strong narrow bandwidth soft x-ray sources containing higher charge-state ions” [Appl. Phys. Lett. 104, 234107 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1429833600000,
+  "updates": [
+    {
+      "timestamp": 1495995561758,
+      "identifier": {
+        "doi": "10.1063/1.4919133"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4883475"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Quasi-Moseley's law for strong narrow bandwidth soft x-ray sources containing higher charge-state ions” [Appl. Phys. Lett. 104, 234107 (2014)]"
+}

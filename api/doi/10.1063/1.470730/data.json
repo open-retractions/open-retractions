@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":879552000000,"doi":"10.1063/1.475336","type":"erratum"},"doi":"10.1063/1.470730","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “The microwave spectrum and structure of the methanol⋅SO2 complex” [J. Chem. Phys. 103, 6440 (1995)]"}
+{
+  "retracted": false,
+  "timestamp": 879552000000,
+  "updates": [
+    {
+      "timestamp": 1495839409549,
+      "identifier": {
+        "doi": "10.1063/1.475336"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.470730"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The microwave spectrum and structure of the methanol⋅SO2 complex” [J. Chem. Phys. 103, 6440 (1995)]"
+}

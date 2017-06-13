@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472774400000,"doi":"10.1007/s00357-016-9210-x","type":"correction"},"doi":"10.1007/s00357-016-9204-8","journal":"Journal of Classification","publisher":"Springer Nature","title":"Erratum to: Analysis of Web Visit Histories, Part I: Distance-Based Visualization of Sequence Rules"}
+{
+  "retracted": false,
+  "timestamp": 1472774400000,
+  "updates": [
+    {
+      "timestamp": 1495664769652,
+      "identifier": {
+        "doi": "10.1007/s00357-016-9210-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00357-016-9204-8"
+  },
+  "journal": "Journal of Classification",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysis of Web Visit Histories, Part I: Distance-Based Visualization of Sequence Rules"
+}

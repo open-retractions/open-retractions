@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387152000000,"doi":"10.1371/annotation/aed3d4eb-ad0e-49d6-a5e7-6df2dcd7e3e7","type":"correction"},"doi":"10.1371/journal.pone.0082025","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Species-Specific Immunity Induced by Infection with Entamoeba histolytica and Entamoeba moshkovskii in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1387152000000,
+  "updates": [
+    {
+      "timestamp": 1496004925015,
+      "identifier": {
+        "doi": "10.1371/annotation/aed3d4eb-ad0e-49d6-a5e7-6df2dcd7e3e7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0082025"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Species-Specific Immunity Induced by Infection with Entamoeba histolytica and Entamoeba moshkovskii in Mice"
+}

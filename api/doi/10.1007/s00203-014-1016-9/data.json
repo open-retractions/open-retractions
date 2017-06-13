@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412899200000,"doi":"10.1007/s00203-014-1041-8","type":"correction"},"doi":"10.1007/s00203-014-1016-9","journal":"Archives of Microbiology","publisher":"Springer Nature","title":"Erratum to: Arthrobacter enclensis sp. nov., isolated from sediment sample"}
+{
+  "retracted": false,
+  "timestamp": 1412899200000,
+  "updates": [
+    {
+      "timestamp": 1496010299244,
+      "identifier": {
+        "doi": "10.1007/s00203-014-1041-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00203-014-1016-9"
+  },
+  "journal": "Archives of Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Arthrobacter enclensis sp. nov., isolated from sediment sample"
+}

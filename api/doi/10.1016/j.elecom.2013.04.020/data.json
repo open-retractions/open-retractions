@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.elecom.2013.07.003","type":"err"},"doi":"10.1016/j.elecom.2013.04.020","journal":"Electrochemistry Communications","publisher":"Elsevier BV","title":"Corrigendum to ‘Anodic growth of hierarchically structured nanotubular ZnO architectures on zinc surfaces using a sulfide based electrolyte’ [Electrochemistry Communications 34 (2013) 9–13]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496031356188,
+      "identifier": {
+        "doi": "10.1016/j.elecom.2013.07.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.elecom.2013.04.020"
+  },
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Anodic growth of hierarchically structured nanotubular ZnO architectures on zinc surfaces using a sulfide based electrolyte’ [Electrochemistry Communications 34 (2013) 9–13]"
+}

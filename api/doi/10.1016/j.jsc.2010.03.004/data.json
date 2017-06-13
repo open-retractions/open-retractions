@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jsc.2013.05.010","type":"err"},"doi":"10.1016/j.jsc.2010.03.004","journal":"Journal of Symbolic Computation","publisher":"Elsevier BV","title":"Corrigendum to “Rational rotation-minimizing frames on polynomial space curves of arbitrary degree” [J. Symbolic Comput. 45 (8) (2010) 844–856]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496024226420,
+      "identifier": {
+        "doi": "10.1016/j.jsc.2013.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsc.2010.03.004"
+  },
+  "journal": "Journal of Symbolic Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rational rotation-minimizing frames on polynomial space curves of arbitrary degree” [J. Symbolic Comput. 45 (8) (2010) 844–856]"
+}

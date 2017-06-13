@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298678400000,"doi":"10.1371/annotation/2b1d4029-f72a-4fa9-9776-20e4073f650e","type":"correction"},"doi":"10.1371/journal.pone.0001638","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Recombination-Mediated Genetic Engineering of a Bacterial Artificial Chromosome Clone of Modified Vaccinia virus Ankara (MVA)"}
+{
+  "retracted": false,
+  "timestamp": 1298678400000,
+  "updates": [
+    {
+      "timestamp": 1495948250003,
+      "identifier": {
+        "doi": "10.1371/annotation/2b1d4029-f72a-4fa9-9776-20e4073f650e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0001638"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Recombination-Mediated Genetic Engineering of a Bacterial Artificial Chromosome Clone of Modified Vaccinia virus Ankara (MVA)"
+}

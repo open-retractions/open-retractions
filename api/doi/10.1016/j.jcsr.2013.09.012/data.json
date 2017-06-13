@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jcsr.2014.05.002","type":"err"},"doi":"10.1016/j.jcsr.2013.09.012","journal":"Journal of Constructional Steel Research","publisher":"Elsevier BV","title":"Corrigendum to “Fatigue of headed studs welded with improved ferrules under rotating shear force” [J Constr Steel Res 92 (2014) 211–218]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496042935089,
+      "identifier": {
+        "doi": "10.1016/j.jcsr.2014.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcsr.2013.09.012"
+  },
+  "journal": "Journal of Constructional Steel Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fatigue of headed studs welded with improved ferrules under rotating shear force” [J Constr Steel Res 92 (2014) 211–218]"
+}

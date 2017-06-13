@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365206400000,"doi":"10.1098/rsif.2013.0127","type":"correction"},"doi":"10.1098/rsif.2012.0904","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Using network theory to identify the causes of disease outbreaks of unknown origin"}
+{
+  "retracted": false,
+  "timestamp": 1365206400000,
+  "updates": [
+    {
+      "timestamp": 1496001753082,
+      "identifier": {
+        "doi": "10.1098/rsif.2013.0127"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2012.0904"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Using network theory to identify the causes of disease outbreaks of unknown origin"
+}

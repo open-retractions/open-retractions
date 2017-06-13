@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1299542400000,"doi":"10.1073/pnas.1103553108","type":"correction"},"doi":"10.1073/pnas.1015181108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Xie et al., Benzoquinone ansamycin 17AAG binds to mitochondrial voltage-dependent anion channel and inhibits cell invasion"}
+{
+  "retracted": false,
+  "timestamp": 1299542400000,
+  "updates": [
+    {
+      "timestamp": 1495942052128,
+      "identifier": {
+        "doi": "10.1073/pnas.1103553108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1015181108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Xie et al., Benzoquinone ansamycin 17AAG binds to mitochondrial voltage-dependent anion channel and inhibits cell invasion"
+}

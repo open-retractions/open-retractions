@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450396800000,"doi":"10.1136/bmj.h6911","type":"correction"},"doi":"10.1136/bmj.h6820","journal":"BMJ","publisher":"BMJ","title":"US device industry and FDA “colluded” on legislation to weaken regulatory oversight"}
+{
+  "retracted": false,
+  "timestamp": 1450396800000,
+  "updates": [
+    {
+      "timestamp": 1496054714480,
+      "identifier": {
+        "doi": "10.1136/bmj.h6911"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h6820"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "US device industry and FDA “colluded” on legislation to weaken regulatory oversight"
+}

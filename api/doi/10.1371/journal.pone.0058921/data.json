@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1371/annotation/6a2e6405-ce1d-49e0-a88c-0017c680d597","type":"correction"},"doi":"10.1371/journal.pone.0058921","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Single-Subject Grey Matter Graphs in Alzheimer's Disease"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1496053923361,
+      "identifier": {
+        "doi": "10.1371/annotation/6a2e6405-ce1d-49e0-a88c-0017c680d597"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0058921"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Single-Subject Grey Matter Graphs in Alzheimer's Disease"
+}

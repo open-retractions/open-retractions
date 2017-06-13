@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1063/1.4962733","type":"correction"},"doi":"10.1063/1.4892341","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Isolating the non-polar contributions to the intermolecular potential for water-alkane interactions” [J. Chem. Phys. 141, 064905 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640358231,
+      "identifier": {
+        "doi": "10.1063/1.4962733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4892341"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Isolating the non-polar contributions to the intermolecular potential for water-alkane interactions” [J. Chem. Phys. 141, 064905 (2014)]"
+}

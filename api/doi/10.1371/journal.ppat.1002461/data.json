@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1343260800000,"doi":"10.1371/annotation/5af1d62a-8262-4340-ad06-c450a50295e3","type":"correction"},"doi":"10.1371/journal.ppat.1002461","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Slit2/Robo4 Signaling Modulates HIV-1 gp120-Induced Lymphatic Hyperpermeability"}
+{
+  "retracted": false,
+  "timestamp": 1343260800000,
+  "updates": [
+    {
+      "timestamp": 1495938649197,
+      "identifier": {
+        "doi": "10.1371/annotation/5af1d62a-8262-4340-ad06-c450a50295e3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002461"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Slit2/Robo4 Signaling Modulates HIV-1 gp120-Induced Lymphatic Hyperpermeability"
+}

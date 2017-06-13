@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.fuel.2015.05.001","type":"erratum"},"doi":"10.1016/j.fuel.2014.12.020","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “A kinetic model for thermal cracking of waste cooking oil based on chemical lumps” [Fuel 144 (2015) 50–59]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1495999127463,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2015.05.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2014.12.020"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A kinetic model for thermal cracking of waste cooking oil based on chemical lumps” [Fuel 144 (2015) 50–59]"
+}

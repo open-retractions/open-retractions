@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1348790400000,"doi":"10.1371/annotation/e273e6f2-2a07-407a-8162-e2547661c192","type":"correction"},"doi":"10.1371/journal.pone.0039718","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Transcriptional Profiling of Serogroup B Neisseria meningitidis Growing in Human Blood: An Approach to Vaccine Antigen Discovery"}
+{
+  "retracted": false,
+  "timestamp": 1348790400000,
+  "updates": [
+    {
+      "timestamp": 1496025196063,
+      "identifier": {
+        "doi": "10.1371/annotation/e273e6f2-2a07-407a-8162-e2547661c192"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0039718"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Transcriptional Profiling of Serogroup B Neisseria meningitidis Growing in Human Blood: An Approach to Vaccine Antigen Discovery"
+}

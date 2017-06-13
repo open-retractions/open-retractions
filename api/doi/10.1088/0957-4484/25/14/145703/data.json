@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426636800000,"doi":"10.1088/0957-4484/26/14/149501","type":"correction"},"doi":"10.1088/0957-4484/25/14/145703","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: Calibrated complex impedance and permittivity measurements with scanning microwave microscopy (2014 Nanotechnology 25 145703)"}
+{
+  "retracted": false,
+  "timestamp": 1426636800000,
+  "updates": [
+    {
+      "timestamp": 1496051874522,
+      "identifier": {
+        "doi": "10.1088/0957-4484/26/14/149501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/25/14/145703"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Calibrated complex impedance and permittivity measurements with scanning microwave microscopy (2014 Nanotechnology 25 145703)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403308800000,"doi":"10.1007/s11224-014-0457-8","type":"correction"},"doi":"10.1007/s11224-013-0285-2","journal":"Structural Chemistry","publisher":"Springer Nature","title":"Erratum to: Chemical bond between Cu(II) and Rn: ab initio study of CuRn n 2+ (n = 1–6) by coupled cluster method"}
+{
+  "retracted": false,
+  "timestamp": 1403308800000,
+  "updates": [
+    {
+      "timestamp": 1496047686233,
+      "identifier": {
+        "doi": "10.1007/s11224-014-0457-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11224-013-0285-2"
+  },
+  "journal": "Structural Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chemical bond between Cu(II) and Rn: ab initio study of CuRn n 2+ (n = 1–6) by coupled cluster method"
+}

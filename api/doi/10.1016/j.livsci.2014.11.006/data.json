@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.livsci.2015.01.015","type":"err"},"doi":"10.1016/j.livsci.2014.11.006","journal":"Livestock Science","publisher":"Elsevier BV","title":"Corrigendum to: The effect of lysine restriction during grower period on productive performance, serum metabolites and fatness of heavy barrows and gilts [Livest. Sci. 171C (2015) 36–43]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496044020326,
+      "identifier": {
+        "doi": "10.1016/j.livsci.2015.01.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.livsci.2014.11.006"
+  },
+  "journal": "Livestock Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: The effect of lysine restriction during grower period on productive performance, serum metabolites and fatness of heavy barrows and gilts [Livest. Sci. 171C (2015) 36–43]"
+}

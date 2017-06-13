@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428710400000,"doi":"10.1007/s11356-015-4460-4","type":"correction"},"doi":"10.1007/s11356-014-4014-1","journal":"Environmental Science and Pollution Research","publisher":"Springer Nature","title":"Erratum to: Acetylcholinesterase in zebrafish embryos as a tool to identify neurotoxic effects in sediments"}
+{
+  "retracted": false,
+  "timestamp": 1428710400000,
+  "updates": [
+    {
+      "timestamp": 1496056563586,
+      "identifier": {
+        "doi": "10.1007/s11356-015-4460-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11356-014-4014-1"
+  },
+  "journal": "Environmental Science and Pollution Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Acetylcholinesterase in zebrafish embryos as a tool to identify neurotoxic effects in sediments"
+}

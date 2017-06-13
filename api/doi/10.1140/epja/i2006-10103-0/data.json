@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1175126400000,"doi":"10.1140/epja/i2007-10013-7","type":"correction"},"doi":"10.1140/epja/i2006-10103-0","journal":"The European Physical Journal A","publisher":"Springer Nature","title":"Electromagnetic polarizabilities of the nucleon and properties of the σ-meson pole contribution"}
+{
+  "retracted": false,
+  "timestamp": 1175126400000,
+  "updates": [
+    {
+      "timestamp": 1495895496373,
+      "identifier": {
+        "doi": "10.1140/epja/i2007-10013-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epja/i2006-10103-0"
+  },
+  "journal": "The European Physical Journal A",
+  "publisher": "Springer Nature",
+  "title": "Electromagnetic polarizabilities of the nucleon and properties of the σ-meson pole contribution"
+}

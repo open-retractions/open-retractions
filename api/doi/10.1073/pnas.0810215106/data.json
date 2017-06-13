@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1242086400000,"doi":"10.1073/pnas.0905400106","type":"correction"},"doi":"10.1073/pnas.0810215106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sparks et al., Detection of circular polarization in light scattered from photosynthetic microbes"}
+{
+  "retracted": false,
+  "timestamp": 1242086400000,
+  "updates": [
+    {
+      "timestamp": 1495955755484,
+      "identifier": {
+        "doi": "10.1073/pnas.0905400106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0810215106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sparks et al., Detection of circular polarization in light scattered from photosynthetic microbes"
+}

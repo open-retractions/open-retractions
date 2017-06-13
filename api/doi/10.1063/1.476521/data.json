@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":967766400000,"doi":"10.1063/1.1286968","type":"erratum"},"doi":"10.1063/1.476521","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Density functional solvation model based on CM2 atomic charges” [J. Chem. Phys. 109, 9117 (1998); 111, 5624 (E) (1999)]"}
+{
+  "retracted": false,
+  "timestamp": 967766400000,
+  "updates": [
+    {
+      "timestamp": 1495866943123,
+      "identifier": {
+        "doi": "10.1063/1.1286968"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.476521"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Density functional solvation model based on CM2 atomic charges” [J. Chem. Phys. 109, 9117 (1998); 111, 5624 (E) (1999)]"
+}

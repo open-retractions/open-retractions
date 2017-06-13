@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.foodchem.2014.02.033","type":"err"},"doi":"10.1016/j.foodchem.2012.09.151","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Quality and antioxidant properties of breads enriched with dry onion (Allium cepa L.) skin” [Food Chem. 138 (2012) 1621–1628]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496020914830,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2014.02.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2012.09.151"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quality and antioxidant properties of breads enriched with dry onion (Allium cepa L.) skin” [Food Chem. 138 (2012) 1621–1628]"
+}

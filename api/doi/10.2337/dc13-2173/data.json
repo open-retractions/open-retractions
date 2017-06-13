@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.2337/dc14-er06a","type":"correction"},"doi":"10.2337/dc13-2173","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Empirically Establishing Blood Glucose Targets to Achieve HbA1cGoals. Diabetes Care 2014;37:1048–1051"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496039406035,
+      "identifier": {
+        "doi": "10.2337/dc14-er06a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc13-2173"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Empirically Establishing Blood Glucose Targets to Achieve HbA1cGoals. Diabetes Care 2014;37:1048–1051"
+}

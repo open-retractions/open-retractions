@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.actamat.2016.10.017","type":"err"},"doi":"10.1016/j.actamat.2015.04.030","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Analytical model for equiaxed globular solidification in multicomponent alloys” [Acta Mater. 97 (2015) 419–434]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495650685533,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2016.10.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2015.04.030"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analytical model for equiaxed globular solidification in multicomponent alloys” [Acta Mater. 97 (2015) 419–434]"
+}

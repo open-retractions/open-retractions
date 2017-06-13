@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427241600000,"doi":"10.1063/1.4916504","type":"correction"},"doi":"10.1063/1.4819779","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Hamiltonian magnetohydrodynamics: Lagrangian, Eulerian, and dynamically accessible stability—Theory” [Phys. Plasmas 20, 092104 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1427241600000,
+  "updates": [
+    {
+      "timestamp": 1496053095761,
+      "identifier": {
+        "doi": "10.1063/1.4916504"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4819779"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Hamiltonian magnetohydrodynamics: Lagrangian, Eulerian, and dynamically accessible stability—Theory” [Phys. Plasmas 20, 092104 (2013)]"
+}

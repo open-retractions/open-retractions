@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jlumin.2015.10.051","type":"err"},"doi":"10.1016/j.jlumin.2013.12.052","journal":"Journal of Luminescence","publisher":"Elsevier BV","title":"Corrigendum to “Empirical relation between covalence and the energy position of the Ni2+ 1E state in octahedral complexes” [J. Lumin. 148 (2014) 338–341]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496043254735,
+      "identifier": {
+        "doi": "10.1016/j.jlumin.2015.10.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jlumin.2013.12.052"
+  },
+  "journal": "Journal of Luminescence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Empirical relation between covalence and the energy position of the Ni2+ 1E state in octahedral complexes” [J. Lumin. 148 (2014) 338–341]"
+}

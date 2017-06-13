@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.ympev.2014.04.008","type":"err"},"doi":"10.1016/j.ympev.2014.01.022","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “Sequence-structure based phylogeny of GPCR Class A Rhodopsin receptors” [Mol. Phylogenet. Evol. 74 (2014) 66–96]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496033954144,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2014.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2014.01.022"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sequence-structure based phylogeny of GPCR Class A Rhodopsin receptors” [Mol. Phylogenet. Evol. 74 (2014) 66–96]"
+}

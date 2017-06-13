@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.iac.2017.02.003","type":"erratum"},"doi":"10.1016/j.iac.2016.08.015","journal":"Immunology and Allergy Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495734024998,
+      "identifier": {
+        "doi": "10.1016/j.iac.2017.02.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.iac.2016.08.015"
+  },
+  "journal": "Immunology and Allergy Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

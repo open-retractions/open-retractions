@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jcp.2015.01.036","type":"err"},"doi":"10.1016/j.jcp.2013.12.003","journal":"Journal of Computational Physics","publisher":"Elsevier BV","title":"Corrigendum to “A mixture-energy-consistent six-equation two-phase numerical model for fluids with interfaces, cavitation and evaporation waves” [J. Comput. Phys. 259 (2014) 331–357]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496041763805,
+      "identifier": {
+        "doi": "10.1016/j.jcp.2015.01.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcp.2013.12.003"
+  },
+  "journal": "Journal of Computational Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A mixture-energy-consistent six-equation two-phase numerical model for fluids with interfaces, cavitation and evaporation waves” [J. Comput. Phys. 259 (2014) 331–357]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467936000000,"doi":"10.1038/srep29331","type":"correction"},"doi":"10.1038/srep10747","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Follower ants in a tandem pair are not always naïve"}
+{
+  "retracted": false,
+  "timestamp": 1467936000000,
+  "updates": [
+    {
+      "timestamp": 1495725779675,
+      "identifier": {
+        "doi": "10.1038/srep29331"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10747"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Follower ants in a tandem pair are not always naïve"
+}

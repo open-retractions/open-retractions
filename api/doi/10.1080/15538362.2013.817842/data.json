@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1080/15538362.2014.899143","type":"correction"},"doi":"10.1080/15538362.2013.817842","journal":"International Journal of Fruit Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038587379,
+      "identifier": {
+        "doi": "10.1080/15538362.2014.899143"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15538362.2013.817842"
+  },
+  "journal": "International Journal of Fruit Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

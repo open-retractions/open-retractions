@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399766400000,"doi":"10.1134/s1063776114040037","type":"correction"},"doi":"10.1134/s1063776113140136","journal":"Journal of Experimental and Theoretical Physics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “The nature of oscillations of the crystallization front in a diluted binary melt during the initial transient process”"}
+{
+  "retracted": false,
+  "timestamp": 1399766400000,
+  "updates": [
+    {
+      "timestamp": 1496037810778,
+      "identifier": {
+        "doi": "10.1134/s1063776114040037"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063776113140136"
+  },
+  "journal": "Journal of Experimental and Theoretical Physics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “The nature of oscillations of the crystallization front in a diluted binary melt during the initial transient process”"
+}

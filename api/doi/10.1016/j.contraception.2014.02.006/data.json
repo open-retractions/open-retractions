@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.contraception.2016.05.001","type":"err"},"doi":"10.1016/j.contraception.2014.02.006","journal":"Contraception","publisher":"Elsevier BV","title":"Corrigendum to “effect of progestins on immunity: medroxyprogesterone but not norethisterone or levonorgestrel suppresses the function of T cells and pDCs” [contraception 90 (2014) 123–129]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495715789913,
+      "identifier": {
+        "doi": "10.1016/j.contraception.2016.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.contraception.2014.02.006"
+  },
+  "journal": "Contraception",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “effect of progestins on immunity: medroxyprogesterone but not norethisterone or levonorgestrel suppresses the function of T cells and pDCs” [contraception 90 (2014) 123–129]"
+}

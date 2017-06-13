@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351728000000,"doi":"10.1007/s10584-012-0621-3","type":"correction"},"doi":"10.1007/s10584-011-0312-5","journal":"Climatic Change","publisher":"Springer Nature","title":"Erratum to: Simulating cold season snowpack: Impacts of snow albedo and multi-layer snow physics"}
+{
+  "retracted": false,
+  "timestamp": 1351728000000,
+  "updates": [
+    {
+      "timestamp": 1495931800480,
+      "identifier": {
+        "doi": "10.1007/s10584-012-0621-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10584-011-0312-5"
+  },
+  "journal": "Climatic Change",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simulating cold season snowpack: Impacts of snow albedo and multi-layer snow physics"
+}

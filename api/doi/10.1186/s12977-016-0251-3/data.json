@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462752000000,"doi":"10.1186/s12977-016-0264-y","type":"correction"},"doi":"10.1186/s12977-016-0251-3","journal":"Retrovirology","publisher":"Springer Nature","title":"Erratum to: Intradermal injection of a Tat Oyi-based therapeutic HIV vaccine reduces of 1.5 log copies/mL the HIV RNA rebound median and no HIV DNA rebound following cART interruption in a phase I/II randomized controlled clinical trial"}
+{
+  "retracted": false,
+  "timestamp": 1462752000000,
+  "updates": [
+    {
+      "timestamp": 1495675002145,
+      "identifier": {
+        "doi": "10.1186/s12977-016-0264-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12977-016-0251-3"
+  },
+  "journal": "Retrovirology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intradermal injection of a Tat Oyi-based therapeutic HIV vaccine reduces of 1.5 log copies/mL the HIV RNA rebound median and no HIV DNA rebound following cART interruption in a phase I/II randomized controlled clinical trial"
+}

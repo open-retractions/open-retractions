@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416009600000,"doi":"10.1016/j.abb.2014.08.005","type":"err"},"doi":"10.1016/j.abb.2013.08.018","journal":"Archives of Biochemistry and Biophysics","publisher":"Elsevier BV","title":"Corrigendum to “Identification, characterization, and crystal structure of an aldo–keto reductase (AKR2E4) from the silkworm Bombyx mori” [Arch Biochem Biophys 538 (2013) 156–163]"}
+{
+  "retracted": false,
+  "timestamp": 1416009600000,
+  "updates": [
+    {
+      "timestamp": 1496000130375,
+      "identifier": {
+        "doi": "10.1016/j.abb.2014.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.abb.2013.08.018"
+  },
+  "journal": "Archives of Biochemistry and Biophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification, characterization, and crystal structure of an aldo–keto reductase (AKR2E4) from the silkworm Bombyx mori” [Arch Biochem Biophys 538 (2013) 156–163]"
+}

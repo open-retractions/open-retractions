@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442188800000,"doi":"10.1007/s00396-015-3766-6","type":"correction"},"doi":"10.1007/s00396-015-3662-0","journal":"Colloid and Polymer Science","publisher":"Springer Nature","title":"Erratum to: Effect of alcohols on the heat of micellization of Pluronic F88 aqueous solutions"}
+{
+  "retracted": false,
+  "timestamp": 1442188800000,
+  "updates": [
+    {
+      "timestamp": 1496030588770,
+      "identifier": {
+        "doi": "10.1007/s00396-015-3766-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00396-015-3662-0"
+  },
+  "journal": "Colloid and Polymer Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of alcohols on the heat of micellization of Pluronic F88 aqueous solutions"
+}

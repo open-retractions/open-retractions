@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.chemosphere.2014.09.001","type":"err"},"doi":"10.1016/j.chemosphere.2014.02.038","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Impact of a short-term diazinon exposure on the osmoregulation potentiality of Caspian roach (Rutilus rutilus) fingerlings” [Chemosphere 108 (2014) 396–404]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496007376531,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2014.02.038"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impact of a short-term diazinon exposure on the osmoregulation potentiality of Caspian roach (Rutilus rutilus) fingerlings” [Chemosphere 108 (2014) 396–404]"
+}

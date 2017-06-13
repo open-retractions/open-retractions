@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487894400000,"doi":"10.1074/jbc.a117.313385","type":"correction"},"doi":"10.1074/jbc.m313385200","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"S-Nitrosylation of heterogeneous nuclear ribonucleoprotein A/B regulates osteopontin transcription in endotoxin-stimulated murine macrophages."}
+{
+  "retracted": false,
+  "timestamp": 1487894400000,
+  "updates": [
+    {
+      "timestamp": 1495723189273,
+      "identifier": {
+        "doi": "10.1074/jbc.a117.313385"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m313385200"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "S-Nitrosylation of heterogeneous nuclear ribonucleoprotein A/B regulates osteopontin transcription in endotoxin-stimulated murine macrophages."
+}

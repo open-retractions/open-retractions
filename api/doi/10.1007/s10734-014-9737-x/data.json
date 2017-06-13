@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434844800000,"doi":"10.1007/s10734-015-9909-3","type":"correction"},"doi":"10.1007/s10734-014-9737-x","journal":"Higher Education","publisher":"Springer Nature","title":"Erratum to: A new indicator for higher education student performance"}
+{
+  "retracted": false,
+  "timestamp": 1434844800000,
+  "updates": [
+    {
+      "timestamp": 1496009478140,
+      "identifier": {
+        "doi": "10.1007/s10734-015-9909-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10734-014-9737-x"
+  },
+  "journal": "Higher Education",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new indicator for higher education student performance"
+}

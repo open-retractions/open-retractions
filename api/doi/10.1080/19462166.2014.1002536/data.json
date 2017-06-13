@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1080/19462166.2015.1015836","type":"correction"},"doi":"10.1080/19462166.2014.1002536","journal":"Argument & Computation","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496043148565,
+      "identifier": {
+        "doi": "10.1080/19462166.2015.1015836"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19462166.2014.1002536"
+  },
+  "journal": "Argument & Computation",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1007/s10482-016-0773-7","type":"correction"},"doi":"10.1007/s10482-016-0732-3","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Lysinibacillus endophyticus sp. nov., an indole-3-acetic acid producing endophytic bacterium isolated from corn root (Zea mays cv. Xinken-5)"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495644583158,
+      "identifier": {
+        "doi": "10.1007/s10482-016-0773-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-016-0732-3"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lysinibacillus endophyticus sp. nov., an indole-3-acetic acid producing endophytic bacterium isolated from corn root (Zea mays cv. Xinken-5)"
+}

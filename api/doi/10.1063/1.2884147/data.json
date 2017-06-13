@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354492800000,"doi":"10.1063/1.4769391","type":"correction"},"doi":"10.1063/1.2884147","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Optical tweezers with 2.5 kHz bandwidth video detection for single-colloid electrophoresis” [Rev. Sci. Instrum. 79, 023710 (2008)]"}
+{
+  "retracted": false,
+  "timestamp": 1354492800000,
+  "updates": [
+    {
+      "timestamp": 1495976222241,
+      "identifier": {
+        "doi": "10.1063/1.4769391"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2884147"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Optical tweezers with 2.5 kHz bandwidth video detection for single-colloid electrophoresis” [Rev. Sci. Instrum. 79, 023710 (2008)]"
+}

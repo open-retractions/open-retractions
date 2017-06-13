@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458518400000,"doi":"10.1007/s00103-016-2327-6","type":"correction"},"doi":"10.1007/s00103-012-1624-y","journal":"Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz","publisher":"Springer Nature","title":"Erratum zu: Die Berechnung indikationsspezifischer Kosten bei GKV-Routinedatenanalysen am Beispiel von ADHS"}
+{
+  "retracted": false,
+  "timestamp": 1458518400000,
+  "updates": [
+    {
+      "timestamp": 1495656710569,
+      "identifier": {
+        "doi": "10.1007/s00103-016-2327-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00103-012-1624-y"
+  },
+  "journal": "Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Die Berechnung indikationsspezifischer Kosten bei GKV-Routinedatenanalysen am Beispiel von ADHS"
+}

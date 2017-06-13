@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":654739200000,"doi":"10.1007/bf02898249","type":"correction"},"doi":"10.1007/bf03029284","journal":"Journal of Phase Equilibria","publisher":"Springer Nature","title":"Erratum to Melting points of the metallic elements having the face-centered cubic, body-centered cubic, and close-packed hexagonal structures"}
+{
+  "retracted": false,
+  "timestamp": 654739200000,
+  "updates": [
+    {
+      "timestamp": 1495863764403,
+      "identifier": {
+        "doi": "10.1007/bf02898249"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03029284"
+  },
+  "journal": "Journal of Phase Equilibria",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Melting points of the metallic elements having the face-centered cubic, body-centered cubic, and close-packed hexagonal structures"
+}

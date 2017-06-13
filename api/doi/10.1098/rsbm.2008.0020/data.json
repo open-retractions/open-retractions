@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1260576000000,"doi":"10.1098/rsbm.2010.0006","type":"correction"},"doi":"10.1098/rsbm.2008.0020","journal":"Biographical Memoirs of Fellows of the Royal Society","publisher":"The Royal Society","title":"Correction for Sir Robert William Kerr Honeycombe. 2 May 1921 -- 14 September 2007"}
+{
+  "retracted": false,
+  "timestamp": 1260576000000,
+  "updates": [
+    {
+      "timestamp": 1495836947758,
+      "identifier": {
+        "doi": "10.1098/rsbm.2010.0006"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbm.2008.0020"
+  },
+  "journal": "Biographical Memoirs of Fellows of the Royal Society",
+  "publisher": "The Royal Society",
+  "title": "Correction for Sir Robert William Kerr Honeycombe. 2 May 1921 -- 14 September 2007"
+}

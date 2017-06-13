@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395100800000,"doi":"10.3109/15419061.2013.853391","type":"correction"},"doi":"10.3109/15419061.2013.833194","journal":"Cell Communication & Adhesion","publisher":"Informa UK Limited","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1395100800000,
+  "updates": [
+    {
+      "timestamp": 1496054487268,
+      "identifier": {
+        "doi": "10.3109/15419061.2013.853391"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15419061.2013.833194"
+  },
+  "journal": "Cell Communication & Adhesion",
+  "publisher": "Informa UK Limited",
+  "title": "ERRATUM"
+}

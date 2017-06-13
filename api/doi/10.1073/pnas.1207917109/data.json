@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1073/pnas.1410423111","type":"correction"},"doi":"10.1073/pnas.1207917109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Romano et al., MiR-494 is regulated by ERK1/2 and modulates TRAIL-induced apoptosis in non-small-cell lung cancer through BIM down-regulation"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496049148209,
+      "identifier": {
+        "doi": "10.1073/pnas.1410423111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1207917109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Romano et al., MiR-494 is regulated by ERK1/2 and modulates TRAIL-induced apoptosis in non-small-cell lung cancer through BIM down-regulation"
+}

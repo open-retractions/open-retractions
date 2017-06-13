@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474761600000,"doi":"10.1080/02664763.2016.1226041","type":"correction"},"doi":"10.1080/02664763.2016.1213003","journal":"Journal of Applied Statistics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1474761600000,
+  "updates": [
+    {
+      "timestamp": 1495643080012,
+      "identifier": {
+        "doi": "10.1080/02664763.2016.1226041"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02664763.2016.1213003"
+  },
+  "journal": "Journal of Applied Statistics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

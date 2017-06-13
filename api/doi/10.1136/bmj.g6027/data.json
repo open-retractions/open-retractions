@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1136/bmj.h5550","type":"correction"},"doi":"10.1136/bmj.g6027","journal":"BMJ","publisher":"BMJ","title":"Margaret McCartney: Have we given guidelines too much power?"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496039607975,
+      "identifier": {
+        "doi": "10.1136/bmj.h5550"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g6027"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Margaret McCartney: Have we given guidelines too much power?"
+}

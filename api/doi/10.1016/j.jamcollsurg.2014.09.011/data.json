@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jamcollsurg.2016.07.013","type":"err"},"doi":"10.1016/j.jamcollsurg.2014.09.011","journal":"Journal of the American College of Surgeons","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495651152765,
+      "identifier": {
+        "doi": "10.1016/j.jamcollsurg.2016.07.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jamcollsurg.2014.09.011"
+  },
+  "journal": "Journal of the American College of Surgeons",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

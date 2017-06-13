@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422576000000,"doi":"10.1007/s10799-015-0214-8","type":"correction"},"doi":"10.1007/s10799-014-0210-4","journal":"Information Technology and Management","publisher":"Springer Nature","title":"Erratum to: Electronic CRM and perceptions of unfairness"}
+{
+  "retracted": false,
+  "timestamp": 1422576000000,
+  "updates": [
+    {
+      "timestamp": 1496040502012,
+      "identifier": {
+        "doi": "10.1007/s10799-015-0214-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10799-014-0210-4"
+  },
+  "journal": "Information Technology and Management",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Electronic CRM and perceptions of unfairness"
+}

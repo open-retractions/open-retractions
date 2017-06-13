@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456963200000,"doi":"10.1007/s00382-016-3050-6","type":"correction"},"doi":"10.1007/s00382-015-2900-y","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: Use of A-train satellite observations (CALIPSO–PARASOL) to evaluate tropical cloud properties in the LMDZ5 GCM"}
+{
+  "retracted": false,
+  "timestamp": 1456963200000,
+  "updates": [
+    {
+      "timestamp": 1495649710826,
+      "identifier": {
+        "doi": "10.1007/s00382-016-3050-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-015-2900-y"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Use of A-train satellite observations (CALIPSO–PARASOL) to evaluate tropical cloud properties in the LMDZ5 GCM"
+}

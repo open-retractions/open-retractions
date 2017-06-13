@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.solener.2014.06.002","type":"err"},"doi":"10.1016/j.solener.2014.03.025","journal":"Solar Energy","publisher":"Elsevier BV","title":"Corrigendum to “Balancing heat transfer fluid flow in solar fields” [Solar Energy 105 (2014) 381–389]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496048406487,
+      "identifier": {
+        "doi": "10.1016/j.solener.2014.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solener.2014.03.025"
+  },
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Balancing heat transfer fluid flow in solar fields” [Solar Energy 105 (2014) 381–389]"
+}

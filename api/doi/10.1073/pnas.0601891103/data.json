@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1159833600000,"doi":"10.1073/pnas.0607321103","type":"correction"},"doi":"10.1073/pnas.0601891103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Meulener et al., Mutational analysis of DJ-1 in Drosophila implicates functional inactivation by oxidative damage and aging"}
+{
+  "retracted": false,
+  "timestamp": 1159833600000,
+  "updates": [
+    {
+      "timestamp": 1495868129558,
+      "identifier": {
+        "doi": "10.1073/pnas.0607321103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0601891103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Meulener et al., Mutational analysis of DJ-1 in Drosophila implicates functional inactivation by oxidative damage and aging"
+}

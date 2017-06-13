@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1262736000000,"doi":"10.1098/rsif.2010.0478","type":"correction"},"doi":"10.1098/rsif.2009.0111","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Corrigendum for the paper 'North-South divide: contrasting impacts of climate change on crop yields in Scotland and England'"}
+{
+  "retracted": false,
+  "timestamp": 1262736000000,
+  "updates": [
+    {
+      "timestamp": 1495889182365,
+      "identifier": {
+        "doi": "10.1098/rsif.2010.0478"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2009.0111"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Corrigendum for the paper 'North-South divide: contrasting impacts of climate change on crop yields in Scotland and England'"
+}

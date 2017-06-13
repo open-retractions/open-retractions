@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.knee.2016.06.013","type":"err"},"doi":"10.1016/j.knee.2015.10.012","journal":"The Knee","publisher":"Elsevier BV","title":"Erratum to “Non-resurfacing techniques in the management of the patella at total knee arthroplasty: A systematic review and meta-analysis” [The Knee 23 (2016) 191–197]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495725784973,
+      "identifier": {
+        "doi": "10.1016/j.knee.2016.06.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.knee.2015.10.012"
+  },
+  "journal": "The Knee",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Non-resurfacing techniques in the management of the patella at total knee arthroplasty: A systematic review and meta-analysis” [The Knee 23 (2016) 191–197]"
+}

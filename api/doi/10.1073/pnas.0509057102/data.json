@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1138060800000,"doi":"10.1073/pnas.0510844103","type":"correction"},"doi":"10.1073/pnas.0509057102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Held et al., Inaugural Article: Simulation of Sahel drought in the 20th and 21st centuries, PNAS 2005 102:17891-17896"}
+{
+  "retracted": false,
+  "timestamp": 1138060800000,
+  "updates": [
+    {
+      "timestamp": 1495973960427,
+      "identifier": {
+        "doi": "10.1073/pnas.0510844103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0509057102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Held et al., Inaugural Article: Simulation of Sahel drought in the 20th and 21st centuries, PNAS 2005 102:17891-17896"
+}

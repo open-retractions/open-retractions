@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476835200000,"doi":"10.1038/srep35093","type":"correction"},"doi":"10.1038/srep26720","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Broken selection rule in the quantum Rabi model"}
+{
+  "retracted": false,
+  "timestamp": 1476835200000,
+  "updates": [
+    {
+      "timestamp": 1495650227472,
+      "identifier": {
+        "doi": "10.1038/srep35093"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep26720"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Broken selection rule in the quantum Rabi model"
+}

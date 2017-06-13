@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368144000000,"doi":"10.1063/1.4806968","type":"correction"},"doi":"10.1063/1.3643328","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Accelerating atomic-level protein simulations by flat-histogram techniques” [J. Chem. Phys. 135, 125102 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1368144000000,
+  "updates": [
+    {
+      "timestamp": 1496018879773,
+      "identifier": {
+        "doi": "10.1063/1.4806968"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3643328"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Accelerating atomic-level protein simulations by flat-histogram techniques” [J. Chem. Phys. 135, 125102 (2011)]"
+}

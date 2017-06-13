@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1186/s13048-015-0194-7","type":"correction"},"doi":"10.1186/s13048-014-0084-4","journal":"Journal of Ovarian Research","publisher":"Springer Nature","title":"Erratum to: microRNA 490-3P enhances the drug-resistance of human ovarian cancer cells"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496050187575,
+      "identifier": {
+        "doi": "10.1186/s13048-015-0194-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13048-014-0084-4"
+  },
+  "journal": "Journal of Ovarian Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: microRNA 490-3P enhances the drug-resistance of human ovarian cancer cells"
+}

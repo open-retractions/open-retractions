@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1168905600000,"doi":"10.1371/journal.pbio.0050028","type":"correction"},"doi":"10.1371/journal.pbio.0040382","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Interdigitated Paralemniscal and Lemniscal Pathways in the Mouse Barrel Cortex"}
+{
+  "retracted": false,
+  "timestamp": 1168905600000,
+  "updates": [
+    {
+      "timestamp": 1495926267996,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0050028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0040382"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Interdigitated Paralemniscal and Lemniscal Pathways in the Mouse Barrel Cortex"
+}

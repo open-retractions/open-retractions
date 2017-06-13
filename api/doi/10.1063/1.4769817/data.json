@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447372800000,"doi":"10.1063/1.4935600","type":"correction"},"doi":"10.1063/1.4769817","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Rapid thermal annealing of graphene-metal contact” [Appl. Phys. Lett. 101, 243105 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1447372800000,
+  "updates": [
+    {
+      "timestamp": 1496045787944,
+      "identifier": {
+        "doi": "10.1063/1.4935600"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4769817"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Rapid thermal annealing of graphene-metal contact” [Appl. Phys. Lett. 101, 243105 (2012)]"
+}

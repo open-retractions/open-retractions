@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.aop.2013.09.009","type":"err"},"doi":"10.1016/j.aop.2004.04.007","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Corrigendum to “Second quantized reduced Bloch equations and the exact solutions for pairing Hamiltonian” [Ann. Physics 313 (2004) 1–15]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496055116319,
+      "identifier": {
+        "doi": "10.1016/j.aop.2013.09.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2004.04.007"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Second quantized reduced Bloch equations and the exact solutions for pairing Hamiltonian” [Ann. Physics 313 (2004) 1–15]"
+}

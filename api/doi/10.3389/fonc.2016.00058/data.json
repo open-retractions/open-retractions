@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484784000000,"doi":"10.3389/fonc.2016.00271","type":"corrigendum"},"doi":"10.3389/fonc.2016.00058","journal":"Frontiers in Oncology","publisher":"Frontiers Media SA","title":"Corrigendum: Influence of Dose Rate on the Cellular Response to Low- and High-LET Radiations"}
+{
+  "retracted": false,
+  "timestamp": 1484784000000,
+  "updates": [
+    {
+      "timestamp": 1495677134520,
+      "identifier": {
+        "doi": "10.3389/fonc.2016.00271"
+      },
+      "type": "corrigendum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3389/fonc.2016.00058"
+  },
+  "journal": "Frontiers in Oncology",
+  "publisher": "Frontiers Media SA",
+  "title": "Corrigendum: Influence of Dose Rate on the Cellular Response to Low- and High-LET Radiations"
+}

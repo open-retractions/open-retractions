@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355788800000,"doi":"10.1371/annotation/f9017013-88c8-44db-818b-08b9322f3814","type":"correction"},"doi":"10.1371/journal.ppat.1003072","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Clostridium difficile Toxin B Causes Epithelial Cell Necrosis through an Autoprocessing-Independent Mechanism"}
+{
+  "retracted": false,
+  "timestamp": 1355788800000,
+  "updates": [
+    {
+      "timestamp": 1496000043530,
+      "identifier": {
+        "doi": "10.1371/annotation/f9017013-88c8-44db-818b-08b9322f3814"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003072"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Clostridium difficile Toxin B Causes Epithelial Cell Necrosis through an Autoprocessing-Independent Mechanism"
+}

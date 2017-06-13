@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.1063/1.4932636","type":"correction"},"doi":"10.1063/1.4922457","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Molecular dynamics simulation of radiation damage cascades in diamond” [J. Appl. Phys. 117, 245901 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496035929617,
+      "identifier": {
+        "doi": "10.1063/1.4932636"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4922457"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Molecular dynamics simulation of radiation damage cascades in diamond” [J. Appl. Phys. 117, 245901 (2015)]"
+}

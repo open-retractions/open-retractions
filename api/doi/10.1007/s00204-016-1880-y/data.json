@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1007/s00204-016-1896-3","type":"correction"},"doi":"10.1007/s00204-016-1880-y","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Erratum to: Aryl hydrocarbon receptor signaling modifies Toll-like receptor-regulated responses in human dendritic cells"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495658637493,
+      "identifier": {
+        "doi": "10.1007/s00204-016-1896-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-016-1880-y"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Aryl hydrocarbon receptor signaling modifies Toll-like receptor-regulated responses in human dendritic cells"
+}

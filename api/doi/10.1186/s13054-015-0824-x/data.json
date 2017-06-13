@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442275200000,"doi":"10.1186/s13054-015-1053-z","type":"correction"},"doi":"10.1186/s13054-015-0824-x","journal":"Critical Care","publisher":"Springer Nature","title":"Erratum to: Exposure to high concentrations of inspired oxygen does not worsen lung injury after cardiac arrest"}
+{
+  "retracted": false,
+  "timestamp": 1442275200000,
+  "updates": [
+    {
+      "timestamp": 1496030948387,
+      "identifier": {
+        "doi": "10.1186/s13054-015-1053-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13054-015-0824-x"
+  },
+  "journal": "Critical Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exposure to high concentrations of inspired oxygen does not worsen lung injury after cardiac arrest"
+}

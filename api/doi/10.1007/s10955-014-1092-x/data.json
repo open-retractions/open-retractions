@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1007/s10955-014-1128-2","type":"correction"},"doi":"10.1007/s10955-014-1092-x","journal":"Journal of Statistical Physics","publisher":"Springer Nature","title":"Erratum to: Kenneth G. Wilson: Renormalized After-Dinner Anecdotes"}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1496010133700,
+      "identifier": {
+        "doi": "10.1007/s10955-014-1128-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10955-014-1092-x"
+  },
+  "journal": "Journal of Statistical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Kenneth G. Wilson: Renormalized After-Dinner Anecdotes"
+}

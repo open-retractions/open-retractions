@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.ejim.2014.07.008","type":"erratum"},"doi":"10.1016/j.ejim.2013.05.014","journal":"European Journal of Internal Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Why glucocorticoid withdrawal may sometimes be as dangerous as the treatment itself” [Eur J Intern Med, 24 (8), 714–720]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496013768614,
+      "identifier": {
+        "doi": "10.1016/j.ejim.2014.07.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejim.2013.05.014"
+  },
+  "journal": "European Journal of Internal Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Why glucocorticoid withdrawal may sometimes be as dangerous as the treatment itself” [Eur J Intern Med, 24 (8), 714–720]"
+}

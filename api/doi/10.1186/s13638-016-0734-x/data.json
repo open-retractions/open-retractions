@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484179200000,"doi":"10.1186/s13638-016-0797-8","type":"correction"},"doi":"10.1186/s13638-016-0734-x","journal":"EURASIP Journal on Wireless Communications and Networking","publisher":"Springer Nature","title":"Erratum to: Massive MIMO signal transmission in spatially correlated channel environments"}
+{
+  "retracted": false,
+  "timestamp": 1484179200000,
+  "updates": [
+    {
+      "timestamp": 1495675367570,
+      "identifier": {
+        "doi": "10.1186/s13638-016-0797-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13638-016-0734-x"
+  },
+  "journal": "EURASIP Journal on Wireless Communications and Networking",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Massive MIMO signal transmission in spatially correlated channel environments"
+}

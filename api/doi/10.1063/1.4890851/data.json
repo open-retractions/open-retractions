@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407196800000,"doi":"10.1063/1.4892571","type":"correction"},"doi":"10.1063/1.4890851","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Laser-direct-driven quasi-isentropic experiments on aluminum” [Phys. Plasmas 21, 072709 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1407196800000,
+  "updates": [
+    {
+      "timestamp": 1495998234999,
+      "identifier": {
+        "doi": "10.1063/1.4892571"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4890851"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Laser-direct-driven quasi-isentropic experiments on aluminum” [Phys. Plasmas 21, 072709 (2014)]"
+}

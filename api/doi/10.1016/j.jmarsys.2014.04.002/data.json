@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jmarsys.2014.09.005","type":"err"},"doi":"10.1016/j.jmarsys.2014.04.002","journal":"Journal of Marine Systems","publisher":"Elsevier BV","title":"Corrigendum to “Structure and dynamics of food webs in the water column on shelf and slope grounds of the western Mediterranean” [J. Mar. Syst. 138 (2014) 171–181]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496007439133,
+      "identifier": {
+        "doi": "10.1016/j.jmarsys.2014.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmarsys.2014.04.002"
+  },
+  "journal": "Journal of Marine Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structure and dynamics of food webs in the water column on shelf and slope grounds of the western Mediterranean” [J. Mar. Syst. 138 (2014) 171–181]"
+}

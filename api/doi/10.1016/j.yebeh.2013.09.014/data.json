@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.yebeh.2014.04.004","type":"err"},"doi":"10.1016/j.yebeh.2013.09.014","journal":"Epilepsy & Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Functional neuroanatomy of disorders of consciousness” [Epilepsy Behav 30 (2014) 28–32]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496045578413,
+      "identifier": {
+        "doi": "10.1016/j.yebeh.2014.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yebeh.2013.09.014"
+  },
+  "journal": "Epilepsy & Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Functional neuroanatomy of disorders of consciousness” [Epilepsy Behav 30 (2014) 28–32]"
+}

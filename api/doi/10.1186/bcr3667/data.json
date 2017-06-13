@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1186/s13058-016-0776-3","type":"correction"},"doi":"10.1186/bcr3667","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: JMJD2A contributes to breast cancer progression through transcriptional repression of the tumor suppressor ARHI"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495658225644,
+      "identifier": {
+        "doi": "10.1186/s13058-016-0776-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bcr3667"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: JMJD2A contributes to breast cancer progression through transcriptional repression of the tumor suppressor ARHI"
+}

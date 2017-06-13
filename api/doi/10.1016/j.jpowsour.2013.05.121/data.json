@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.jpowsour.2013.12.052","type":"err"},"doi":"10.1016/j.jpowsour.2013.05.121","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Elastic moduli of polycrystalline Li15Si4 produced in lithium ion batteries” [J. Power Sources 242 (2013) 732–735]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496008952438,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.12.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.05.121"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Elastic moduli of polycrystalline Li15Si4 produced in lithium ion batteries” [J. Power Sources 242 (2013) 732–735]"
+}

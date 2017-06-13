@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445644800000,"doi":"10.1007/s10616-015-9923-4","type":"correction"},"doi":"10.1007/s10616-015-9916-3","journal":"Cytotechnology","publisher":"Springer Nature","title":"Erratum to: Cytotoxic effects of 4-octylphenol on fish hepatocytes"}
+{
+  "retracted": false,
+  "timestamp": 1445644800000,
+  "updates": [
+    {
+      "timestamp": 1496040485698,
+      "identifier": {
+        "doi": "10.1007/s10616-015-9923-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10616-015-9916-3"
+  },
+  "journal": "Cytotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cytotoxic effects of 4-octylphenol on fish hepatocytes"
+}

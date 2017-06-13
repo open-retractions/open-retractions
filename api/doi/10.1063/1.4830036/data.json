@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386288000000,"doi":"10.1063/1.4846335","type":"correction"},"doi":"10.1063/1.4830036","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher’s Note: “The pristine atomic structure of MoS2 monolayer protected from electron radiation damage by graphene” [Appl. Phys. Lett. 103, 203107 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1386288000000,
+  "updates": [
+    {
+      "timestamp": 1496003182752,
+      "identifier": {
+        "doi": "10.1063/1.4846335"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4830036"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “The pristine atomic structure of MoS2 monolayer protected from electron radiation damage by graphene” [Appl. Phys. Lett. 103, 203107 (2013)]"
+}

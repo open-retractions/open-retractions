@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1016/j.celrep.2016.10.009","type":"erratum"},"doi":"10.1016/j.celrep.2016.03.075","journal":"Cell Reports","publisher":"Elsevier BV","title":"Genomic Correlates of Immune-Cell Infiltrates in Colorectal Carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495800183146,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.10.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2016.03.075"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Genomic Correlates of Immune-Cell Infiltrates in Colorectal Carcinoma"
+}

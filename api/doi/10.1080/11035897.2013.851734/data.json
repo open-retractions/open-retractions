@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416268800000,"doi":"10.1080/11035897.2014.882085","type":"correction"},"doi":"10.1080/11035897.2013.851734","journal":"GFF","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1416268800000,
+  "updates": [
+    {
+      "timestamp": 1496025164883,
+      "identifier": {
+        "doi": "10.1080/11035897.2014.882085"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/11035897.2013.851734"
+  },
+  "journal": "GFF",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

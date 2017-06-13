@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.thromres.2013.05.022","type":"err"},"doi":"10.1016/j.thromres.2009.11.032","journal":"Thrombosis Research","publisher":"Elsevier BV","title":"Erratum to “Small intestinal bacterial overgrowth and warfarin dose requirement variability” [Thromb. Res. 126 (1) (2010) 12–17]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496034705433,
+      "identifier": {
+        "doi": "10.1016/j.thromres.2013.05.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.thromres.2009.11.032"
+  },
+  "journal": "Thrombosis Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Small intestinal bacterial overgrowth and warfarin dose requirement variability” [Thromb. Res. 126 (1) (2010) 12–17]"
+}

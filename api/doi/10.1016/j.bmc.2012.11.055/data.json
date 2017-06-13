@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.bmc.2013.02.034","type":"err"},"doi":"10.1016/j.bmc.2012.11.055","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and evaluation of thiazolidinedione and dioxazaborocane analogues as inhibitors of AI-2 quorum sensing in Vibrio harveyi” [Bioorg. Med. Chem. 21 (2013) 660–667]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496005079018,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2013.02.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2012.11.055"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and evaluation of thiazolidinedione and dioxazaborocane analogues as inhibitors of AI-2 quorum sensing in Vibrio harveyi” [Bioorg. Med. Chem. 21 (2013) 660–667]"
+}

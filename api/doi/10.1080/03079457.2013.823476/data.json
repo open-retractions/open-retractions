@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455235200000,"doi":"10.1080/03079457.2016.1141577","type":"correction"},"doi":"10.1080/03079457.2013.823476","journal":"Avian Pathology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1455235200000,
+  "updates": [
+    {
+      "timestamp": 1495644589285,
+      "identifier": {
+        "doi": "10.1080/03079457.2016.1141577"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03079457.2013.823476"
+  },
+  "journal": "Avian Pathology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

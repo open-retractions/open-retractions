@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469145600000,"doi":"10.1074/jbc.a115.664367","type":"correction"},"doi":"10.1074/jbc.m115.664367","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Effect of cholesterol reduction on receptor signaling in neurons."}
+{
+  "retracted": false,
+  "timestamp": 1469145600000,
+  "updates": [
+    {
+      "timestamp": 1495731205014,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.664367"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.664367"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Effect of cholesterol reduction on receptor signaling in neurons."
+}

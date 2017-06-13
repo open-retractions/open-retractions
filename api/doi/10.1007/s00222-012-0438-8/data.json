@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438992000000,"doi":"10.1007/s00222-015-0613-9","type":"correction"},"doi":"10.1007/s00222-012-0438-8","journal":"Inventiones mathematicae","publisher":"Springer Nature","title":"Erratum to: The spin of prime ideals"}
+{
+  "retracted": false,
+  "timestamp": 1438992000000,
+  "updates": [
+    {
+      "timestamp": 1496020821354,
+      "identifier": {
+        "doi": "10.1007/s00222-015-0613-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00222-012-0438-8"
+  },
+  "journal": "Inventiones mathematicae",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The spin of prime ideals"
+}

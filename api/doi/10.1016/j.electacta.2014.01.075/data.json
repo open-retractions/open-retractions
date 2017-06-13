@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.electacta.2014.09.004","type":"err"},"doi":"10.1016/j.electacta.2014.01.075","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Charge/discharge cycles on Pt and Pt-Ir based electrodes for the positive side of the Zinc-Cerium hybrid redox flow battery” [125 (2014) 176-182]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495994106988,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2014.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2014.01.075"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Charge/discharge cycles on Pt and Pt-Ir based electrodes for the positive side of the Zinc-Cerium hybrid redox flow battery” [125 (2014) 176-182]"
+}

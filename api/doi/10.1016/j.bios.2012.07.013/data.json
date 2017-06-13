@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.bios.2015.10.048","type":"erratum"},"doi":"10.1016/j.bios.2012.07.013","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to “Detection of multi-color fluorescent objects with single photon spectrometer” [Biosensors and Bioelectronics Volume 39, Issue 1, 15 January 2013, Pages 152–155]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1496040465840,
+      "identifier": {
+        "doi": "10.1016/j.bios.2015.10.048"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2012.07.013"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Detection of multi-color fluorescent objects with single photon spectrometer” [Biosensors and Bioelectronics Volume 39, Issue 1, 15 January 2013, Pages 152–155]"
+}

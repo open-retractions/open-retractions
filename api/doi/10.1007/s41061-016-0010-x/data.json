@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1007/s41061-016-0014-6","type":"correction"},"doi":"10.1007/s41061-016-0010-x","journal":"Topics in Current Chemistry","publisher":"Springer Nature","title":"Erratum to: Bioorthogonal Chemistry—Introduction and Overview"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495647288706,
+      "identifier": {
+        "doi": "10.1007/s41061-016-0014-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s41061-016-0010-x"
+  },
+  "journal": "Topics in Current Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bioorthogonal Chemistry—Introduction and Overview"
+}

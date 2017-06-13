@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395014400000,"doi":"10.1063/1.4868403","type":"correction"},"doi":"10.1063/1.4863421","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Weak antilocalization and conductance fluctuation in a single crystalline Bi nanowire” [Appl. Phys. Lett. 104, 043105 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1395014400000,
+  "updates": [
+    {
+      "timestamp": 1496026335742,
+      "identifier": {
+        "doi": "10.1063/1.4868403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4863421"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Weak antilocalization and conductance fluctuation in a single crystalline Bi nanowire” [Appl. Phys. Lett. 104, 043105 (2014)]"
+}

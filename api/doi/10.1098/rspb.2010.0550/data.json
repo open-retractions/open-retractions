@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1283817600000,"doi":"10.1098/rspb.2010.1935","type":"correction"},"doi":"10.1098/rspb.2010.0550","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"The evolution of migration in a seasonal environment"}
+{
+  "retracted": false,
+  "timestamp": 1283817600000,
+  "updates": [
+    {
+      "timestamp": 1495872785297,
+      "identifier": {
+        "doi": "10.1098/rspb.2010.1935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2010.0550"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "The evolution of migration in a seasonal environment"
+}

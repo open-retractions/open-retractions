@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.ijrobp.2015.11.023","type":"err"},"doi":"10.1016/j.ijrobp.2015.08.010","journal":"International Journal of Radiation Oncology*Biology*Physics","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495647285726,
+      "identifier": {
+        "doi": "10.1016/j.ijrobp.2015.11.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijrobp.2015.08.010"
+  },
+  "journal": "International Journal of Radiation Oncology*Biology*Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

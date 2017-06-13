@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1007/s00044-016-1512-3","type":"correction"},"doi":"10.1007/s00044-015-1488-4","journal":"Medicinal Chemistry Research","publisher":"Springer Nature","title":"Erratum to: Synthesis, antimicrobial activity and docking studies of new N-ethyl-3-indolyl heterocycles"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1495640430576,
+      "identifier": {
+        "doi": "10.1007/s00044-016-1512-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00044-015-1488-4"
+  },
+  "journal": "Medicinal Chemistry Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Synthesis, antimicrobial activity and docking studies of new N-ethyl-3-indolyl heterocycles"
+}

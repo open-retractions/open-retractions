@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.fsi.2013.10.027","type":"err"},"doi":"10.1016/j.fsi.2012.08.006","journal":"Fish & Shellfish Immunology","publisher":"Elsevier BV","title":"Corrigendum to “Innate immune response of silver catfish (Rhamdia quelen) exposed to atrazine” [Fish Shellfish Immunol 33 (2012) 1055–1059]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495991273087,
+      "identifier": {
+        "doi": "10.1016/j.fsi.2013.10.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsi.2012.08.006"
+  },
+  "journal": "Fish & Shellfish Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Innate immune response of silver catfish (Rhamdia quelen) exposed to atrazine” [Fish Shellfish Immunol 33 (2012) 1055–1059]"
+}

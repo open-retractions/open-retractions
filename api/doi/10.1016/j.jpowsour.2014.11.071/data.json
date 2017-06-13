@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jpowsour.2015.03.072","type":"err"},"doi":"10.1016/j.jpowsour.2014.11.071","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Erratum to “Ionic liquids in lithium battery electrolytes: Composition versus safety and physical properties” [J. Power Sources 275 (2015) 935–942]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496045097796,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2015.03.072"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.11.071"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Ionic liquids in lithium battery electrolytes: Composition versus safety and physical properties” [J. Power Sources 275 (2015) 935–942]"
+}

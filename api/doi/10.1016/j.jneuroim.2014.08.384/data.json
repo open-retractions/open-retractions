@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.jneuroim.2016.02.010","type":"err"},"doi":"10.1016/j.jneuroim.2014.08.384","journal":"Journal of Neuroimmunology","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of MCAM contribution to neuroinflammation using a new murine knockout model” [J. Neuroimmunol., 275 (1–2) (2014) 143]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495651271350,
+      "identifier": {
+        "doi": "10.1016/j.jneuroim.2016.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneuroim.2014.08.384"
+  },
+  "journal": "Journal of Neuroimmunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of MCAM contribution to neuroinflammation using a new murine knockout model” [J. Neuroimmunol., 275 (1–2) (2014) 143]"
+}

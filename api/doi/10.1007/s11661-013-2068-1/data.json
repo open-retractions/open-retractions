@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396483200000,"doi":"10.1007/s11661-014-2297-y","type":"correction"},"doi":"10.1007/s11661-013-2068-1","journal":"Metallurgical and Materials Transactions A","publisher":"Springer Nature","title":"Erratum to: Model for Strain-Induced Precipitation Kinetics in Microalloyed Steels"}
+{
+  "retracted": false,
+  "timestamp": 1396483200000,
+  "updates": [
+    {
+      "timestamp": 1496030529591,
+      "identifier": {
+        "doi": "10.1007/s11661-014-2297-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11661-013-2068-1"
+  },
+  "journal": "Metallurgical and Materials Transactions A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Model for Strain-Induced Precipitation Kinetics in Microalloyed Steels"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355961600000,"doi":"10.1007/s11606-012-2293-0","type":"correction"},"doi":"10.1007/s11606-012-2248-5","journal":"Journal of General Internal Medicine","publisher":"Springer Nature","title":"Erratum to: A Missed Opportunity"}
+{
+  "retracted": false,
+  "timestamp": 1355961600000,
+  "updates": [
+    {
+      "timestamp": 1495972449885,
+      "identifier": {
+        "doi": "10.1007/s11606-012-2293-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11606-012-2248-5"
+  },
+  "journal": "Journal of General Internal Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Missed Opportunity"
+}

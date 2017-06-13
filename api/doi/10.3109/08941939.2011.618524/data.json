@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.3109/08941939.2014.943569","type":"correction"},"doi":"10.3109/08941939.2011.618524","journal":"Journal of Investigative Surgery","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1496056308161,
+      "identifier": {
+        "doi": "10.3109/08941939.2014.943569"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/08941939.2011.618524"
+  },
+  "journal": "Journal of Investigative Surgery",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1186/s12889-016-2855-x","type":"correction"},"doi":"10.1186/s12889-015-2467-x","journal":"BMC Public Health","publisher":"Springer Nature","title":"Erratum to: ‘Updated prevalence rates of overweight and obesity in 11- to 17-year-old adolescents in Germany. Results from the telephone-based KiGGS Wave 1 after correction for bias in self-reports’"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652564681,
+      "identifier": {
+        "doi": "10.1186/s12889-016-2855-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12889-015-2467-x"
+  },
+  "journal": "BMC Public Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Updated prevalence rates of overweight and obesity in 11- to 17-year-old adolescents in Germany. Results from the telephone-based KiGGS Wave 1 after correction for bias in self-reports’"
+}

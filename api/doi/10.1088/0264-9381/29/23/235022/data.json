@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474588800000,"doi":"10.1088/0264-9381/33/20/209501","type":"correction"},"doi":"10.1088/0264-9381/29/23/235022","journal":"Classical and Quantum Gravity","publisher":"IOP Publishing","title":"Corrigendum: Exact de Sitter solutions in quadratic gravitation with torsion (2012Class. Quantum Grav.29 235022)"}
+{
+  "retracted": false,
+  "timestamp": 1474588800000,
+  "updates": [
+    {
+      "timestamp": 1495641825948,
+      "identifier": {
+        "doi": "10.1088/0264-9381/33/20/209501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0264-9381/29/23/235022"
+  },
+  "journal": "Classical and Quantum Gravity",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Exact de Sitter solutions in quadratic gravitation with torsion (2012Class. Quantum Grav.29 235022)"
+}

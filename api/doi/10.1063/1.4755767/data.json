@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361491200000,"doi":"10.1063/1.4793596","type":"correction"},"doi":"10.1063/1.4755767","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Simple tuning of carrier type in topological insulator Bi2Se3 by Mn doping” [Appl. Phys. Lett. 101, 152103 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1361491200000,
+  "updates": [
+    {
+      "timestamp": 1496000466062,
+      "identifier": {
+        "doi": "10.1063/1.4793596"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4755767"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Simple tuning of carrier type in topological insulator Bi2Se3 by Mn doping” [Appl. Phys. Lett. 101, 152103 (2012)]"
+}

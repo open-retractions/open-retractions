@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1186/s12860-016-0083-y","type":"correction"},"doi":"10.1186/s12860-015-0061-9","journal":"BMC Cell Biology","publisher":"Springer Nature","title":"Erratum to: miR-487b, miR-3963 and miR-6412 delay myogenic differentiation in mouse myoblast-derived C2C12 cells"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495653049160,
+      "identifier": {
+        "doi": "10.1186/s12860-016-0083-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12860-015-0061-9"
+  },
+  "journal": "BMC Cell Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: miR-487b, miR-3963 and miR-6412 delay myogenic differentiation in mouse myoblast-derived C2C12 cells"
+}

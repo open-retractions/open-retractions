@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.cie.2014.07.013","type":"err"},"doi":"10.1016/j.cie.2013.08.020","journal":"Computers & Industrial Engineering","publisher":"Elsevier BV","title":"Note on “Single-machine due-window assignment and scheduling with resource allocation, aging effect, and a deteriorating rate-modifying activity”"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1495999876014,
+      "identifier": {
+        "doi": "10.1016/j.cie.2014.07.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cie.2013.08.020"
+  },
+  "journal": "Computers & Industrial Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Note on “Single-machine due-window assignment and scheduling with resource allocation, aging effect, and a deteriorating rate-modifying activity”"
+}

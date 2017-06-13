@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398988800000,"doi":"10.1063/1.4875100","type":"correction"},"doi":"10.1063/1.4869786","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Tailoring of unipolar strain in lead-free piezoelectrics using the ceramic/ceramic composite approach” [J. Appl. Phys. 115, 124108 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1398988800000,
+  "updates": [
+    {
+      "timestamp": 1496036696702,
+      "identifier": {
+        "doi": "10.1063/1.4875100"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4869786"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Tailoring of unipolar strain in lead-free piezoelectrics using the ceramic/ceramic composite approach” [J. Appl. Phys. 115, 124108 (2014)]"
+}

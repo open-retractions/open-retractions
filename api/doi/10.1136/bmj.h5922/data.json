@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1136/bmj.i635","type":"correction"},"doi":"10.1136/bmj.h5922","journal":"BMJ","publisher":"BMJ","title":"John Delwyn Thomas"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641517406,
+      "identifier": {
+        "doi": "10.1136/bmj.i635"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h5922"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "John Delwyn Thomas"
+}

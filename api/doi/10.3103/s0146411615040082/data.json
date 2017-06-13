@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459814400000,"doi":"10.3103/s0146411616010107","type":"correction"},"doi":"10.3103/s0146411615040082","journal":"Automatic Control and Computer Sciences","publisher":"Allerton Press","title":"Erratum to: “Solving the Mixed-Integer Knapsack Problem by Decrease of Dimension and Use of Dynamic Programming”"}
+{
+  "retracted": false,
+  "timestamp": 1459814400000,
+  "updates": [
+    {
+      "timestamp": 1495662086737,
+      "identifier": {
+        "doi": "10.3103/s0146411616010107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s0146411615040082"
+  },
+  "journal": "Automatic Control and Computer Sciences",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Solving the Mixed-Integer Knapsack Problem by Decrease of Dimension and Use of Dynamic Programming”"
+}

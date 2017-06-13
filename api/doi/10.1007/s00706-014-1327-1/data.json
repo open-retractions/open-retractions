@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.1007/s00706-016-1702-1","type":"correction"},"doi":"10.1007/s00706-014-1327-1","journal":"Monatshefte für Chemie - Chemical Monthly","publisher":"Springer Nature","title":"Erratum to: Phenolic alkaloids from Menispermum dauricum inhibits apoptosis of cerebral ischemia in rats"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495646533542,
+      "identifier": {
+        "doi": "10.1007/s00706-016-1702-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00706-014-1327-1"
+  },
+  "journal": "Monatshefte für Chemie - Chemical Monthly",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phenolic alkaloids from Menispermum dauricum inhibits apoptosis of cerebral ischemia in rats"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371513600000,"doi":"10.1371/annotation/3f02ad8b-6dac-4460-a969-90b3f5eb1306","type":"correction"},"doi":"10.1371/journal.pone.0065059","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Use of a Four-Tiered Graph to Parse the Factors Leading to Phenotypic Clustering in Bacteria: A Case Study Based on Samples from the Aletsch Glacier"}
+{
+  "retracted": false,
+  "timestamp": 1371513600000,
+  "updates": [
+    {
+      "timestamp": 1496024537615,
+      "identifier": {
+        "doi": "10.1371/annotation/3f02ad8b-6dac-4460-a969-90b3f5eb1306"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0065059"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Use of a Four-Tiered Graph to Parse the Factors Leading to Phenotypic Clustering in Bacteria: A Case Study Based on Samples from the Aletsch Glacier"
+}

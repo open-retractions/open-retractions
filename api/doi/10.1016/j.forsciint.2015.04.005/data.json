@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.forsciint.2016.04.022","type":"err"},"doi":"10.1016/j.forsciint.2015.04.005","journal":"Forensic Science International","publisher":"Elsevier BV","title":"Corrigendum to “DNA and bone structure preservation in medieval human skeletons” [Forensic Sci. Int. 251 (2015) 186–194]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495670631252,
+      "identifier": {
+        "doi": "10.1016/j.forsciint.2016.04.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.forsciint.2015.04.005"
+  },
+  "journal": "Forensic Science International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “DNA and bone structure preservation in medieval human skeletons” [Forensic Sci. Int. 251 (2015) 186–194]"
+}

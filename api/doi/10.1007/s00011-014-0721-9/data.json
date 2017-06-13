@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1007/s00011-014-0726-4","type":"correction"},"doi":"10.1007/s00011-014-0721-9","journal":"Inflammation Research","publisher":"Springer Nature","title":"Erratum to: LPS response pattern of inflammatory adipokines in an in vitro 3T3-L1 murine adipocyte model"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496026911949,
+      "identifier": {
+        "doi": "10.1007/s00011-014-0726-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00011-014-0721-9"
+  },
+  "journal": "Inflammation Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: LPS response pattern of inflammatory adipokines in an in vitro 3T3-L1 murine adipocyte model"
+}

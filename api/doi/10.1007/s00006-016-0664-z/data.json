@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490400000000,"doi":"10.1007/s00006-017-0776-0","type":"correction"},"doi":"10.1007/s00006-016-0664-z","journal":"Advances in Applied Clifford Algebras","publisher":"Springer Nature","title":"Erratum to: The Genesis of Geometric Algebra: A Personal Retrospective"}
+{
+  "retracted": false,
+  "timestamp": 1490400000000,
+  "updates": [
+    {
+      "timestamp": 1495732201817,
+      "identifier": {
+        "doi": "10.1007/s00006-017-0776-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00006-016-0664-z"
+  },
+  "journal": "Advances in Applied Clifford Algebras",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Genesis of Geometric Algebra: A Personal Retrospective"
+}

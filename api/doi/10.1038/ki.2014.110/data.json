@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.kint.2016.01.006","type":"erratum"},"doi":"10.1038/ki.2014.110","journal":"Kidney International","publisher":"Elsevier BV","title":"Scialla JJ, Liu J, Crews DC, et al. An instrumental variable approach finds no associated harm or benefit with early dialysis initiation in the United States. Kidney Int. 2014;86:798–809"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495654266666,
+      "identifier": {
+        "doi": "10.1016/j.kint.2016.01.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/ki.2014.110"
+  },
+  "journal": "Kidney International",
+  "publisher": "Elsevier BV",
+  "title": "Scialla JJ, Liu J, Crews DC, et al. An instrumental variable approach finds no associated harm or benefit with early dialysis initiation in the United States. Kidney Int. 2014;86:798–809"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461369600000,"doi":"10.1007/s12182-016-0097-2","type":"correction"},"doi":"10.1007/s12182-016-0081-x","journal":"Petroleum Science","publisher":"Springer Nature","title":"Erratum to: Supply-based optimal scheduling of oil product pipelines"}
+{
+  "retracted": false,
+  "timestamp": 1461369600000,
+  "updates": [
+    {
+      "timestamp": 1495668353720,
+      "identifier": {
+        "doi": "10.1007/s12182-016-0097-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12182-016-0081-x"
+  },
+  "journal": "Petroleum Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Supply-based optimal scheduling of oil product pipelines"
+}

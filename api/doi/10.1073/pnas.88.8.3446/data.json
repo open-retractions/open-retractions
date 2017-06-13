@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":676944000000,"doi":"10.1073/pnas.88.12.5477d","type":"correction"},"doi":"10.1073/pnas.88.8.3446","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Three-dimensional structure of human basic fibroblast growth factor, a structural homolog of interleukin 1 "}
+{
+  "retracted": false,
+  "timestamp": 676944000000,
+  "updates": [
+    {
+      "timestamp": 1495847319101,
+      "identifier": {
+        "doi": "10.1073/pnas.88.12.5477d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.88.8.3446"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Three-dimensional structure of human basic fibroblast growth factor, a structural homolog of interleukin 1 "
+}

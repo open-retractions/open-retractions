@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429142400000,"doi":"10.1134/s1070363215030457","type":"correction"},"doi":"10.1134/s1070363214070317","journal":"Russian Journal of General Chemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Conductometric Study of Complex Formation between Benzylbisthiosemicarbazone and Metal Cations in Acetonitrile, Dimethylformamide, and Their Binary Mixtures”"}
+{
+  "retracted": false,
+  "timestamp": 1429142400000,
+  "updates": [
+    {
+      "timestamp": 1496046135117,
+      "identifier": {
+        "doi": "10.1134/s1070363215030457"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1070363214070317"
+  },
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Conductometric Study of Complex Formation between Benzylbisthiosemicarbazone and Metal Cations in Acetonitrile, Dimethylformamide, and Their Binary Mixtures”"
+}

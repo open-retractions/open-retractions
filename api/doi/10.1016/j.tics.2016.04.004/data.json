@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.tics.2016.08.011","type":"err"},"doi":"10.1016/j.tics.2016.04.004","journal":"Trends in Cognitive Sciences","publisher":"Elsevier BV","title":"On the Self-Organizing Origins of Agency"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495640633616,
+      "identifier": {
+        "doi": "10.1016/j.tics.2016.08.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tics.2016.04.004"
+  },
+  "journal": "Trends in Cognitive Sciences",
+  "publisher": "Elsevier BV",
+  "title": "On the Self-Organizing Origins of Agency"
+}

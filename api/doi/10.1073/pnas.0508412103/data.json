@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1143504000000,"doi":"10.1073/pnas.0601557103","type":"correction"},"doi":"10.1073/pnas.0508412103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hao et al., SNOSID, a proteomic method for identification of cysteine S-nitrosylation sites in complex protein mixtures"}
+{
+  "retracted": false,
+  "timestamp": 1143504000000,
+  "updates": [
+    {
+      "timestamp": 1495977372411,
+      "identifier": {
+        "doi": "10.1073/pnas.0601557103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0508412103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hao et al., SNOSID, a proteomic method for identification of cysteine S-nitrosylation sites in complex protein mixtures"
+}

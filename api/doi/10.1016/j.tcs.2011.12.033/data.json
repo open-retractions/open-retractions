@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420934400000,"doi":"10.1016/j.tcs.2014.11.001","type":"err"},"doi":"10.1016/j.tcs.2011.12.033","journal":"Theoretical Computer Science","publisher":"Elsevier BV","title":"Corrigendum to “On the approximability and hardness of minimum topic connected overlay and its special instances” [Theoret. Comput. Sci. 429 (2012) 144–154]"}
+{
+  "retracted": false,
+  "timestamp": 1420934400000,
+  "updates": [
+    {
+      "timestamp": 1496021871905,
+      "identifier": {
+        "doi": "10.1016/j.tcs.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tcs.2011.12.033"
+  },
+  "journal": "Theoretical Computer Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the approximability and hardness of minimum topic connected overlay and its special instances” [Theoret. Comput. Sci. 429 (2012) 144–154]"
+}

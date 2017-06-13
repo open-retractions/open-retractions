@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373846400000,"doi":"10.1063/1.4814176","type":"correction"},"doi":"10.1063/1.4738500","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Wall-liquid and wall-crystal interfacial free energies via thermodynamic integration: A molecular dynamics simulation study” [J. Chem. Phys. 137, 044707 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1373846400000,
+  "updates": [
+    {
+      "timestamp": 1496032624798,
+      "identifier": {
+        "doi": "10.1063/1.4814176"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4738500"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Wall-liquid and wall-crystal interfacial free energies via thermodynamic integration: A molecular dynamics simulation study” [J. Chem. Phys. 137, 044707 (2012)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.neunet.2014.06.003","type":"err"},"doi":"10.1016/j.neunet.2007.10.003","journal":"Neural Networks","publisher":"Elsevier BV","title":"Corrigendum to “The unimodal model for the classification of ordinal data” [Neural Netw. 21 (2008) 78–79]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496050694299,
+      "identifier": {
+        "doi": "10.1016/j.neunet.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neunet.2007.10.003"
+  },
+  "journal": "Neural Networks",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The unimodal model for the classification of ordinal data” [Neural Netw. 21 (2008) 78–79]"
+}

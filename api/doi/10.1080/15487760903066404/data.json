@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1080/15487768.2015.1081030","type":"correction"},"doi":"10.1080/15487760903066404","journal":"American Journal of Psychiatric Rehabilitation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496025315426,
+      "identifier": {
+        "doi": "10.1080/15487768.2015.1081030"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15487760903066404"
+  },
+  "journal": "American Journal of Psychiatric Rehabilitation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

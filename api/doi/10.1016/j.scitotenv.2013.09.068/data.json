@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.scitotenv.2013.12.016","type":"err"},"doi":"10.1016/j.scitotenv.2013.09.068","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Vertical redox profiles in treatment wetlands as function of hydraulic regime and macrophytes presence: Surveying the optimal scenario for microbial fuel cell implementation” [Sci Total Environ 470–471 (2013) 754–758]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496013249387,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2013.12.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2013.09.068"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Vertical redox profiles in treatment wetlands as function of hydraulic regime and macrophytes presence: Surveying the optimal scenario for microbial fuel cell implementation” [Sci Total Environ 470–471 (2013) 754–758]"
+}

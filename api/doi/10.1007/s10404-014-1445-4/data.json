@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429401600000,"doi":"10.1007/s10404-015-1570-8","type":"correction"},"doi":"10.1007/s10404-014-1445-4","journal":"Microfluidics and Nanofluidics","publisher":"Springer Nature","title":"Erratum to: The gas flow diode effect: theoretical and experimental analysis of moderately rarefied gas flows through a microchannel with varying cross section"}
+{
+  "retracted": false,
+  "timestamp": 1429401600000,
+  "updates": [
+    {
+      "timestamp": 1496058839529,
+      "identifier": {
+        "doi": "10.1007/s10404-015-1570-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10404-014-1445-4"
+  },
+  "journal": "Microfluidics and Nanofluidics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The gas flow diode effect: theoretical and experimental analysis of moderately rarefied gas flows through a microchannel with varying cross section"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.foodres.2015.02.005","type":"err"},"doi":"10.1016/j.foodres.2014.01.014","journal":"Food Research International","publisher":"Elsevier BV","title":"Corrigendum to “Analysis of maltooligosaccharides in honey samples by ultra-performance liquid chromatography coupled with evaporative light scattering detection” [Food Res. Int. 56 (2014) 260–265]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496051144080,
+      "identifier": {
+        "doi": "10.1016/j.foodres.2015.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodres.2014.01.014"
+  },
+  "journal": "Food Research International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analysis of maltooligosaccharides in honey samples by ultra-performance liquid chromatography coupled with evaporative light scattering detection” [Food Res. Int. 56 (2014) 260–265]"
+}

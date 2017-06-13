@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374796800000,"doi":"10.1136/bmj.f4899","type":"correction"},"doi":"10.1136/bmj.f4764","journal":"BMJ","publisher":"BMJ","title":"The Physician Payment Sunshine Act"}
+{
+  "retracted": false,
+  "timestamp": 1374796800000,
+  "updates": [
+    {
+      "timestamp": 1496037290097,
+      "identifier": {
+        "doi": "10.1136/bmj.f4899"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f4764"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The Physician Payment Sunshine Act"
+}

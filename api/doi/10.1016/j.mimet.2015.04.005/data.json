@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.mimet.2015.06.002","type":"err"},"doi":"10.1016/j.mimet.2015.04.005","journal":"Journal of Microbiological Methods","publisher":"Elsevier BV","title":"Corrigendum to “Development of a quantitative real time PCR assay to detect and enumerate Escherichia coli O157 and O26 serogroups in bovine recto-anal swabs” [J. Microbiol. Methods 114 (2015) 9–15]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496007205800,
+      "identifier": {
+        "doi": "10.1016/j.mimet.2015.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mimet.2015.04.005"
+  },
+  "journal": "Journal of Microbiological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a quantitative real time PCR assay to detect and enumerate Escherichia coli O157 and O26 serogroups in bovine recto-anal swabs” [J. Microbiol. Methods 114 (2015) 9–15]"
+}

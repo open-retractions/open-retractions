@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1038/srep21578","type":"correction"},"doi":"10.1038/srep17468","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Identification of novel PKD1 and PKD2 mutations in a Chinese population with autosomal dominant polycystic kidney disease"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495646910944,
+      "identifier": {
+        "doi": "10.1038/srep21578"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17468"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Identification of novel PKD1 and PKD2 mutations in a Chinese population with autosomal dominant polycystic kidney disease"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ijleo.2015.12.118","type":"err"},"doi":"10.1016/j.ijleo.2015.11.126","journal":"Optik - International Journal for Light and Electron Optics","publisher":"Elsevier BV","title":"Corrigendum to “Characterization and studying of ZnO thin films deposited by spray pyrolysis: Effect of annealing temperature” [Optik – Int. J. Light Electron Optics 127 (February (4)) (2016) 2336–2340]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496058306583,
+      "identifier": {
+        "doi": "10.1016/j.ijleo.2015.12.118"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijleo.2015.11.126"
+  },
+  "journal": "Optik - International Journal for Light and Electron Optics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization and studying of ZnO thin films deposited by spray pyrolysis: Effect of annealing temperature” [Optik – Int. J. Light Electron Optics 127 (February (4)) (2016) 2336–2340]"
+}

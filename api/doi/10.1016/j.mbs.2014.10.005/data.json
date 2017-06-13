@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.mbs.2015.03.009","type":"err"},"doi":"10.1016/j.mbs.2014.10.005","journal":"Mathematical Biosciences","publisher":"Elsevier BV","title":"Corrigendum to “A model for spatio-temporal dynamics in a regulatory network for cell polarity” Mathematical Biosciences 258 (2014) 189–200"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496055174581,
+      "identifier": {
+        "doi": "10.1016/j.mbs.2015.03.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mbs.2014.10.005"
+  },
+  "journal": "Mathematical Biosciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A model for spatio-temporal dynamics in a regulatory network for cell polarity” Mathematical Biosciences 258 (2014) 189–200"
+}

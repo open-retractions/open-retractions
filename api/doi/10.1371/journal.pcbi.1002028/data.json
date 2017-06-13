@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389657600000,"doi":"10.1371/annotation/37bcc34c-7789-4c64-a3cf-902e619f5526","type":"correction"},"doi":"10.1371/journal.pcbi.1002028","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Disentangling the Roles of Approach, Activation and Valence in Instrumental and Pavlovian Responding"}
+{
+  "retracted": false,
+  "timestamp": 1389657600000,
+  "updates": [
+    {
+      "timestamp": 1496012453979,
+      "identifier": {
+        "doi": "10.1371/annotation/37bcc34c-7789-4c64-a3cf-902e619f5526"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1002028"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Disentangling the Roles of Approach, Activation and Valence in Instrumental and Pavlovian Responding"
+}

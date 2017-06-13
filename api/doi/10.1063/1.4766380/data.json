@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356048000000,"doi":"10.1063/1.4771926","type":"correction"},"doi":"10.1063/1.4766380","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Temperature dependent ablation threshold in silicon using ultrashort laser pulses” [J. Appl. Phys. 112, 103514 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1356048000000,
+  "updates": [
+    {
+      "timestamp": 1495981255575,
+      "identifier": {
+        "doi": "10.1063/1.4771926"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4766380"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Temperature dependent ablation threshold in silicon using ultrashort laser pulses” [J. Appl. Phys. 112, 103514 (2012)]"
+}

@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.commatsci.2015.03.031","type":"err"},"doi":"10.1016/j.commatsci.2014.10.026","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Nonlinear-elastic membrane-shell model for single-walled carbon nanotubes under uni-axial deformation” [Comput. Mater. Sci. 97 (2015) 237–244]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496057104189,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.03.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2014.10.026"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nonlinear-elastic membrane-shell model for single-walled carbon nanotubes under uni-axial deformation” [Comput. Mater. Sci. 97 (2015) 237–244]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350172800000,"doi":"10.1007/bf03257467","type":"correction"},"doi":"10.2165/00002018-199513040-00003","journal":"Drug Safety","publisher":"Springer Nature","title":"Erratum to: Comparative adverse effect profiles of platinum drugs"}
+{
+  "retracted": false,
+  "timestamp": 1350172800000,
+  "updates": [
+    {
+      "timestamp": 1495642771087,
+      "identifier": {
+        "doi": "10.1007/bf03257467"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2165/00002018-199513040-00003"
+  },
+  "journal": "Drug Safety",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparative adverse effect profiles of platinum drugs"
+}

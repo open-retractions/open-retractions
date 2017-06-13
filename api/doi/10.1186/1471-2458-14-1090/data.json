@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1186/s12889-016-2889-0","type":"correction"},"doi":"10.1186/1471-2458-14-1090","journal":"BMC Public Health","publisher":"Springer Nature","title":"Erratum to: ‘HIV prevalence in the Israeli tuberculosis cohort, 1999–2011’"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495664153675,
+      "identifier": {
+        "doi": "10.1186/s12889-016-2889-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2458-14-1090"
+  },
+  "journal": "BMC Public Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘HIV prevalence in the Israeli tuberculosis cohort, 1999–2011’"
+}

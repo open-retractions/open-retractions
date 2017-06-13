@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1007/s10476-016-0305-8","type":"correction"},"doi":"10.1007/s10476-015-0304-1","journal":"Analysis Mathematica","publisher":"Springer Nature","title":"Erratum to: On some problems of Euclidean Ramsey theory"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495644367688,
+      "identifier": {
+        "doi": "10.1007/s10476-016-0305-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10476-015-0304-1"
+  },
+  "journal": "Analysis Mathematica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On some problems of Euclidean Ramsey theory"
+}

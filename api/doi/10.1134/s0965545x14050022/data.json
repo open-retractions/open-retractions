@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432684800000,"doi":"10.1134/s0965545x15030128","type":"correction"},"doi":"10.1134/s0965545x14050022","journal":"Polymer Science Series A","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Electrostatic-interaction-induced phase separation in solutions of flexible-chain polyelectrolytes”"}
+{
+  "retracted": false,
+  "timestamp": 1432684800000,
+  "updates": [
+    {
+      "timestamp": 1496002286140,
+      "identifier": {
+        "doi": "10.1134/s0965545x15030128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0965545x14050022"
+  },
+  "journal": "Polymer Science Series A",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Electrostatic-interaction-induced phase separation in solutions of flexible-chain polyelectrolytes”"
+}

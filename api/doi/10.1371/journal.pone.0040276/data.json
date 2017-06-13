@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374624000000,"doi":"10.1371/annotation/39194a57-4480-4f8e-b6fa-e7e0993d029b","type":"correction"},"doi":"10.1371/journal.pone.0040276","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Versatile Method for Cell-Specific Profiling of Translated mRNAs in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1374624000000,
+  "updates": [
+    {
+      "timestamp": 1496035063188,
+      "identifier": {
+        "doi": "10.1371/annotation/39194a57-4480-4f8e-b6fa-e7e0993d029b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0040276"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Versatile Method for Cell-Specific Profiling of Translated mRNAs in Drosophila"
+}

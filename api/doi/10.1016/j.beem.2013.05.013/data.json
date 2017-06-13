@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.beem.2013.09.004","type":"err"},"doi":"10.1016/j.beem.2013.05.013","journal":"Best Practice & Research Clinical Endocrinology & Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Gender differences and disparities in all-cause and coronary heart disease mortality: Epidemiological aspects” [Clin Endocrinol Metabol (2013) 481–500]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496054113201,
+      "identifier": {
+        "doi": "10.1016/j.beem.2013.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.beem.2013.05.013"
+  },
+  "journal": "Best Practice & Research Clinical Endocrinology & Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gender differences and disparities in all-cause and coronary heart disease mortality: Epidemiological aspects” [Clin Endocrinol Metabol (2013) 481–500]"
+}

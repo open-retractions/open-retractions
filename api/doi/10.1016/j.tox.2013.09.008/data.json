@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393545600000,"doi":"10.1016/j.tox.2013.12.008","type":"err"},"doi":"10.1016/j.tox.2013.09.008","journal":"Toxicology","publisher":"Elsevier BV","title":"Erratum to “Evaluation of neurobehavioral and neuroinflammatory end-points in the post-exposure period in rats sub-acutely exposed to manganese” [Toxicology 314(1) (2013) 95–99]"}
+{
+  "retracted": false,
+  "timestamp": 1393545600000,
+  "updates": [
+    {
+      "timestamp": 1496011119068,
+      "identifier": {
+        "doi": "10.1016/j.tox.2013.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tox.2013.09.008"
+  },
+  "journal": "Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Evaluation of neurobehavioral and neuroinflammatory end-points in the post-exposure period in rats sub-acutely exposed to manganese” [Toxicology 314(1) (2013) 95–99]"
+}

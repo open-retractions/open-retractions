@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481673600000,"doi":"10.1007/s10103-016-2130-5","type":"correction"},"doi":"10.1007/s10103-016-2001-0","journal":"Lasers in Medical Science","publisher":"Springer Nature","title":"Erratum to: Picosecond lasers for tattoo removal: a systematic review"}
+{
+  "retracted": false,
+  "timestamp": 1481673600000,
+  "updates": [
+    {
+      "timestamp": 1495666738063,
+      "identifier": {
+        "doi": "10.1007/s10103-016-2130-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10103-016-2001-0"
+  },
+  "journal": "Lasers in Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Picosecond lasers for tattoo removal: a systematic review"
+}

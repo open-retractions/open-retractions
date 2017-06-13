@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395273600000,"doi":"10.1016/j.neulet.2014.01.048","type":"erratum"},"doi":"10.1016/j.neulet.2013.10.045","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Association of a polymorphism in mitochondrial transcription factor A (TFAM) with Parkinson's disease dementia but not dementia with Lewy bodies” [Neurosci. Lett. 557 (2013) 177–180]"}
+{
+  "retracted": false,
+  "timestamp": 1395273600000,
+  "updates": [
+    {
+      "timestamp": 1496016673895,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2014.01.048"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2013.10.045"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Association of a polymorphism in mitochondrial transcription factor A (TFAM) with Parkinson's disease dementia but not dementia with Lewy bodies” [Neurosci. Lett. 557 (2013) 177–180]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1186/s12859-016-0974-0","type":"correction"},"doi":"10.1186/s12859-015-0609-x","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Text mining facilitates database curation - extraction of mutation-disease associations from Bio-medical literature"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495666538656,
+      "identifier": {
+        "doi": "10.1186/s12859-016-0974-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-015-0609-x"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Text mining facilitates database curation - extraction of mutation-disease associations from Bio-medical literature"
+}

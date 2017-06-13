@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1038/srep09701","type":"correction"},"doi":"10.1038/srep07717","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: 3D-Printed Microfluidic Device for the Detection of Pathogenic Bacteria Using Size-based Separation in Helical Channel with Trapezoid Cross-Section"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019916136,
+      "identifier": {
+        "doi": "10.1038/srep09701"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep07717"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: 3D-Printed Microfluidic Device for the Detection of Pathogenic Bacteria Using Size-based Separation in Helical Channel with Trapezoid Cross-Section"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1039/c5cp90150b","type":"correction"},"doi":"10.1039/c4cp03828b","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Resolving the anomalous infrared spectrum of the MeCN–HCl molecular cluster using ab Initio molecular dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496025760442,
+      "identifier": {
+        "doi": "10.1039/c5cp90150b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4cp03828b"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Resolving the anomalous infrared spectrum of the MeCN–HCl molecular cluster using ab Initio molecular dynamics"
+}

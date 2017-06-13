@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396396800000,"doi":"10.1016/j.msea.2014.01.010","type":"err"},"doi":"10.1016/j.msea.2010.12.034","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to “Unification of the most commonly used time-temperature creep parameters” [Mater. Sci. Eng. A 528 (6) (2011) 2804–2811]"}
+{
+  "retracted": false,
+  "timestamp": 1396396800000,
+  "updates": [
+    {
+      "timestamp": 1496016819365,
+      "identifier": {
+        "doi": "10.1016/j.msea.2014.01.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2010.12.034"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Unification of the most commonly used time-temperature creep parameters” [Mater. Sci. Eng. A 528 (6) (2011) 2804–2811]"
+}

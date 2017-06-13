@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416960000000,"doi":"10.1007/s00005-014-0321-y","type":"correction"},"doi":"10.1007/s00005-011-0156-8","journal":"Archivum Immunologiae et Therapiae Experimentalis","publisher":"Springer Nature","title":"Erratum to: Neutrophil Myeloperoxidase: Soldier and Statesman"}
+{
+  "retracted": false,
+  "timestamp": 1416960000000,
+  "updates": [
+    {
+      "timestamp": 1496025744430,
+      "identifier": {
+        "doi": "10.1007/s00005-014-0321-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00005-011-0156-8"
+  },
+  "journal": "Archivum Immunologiae et Therapiae Experimentalis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neutrophil Myeloperoxidase: Soldier and Statesman"
+}

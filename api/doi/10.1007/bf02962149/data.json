@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":801964800000,"doi":"10.1007/bf02960921","type":"correction"},"doi":"10.1007/bf02962149","journal":"Molecular and chemical neuropathology","publisher":"Springer Nature","title":"Erratum to Long-Term Adrenalectomy: Effect on Cognitive Behavior"}
+{
+  "retracted": false,
+  "timestamp": 801964800000,
+  "updates": [
+    {
+      "timestamp": 1495881718091,
+      "identifier": {
+        "doi": "10.1007/bf02960921"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02962149"
+  },
+  "journal": "Molecular and chemical neuropathology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Long-Term Adrenalectomy: Effect on Cognitive Behavior"
+}

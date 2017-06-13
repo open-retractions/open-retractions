@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373932800000,"doi":"10.1073/pnas.1317354110","type":"correction"},"doi":"10.1073/pnas.1309353110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ludescher et al., Improved El Nino forecasting by cooperativity detection"}
+{
+  "retracted": false,
+  "timestamp": 1373932800000,
+  "updates": [
+    {
+      "timestamp": 1495992393267,
+      "identifier": {
+        "doi": "10.1073/pnas.1317354110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1309353110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ludescher et al., Improved El Nino forecasting by cooperativity detection"
+}

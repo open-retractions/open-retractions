@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395964800000,"doi":"10.1063/1.4869960","type":"correction"},"doi":"10.1063/1.4868388","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Nanoscale characterization of the biomechanical properties of collagen fibrils in the sclera” [Appl. Phys. Lett. 104, 103703 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1395964800000,
+  "updates": [
+    {
+      "timestamp": 1496029567737,
+      "identifier": {
+        "doi": "10.1063/1.4869960"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4868388"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Nanoscale characterization of the biomechanical properties of collagen fibrils in the sclera” [Appl. Phys. Lett. 104, 103703 (2014)]"
+}

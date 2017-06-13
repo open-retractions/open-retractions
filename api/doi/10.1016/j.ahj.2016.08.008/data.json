@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.ahj.2017.01.004","type":"erratum"},"doi":"10.1016/j.ahj.2016.08.008","journal":"American Heart Journal","publisher":"Elsevier BV","title":"Corrigendum to “A critical reappraisal of aspirin for secondary prevention in patients with ischemic heart disease” [Am Heart J 181 (2016) 92–100]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495722252151,
+      "identifier": {
+        "doi": "10.1016/j.ahj.2017.01.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ahj.2016.08.008"
+  },
+  "journal": "American Heart Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A critical reappraisal of aspirin for secondary prevention in patients with ischemic heart disease” [Am Heart J 181 (2016) 92–100]"
+}

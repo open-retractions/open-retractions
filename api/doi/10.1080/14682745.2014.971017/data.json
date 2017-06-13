@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421107200000,"doi":"10.1080/14682745.2014.1000035","type":"correction"},"doi":"10.1080/14682745.2014.971017","journal":"Cold War History","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1421107200000,
+  "updates": [
+    {
+      "timestamp": 1496035215245,
+      "identifier": {
+        "doi": "10.1080/14682745.2014.1000035"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14682745.2014.971017"
+  },
+  "journal": "Cold War History",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

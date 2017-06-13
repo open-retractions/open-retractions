@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414972800000,"doi":"10.1016/j.msea.2014.07.049","type":"err"},"doi":"10.1016/j.msea.2013.09.082","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to “A dynamic ductile fracture model on the effects of pressure, Lode angle and strain rate” [Mater. Sci. Eng. A 589 (2014) 262–270]"}
+{
+  "retracted": false,
+  "timestamp": 1414972800000,
+  "updates": [
+    {
+      "timestamp": 1496005243490,
+      "identifier": {
+        "doi": "10.1016/j.msea.2014.07.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2013.09.082"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A dynamic ductile fracture model on the effects of pressure, Lode angle and strain rate” [Mater. Sci. Eng. A 589 (2014) 262–270]"
+}

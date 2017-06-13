@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397433600000,"doi":"10.1063/1.4871382","type":"correction"},"doi":"10.1063/1.4868682","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Publisher's Note: “Development of a machine for automatically measuring static/dynamic running parallelism in linear guideways” [Rev. Sci. Instrum. 85, 035115 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1397433600000,
+  "updates": [
+    {
+      "timestamp": 1496032999685,
+      "identifier": {
+        "doi": "10.1063/1.4871382"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4868682"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Development of a machine for automatically measuring static/dynamic running parallelism in linear guideways” [Rev. Sci. Instrum. 85, 035115 (2014)]"
+}

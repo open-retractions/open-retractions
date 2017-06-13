@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395100800000,"doi":"10.1007/s40259-014-0092-3","type":"correction"},"doi":"10.1007/s40259-013-0081-y","journal":"BioDrugs","publisher":"Springer Nature","title":"Erratum to: Bacteriophage Polysaccharide Depolymerases and Biomedical Applications"}
+{
+  "retracted": false,
+  "timestamp": 1395100800000,
+  "updates": [
+    {
+      "timestamp": 1496026380809,
+      "identifier": {
+        "doi": "10.1007/s40259-014-0092-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40259-013-0081-y"
+  },
+  "journal": "BioDrugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bacteriophage Polysaccharide Depolymerases and Biomedical Applications"
+}

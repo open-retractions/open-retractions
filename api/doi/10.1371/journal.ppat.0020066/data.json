@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1154044800000,"doi":"10.1371/journal.ppat.0020080","type":"correction"},"doi":"10.1371/journal.ppat.0020066","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Listeria monocytogenes Traffics from Maternal Organs to the Placenta and Back"}
+{
+  "retracted": false,
+  "timestamp": 1154044800000,
+  "updates": [
+    {
+      "timestamp": 1495833689523,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.0020080"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.0020066"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Listeria monocytogenes Traffics from Maternal Organs to the Placenta and Back"
+}

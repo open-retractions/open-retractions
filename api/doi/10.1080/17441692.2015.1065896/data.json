@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1080/17441692.2015.1086078","type":"correction"},"doi":"10.1080/17441692.2015.1065896","journal":"Global Public Health","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495658774638,
+      "identifier": {
+        "doi": "10.1080/17441692.2015.1086078"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17441692.2015.1065896"
+  },
+  "journal": "Global Public Health",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

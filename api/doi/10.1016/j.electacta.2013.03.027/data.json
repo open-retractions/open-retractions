@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.electacta.2013.07.006","type":"err"},"doi":"10.1016/j.electacta.2013.03.027","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “The state of water in 1-butly-1-methyl-pyrrolidinium bis(trifluoromethanesulfonyl)imide and its effect on Zn/Zn(II) redox behavior” [Electrochimica Acta 97 (2013) 289–295]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496034393394,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2013.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2013.03.027"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The state of water in 1-butly-1-methyl-pyrrolidinium bis(trifluoromethanesulfonyl)imide and its effect on Zn/Zn(II) redox behavior” [Electrochimica Acta 97 (2013) 289–295]"
+}

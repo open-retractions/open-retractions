@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.1007/s10517-016-3224-6","type":"correction"},"doi":"10.1007/s10517-015-3038-y","journal":"Bulletin of Experimental Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: Content of HLA-G+ T Cells in the Peripheral Blood from Healthy Women and Breast Cancer Patients"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495646499956,
+      "identifier": {
+        "doi": "10.1007/s10517-016-3224-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10517-015-3038-y"
+  },
+  "journal": "Bulletin of Experimental Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Content of HLA-G+ T Cells in the Peripheral Blood from Healthy Women and Breast Cancer Patients"
+}

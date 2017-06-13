@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1016/j.chemgeo.2013.12.008","type":"err"},"doi":"10.1016/s0009-2541(02)00157-2","journal":"Chemical Geology","publisher":"Elsevier BV","title":"Erratum to “Zircon inheritance in diatexite granodiorites and its consequence on geochronology — A case study in Lusatia and the Erzgebirge (Saxo-Thuringia, eastern Germany)” [Chem. Geol. 191/1–3 (2002) 209–224]"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496010606038,
+      "identifier": {
+        "doi": "10.1016/j.chemgeo.2013.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0009-2541(02)00157-2"
+  },
+  "journal": "Chemical Geology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Zircon inheritance in diatexite granodiorites and its consequence on geochronology — A case study in Lusatia and the Erzgebirge (Saxo-Thuringia, eastern Germany)” [Chem. Geol. 191/1–3 (2002) 209–224]"
+}

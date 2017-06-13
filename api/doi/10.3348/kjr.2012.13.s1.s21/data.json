@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339977600000,"doi":"10.3348/kjr.2012.13.4.521","type":"correction"},"doi":"10.3348/kjr.2012.13.s1.s21","journal":"Korean Journal of Radiology","publisher":"The Korean Society of Radiology (KAMJE)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1339977600000,
+  "updates": [
+    {
+      "timestamp": 1495916241273,
+      "identifier": {
+        "doi": "10.3348/kjr.2012.13.4.521"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3348/kjr.2012.13.s1.s21"
+  },
+  "journal": "Korean Journal of Radiology",
+  "publisher": "The Korean Society of Radiology (KAMJE)",
+  "title": "Erratum"
+}

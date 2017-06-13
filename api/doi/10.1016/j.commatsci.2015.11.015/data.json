@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.commatsci.2016.11.003","type":"erratum"},"doi":"10.1016/j.commatsci.2015.11.015","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “Atomic-scale analysis of deformation mechanisms of nanotwinned polycrystalline Ni nanowires during tension” [Comput. Mater. Sci. 113 (2016) 27–37]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495655102855,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2016.11.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2015.11.015"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Atomic-scale analysis of deformation mechanisms of nanotwinned polycrystalline Ni nanowires during tension” [Comput. Mater. Sci. 113 (2016) 27–37]"
+}

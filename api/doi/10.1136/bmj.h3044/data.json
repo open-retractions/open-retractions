@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1136/bmj.h3935","type":"correction"},"doi":"10.1136/bmj.h3044","journal":"BMJ","publisher":"BMJ","title":"Suspected cancer (part 2—adults): reference tables from updated NICE guidance"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496016924305,
+      "identifier": {
+        "doi": "10.1136/bmj.h3935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h3044"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Suspected cancer (part 2—adults): reference tables from updated NICE guidance"
+}

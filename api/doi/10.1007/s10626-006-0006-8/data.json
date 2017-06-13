@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365120000000,"doi":"10.1007/s10626-013-0161-7","type":"correction"},"doi":"10.1007/s10626-006-0006-8","journal":"Discrete Event Dynamic Systems","publisher":"Springer Nature","title":"Erratum to: Diagnosis of discrete event systems using decentralized architectures"}
+{
+  "retracted": false,
+  "timestamp": 1365120000000,
+  "updates": [
+    {
+      "timestamp": 1496008231215,
+      "identifier": {
+        "doi": "10.1007/s10626-013-0161-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10626-006-0006-8"
+  },
+  "journal": "Discrete Event Dynamic Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diagnosis of discrete event systems using decentralized architectures"
+}

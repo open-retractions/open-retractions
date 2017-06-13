@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1080/01296612.2016.1179927","type":"correction"},"doi":"10.1080/01296612.2016.1170411","journal":"Media Asia","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495664872089,
+      "identifier": {
+        "doi": "10.1080/01296612.2016.1179927"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01296612.2016.1170411"
+  },
+  "journal": "Media Asia",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

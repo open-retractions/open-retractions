@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489449600000,"doi":"10.1007/bf02838825","type":"correction"},"doi":"10.1007/bf02838670","journal":"Resonance","publisher":"Springer Nature","title":"Erratum to Electrostatics in chemistry"}
+{
+  "retracted": false,
+  "timestamp": 1489449600000,
+  "updates": [
+    {
+      "timestamp": 1495838433286,
+      "identifier": {
+        "doi": "10.1007/bf02838825"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02838670"
+  },
+  "journal": "Resonance",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Electrostatics in chemistry"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.1371/journal.pcbi.1003868","type":"correction"},"doi":"10.1371/journal.pcbi.1003521","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Exploring the Conformational Transitions of Biomolecular Systems Using a Simple Two-State Anisotropic Network Model"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1496003422915,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003868"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003521"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Exploring the Conformational Transitions of Biomolecular Systems Using a Simple Two-State Anisotropic Network Model"
+}

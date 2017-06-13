@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329955200000,"doi":"10.1098/rsbl.2012.0780","type":"correction"},"doi":"10.1098/rsbl.2011.0521","journal":"Biology Letters","publisher":"The Royal Society","title":"Evolutionary dynamics of taxonomic structure"}
+{
+  "retracted": false,
+  "timestamp": 1329955200000,
+  "updates": [
+    {
+      "timestamp": 1495926640749,
+      "identifier": {
+        "doi": "10.1098/rsbl.2012.0780"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2011.0521"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Evolutionary dynamics of taxonomic structure"
+}

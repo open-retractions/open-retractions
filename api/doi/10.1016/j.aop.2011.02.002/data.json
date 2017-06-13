@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.aop.2013.05.001","type":"err"},"doi":"10.1016/j.aop.2011.02.002","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Erratum to: “Quantum Leptogenesis I” [Ann. Phys. 326 (8) (2011) 1998–2038]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496027407758,
+      "identifier": {
+        "doi": "10.1016/j.aop.2013.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2011.02.002"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Quantum Leptogenesis I” [Ann. Phys. 326 (8) (2011) 1998–2038]"
+}

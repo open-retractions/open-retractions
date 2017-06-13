@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217548800000,"doi":"10.1107/s1744309108020307","type":"correction"},"doi":"10.1107/s1744309108000754","journal":"Acta Crystallographica Section F Structural Biology and Crystallization Communications","publisher":"International Union of Crystallography (IUCr)","title":"Preliminary crystallographic data of the three homologues of the thiol–disulfide oxidoreductase DsbA inNeisseria meningitidis. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1217548800000,
+  "updates": [
+    {
+      "timestamp": 1495864161646,
+      "identifier": {
+        "doi": "10.1107/s1744309108020307"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1744309108000754"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology and Crystallization Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Preliminary crystallographic data of the three homologues of the thiol–disulfide oxidoreductase DsbA inNeisseria meningitidis. Corrigendum"
+}

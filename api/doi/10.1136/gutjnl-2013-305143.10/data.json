@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1136/gutjnl-2013-305143.10corr1","type":"correction"},"doi":"10.1136/gutjnl-2013-305143.10","journal":"Gut","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496046510295,
+      "identifier": {
+        "doi": "10.1136/gutjnl-2013-305143.10corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/gutjnl-2013-305143.10"
+  },
+  "journal": "Gut",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

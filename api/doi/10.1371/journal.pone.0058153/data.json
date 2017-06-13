@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382659200000,"doi":"10.1371/annotation/e228bdf4-d943-4d44-8e0f-d441dfa80260","type":"correction"},"doi":"10.1371/journal.pone.0058153","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: HPV Testing by cobas HPV Test in a Population from Catalonia"}
+{
+  "retracted": false,
+  "timestamp": 1382659200000,
+  "updates": [
+    {
+      "timestamp": 1495992349470,
+      "identifier": {
+        "doi": "10.1371/annotation/e228bdf4-d943-4d44-8e0f-d441dfa80260"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0058153"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: HPV Testing by cobas HPV Test in a Population from Catalonia"
+}

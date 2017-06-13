@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392422400000,"doi":"10.1016/j.foodchem.2013.08.120","type":"err"},"doi":"10.1016/j.foodchem.2012.08.053","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “The importance of amylose and amylopectin fine structures for starch digestibility in cooked rice grains” [Food Chem. 136 (2013) 742–749]"}
+{
+  "retracted": false,
+  "timestamp": 1392422400000,
+  "updates": [
+    {
+      "timestamp": 1496047286159,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2013.08.120"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2012.08.053"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The importance of amylose and amylopectin fine structures for starch digestibility in cooked rice grains” [Food Chem. 136 (2013) 742–749]"
+}

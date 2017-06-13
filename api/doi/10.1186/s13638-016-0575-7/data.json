@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458777600000,"doi":"10.1186/s13638-016-0590-8","type":"correction"},"doi":"10.1186/s13638-016-0575-7","journal":"EURASIP Journal on Wireless Communications and Networking","publisher":"Springer Nature","title":"Erratum To: On Stream Selection for Interference Alignment in Heterogeneous Networks"}
+{
+  "retracted": false,
+  "timestamp": 1458777600000,
+  "updates": [
+    {
+      "timestamp": 1495662408118,
+      "identifier": {
+        "doi": "10.1186/s13638-016-0590-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13638-016-0575-7"
+  },
+  "journal": "EURASIP Journal on Wireless Communications and Networking",
+  "publisher": "Springer Nature",
+  "title": "Erratum To: On Stream Selection for Interference Alignment in Heterogeneous Networks"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1132012800000,"doi":"10.1073/pnas.0508805102","type":"correction"},"doi":"10.1073/pnas.0505866102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Song et al., From The Cover: Roles of PSF protein and VL30 RNA in reversible gene regulation, PNAS 2005 102:12189-12193"}
+{
+  "retracted": false,
+  "timestamp": 1132012800000,
+  "updates": [
+    {
+      "timestamp": 1495905028033,
+      "identifier": {
+        "doi": "10.1073/pnas.0508805102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0505866102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Song et al., From The Cover: Roles of PSF protein and VL30 RNA in reversible gene regulation, PNAS 2005 102:12189-12193"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1185494400000,"doi":"10.1371/journal.pcbi.0030136","type":"correction"},"doi":"10.1371/journal.pcbi.0020172","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Computational Model Explains High Activity and Rapid Cycling of Rho GTPases within Protein Complexes"}
+{
+  "retracted": false,
+  "timestamp": 1185494400000,
+  "updates": [
+    {
+      "timestamp": 1495972837766,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0030136"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0020172"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Computational Model Explains High Activity and Rapid Cycling of Rho GTPases within Protein Complexes"
+}

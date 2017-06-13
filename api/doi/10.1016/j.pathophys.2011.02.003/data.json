@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.pathophys.2015.01.001","type":"err"},"doi":"10.1016/j.pathophys.2011.02.003","journal":"Pathophysiology","publisher":"Elsevier BV","title":"Corrigendum to “Montelukast, a leukotriene receptor antagonist abrogates lipopolysaccharide-induced toxicity and oxidative stress in rat liver” [Pathophysiology 18 (3) (2011) 235–242]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496035777180,
+      "identifier": {
+        "doi": "10.1016/j.pathophys.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pathophys.2011.02.003"
+  },
+  "journal": "Pathophysiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Montelukast, a leukotriene receptor antagonist abrogates lipopolysaccharide-induced toxicity and oxidative stress in rat liver” [Pathophysiology 18 (3) (2011) 235–242]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jhep.2016.10.021","type":"erratum"},"doi":"10.1016/j.jhep.2016.06.027","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Erratum to “Personalized peptide vaccine-induced immune response associated with long-term survival of a metastatic cholangiocarcinoma patient”"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495654778725,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2016.10.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2016.06.027"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Personalized peptide vaccine-induced immune response associated with long-term survival of a metastatic cholangiocarcinoma patient”"
+}

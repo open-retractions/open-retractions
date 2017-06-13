@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387756800000,"doi":"10.1371/annotation/5edeb1de-b76c-4fd9-a3f6-0f1cf45e3905","type":"correction"},"doi":"10.1371/journal.pone.0081504","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Fluorescence-Based Thermal Shift Assay Identifies Inhibitors of Mitogen Activated Protein Kinase Kinase 4"}
+{
+  "retracted": false,
+  "timestamp": 1387756800000,
+  "updates": [
+    {
+      "timestamp": 1496008401653,
+      "identifier": {
+        "doi": "10.1371/annotation/5edeb1de-b76c-4fd9-a3f6-0f1cf45e3905"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0081504"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Fluorescence-Based Thermal Shift Assay Identifies Inhibitors of Mitogen Activated Protein Kinase Kinase 4"
+}

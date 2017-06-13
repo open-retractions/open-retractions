@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.ijpara.2016.05.003","type":"err"},"doi":"10.1016/j.ijpara.2015.10.005","journal":"International Journal for Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “The ROP18 and ROP5 gene allele types are highly predictive of virulence in mice across globally distributed strains of Toxoplasma gondii” [Int. J. Parasitol. 46 (2016) 141–146]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495718479096,
+      "identifier": {
+        "doi": "10.1016/j.ijpara.2016.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpara.2015.10.005"
+  },
+  "journal": "International Journal for Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The ROP18 and ROP5 gene allele types are highly predictive of virulence in mice across globally distributed strains of Toxoplasma gondii” [Int. J. Parasitol. 46 (2016) 141–146]"
+}

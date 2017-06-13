@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350950400000,"doi":"10.1073/pnas.1306394110","type":"correction"},"doi":"10.1073/pnas.1214634109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Shankarappa et al., Prolonged nerve blockade delays the onset of neuropathic pain"}
+{
+  "retracted": false,
+  "timestamp": 1350950400000,
+  "updates": [
+    {
+      "timestamp": 1496013319264,
+      "identifier": {
+        "doi": "10.1073/pnas.1306394110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1214634109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Shankarappa et al., Prolonged nerve blockade delays the onset of neuropathic pain"
+}

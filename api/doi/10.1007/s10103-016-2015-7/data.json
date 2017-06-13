@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1007/s10103-016-2121-6","type":"correction"},"doi":"10.1007/s10103-016-2015-7","journal":"Lasers in Medical Science","publisher":"Springer Nature","title":"Erratum to: What is the best moment to apply phototherapy when associated to a strength training program? A randomized, double-blinded, placebo-controlled trial"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495665211160,
+      "identifier": {
+        "doi": "10.1007/s10103-016-2121-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10103-016-2015-7"
+  },
+  "journal": "Lasers in Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: What is the best moment to apply phototherapy when associated to a strength training program? A randomized, double-blinded, placebo-controlled trial"
+}

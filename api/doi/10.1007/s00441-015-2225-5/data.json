@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442534400000,"doi":"10.1007/s00441-015-2284-7","type":"correction"},"doi":"10.1007/s00441-015-2225-5","journal":"Cell and Tissue Research","publisher":"Springer Nature","title":"Erratum to: Molecular organization and fine structure of the human tectorial membrane: is it replenished?"}
+{
+  "retracted": false,
+  "timestamp": 1442534400000,
+  "updates": [
+    {
+      "timestamp": 1496031312656,
+      "identifier": {
+        "doi": "10.1007/s00441-015-2284-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00441-015-2225-5"
+  },
+  "journal": "Cell and Tissue Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular organization and fine structure of the human tectorial membrane: is it replenished?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443484800000,"doi":"10.1016/j.ces.2015.06.020","type":"err"},"doi":"10.1016/j.ces.2014.07.051","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to ‘Fundamental equation of state for ethylene oxide based on a hybrid dataset’ [Journal of Chemical Engineering Science 121 (2015) 87–99]"}
+{
+  "retracted": false,
+  "timestamp": 1443484800000,
+  "updates": [
+    {
+      "timestamp": 1496013368892,
+      "identifier": {
+        "doi": "10.1016/j.ces.2015.06.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2014.07.051"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Fundamental equation of state for ethylene oxide based on a hybrid dataset’ [Journal of Chemical Engineering Science 121 (2015) 87–99]"
+}

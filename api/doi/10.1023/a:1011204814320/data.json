@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403568000000,"doi":"10.1007/s10827-014-0506-8","type":"correction"},"doi":"10.1023/a:1011204814320","journal":"Journal of Computational Neuroscience","publisher":"Springer Nature","title":"Erratum to: Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition"}
+{
+  "retracted": false,
+  "timestamp": 1403568000000,
+  "updates": [
+    {
+      "timestamp": 1496048015708,
+      "identifier": {
+        "doi": "10.1007/s10827-014-0506-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1023/a:1011204814320"
+  },
+  "journal": "Journal of Computational Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition"
+}

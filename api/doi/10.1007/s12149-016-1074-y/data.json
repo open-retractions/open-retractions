@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465344000000,"doi":"10.1007/s12149-016-1091-x","type":"correction"},"doi":"10.1007/s12149-016-1074-y","journal":"Annals of Nuclear Medicine","publisher":"Springer Nature","title":"Erratum to: Development of a 68Ga-peptide tracer for PET GnRH1-imaging"}
+{
+  "retracted": false,
+  "timestamp": 1465344000000,
+  "updates": [
+    {
+      "timestamp": 1495718924451,
+      "identifier": {
+        "doi": "10.1007/s12149-016-1091-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12149-016-1074-y"
+  },
+  "journal": "Annals of Nuclear Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development of a 68Ga-peptide tracer for PET GnRH1-imaging"
+}

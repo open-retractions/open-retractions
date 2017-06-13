@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330992000000,"doi":"10.1186/1745-6215-13-24","type":"correction"},"doi":"10.1186/1745-6215-12-101","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: The International Stroke Trial database"}
+{
+  "retracted": false,
+  "timestamp": 1330992000000,
+  "updates": [
+    {
+      "timestamp": 1495881408849,
+      "identifier": {
+        "doi": "10.1186/1745-6215-13-24"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1745-6215-12-101"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The International Stroke Trial database"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1371/journal.pbio.1002434","type":"correction"},"doi":"10.1371/journal.pbio.1002334","journal":"PLOS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Meta-Research: Broadening the Scope of PLOS Biology"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495660443358,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1002434"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1002334"
+  },
+  "journal": "PLOS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Meta-Research: Broadening the Scope of PLOS Biology"
+}

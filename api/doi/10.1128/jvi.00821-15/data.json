@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1128/jvi.03144-15","type":"correction"},"doi":"10.1128/jvi.00821-15","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Singh et al., The Nectin-4/Afadin Protein Complex and Intercellular Membrane Pores Contribute to Rapid Spread of Measles Virus in Primary Human Airway Epithelia"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495648700742,
+      "identifier": {
+        "doi": "10.1128/jvi.03144-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.00821-15"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Singh et al., The Nectin-4/Afadin Protein Complex and Intercellular Membrane Pores Contribute to Rapid Spread of Measles Virus in Primary Human Airway Epithelia"
+}

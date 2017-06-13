@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1371/journal.pone.0098083","type":"correction"},"doi":"10.1371/journal.pone.0083057","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Robust Model-free Approach for Rare Variants Association Studies Incorporating Gene-Gene and Gene-Environmental Interactions"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038117384,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0098083"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0083057"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Robust Model-free Approach for Rare Variants Association Studies Incorporating Gene-Gene and Gene-Environmental Interactions"
+}

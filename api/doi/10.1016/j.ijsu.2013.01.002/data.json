@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ijsu.2013.05.036","type":"err"},"doi":"10.1016/j.ijsu.2013.01.002","journal":"International Journal of Surgery","publisher":"Elsevier BV","title":"Corrigendum to “Robotic gastric resection of large gastrointestinal stromal tumors” [Int J Surg 11 (2013) 191–196]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496024760102,
+      "identifier": {
+        "doi": "10.1016/j.ijsu.2013.05.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijsu.2013.01.002"
+  },
+  "journal": "International Journal of Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Robotic gastric resection of large gastrointestinal stromal tumors” [Int J Surg 11 (2013) 191–196]"
+}

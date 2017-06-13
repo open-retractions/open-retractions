@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466035200000,"doi":"10.1063/1.4954284","type":"correction"},"doi":"10.1063/1.4948920","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Ultrafast time measurements by time-correlated single photon counting coupled with superconducting single photon detector” [Rev. Sci. Instrum. 87, 053117 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1466035200000,
+  "updates": [
+    {
+      "timestamp": 1495720907359,
+      "identifier": {
+        "doi": "10.1063/1.4954284"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4948920"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Ultrafast time measurements by time-correlated single photon counting coupled with superconducting single photon detector” [Rev. Sci. Instrum. 87, 053117 (2016)]"
+}

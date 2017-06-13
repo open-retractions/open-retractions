@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411689600000,"doi":"10.1007/s40262-014-0193-7","type":"correction"},"doi":"10.1007/s40262-014-0161-2","journal":"Clinical Pharmacokinetics","publisher":"Springer Nature","title":"Erratum to: Pharmacokinetic Evaluations of the Co-Administrations of Vandetanib and Metformin, Digoxin, Midazolam, Omeprazole or Ranitidine"}
+{
+  "retracted": false,
+  "timestamp": 1411689600000,
+  "updates": [
+    {
+      "timestamp": 1496008488888,
+      "identifier": {
+        "doi": "10.1007/s40262-014-0193-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40262-014-0161-2"
+  },
+  "journal": "Clinical Pharmacokinetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pharmacokinetic Evaluations of the Co-Administrations of Vandetanib and Metformin, Digoxin, Midazolam, Omeprazole or Ranitidine"
+}

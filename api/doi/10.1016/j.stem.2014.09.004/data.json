@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423094400000,"doi":"10.1016/j.stem.2015.01.001","type":"err"},"doi":"10.1016/j.stem.2014.09.004","journal":"Cell Stem Cell","publisher":"Elsevier BV","title":"Generation of Naive Induced Pluripotent Stem Cells from Rhesus Monkey Fibroblasts"}
+{
+  "retracted": false,
+  "timestamp": 1423094400000,
+  "updates": [
+    {
+      "timestamp": 1496039385374,
+      "identifier": {
+        "doi": "10.1016/j.stem.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stem.2014.09.004"
+  },
+  "journal": "Cell Stem Cell",
+  "publisher": "Elsevier BV",
+  "title": "Generation of Naive Induced Pluripotent Stem Cells from Rhesus Monkey Fibroblasts"
+}

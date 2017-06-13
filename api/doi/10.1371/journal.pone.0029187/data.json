@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344211200000,"doi":"10.1371/annotation/05a851e1-8627-4ea4-b12a-cfdba09f1e61","type":"correction"},"doi":"10.1371/journal.pone.0029187","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Comparative Genomics and Drug Resistance of a Geographic Variant of ST239 Methicillin-Resistant Staphylococcus aureus Emerged in Russia"}
+{
+  "retracted": false,
+  "timestamp": 1344211200000,
+  "updates": [
+    {
+      "timestamp": 1497280959817,
+      "identifier": {
+        "doi": "10.1371/annotation/05a851e1-8627-4ea4-b12a-cfdba09f1e61"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029187"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comparative Genomics and Drug Resistance of a Geographic Variant of ST239 Methicillin-Resistant Staphylococcus aureus Emerged in Russia"
+}

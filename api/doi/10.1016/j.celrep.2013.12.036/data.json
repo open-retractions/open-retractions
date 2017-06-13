@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393459200000,"doi":"10.1016/j.celrep.2014.02.009","type":"err"},"doi":"10.1016/j.celrep.2013.12.036","journal":"Cell Reports","publisher":"Elsevier BV","title":"Wnt/β-Catenin Signaling Defines Organizing Centers that Orchestrate Growth and Differentiation of the Regenerating Zebrafish Caudal Fin"}
+{
+  "retracted": false,
+  "timestamp": 1393459200000,
+  "updates": [
+    {
+      "timestamp": 1496021466349,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2014.02.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.12.036"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Wnt/β-Catenin Signaling Defines Organizing Centers that Orchestrate Growth and Differentiation of the Regenerating Zebrafish Caudal Fin"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.phytochem.2014.10.031","type":"err"},"doi":"10.1016/j.phytochem.2011.05.013","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Cananginones A–I, linear acetogenins from the stem bark of Cananga latifolia” [Phytochemistry 72 (14-15) (2011) 1859–1864]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496022436109,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2014.10.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2011.05.013"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cananginones A–I, linear acetogenins from the stem bark of Cananga latifolia” [Phytochemistry 72 (14-15) (2011) 1859–1864]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.expneurol.2013.03.013","type":"err"},"doi":"10.1016/j.expneurol.2010.05.010","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “Efficacy and safety of immunization with phosphorylated tau against neurofibrillary tangles in mice” [Exp. Neurol. 224/2 (2010) 472–485]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496007079456,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2013.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2010.05.010"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficacy and safety of immunization with phosphorylated tau against neurofibrillary tangles in mice” [Exp. Neurol. 224/2 (2010) 472–485]"
+}

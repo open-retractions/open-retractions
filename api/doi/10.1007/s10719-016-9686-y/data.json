@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1007/s10719-016-9714-y","type":"correction"},"doi":"10.1007/s10719-016-9686-y","journal":"Glycoconjugate Journal","publisher":"Springer Nature","title":"Erratum to: AGE-RAGE interaction in the TGFβ2-mediated epithelial to mesenchymal transition of human lens epithelial cells"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495733632404,
+      "identifier": {
+        "doi": "10.1007/s10719-016-9714-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10719-016-9686-y"
+  },
+  "journal": "Glycoconjugate Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: AGE-RAGE interaction in the TGFβ2-mediated epithelial to mesenchymal transition of human lens epithelial cells"
+}

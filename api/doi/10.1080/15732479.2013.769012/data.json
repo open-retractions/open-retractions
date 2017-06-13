@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394064000000,"doi":"10.1080/15732479.2014.897831","type":"correction"},"doi":"10.1080/15732479.2013.769012","journal":"Structure and Infrastructure Engineering","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1394064000000,
+  "updates": [
+    {
+      "timestamp": 1496023326626,
+      "identifier": {
+        "doi": "10.1080/15732479.2014.897831"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15732479.2013.769012"
+  },
+  "journal": "Structure and Infrastructure Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

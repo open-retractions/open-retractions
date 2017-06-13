@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366761600000,"doi":"10.1063/1.4802830","type":"correction"},"doi":"10.1063/1.4788677","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Microbubble array for on-chip worm processing” [Appl. Phys. Lett. 102, 023702 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1366761600000,
+  "updates": [
+    {
+      "timestamp": 1496014624723,
+      "identifier": {
+        "doi": "10.1063/1.4802830"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4788677"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Microbubble array for on-chip worm processing” [Appl. Phys. Lett. 102, 023702 (2013)]"
+}

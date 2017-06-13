@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477872000000,"doi":"10.1016/j.msea.2016.09.016","type":"err"},"doi":"10.1016/j.msea.2016.05.046","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Erratum to: ‘Grain structure evolution in Inconel 718 during selective electron beam melting’ [Mater. Sci. Eng. A 668 (2016) 180–187]"}
+{
+  "retracted": false,
+  "timestamp": 1477872000000,
+  "updates": [
+    {
+      "timestamp": 1495640163264,
+      "identifier": {
+        "doi": "10.1016/j.msea.2016.09.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2016.05.046"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: ‘Grain structure evolution in Inconel 718 during selective electron beam melting’ [Mater. Sci. Eng. A 668 (2016) 180–187]"
+}

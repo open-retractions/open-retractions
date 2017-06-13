@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jim.2015.11.008","type":"erratum"},"doi":"10.1016/j.jim.2015.06.013","journal":"Journal of Immunological Methods","publisher":"Elsevier BV","title":"Corrigendum to “Enhancing efficiency and quality of statistical estimation of immunogenicity assay cut points through standardization and automation” [J. Immunol. Methods 425 (2015) 88-96]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496051224862,
+      "identifier": {
+        "doi": "10.1016/j.jim.2015.11.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jim.2015.06.013"
+  },
+  "journal": "Journal of Immunological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enhancing efficiency and quality of statistical estimation of immunogenicity assay cut points through standardization and automation” [J. Immunol. Methods 425 (2015) 88-96]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320019200000,"doi":"10.4110/in.2011.11.5.307","type":"Retraction"},"doi":"10.4110/in.2008.8.3.67","journal":"Immune Network","publisher":"The Korean Association of Immunobiologists (KAMJE)","title":"Retraction: Non-specific Immune Response of Rainbow Trout (Oncorhynchus Mykiss) by Dietary Heat-inactivated Potential Probiotics. Immune Network 2008;8(3):67-74."}
+{
+  "retracted": false,
+  "timestamp": 1320019200000,
+  "updates": [
+    {
+      "timestamp": 1495676777153,
+      "identifier": {
+        "doi": "10.4110/in.2011.11.5.307"
+      },
+      "type": "Retraction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4110/in.2008.8.3.67"
+  },
+  "journal": "Immune Network",
+  "publisher": "The Korean Association of Immunobiologists (KAMJE)",
+  "title": "Retraction: Non-specific Immune Response of Rainbow Trout (Oncorhynchus Mykiss) by Dietary Heat-inactivated Potential Probiotics. Immune Network 2008;8(3):67-74."
+}

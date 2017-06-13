@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.biortech.2017.03.071","type":"erratum"},"doi":"10.1016/j.biortech.2016.12.078","journal":"Bioresource Technology","publisher":"Elsevier BV","title":"Corrigendum to ‘Nutrient recycle from defatted microalgae ( Aurantiochytrium ) with hydrothermal treatment for microalgae cultivation’ [Bioresour. Technol. 228 (2017) 186–192]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495727930215,
+      "identifier": {
+        "doi": "10.1016/j.biortech.2017.03.071"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biortech.2016.12.078"
+  },
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Nutrient recycle from defatted microalgae ( Aurantiochytrium ) with hydrothermal treatment for microalgae cultivation’ [Bioresour. Technol. 228 (2017) 186–192]"
+}

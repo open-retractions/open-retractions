@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1319155200000,"doi":"10.1007/s11243-011-9551-6","type":"correction"},"doi":"10.1007/s11243-011-9532-9","journal":"Transition Metal Chemistry","publisher":"Springer Nature","title":"Erratum to: Triangular ruthenium acetate clusters containing the bis(pyridyl)propane ligand and their inclusion chemistry with β-cyclodextrin"}
+{
+  "retracted": false,
+  "timestamp": 1319155200000,
+  "updates": [
+    {
+      "timestamp": 1495822317209,
+      "identifier": {
+        "doi": "10.1007/s11243-011-9551-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11243-011-9532-9"
+  },
+  "journal": "Transition Metal Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Triangular ruthenium acetate clusters containing the bis(pyridyl)propane ligand and their inclusion chemistry with β-cyclodextrin"
+}

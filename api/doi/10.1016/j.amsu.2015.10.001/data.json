@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.amsu.2016.05.015","type":"err"},"doi":"10.1016/j.amsu.2015.10.001","journal":"Annals of Medicine and Surgery","publisher":"Elsevier BV","title":"Erratum to “Rare benign mixed tumour of the upper lip: A case report” [Ann. Med. Surg. 4 (2015) 380–383]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495716970333,
+      "identifier": {
+        "doi": "10.1016/j.amsu.2016.05.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amsu.2015.10.001"
+  },
+  "journal": "Annals of Medicine and Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Rare benign mixed tumour of the upper lip: A case report” [Ann. Med. Surg. 4 (2015) 380–383]"
+}

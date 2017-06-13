@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481241600000,"doi":"10.1088/1361-6463/aa4ebc","type":"correction"},"doi":"10.1088/0022-3727/49/50/505003","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Erratum: Effect of temperature and magnetic field on magnetomechanical damping of Fe-based bulk metallic glasses (J. Phys. D: Appl. Phys. 49 505003)"}
+{
+  "retracted": false,
+  "timestamp": 1481241600000,
+  "updates": [
+    {
+      "timestamp": 1495666059985,
+      "identifier": {
+        "doi": "10.1088/1361-6463/aa4ebc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0022-3727/49/50/505003"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Effect of temperature and magnetic field on magnetomechanical damping of Fe-based bulk metallic glasses (J. Phys. D: Appl. Phys. 49 505003)"
+}

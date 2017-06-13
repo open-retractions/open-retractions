@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362355200000,"doi":"10.1371/annotation/f9660803-198b-4d0d-8200-719a2eb2a443","type":"correction"},"doi":"10.1371/journal.pone.0041604","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Gene Regulatory Networks Controlling Hematopoietic Progenitor Niche Cell Production and Differentiation in the Drosophila Lymph Gland"}
+{
+  "retracted": false,
+  "timestamp": 1362355200000,
+  "updates": [
+    {
+      "timestamp": 1496001351951,
+      "identifier": {
+        "doi": "10.1371/annotation/f9660803-198b-4d0d-8200-719a2eb2a443"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041604"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Gene Regulatory Networks Controlling Hematopoietic Progenitor Niche Cell Production and Differentiation in the Drosophila Lymph Gland"
+}

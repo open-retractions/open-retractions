@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447545600000,"doi":"10.1016/j.oceaneng.2015.08.063","type":"err"},"doi":"10.1016/j.oceaneng.2015.04.029","journal":"Ocean Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Experimental study of the up-pitching blade effect with a PIV application” [Ocean Eng. 102 (2015) 95–104]"}
+{
+  "retracted": false,
+  "timestamp": 1447545600000,
+  "updates": [
+    {
+      "timestamp": 1496036171596,
+      "identifier": {
+        "doi": "10.1016/j.oceaneng.2015.08.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oceaneng.2015.04.029"
+  },
+  "journal": "Ocean Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Experimental study of the up-pitching blade effect with a PIV application” [Ocean Eng. 102 (2015) 95–104]"
+}

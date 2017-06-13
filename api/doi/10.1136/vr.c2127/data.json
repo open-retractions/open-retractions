@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1273276800000,"doi":"10.1136/vr.c2460","type":"correction"},"doi":"10.1136/vr.c2127","journal":"Veterinary Record","publisher":"BMJ","title":"Veterinary medicines: product update"}
+{
+  "retracted": false,
+  "timestamp": 1273276800000,
+  "updates": [
+    {
+      "timestamp": 1495890580535,
+      "identifier": {
+        "doi": "10.1136/vr.c2460"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/vr.c2127"
+  },
+  "journal": "Veterinary Record",
+  "publisher": "BMJ",
+  "title": "Veterinary medicines: product update"
+}

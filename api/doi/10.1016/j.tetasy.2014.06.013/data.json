@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.tetasy.2014.08.014","type":"err"},"doi":"10.1016/j.tetasy.2014.06.013","journal":"Tetrahedron: Asymmetry","publisher":"Elsevier BV","title":"Erratum to “Catalytic and highly enantioselective Friedel–Crafts type reactions of heteroaromatic compounds with trifluoropyruvate and glyoxylate by a dicationic palladium complex” [Tetrahedron: Asymmetry 25 (2014) 1104–1115]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496005415376,
+      "identifier": {
+        "doi": "10.1016/j.tetasy.2014.08.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetasy.2014.06.013"
+  },
+  "journal": "Tetrahedron: Asymmetry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Catalytic and highly enantioselective Friedel–Crafts type reactions of heteroaromatic compounds with trifluoropyruvate and glyoxylate by a dicationic palladium complex” [Tetrahedron: Asymmetry 25 (2014) 1104–1115]"
+}

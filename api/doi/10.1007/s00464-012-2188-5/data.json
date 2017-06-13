@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394668800000,"doi":"10.1007/s00464-014-3492-z","type":"correction"},"doi":"10.1007/s00464-012-2188-5","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: Trend, variability, and outcome of open vs. laparoscopic appendectomy based on a large administrative database"}
+{
+  "retracted": false,
+  "timestamp": 1394668800000,
+  "updates": [
+    {
+      "timestamp": 1496023920499,
+      "identifier": {
+        "doi": "10.1007/s00464-014-3492-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-012-2188-5"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trend, variability, and outcome of open vs. laparoscopic appendectomy based on a large administrative database"
+}

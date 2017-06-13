@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395619200000,"doi":"10.1080/17445302.2014.906922","type":"correction"},"doi":"10.1080/17445302.2013.770724","journal":"Ships and Offshore Structures","publisher":"Informa UK Limited","title":"A time-variant corrosion wastage model for subsea gas pipelines"}
+{
+  "retracted": false,
+  "timestamp": 1395619200000,
+  "updates": [
+    {
+      "timestamp": 1496027802085,
+      "identifier": {
+        "doi": "10.1080/17445302.2014.906922"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17445302.2013.770724"
+  },
+  "journal": "Ships and Offshore Structures",
+  "publisher": "Informa UK Limited",
+  "title": "A time-variant corrosion wastage model for subsea gas pipelines"
+}

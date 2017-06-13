@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1007/s10593-016-1891-x","type":"correction"},"doi":"10.1007/s10593-016-1872-0","journal":"Chemistry of Heterocyclic Compounds","publisher":"Springer Nature","title":"Erratum to: A Domino Reaction for the Synthesis of 2H-Pyrano-[4'',3'',2'':4',5']chromeno [2',3':4,5]thieno-[2,3-b]pyridin-2-ones"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495723939726,
+      "identifier": {
+        "doi": "10.1007/s10593-016-1891-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10593-016-1872-0"
+  },
+  "journal": "Chemistry of Heterocyclic Compounds",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Domino Reaction for the Synthesis of 2H-Pyrano-[4'',3'',2'':4',5']chromeno [2',3':4,5]thieno-[2,3-b]pyridin-2-ones"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450396800000,"doi":"10.1007/s11845-015-1395-1","type":"correction"},"doi":"10.1007/s11845-011-0734-0","journal":"Irish Journal of Medical Science (1971 -)","publisher":"Springer Nature","title":"Erratum to: Role of central and peripheral opioid receptors in the cardioprotection of intravenous morphine preconditioning"}
+{
+  "retracted": false,
+  "timestamp": 1450396800000,
+  "updates": [
+    {
+      "timestamp": 1496054552224,
+      "identifier": {
+        "doi": "10.1007/s11845-015-1395-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11845-011-0734-0"
+  },
+  "journal": "Irish Journal of Medical Science (1971 -)",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Role of central and peripheral opioid receptors in the cardioprotection of intravenous morphine preconditioning"
+}

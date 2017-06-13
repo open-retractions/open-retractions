@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387756800000,"doi":"10.1063/1.4854015","type":"correction"},"doi":"10.1063/1.4764054","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher’s Note: “Metamaterial particles for electromagnetic energy harvesting” [Appl. Phys. Lett. 101, 173903 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1387756800000,
+  "updates": [
+    {
+      "timestamp": 1496007056805,
+      "identifier": {
+        "doi": "10.1063/1.4854015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4764054"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Metamaterial particles for electromagnetic energy harvesting” [Appl. Phys. Lett. 101, 173903 (2012)]"
+}

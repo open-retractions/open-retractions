@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380844800000,"doi":"10.1371/annotation/40d793ec-45e1-444f-8b31-4609f1561508","type":"correction"},"doi":"10.1371/journal.pone.0055483","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Protein Arginine Methylation Is More Prone to Inhibition by S-Adenosylhomocysteine than DNA Methylation in Vascular Endothelial Cells"}
+{
+  "retracted": false,
+  "timestamp": 1380844800000,
+  "updates": [
+    {
+      "timestamp": 1496054163110,
+      "identifier": {
+        "doi": "10.1371/annotation/40d793ec-45e1-444f-8b31-4609f1561508"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055483"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Protein Arginine Methylation Is More Prone to Inhibition by S-Adenosylhomocysteine than DNA Methylation in Vascular Endothelial Cells"
+}

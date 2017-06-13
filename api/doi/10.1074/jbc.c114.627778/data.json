@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448582400000,"doi":"10.1074/jbc.a114.627778","type":"correction"},"doi":"10.1074/jbc.c114.627778","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Pharmacological inhibition of ULK1 kinase blocks mammalian target of rapamycin (mTOR)-dependent autophagy."}
+{
+  "retracted": false,
+  "timestamp": 1448582400000,
+  "updates": [
+    {
+      "timestamp": 1496614939226,
+      "identifier": {
+        "doi": "10.1074/jbc.a114.627778"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.c114.627778"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Pharmacological inhibition of ULK1 kinase blocks mammalian target of rapamycin (mTOR)-dependent autophagy."
+}

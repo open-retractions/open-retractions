@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1253318400000,"doi":"10.1007/s11120-009-9495-2","type":"correction"},"doi":"10.1007/s11120-009-9422-6","journal":"Photosynthesis Research","publisher":"Springer Nature","title":"Erratum to: Pulsed EPR spectroscopy"}
+{
+  "retracted": false,
+  "timestamp": 1253318400000,
+  "updates": [
+    {
+      "timestamp": 1495979512092,
+      "identifier": {
+        "doi": "10.1007/s11120-009-9495-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11120-009-9422-6"
+  },
+  "journal": "Photosynthesis Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pulsed EPR spectroscopy"
+}

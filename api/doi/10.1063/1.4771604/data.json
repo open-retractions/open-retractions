@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365465600000,"doi":"10.1063/1.4800774","type":"correction"},"doi":"10.1063/1.4771604","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: “Numerical study of pulsatile channel flows undergoing transition triggered by a modelled stenosis [Phys. Fluids 24, 121901 (2012)]”"}
+{
+  "retracted": false,
+  "timestamp": 1365465600000,
+  "updates": [
+    {
+      "timestamp": 1496011440539,
+      "identifier": {
+        "doi": "10.1063/1.4800774"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4771604"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Numerical study of pulsatile channel flows undergoing transition triggered by a modelled stenosis [Phys. Fluids 24, 121901 (2012)]”"
+}

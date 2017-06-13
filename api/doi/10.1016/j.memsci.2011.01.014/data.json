@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.memsci.2013.11.018","type":"err"},"doi":"10.1016/j.memsci.2011.01.014","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Kinetics and mechanism of plasmid DNA penetration through nanopores” [J. Membr. Sci. 371 (2011) 45–51]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496001938489,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2013.11.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2011.01.014"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Kinetics and mechanism of plasmid DNA penetration through nanopores” [J. Membr. Sci. 371 (2011) 45–51]"
+}

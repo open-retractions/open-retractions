@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jcrc.2016.04.014","type":"err"},"doi":"10.1016/j.jcrc.2015.11.018","journal":"Journal of Critical Care","publisher":"Elsevier BV","title":"Erratum to ‘exposure to reprocessed single-use tracheal suction catheter and ventilator-associated pneumonia risk: A preliminary, single unit–based, matched case–control study’ [journal of critical care volume 32/issue 2 (2016) 145–151]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495672816914,
+      "identifier": {
+        "doi": "10.1016/j.jcrc.2016.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrc.2015.11.018"
+  },
+  "journal": "Journal of Critical Care",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘exposure to reprocessed single-use tracheal suction catheter and ventilator-associated pneumonia risk: A preliminary, single unit–based, matched case–control study’ [journal of critical care volume 32/issue 2 (2016) 145–151]"
+}

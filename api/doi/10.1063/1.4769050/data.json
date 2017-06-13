@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357862400000,"doi":"10.1063/1.4773408","type":"correction"},"doi":"10.1063/1.4769050","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Publisher's Note: “Design and optimization of a light-emitting diode projection micro-stereolithography three-dimensional manufacturing system” [Rev. Sci. Instrum. 83, 125001 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357862400000,
+  "updates": [
+    {
+      "timestamp": 1495985214643,
+      "identifier": {
+        "doi": "10.1063/1.4773408"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4769050"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Design and optimization of a light-emitting diode projection micro-stereolithography three-dimensional manufacturing system” [Rev. Sci. Instrum. 83, 125001 (2012)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415059200000,"doi":"10.1080/02757540.2014.965496","type":"correction"},"doi":"10.1080/02757540.2014.932782","journal":"Chemistry and Ecology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1415059200000,
+  "updates": [
+    {
+      "timestamp": 1496019054716,
+      "identifier": {
+        "doi": "10.1080/02757540.2014.965496"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02757540.2014.932782"
+  },
+  "journal": "Chemistry and Ecology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

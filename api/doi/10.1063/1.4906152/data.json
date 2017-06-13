@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431475200000,"doi":"10.1063/1.4921162","type":"correction"},"doi":"10.1063/1.4906152","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Self-consistent embedding of density-matrix renormalization group wavefunctions in a density functional environment” [J. Chem. Phys. 142, 044111 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1431475200000,
+  "updates": [
+    {
+      "timestamp": 1495999971679,
+      "identifier": {
+        "doi": "10.1063/1.4921162"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4906152"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Self-consistent embedding of density-matrix renormalization group wavefunctions in a density functional environment” [J. Chem. Phys. 142, 044111 (2015)]"
+}

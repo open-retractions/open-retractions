@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1186/s12879-016-1948-6","type":"correction"},"doi":"10.1186/s12879-016-1534-y","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Poor tuberculosis treatment outcomes in Southern Mozambique (2011-2012)"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495650057576,
+      "identifier": {
+        "doi": "10.1186/s12879-016-1948-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-016-1534-y"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Poor tuberculosis treatment outcomes in Southern Mozambique (2011-2012)"
+}

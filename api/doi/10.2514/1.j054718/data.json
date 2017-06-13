@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467676800000,"doi":"10.2514/1.j055336","type":"erratum"},"doi":"10.2514/1.j054718","journal":"AIAA Journal","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Erratum: Verification and Validation of a Second-Moment Closure Model"}
+{
+  "retracted": false,
+  "timestamp": 1467676800000,
+  "updates": [
+    {
+      "timestamp": 1495724686782,
+      "identifier": {
+        "doi": "10.2514/1.j055336"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.j054718"
+  },
+  "journal": "AIAA Journal",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Erratum: Verification and Validation of a Second-Moment Closure Model"
+}

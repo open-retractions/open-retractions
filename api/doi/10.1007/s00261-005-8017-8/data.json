@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298505600000,"doi":"10.1007/s00261-011-9714-0","type":"correction"},"doi":"10.1007/s00261-005-8017-8","journal":"Abdominal Imaging","publisher":"Springer Nature","title":"Erratum to: Percutaneous insertion of Zilver stent in malignant biliary obstruction"}
+{
+  "retracted": false,
+  "timestamp": 1298505600000,
+  "updates": [
+    {
+      "timestamp": 1495925208837,
+      "identifier": {
+        "doi": "10.1007/s00261-011-9714-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00261-005-8017-8"
+  },
+  "journal": "Abdominal Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Percutaneous insertion of Zilver stent in malignant biliary obstruction"
+}

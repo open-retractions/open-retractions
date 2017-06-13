@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360800000000,"doi":"10.1002/sim.5723","type":"correction"},"doi":"10.1002/sim.5452","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"Correction: ‘Generating survival times to simulate Cox proportional hazards models with time-varying covariates’"}
+{
+  "retracted": false,
+  "timestamp": 1360800000000,
+  "updates": [
+    {
+      "timestamp": 1495995724231,
+      "identifier": {
+        "doi": "10.1002/sim.5723"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.5452"
+  },
+  "journal": "Statistics in Medicine",
+  "publisher": "Wiley-Blackwell",
+  "title": "Correction: ‘Generating survival times to simulate Cox proportional hazards models with time-varying covariates’"
+}

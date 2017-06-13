@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459209600000,"doi":"10.1136/bmj.i1762","type":"correction"},"doi":"10.1136/bmj.h4596","journal":"BMJ","publisher":"BMJ","title":"Increased mortality associated with weekend hospital admission: a case for expanded seven day services?"}
+{
+  "retracted": false,
+  "timestamp": 1459209600000,
+  "updates": [
+    {
+      "timestamp": 1495660011180,
+      "identifier": {
+        "doi": "10.1136/bmj.i1762"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h4596"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Increased mortality associated with weekend hospital admission: a case for expanded seven day services?"
+}

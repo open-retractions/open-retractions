@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.jdermsci.2013.10.007","type":"err"},"doi":"10.1016/j.jdermsci.2013.04.002","journal":"Journal of Dermatological Science","publisher":"Elsevier BV","title":"Corrigendum to “Genetic polymorphisms in the IL22 gene are associated with psoriasis vulgaris in a Japanese population” [J. Dermatol. Sci. 71 (2013) 148–150]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1495997255464,
+      "identifier": {
+        "doi": "10.1016/j.jdermsci.2013.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jdermsci.2013.04.002"
+  },
+  "journal": "Journal of Dermatological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic polymorphisms in the IL22 gene are associated with psoriasis vulgaris in a Japanese population” [J. Dermatol. Sci. 71 (2013) 148–150]"
+}

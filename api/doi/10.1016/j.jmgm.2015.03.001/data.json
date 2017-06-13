@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jmgm.2015.04.008","type":"err"},"doi":"10.1016/j.jmgm.2015.03.001","journal":"Journal of Molecular Graphics and Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Revised force-field parameters for chlorophyll-a, pheophytin-a and plastoquinone-9” [J. Mol. Graphics Model. 58 (2015) 30–39]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495996683172,
+      "identifier": {
+        "doi": "10.1016/j.jmgm.2015.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmgm.2015.03.001"
+  },
+  "journal": "Journal of Molecular Graphics and Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Revised force-field parameters for chlorophyll-a, pheophytin-a and plastoquinone-9” [J. Mol. Graphics Model. 58 (2015) 30–39]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.ijgo.2016.02.004","type":"err"},"doi":"10.1016/j.ijgo.2015.06.019","journal":"International Journal of Gynecology & Obstetrics","publisher":"Wiley-Blackwell","title":"Corrigendum to “FIGO consensus guidelines on intrapartum fetal monitoring: Intermittent auscultation” [Int J Gynecol Obstet 131 (2015) 9-12]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495644583502,
+      "identifier": {
+        "doi": "10.1016/j.ijgo.2016.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijgo.2015.06.019"
+  },
+  "journal": "International Journal of Gynecology & Obstetrics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “FIGO consensus guidelines on intrapartum fetal monitoring: Intermittent auscultation” [Int J Gynecol Obstet 131 (2015) 9-12]"
+}

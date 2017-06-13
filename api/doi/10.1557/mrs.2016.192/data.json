@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1557/mrs.2016.296","type":"correction"},"doi":"10.1557/mrs.2016.192","journal":"MRS Bulletin","publisher":"Cambridge University Press (CUP)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495665281067,
+      "identifier": {
+        "doi": "10.1557/mrs.2016.296"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1557/mrs.2016.192"
+  },
+  "journal": "MRS Bulletin",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Erratum"
+}

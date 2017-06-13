@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.tibs.2016.05.006","type":"err"},"doi":"10.1016/j.tibs.2016.04.002","journal":"Trends in Biochemical Sciences","publisher":"Elsevier BV","title":"RecA: Regulation and Mechanism of a Molecular Search Engine"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495718514320,
+      "identifier": {
+        "doi": "10.1016/j.tibs.2016.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tibs.2016.04.002"
+  },
+  "journal": "Trends in Biochemical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "RecA: Regulation and Mechanism of a Molecular Search Engine"
+}

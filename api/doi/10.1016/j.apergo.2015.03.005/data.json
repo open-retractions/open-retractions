@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.apergo.2015.05.003","type":"err"},"doi":"10.1016/j.apergo.2015.03.005","journal":"Applied Ergonomics","publisher":"Elsevier BV","title":"Corrigendum to “Human error identification for laparoscopic surgery: Development of a motion economy perspective” [Appl. Ergon. 50 (2015) 113–125]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496007623108,
+      "identifier": {
+        "doi": "10.1016/j.apergo.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apergo.2015.03.005"
+  },
+  "journal": "Applied Ergonomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Human error identification for laparoscopic surgery: Development of a motion economy perspective” [Appl. Ergon. 50 (2015) 113–125]"
+}

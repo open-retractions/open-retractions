@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406764800000,"doi":"10.1179/1079026814z.000000000321","type":"correction"},"doi":"10.1179/2045772314y.0000000196","journal":"The Journal of Spinal Cord Medicine","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1406764800000,
+  "updates": [
+    {
+      "timestamp": 1495996438768,
+      "identifier": {
+        "doi": "10.1179/1079026814z.000000000321"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/2045772314y.0000000196"
+  },
+  "journal": "The Journal of Spinal Cord Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

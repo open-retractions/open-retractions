@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jaap.2014.06.001","type":"err"},"doi":"10.1016/j.jaap.2012.03.002","journal":"Journal of Analytical and Applied Pyrolysis","publisher":"Elsevier BV","title":"Corrigendum to “Thermal catalytic cracking of naphtha over multi wall carbon nanotube catalysts” [J. Anal. Appl. Pyrol. 98 (2012) 7–14]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496047243137,
+      "identifier": {
+        "doi": "10.1016/j.jaap.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaap.2012.03.002"
+  },
+  "journal": "Journal of Analytical and Applied Pyrolysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thermal catalytic cracking of naphtha over multi wall carbon nanotube catalysts” [J. Anal. Appl. Pyrol. 98 (2012) 7–14]"
+}

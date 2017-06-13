@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1122249600000,"doi":"10.1063/1.1994931","type":"erratum"},"doi":"10.1063/1.1836874","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “A naturally-occurring, optically-driven, cellular rotor” [Appl. Phys. Lett. 85, 6048 (2004)]"}
+{
+  "retracted": false,
+  "timestamp": 1122249600000,
+  "updates": [
+    {
+      "timestamp": 1495949827314,
+      "identifier": {
+        "doi": "10.1063/1.1994931"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1836874"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A naturally-occurring, optically-driven, cellular rotor”             [Appl. Phys. Lett. 85, 6048           (2004)]"
+}

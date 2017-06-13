@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1107/s1399004714006154","type":"correction"},"doi":"10.1107/s0907444912039194","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"AMPLE: a cluster-and-truncate approach to solve the crystal structures of small proteins using rapidly computedab initiomodels. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496028207973,
+      "identifier": {
+        "doi": "10.1107/s1399004714006154"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444912039194"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "AMPLE: a cluster-and-truncate approach to solve the crystal structures of small proteins using rapidly computedab initiomodels. Corrigendum"
+}

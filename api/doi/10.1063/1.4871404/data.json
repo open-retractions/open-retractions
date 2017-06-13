@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446595200000,"doi":"10.1063/1.4935421","type":"correction"},"doi":"10.1063/1.4871404","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Preventing light-induced degradation in multicrystalline silicon” [J. Appl. Phys. 115, 154902 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1446595200000,
+  "updates": [
+    {
+      "timestamp": 1496043426091,
+      "identifier": {
+        "doi": "10.1063/1.4935421"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4871404"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Preventing light-induced degradation in multicrystalline silicon” [J. Appl. Phys. 115, 154902 (2014)]"
+}

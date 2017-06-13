@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1007/s40846-015-0068-x","type":"correction"},"doi":"10.1007/s40846-015-0029-4","journal":"Journal of Medical and Biological Engineering","publisher":"Springer Nature","title":"Erratum to: Review: Anti-fouling Coatings of Poly(dimethylsiloxane) Devices for Biological and Biomedical Applications"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496024328914,
+      "identifier": {
+        "doi": "10.1007/s40846-015-0068-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40846-015-0029-4"
+  },
+  "journal": "Journal of Medical and Biological Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Review: Anti-fouling Coatings of Poly(dimethylsiloxane) Devices for Biological and Biomedical Applications"
+}

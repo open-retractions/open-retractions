@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1080/00324728.2015.1049415","type":"correction"},"doi":"10.1080/00324728.2014.962930","journal":"Population Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496005244137,
+      "identifier": {
+        "doi": "10.1080/00324728.2015.1049415"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00324728.2014.962930"
+  },
+  "journal": "Population Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

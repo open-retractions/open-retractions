@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485475200000,"doi":"10.1016/j.msea.2016.12.098","type":"erratum"},"doi":"10.1016/j.msea.2016.10.034","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Erratum to ‘Stacking fault tetrahedron induced plasticity in copper single crystal’ [Mater. Sci. Eng. A 680C (2016) 27–38]"}
+{
+  "retracted": false,
+  "timestamp": 1485475200000,
+  "updates": [
+    {
+      "timestamp": 1495672853129,
+      "identifier": {
+        "doi": "10.1016/j.msea.2016.12.098"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2016.10.034"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Stacking fault tetrahedron induced plasticity in copper single crystal’ [Mater. Sci. Eng. A 680C (2016) 27–38]"
+}

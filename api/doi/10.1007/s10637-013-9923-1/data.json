@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365638400000,"doi":"10.1007/s10637-013-9955-6","type":"correction"},"doi":"10.1007/s10637-013-9923-1","journal":"Investigational New Drugs","publisher":"Springer Nature","title":"Erratum to: Effect of the drug transporters ABCG2, Abcg2, ABCB1 and ABCC2 on the disposition, brain accumulation and myelotoxicity of the aurora kinase B inhibitor barasertib and its more active form barasertib-hydroxy-QPA"}
+{
+  "retracted": false,
+  "timestamp": 1365638400000,
+  "updates": [
+    {
+      "timestamp": 1496011272053,
+      "identifier": {
+        "doi": "10.1007/s10637-013-9955-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10637-013-9923-1"
+  },
+  "journal": "Investigational New Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of the drug transporters ABCG2, Abcg2, ABCB1 and ABCC2 on the disposition, brain accumulation and myelotoxicity of the aurora kinase B inhibitor barasertib and its more active form barasertib-hydroxy-QPA"
+}

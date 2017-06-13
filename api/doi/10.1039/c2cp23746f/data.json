@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1039/c5cp90063h","type":"correction"},"doi":"10.1039/c2cp23746f","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Fragment density functional theory calculation of NMR chemical shifts for proteins with implicit solvation"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496059457077,
+      "identifier": {
+        "doi": "10.1039/c5cp90063h"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c2cp23746f"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Fragment density functional theory calculation of NMR chemical shifts for proteins with implicit solvation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408492800000,"doi":"10.1007/s00227-014-2517-4","type":"correction"},"doi":"10.1007/s00227-012-2090-7","journal":"Marine Biology","publisher":"Springer Nature","title":"Erratum to: Effects of pCO2 on physiology and skeletal mineralogy in a tidal pool coralline alga Corallina elongata"}
+{
+  "retracted": false,
+  "timestamp": 1408492800000,
+  "updates": [
+    {
+      "timestamp": 1495998358360,
+      "identifier": {
+        "doi": "10.1007/s00227-014-2517-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00227-012-2090-7"
+  },
+  "journal": "Marine Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effects of pCO2 on physiology and skeletal mineralogy in a tidal pool coralline alga Corallina elongata"
+}

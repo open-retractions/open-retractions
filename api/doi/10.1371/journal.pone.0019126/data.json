@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1313971200000,"doi":"10.1371/annotation/7b989904-0cf4-4f2d-9626-6bf3ef6646c5","type":"correction"},"doi":"10.1371/journal.pone.0019126","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Spinal Botulinum Neurotoxin B: Effects on Afferent Transmitter Release and Nociceptive Processing"}
+{
+  "retracted": false,
+  "timestamp": 1313971200000,
+  "updates": [
+    {
+      "timestamp": 1491964822841,
+      "identifier": {
+        "doi": "10.1371/annotation/7b989904-0cf4-4f2d-9626-6bf3ef6646c5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0019126"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Spinal Botulinum Neurotoxin B: Effects on Afferent Transmitter Release and Nociceptive Processing"
+}

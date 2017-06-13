@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.socscimed.2014.05.013","type":"err"},"doi":"10.1016/j.socscimed.2013.11.005","journal":"Social Science & Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Term limits and the tobacco industry” [Social Sci. & Med. 104 (2014) 1–5]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496039631690,
+      "identifier": {
+        "doi": "10.1016/j.socscimed.2014.05.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.socscimed.2013.11.005"
+  },
+  "journal": "Social Science & Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Term limits and the tobacco industry” [Social Sci. & Med. 104 (2014) 1–5]"
+}

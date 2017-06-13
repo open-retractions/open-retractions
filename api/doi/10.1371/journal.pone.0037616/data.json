@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351123200000,"doi":"10.1371/annotation/ae2a9c7b-37fd-4aae-a9df-edbf8e7d99b8","type":"correction"},"doi":"10.1371/journal.pone.0037616","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Generative Model for Measuring Latent Timing Structure in Motor Sequences"}
+{
+  "retracted": false,
+  "timestamp": 1351123200000,
+  "updates": [
+    {
+      "timestamp": 1495976699444,
+      "identifier": {
+        "doi": "10.1371/annotation/ae2a9c7b-37fd-4aae-a9df-edbf8e7d99b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037616"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Generative Model for Measuring Latent Timing Structure in Motor Sequences"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400112000000,"doi":"10.3109/09286586.2014.909248","type":"correction"},"doi":"10.3109/09286586.2013.867512","journal":"Ophthalmic Epidemiology","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1400112000000,
+  "updates": [
+    {
+      "timestamp": 1496034881332,
+      "identifier": {
+        "doi": "10.3109/09286586.2014.909248"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/09286586.2013.867512"
+  },
+  "journal": "Ophthalmic Epidemiology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338940800000,"doi":"10.1186/1742-2094-9-118","type":"correction"},"doi":"10.1186/1742-2094-7-3","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Luteolin triggers global changes in the microglial transcriptome leading to a unique anti-inflammatory and neuroprotective phenotype"}
+{
+  "retracted": false,
+  "timestamp": 1338940800000,
+  "updates": [
+    {
+      "timestamp": 1495914383130,
+      "identifier": {
+        "doi": "10.1186/1742-2094-9-118"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1742-2094-7-3"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Luteolin triggers global changes in the microglial transcriptome leading to a unique anti-inflammatory and neuroprotective phenotype"
+}

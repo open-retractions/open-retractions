@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1416528000000,"update":{"timestamp":null,"doi":null,"pmid":26438908,"type":"retraction"},"doi":"10.1016/j.jtbi.2014.07.017","journal":"Journal of theoretical biology","publisher":null,"title":"RETRACTED: Identifying halophilic proteins based on random forests with preprocessing of the pseudo-amino acid composition."}
+{
+  "retracted": false,
+  "timestamp": 1416528000000,
+  "updates": [
+    {
+      "timestamp": 1496010977699,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2014.10.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2014.07.017"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Identifying halophilic proteins based on random forests with preprocessing of the pseudo-amino acid composition” [J. Theor. Biol. 361 (2014) 175–181]"
+}

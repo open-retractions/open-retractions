@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.foodchem.2016.02.084","type":"err"},"doi":"10.1016/j.foodchem.2014.11.090","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Dieckol enhances the expression of antioxidant and detoxifying enzymes by the activation of Nrf2–MAPK signaling pathway in HepG2 cells” [Food Chem. 174 (2015) 538–546]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495647110729,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.02.084"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2014.11.090"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dieckol enhances the expression of antioxidant and detoxifying enzymes by the activation of Nrf2–MAPK signaling pathway in HepG2 cells” [Food Chem. 174 (2015) 538–546]"
+}

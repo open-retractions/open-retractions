@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jpsychires.2015.07.029","type":"err"},"doi":"10.1016/j.jpsychires.2014.06.018","journal":"Journal of Psychiatric Research","publisher":"Elsevier BV","title":"Retraction notice to <Electroconvulsive therapy and aerobic exercise training increased BDNF and ameliorated depressive symptoms in patients suffering from treatment-resistant major depressive disorder>"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496022804488,
+      "identifier": {
+        "doi": "10.1016/j.jpsychires.2015.07.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpsychires.2014.06.018"
+  },
+  "journal": "Journal of Psychiatric Research",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to <Electroconvulsive therapy and aerobic exercise training increased BDNF and ameliorated depressive symptoms in patients suffering from treatment-resistant major depressive disorder>"
+}

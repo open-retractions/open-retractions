@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431216000000,"doi":"10.1016/j.tca.2015.03.021","type":"err"},"doi":"10.1016/j.tca.2013.11.006","journal":"Thermochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Effects of concentration and temperature on interactions in (l-alanine/l-threonine/glycylglycine+aqueous d-glucose/aqueous sucrose) systems: Insights from viscosity measurements” [Thermochim. Acta 575 (2014) 331–335]"}
+{
+  "retracted": false,
+  "timestamp": 1431216000000,
+  "updates": [
+    {
+      "timestamp": 1496055275843,
+      "identifier": {
+        "doi": "10.1016/j.tca.2015.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tca.2013.11.006"
+  },
+  "journal": "Thermochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of concentration and temperature on interactions in (l-alanine/l-threonine/glycylglycine+aqueous d-glucose/aqueous sucrose) systems: Insights from viscosity measurements” [Thermochim. Acta 575 (2014) 331–335]"
+}

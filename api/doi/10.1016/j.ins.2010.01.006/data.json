@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384905600000,"doi":"10.1016/j.ins.2013.05.036","type":"err"},"doi":"10.1016/j.ins.2010.01.006","journal":"Information Sciences","publisher":"Elsevier BV","title":"Erratum to “Blackwell’s theorem for T-related fuzzy variables”"}
+{
+  "retracted": false,
+  "timestamp": 1384905600000,
+  "updates": [
+    {
+      "timestamp": 1496027494813,
+      "identifier": {
+        "doi": "10.1016/j.ins.2013.05.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2010.01.006"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Blackwell’s theorem for T-related fuzzy variables”"
+}

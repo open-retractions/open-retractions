@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.fluid.2014.01.040","type":"err"},"doi":"10.1016/j.fluid.2013.11.029","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “Performance comparison of adsorption isotherm models for supercritical hydrogen sorption on MOFs” [Fluid Phase Equilib. 363 (2014) 74–85]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496020666057,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2014.01.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2013.11.029"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance comparison of adsorption isotherm models for supercritical hydrogen sorption on MOFs” [Fluid Phase Equilib. 363 (2014) 74–85]"
+}

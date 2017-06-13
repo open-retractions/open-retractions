@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.saa.2015.02.044","type":"err"},"doi":"10.1016/j.saa.2014.02.169","journal":"Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy","publisher":"Elsevier BV","title":"Corrigendum to “Natural dye extract of lawsonia inermis seed as photo sensitizer for titanium dioxide based dye sensitized solar cells” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 128 (2014) 420–426]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496047674346,
+      "identifier": {
+        "doi": "10.1016/j.saa.2015.02.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.saa.2014.02.169"
+  },
+  "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Natural dye extract of lawsonia inermis seed as photo sensitizer for titanium dioxide based dye sensitized solar cells” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 128 (2014) 420–426]"
+}

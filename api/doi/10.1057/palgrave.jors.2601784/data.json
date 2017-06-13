@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1108944000000,"doi":"10.1057/palgrave.jors.2601887","type":"correction"},"doi":"10.1057/palgrave.jors.2601784","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A review and classification of heuristics for permutation flow-stop scheduling with makespan objective"}
+{
+  "retracted": false,
+  "timestamp": 1108944000000,
+  "updates": [
+    {
+      "timestamp": 1495921723294,
+      "identifier": {
+        "doi": "10.1057/palgrave.jors.2601887"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/palgrave.jors.2601784"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A review and classification of heuristics for permutation flow-stop scheduling with makespan objective"
+}

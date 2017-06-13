@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486771200000,"doi":"10.3103/s1068371216120105","type":"correction"},"doi":"10.3103/s1068371216090078","journal":"Russian Electrical Engineering","publisher":"Allerton Press","title":"Erratum to: “Scalar control systems for a traction induction motor”"}
+{
+  "retracted": false,
+  "timestamp": 1486771200000,
+  "updates": [
+    {
+      "timestamp": 1495719658973,
+      "identifier": {
+        "doi": "10.3103/s1068371216120105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1068371216090078"
+  },
+  "journal": "Russian Electrical Engineering",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Scalar control systems for a traction induction motor”"
+}

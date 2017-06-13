@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jcpa.2015.04.008","type":"err"},"doi":"10.1016/j.jcpa.2015.02.005","journal":"Journal of Comparative Pathology","publisher":"Elsevier BV","title":"Corrigendum to “The Swiss Canine Cancer Registry: A Retrospective Study on the Occurrence of Tumours in Dogs in Switzerland from 1955 to 2008” [J Comp Pathol 152 (2–3) (2015) 161–171]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496002865669,
+      "identifier": {
+        "doi": "10.1016/j.jcpa.2015.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcpa.2015.02.005"
+  },
+  "journal": "Journal of Comparative Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Swiss Canine Cancer Registry: A Retrospective Study on the Occurrence of Tumours in Dogs in Switzerland from 1955 to 2008” [J Comp Pathol 152 (2–3) (2015) 161–171]"
+}

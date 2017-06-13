@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1080/14888386.2014.898484","type":"correction"},"doi":"10.1080/14888386.2014.884469","journal":"Biodiversity","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496022677880,
+      "identifier": {
+        "doi": "10.1080/14888386.2014.898484"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14888386.2014.884469"
+  },
+  "journal": "Biodiversity",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

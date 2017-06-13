@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":986083200000,"doi":"10.1107/s0021889801004642","type":"correction"},"doi":"10.1107/s0021889801000966","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Harry Brumberger (1926–2000)"}
+{
+  "retracted": false,
+  "timestamp": 986083200000,
+  "updates": [
+    {
+      "timestamp": 1495925701160,
+      "identifier": {
+        "doi": "10.1107/s0021889801004642"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0021889801000966"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Harry Brumberger (1926–2000)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.inoche.2015.05.005","type":"err"},"doi":"10.1016/j.inoche.2015.01.006","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Erratum to “Tunable photoluminescence of a dual-emissive zinc(II) coordination polymer with an in-situ generated tetrazole derivative and benzenetetracarboxylic acid” [Inorg. Chem. Commun. 53 (2015) 20–22]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496000035715,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2015.05.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2015.01.006"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Tunable photoluminescence of a dual-emissive zinc(II) coordination polymer with an in-situ generated tetrazole derivative and benzenetetracarboxylic acid” [Inorg. Chem. Commun. 53 (2015) 20–22]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1206403200000,"doi":"10.1073/pnas.1111311108","type":"correction"},"doi":"10.1073/pnas.0800628105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Miyawaki et al., Ischemic preconditioning blocks BAD translocation, Bcl-xL cleavage, and large channel activity in mitochondria of postischemic hippocampal neurons"}
+{
+  "retracted": false,
+  "timestamp": 1206403200000,
+  "updates": [
+    {
+      "timestamp": 1495806763226,
+      "identifier": {
+        "doi": "10.1073/pnas.1111311108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0800628105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Miyawaki et al., Ischemic preconditioning blocks BAD translocation, Bcl-xL cleavage, and large channel activity in mitochondria of postischemic hippocampal neurons"
+}

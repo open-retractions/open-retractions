@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1371/annotation/3e6e3fb0-e52f-4a6d-8ea2-34de4147b64f","type":"correction"},"doi":"10.1371/journal.pone.0066337","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Anti-Influenza Activity of C60Fullerene Derivatives"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495996262095,
+      "identifier": {
+        "doi": "10.1371/annotation/3e6e3fb0-e52f-4a6d-8ea2-34de4147b64f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0066337"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Anti-Influenza Activity of C60Fullerene Derivatives"
+}

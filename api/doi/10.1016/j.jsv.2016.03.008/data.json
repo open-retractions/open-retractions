@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487289600000,"doi":"10.1016/j.jsv.2016.11.031","type":"erratum"},"doi":"10.1016/j.jsv.2016.03.008","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Erratum to ‘Non-linear targeted energy transfer of two coupled cantilever beams coupled to a bistable light attachment’ [J. Sound Vib. 373 (2016) 29–51]"}
+{
+  "retracted": false,
+  "timestamp": 1487289600000,
+  "updates": [
+    {
+      "timestamp": 1495661620773,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2016.11.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2016.03.008"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Non-linear targeted energy transfer of two coupled cantilever beams coupled to a bistable light attachment’ [J. Sound Vib. 373 (2016) 29–51]"
+}

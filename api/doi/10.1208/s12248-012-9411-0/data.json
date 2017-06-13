@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441238400000,"doi":"10.1208/s12248-015-9823-8","type":"correction"},"doi":"10.1208/s12248-012-9411-0","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Generic Development of Topical Dermatologic Products: Formulation Development, Process Development, and Testing of Topical Dermatologic Products"}
+{
+  "retracted": false,
+  "timestamp": 1441238400000,
+  "updates": [
+    {
+      "timestamp": 1496026981975,
+      "identifier": {
+        "doi": "10.1208/s12248-015-9823-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-012-9411-0"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Generic Development of Topical Dermatologic Products: Formulation Development, Process Development, and Testing of Topical Dermatologic Products"
+}

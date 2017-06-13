@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.biosystemseng.2015.09.001","type":"err"},"doi":"10.1016/j.biosystemseng.2014.06.013","journal":"Biosystems Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Characterisation of the dielectric properties of rubber latex from 0.5 to 33 GHz” [Biosyst Eng 125 (2014) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496030898106,
+      "identifier": {
+        "doi": "10.1016/j.biosystemseng.2015.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biosystemseng.2014.06.013"
+  },
+  "journal": "Biosystems Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterisation of the dielectric properties of rubber latex from 0.5 to 33 GHz” [Biosyst Eng 125 (2014) 1–8]"
+}

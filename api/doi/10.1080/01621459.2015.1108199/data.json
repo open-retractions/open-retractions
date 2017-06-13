@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483488000000,"doi":"10.1080/01621459.2016.1240685","type":"correction"},"doi":"10.1080/01621459.2015.1108199","journal":"Journal of the American Statistical Association","publisher":"Informa UK Limited","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1483488000000,
+  "updates": [
+    {
+      "timestamp": 1495672393366,
+      "identifier": {
+        "doi": "10.1080/01621459.2016.1240685"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01621459.2015.1108199"
+  },
+  "journal": "Journal of the American Statistical Association",
+  "publisher": "Informa UK Limited",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1221696000000,"doi":"10.1371/annotation/7f57058f-cc02-45a6-bfab-a835619e3916","type":"correction"},"doi":"10.1371/journal.pgen.1000176","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Somatic Pairing of Chromosome 19 in Renal Oncocytoma Is Associated with Deregulated EGLN2-Mediated Oxygen-Sensing Response"}
+{
+  "retracted": false,
+  "timestamp": 1221696000000,
+  "updates": [
+    {
+      "timestamp": 1496025196823,
+      "identifier": {
+        "doi": "10.1371/annotation/7f57058f-cc02-45a6-bfab-a835619e3916"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000176"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Somatic Pairing of Chromosome 19 in Renal Oncocytoma Is Associated with Deregulated EGLN2-Mediated Oxygen-Sensing Response"
+}

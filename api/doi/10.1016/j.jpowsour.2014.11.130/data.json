@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.jpowsour.2014.12.114","type":"erratum"},"doi":"10.1016/j.jpowsour.2014.11.130","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “High performance supercapacitor based on graphene-silver nanoparticles-polypyrrole nanocomposite coated on glassy carbon electrode” [J Power Sources 276 (2014) 262–270]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496033654690,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2014.12.114"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.11.130"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “High performance supercapacitor based on graphene-silver nanoparticles-polypyrrole nanocomposite coated on glassy carbon electrode” [J Power Sources 276 (2014) 262–270]"
+}

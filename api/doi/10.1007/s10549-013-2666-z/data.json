@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402185600000,"doi":"10.1007/s10549-014-3009-4","type":"correction"},"doi":"10.1007/s10549-013-2666-z","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: The impact of the Oncotype Dx breast cancer assay in clinical practice: a systematic review and meta-analysis"}
+{
+  "retracted": false,
+  "timestamp": 1402185600000,
+  "updates": [
+    {
+      "timestamp": 1496044947215,
+      "identifier": {
+        "doi": "10.1007/s10549-014-3009-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-013-2666-z"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The impact of the Oncotype Dx breast cancer assay in clinical practice: a systematic review and meta-analysis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.cej.2014.10.095","type":"err"},"doi":"10.1016/j.cej.2014.04.010","journal":"Chemical Engineering Journal","publisher":"Elsevier BV","title":"Corrigendum to “Structure–property relationships in transport and thermodynamic properties of imidazolium bistriflamide ionic liquids for CO2 capture” [Chem. Eng. J. 250 (2014) 377–389]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496023749587,
+      "identifier": {
+        "doi": "10.1016/j.cej.2014.10.095"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cej.2014.04.010"
+  },
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structure–property relationships in transport and thermodynamic properties of imidazolium bistriflamide ionic liquids for CO2 capture” [Chem. Eng. J. 250 (2014) 377–389]"
+}

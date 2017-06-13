@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405468800000,"doi":"10.1016/j.jhydrol.2014.04.051","type":"err"},"doi":"10.1016/s0022-1694(02)00106-3","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Bayesian system for probabilistic river stage forecasting” [J. Hydrol. 268 (1–4) (2002) 16–40]"}
+{
+  "retracted": false,
+  "timestamp": 1405468800000,
+  "updates": [
+    {
+      "timestamp": 1496961844828,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2014.04.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0022-1694(02)00106-3"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bayesian system for probabilistic river stage forecasting” [J. Hydrol. 268 (1–4) (2002) 16–40]"
+}

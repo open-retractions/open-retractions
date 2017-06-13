@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455148800000,"doi":"10.1007/s10584-016-1622-4","type":"correction"},"doi":"10.1007/s10584-015-1584-y","journal":"Climatic Change","publisher":"Springer Nature","title":"Erratum to: FAOSTAT estimates of greenhouse gas emissions from biomass and peat fires"}
+{
+  "retracted": false,
+  "timestamp": 1455148800000,
+  "updates": [
+    {
+      "timestamp": 1495644051902,
+      "identifier": {
+        "doi": "10.1007/s10584-016-1622-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10584-015-1584-y"
+  },
+  "journal": "Climatic Change",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: FAOSTAT estimates of greenhouse gas emissions from biomass and peat fires"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1103760000000,"doi":"10.1007/s00213-004-2140-z","type":"correction"},"doi":"10.1007/s00213-004-1933-4","journal":"Psychopharmacology","publisher":"Springer Nature","title":"Effects of a novel method of acute tryptophan depletion on plasma tryptophan and cognitive performance in healthy volunteers"}
+{
+  "retracted": false,
+  "timestamp": 1103760000000,
+  "updates": [
+    {
+      "timestamp": 1495910543288,
+      "identifier": {
+        "doi": "10.1007/s00213-004-2140-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00213-004-1933-4"
+  },
+  "journal": "Psychopharmacology",
+  "publisher": "Springer Nature",
+  "title": "Effects of a novel method of acute tryptophan depletion on plasma tryptophan and cognitive performance in healthy volunteers"
+}

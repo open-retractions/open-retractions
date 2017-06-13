@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476489600000,"doi":"10.1016/j.ssi.2016.06.017","type":"erratum"},"doi":"10.1016/j.ssi.2016.05.005","journal":"Solid State Ionics","publisher":"Elsevier BV","title":"Corrigendum to “Oxygen nonstoichiometry and transport properties of LaNi0.6Co0.4O3−δ” [Solid State Ionics 292 (2016) 52–58]"}
+{
+  "retracted": false,
+  "timestamp": 1476489600000,
+  "updates": [
+    {
+      "timestamp": 1495729386334,
+      "identifier": {
+        "doi": "10.1016/j.ssi.2016.06.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ssi.2016.05.005"
+  },
+  "journal": "Solid State Ionics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Oxygen nonstoichiometry and transport properties of LaNi0.6Co0.4O3−δ” [Solid State Ionics 292 (2016) 52–58]"
+}

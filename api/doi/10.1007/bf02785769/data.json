@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202428800000,"doi":"10.1007/bf02812625","type":"correction"},"doi":"10.1007/bf02785769","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Proton antiproton annihilation into electrons, muons and vector bosons"}
+{
+  "retracted": false,
+  "timestamp": 1202428800000,
+  "updates": [
+    {
+      "timestamp": 1495830117946,
+      "identifier": {
+        "doi": "10.1007/bf02812625"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02785769"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Proton antiproton annihilation into electrons, muons and vector bosons"
+}

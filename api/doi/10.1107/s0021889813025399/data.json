@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1107/s1600576716002077","type":"correction"},"doi":"10.1107/s0021889813025399","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Analyzing diffuse scattering with supercomputers. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495649300130,
+      "identifier": {
+        "doi": "10.1107/s1600576716002077"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0021889813025399"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Analyzing diffuse scattering with supercomputers. Corrigendum"
+}

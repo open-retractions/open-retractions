@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472601600000,"doi":"10.1080/21515581.2016.1220132","type":"correction"},"doi":"10.1080/21515581.2016.1156546","journal":"Journal of Trust Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1472601600000,
+  "updates": [
+    {
+      "timestamp": 1495741722434,
+      "identifier": {
+        "doi": "10.1080/21515581.2016.1220132"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21515581.2016.1156546"
+  },
+  "journal": "Journal of Trust Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

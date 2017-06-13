@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.chemosphere.2014.06.018","type":"err"},"doi":"10.1016/j.chemosphere.2013.01.048","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “The effect of Hg(II) ions on the free radicals of humic substancesand their model compounds” [Chemosphere 92 (2013) 445–450]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496048521602,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2014.06.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2013.01.048"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effect of Hg(II) ions on the free radicals of humic substancesand their model compounds” [Chemosphere 92 (2013) 445–450]"
+}

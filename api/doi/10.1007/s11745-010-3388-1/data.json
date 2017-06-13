@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1272585600000,"doi":"10.1007/s11745-010-3419-y","type":"correction"},"doi":"10.1007/s11745-010-3388-1","journal":"Lipids","publisher":"Springer Nature","title":"Erratum to: Trans Fatty Acid-Induced NF-κB Activation Does Not Induce Insulin Resistance in Cultured Murine Skeletal Muscle Cells"}
+{
+  "retracted": false,
+  "timestamp": 1272585600000,
+  "updates": [
+    {
+      "timestamp": 1495841116393,
+      "identifier": {
+        "doi": "10.1007/s11745-010-3419-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11745-010-3388-1"
+  },
+  "journal": "Lipids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trans Fatty Acid-Induced NF-κB Activation Does Not Induce Insulin Resistance in Cultured Murine Skeletal Muscle Cells"
+}

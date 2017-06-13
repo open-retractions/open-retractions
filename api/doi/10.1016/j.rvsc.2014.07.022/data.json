@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.rvsc.2015.01.012","type":"err"},"doi":"10.1016/j.rvsc.2014.07.022","journal":"Research in Veterinary Science","publisher":"Elsevier BV","title":"Corrigendum to “Bovine mammary epithelial cells retain stem-like phenotype in longterm cultures” [Research in Veterinary Science 97 (2014) 368–376]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496039155639,
+      "identifier": {
+        "doi": "10.1016/j.rvsc.2015.01.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rvsc.2014.07.022"
+  },
+  "journal": "Research in Veterinary Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bovine mammary epithelial cells retain stem-like phenotype in longterm cultures” [Research in Veterinary Science 97 (2014) 368–376]"
+}

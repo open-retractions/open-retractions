@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460851200000,"doi":"10.1080/0312407x.2016.1168726","type":"correction"},"doi":"10.1080/0312407x.2015.1088558","journal":"Australian Social Work","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1460851200000,
+  "updates": [
+    {
+      "timestamp": 1495667182637,
+      "identifier": {
+        "doi": "10.1080/0312407x.2016.1168726"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0312407x.2015.1088558"
+  },
+  "journal": "Australian Social Work",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

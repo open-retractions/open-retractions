@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425859200000,"doi":"10.1080/00206814.2015.1024006","type":"correction"},"doi":"10.1080/00206814.2014.1002119","journal":"International Geology Review","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1425859200000,
+  "updates": [
+    {
+      "timestamp": 1496049418638,
+      "identifier": {
+        "doi": "10.1080/00206814.2015.1024006"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00206814.2014.1002119"
+  },
+  "journal": "International Geology Review",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

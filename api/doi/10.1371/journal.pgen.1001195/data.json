@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1297036800000,"doi":"10.1371/annotation/9a856455-cdc3-436c-b6c4-7b881da4eebe","type":"correction"},"doi":"10.1371/journal.pgen.1001195","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Association of Variants at 1q32 and STAT3 with Ankylosing Spondylitis Suggests Genetic Overlap with Crohn's Disease"}
+{
+  "retracted": false,
+  "timestamp": 1297036800000,
+  "updates": [
+    {
+      "timestamp": 1491973867735,
+      "identifier": {
+        "doi": "10.1371/annotation/9a856455-cdc3-436c-b6c4-7b881da4eebe"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001195"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Association of Variants at 1q32 and STAT3 with Ankylosing Spondylitis Suggests Genetic Overlap with Crohn's Disease"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jfoodeng.2015.04.013","type":"err"},"doi":"10.1016/j.jfoodeng.2014.09.009","journal":"Journal of Food Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Modeling the kinetics of extracting oleoresin from dried turmeric (Curcuma longa L.) rhizome using acetone as solvent” [J. Food Eng. 146 (2015) 116–121]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1495995815410,
+      "identifier": {
+        "doi": "10.1016/j.jfoodeng.2015.04.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfoodeng.2014.09.009"
+  },
+  "journal": "Journal of Food Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling the kinetics of extracting oleoresin from dried turmeric (Curcuma longa L.) rhizome using acetone as solvent” [J. Food Eng. 146 (2015) 116–121]"
+}

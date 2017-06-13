@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463184000000,"doi":"10.1016/j.aim.2015.07.014","type":"erratum"},"doi":"10.1016/j.aim.2012.12.007","journal":"Advances in Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “Conjugacy growth of finitely generated groups” [Adv. Math. 235 (2013) 361–389]"}
+{
+  "retracted": false,
+  "timestamp": 1463184000000,
+  "updates": [
+    {
+      "timestamp": 1496025372725,
+      "identifier": {
+        "doi": "10.1016/j.aim.2015.07.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aim.2012.12.007"
+  },
+  "journal": "Advances in Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conjugacy growth of finitely generated groups” [Adv. Math. 235 (2013) 361–389]"
+}

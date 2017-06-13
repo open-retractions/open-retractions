@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.anbehav.2015.03.021","type":"err"},"doi":"10.1016/j.anbehav.2014.04.013","journal":"Animal Behaviour","publisher":"Elsevier BV","title":"Corrigendum to “When righting is wrong: performance measures require rank repeatability for estimates of individual fitness” [Animal Behaviour 93 (2014) 15–23]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496059779296,
+      "identifier": {
+        "doi": "10.1016/j.anbehav.2015.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anbehav.2014.04.013"
+  },
+  "journal": "Animal Behaviour",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “When righting is wrong: performance measures require rank repeatability for estimates of individual fitness” [Animal Behaviour 93 (2014) 15–23]"
+}

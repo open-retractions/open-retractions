@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417737600000,"doi":"10.1136/bmj.g7543","type":"correction"},"doi":"10.1136/bmj.g6679","journal":"BMJ","publisher":"BMJ","title":"Effect of sirolimus on malignancy and survival after kidney transplantation: systematic review and meta-analysis of individual patient data"}
+{
+  "retracted": false,
+  "timestamp": 1417737600000,
+  "updates": [
+    {
+      "timestamp": 1496027660765,
+      "identifier": {
+        "doi": "10.1136/bmj.g7543"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g6679"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Effect of sirolimus on malignancy and survival after kidney transplantation: systematic review and meta-analysis of individual patient data"
+}

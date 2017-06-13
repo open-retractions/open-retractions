@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1038/srep31254","type":"correction"},"doi":"10.1038/srep27823","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Identifying a set of influential spreaders in complex networks"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495738977947,
+      "identifier": {
+        "doi": "10.1038/srep31254"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep27823"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Identifying a set of influential spreaders in complex networks"
+}

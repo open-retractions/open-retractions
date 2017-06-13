@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1016/j.jtbi.2015.03.013","type":"err"},"doi":"10.1016/j.jtbi.2014.09.041","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"Erratum to: Characterizing spiking in noisy type II neurons [J. Theor. Biol. 365 (2015) 40–54]"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1496057900286,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2015.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2014.09.041"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Characterizing spiking in noisy type II neurons [J. Theor. Biol. 365 (2015) 40–54]"
+}

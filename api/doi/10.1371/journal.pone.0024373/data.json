@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382659200000,"doi":"10.1371/annotation/51bc9350-b475-4b46-88b4-8bc1586d9d42","type":"correction"},"doi":"10.1371/journal.pone.0024373","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Surface Transition on Ice Induced by the Formation of a Grain Boundary"}
+{
+  "retracted": false,
+  "timestamp": 1382659200000,
+  "updates": [
+    {
+      "timestamp": 1495990905990,
+      "identifier": {
+        "doi": "10.1371/annotation/51bc9350-b475-4b46-88b4-8bc1586d9d42"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0024373"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Surface Transition on Ice Induced by the Formation of a Grain Boundary"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.mrfmmm.2015.04.001","type":"err"},"doi":"10.1016/j.mrfmmm.2014.10.001","journal":"Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis","publisher":"Elsevier BV","title":"Corrigendum to “The germline CDH1 c.48 G > C substitution contributes to cancer predisposition through generation of a pro-invasive mutation” [Mutat. Res. 770 (2014) 106–111]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496057385378,
+      "identifier": {
+        "doi": "10.1016/j.mrfmmm.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mrfmmm.2014.10.001"
+  },
+  "journal": "Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The germline CDH1 c.48 G > C substitution contributes to cancer predisposition through generation of a pro-invasive mutation” [Mutat. Res. 770 (2014) 106–111]"
+}

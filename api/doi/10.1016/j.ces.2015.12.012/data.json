@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468281600000,"doi":"10.1016/j.ces.2016.03.036","type":"err"},"doi":"10.1016/j.ces.2015.12.012","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to “Design of microchannel Fischer–Tropsch reactor using cell-coupling method: Effect of flow configurations and distribution” [Chem. Eng. Sci. 143(2016) 63–75]"}
+{
+  "retracted": false,
+  "timestamp": 1468281600000,
+  "updates": [
+    {
+      "timestamp": 1495667217786,
+      "identifier": {
+        "doi": "10.1016/j.ces.2016.03.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2015.12.012"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design of microchannel Fischer–Tropsch reactor using cell-coupling method: Effect of flow configurations and distribution” [Chem. Eng. Sci. 143(2016) 63–75]"
+}

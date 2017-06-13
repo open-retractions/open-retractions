@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350518400000,"doi":"10.1063/1.4757986","type":"correction"},"doi":"10.1063/1.872798","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Equilibrium pellet and liquid jet shape under high ablation pressures” [Phys. Plasmas 5, 1380 (1998)]"}
+{
+  "retracted": false,
+  "timestamp": 1350518400000,
+  "updates": [
+    {
+      "timestamp": 1495960515677,
+      "identifier": {
+        "doi": "10.1063/1.4757986"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.872798"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Equilibrium pellet and liquid jet shape under high ablation pressures” [Phys. Plasmas 5, 1380 (1998)]"
+}

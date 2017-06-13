@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387065600000,"doi":"10.1016/j.bmcl.2013.10.023","type":"err"},"doi":"10.1016/j.bmcl.2012.11.046","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Development of an in vivo active, dual EP1 and EP3 selective antagonist based on a novel acyl sulfonamide bioisostere” [Bioorg. Med. Chem. Lett. 23 (2013) 37–41]"}
+{
+  "retracted": false,
+  "timestamp": 1387065600000,
+  "updates": [
+    {
+      "timestamp": 1495992057368,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2013.10.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2012.11.046"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of an in vivo active, dual EP1 and EP3 selective antagonist based on a novel acyl sulfonamide bioisostere” [Bioorg. Med. Chem. Lett. 23 (2013) 37–41]"
+}

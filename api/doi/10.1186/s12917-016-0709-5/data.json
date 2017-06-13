@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1186/s12917-016-0746-0","type":"correction"},"doi":"10.1186/s12917-016-0709-5","journal":"BMC Veterinary Research","publisher":"Springer Nature","title":"Erratum to: Long-term monitoring of opioid, sedative and anti-inflammatory drugs in horse hair using a selective and sensitive LC-MS/MS procedure"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495722212159,
+      "identifier": {
+        "doi": "10.1186/s12917-016-0746-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12917-016-0709-5"
+  },
+  "journal": "BMC Veterinary Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Long-term monitoring of opioid, sedative and anti-inflammatory drugs in horse hair using a selective and sensitive LC-MS/MS procedure"
+}

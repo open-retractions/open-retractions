@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426032000000,"doi":"10.1088/0022-3727/48/13/139601","type":"correction"},"doi":"10.1088/0022-3727/48/8/085303","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Erratum: Strain effects on the electronic properties in δ-doped oxide superlattices (2015 J. Phys. D: Appl. Phys. 48 085303)"}
+{
+  "retracted": false,
+  "timestamp": 1426032000000,
+  "updates": [
+    {
+      "timestamp": 1496050151633,
+      "identifier": {
+        "doi": "10.1088/0022-3727/48/13/139601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0022-3727/48/8/085303"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Strain effects on the electronic properties in δ-doped oxide superlattices (2015 J. Phys. D: Appl. Phys. 48 085303)"
+}

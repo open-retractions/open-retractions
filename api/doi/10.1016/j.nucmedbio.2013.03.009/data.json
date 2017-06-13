@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.nucmedbio.2014.12.013","type":"erratum"},"doi":"10.1016/j.nucmedbio.2013.03.009","journal":"Nuclear Medicine and Biology","publisher":"Elsevier BV","title":"Corrigendum to “Kinetic analyses of trans -1-amino-3-[ 18 F]fluorocyclobutanecarboxylic acid transport in Xenopus laevis oocytes expressing human ASCT2 and SNAT2” (Nucl. Med. Biol. 2013;40:670–675)"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496041846950,
+      "identifier": {
+        "doi": "10.1016/j.nucmedbio.2014.12.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nucmedbio.2013.03.009"
+  },
+  "journal": "Nuclear Medicine and Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Kinetic analyses of  trans -1-amino-3-[ 18 F]fluorocyclobutanecarboxylic acid transport in  Xenopus laevis  oocytes expressing human ASCT2 and SNAT2” (Nucl. Med. Biol. 2013;40:670–675)"
+}

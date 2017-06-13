@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1277164800000,"doi":"10.1073/pnas.1121061109","type":"correction"},"doi":"10.1073/pnas.0912116107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Coles et al., Inhibitor of growth-4 promotes I B promoter activation to suppress NF- B signaling and innate immunity"}
+{
+  "retracted": false,
+  "timestamp": 1277164800000,
+  "updates": [
+    {
+      "timestamp": 1495851858846,
+      "identifier": {
+        "doi": "10.1073/pnas.1121061109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0912116107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Coles et al., Inhibitor of growth-4 promotes I B promoter activation to suppress NF- B signaling and innate immunity"
+}

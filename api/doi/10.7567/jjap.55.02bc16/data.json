@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481068800000,"doi":"10.7567/jjap.56.019201","type":"correction"},"doi":"10.7567/jjap.55.02bc16","journal":"Japanese Journal of Applied Physics","publisher":"Japan Society of Applied Physics","title":"Erratum: “High-pressure synthesis and superconducting properties of Sr2(Ca1− x Sr x )Cu2O y (x = 0–0.75)”"}
+{
+  "retracted": false,
+  "timestamp": 1481068800000,
+  "updates": [
+    {
+      "timestamp": 1495663811489,
+      "identifier": {
+        "doi": "10.7567/jjap.56.019201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/jjap.55.02bc16"
+  },
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “High-pressure synthesis and superconducting properties of Sr2(Ca1−  x Sr x )Cu2O y  (x = 0–0.75)”"
+}

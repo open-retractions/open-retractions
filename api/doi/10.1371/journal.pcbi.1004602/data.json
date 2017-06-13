@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454457600000,"doi":"10.1371/journal.pcbi.1004758","type":"correction"},"doi":"10.1371/journal.pcbi.1004602","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Random Wiring, Ganglion Cell Mosaics, and the Functional Architecture of the Visual Cortex"}
+{
+  "retracted": false,
+  "timestamp": 1454457600000,
+  "updates": [
+    {
+      "timestamp": 1495642281530,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004758"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004602"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Random Wiring, Ganglion Cell Mosaics, and the Functional Architecture of the Visual Cortex"
+}

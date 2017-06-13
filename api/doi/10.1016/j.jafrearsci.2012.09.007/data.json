@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364774400000,"doi":"10.1016/j.jafrearsci.2013.01.005","type":"err"},"doi":"10.1016/j.jafrearsci.2012.09.007","journal":"Journal of African Earth Sciences","publisher":"Elsevier BV","title":"Retraction notice to “Thickness variation of the sedimentary cover in the south Western Desert of Egypt as deduced from Bouguer gravity and drill-hole data” [AES 77C (2012) 11–21]"}
+{
+  "retracted": false,
+  "timestamp": 1364774400000,
+  "updates": [
+    {
+      "timestamp": 1495996112960,
+      "identifier": {
+        "doi": "10.1016/j.jafrearsci.2013.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jafrearsci.2012.09.007"
+  },
+  "journal": "Journal of African Earth Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Thickness variation of the sedimentary cover in the south Western Desert of Egypt as deduced from Bouguer gravity and drill-hole data” [AES 77C (2012) 11–21]"
+}

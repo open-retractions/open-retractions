@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351728000000,"doi":"10.1016/j.neuroimage.2012.01.086","type":"err"},"doi":"10.1016/j.neuroimage.2011.09.062","journal":"NeuroImage","publisher":"Elsevier BV","title":"Erratum to Construction of a consistent high-definition spatio-temporal atlas of the developing brain using adaptive kernel regression [NeuroImage 59/3(2012) 2255–2265]"}
+{
+  "retracted": false,
+  "timestamp": 1351728000000,
+  "updates": [
+    {
+      "timestamp": 1495854505536,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2012.01.086"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2011.09.062"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to Construction of a consistent high-definition spatio-temporal atlas of the developing brain using adaptive kernel regression [NeuroImage 59/3(2012) 2255–2265]"
+}

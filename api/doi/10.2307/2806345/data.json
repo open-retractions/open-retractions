@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":276048000000,"doi":"10.1007/bf02806424","type":"correction"},"doi":"10.2307/2806345","journal":"Brittonia","publisher":"Springer Nature","title":"Erratum to Three new species of penstemon (Scrophulariaceae) from the Intermountain Region"}
+{
+  "retracted": false,
+  "timestamp": 276048000000,
+  "updates": [
+    {
+      "timestamp": 1495911426834,
+      "identifier": {
+        "doi": "10.1007/bf02806424"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2307/2806345"
+  },
+  "journal": "Brittonia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Three new species of penstemon (Scrophulariaceae) from the Intermountain Region"
+}

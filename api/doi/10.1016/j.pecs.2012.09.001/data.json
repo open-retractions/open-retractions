@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.pecs.2013.12.001","type":"err"},"doi":"10.1016/j.pecs.2012.09.001","journal":"Progress in Energy and Combustion Science","publisher":"Elsevier BV","title":"Corrigendum to “Conceptual models for partially premixed low-temperature diesel combustion” [Prog Energy Combust Sci 39 (2) (2013) 246–283]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496010667350,
+      "identifier": {
+        "doi": "10.1016/j.pecs.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pecs.2012.09.001"
+  },
+  "journal": "Progress in Energy and Combustion Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conceptual models for partially premixed low-temperature diesel combustion” [Prog Energy Combust Sci 39 (2) (2013) 246–283]"
+}

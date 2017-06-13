@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.otc.2014.06.013","type":"err"},"doi":"10.1016/j.otc.2014.03.004","journal":"Otolaryngologic Clinics of North America","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496054911055,
+      "identifier": {
+        "doi": "10.1016/j.otc.2014.06.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.otc.2014.03.004"
+  },
+  "journal": "Otolaryngologic Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

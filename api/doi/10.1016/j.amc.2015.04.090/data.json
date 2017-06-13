@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1016/j.amc.2016.02.008","type":"err"},"doi":"10.1016/j.amc.2015.04.090","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Erratum to ``On (p, q)-analogue of Bernstein Operators'' [Appl. Math. Comput. 266 (2015) 874–882]"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1496179403679,
+      "identifier": {
+        "doi": "10.1016/j.amc.2016.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2015.04.090"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ``On (p, q)-analogue of Bernstein Operators'' [Appl. Math. Comput. 266 (2015) 874–882]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1014940800000,"doi":"10.1007/bf02772066","type":"correction"},"doi":"10.1007/bf03017092","journal":"TechTrends","publisher":"Springer Nature","title":"Erratum to: E-Learning by Design"}
+{
+  "retracted": false,
+  "timestamp": 1014940800000,
+  "updates": [
+    {
+      "timestamp": 1495830059942,
+      "identifier": {
+        "doi": "10.1007/bf02772066"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03017092"
+  },
+  "journal": "TechTrends",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: E-Learning by Design"
+}

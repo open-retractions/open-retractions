@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435190400000,"doi":"10.1007/s13361-015-1216-9","type":"correction"},"doi":"10.1007/s13361-015-1140-z","journal":"Journal of The American Society for Mass Spectrometry","publisher":"Springer Nature","title":"Erratum to: Alternative Surfactants for Improved Efficiency of In Situ Tryptic Proteolysis of Fingermarks"}
+{
+  "retracted": false,
+  "timestamp": 1435190400000,
+  "updates": [
+    {
+      "timestamp": 1496011234209,
+      "identifier": {
+        "doi": "10.1007/s13361-015-1216-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13361-015-1140-z"
+  },
+  "journal": "Journal of The American Society for Mass Spectrometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Alternative Surfactants for Improved Efficiency of In Situ Tryptic Proteolysis of Fingermarks"
+}

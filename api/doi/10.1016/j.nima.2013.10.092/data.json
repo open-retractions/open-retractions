@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.nima.2014.12.013","type":"err"},"doi":"10.1016/j.nima.2013.10.092","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to: ‘A plasma wakefield acceleration experiment using CLARA beam’ [Nucl. Instrum. Methods Phys. Res. A 740 (2014) 165–172]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496028177135,
+      "identifier": {
+        "doi": "10.1016/j.nima.2014.12.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2013.10.092"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: ‘A plasma wakefield acceleration experiment using CLARA beam’ [Nucl. Instrum. Methods Phys. Res. A 740 (2014) 165–172]"
+}

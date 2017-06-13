@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449014400000,"doi":"10.1186/s12862-015-0536-5","type":"correction"},"doi":"10.1186/s12862-015-0411-4","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: Positive selection in octopus haemocyanin indicates functional links to temperature adaptation"}
+{
+  "retracted": false,
+  "timestamp": 1449014400000,
+  "updates": [
+    {
+      "timestamp": 1496050668473,
+      "identifier": {
+        "doi": "10.1186/s12862-015-0536-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12862-015-0411-4"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Positive selection in octopus haemocyanin indicates functional links to temperature adaptation"
+}

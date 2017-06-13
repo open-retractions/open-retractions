@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.fuel.2014.08.052","type":"err"},"doi":"10.1016/j.fuel.2014.06.071","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “Soot measurements for diesel and biodiesel spray combustion under high temperature highly diluted ambient conditions” [Fuel 135 (2014) 340–351]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496002999897,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2014.08.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2014.06.071"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Soot measurements for diesel and biodiesel spray combustion under high temperature highly diluted ambient conditions” [Fuel 135 (2014) 340–351]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.earscirev.2014.03.010","type":"err"},"doi":"10.1016/j.earscirev.2013.04.010","journal":"Earth-Science Reviews","publisher":"Elsevier BV","title":"Erratum to “A magneto- and chemostratigraphically calibrated dinoflagellate cyst zonation of the early Paleogene South Pacific Ocean” [Earth Sci. Rev. 124 (2013) 1–31]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496036149052,
+      "identifier": {
+        "doi": "10.1016/j.earscirev.2014.03.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.earscirev.2013.04.010"
+  },
+  "journal": "Earth-Science Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A magneto- and chemostratigraphically calibrated dinoflagellate cyst zonation of the early Paleogene South Pacific Ocean” [Earth Sci. Rev. 124 (2013) 1–31]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479427200000,"doi":"10.1007/s10489-016-0862-3","type":"correction"},"doi":"10.1007/s10489-016-0796-9","journal":"Applied Intelligence","publisher":"Springer Nature","title":"Erratum to: Improved initial vertex ordering for exact maximum clique search"}
+{
+  "retracted": false,
+  "timestamp": 1479427200000,
+  "updates": [
+    {
+      "timestamp": 1495659716608,
+      "identifier": {
+        "doi": "10.1007/s10489-016-0862-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10489-016-0796-9"
+  },
+  "journal": "Applied Intelligence",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Improved initial vertex ordering for exact maximum clique search"
+}

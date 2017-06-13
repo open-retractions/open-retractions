@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413849600000,"doi":"10.1007/s10509-014-2134-1","type":"correction"},"doi":"10.1007/s10509-014-2127-0","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Intensity distribution in the A1 Σ +−X1 Σ + and A′ 1 Π−X1 Σ + systems of barium monoxide"}
+{
+  "retracted": false,
+  "timestamp": 1413849600000,
+  "updates": [
+    {
+      "timestamp": 1497251405953,
+      "identifier": {
+        "doi": "10.1007/s10509-014-2134-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-014-2127-0"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intensity distribution in the A1\nΣ+−X1\nΣ+ and A′ 1\nΠ−X1\nΣ+ systems of barium monoxide"
+}

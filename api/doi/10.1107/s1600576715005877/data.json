@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1107/s1600576716003824","type":"correction"},"doi":"10.1107/s1600576715005877","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Element-specific structural analysis of Si/B4C using resonant X-ray reflectivity. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495651974697,
+      "identifier": {
+        "doi": "10.1107/s1600576716003824"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600576715005877"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Element-specific structural analysis of Si/B4C using resonant X-ray reflectivity. Corrigendum"
+}

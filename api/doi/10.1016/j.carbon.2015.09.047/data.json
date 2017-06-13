@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.carbon.2015.11.005","type":"erratum"},"doi":"10.1016/j.carbon.2015.09.047","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Boosting visible light conversion in the confined pore space of nanoporous carbons” [Carbon 96 (2015) 98–104]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496045867979,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2015.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2015.09.047"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Boosting visible light conversion in the confined pore space of nanoporous carbons” [Carbon 96 (2015) 98–104]"
+}

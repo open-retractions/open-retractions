@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363046400000,"doi":"10.1063/1.4795244","type":"correction"},"doi":"10.1063/1.4793194","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Penetration depth of MgB2 measured using Josephson junctions and SQUIDs” [Appl. Phys. Lett. 102, 072603 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1363046400000,
+  "updates": [
+    {
+      "timestamp": 1496004419892,
+      "identifier": {
+        "doi": "10.1063/1.4795244"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4793194"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Penetration depth of MgB2 measured using Josephson junctions and SQUIDs” [Appl. Phys. Lett. 102, 072603 (2013)]"
+}

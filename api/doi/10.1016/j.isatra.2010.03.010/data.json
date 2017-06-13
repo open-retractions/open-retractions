@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.isatra.2013.02.001","type":"err"},"doi":"10.1016/j.isatra.2010.03.010","journal":"ISA Transactions","publisher":"Elsevier BV","title":"Author's reply: Comments on “Second-order sliding mode control with experimental application”"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496003892631,
+      "identifier": {
+        "doi": "10.1016/j.isatra.2013.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.isatra.2010.03.010"
+  },
+  "journal": "ISA Transactions",
+  "publisher": "Elsevier BV",
+  "title": "Author's reply: Comments on “Second-order sliding mode control with experimental application”"
+}

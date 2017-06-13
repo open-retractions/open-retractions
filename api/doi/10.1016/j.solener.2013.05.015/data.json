@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.solener.2014.08.014","type":"err"},"doi":"10.1016/j.solener.2013.05.015","journal":"Solar Energy","publisher":"Elsevier BV","title":"Corrigendum to “Object-oriented modeling for the transient performance simulation of parabolic trough collectors using molten salt as heat transfer fluid” [Solar Energy 95 (2013) 192–215]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496005259860,
+      "identifier": {
+        "doi": "10.1016/j.solener.2014.08.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solener.2013.05.015"
+  },
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Object-oriented modeling for the transient performance simulation of parabolic trough collectors using molten salt as heat transfer fluid” [Solar Energy 95 (2013) 192–215]"
+}

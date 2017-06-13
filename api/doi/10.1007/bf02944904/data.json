@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1223683200000,"doi":"10.1007/bf02973464","type":"correction"},"doi":"10.1007/bf02944904","journal":"Journal of Computer Science and Technology","publisher":"Springer Nature","title":"Erratum to A framed temporal logic programming language"}
+{
+  "retracted": false,
+  "timestamp": 1223683200000,
+  "updates": [
+    {
+      "timestamp": 1495884374723,
+      "identifier": {
+        "doi": "10.1007/bf02973464"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02944904"
+  },
+  "journal": "Journal of Computer Science and Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to A framed temporal logic programming language"
+}

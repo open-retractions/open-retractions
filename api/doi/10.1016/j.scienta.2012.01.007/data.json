@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377561600000,"doi":"10.1016/j.scienta.2013.05.035","type":"err"},"doi":"10.1016/j.scienta.2012.01.007","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Corrigendum to “Preharvest application of 1-methylcyclopropene inhibits ripening and improves keeping quality of ‘Brown Turkey’ figs (Ficus carica L.)” [Sci. Hortic. 138 (2012) 266–272]"}
+{
+  "retracted": false,
+  "timestamp": 1377561600000,
+  "updates": [
+    {
+      "timestamp": 1496031393614,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2013.05.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2012.01.007"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preharvest application of 1-methylcyclopropene inhibits ripening and improves keeping quality of ‘Brown Turkey’ figs (Ficus carica L.)” [Sci. Hortic. 138 (2012) 266–272]"
+}

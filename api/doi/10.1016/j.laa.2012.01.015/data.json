@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.laa.2013.11.004","type":"err"},"doi":"10.1016/j.laa.2012.01.015","journal":"Linear Algebra and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Center of Schrödinger algebra and annihilators of Verma modules for Schrödinger algebra” [Linear Algebra Appl. 437 (1) (2012) 184–188]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496004845749,
+      "identifier": {
+        "doi": "10.1016/j.laa.2013.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.laa.2012.01.015"
+  },
+  "journal": "Linear Algebra and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Center of Schrödinger algebra and annihilators of Verma modules for Schrödinger algebra” [Linear Algebra Appl. 437 (1) (2012) 184–188]"
+}

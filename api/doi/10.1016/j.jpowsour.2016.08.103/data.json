@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jpowsour.2016.09.073","type":"err"},"doi":"10.1016/j.jpowsour.2016.08.103","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Hierarchical Ni0.54Co0.46O2 nanowire and nanosheet arrays grown on carbon fiber cloth for high-performance supercapacitors” [J. Power Source 329 (2016) 473–483]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495641351669,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2016.09.073"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2016.08.103"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Hierarchical Ni0.54Co0.46O2 nanowire and nanosheet arrays grown on carbon fiber cloth for high-performance supercapacitors” [J. Power Source 329 (2016) 473–483]"
+}

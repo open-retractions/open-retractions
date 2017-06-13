@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436832000000,"doi":"10.1007/s00464-015-4383-7","type":"correction"},"doi":"10.1007/s00464-015-4094-0","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: OpenHELP (Heidelberg laparoscopy phantom): development of an open-source surgical evaluation and training tool"}
+{
+  "retracted": false,
+  "timestamp": 1436832000000,
+  "updates": [
+    {
+      "timestamp": 1496015218510,
+      "identifier": {
+        "doi": "10.1007/s00464-015-4383-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-015-4094-0"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: OpenHELP (Heidelberg laparoscopy phantom): development of an open-source surgical evaluation and training tool"
+}

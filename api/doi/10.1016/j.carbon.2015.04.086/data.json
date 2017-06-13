@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.carbon.2015.07.015","type":"erratum"},"doi":"10.1016/j.carbon.2015.04.086","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Electronic structure and magnetic properties of graphene/Co composite” [Carbon 91 (2015) 298–303]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496014907075,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2015.07.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2015.04.086"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electronic structure and magnetic properties of graphene/Co composite” [Carbon 91 (2015) 298–303]"
+}

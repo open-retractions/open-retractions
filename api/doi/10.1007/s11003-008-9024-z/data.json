@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1221782400000,"doi":"10.1007/s11003-008-9055-5","type":"correction"},"doi":"10.1007/s11003-008-9024-z","journal":"Materials Science","publisher":"Springer Nature","title":"Erratum to: Study of nanocrystalline plasma electrolytic carbonitriding for CP-Ti"}
+{
+  "retracted": false,
+  "timestamp": 1221782400000,
+  "updates": [
+    {
+      "timestamp": 1495880685280,
+      "identifier": {
+        "doi": "10.1007/s11003-008-9055-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11003-008-9024-z"
+  },
+  "journal": "Materials Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Study of nanocrystalline plasma electrolytic carbonitriding for CP-Ti"
+}

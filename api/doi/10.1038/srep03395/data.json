@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1038/srep12660","type":"correction"},"doi":"10.1038/srep03395","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Diosgenin-induced cognitive enhancement in normal mice is mediated by 1,25D3-MARRS"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019917502,
+      "identifier": {
+        "doi": "10.1038/srep12660"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep03395"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Diosgenin-induced cognitive enhancement in normal mice is mediated by 1,25D3-MARRS"
+}

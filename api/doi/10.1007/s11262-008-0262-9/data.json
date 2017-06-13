@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219795200000,"doi":"10.1007/s11262-008-0275-4","type":"correction"},"doi":"10.1007/s11262-008-0262-9","journal":"Virus Genes","publisher":"Springer Nature","title":"Erratum to: Epstein-Barr virus genetic variation in Vietnamese patients with nasopharyngeal carcinoma: full-length analysis of LMP1"}
+{
+  "retracted": false,
+  "timestamp": 1219795200000,
+  "updates": [
+    {
+      "timestamp": 1495876929864,
+      "identifier": {
+        "doi": "10.1007/s11262-008-0275-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11262-008-0262-9"
+  },
+  "journal": "Virus Genes",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Epstein-Barr virus genetic variation in Vietnamese patients with nasopharyngeal carcinoma: full-length analysis of LMP1"
+}

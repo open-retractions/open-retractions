@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1016/j.physletb.2016.10.011","type":"erratum"},"doi":"10.1016/j.physletb.2013.05.043","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Fragmentation contribution to the transverse single-spin asymmetry in proton–proton collisions” [Phys. Lett. B 723 (4–5) (2013) 365–370]"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495649125546,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2016.10.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2013.05.043"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fragmentation contribution to the transverse single-spin asymmetry in proton–proton collisions” [Phys. Lett. B 723 (4–5) (2013) 365–370]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.3846/20294913.2015.1109290","type":"correction"},"doi":"10.3846/20294913.2015.1071296","journal":"Technological and Economic Development of Economy","publisher":"Vilnius Gediminas Technical University","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496038654201,
+      "identifier": {
+        "doi": "10.3846/20294913.2015.1109290"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/20294913.2015.1071296"
+  },
+  "journal": "Technological and Economic Development of Economy",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Corrigendum"
+}

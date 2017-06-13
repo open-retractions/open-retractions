@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375401600000,"doi":"10.1016/j.febslet.2013.07.002","type":"err"},"doi":"10.1016/j.febslet.2013.05.046","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Erratum to “Assessment of the requirement for aquaporins in the thylakoid membrane of plant chloroplasts to sustain photosynthetic water oxidation” [FEBS Lett. 587 (2013) 2083-2089]"}
+{
+  "retracted": false,
+  "timestamp": 1375401600000,
+  "updates": [
+    {
+      "timestamp": 1496031886572,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2013.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2013.05.046"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum to “Assessment of the requirement for aquaporins in the thylakoid membrane of plant chloroplasts to sustain photosynthetic water oxidation” [FEBS Lett. 587 (2013) 2083-2089]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.3847/2041-8205/827/1/l21","type":"correction"},"doi":"10.1088/2041-8205/776/2/l31","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “ENERGY FEEDBACK FROM X-RAY BINARIES IN THE EARLY UNIVERSE” (2013, ApJL, 776, L31)"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495736433796,
+      "identifier": {
+        "doi": "10.3847/2041-8205/827/1/l21"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2041-8205/776/2/l31"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “ENERGY FEEDBACK FROM X-RAY BINARIES IN THE EARLY UNIVERSE” (2013, ApJL, 776, L31)"
+}

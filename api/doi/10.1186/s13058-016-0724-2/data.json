@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480291200000,"doi":"10.1186/s13058-016-0775-4","type":"correction"},"doi":"10.1186/s13058-016-0724-2","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Expression and methylation patterns partition luminal-A breast tumors into distinct prognostic subgroups"}
+{
+  "retracted": false,
+  "timestamp": 1480291200000,
+  "updates": [
+    {
+      "timestamp": 1495661724021,
+      "identifier": {
+        "doi": "10.1186/s13058-016-0775-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13058-016-0724-2"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Expression and methylation patterns partition luminal-A breast tumors into distinct prognostic subgroups"
+}

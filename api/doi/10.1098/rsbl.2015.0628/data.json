@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1098/rsbl.2016.0002","type":"correction"},"doi":"10.1098/rsbl.2015.0628","journal":"Biology Letters","publisher":"The Royal Society","title":"Correction to ‘Brain serotonin deficiency leads to social communication deficits in mice’"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495638038122,
+      "identifier": {
+        "doi": "10.1098/rsbl.2016.0002"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2015.0628"
+  },
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Brain serotonin deficiency leads to social communication deficits in mice’"
+}

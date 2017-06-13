@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.memsci.2014.10.020","type":"err"},"doi":"10.1016/j.memsci.2012.07.016","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Silica and silicate precipitation as limiting factors in high-recovery reverse osmosis operations” [J. Membr. Sci. 423–424 (2012) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496019867778,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2014.10.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2012.07.016"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Silica and silicate precipitation as limiting factors in high-recovery reverse osmosis operations” [J. Membr. Sci. 423–424 (2012) 1–10]"
+}

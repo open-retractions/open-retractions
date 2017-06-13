@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1038/srep18539","type":"correction"},"doi":"10.1038/srep06484","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Graphene based flexible electrochromic devices"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643084268,
+      "identifier": {
+        "doi": "10.1038/srep18539"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep06484"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Graphene based flexible electrochromic devices"
+}

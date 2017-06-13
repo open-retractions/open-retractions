@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.canlet.2017.01.021","type":"erratum"},"doi":"10.1016/j.canlet.2016.10.012","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “Glutaminase 2 stabilizes Dicer to repress Snail and metastasis in hepatocellular carcinoma cells” [383 (2016) 282–294]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495678882578,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2017.01.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2016.10.012"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Glutaminase 2 stabilizes Dicer to repress Snail and metastasis in hepatocellular carcinoma cells” [383 (2016) 282–294]"
+}

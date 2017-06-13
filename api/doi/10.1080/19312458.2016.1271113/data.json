@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488844800000,"doi":"10.1080/19312458.2017.1300018","type":"correction"},"doi":"10.1080/19312458.2016.1271113","journal":"Communication Methods and Measures","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1488844800000,
+  "updates": [
+    {
+      "timestamp": 1495727142898,
+      "identifier": {
+        "doi": "10.1080/19312458.2017.1300018"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19312458.2016.1271113"
+  },
+  "journal": "Communication Methods and Measures",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

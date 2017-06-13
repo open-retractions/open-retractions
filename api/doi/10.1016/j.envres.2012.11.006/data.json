@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.envres.2013.06.006","type":"err"},"doi":"10.1016/j.envres.2012.11.006","journal":"Environmental Research","publisher":"Elsevier BV","title":"Corrigendum to “Do perfluoroalkyl substances affect metabolic function and plasma lipids? Analysis of the 2007–2009, Canadian Health Measures Survey (CHMS) Cycle 1” [Environ. Res. 121 (2013) 95–103]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496054747550,
+      "identifier": {
+        "doi": "10.1016/j.envres.2013.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2012.11.006"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Do perfluoroalkyl substances affect metabolic function and plasma lipids? Analysis of the 2007–2009, Canadian Health Measures Survey (CHMS) Cycle 1” [Environ. Res. 121 (2013) 95–103]"
+}

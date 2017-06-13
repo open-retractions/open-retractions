@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448841600000,"doi":"10.1136/bmj.h6364","type":"correction"},"doi":"10.1136/bmj.h5392","journal":"BMJ","publisher":"BMJ","title":"Treatment strategies for coronary in-stent restenosis: systematic review and hierarchical Bayesian network meta-analysis of 24 randomised trials and 4880 patients"}
+{
+  "retracted": false,
+  "timestamp": 1448841600000,
+  "updates": [
+    {
+      "timestamp": 1496049893568,
+      "identifier": {
+        "doi": "10.1136/bmj.h6364"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h5392"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Treatment strategies for coronary in-stent restenosis: systematic review and hierarchical Bayesian network meta-analysis of 24 randomised trials and 4880 patients"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.aquaculture.2014.11.018","type":"err"},"doi":"10.1016/j.aquaculture.2013.04.011","journal":"Aquaculture","publisher":"Elsevier BV","title":"Corrigendum to “A genetic linkage map of the sea cucumber (Apostichopus japonicus) based on microsatellites and SNPs”. [Aquaculture 404–405 (2013) 1–7]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496043596841,
+      "identifier": {
+        "doi": "10.1016/j.aquaculture.2014.11.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquaculture.2013.04.011"
+  },
+  "journal": "Aquaculture",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A genetic linkage map of the sea cucumber (Apostichopus japonicus) based on microsatellites and SNPs”. [Aquaculture 404–405 (2013) 1–7]"
+}

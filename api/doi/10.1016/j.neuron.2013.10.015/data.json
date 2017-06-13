@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384905600000,"doi":"10.1016/j.neuron.2013.10.055","type":"err"},"doi":"10.1016/j.neuron.2013.10.015","journal":"Neuron","publisher":"Elsevier BV","title":"RNA Toxicity from the ALS/FTD C9ORF72 Expansion Is Mitigated by Antisense Intervention"}
+{
+  "retracted": false,
+  "timestamp": 1384905600000,
+  "updates": [
+    {
+      "timestamp": 1495999252685,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.10.055"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.10.015"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "RNA Toxicity from the ALS/FTD C9ORF72 Expansion Is Mitigated by Antisense Intervention"
+}

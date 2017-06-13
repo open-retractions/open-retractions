@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jct.2016.03.041","type":"err"},"doi":"10.1016/j.jct.2013.02.020","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Quaternary (liquid+liquid) equilibria for systems of imidazolium based ionic liquid+thiophene+pyridine+cyclohexane at 298.15K: Experiments and quantum chemical predictions” [J. Chem. Thermodyn. 62 (2013) 142–150]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495661315531,
+      "identifier": {
+        "doi": "10.1016/j.jct.2016.03.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.02.020"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quaternary (liquid+liquid) equilibria for systems of imidazolium based ionic liquid+thiophene+pyridine+cyclohexane at 298.15K: Experiments and quantum chemical predictions” [J. Chem. Thermodyn. 62 (2013) 142–150]"
+}

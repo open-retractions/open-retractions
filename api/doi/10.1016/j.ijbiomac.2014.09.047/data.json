@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.ijbiomac.2014.12.042","type":"err"},"doi":"10.1016/j.ijbiomac.2014.09.047","journal":"International Journal of Biological Macromolecules","publisher":"Elsevier BV","title":"Corrigendum to “Polysaccharides produced by Enterobacter cloacae induce apoptosis in cervical cancer cells” [Int. J. Biol. Macromol. 72 (2015) 960–964]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496034725357,
+      "identifier": {
+        "doi": "10.1016/j.ijbiomac.2014.12.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijbiomac.2014.09.047"
+  },
+  "journal": "International Journal of Biological Macromolecules",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Polysaccharides produced by Enterobacter cloacae induce apoptosis in cervical cancer cells” [Int. J. Biol. Macromol. 72 (2015) 960–964]"
+}

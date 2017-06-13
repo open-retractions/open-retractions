@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.molstruc.2015.12.074","type":"err"},"doi":"10.1016/j.molstruc.2015.09.013","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Stereochemical analysis of menthol and menthylamine isomers using calculated and experimental optical rotation data” [J. Mol. Struct. 1103 (2016) 166–176]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495640305349,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2015.12.074"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2015.09.013"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stereochemical analysis of menthol and menthylamine isomers using calculated and experimental optical rotation data” [J. Mol. Struct. 1103 (2016) 166–176]"
+}

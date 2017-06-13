@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1038/srep17249","type":"correction"},"doi":"10.1038/srep14979","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Efficient amplification of self-gelling polypod-like structured DNA by rolling circle amplification and enzymatic digestion"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1495728989803,
+      "identifier": {
+        "doi": "10.1038/srep17249"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep14979"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Efficient amplification of self-gelling polypod-like structured DNA by rolling circle amplification and enzymatic digestion"
+}

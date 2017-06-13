@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1038/srep20748","type":"correction"},"doi":"10.1038/srep17378","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Efficacy of Concurrent Chemotherapy for Intermediate Risk NPC in the Intensity-Modulated Radiotherapy Era: a Propensity-Matched Analysis"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643084318,
+      "identifier": {
+        "doi": "10.1038/srep20748"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17378"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Efficacy of Concurrent Chemotherapy for Intermediate Risk NPC in the Intensity-Modulated Radiotherapy Era: a Propensity-Matched Analysis"
+}

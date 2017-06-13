@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465430400000,"doi":"10.1039/c6cc90263d","type":"correction"},"doi":"10.1039/c6cc02669a","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: From FOX-7 to H-FOX to insensitive energetic materials with hypergolic properties"}
+{
+  "retracted": false,
+  "timestamp": 1465430400000,
+  "updates": [
+    {
+      "timestamp": 1495719253452,
+      "identifier": {
+        "doi": "10.1039/c6cc90263d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cc02669a"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: From FOX-7 to H-FOX to insensitive energetic materials with hypergolic properties"
+}

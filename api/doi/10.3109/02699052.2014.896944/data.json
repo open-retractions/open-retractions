@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428883200000,"doi":"10.3109/02699052.2015.1021629","type":"correction"},"doi":"10.3109/02699052.2014.896944","journal":"Brain Injury","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1428883200000,
+  "updates": [
+    {
+      "timestamp": 1496057445341,
+      "identifier": {
+        "doi": "10.3109/02699052.2015.1021629"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/02699052.2014.896944"
+  },
+  "journal": "Brain Injury",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

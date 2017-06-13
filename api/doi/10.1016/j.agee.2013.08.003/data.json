@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389744000000,"doi":"10.1016/j.agee.2014.02.005","type":"err"},"doi":"10.1016/j.agee.2013.08.003","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to “Winter management of California's rice fields to maximize waterbird habitat and minimize water use” [Agric. Ecosyst. Environ. 179 (2013) 116–124]"}
+{
+  "retracted": false,
+  "timestamp": 1389744000000,
+  "updates": [
+    {
+      "timestamp": 1496023608339,
+      "identifier": {
+        "doi": "10.1016/j.agee.2014.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2013.08.003"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Winter management of California's rice fields to maximize waterbird habitat and minimize water use” [Agric. Ecosyst. Environ. 179 (2013) 116–124]"
+}

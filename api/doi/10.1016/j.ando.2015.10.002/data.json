@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ando.2015.12.002","type":"err"},"doi":"10.1016/j.ando.2015.10.002","journal":"Annales d'Endocrinologie","publisher":"Elsevier BV","title":"Erratum to “Pituitary gigantism: Causes and clinical characteristics” [Ann. Endocrinol. (Paris) 76 (2015) 643–649]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495637754997,
+      "identifier": {
+        "doi": "10.1016/j.ando.2015.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ando.2015.10.002"
+  },
+  "journal": "Annales d'Endocrinologie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Pituitary gigantism: Causes and clinical characteristics” [Ann. Endocrinol. (Paris) 76 (2015) 643–649]"
+}

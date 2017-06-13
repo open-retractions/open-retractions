@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.physb.2014.07.062","type":"err"},"doi":"10.1016/j.physb.2014.02.013","journal":"Physica B: Condensed Matter","publisher":"Elsevier BV","title":"Corrigendum to “Band structures of phononic crystal composed of lattices with different periodic constants” [Physica B 441, 2014, 89–93]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1495998144827,
+      "identifier": {
+        "doi": "10.1016/j.physb.2014.07.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physb.2014.02.013"
+  },
+  "journal": "Physica B: Condensed Matter",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Band structures of phononic crystal composed of lattices with different periodic constants” [Physica B 441, 2014, 89–93]"
+}

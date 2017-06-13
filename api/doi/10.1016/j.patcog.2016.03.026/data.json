@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.patcog.2016.05.026","type":"erratum"},"doi":"10.1016/j.patcog.2016.03.026","journal":"Pattern Recognition","publisher":"Elsevier BV","title":"Corrigendum to “Towards hand gesture based writing support system for blinds” [Pattern Recognit. 57 (2016) 50–60]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495680940819,
+      "identifier": {
+        "doi": "10.1016/j.patcog.2016.05.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patcog.2016.03.026"
+  },
+  "journal": "Pattern Recognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Towards hand gesture based writing support system for blinds” [Pattern Recognit. 57 (2016) 50–60]"
+}

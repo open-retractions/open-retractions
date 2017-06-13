@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367539200000,"doi":"10.1063/1.4804263","type":"correction"},"doi":"10.1063/1.3664112","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Even-odd symmetry and the conversion efficiency of ideal and practical graphene transistor frequency multipliers” [Appl. Phys. Lett. 99, 223512 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1367539200000,
+  "updates": [
+    {
+      "timestamp": 1496017049488,
+      "identifier": {
+        "doi": "10.1063/1.4804263"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3664112"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Even-odd symmetry and the conversion efficiency of ideal and practical graphene transistor frequency multipliers” [Appl. Phys. Lett. 99, 223512 (2011)]"
+}

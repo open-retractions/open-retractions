@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470268800000,"doi":"10.1039/c6cc90354a","type":"correction"},"doi":"10.1039/c6cc04329a","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: DNA-catalyzed glycosylation using aryl glycoside donors"}
+{
+  "retracted": false,
+  "timestamp": 1470268800000,
+  "updates": [
+    {
+      "timestamp": 1495734941917,
+      "identifier": {
+        "doi": "10.1039/c6cc90354a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cc04329a"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: DNA-catalyzed glycosylation using aryl glycoside donors"
+}

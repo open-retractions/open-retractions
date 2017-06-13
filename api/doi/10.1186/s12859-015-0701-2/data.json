@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1186/s12859-016-1048-z","type":"correction"},"doi":"10.1186/s12859-015-0701-2","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: ‘CompGO: an R package for comparing and visualizing Gene Ontology enrichment differences between DNA binding experiments’"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495668724266,
+      "identifier": {
+        "doi": "10.1186/s12859-016-1048-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-015-0701-2"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘CompGO: an R package for comparing and visualizing Gene Ontology enrichment differences between DNA binding experiments’"
+}

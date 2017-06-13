@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356998400000,"doi":"10.1016/j.jastp.2012.12.007","type":"err"},"doi":"10.1016/j.jastp.2012.01.005","journal":"Journal of Atmospheric and Solar-Terrestrial Physics","publisher":"Elsevier BV","title":"Corrigendum to “CMIT study of CR2060 and CR2068 comparing L1 and MAS solar wind drivers”"}
+{
+  "retracted": false,
+  "timestamp": 1356998400000,
+  "updates": [
+    {
+      "timestamp": 1495974597263,
+      "identifier": {
+        "doi": "10.1016/j.jastp.2012.12.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jastp.2012.01.005"
+  },
+  "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “CMIT study of CR2060 and CR2068 comparing L1 and MAS solar wind drivers”"
+}

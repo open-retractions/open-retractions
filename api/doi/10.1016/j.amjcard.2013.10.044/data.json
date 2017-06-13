@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.amjcard.2015.04.028","type":"err"},"doi":"10.1016/j.amjcard.2013.10.044","journal":"The American Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum for Qureshi et al. “Restarting Anticoagulation and Outcomes After Major Gastrointestinal Bleeding in Atrial Fibrillation” Am J Cardiol 2014;113:662–668"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495999279676,
+      "identifier": {
+        "doi": "10.1016/j.amjcard.2015.04.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjcard.2013.10.044"
+  },
+  "journal": "The American Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for Qureshi et al. “Restarting Anticoagulation and Outcomes After Major Gastrointestinal Bleeding in Atrial Fibrillation” Am J Cardiol 2014;113:662–668"
+}

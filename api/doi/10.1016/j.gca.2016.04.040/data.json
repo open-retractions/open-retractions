@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.gca.2016.09.042","type":"err"},"doi":"10.1016/j.gca.2016.04.040","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “The effect of redox conditions and bioirrigation on nitrogen isotope fractionation in marine sediments” [Geochim. Cosmochim. Acta 184 (2016) 227–239]"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495653063601,
+      "identifier": {
+        "doi": "10.1016/j.gca.2016.09.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2016.04.040"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effect of redox conditions and bioirrigation on nitrogen isotope fractionation in marine sediments” [Geochim. Cosmochim. Acta 184 (2016) 227–239]"
+}

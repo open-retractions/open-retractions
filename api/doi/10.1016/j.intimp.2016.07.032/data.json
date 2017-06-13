@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.intimp.2016.08.039","type":"err"},"doi":"10.1016/j.intimp.2016.07.032","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Circulating midkine in children with Henoch-Schönlein purpura: Clinical implications” [Int. Immunopharmacol. (2016) 246–250]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495638686525,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2016.08.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2016.07.032"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Circulating midkine in children with Henoch-Schönlein purpura: Clinical implications” [Int. Immunopharmacol. (2016) 246–250]"
+}

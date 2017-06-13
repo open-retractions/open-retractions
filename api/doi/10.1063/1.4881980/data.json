@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411430400000,"doi":"10.1063/1.4896510","type":"correction"},"doi":"10.1063/1.4881980","journal":"AIP Advances","publisher":"AIP Publishing","title":"Erratum: “The effects of wetting layer on electronic and optical properties of intersubband P-to-S transitions in strained dome-shaped InAs/GaAs quantum dots” [AIP Advances 4, 067113 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1411430400000,
+  "updates": [
+    {
+      "timestamp": 1496007915627,
+      "identifier": {
+        "doi": "10.1063/1.4896510"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4881980"
+  },
+  "journal": "AIP Advances",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The effects of wetting layer on electronic and optical properties of intersubband P-to-S transitions in strained dome-shaped InAs/GaAs quantum dots” [AIP Advances 4, 067113 (2014)]"
+}

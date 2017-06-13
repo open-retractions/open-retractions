@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456617600000,"doi":"10.1016/j.jconrel.2016.01.012","type":"err"},"doi":"10.1016/j.jconrel.2010.02.012","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Optically guided controlled release from liposomes with tunable plasmonic nanobubbles” [J. Control. Release, 2010, 144, 151–158]"}
+{
+  "retracted": false,
+  "timestamp": 1456617600000,
+  "updates": [
+    {
+      "timestamp": 1496059236088,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2016.01.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2010.02.012"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Optically guided controlled release from liposomes with tunable plasmonic nanobubbles” [J. Control. Release, 2010, 144, 151–158]"
+}

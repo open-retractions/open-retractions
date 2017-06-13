@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.intimp.2013.05.011","type":"err"},"doi":"10.1016/j.intimp.2005.11.013","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Intravenous immunoglobulin in autoimmune disorders: An insight into the immunoregulatory mechanisms” [Int. Immunopharmacol. 6 (2006) 528–534]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496021601175,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2013.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2005.11.013"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Intravenous immunoglobulin in autoimmune disorders: An insight into the immunoregulatory mechanisms” [Int. Immunopharmacol. 6 (2006) 528–534]"
+}

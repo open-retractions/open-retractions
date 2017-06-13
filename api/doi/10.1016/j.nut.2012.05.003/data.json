@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.nut.2014.04.010","type":"err"},"doi":"10.1016/j.nut.2012.05.003","journal":"Nutrition","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496049182543,
+      "identifier": {
+        "doi": "10.1016/j.nut.2014.04.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nut.2012.05.003"
+  },
+  "journal": "Nutrition",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

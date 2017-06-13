@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438905600000,"doi":"10.1007/s00704-015-1596-6","type":"correction"},"doi":"10.1007/s00704-015-1546-3","journal":"Theoretical and Applied Climatology","publisher":"Springer Nature","title":"Erratum to: An estimation of ENSO predictability from its seasonal teleconnections"}
+{
+  "retracted": false,
+  "timestamp": 1438905600000,
+  "updates": [
+    {
+      "timestamp": 1496020534656,
+      "identifier": {
+        "doi": "10.1007/s00704-015-1596-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00704-015-1546-3"
+  },
+  "journal": "Theoretical and Applied Climatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An estimation of ENSO predictability from its seasonal teleconnections"
+}

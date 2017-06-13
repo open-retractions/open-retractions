@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374710400000,"doi":"10.1063/1.4816324","type":"correction"},"doi":"10.1063/1.4812321","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Separation of variables in an asymmetric cyclidic coordinate system” [J. Math. Phys. 54, 063513 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1374710400000,
+  "updates": [
+    {
+      "timestamp": 1496035493589,
+      "identifier": {
+        "doi": "10.1063/1.4816324"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4812321"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Separation of variables in an asymmetric cyclidic coordinate system” [J. Math. Phys. 54, 063513 (2013)]"
+}

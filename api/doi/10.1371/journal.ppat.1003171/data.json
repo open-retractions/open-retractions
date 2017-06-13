@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369094400000,"doi":"10.1371/annotation/322c8bba-8dae-4196-b85d-5de315e44d76","type":"correction"},"doi":"10.1371/journal.ppat.1003171","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Targeted and Random Mutagenesis of Ehrlichia chaffeensis for the Identification of Genes Required for In vivo Infection"}
+{
+  "retracted": false,
+  "timestamp": 1369094400000,
+  "updates": [
+    {
+      "timestamp": 1496021911236,
+      "identifier": {
+        "doi": "10.1371/annotation/322c8bba-8dae-4196-b85d-5de315e44d76"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003171"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Targeted and Random Mutagenesis of Ehrlichia chaffeensis for the Identification of Genes Required for In vivo Infection"
+}

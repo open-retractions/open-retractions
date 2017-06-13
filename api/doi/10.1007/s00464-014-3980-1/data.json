@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428537600000,"doi":"10.1007/s00464-015-4198-6","type":"correction"},"doi":"10.1007/s00464-014-3980-1","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: Oncological and surgical results of laparoscopic versus open liver resection for HCC less than 5 cm: case-matched analysis"}
+{
+  "retracted": false,
+  "timestamp": 1428537600000,
+  "updates": [
+    {
+      "timestamp": 1496056134838,
+      "identifier": {
+        "doi": "10.1007/s00464-015-4198-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-014-3980-1"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Oncological and surgical results of laparoscopic versus open liver resection for HCC less than 5 cm: case-matched analysis"
+}

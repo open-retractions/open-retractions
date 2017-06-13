@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360627200000,"doi":"10.1073/pnas.1301039110","type":"correction"},"doi":"10.1073/pnas.1212646110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Basner et al., Mars 520-d mission simulation reveals protracted crew hypokinesis and alterations of sleep duration and timing"}
+{
+  "retracted": false,
+  "timestamp": 1360627200000,
+  "updates": [
+    {
+      "timestamp": 1495990290015,
+      "identifier": {
+        "doi": "10.1073/pnas.1301039110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1212646110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Basner et al., Mars 520-d mission simulation reveals protracted crew hypokinesis and alterations of sleep duration and timing"
+}

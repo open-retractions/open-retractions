@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412640000000,"doi":"10.1007/s11277-014-2098-z","type":"correction"},"doi":"10.1007/s11277-014-1994-6","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: Adaptive Resource Allocation Algorithms for Multi-user MIMO-OFDM Systems"}
+{
+  "retracted": false,
+  "timestamp": 1412640000000,
+  "updates": [
+    {
+      "timestamp": 1496012483433,
+      "identifier": {
+        "doi": "10.1007/s11277-014-2098-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-014-1994-6"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Adaptive Resource Allocation Algorithms for Multi-user MIMO-OFDM Systems"
+}

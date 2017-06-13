@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477440000000,"doi":"10.1063/1.4965713","type":"correction"},"doi":"10.1063/1.4952739","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note “Efficient and stable MoS2 catalyst integrated on Si photocathodes by photoreduction and post-annealing for water splitting” [Appl. Phys. Lett. 108, 213905 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1477440000000,
+  "updates": [
+    {
+      "timestamp": 1495651878308,
+      "identifier": {
+        "doi": "10.1063/1.4965713"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4952739"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note “Efficient and stable MoS2 catalyst integrated on Si photocathodes by photoreduction and post-annealing for water splitting” [Appl. Phys. Lett. 108, 213905 (2016)]"
+}

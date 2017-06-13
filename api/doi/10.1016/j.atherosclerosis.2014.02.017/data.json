@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.atherosclerosis.2014.04.017","type":"err"},"doi":"10.1016/j.atherosclerosis.2014.02.017","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to ‘Comparing coronary artery calcium among U.S. South Asians with four racial/ethnic groups: The MASALA and MESA studies’ [Atherosclerosis 234 (2014) 102–107]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496037180481,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2014.04.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2014.02.017"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Comparing coronary artery calcium among U.S. South Asians with four racial/ethnic groups: The MASALA and MESA studies’ [Atherosclerosis 234 (2014) 102–107]"
+}

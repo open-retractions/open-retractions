@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217808000000,"doi":"10.1084/jem.20071094071408c","type":"correction"},"doi":"10.1084/jem.20071094","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses"}
+{
+  "retracted": false,
+  "timestamp": 1217808000000,
+  "updates": [
+    {
+      "timestamp": 1495868019646,
+      "identifier": {
+        "doi": "10.1084/jem.20071094071408c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20071094"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses"
+}

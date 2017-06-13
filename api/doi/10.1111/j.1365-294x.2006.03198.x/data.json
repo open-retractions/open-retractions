@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1184976000000,"doi":"10.1111/j.1365-294x.2007.03440.x","type":"correction"},"doi":"10.1111/j.1365-294x.2006.03198.x","journal":"Molecular Ecology","publisher":"Wiley-Blackwell","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1184976000000,
+  "updates": [
+    {
+      "timestamp": 1495979262532,
+      "identifier": {
+        "doi": "10.1111/j.1365-294x.2007.03440.x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/j.1365-294x.2006.03198.x"
+  },
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum"
+}

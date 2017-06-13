@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1285804800000,"doi":"10.1371/annotation/eff399e1-51e0-43b1-bdf4-1a11e9ada9bd","type":"correction"},"doi":"10.1371/journal.ppat.1000827","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Serological Profiling of a Candida albicans Protein Microarray Reveals Permanent Host-Pathogen Interplay and Stage-Specific Responses during Candidemia"}
+{
+  "retracted": false,
+  "timestamp": 1285804800000,
+  "updates": [
+    {
+      "timestamp": 1495889361281,
+      "identifier": {
+        "doi": "10.1371/annotation/eff399e1-51e0-43b1-bdf4-1a11e9ada9bd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1000827"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Serological Profiling of a Candida albicans Protein Microarray Reveals Permanent Host-Pathogen Interplay and Stage-Specific Responses during Candidemia"
+}

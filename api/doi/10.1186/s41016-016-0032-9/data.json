@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465516800000,"doi":"10.1186/s41016-016-0036-5","type":"correction"},"doi":"10.1186/s41016-016-0032-9","journal":"Chinese Neurosurgical Journal","publisher":"Springer Nature","title":"Erratum to: Isolated intradural Rosai-Dorfman disease of the spine: report of two cases"}
+{
+  "retracted": false,
+  "timestamp": 1465516800000,
+  "updates": [
+    {
+      "timestamp": 1495719663682,
+      "identifier": {
+        "doi": "10.1186/s41016-016-0036-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s41016-016-0032-9"
+  },
+  "journal": "Chinese Neurosurgical Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isolated intradural Rosai-Dorfman disease of the spine: report of two cases"
+}

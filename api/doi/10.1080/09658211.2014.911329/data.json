@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.1080/09658211.2016.1142240","type":"correction"},"doi":"10.1080/09658211.2014.911329","journal":"Memory","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495648004770,
+      "identifier": {
+        "doi": "10.1080/09658211.2016.1142240"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09658211.2014.911329"
+  },
+  "journal": "Memory",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

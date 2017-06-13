@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1007/s00210-016-1237-3","type":"correction"},"doi":"10.1007/s00210-014-1048-3","journal":"Naunyn-Schmiedeberg's Archives of Pharmacology","publisher":"Springer Nature","title":"Erratum to: Spironolactone improves endothelial dysfunction in streptozotocin-induced diabetic rats"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495658190310,
+      "identifier": {
+        "doi": "10.1007/s00210-016-1237-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00210-014-1048-3"
+  },
+  "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spironolactone improves endothelial dysfunction in streptozotocin-induced diabetic rats"
+}

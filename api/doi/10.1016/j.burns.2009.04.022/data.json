@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.burns.2015.12.011","type":"erratum"},"doi":"10.1016/j.burns.2009.04.022","journal":"Burns","publisher":"Elsevier BV","title":"Corrigendum to “Effect of imiquimod on partial-thickness burns” [Burns 36 (1) (2010) 97–108]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495639139043,
+      "identifier": {
+        "doi": "10.1016/j.burns.2015.12.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.burns.2009.04.022"
+  },
+  "journal": "Burns",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of imiquimod on partial-thickness burns” [Burns 36 (1) (2010) 97–108]"
+}

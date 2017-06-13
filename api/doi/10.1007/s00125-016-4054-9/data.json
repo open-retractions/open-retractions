@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473033600000,"doi":"10.1007/s00125-016-4089-y","type":"correction"},"doi":"10.1007/s00125-016-4054-9","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Trends in type 2 diabetes incidence and mortality in Scotland between 2004 and 2013"}
+{
+  "retracted": false,
+  "timestamp": 1473033600000,
+  "updates": [
+    {
+      "timestamp": 1495637412373,
+      "identifier": {
+        "doi": "10.1007/s00125-016-4089-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-016-4054-9"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trends in type 2 diabetes incidence and mortality in Scotland between 2004 and 2013"
+}

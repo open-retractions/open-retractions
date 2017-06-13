@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300147200000,"doi":"10.1007/s12645-011-0013-9","type":"correction"},"doi":"10.1007/s12645-010-0010-4","journal":"Cancer Nanotechnology","publisher":"Springer Nature","title":"Erratum to: Toxicogenomics of nanoparticulate delivery of etoposide: potential impact on nanotechnology in retinoblastoma therapy"}
+{
+  "retracted": false,
+  "timestamp": 1300147200000,
+  "updates": [
+    {
+      "timestamp": 1495942070135,
+      "identifier": {
+        "doi": "10.1007/s12645-011-0013-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12645-010-0010-4"
+  },
+  "journal": "Cancer Nanotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Toxicogenomics of nanoparticulate delivery of etoposide: potential impact on nanotechnology in retinoblastoma therapy"
+}

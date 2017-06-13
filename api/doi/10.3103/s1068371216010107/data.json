@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485043200000,"doi":"10.3103/s1068371216110080","type":"correction"},"doi":"10.3103/s1068371216010107","journal":"Russian Electrical Engineering","publisher":"Allerton Press","title":"Erratum to: “On the issue of control system adjustment of a direct current drive on the modular optimum. Part 1”"}
+{
+  "retracted": false,
+  "timestamp": 1485043200000,
+  "updates": [
+    {
+      "timestamp": 1495677773387,
+      "identifier": {
+        "doi": "10.3103/s1068371216110080"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1068371216010107"
+  },
+  "journal": "Russian Electrical Engineering",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “On the issue of control system adjustment of a direct current drive on the modular optimum. Part 1”"
+}

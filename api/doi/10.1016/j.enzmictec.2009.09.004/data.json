@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.enzmictec.2014.08.012","type":"err"},"doi":"10.1016/j.enzmictec.2009.09.004","journal":"Enzyme and Microbial Technology","publisher":"Elsevier BV","title":"Corrigendum to “Biotransformation of electron-poor alkenes by yeasts: Asymmetric reduction of (4S)-(+)-carvone by yeast enoate reductases” [Enzyme Microb. Technol. 45 (2009) 463–468]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1495994070426,
+      "identifier": {
+        "doi": "10.1016/j.enzmictec.2014.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enzmictec.2009.09.004"
+  },
+  "journal": "Enzyme and Microbial Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Biotransformation of electron-poor alkenes by yeasts: Asymmetric reduction of (4S)-(+)-carvone by yeast enoate reductases” [Enzyme Microb. Technol. 45 (2009) 463–468]"
+}

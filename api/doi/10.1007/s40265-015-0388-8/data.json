@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430870400000,"doi":"10.1007/s40265-015-0403-0","type":"correction"},"doi":"10.1007/s40265-015-0388-8","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Panobinostat: First Global Approval"}
+{
+  "retracted": false,
+  "timestamp": 1430870400000,
+  "updates": [
+    {
+      "timestamp": 1495995185920,
+      "identifier": {
+        "doi": "10.1007/s40265-015-0403-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-015-0388-8"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Panobinostat: First Global Approval"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1080/15348423.2016.1248195","type":"correction"},"doi":"10.1080/15348423.2016.1209393","journal":"Journal of Media and Religion","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495658661427,
+      "identifier": {
+        "doi": "10.1080/15348423.2016.1248195"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15348423.2016.1209393"
+  },
+  "journal": "Journal of Media and Religion",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

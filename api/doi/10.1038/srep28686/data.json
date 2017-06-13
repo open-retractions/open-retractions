@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469145600000,"doi":"10.1038/srep30224","type":"correction"},"doi":"10.1038/srep28686","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Functional map of arrestin binding to phosphorylated opsin, with and without agonist"}
+{
+  "retracted": false,
+  "timestamp": 1469145600000,
+  "updates": [
+    {
+      "timestamp": 1495731241553,
+      "identifier": {
+        "doi": "10.1038/srep30224"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep28686"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Functional map of arrestin binding to phosphorylated opsin, with and without agonist"
+}

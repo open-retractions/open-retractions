@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":807235200000,"doi":"10.1063/1.868785","type":"erratum"},"doi":"10.1063/1.858722","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: ‘‘On the stability of nonisothermal circular Couette flow’’ [Phys. Fluids A 5, 3136 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 807235200000,
+  "updates": [
+    {
+      "timestamp": 1495839220859,
+      "identifier": {
+        "doi": "10.1063/1.868785"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.858722"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘On the stability of nonisothermal circular Couette flow’’ [Phys.           Fluids A 5, 3136 (1993)]"
+}

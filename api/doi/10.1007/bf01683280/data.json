@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440806400000,"doi":"10.1007/s00224-015-9647-z","type":"correction"},"doi":"10.1007/bf01683280","journal":"Theory of Computing Systems","publisher":"Springer Nature","title":"Erratum to: “Top-down Tree Transducers with Regular Look-ahead”"}
+{
+  "retracted": false,
+  "timestamp": 1440806400000,
+  "updates": [
+    {
+      "timestamp": 1496025067067,
+      "identifier": {
+        "doi": "10.1007/s00224-015-9647-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01683280"
+  },
+  "journal": "Theory of Computing Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: “Top-down Tree Transducers with Regular Look-ahead”"
+}

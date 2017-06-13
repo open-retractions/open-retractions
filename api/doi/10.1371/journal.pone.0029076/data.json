@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330387200000,"doi":"10.1371/annotation/b2acf16f-53da-4a8f-a46f-573b7f6f08b7","type":"correction"},"doi":"10.1371/journal.pone.0029076","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: NMR Studies on Structure and Dynamics of the Monomeric Derivative of BS-RNase: New Insights for 3D Domain Swapping"}
+{
+  "retracted": false,
+  "timestamp": 1330387200000,
+  "updates": [
+    {
+      "timestamp": 1495881230886,
+      "identifier": {
+        "doi": "10.1371/annotation/b2acf16f-53da-4a8f-a46f-573b7f6f08b7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029076"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: NMR Studies on Structure and Dynamics of the Monomeric Derivative of BS-RNase: New Insights for 3D Domain Swapping"
+}

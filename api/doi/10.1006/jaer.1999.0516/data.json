@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.biosystemseng.2013.12.004","type":"err"},"doi":"10.1006/jaer.1999.0516","journal":"Biosystems Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Wheel Traffic Effects on Tillage Draught” [J Agric Eng Res 75 (2000) 375–382]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496012796748,
+      "identifier": {
+        "doi": "10.1016/j.biosystemseng.2013.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1006/jaer.1999.0516"
+  },
+  "journal": "Biosystems Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Wheel Traffic Effects on Tillage Draught” [J Agric Eng Res 75 (2000) 375–382]"
+}

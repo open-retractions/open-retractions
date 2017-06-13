@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443571200000,"doi":"10.1186/s40658-015-0121-4","type":"correction"},"doi":"10.1186/2197-7364-1-9","journal":"EJNMMI Physics","publisher":"Springer Nature","title":"Erratum to: Effective dose to adult patients from 338 radiopharmaceuticals estimated using ICRP biokinetic data, ICRP/ICRU computational reference phantoms and ICRP 2007 tissue weighting factors"}
+{
+  "retracted": false,
+  "timestamp": 1443571200000,
+  "updates": [
+    {
+      "timestamp": 1496033921571,
+      "identifier": {
+        "doi": "10.1186/s40658-015-0121-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/2197-7364-1-9"
+  },
+  "journal": "EJNMMI Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effective dose to adult patients from 338 radiopharmaceuticals estimated using ICRP biokinetic data, ICRP/ICRU computational reference phantoms and ICRP 2007 tissue weighting factors"
+}

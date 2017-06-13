@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412294400000,"doi":"10.1063/1.4896770","type":"correction"},"doi":"10.1063/1.4865764","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Predicting the stability of surface phases of molybdenum selenides” [Appl. Phys. Lett. 104, 061605 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1412294400000,
+  "updates": [
+    {
+      "timestamp": 1496012153459,
+      "identifier": {
+        "doi": "10.1063/1.4896770"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4865764"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Predicting the stability of surface phases of molybdenum selenides” [Appl. Phys. Lett. 104, 061605 (2014)]"
+}

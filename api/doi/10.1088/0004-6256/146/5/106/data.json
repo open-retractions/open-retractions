@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475539200000,"doi":"10.3847/0004-6256/152/4/109","type":"correction"},"doi":"10.1088/0004-6256/146/5/106","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “KINEMATICS OF THE ORION TRAPEZIUM BASED ON DIFFRACTO-ASTROMETRY AND HISTORICAL DATA” (2013, AJ, 146, 106)"}
+{
+  "retracted": false,
+  "timestamp": 1475539200000,
+  "updates": [
+    {
+      "timestamp": 1495645255323,
+      "identifier": {
+        "doi": "10.3847/0004-6256/152/4/109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/146/5/106"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “KINEMATICS OF THE ORION TRAPEZIUM BASED ON DIFFRACTO-ASTROMETRY AND HISTORICAL DATA” (2013, AJ, 146, 106)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470355200000,"doi":"10.1063/1.4960736","type":"correction"},"doi":"10.1063/1.4944460","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Multiferroic properties of uniaxially compressed orthorhombic HoMnO3 thin films” [Appl. Phys. Lett. 108, 112904 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1470355200000,
+  "updates": [
+    {
+      "timestamp": 1495735335612,
+      "identifier": {
+        "doi": "10.1063/1.4960736"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4944460"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Multiferroic properties of uniaxially compressed orthorhombic HoMnO3 thin films” [Appl. Phys. Lett. 108, 112904 (2016)]"
+}

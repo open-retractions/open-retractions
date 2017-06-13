@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1007/s00775-015-1293-z","type":"correction"},"doi":"10.1007/s00775-014-1139-0","journal":"JBIC Journal of Biological Inorganic Chemistry","publisher":"Springer Nature","title":"Erratum to: Biological consequences of zinc deficiency in the pathomechanisms of selected diseases"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496026297807,
+      "identifier": {
+        "doi": "10.1007/s00775-015-1293-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00775-014-1139-0"
+  },
+  "journal": "JBIC Journal of Biological Inorganic Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biological consequences of zinc deficiency in the pathomechanisms of selected diseases"
+}

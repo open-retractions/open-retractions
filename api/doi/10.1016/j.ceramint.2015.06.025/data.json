@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ceramint.2015.09.014","type":"err"},"doi":"10.1016/j.ceramint.2015.06.025","journal":"Ceramics International","publisher":"Elsevier BV","title":"Corrigendum to ‘Fabrication and temperature dependent magnetic properties of nickel nanowires embedded in alumina templates’ [Ceramics International (2015) 12081–12086]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496028484301,
+      "identifier": {
+        "doi": "10.1016/j.ceramint.2015.09.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ceramint.2015.06.025"
+  },
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Fabrication and temperature dependent magnetic properties of nickel nanowires embedded in alumina templates’ [Ceramics International (2015) 12081–12086]"
+}

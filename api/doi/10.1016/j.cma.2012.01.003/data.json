@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.cma.2014.10.021","type":"err"},"doi":"10.1016/j.cma.2012.01.003","journal":"Computer Methods in Applied Mechanics and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Combining Galerkin approximation techniques with the principle of Hashin and Shtrikman to derive a new FFT-based numerical method for the homogenization of composites” [Comput. Methods Appl. Mech. Engrg. 217–220 (2012) 197–212]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496020007261,
+      "identifier": {
+        "doi": "10.1016/j.cma.2014.10.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cma.2012.01.003"
+  },
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Combining Galerkin approximation techniques with the principle of Hashin and Shtrikman to derive a new FFT-based numerical method for the homogenization of composites” [Comput. Methods Appl. Mech. Engrg. 217–220 (2012) 197–212]"
+}

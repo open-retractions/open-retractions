@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.ocemod.2013.09.005","type":"err"},"doi":"10.1016/j.ocemod.2013.06.003","journal":"Ocean Modelling","publisher":"Elsevier BV","title":"Erratum to “Ocean-wave coupled modeling in COAMPS-TC: A study of hurricane Ivan (2004)” [Ocean Modelling Volume 69 (2013) 181–194]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496049915458,
+      "identifier": {
+        "doi": "10.1016/j.ocemod.2013.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ocemod.2013.06.003"
+  },
+  "journal": "Ocean Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Ocean-wave coupled modeling in COAMPS-TC: A study of hurricane Ivan (2004)” [Ocean Modelling Volume 69 (2013) 181–194]"
+}

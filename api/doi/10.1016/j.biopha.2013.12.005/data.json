@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.biopha.2014.09.001","type":"err"},"doi":"10.1016/j.biopha.2013.12.005","journal":"Biomedicine & Pharmacotherapy","publisher":"Elsevier BV","title":"Corrigendum to “RASSF10 is epigenetically inactivated and induces apoptosis in lung cancer cell lines” [Biomed Pharmacother 68/3 (2014) 321–6]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496006965969,
+      "identifier": {
+        "doi": "10.1016/j.biopha.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biopha.2013.12.005"
+  },
+  "journal": "Biomedicine & Pharmacotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “RASSF10 is epigenetically inactivated and induces apoptosis in lung cancer cell lines” [Biomed Pharmacother 68/3 (2014) 321–6]"
+}

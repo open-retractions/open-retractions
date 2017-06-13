@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.epsr.2016.05.022","type":"erratum"},"doi":"10.1016/j.epsr.2014.10.020","journal":"Electric Power Systems Research","publisher":"Elsevier BV","title":"Corrigendum to “On continuous numerical Fourier transform for transient analysis of lightning current related phenomena” [Electr. Power Syst. Res. 119 (2015) 364–369]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495717610988,
+      "identifier": {
+        "doi": "10.1016/j.epsr.2016.05.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsr.2014.10.020"
+  },
+  "journal": "Electric Power Systems Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On continuous numerical Fourier transform for transient analysis of lightning current related phenomena” [Electr. Power Syst. Res. 119 (2015) 364–369]"
+}

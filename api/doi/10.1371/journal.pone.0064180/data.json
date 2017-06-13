@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388966400000,"doi":"10.1371/annotation/b148461a-eb97-43c9-a44c-f97e7eab1711","type":"correction"},"doi":"10.1371/journal.pone.0064180","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Multimodal Phantom of Liver Tissue"}
+{
+  "retracted": false,
+  "timestamp": 1388966400000,
+  "updates": [
+    {
+      "timestamp": 1496010529371,
+      "identifier": {
+        "doi": "10.1371/annotation/b148461a-eb97-43c9-a44c-f97e7eab1711"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0064180"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Multimodal Phantom of Liver Tissue"
+}

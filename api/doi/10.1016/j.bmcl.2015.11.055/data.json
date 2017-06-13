@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.bmcl.2016.04.050","type":"err"},"doi":"10.1016/j.bmcl.2015.11.055","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Protein ligand-tethered synthetic calcium indicator for localization control and spatiotemporal calcium imaging in plant cells” [Bioorg. Med. Chem. Lett. 26 (2016) 9–14]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495673659208,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2016.04.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2015.11.055"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protein ligand-tethered synthetic calcium indicator for localization control and spatiotemporal calcium imaging in plant cells” [Bioorg. Med. Chem. Lett. 26 (2016) 9–14]"
+}

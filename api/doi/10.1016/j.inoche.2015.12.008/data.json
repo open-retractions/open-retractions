@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.inoche.2016.06.026","type":"erratum"},"doi":"10.1016/j.inoche.2015.12.008","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and structural characterization of copper(II) coordination polymers with 1,1,2,2-tetra(pyrazol-1-yl)ethane” [Inorg. Chem. Commun. 64 (2016) 23–26]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495724345068,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2016.06.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2015.12.008"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and structural characterization of copper(II) coordination polymers with 1,1,2,2-tetra(pyrazol-1-yl)ethane” [Inorg. Chem. Commun. 64 (2016) 23–26]"
+}

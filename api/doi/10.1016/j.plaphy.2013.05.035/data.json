@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.plaphy.2013.10.033","type":"err"},"doi":"10.1016/j.plaphy.2013.05.035","journal":"Plant Physiology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to ‘Overexpression of a tomato carotenoid ε-hydroxylase gene alleviates sensitivity to chilling stress in transgenic tobacco’ [Plant Physiol. Biochem. 70 (2013) 235–245]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496018396134,
+      "identifier": {
+        "doi": "10.1016/j.plaphy.2013.10.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.plaphy.2013.05.035"
+  },
+  "journal": "Plant Physiology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Overexpression of a tomato carotenoid ε-hydroxylase gene alleviates sensitivity to chilling stress in transgenic tobacco’ [Plant Physiol. Biochem. 70 (2013) 235–245]"
+}

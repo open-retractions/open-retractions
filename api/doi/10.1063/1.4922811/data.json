@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447372800000,"doi":"10.1063/1.4935944","type":"correction"},"doi":"10.1063/1.4922811","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Edge effects on band gap energy in bilayer 2H-MoS2 under uniaxial strain” [J. Appl. Phys. 117, 244303 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1447372800000,
+  "updates": [
+    {
+      "timestamp": 1496045788393,
+      "identifier": {
+        "doi": "10.1063/1.4935944"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4922811"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Edge effects on band gap energy in bilayer 2H-MoS2 under uniaxial strain” [J. Appl. Phys. 117, 244303 (2015)]"
+}

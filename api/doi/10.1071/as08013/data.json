@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362441600000,"doi":"10.1071/as08013_co","type":"correction"},"doi":"10.1071/as08013","journal":"Publications of the Astronomical Society of Australia","publisher":"Cambridge University Press (CUP)","title":"Corrigenda: Populating the Galaxy Velocity Dispersion – Supermassive Black Hole Mass Diagram: A Catalogue of (Mbh, σ) Values"}
+{
+  "retracted": false,
+  "timestamp": 1362441600000,
+  "updates": [
+    {
+      "timestamp": 1496005045101,
+      "identifier": {
+        "doi": "10.1071/as08013_co"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1071/as08013"
+  },
+  "journal": "Publications of the Astronomical Society of Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Corrigenda: Populating the Galaxy Velocity Dispersion – Supermassive Black Hole Mass Diagram: A Catalogue of (Mbh, σ) Values"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373932800000,"doi":"10.1073/pnas.1317701110","type":"correction"},"doi":"10.1073/pnas.1310230110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Pourdehnad et al., Myc and mTOR converge on a common node in protein synthesis control that confers synthetic lethality in Myc-driven cancers"}
+{
+  "retracted": false,
+  "timestamp": 1373932800000,
+  "updates": [
+    {
+      "timestamp": 1496049519237,
+      "identifier": {
+        "doi": "10.1073/pnas.1317701110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1310230110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Pourdehnad et al., Myc and mTOR converge on a common node in protein synthesis control that confers synthetic lethality in Myc-driven cancers"
+}

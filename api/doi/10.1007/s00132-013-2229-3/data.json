@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440201600000,"doi":"10.1007/s00132-015-3151-7","type":"correction"},"doi":"10.1007/s00132-013-2229-3","journal":"Der Orthopäde","publisher":"Springer Nature","title":"Erratum zu: Osteogenesis imperfecta"}
+{
+  "retracted": false,
+  "timestamp": 1440201600000,
+  "updates": [
+    {
+      "timestamp": 1496024559148,
+      "identifier": {
+        "doi": "10.1007/s00132-015-3151-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00132-013-2229-3"
+  },
+  "journal": "Der Orthopäde",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Osteogenesis imperfecta"
+}

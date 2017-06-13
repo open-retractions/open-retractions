@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426809600000,"doi":"10.1007/s11262-015-1192-y","type":"correction"},"doi":"10.1007/s11262-014-1165-6","journal":"Virus Genes","publisher":"Springer Nature","title":"Erratum to: Genetic characterization of border disease virus (BDV) isolates from small ruminants in Italy"}
+{
+  "retracted": false,
+  "timestamp": 1426809600000,
+  "updates": [
+    {
+      "timestamp": 1496051016270,
+      "identifier": {
+        "doi": "10.1007/s11262-015-1192-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11262-014-1165-6"
+  },
+  "journal": "Virus Genes",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genetic characterization of border disease virus (BDV) isolates from small ruminants in Italy"
+}

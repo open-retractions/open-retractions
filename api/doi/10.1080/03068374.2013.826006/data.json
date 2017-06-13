@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413244800000,"doi":"10.1080/03068374.2014.930600","type":"correction"},"doi":"10.1080/03068374.2013.826006","journal":"Asian Affairs","publisher":"Informa UK Limited","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1413244800000,
+  "updates": [
+    {
+      "timestamp": 1496014179531,
+      "identifier": {
+        "doi": "10.1080/03068374.2014.930600"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03068374.2013.826006"
+  },
+  "journal": "Asian Affairs",
+  "publisher": "Informa UK Limited",
+  "title": "ERRATUM"
+}

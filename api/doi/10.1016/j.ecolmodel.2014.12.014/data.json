@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474675200000,"doi":"10.1016/j.ecolmodel.2016.04.003","type":"err"},"doi":"10.1016/j.ecolmodel.2014.12.014","journal":"Ecological Modelling","publisher":"Elsevier BV","title":"Corrigendum to “A trophic overlap-based measure for species uniqueness in ecological networks” [Ecol. Model. 299 (March) (2015) 95–101]"}
+{
+  "retracted": false,
+  "timestamp": 1474675200000,
+  "updates": [
+    {
+      "timestamp": 1495715012661,
+      "identifier": {
+        "doi": "10.1016/j.ecolmodel.2016.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolmodel.2014.12.014"
+  },
+  "journal": "Ecological Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A trophic overlap-based measure for species uniqueness in ecological networks” [Ecol. Model. 299 (March) (2015) 95–101]"
+}

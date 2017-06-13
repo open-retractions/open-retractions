@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427414400000,"doi":"10.1038/srep09544","type":"correction"},"doi":"10.1038/srep07813","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: CORRIGENDUM: qPMS9: An Efficient Algorithm for Quorum Planted Motif Search"}
+{
+  "retracted": false,
+  "timestamp": 1427414400000,
+  "updates": [
+    {
+      "timestamp": 1496054142730,
+      "identifier": {
+        "doi": "10.1038/srep09544"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep07813"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: CORRIGENDUM: qPMS9: An Efficient Algorithm for Quorum Planted Motif Search"
+}

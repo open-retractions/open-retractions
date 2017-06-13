@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1266969600000,"doi":"10.1371/annotation/d3491dea-c206-4660-940e-7fefdcee5761","type":"correction"},"doi":"10.1371/journal.pone.0008502","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Computer Simulation of Progesterone and Cox2 Inhibitor Treatment for Preterm Labor"}
+{
+  "retracted": false,
+  "timestamp": 1266969600000,
+  "updates": [
+    {
+      "timestamp": 1496023932356,
+      "identifier": {
+        "doi": "10.1371/annotation/d3491dea-c206-4660-940e-7fefdcee5761"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0008502"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Computer Simulation of Progesterone and Cox2 Inhibitor Treatment for Preterm Labor"
+}

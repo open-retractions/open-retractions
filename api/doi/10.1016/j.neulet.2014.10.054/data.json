@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427673600000,"doi":"10.1016/j.neulet.2015.02.024","type":"err"},"doi":"10.1016/j.neulet.2014.10.054","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Task-dependent modulation of regions in the left temporal cortex during auditory sentence comprehension” [Neuroscience Letters, 584 (2015) 351–355, 2015]"}
+{
+  "retracted": false,
+  "timestamp": 1427673600000,
+  "updates": [
+    {
+      "timestamp": 1496043552269,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2015.02.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2014.10.054"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Task-dependent modulation of regions in the left temporal cortex during auditory sentence comprehension” [Neuroscience Letters, 584 (2015) 351–355, 2015]"
+}

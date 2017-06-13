@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1431043200000,"doi":"10.1371/journal.pone.0128260","type":"correction"},"doi":"10.1371/journal.pone.0117312","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Thermodynamics of Random Reaction Networks"}
+{
+  "retracted": false,
+  "timestamp": 1431043200000,
+  "updates": [
+    {
+      "timestamp": 1495999015837,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0128260"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0117312"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Thermodynamics of Random Reaction Networks"
+}

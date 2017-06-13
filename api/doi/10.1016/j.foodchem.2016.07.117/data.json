@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1502755200000,"doi":"10.1016/j.foodchem.2017.03.006","type":"erratum"},"doi":"10.1016/j.foodchem.2016.07.117","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “A food waste utilization study for removing lead(II) from drinks” [Food Chem. 214 (2017) 637–643]"}
+{
+  "retracted": false,
+  "timestamp": 1502755200000,
+  "updates": [
+    {
+      "timestamp": 1495730465073,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2017.03.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2016.07.117"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A food waste utilization study for removing lead(II) from drinks” [Food Chem. 214 (2017) 637–643]"
+}

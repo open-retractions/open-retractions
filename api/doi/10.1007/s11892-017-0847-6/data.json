@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490745600000,"doi":"10.1007/s11892-017-0862-7","type":"correction"},"doi":"10.1007/s11892-017-0847-6","journal":"Current Diabetes Reports","publisher":"Springer Nature","title":"Erratum to: Who Should Be Considered for Islet Transplantation Alone?"}
+{
+  "retracted": false,
+  "timestamp": 1490745600000,
+  "updates": [
+    {
+      "timestamp": 1495733662478,
+      "identifier": {
+        "doi": "10.1007/s11892-017-0862-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11892-017-0847-6"
+  },
+  "journal": "Current Diabetes Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Who Should Be Considered for Islet Transplantation Alone?"
+}

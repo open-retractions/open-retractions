@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1063/1.4895492","type":"correction"},"doi":"10.1063/1.4882026","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Tunable photoluminescence of self-assembled GeSi quantum dots by B+ implantation and rapid thermal annealing” [J. Appl. Phys. 115, 233502 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496006101677,
+      "identifier": {
+        "doi": "10.1063/1.4895492"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4882026"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Tunable photoluminescence of self-assembled GeSi quantum dots by B+ implantation and rapid thermal annealing” [J. Appl. Phys. 115, 233502 (2014)]"
+}

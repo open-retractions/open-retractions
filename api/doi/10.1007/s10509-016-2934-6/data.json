@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1007/s10509-016-2951-5","type":"correction"},"doi":"10.1007/s10509-016-2934-6","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Long-term optical variability properties of blazars in the SDSS Stripe 82"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647091266,
+      "identifier": {
+        "doi": "10.1007/s10509-016-2951-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-016-2934-6"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Long-term optical variability properties of blazars in the SDSS Stripe 82"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.ijleo.2014.03.012","type":"err"},"doi":"10.1016/j.ijleo.2013.07.013","journal":"Optik - International Journal for Light and Electron Optics","publisher":"Elsevier BV","title":"Corrigendum to “A new hyperchaotic system and its generalized synchronization” [Optik 125 (2014) 575–579]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496036281807,
+      "identifier": {
+        "doi": "10.1016/j.ijleo.2014.03.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijleo.2013.07.013"
+  },
+  "journal": "Optik - International Journal for Light and Electron Optics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new hyperchaotic system and its generalized synchronization” [Optik 125 (2014) 575–579]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.crad.2016.09.012","type":"err"},"doi":"10.1016/j.crad.2016.06.113","journal":"Clinical Radiology","publisher":"Elsevier BV","title":"Corrigendum to “Acute pancreatitis: a comparison of intervention rates precipitated by early vs guideline CT scan timing” [Clin Radiol 71 (10) (2016) 993–996]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495647706551,
+      "identifier": {
+        "doi": "10.1016/j.crad.2016.09.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.crad.2016.06.113"
+  },
+  "journal": "Clinical Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Acute pancreatitis: a comparison of intervention rates precipitated by early vs guideline CT scan timing” [Clin Radiol 71 (10) (2016) 993–996]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1115078400000,"doi":"10.1073/pnas.0500811102","type":"correction"},"doi":"10.1073/pnas.0407772101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Renaud et al., Endometrial cancer is a receptor-mediated target for Mullerian Inhibiting Substance, PNAS 2005 102:111-116"}
+{
+  "retracted": false,
+  "timestamp": 1115078400000,
+  "updates": [
+    {
+      "timestamp": 1495936138430,
+      "identifier": {
+        "doi": "10.1073/pnas.0500811102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0407772101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Renaud et al., Endometrial cancer is a receptor-mediated target for Mullerian Inhibiting Substance, PNAS 2005 102:111-116"
+}

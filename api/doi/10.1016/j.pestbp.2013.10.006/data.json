@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.pestbp.2013.12.001","type":"err"},"doi":"10.1016/j.pestbp.2013.10.006","journal":"Pesticide Biochemistry and Physiology","publisher":"Elsevier BV","title":"Corrigendum to “Insecticide resistance in house flies from the United States: Resistance levels and frequency of pyrethroid resistance alleles” [Pestic. Biochem. Physiol. 107 (2013) 377–384]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496005995116,
+      "identifier": {
+        "doi": "10.1016/j.pestbp.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pestbp.2013.10.006"
+  },
+  "journal": "Pesticide Biochemistry and Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Insecticide resistance in house flies from the United States: Resistance levels and frequency of pyrethroid resistance alleles” [Pestic. Biochem. Physiol. 107 (2013) 377–384]"
+}

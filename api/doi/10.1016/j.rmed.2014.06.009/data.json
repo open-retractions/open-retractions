@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.rmed.2015.02.001","type":"err"},"doi":"10.1016/j.rmed.2014.06.009","journal":"Respiratory Medicine","publisher":"Elsevier BV","title":"Corrigendum to “A randomized study of formoterol fumarate in a porous particle metered-dose inhaler in patients with moderate-to-severe COPD” [Resp Med 108 (2014) 1327–1335]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496028909827,
+      "identifier": {
+        "doi": "10.1016/j.rmed.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmed.2014.06.009"
+  },
+  "journal": "Respiratory Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A randomized study of formoterol fumarate in a porous particle metered-dose inhaler in patients with moderate-to-severe COPD” [Resp Med 108 (2014) 1327–1335]"
+}

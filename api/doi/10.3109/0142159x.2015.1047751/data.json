@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446854400000,"doi":"10.3109/0142159x.2015.1095557","type":"correction"},"doi":"10.3109/0142159x.2015.1047751","journal":"Medical Teacher","publisher":"Informa Healthcare","title":"Correction notice"}
+{
+  "retracted": false,
+  "timestamp": 1446854400000,
+  "updates": [
+    {
+      "timestamp": 1496044384941,
+      "identifier": {
+        "doi": "10.3109/0142159x.2015.1095557"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/0142159x.2015.1047751"
+  },
+  "journal": "Medical Teacher",
+  "publisher": "Informa Healthcare",
+  "title": "Correction notice"
+}

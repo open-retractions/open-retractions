@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.expneurol.2013.11.002","type":"err"},"doi":"10.1016/j.expneurol.2013.09.025","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “Convergent effects of mouse Pet-1 deletion and human PET-1 variation on amygdala fear and threat processing” [Exp. Neurol. 250 (2013) 260–269]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495999155479,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2013.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2013.09.025"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Convergent effects of mouse Pet-1 deletion and human PET-1 variation on amygdala fear and threat processing” [Exp. Neurol. 250 (2013) 260–269]"
+}

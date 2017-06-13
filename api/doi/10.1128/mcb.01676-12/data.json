@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1128/mcb.00597-13","type":"correction"},"doi":"10.1128/mcb.01676-12","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Lamin A/C Depletion Enhances DNA Damage-Induced Stalled Replication Fork Arrest"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496035220195,
+      "identifier": {
+        "doi": "10.1128/mcb.00597-13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.01676-12"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Lamin A/C Depletion Enhances DNA Damage-Induced Stalled Replication Fork Arrest"
+}

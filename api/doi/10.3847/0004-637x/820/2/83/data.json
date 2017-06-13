@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465776000000,"doi":"10.3847/0004-637x/824/1/63","type":"correction"},"doi":"10.3847/0004-637x/820/2/83","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “ISM MASSES AND THE STAR FORMATION LAW AT Z = 1 TO 6 ALMA OBSERVATIONS OF DUST CONTINUUM IN 145 GALAXIES IN THE COSMOS SURVEY FIELD” (2016, ApJ, 820, 83)"}
+{
+  "retracted": false,
+  "timestamp": 1465776000000,
+  "updates": [
+    {
+      "timestamp": 1495720245663,
+      "identifier": {
+        "doi": "10.3847/0004-637x/824/1/63"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/0004-637x/820/2/83"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “ISM MASSES AND THE STAR FORMATION LAW AT Z = 1 TO 6 ALMA OBSERVATIONS OF DUST CONTINUUM IN 145 GALAXIES IN THE COSMOS SURVEY FIELD” (2016, ApJ, 820, 83)"
+}

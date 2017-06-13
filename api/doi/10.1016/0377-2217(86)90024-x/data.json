@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.ejor.2016.01.022","type":"erratum"},"doi":"10.1016/0377-2217(86)90024-x","journal":"European Journal of Operational Research","publisher":"Elsevier BV","title":"Corrigendum to “Rational modelling in understanding and aiding human decision-making: About two case studies” [European Journal of Operational Research 24 (1986) 178–186]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495643935461,
+      "identifier": {
+        "doi": "10.1016/j.ejor.2016.01.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/0377-2217(86)90024-x"
+  },
+  "journal": "European Journal of Operational Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rational modelling in understanding and aiding human decision-making: About two case studies” [European Journal of Operational Research 24 (1986) 178–186]"
+}

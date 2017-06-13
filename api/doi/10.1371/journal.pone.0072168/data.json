@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380758400000,"doi":"10.1371/annotation/4adf8407-a5b8-4f4b-877d-e8b944f0e6ee","type":"correction"},"doi":"10.1371/journal.pone.0072168","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Spatiotemporal Infectious Disease Modeling: A BME-SIR Approach"}
+{
+  "retracted": false,
+  "timestamp": 1380758400000,
+  "updates": [
+    {
+      "timestamp": 1496053903803,
+      "identifier": {
+        "doi": "10.1371/annotation/4adf8407-a5b8-4f4b-877d-e8b944f0e6ee"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072168"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Spatiotemporal Infectious Disease Modeling: A BME-SIR Approach"
+}

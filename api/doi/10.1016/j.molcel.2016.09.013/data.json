@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.molcel.2016.11.025","type":"erratum"},"doi":"10.1016/j.molcel.2016.09.013","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Direct Regulation of Alternative Splicing by SMAD3 through PCBP1 Is Essential to the Tumor-Promoting Role of TGF-β"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495662940452,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.11.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.09.013"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Direct Regulation of Alternative Splicing by SMAD3 through PCBP1 Is Essential to the Tumor-Promoting Role of TGF-β"
+}

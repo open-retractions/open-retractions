@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":972432000000,"doi":"10.1007/s004240000452","type":"correction"},"doi":"10.1007/s004240000401","journal":"Pflügers Archiv","publisher":"Springer Nature","title":"Erratum to The three mechanisms of intracellular chloride accumulation in vascular smooth muscle of human umbilical and placental arteries"}
+{
+  "retracted": false,
+  "timestamp": 972432000000,
+  "updates": [
+    {
+      "timestamp": 1495948350181,
+      "identifier": {
+        "doi": "10.1007/s004240000452"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s004240000401"
+  },
+  "journal": "Pflügers Archiv",
+  "publisher": "Springer Nature",
+  "title": "Erratum to The three mechanisms of intracellular chloride accumulation in vascular smooth muscle of human umbilical and placental arteries"
+}

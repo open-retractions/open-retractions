@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243036800000,"doi":"10.1107/s1600536809018790","type":"correction"},"doi":"10.1107/s1600536809001068","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"2-(2-Thienyl)-4,5-dihydro-1H-imidazole. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1243036800000,
+  "updates": [
+    {
+      "timestamp": 1495953169707,
+      "identifier": {
+        "doi": "10.1107/s1600536809018790"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536809001068"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "2-(2-Thienyl)-4,5-dihydro-1H-imidazole. Corrigendum"
+}

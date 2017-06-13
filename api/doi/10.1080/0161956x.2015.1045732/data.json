@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1080/0161956x.2015.1076231","type":"correction"},"doi":"10.1080/0161956x.2015.1045732","journal":"Peabody Journal of Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496025314684,
+      "identifier": {
+        "doi": "10.1080/0161956x.2015.1076231"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0161956x.2015.1045732"
+  },
+  "journal": "Peabody Journal of Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

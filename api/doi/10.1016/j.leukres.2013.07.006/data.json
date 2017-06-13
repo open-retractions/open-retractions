@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.leukres.2013.11.018","type":"err"},"doi":"10.1016/j.leukres.2013.07.006","journal":"Leukemia Research","publisher":"Elsevier BV","title":"Corrigendum to ‘Hematological improvement during iron-chelation therapy in myelodysplastic syndromes: The experience of the “Rete Ematologica Lombarda”’ [Leuk Res 37 (2013) 1233–1240]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496007547521,
+      "identifier": {
+        "doi": "10.1016/j.leukres.2013.11.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.leukres.2013.07.006"
+  },
+  "journal": "Leukemia Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Hematological improvement during iron-chelation therapy in myelodysplastic syndromes: The experience of the “Rete Ematologica Lombarda”’ [Leuk Res 37 (2013) 1233–1240]"
+}

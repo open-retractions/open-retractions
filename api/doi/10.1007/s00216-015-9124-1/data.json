@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1007/s00216-015-9230-0","type":"correction"},"doi":"10.1007/s00216-015-9124-1","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Identification of trace levels of selenomethionine and related organic selenium species in high-ionic-strength waters"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496052934375,
+      "identifier": {
+        "doi": "10.1007/s00216-015-9230-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-015-9124-1"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification of trace levels of selenomethionine and related organic selenium species in high-ionic-strength waters"
+}

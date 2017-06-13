@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bbcan.2015.03.001","type":"err"},"doi":"10.1016/j.bbcan.2014.01.006","journal":"Biochimica et Biophysica Acta (BBA) - Reviews on Cancer","publisher":"Elsevier BV","title":"Corrigendum to “Membrane rafts as a novel target in cancer therapy” [BBACAN 1845(2) (2014) 155–165]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496051140024,
+      "identifier": {
+        "doi": "10.1016/j.bbcan.2015.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbcan.2014.01.006"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Reviews on Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Membrane rafts as a novel target in cancer therapy” [BBACAN 1845(2) (2014) 155–165]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354665600000,"doi":"10.1007/s10485-012-9298-z","type":"correction"},"doi":"10.1007/s10485-011-9246-3","journal":"Applied Categorical Structures","publisher":"Springer Nature","title":"Erratum to: Noncommutativity as a Colimit"}
+{
+  "retracted": false,
+  "timestamp": 1354665600000,
+  "updates": [
+    {
+      "timestamp": 1495976521730,
+      "identifier": {
+        "doi": "10.1007/s10485-012-9298-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10485-011-9246-3"
+  },
+  "journal": "Applied Categorical Structures",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Noncommutativity as a Colimit"
+}

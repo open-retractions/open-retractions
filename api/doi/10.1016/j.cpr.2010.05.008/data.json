@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341100800000,"doi":"10.1016/j.cpr.2012.05.001","type":"err"},"doi":"10.1016/j.cpr.2010.05.008","journal":"Clinical Psychology Review","publisher":"Elsevier BV","title":"Corrigendum to “A meta-analysis of the effects of psychotherapy with adults sexually abused in childhood” [Clin. Psychol. Rev. 30/6 (2010) 749–767]"}
+{
+  "retracted": false,
+  "timestamp": 1341100800000,
+  "updates": [
+    {
+      "timestamp": 1495906545837,
+      "identifier": {
+        "doi": "10.1016/j.cpr.2012.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpr.2010.05.008"
+  },
+  "journal": "Clinical Psychology Review",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A meta-analysis of the effects of psychotherapy with adults sexually abused in childhood” [Clin. Psychol. Rev. 30/6 (2010) 749–767]"
+}

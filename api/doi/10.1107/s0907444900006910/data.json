@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":973036800000,"doi":"10.1107/s0907444900014219","type":"correction"},"doi":"10.1107/s0907444900006910","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Crystallization and preliminary X-ray analysis of the conserved domain IV ofEscherichia coli4.5S RNA. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 973036800000,
+  "updates": [
+    {
+      "timestamp": 1495915831298,
+      "identifier": {
+        "doi": "10.1107/s0907444900014219"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444900006910"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Crystallization and preliminary X-ray analysis of the conserved domain IV ofEscherichia coli4.5S RNA. Erratum"
+}

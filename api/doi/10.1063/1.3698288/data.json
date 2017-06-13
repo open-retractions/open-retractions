@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1063/1.4811852","type":"correction"},"doi":"10.1063/1.3698288","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “A characterization of causal automorphisms by wave equations” [J. Math. Phys. 53, 032507 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496030244918,
+      "identifier": {
+        "doi": "10.1063/1.4811852"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3698288"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A characterization of causal automorphisms by wave equations” [J. Math. Phys. 53, 032507 (2012)]"
+}

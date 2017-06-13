@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430352000000,"doi":"10.1007/bf03354816","type":"correction"},"doi":"10.1007/bf03354809","journal":"Journal of Optics","publisher":"Springer Nature","title":"Erratum to: An Efficient Wavelength Assignment for all-to-all Broadcast in Optical WDM Hypercube Network"}
+{
+  "retracted": false,
+  "timestamp": 1430352000000,
+  "updates": [
+    {
+      "timestamp": 1495997636387,
+      "identifier": {
+        "doi": "10.1007/bf03354816"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03354809"
+  },
+  "journal": "Journal of Optics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An Efficient Wavelength Assignment for all-to-all Broadcast in Optical WDM Hypercube Network"
+}

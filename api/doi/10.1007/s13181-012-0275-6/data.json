@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1007/s13181-013-0308-9","type":"correction"},"doi":"10.1007/s13181-012-0275-6","journal":"Journal of Medical Toxicology","publisher":"Springer Nature","title":"Erratum to: Reversal of Thienopyridine-Induced Platelet Dysfunction Following Desmopressin Administration"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496043511912,
+      "identifier": {
+        "doi": "10.1007/s13181-013-0308-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13181-012-0275-6"
+  },
+  "journal": "Journal of Medical Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reversal of Thienopyridine-Induced Platelet Dysfunction Following Desmopressin Administration"
+}

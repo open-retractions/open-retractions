@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475539200000,"doi":"10.1016/j.tcs.2016.09.001","type":"erratum"},"doi":"10.1016/j.tcs.2010.04.029","journal":"Theoretical Computer Science","publisher":"Elsevier BV","title":"Corrigendum to “The frequent items problem, under polynomial decay, in the streaming model” [Theoret. Comput. Sci. 411(34–36) (2010) 3048–3054]"}
+{
+  "retracted": false,
+  "timestamp": 1475539200000,
+  "updates": [
+    {
+      "timestamp": 1495638517031,
+      "identifier": {
+        "doi": "10.1016/j.tcs.2016.09.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tcs.2010.04.029"
+  },
+  "journal": "Theoretical Computer Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The frequent items problem, under polynomial decay, in the streaming model” [Theoret. Comput. Sci. 411(34–36) (2010) 3048–3054]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428364800000,"doi":"10.1007/s10725-015-0060-z","type":"correction"},"doi":"10.1007/s10725-014-0009-7","journal":"Plant Growth Regulation","publisher":"Springer Nature","title":"Erratum to: Sprout differentiation and mutation induction of garlic (Allium sativum L.) callus exposed to gamma radiation"}
+{
+  "retracted": false,
+  "timestamp": 1428364800000,
+  "updates": [
+    {
+      "timestamp": 1496055412541,
+      "identifier": {
+        "doi": "10.1007/s10725-015-0060-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10725-014-0009-7"
+  },
+  "journal": "Plant Growth Regulation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sprout differentiation and mutation induction of garlic (Allium sativum L.) callus exposed to gamma radiation"
+}

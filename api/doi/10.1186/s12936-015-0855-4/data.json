@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450310400000,"doi":"10.1186/s12936-015-1034-3","type":"correction"},"doi":"10.1186/s12936-015-0855-4","journal":"Malaria Journal","publisher":"Springer Nature","title":"Erratum to: Up-regulated S100 calcium binding protein A8 in Plasmodium-infected patients correlates with CD4+CD25+Foxp3 regulatory T cell generation"}
+{
+  "retracted": false,
+  "timestamp": 1450310400000,
+  "updates": [
+    {
+      "timestamp": 1496054053102,
+      "identifier": {
+        "doi": "10.1186/s12936-015-1034-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12936-015-0855-4"
+  },
+  "journal": "Malaria Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Up-regulated S100 calcium binding protein A8 in Plasmodium-infected patients correlates with CD4+CD25+Foxp3 regulatory T cell generation"
+}

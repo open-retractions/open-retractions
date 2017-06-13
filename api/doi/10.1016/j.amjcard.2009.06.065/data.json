@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.amjcard.2015.06.029","type":"err"},"doi":"10.1016/j.amjcard.2009.06.065","journal":"The American Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum for Bui et al. “Comparison of safety of subcutaneous enoxaparin as outpatient anticoagulation bridging therapy in patients with a mechanical heart valve versus patients with nonvalvular atrial fibrillation” Am J Cardiol 2009;104:1429–1433"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496015341151,
+      "identifier": {
+        "doi": "10.1016/j.amjcard.2015.06.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjcard.2009.06.065"
+  },
+  "journal": "The American Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for Bui et al. “Comparison of safety of subcutaneous enoxaparin as outpatient anticoagulation bridging therapy in patients with a mechanical heart valve versus patients with nonvalvular atrial fibrillation” Am J Cardiol 2009;104:1429–1433"
+}

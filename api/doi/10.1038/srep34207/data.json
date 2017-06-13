@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481241600000,"doi":"10.1038/srep35327","type":"correction"},"doi":"10.1038/srep34207","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Abrupt switch to migratory night flight in a wild migratory songbird"}
+{
+  "retracted": false,
+  "timestamp": 1481241600000,
+  "updates": [
+    {
+      "timestamp": 1495663948133,
+      "identifier": {
+        "doi": "10.1038/srep35327"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep34207"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Abrupt switch to migratory night flight in a wild migratory songbird"
+}

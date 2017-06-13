@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333152000000,"doi":"10.1007/s00213-012-2695-z","type":"correction"},"doi":"10.1007/s00213-011-2534-7","journal":"Psychopharmacology","publisher":"Springer Nature","title":"Erratum to: Induction of morphine-6-glucuronide synthesis by heroin self-administration in the rat"}
+{
+  "retracted": false,
+  "timestamp": 1333152000000,
+  "updates": [
+    {
+      "timestamp": 1495888347578,
+      "identifier": {
+        "doi": "10.1007/s00213-012-2695-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00213-011-2534-7"
+  },
+  "journal": "Psychopharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Induction of morphine-6-glucuronide synthesis by heroin self-administration in the rat"
+}

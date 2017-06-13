@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.3847/0004-637x/818/2/205","type":"correction"},"doi":"10.1088/0004-637x/747/2/97","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM:“THE IMPACT OF THE SPECTRAL RESPONSE OF AN ACHROMATIC HALF-WAVE PLATE ON THE MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND POLARIZATION” (2012, ApJ, 747, 97)"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495647044238,
+      "identifier": {
+        "doi": "10.3847/0004-637x/818/2/205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/747/2/97"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM:“THE IMPACT OF THE SPECTRAL RESPONSE OF AN ACHROMATIC HALF-WAVE PLATE ON THE MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND POLARIZATION” (2012, ApJ, 747, 97)"
+}

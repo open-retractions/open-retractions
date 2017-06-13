@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405123200000,"doi":"10.1007/s11277-014-1927-4","type":"correction"},"doi":"10.1007/s11277-014-1807-y","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: ON/OFF Markov Model Based Energy-Delay Aware MAC Protocol for Wireless Sensor Network"}
+{
+  "retracted": false,
+  "timestamp": 1405123200000,
+  "updates": [
+    {
+      "timestamp": 1496053151600,
+      "identifier": {
+        "doi": "10.1007/s11277-014-1927-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-014-1807-y"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ON/OFF Markov Model Based Energy-Delay Aware MAC Protocol for Wireless Sensor Network"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.bej.2015.04.016","type":"err"},"doi":"10.1016/j.bej.2015.01.010","journal":"Biochemical Engineering Journal","publisher":"Elsevier BV","title":"Corrigendum to “Gold nanoparticles biosensor of Brucella spp. genomic DNA: Visual and spectrophotometric detections” [Biochem. Eng. J. 97 (2015) 1–7]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496009149220,
+      "identifier": {
+        "doi": "10.1016/j.bej.2015.04.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bej.2015.01.010"
+  },
+  "journal": "Biochemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gold nanoparticles biosensor of Brucella spp. genomic DNA: Visual and spectrophotometric detections” [Biochem. Eng. J. 97 (2015) 1–7]"
+}

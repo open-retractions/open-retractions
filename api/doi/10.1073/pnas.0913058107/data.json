@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1279584000000,"doi":"10.1073/pnas.1300714110","type":"correction"},"doi":"10.1073/pnas.0913058107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Whitehouse et al., Neighbor of Brca1 gene (Nbr1) functions as a negative regulator of postnatal osteoblastic bone formation and p38 MAPK activity"}
+{
+  "retracted": false,
+  "timestamp": 1279584000000,
+  "updates": [
+    {
+      "timestamp": 1495994375922,
+      "identifier": {
+        "doi": "10.1073/pnas.1300714110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0913058107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Whitehouse et al., Neighbor of Brca1 gene (Nbr1) functions as a negative regulator of postnatal osteoblastic bone formation and p38 MAPK activity"
+}

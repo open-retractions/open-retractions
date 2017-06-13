@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jpowsour.2015.04.078","type":"err"},"doi":"10.1016/j.jpowsour.2014.04.152","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Quantitative analysis of SOFC anode microstructure change during redox cycles” [J. Power Sources 267C (2014) 58–68]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496059167879,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2015.04.078"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.04.152"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantitative analysis of SOFC anode microstructure change during redox cycles” [J. Power Sources 267C (2014) 58–68]"
+}

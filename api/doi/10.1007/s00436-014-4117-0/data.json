@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415836800000,"doi":"10.1007/s00436-014-4209-x","type":"correction"},"doi":"10.1007/s00436-014-4117-0","journal":"Parasitology Research","publisher":"Springer Nature","title":"Erratum to: The WHO ultrasonography protocol for assessing hepatic morbidity due to Schistosoma mansoni. Acceptance and evolution over 12 years"}
+{
+  "retracted": false,
+  "timestamp": 1415836800000,
+  "updates": [
+    {
+      "timestamp": 1496021368412,
+      "identifier": {
+        "doi": "10.1007/s00436-014-4209-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00436-014-4117-0"
+  },
+  "journal": "Parasitology Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The WHO ultrasonography protocol for assessing hepatic morbidity due to Schistosoma mansoni. Acceptance and evolution over 12 years"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428969600000,"doi":"10.1007/s10712-015-9326-2","type":"correction"},"doi":"10.1007/s10712-015-9313-7","journal":"Surveys in Geophysics","publisher":"Springer Nature","title":"Erratum to: Simulations of an Offshore Wind Farm Using Large-Eddy Simulation and a Torque-Controlled Actuator Disc Model"}
+{
+  "retracted": false,
+  "timestamp": 1428969600000,
+  "updates": [
+    {
+      "timestamp": 1496057304232,
+      "identifier": {
+        "doi": "10.1007/s10712-015-9326-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10712-015-9313-7"
+  },
+  "journal": "Surveys in Geophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simulations of an Offshore Wind Farm Using Large-Eddy Simulation and a Torque-Controlled Actuator Disc Model"
+}

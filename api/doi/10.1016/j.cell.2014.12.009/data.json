@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422489600000,"doi":"10.1016/j.cell.2015.01.021","type":"err"},"doi":"10.1016/j.cell.2014.12.009","journal":"Cell","publisher":"Elsevier BV","title":"Acetate Fuels the Cancer Engine"}
+{
+  "retracted": false,
+  "timestamp": 1422489600000,
+  "updates": [
+    {
+      "timestamp": 1496040625652,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.01.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.12.009"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Acetate Fuels the Cancer Engine"
+}

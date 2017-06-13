@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395100800000,"doi":"10.1080/03043797.2013.871466","type":"correction"},"doi":"10.1080/03043797.2013.838543","journal":"European Journal of Engineering Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395100800000,
+  "updates": [
+    {
+      "timestamp": 1496004304177,
+      "identifier": {
+        "doi": "10.1080/03043797.2013.871466"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03043797.2013.838543"
+  },
+  "journal": "European Journal of Engineering Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

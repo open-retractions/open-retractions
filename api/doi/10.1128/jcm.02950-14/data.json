@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1128/jcm.00192-16","type":"correction"},"doi":"10.1128/jcm.02950-14","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Erratum for Brown-Elliott et al., Utility of Sequencing theerm(41) Gene in Isolates of Mycobacterium abscessus subsp. abscessus with Low and Intermediate Clarithromycin MICs"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495659456307,
+      "identifier": {
+        "doi": "10.1128/jcm.00192-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.02950-14"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Brown-Elliott et al., Utility of Sequencing theerm(41) Gene in Isolates of Mycobacterium abscessus subsp. abscessus with Low and Intermediate Clarithromycin MICs"
+}

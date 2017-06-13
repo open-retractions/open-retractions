@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.jfi.2013.08.002","type":"err"},"doi":"10.1016/j.jfi.2012.11.003","journal":"Journal of Financial Intermediation","publisher":"Elsevier BV","title":"Corrigendum to ‘Does loan renegotiation differ by securitization status? A transition probability study’ [J. Finan. Intermed. 22 (3) (2013) 513–527]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496041092432,
+      "identifier": {
+        "doi": "10.1016/j.jfi.2013.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfi.2012.11.003"
+  },
+  "journal": "Journal of Financial Intermediation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Does loan renegotiation differ by securitization status? A transition probability study’ [J. Finan. Intermed. 22 (3) (2013) 513–527]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":807235200000,"doi":"10.1007/bf00036933","type":"correction"},"doi":"10.1007/bf00037383","journal":"International Journal of Fracture","publisher":"Springer Nature","title":"Erratum to: The effects of constraint on crack tip fields and fracture toughness"}
+{
+  "retracted": false,
+  "timestamp": 807235200000,
+  "updates": [
+    {
+      "timestamp": 1496057079013,
+      "identifier": {
+        "doi": "10.1007/bf00036933"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00037383"
+  },
+  "journal": "International Journal of Fracture",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The effects of constraint on crack tip fields and fracture toughness"
+}

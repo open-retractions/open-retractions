@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378080000000,"doi":"10.1371/annotation/b5701e25-e5f8-402f-992e-647e3f1f59b7","type":"correction"},"doi":"10.1371/journal.pcbi.0020147","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Funneled Landscape Leads to Robustness of Cell Networks: Yeast Cell Cycle"}
+{
+  "retracted": false,
+  "timestamp": 1378080000000,
+  "updates": [
+    {
+      "timestamp": 1496004608166,
+      "identifier": {
+        "doi": "10.1371/annotation/b5701e25-e5f8-402f-992e-647e3f1f59b7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0020147"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Funneled Landscape Leads to Robustness of Cell Networks: Yeast Cell Cycle"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468454400000,"doi":"10.1007/s10107-016-1051-1","type":"correction"},"doi":"10.1007/s10107-016-1030-6","journal":"Mathematical Programming","publisher":"Springer Nature","title":"Erratum to: Minimizing finite sums with the stochastic average gradient"}
+{
+  "retracted": false,
+  "timestamp": 1468454400000,
+  "updates": [
+    {
+      "timestamp": 1495728523055,
+      "identifier": {
+        "doi": "10.1007/s10107-016-1051-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10107-016-1030-6"
+  },
+  "journal": "Mathematical Programming",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Minimizing finite sums with the stochastic average gradient"
+}

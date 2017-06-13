@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.ijheatmasstransfer.2017.02.077","type":"erratum"},"doi":"10.1016/j.ijheatmasstransfer.2016.03.020","journal":"International Journal of Heat and Mass Transfer","publisher":"Elsevier BV","title":"Corrigendum to “Estimation of growth features and thermophysical properties of melanoma within 3D human skin using genetic algorithm and simulated annealing” [Int. J. Heat Mass Transfer 98 (2016) 81–95]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495730589237,
+      "identifier": {
+        "doi": "10.1016/j.ijheatmasstransfer.2017.02.077"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijheatmasstransfer.2016.03.020"
+  },
+  "journal": "International Journal of Heat and Mass Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Estimation of growth features and thermophysical properties of melanoma within 3D human skin using genetic algorithm and simulated annealing” [Int. J. Heat Mass Transfer 98 (2016) 81–95]"
+}

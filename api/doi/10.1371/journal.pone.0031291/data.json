@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337817600000,"doi":"10.1371/annotation/3ea5cb26-e73e-4836-887d-d6318281e0f2","type":"correction"},"doi":"10.1371/journal.pone.0031291","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Posture as Index for Approach-Avoidance Behavior"}
+{
+  "retracted": false,
+  "timestamp": 1337817600000,
+  "updates": [
+    {
+      "timestamp": 1495911285835,
+      "identifier": {
+        "doi": "10.1371/annotation/3ea5cb26-e73e-4836-887d-d6318281e0f2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031291"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Posture as Index for Approach-Avoidance Behavior"
+}

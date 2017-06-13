@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490054400000,"doi":"10.1136/bmj.j1462","type":"correction"},"doi":"10.1136/bmj.h2958","journal":"BMJ","publisher":"BMJ","title":"Comparison of the two most commonly used treatments for pyoderma gangrenosum: results of the STOP GAP randomised controlled trial"}
+{
+  "retracted": false,
+  "timestamp": 1490054400000,
+  "updates": [
+    {
+      "timestamp": 1495731057866,
+      "identifier": {
+        "doi": "10.1136/bmj.j1462"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2958"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Comparison of the two most commonly used treatments for pyoderma gangrenosum: results of the STOP GAP randomised controlled trial"
+}

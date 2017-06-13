@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414281600000,"doi":"10.1007/s13277-014-2741-z","type":"correction"},"doi":"10.1007/s13277-013-0902-0","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: MicroRNA 181a improves proliferation and invasion, suppresses apoptosis of osteosarcoma cell"}
+{
+  "retracted": false,
+  "timestamp": 1414281600000,
+  "updates": [
+    {
+      "timestamp": 1496016704077,
+      "identifier": {
+        "doi": "10.1007/s13277-014-2741-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-013-0902-0"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: MicroRNA 181a improves proliferation and invasion, suppresses apoptosis of osteosarcoma cell"
+}

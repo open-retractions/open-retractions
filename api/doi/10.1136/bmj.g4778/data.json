@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1414368000000,"doi":"10.1136/bmj.g6476","type":"correction"},"doi":"10.1136/bmj.g4778","journal":"BMJ","publisher":"BMJ","title":"What is the optimal pharmacological management of retained placenta?"}
+{
+  "retracted": false,
+  "timestamp": 1414368000000,
+  "updates": [
+    {
+      "timestamp": 1496016778269,
+      "identifier": {
+        "doi": "10.1136/bmj.g6476"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g4778"
+  },
+  "publisher": "BMJ",
+  "title": "What is the optimal pharmacological management of retained placenta?"
+}

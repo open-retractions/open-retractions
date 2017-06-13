@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.commatsci.2016.11.002","type":"erratum"},"doi":"10.1016/j.commatsci.2011.05.001","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “Thermodynamic study of grain growth in nanocrystalline metals and its simulation by molecular dynamics” [Comput. Mater. Sci. 51/10 (2011) 2865–2871]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495655102908,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2016.11.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2011.05.001"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Thermodynamic study of grain growth in nanocrystalline metals and its simulation by molecular dynamics” [Comput. Mater. Sci. 51/10 (2011) 2865–2871]"
+}

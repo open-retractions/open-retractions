@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1239062400000,"doi":"10.1073/pnas.0907839106","type":"correction"},"doi":"10.1073/pnas.0808716106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhang et al., Glucocorticoid regulation of preproglucagon transcription and RNA stability during stress"}
+{
+  "retracted": false,
+  "timestamp": 1239062400000,
+  "updates": [
+    {
+      "timestamp": 1495966240269,
+      "identifier": {
+        "doi": "10.1073/pnas.0907839106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0808716106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhang et al., Glucocorticoid regulation of preproglucagon transcription and RNA stability during stress"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.optcom.2013.09.039","type":"err"},"doi":"10.1016/j.optcom.2013.07.046","journal":"Optics Communications","publisher":"Elsevier BV","title":"Retraction notice to “Quantum key distribution without sharing reference frame using single photon rotational-invariant subspace” [Opt. Commun. 308C (2013) 256–259]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495994238320,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.09.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2013.07.046"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Quantum key distribution without sharing reference frame using single photon rotational-invariant subspace” [Opt. Commun. 308C (2013) 256–259]"
+}

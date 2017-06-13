@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449792000000,"doi":"10.1007/s13277-015-4347-5","type":"correction"},"doi":"10.1007/s13277-015-4185-5","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: c-Myc-regulated long non-coding RNA H19 indicates a poor prognosis and affects cell proliferation in non-small-cell lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1449792000000,
+  "updates": [
+    {
+      "timestamp": 1496052434353,
+      "identifier": {
+        "doi": "10.1007/s13277-015-4347-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-4185-5"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: c-Myc-regulated long non-coding RNA H19 indicates a poor prognosis and affects cell proliferation in non-small-cell lung cancer"
+}

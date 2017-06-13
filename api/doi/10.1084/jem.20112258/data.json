@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355702400000,"doi":"10.1084/jem.2011225820913c","type":"correction"},"doi":"10.1084/jem.20112258","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Epidermal ADAM17 maintains the skin barrier by regulating EGFR ligand-dependent terminal keratinocyte differentiation"}
+{
+  "retracted": false,
+  "timestamp": 1355702400000,
+  "updates": [
+    {
+      "timestamp": 1495969427396,
+      "identifier": {
+        "doi": "10.1084/jem.2011225820913c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20112258"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Epidermal ADAM17 maintains the skin barrier by regulating EGFR ligand-dependent terminal keratinocyte differentiation"
+}

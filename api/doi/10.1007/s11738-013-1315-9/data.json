@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408060800000,"doi":"10.1007/s11738-014-1649-y","type":"correction"},"doi":"10.1007/s11738-013-1315-9","journal":"Acta Physiologiae Plantarum","publisher":"Springer Nature","title":"Erratum to: Inductive responses of some organic metabolites for osmotic homeostasis in peanut (Arachis hypogaea L.) seedlings during salt stress"}
+{
+  "retracted": false,
+  "timestamp": 1408060800000,
+  "updates": [
+    {
+      "timestamp": 1496000190010,
+      "identifier": {
+        "doi": "10.1007/s11738-014-1649-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11738-013-1315-9"
+  },
+  "journal": "Acta Physiologiae Plantarum",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inductive responses of some organic metabolites for osmotic homeostasis in peanut (Arachis hypogaea L.) seedlings during salt stress"
+}

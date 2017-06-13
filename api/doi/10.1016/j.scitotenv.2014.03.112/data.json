@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.scitotenv.2014.11.001","type":"err"},"doi":"10.1016/j.scitotenv.2014.03.112","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Nitrogen deposition in Spain: Modeled patterns and threatened habitats within the Natura 2000 network”"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496021754968,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2014.03.112"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nitrogen deposition in Spain: Modeled patterns and threatened habitats within the Natura 2000 network”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.bmc.2013.06.051","type":"err"},"doi":"10.1016/j.bmc.2013.04.065","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Nucleic acid changes during photodynamic inactivation of bacteria by cationic porphyrins” [Bioorg. Med. Chem. 21 (2013) 4311–4318]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496032828087,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2013.06.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2013.04.065"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nucleic acid changes during photodynamic inactivation of bacteria by cationic porphyrins” [Bioorg. Med. Chem. 21 (2013) 4311–4318]"
+}

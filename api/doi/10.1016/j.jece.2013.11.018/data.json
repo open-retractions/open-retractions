@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jece.2017.01.050","type":"erratum"},"doi":"10.1016/j.jece.2013.11.018","journal":"Journal of Environmental Chemical Engineering","publisher":"Elsevier BV","title":"Retraction notice to “Isolation, purification, characterization and mass spectroscopic analysis of carbonic anhydrase from Serratia sp. for sequestration of carbon dioxide and formation of calcite” [JECE 2/1 (2014) 31 - 39]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495723393544,
+      "identifier": {
+        "doi": "10.1016/j.jece.2017.01.050"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jece.2013.11.018"
+  },
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Isolation, purification, characterization and mass spectroscopic analysis of carbonic anhydrase from Serratia sp. for sequestration of carbon dioxide and formation of calcite” [JECE 2/1 (2014) 31 - 39]"
+}

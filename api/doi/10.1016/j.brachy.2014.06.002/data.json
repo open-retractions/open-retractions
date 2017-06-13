@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.brachy.2014.08.048","type":"err"},"doi":"10.1016/j.brachy.2014.06.002","journal":"Brachytherapy","publisher":"Elsevier BV","title":"Erratum to “Examining the relationship between pre- and postimplant geometry in prostate low-dose-rate brachytherapy and its correlation with dosimetric quality using the similarity concept” Brachytherapy 13 (2014) 471–480"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496015818704,
+      "identifier": {
+        "doi": "10.1016/j.brachy.2014.08.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brachy.2014.06.002"
+  },
+  "journal": "Brachytherapy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Examining the relationship between pre- and postimplant geometry in prostate low-dose-rate brachytherapy and its correlation with dosimetric quality using the similarity concept” Brachytherapy 13 (2014) 471–480"
+}

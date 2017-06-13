@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.it.2016.08.003","type":"erratum"},"doi":"10.1016/j.it.2015.05.007","journal":"Trends in Immunology","publisher":"Elsevier BV","title":"Harnessing Nanoparticles for Immune Modulation"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495638498483,
+      "identifier": {
+        "doi": "10.1016/j.it.2016.08.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.it.2015.05.007"
+  },
+  "journal": "Trends in Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Harnessing Nanoparticles for Immune Modulation"
+}

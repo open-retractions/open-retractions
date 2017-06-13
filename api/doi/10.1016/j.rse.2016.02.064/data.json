@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.rse.2016.07.001","type":"erratum"},"doi":"10.1016/j.rse.2016.02.064","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Corrigendum to “Satellite soil moisture for agricultural drought monitoring: Assessment of the SMOS derived Soil Water Deficit Index” [Remote Sens. Environ. 177 (2016) 277–286]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495726520840,
+      "identifier": {
+        "doi": "10.1016/j.rse.2016.07.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2016.02.064"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Satellite soil moisture for agricultural drought monitoring: Assessment of the SMOS derived Soil Water Deficit Index” [Remote Sens. Environ. 177 (2016) 277–286]"
+}

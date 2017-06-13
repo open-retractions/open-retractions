@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455235200000,"doi":"10.1007/s00216-016-9378-2","type":"correction"},"doi":"10.1007/s00216-015-9288-8","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Ultrasensitive determination of bisphenol A and its chlorinated derivatives in urine using a high-throughput UPLC-MS/MS method"}
+{
+  "retracted": false,
+  "timestamp": 1455235200000,
+  "updates": [
+    {
+      "timestamp": 1495644313236,
+      "identifier": {
+        "doi": "10.1007/s00216-016-9378-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-015-9288-8"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ultrasensitive determination of bisphenol A and its chlorinated derivatives in urine using a high-throughput UPLC-MS/MS method"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":760060800000,"doi":"10.2337/diab.43.2.340","type":"correction"},"doi":"10.2337/diab.43.1.143","journal":"Diabetes","publisher":"American Diabetes Association","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 760060800000,
+  "updates": [
+    {
+      "timestamp": 1496047502615,
+      "identifier": {
+        "doi": "10.2337/diab.43.2.340"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/diab.43.1.143"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Erratum"
+}

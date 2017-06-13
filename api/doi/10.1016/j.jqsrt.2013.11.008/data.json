@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jqsrt.2015.02.018","type":"erratum"},"doi":"10.1016/j.jqsrt.2013.11.008","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Corrigendum to “Infrared spectroscopy of 17O- and 18O-enriched carbon dioxide. Line positions and intensities in the 3200–4700cm−1 region. Global modelling of the line positions of 16O12C17O and 17O12C17O” [J. Quant. Spectrosc. Radiat. Transfer 137 (2014) 57–76]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496048407632,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2015.02.018"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2013.11.008"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Infrared spectroscopy of 17O- and 18O-enriched carbon dioxide. Line positions and intensities in the 3200–4700cm−1 region. Global modelling of the line positions of 16O12C17O and 17O12C17O” [J. Quant. Spectrosc. Radiat. Transfer 137 (2014) 57–76]"
+}

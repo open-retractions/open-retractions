@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1175558400000,"doi":"10.1073/pnas.0701775104","type":"correction"},"doi":"10.1073/pnas.0610999104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Manuelidis et al., Cells infected with scrapie and Creutzfeldt-Jakob disease agents produce intracellular 25-nm virus-like particles"}
+{
+  "retracted": false,
+  "timestamp": 1175558400000,
+  "updates": [
+    {
+      "timestamp": 1495941316790,
+      "identifier": {
+        "doi": "10.1073/pnas.0701775104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0610999104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Manuelidis et al., Cells infected with scrapie and Creutzfeldt-Jakob disease agents produce intracellular 25-nm virus-like particles"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435622400000,"doi":"10.1063/1.4923293","type":"correction"},"doi":"10.1063/1.4794792","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Interfaces of propylene carbonate” [J. Chem. Phys. 138, 114708 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1435622400000,
+  "updates": [
+    {
+      "timestamp": 1496010088262,
+      "identifier": {
+        "doi": "10.1063/1.4923293"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4794792"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Interfaces of propylene carbonate” [J. Chem. Phys. 138, 114708 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421712000000,"doi":"10.1016/j.tecto.2014.12.001","type":"err"},"doi":"10.1016/j.tecto.2014.04.046","journal":"Tectonophysics","publisher":"Elsevier BV","title":"Corrigendum to “The effect of multiple pre-existing weaknesses on formation and evolution of faults in extended sandbox models” [Tectonophysics 626 (2014) 197-212]"}
+{
+  "retracted": false,
+  "timestamp": 1421712000000,
+  "updates": [
+    {
+      "timestamp": 1496030640488,
+      "identifier": {
+        "doi": "10.1016/j.tecto.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tecto.2014.04.046"
+  },
+  "journal": "Tectonophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effect of multiple pre-existing weaknesses on formation and evolution of faults in extended sandbox models” [Tectonophysics 626 (2014) 197-212]"
+}

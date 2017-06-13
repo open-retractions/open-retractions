@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430956800000,"doi":"10.1016/j.molcel.2015.04.030","type":"err"},"doi":"10.1016/j.molcel.2014.03.043","journal":"Molecular Cell","publisher":"Elsevier BV","title":"A Role for WDR5 in Integrating Threonine 11 Phosphorylation to Lysine 4 Methylation on Histone H3 during Androgen Signaling and in Prostate Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1495998454133,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.04.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2014.03.043"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Role for WDR5 in Integrating Threonine 11 Phosphorylation to Lysine 4 Methylation on Histone H3 during Androgen Signaling and in Prostate Cancer"
+}

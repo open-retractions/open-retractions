@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363132800000,"doi":"10.1063/1.4795270","type":"correction"},"doi":"10.1063/1.4790796","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Publisher's Note: “Gravity currents in non-rectangular cross-section channels: Analytical and numerical solutions of the one-layer shallow-water model for high-Reynolds-number propagation” [Phys. Fluids 25, 026601 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1363132800000,
+  "updates": [
+    {
+      "timestamp": 1496004687675,
+      "identifier": {
+        "doi": "10.1063/1.4795270"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4790796"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Gravity currents in non-rectangular cross-section channels: Analytical and numerical solutions of the one-layer shallow-water model for high-Reynolds-number propagation” [Phys. Fluids 25, 026601 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407456000000,"doi":"10.1063/1.4892482","type":"correction"},"doi":"10.1063/1.4889091","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Electrical characterization of silver nanowire-graphene hybrid films from terahertz transmission and reflection measurements” [Appl. Phys. Lett. 105, 011101 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1407456000000,
+  "updates": [
+    {
+      "timestamp": 1495995767581,
+      "identifier": {
+        "doi": "10.1063/1.4892482"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4889091"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electrical characterization of silver nanowire-graphene hybrid films from terahertz transmission and reflection measurements” [Appl. Phys. Lett. 105, 011101 (2014)]"
+}

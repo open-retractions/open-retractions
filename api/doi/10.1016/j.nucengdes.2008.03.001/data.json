@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.nucengdes.2015.01.004","type":"err"},"doi":"10.1016/j.nucengdes.2008.03.001","journal":"Nuclear Engineering and Design","publisher":"Elsevier BV","title":"Corrigendum to “Limit load solutions of thick-walled cylinders with fully circumferential cracks under combined internal pressure and axial tension” [Nucl. Eng. Des. 238 (2008) 2155–2164]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496041767183,
+      "identifier": {
+        "doi": "10.1016/j.nucengdes.2015.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nucengdes.2008.03.001"
+  },
+  "journal": "Nuclear Engineering and Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Limit load solutions of thick-walled cylinders with fully circumferential cracks under combined internal pressure and axial tension” [Nucl. Eng. Des. 238 (2008) 2155–2164]"
+}

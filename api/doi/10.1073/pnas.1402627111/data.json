@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435017600000,"doi":"10.1073/pnas.1510490112","type":"correction"},"doi":"10.1073/pnas.1402627111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chow et al., CDK5 activator protein p25 preferentially binds and activates GSK3β"}
+{
+  "retracted": false,
+  "timestamp": 1435017600000,
+  "updates": [
+    {
+      "timestamp": 1496004378708,
+      "identifier": {
+        "doi": "10.1073/pnas.1510490112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1402627111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chow et al., CDK5 activator protein p25 preferentially binds and activates GSK3β"
+}

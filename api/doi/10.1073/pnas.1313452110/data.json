@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389052800000,"doi":"10.1073/pnas.1322697111","type":"correction"},"doi":"10.1073/pnas.1313452110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tisserant et al., Genome of an arbuscular mycorrhizal fungus provides insight into the oldest plant symbiosis"}
+{
+  "retracted": false,
+  "timestamp": 1389052800000,
+  "updates": [
+    {
+      "timestamp": 1496006420364,
+      "identifier": {
+        "doi": "10.1073/pnas.1322697111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1313452110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tisserant et al., Genome of an arbuscular mycorrhizal fungus provides insight into the oldest plant symbiosis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1136/thoraxjnl-2016-209333.263wthn","type":"correction"},"doi":"10.1136/thoraxjnl-2016-209333.263","journal":"Thorax","publisher":"BMJ","title":"Withdrawn notices"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495720948627,
+      "identifier": {
+        "doi": "10.1136/thoraxjnl-2016-209333.263wthn"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/thoraxjnl-2016-209333.263"
+  },
+  "journal": "Thorax",
+  "publisher": "BMJ",
+  "title": "Withdrawn notices"
+}

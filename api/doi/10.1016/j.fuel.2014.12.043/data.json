@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434326400000,"doi":"10.1016/j.fuel.2015.02.052","type":"err"},"doi":"10.1016/j.fuel.2014.12.043","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “Influence of minor components on precipitate formation and filterability of palm oil biodiesel” [Fuel 144 (2015) 130–136]"}
+{
+  "retracted": false,
+  "timestamp": 1434326400000,
+  "updates": [
+    {
+      "timestamp": 1496045785321,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2015.02.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2014.12.043"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of minor components on precipitate formation and filterability of palm oil biodiesel” [Fuel 144 (2015) 130–136]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403654400000,"doi":"10.2514/1.g000510","type":"correction"},"doi":"10.2514/1.59270","journal":"Journal of Guidance, Control, and Dynamics","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Passivity-Based Attitude Control on the Special Orthogonal Group of Rigid-Body Rotations"}
+{
+  "retracted": false,
+  "timestamp": 1403654400000,
+  "updates": [
+    {
+      "timestamp": 1496034457016,
+      "identifier": {
+        "doi": "10.2514/1.g000510"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.59270"
+  },
+  "journal": "Journal of Guidance, Control, and Dynamics",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Passivity-Based Attitude Control on the Special Orthogonal Group of Rigid-Body Rotations"
+}

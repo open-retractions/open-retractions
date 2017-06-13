@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411689600000,"doi":"10.1017/s0165115314000485","type":"corrected-article"},"doi":"10.1017/s0165115314000199","journal":"Itinerario","publisher":"Cambridge University Press (CUP)","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1411689600000,
+  "updates": [
+    {
+      "timestamp": 1496008715725,
+      "identifier": {
+        "doi": "10.1017/s0165115314000485"
+      },
+      "type": "corrected-article"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0165115314000199"
+  },
+  "journal": "Itinerario",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Corrigenda"
+}

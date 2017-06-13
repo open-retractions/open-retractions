@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1136/archdischild-2013-304871.cl","type":"correction"},"doi":"10.1136/archdischild-2013-304871","journal":"Archives of Disease in Childhood","publisher":"BMJ","title":"Clarification"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496046953996,
+      "identifier": {
+        "doi": "10.1136/archdischild-2013-304871.cl"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/archdischild-2013-304871"
+  },
+  "journal": "Archives of Disease in Childhood",
+  "publisher": "BMJ",
+  "title": "Clarification"
+}

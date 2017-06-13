@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482883200000,"doi":"10.1007/s13353-016-0386-x","type":"correction"},"doi":"10.1007/s13353-016-0379-9","journal":"Journal of Applied Genetics","publisher":"Springer Nature","title":"Erratum to: Plasma and saliva miR-21 expression in colorectal cancer patients"}
+{
+  "retracted": false,
+  "timestamp": 1482883200000,
+  "updates": [
+    {
+      "timestamp": 1495669857374,
+      "identifier": {
+        "doi": "10.1007/s13353-016-0386-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13353-016-0379-9"
+  },
+  "journal": "Journal of Applied Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Plasma and saliva miR-21 expression in colorectal cancer patients"
+}

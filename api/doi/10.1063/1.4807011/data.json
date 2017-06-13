@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371427200000,"doi":"10.1063/1.4811649","type":"correction"},"doi":"10.1063/1.4807011","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Two-beam spin noise spectroscopy” [Appl. Phys. Lett. 102, 202405 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1371427200000,
+  "updates": [
+    {
+      "timestamp": 1496026069165,
+      "identifier": {
+        "doi": "10.1063/1.4811649"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4807011"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Two-beam spin noise spectroscopy” [Appl. Phys. Lett. 102, 202405 (2013)]"
+}

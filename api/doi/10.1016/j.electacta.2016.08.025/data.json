@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491782400000,"doi":"10.1016/j.electacta.2017.02.123","type":"erratum"},"doi":"10.1016/j.electacta.2016.08.025","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Ionic liquid and hybrid ionic liquid/organic electrolytes for high temperature lithium-ion battery application” [Electrochim. Acta 216 (20) (October 2016) 24–36]"}
+{
+  "retracted": false,
+  "timestamp": 1491782400000,
+  "updates": [
+    {
+      "timestamp": 1495727045624,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2017.02.123"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2016.08.025"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ionic liquid and hybrid ionic liquid/organic electrolytes for high temperature lithium-ion battery application” [Electrochim. Acta 216 (20) (October 2016) 24–36]"
+}

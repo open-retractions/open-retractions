@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.atherosclerosis.2013.04.021","type":"err"},"doi":"10.1016/j.atherosclerosis.2012.09.024","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Pulse wave velocity is associated with early clinical outcome after ischemic stroke” [Atherosclerosis 225 (2) (2012) 348–52]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496017975636,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2013.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2012.09.024"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Pulse wave velocity is associated with early clinical outcome after ischemic stroke” [Atherosclerosis 225 (2) (2012) 348–52]"
+}

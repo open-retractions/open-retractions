@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bbadis.2014.07.020","type":"err"},"doi":"10.1016/j.bbadis.2012.08.014","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease","publisher":"Elsevier BV","title":"Corrigendum to “inhibition of CYP2E1 attenuates chronic alcohol intake-induced myocardial contractile dysfunction and apoptosis” [Biochim. Biophys. Acta (BBA) — Mol. Basis Dis. (1832) (1) (2013) 128–141]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1495995940707,
+      "identifier": {
+        "doi": "10.1016/j.bbadis.2014.07.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbadis.2012.08.014"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “inhibition of CYP2E1 attenuates chronic alcohol intake-induced myocardial contractile dysfunction and apoptosis” [Biochim. Biophys. Acta (BBA) — Mol. Basis Dis. (1832) (1) (2013) 128–141]"
+}

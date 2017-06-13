@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442361600000,"doi":"10.1186/s13058-015-0612-1","type":"correction"},"doi":"10.1186/s13058-014-0504-9","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Humanization of the mouse mammary gland by replacement of the luminal layer with genetically engineered preneoplastic human cells"}
+{
+  "retracted": false,
+  "timestamp": 1442361600000,
+  "updates": [
+    {
+      "timestamp": 1496031110595,
+      "identifier": {
+        "doi": "10.1186/s13058-015-0612-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13058-014-0504-9"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Humanization of the mouse mammary gland by replacement of the luminal layer with genetically engineered preneoplastic human cells"
+}

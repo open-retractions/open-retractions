@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410825600000,"doi":"10.1080/0952813x.2014.963389","type":"correction"},"doi":"10.1080/0952813x.2014.895105","journal":"Journal of Experimental & Theoretical Artificial Intelligence","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1410825600000,
+  "updates": [
+    {
+      "timestamp": 1495994077201,
+      "identifier": {
+        "doi": "10.1080/0952813x.2014.963389"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0952813x.2014.895105"
+  },
+  "journal": "Journal of Experimental & Theoretical Artificial Intelligence",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

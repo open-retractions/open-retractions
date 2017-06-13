@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.fuel.2013.07.106","type":"err"},"doi":"10.1016/j.fuel.2013.05.035","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “Efficiently trapping asphaltene-type materials from direct coal liquefaction residue using alkylsulfate-based ionic liquids” [Fuel 112 (2013) 289–294]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496038032309,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2013.07.106"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2013.05.035"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficiently trapping asphaltene-type materials from direct coal liquefaction residue using alkylsulfate-based ionic liquids” [Fuel 112 (2013) 289–294]"
+}

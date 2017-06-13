@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390867200000,"doi":"10.1371/annotation/6eec6403-e090-4283-aa34-34cc58ca0bbb","type":"correction"},"doi":"10.1371/journal.ppat.1003884","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Lu/BCAM Adhesion Glycoprotein Is a Receptor for Escherichia coli Cytotoxic Necrotizing Factor 1 (CNF1)"}
+{
+  "retracted": false,
+  "timestamp": 1390867200000,
+  "updates": [
+    {
+      "timestamp": 1496015296222,
+      "identifier": {
+        "doi": "10.1371/annotation/6eec6403-e090-4283-aa34-34cc58ca0bbb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003884"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Lu/BCAM Adhesion Glycoprotein Is a Receptor for Escherichia coli Cytotoxic Necrotizing Factor 1 (CNF1)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.advwatres.2014.09.010","type":"err"},"doi":"10.1016/j.advwatres.2014.08.007","journal":"Advances in Water Resources","publisher":"Elsevier BV","title":"Corrigendum to “Assessment of the impact of pore-scale mass-transfer restrictions on microbially-induced stable-isotope fractionation” [ADWR 74C (2014) 79–90]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496016500868,
+      "identifier": {
+        "doi": "10.1016/j.advwatres.2014.09.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.advwatres.2014.08.007"
+  },
+  "journal": "Advances in Water Resources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessment of the impact of pore-scale mass-transfer restrictions on microbially-induced stable-isotope fractionation” [ADWR 74C (2014) 79–90]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439424000000,"doi":"10.1007/s00464-015-4470-9","type":"correction"},"doi":"10.1007/s00464-015-4293-8","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: Laparoscopic ventral/incisional hernia repair: updated Consensus Development Conference based guidelines"}
+{
+  "retracted": false,
+  "timestamp": 1439424000000,
+  "updates": [
+    {
+      "timestamp": 1496023000307,
+      "identifier": {
+        "doi": "10.1007/s00464-015-4470-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-015-4293-8"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Laparoscopic ventral/incisional hernia repair: updated Consensus Development Conference based guidelines"
+}

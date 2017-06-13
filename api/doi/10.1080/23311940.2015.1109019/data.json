@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451520000000,"doi":"10.1080/23311940.2015.1130205","type":"correction"},"doi":"10.1080/23311940.2015.1109019","journal":"Cogent Physics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1451520000000,
+  "updates": [
+    {
+      "timestamp": 1496056132923,
+      "identifier": {
+        "doi": "10.1080/23311940.2015.1130205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23311940.2015.1109019"
+  },
+  "journal": "Cogent Physics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

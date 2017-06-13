@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.gloplacha.2014.09.001","type":"err"},"doi":"10.1016/j.gloplacha.2014.06.002","journal":"Global and Planetary Change","publisher":"Elsevier BV","title":"Corrigendum to “The impact of astronomical forcing on the Late Devonian greenhouse climate” [J. Glob. Planet. Chang. 120 C 2014 65–80]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496006588854,
+      "identifier": {
+        "doi": "10.1016/j.gloplacha.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gloplacha.2014.06.002"
+  },
+  "journal": "Global and Planetary Change",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The impact of astronomical forcing on the Late Devonian greenhouse climate” [J. Glob. Planet. Chang. 120 C 2014 65–80]"
+}

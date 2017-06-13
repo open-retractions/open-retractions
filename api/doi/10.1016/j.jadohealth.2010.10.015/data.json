@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.jadohealth.2014.06.001","type":"err"},"doi":"10.1016/j.jadohealth.2010.10.015","journal":"Journal of Adolescent Health","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496054919717,
+      "identifier": {
+        "doi": "10.1016/j.jadohealth.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jadohealth.2010.10.015"
+  },
+  "journal": "Journal of Adolescent Health",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1128/jcm.00831-16","type":"correction"},"doi":"10.1128/jcm.03104-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Hilbert et al., Development and Validation of a Highly Accurate Quantitative Real-Time PCR Assay for Diagnosis of Bacterial Vaginosis"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495722582960,
+      "identifier": {
+        "doi": "10.1128/jcm.00831-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.03104-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Hilbert et al., Development and Validation of a Highly Accurate Quantitative Real-Time PCR Assay for Diagnosis of Bacterial Vaginosis"
+}

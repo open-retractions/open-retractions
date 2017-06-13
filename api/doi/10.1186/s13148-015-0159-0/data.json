@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1186/s13148-016-0231-4","type":"correction"},"doi":"10.1186/s13148-015-0159-0","journal":"Clinical Epigenetics","publisher":"Springer Nature","title":"Erratum to: The integrative epigenomic-transcriptomic landscape of ER positive breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717433381,
+      "identifier": {
+        "doi": "10.1186/s13148-016-0231-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13148-015-0159-0"
+  },
+  "journal": "Clinical Epigenetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The integrative epigenomic-transcriptomic landscape of ER positive breast cancer"
+}

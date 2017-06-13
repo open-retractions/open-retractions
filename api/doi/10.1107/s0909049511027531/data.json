@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320105600000,"doi":"10.1107/s0909049511041951","type":"correction"},"doi":"10.1107/s0909049511027531","journal":"Journal of Synchrotron Radiation","publisher":"International Union of Crystallography (IUCr)","title":"Two-dimensional approach to fluorescence yield XANES measurement using a silicon drift detector. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1320105600000,
+  "updates": [
+    {
+      "timestamp": 1495815923672,
+      "identifier": {
+        "doi": "10.1107/s0909049511041951"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0909049511027531"
+  },
+  "journal": "Journal of Synchrotron Radiation",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Two-dimensional approach to fluorescence yield XANES measurement using a silicon drift detector. Erratum"
+}

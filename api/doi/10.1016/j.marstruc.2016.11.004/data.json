@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.marstruc.2017.02.003","type":"erratum"},"doi":"10.1016/j.marstruc.2016.11.004","journal":"Marine Structures","publisher":"Elsevier BV","title":"Corrigendum to “The frequency domain estimate of fatigue damage of combined load effects based on the rain-flow counting” [Mar. Struct. 52 (March 2017), 34–49]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495725068052,
+      "identifier": {
+        "doi": "10.1016/j.marstruc.2017.02.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marstruc.2016.11.004"
+  },
+  "journal": "Marine Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The frequency domain estimate of fatigue damage of combined load effects based on the rain-flow counting” [Mar. Struct. 52 (March 2017), 34–49]"
+}

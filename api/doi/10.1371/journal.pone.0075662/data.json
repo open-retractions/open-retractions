@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389916800000,"doi":"10.1371/annotation/13abca6d-18bb-451f-aa51-4f4f1d9c4dc9","type":"correction"},"doi":"10.1371/journal.pone.0075662","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Wavelet-Based Noise Reduction Algorithm and Its Clinical Evaluation in Cochlear Implants"}
+{
+  "retracted": false,
+  "timestamp": 1389916800000,
+  "updates": [
+    {
+      "timestamp": 1496013639909,
+      "identifier": {
+        "doi": "10.1371/annotation/13abca6d-18bb-451f-aa51-4f4f1d9c4dc9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075662"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Wavelet-Based Noise Reduction Algorithm and Its Clinical Evaluation in Cochlear Implants"
+}

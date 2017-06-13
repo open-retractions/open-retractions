@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1016/j.jnoncrysol.2013.06.021","type":"err"},"doi":"10.1016/j.jnoncrysol.2011.07.004","journal":"Journal of Non-Crystalline Solids","publisher":"Elsevier BV","title":"Corrigendum to “Mass and bond density measurements for PECVD a-SiCx:H thin films using Fourier transform-infrared spectroscopy” [J. Non-Cryst. Solids 357 (2011) 3602–3615]"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1496031424268,
+      "identifier": {
+        "doi": "10.1016/j.jnoncrysol.2013.06.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnoncrysol.2011.07.004"
+  },
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mass and bond density measurements for PECVD a-SiCx:H thin films using Fourier transform-infrared spectroscopy” [J. Non-Cryst. Solids 357 (2011) 3602–3615]"
+}

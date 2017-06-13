@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414540800000,"doi":"10.1080/09512748.2014.957519","type":"correction"},"doi":"10.1080/09512748.2014.948566","journal":"The Pacific Review","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1414540800000,
+  "updates": [
+    {
+      "timestamp": 1495999485999,
+      "identifier": {
+        "doi": "10.1080/09512748.2014.957519"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09512748.2014.948566"
+  },
+  "journal": "The Pacific Review",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

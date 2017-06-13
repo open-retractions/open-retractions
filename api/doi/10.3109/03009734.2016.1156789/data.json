@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463356800000,"doi":"10.1080/03009734.2016.1177959","type":"correction"},"doi":"10.3109/03009734.2016.1156789","journal":"Upsala Journal of Medical Sciences","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1463356800000,
+  "updates": [
+    {
+      "timestamp": 1495676820845,
+      "identifier": {
+        "doi": "10.1080/03009734.2016.1177959"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/03009734.2016.1156789"
+  },
+  "journal": "Upsala Journal of Medical Sciences",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

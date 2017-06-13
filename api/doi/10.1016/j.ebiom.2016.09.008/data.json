@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.ebiom.2017.01.002","type":"erratum"},"doi":"10.1016/j.ebiom.2016.09.008","journal":"EBioMedicine","publisher":"Elsevier BV","title":"Corrigendum to “Increased BOLD Signals Elicited by High Gamma Auditory Stimulation of the Left Auditory Cortex in Acute State Schizophrenia” [EBioMedicine 12 (2016) 143-149]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495673265020,
+      "identifier": {
+        "doi": "10.1016/j.ebiom.2017.01.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ebiom.2016.09.008"
+  },
+  "journal": "EBioMedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Increased BOLD Signals Elicited by High Gamma Auditory Stimulation of the Left Auditory Cortex in Acute State Schizophrenia” [EBioMedicine 12 (2016) 143-149]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1063/1.4831857","type":"correction"},"doi":"10.1063/1.4826157","journal":"Biomicrofluidics","publisher":"AIP Publishing","title":"Erratum: “Electro-entropic excluded volume effects on DNA looping and relaxation in nanochannels” [Biomicrofluidics 7, 054119 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495991630907,
+      "identifier": {
+        "doi": "10.1063/1.4831857"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4826157"
+  },
+  "journal": "Biomicrofluidics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electro-entropic excluded volume effects on DNA looping and relaxation in nanochannels” [Biomicrofluidics 7, 054119 (2013)]"
+}

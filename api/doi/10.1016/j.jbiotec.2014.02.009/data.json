@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1016/j.jbiotec.2016.06.031","type":"erratum"},"doi":"10.1016/j.jbiotec.2014.02.009","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “An amino acid depleted cell-free protein synthesis system for the incorporation of non-canonical amino acid analogs into proteins” [J. Biotechnol. 178 (2014) 12–22]"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495729412438,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2016.06.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2014.02.009"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An amino acid depleted cell-free protein synthesis system for the incorporation of non-canonical amino acid analogs into proteins” [J. Biotechnol. 178 (2014) 12–22]"
+}

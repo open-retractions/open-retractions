@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1323734400000,"doi":"10.1371/annotation/3b5aaa87-72b6-49d3-9ec9-f4a656e12e3a","type":"correction"},"doi":"10.1371/journal.pone.0026311","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Refinement of 1p36 Alterations Not Involving PRDM16 in Myeloid and Lymphoid Malignancies"}
+{
+  "retracted": false,
+  "timestamp": 1323734400000,
+  "updates": [
+    {
+      "timestamp": 1496023929479,
+      "identifier": {
+        "doi": "10.1371/annotation/3b5aaa87-72b6-49d3-9ec9-f4a656e12e3a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0026311"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Refinement of 1p36 Alterations Not Involving PRDM16 in Myeloid and Lymphoid Malignancies"
+}

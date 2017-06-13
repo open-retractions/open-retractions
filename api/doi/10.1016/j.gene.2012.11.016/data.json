@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368144000000,"doi":"10.1016/j.gene.2013.03.001","type":"err"},"doi":"10.1016/j.gene.2012.11.016","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Recombinase-mediated cassette exchange (RMCE) — A rapidly-expanding toolbox for targeted genomic modifications” [Gene 515 (2013) 1–27]"}
+{
+  "retracted": false,
+  "timestamp": 1368144000000,
+  "updates": [
+    {
+      "timestamp": 1496004485963,
+      "identifier": {
+        "doi": "10.1016/j.gene.2013.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2012.11.016"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Recombinase-mediated cassette exchange (RMCE) — A rapidly-expanding toolbox for targeted genomic modifications” [Gene 515 (2013) 1–27]"
+}

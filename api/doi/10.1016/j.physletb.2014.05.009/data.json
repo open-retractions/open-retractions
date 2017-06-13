@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1016/j.physletb.2014.07.037","type":"erratum"},"doi":"10.1016/j.physletb.2014.05.009","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Parallel texture structures with cofactor zeros in lepton sector” [Phys. Lett. B 733 (2014) 320]"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496056631526,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2014.07.037"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2014.05.009"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Parallel texture structures with cofactor zeros in lepton sector” [Phys. Lett. B 733 (2014) 320]"
+}

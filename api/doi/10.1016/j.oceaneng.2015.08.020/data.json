@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.oceaneng.2016.02.002","type":"erratum"},"doi":"10.1016/j.oceaneng.2015.08.020","journal":"Ocean Engineering","publisher":"Elsevier BV","title":"Erratum to “The resistance of ice breaking ship using the regression analysis of model tests” [Ocean Eng. 108C (2015) 692–703]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495643722402,
+      "identifier": {
+        "doi": "10.1016/j.oceaneng.2016.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oceaneng.2015.08.020"
+  },
+  "journal": "Ocean Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The resistance of ice breaking ship using the regression analysis of model tests” [Ocean Eng. 108C (2015) 692–703]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422489600000,"doi":"10.1063/1.4906935","type":"correction"},"doi":"10.1063/1.4904712","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Improved source design for p-type tunnel field-effect transistors: Towards truly complementary logic” [Appl. Phys. Lett. 105, 243506 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1422489600000,
+  "updates": [
+    {
+      "timestamp": 1496040643489,
+      "identifier": {
+        "doi": "10.1063/1.4906935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4904712"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Improved source design for p-type tunnel field-effect transistors: Towards truly complementary logic” [Appl. Phys. Lett. 105, 243506 (2014)]"
+}

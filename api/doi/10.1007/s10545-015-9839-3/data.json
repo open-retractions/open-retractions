@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434412800000,"doi":"10.1007/s10545-015-9867-z","type":"correction"},"doi":"10.1007/s10545-015-9839-3","journal":"Journal of Inherited Metabolic Disease","publisher":"Springer Nature","title":"Erratum to: The phenotypic spectrum of organic acidurias and urea cycle disorders. Part 1: the initial presentation"}
+{
+  "retracted": false,
+  "timestamp": 1434412800000,
+  "updates": [
+    {
+      "timestamp": 1496007840970,
+      "identifier": {
+        "doi": "10.1007/s10545-015-9867-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10545-015-9839-3"
+  },
+  "journal": "Journal of Inherited Metabolic Disease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The phenotypic spectrum of organic acidurias and urea cycle disorders. Part 1: the initial presentation"
+}

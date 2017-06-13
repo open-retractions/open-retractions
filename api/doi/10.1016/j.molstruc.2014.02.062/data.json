@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1016/j.molstruc.2014.06.008","type":"err"},"doi":"10.1016/j.molstruc.2014.02.062","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Theoretical and experimental investigation of (E)-2-([3,4-dimethylphenyl)imino]methyl)-3-methoxyphenol: Enol–keto tautomerism, spectroscopic properties, NLO, NBO and NPA analysis” [J. Mol. Struct. 1065–1066 (2014) 210–222]"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496048835536,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2014.06.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2014.02.062"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Theoretical and experimental investigation of (E)-2-([3,4-dimethylphenyl)imino]methyl)-3-methoxyphenol: Enol–keto tautomerism, spectroscopic properties, NLO, NBO and NPA analysis” [J. Mol. Struct. 1065–1066 (2014) 210–222]"
+}

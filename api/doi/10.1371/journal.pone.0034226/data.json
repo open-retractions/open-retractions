@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344384000000,"doi":"10.1371/annotation/bd906c17-a44b-443d-9051-7d31d8e47afa","type":"correction"},"doi":"10.1371/journal.pone.0034226","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: SweetBac: A New Approach for the Production of Mammalianised Glycoproteins in Insect Cells"}
+{
+  "retracted": false,
+  "timestamp": 1344384000000,
+  "updates": [
+    {
+      "timestamp": 1495940503373,
+      "identifier": {
+        "doi": "10.1371/annotation/bd906c17-a44b-443d-9051-7d31d8e47afa"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0034226"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: SweetBac: A New Approach for the Production of Mammalianised Glycoproteins in Insect Cells"
+}

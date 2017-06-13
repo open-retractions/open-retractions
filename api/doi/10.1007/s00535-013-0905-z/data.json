@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407542400000,"doi":"10.1007/s00535-014-0985-4","type":"correction"},"doi":"10.1007/s00535-013-0905-z","journal":"Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Aspirin and non-aspirin NSAIDs increase risk of colonic diverticular bleeding: a systematic review and meta-analysis"}
+{
+  "retracted": false,
+  "timestamp": 1407542400000,
+  "updates": [
+    {
+      "timestamp": 1495998982798,
+      "identifier": {
+        "doi": "10.1007/s00535-014-0985-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00535-013-0905-z"
+  },
+  "journal": "Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Aspirin and non-aspirin NSAIDs increase risk of colonic diverticular bleeding: a systematic review and meta-analysis"
+}

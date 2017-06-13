@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1141171200000,"doi":"10.1063/1.2178489","type":"erratum"},"doi":"10.1063/1.2160507","journal":"Low Temperature Physics","publisher":"AIP Publishing","title":"Erratum: Investigation of the structure of a composite condensate for He-II at T=0 [Low Temp. Phys. 32, 38 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1141171200000,
+  "updates": [
+    {
+      "timestamp": 1495989994897,
+      "identifier": {
+        "doi": "10.1063/1.2178489"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2160507"
+  },
+  "journal": "Low Temperature Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Investigation of the structure of a composite condensate for He-II at T=0 [Low Temp. Phys. 32, 38 (2006)]"
+}

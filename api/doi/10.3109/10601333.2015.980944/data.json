@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429488000000,"doi":"10.3109/10601333.2015.1034450","type":"correction"},"doi":"10.3109/10601333.2015.980944","journal":"Clinical Research and Regulatory Affairs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1429488000000,
+  "updates": [
+    {
+      "timestamp": 1496046519298,
+      "identifier": {
+        "doi": "10.3109/10601333.2015.1034450"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10601333.2015.980944"
+  },
+  "journal": "Clinical Research and Regulatory Affairs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

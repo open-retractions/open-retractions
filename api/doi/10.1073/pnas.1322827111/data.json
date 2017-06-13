@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1073/pnas.1402462111","type":"correction"},"doi":"10.1073/pnas.1322827111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhi et al., Structural insights into gene repression by the orphan nuclear receptor SHP"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1496020297148,
+      "identifier": {
+        "doi": "10.1073/pnas.1402462111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1322827111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhi et al., Structural insights into gene repression by the orphan nuclear receptor SHP"
+}

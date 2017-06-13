@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1186/s12916-016-0765-5","type":"correction"},"doi":"10.1186/s12916-016-0701-8","journal":"BMC Medicine","publisher":"Springer Nature","title":"Erratum to: An optimised age-based dosing regimen for single low-dose primaquine for blocking malaria transmission in Cambodia"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495664176317,
+      "identifier": {
+        "doi": "10.1186/s12916-016-0765-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12916-016-0701-8"
+  },
+  "journal": "BMC Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An optimised age-based dosing regimen for single low-dose primaquine for blocking malaria transmission in Cambodia"
+}

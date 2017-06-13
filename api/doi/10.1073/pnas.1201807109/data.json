@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351555200000,"doi":"10.1073/pnas.1217404109","type":"correction"},"doi":"10.1073/pnas.1201807109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Li et al., Energy landscape and multiroute folding of topologically complex proteins adenylate kinase and 2out-knot"}
+{
+  "retracted": false,
+  "timestamp": 1351555200000,
+  "updates": [
+    {
+      "timestamp": 1497268951529,
+      "identifier": {
+        "doi": "10.1073/pnas.1217404109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1201807109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Li et al., Energy landscape and multiroute folding of topologically complex proteins adenylate kinase and 2out-knot"
+}

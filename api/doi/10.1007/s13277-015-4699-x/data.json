@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457740800000,"doi":"10.1007/s13277-016-5008-z","type":"correction"},"doi":"10.1007/s13277-015-4699-x","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Elevated growth differentiation factor 15 expression predicts poor prognosis in epithelial ovarian cancer patients"}
+{
+  "retracted": false,
+  "timestamp": 1457740800000,
+  "updates": [
+    {
+      "timestamp": 1496130176895,
+      "identifier": {
+        "doi": "10.1007/s13277-016-5008-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-4699-x"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Elevated growth differentiation factor 15 expression predicts poor prognosis in epithelial ovarian cancer patients"
+}

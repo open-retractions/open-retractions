@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401148800000,"doi":"10.1136/bmj.g3563","type":"correction"},"doi":"10.1136/bmj.g3306","journal":"BMJ","publisher":"BMJ","title":"Adverse effects of statins"}
+{
+  "retracted": false,
+  "timestamp": 1401148800000,
+  "updates": [
+    {
+      "timestamp": 1496041962599,
+      "identifier": {
+        "doi": "10.1136/bmj.g3563"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g3306"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Adverse effects of statins"
+}

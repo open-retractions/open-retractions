@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397433600000,"doi":"10.1016/j.ccr.2014.03.029","type":"erratum"},"doi":"10.1016/j.ccr.2013.11.003","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Discovery and Characterization of Super-Enhancer-Associated Dependencies in Diffuse Large B Cell Lymphoma"}
+{
+  "retracted": false,
+  "timestamp": 1397433600000,
+  "updates": [
+    {
+      "timestamp": 1496032621843,
+      "identifier": {
+        "doi": "10.1016/j.ccr.2014.03.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2013.11.003"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Discovery and Characterization of Super-Enhancer-Associated Dependencies in Diffuse Large B Cell Lymphoma"
+}

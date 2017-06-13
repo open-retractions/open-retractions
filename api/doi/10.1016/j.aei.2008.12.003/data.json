@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356998400000,"doi":"10.1016/j.aei.2012.11.002","type":"err"},"doi":"10.1016/j.aei.2008.12.003","journal":"Advanced Engineering Informatics","publisher":"Elsevier BV","title":"Corrigendum to “Complex flow simulation in natural aquifer” [Adv. Eng. Inform. 23 (2009) 288–293]: An algorithm for parallel flow simulations in the finite element framework"}
+{
+  "retracted": false,
+  "timestamp": 1356998400000,
+  "updates": [
+    {
+      "timestamp": 1495981878273,
+      "identifier": {
+        "doi": "10.1016/j.aei.2012.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aei.2008.12.003"
+  },
+  "journal": "Advanced Engineering Informatics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Complex flow simulation in natural aquifer” [Adv. Eng. Inform. 23 (2009) 288–293]: An algorithm for parallel flow simulations in the finite element framework"
+}

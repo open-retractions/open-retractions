@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.rmr.2014.02.003","type":"err"},"doi":"10.1016/j.rmr.2013.09.007","journal":"Revue des Maladies Respiratoires","publisher":"Elsevier BV","title":"Erratum à « Recommandations pratiques pour le diagnostic et la prise en charge de la fibrose pulmonaire idiopathique » [Rev. Mal. Respir. 30 (10) 879–902]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496022352640,
+      "identifier": {
+        "doi": "10.1016/j.rmr.2014.02.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmr.2013.09.007"
+  },
+  "journal": "Revue des Maladies Respiratoires",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Recommandations pratiques pour le diagnostic et la prise en charge de la fibrose pulmonaire idiopathique » [Rev. Mal. Respir. 30 (10) 879–902]"
+}

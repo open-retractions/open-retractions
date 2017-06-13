@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1215734400000,"doi":"10.1371/annotation/9f8332b9-fdc0-48e8-967b-3c504024b9d1","type":"correction"},"doi":"10.1371/journal.pone.0002573","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: An Accurate Definition of the Status of Inactive Hepatitis B Virus Carrier by a Combination of Biomarkers (FibroTest-ActiTest) and Viral Load"}
+{
+  "retracted": false,
+  "timestamp": 1215734400000,
+  "updates": [
+    {
+      "timestamp": 1496160202772,
+      "identifier": {
+        "doi": "10.1371/annotation/9f8332b9-fdc0-48e8-967b-3c504024b9d1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002573"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: An Accurate Definition of the Status of Inactive Hepatitis B Virus Carrier by a Combination of Biomarkers (FibroTest-ActiTest) and Viral Load"
+}

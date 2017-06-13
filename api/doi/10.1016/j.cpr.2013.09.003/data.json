@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.cpr.2013.11.003","type":"err"},"doi":"10.1016/j.cpr.2013.09.003","journal":"Clinical Psychology Review","publisher":"Elsevier BV","title":"Corrigendum to “Peer similarity and influence for weight-related outcomes in adolescence: A meta-analytic review” [Clin. Psychol. Rev. 33 (2013) 1218–1236]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496006540219,
+      "identifier": {
+        "doi": "10.1016/j.cpr.2013.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpr.2013.09.003"
+  },
+  "journal": "Clinical Psychology Review",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Peer similarity and influence for weight-related outcomes in adolescence: A meta-analytic review” [Clin. Psychol. Rev. 33 (2013) 1218–1236]"
+}

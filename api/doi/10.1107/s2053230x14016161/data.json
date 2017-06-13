@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455840000000,"doi":"10.1107/s2053230x16000777","type":"correction"},"doi":"10.1107/s2053230x14016161","journal":"Acta Crystallographica Section F Structural Biology Communications","publisher":"International Union of Crystallography (IUCr)","title":"Re-refinement of 4xan: hen egg-white lysozyme with carboplatin in sodium bromide solution"}
+{
+  "retracted": false,
+  "timestamp": 1455840000000,
+  "updates": [
+    {
+      "timestamp": 1495646104707,
+      "identifier": {
+        "doi": "10.1107/s2053230x16000777"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s2053230x14016161"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Re-refinement of 4xan: hen egg-white lysozyme with carboplatin in sodium bromide solution"
+}

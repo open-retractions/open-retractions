@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1371/annotation/a1d15675-2942-41ba-92f4-3dad6bc6cac6","type":"correction"},"doi":"10.1371/journal.pone.0060717","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Klebsiella Phage vB_KleM-RaK2 — A Giant Singleton Virus of the Family Myoviridae"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496012544697,
+      "identifier": {
+        "doi": "10.1371/annotation/a1d15675-2942-41ba-92f4-3dad6bc6cac6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0060717"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Klebsiella Phage vB_KleM-RaK2 — A Giant Singleton Virus of the Family Myoviridae"
+}

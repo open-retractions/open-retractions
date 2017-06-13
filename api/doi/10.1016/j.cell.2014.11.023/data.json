@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.cell.2014.12.024","type":"err"},"doi":"10.1016/j.cell.2014.11.023","journal":"Cell","publisher":"Elsevier BV","title":"Environment Drives Selection and Function of Enhancers Controlling Tissue-Specific Macrophage Identities"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496037339810,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.12.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.11.023"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Environment Drives Selection and Function of Enhancers Controlling Tissue-Specific Macrophage Identities"
+}

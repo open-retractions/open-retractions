@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.burns.2013.06.001","type":"err"},"doi":"10.1016/j.burns.2012.11.008","journal":"Burns","publisher":"Elsevier BV","title":"Corrigendum to ‘A meta-analysis of trials using the intention to treat principle for glutamine supplementation in critically ill patients with burn’ [Burns 39 (2013) 565–570]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496053004530,
+      "identifier": {
+        "doi": "10.1016/j.burns.2013.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.burns.2012.11.008"
+  },
+  "journal": "Burns",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A meta-analysis of trials using the intention to treat principle for glutamine supplementation in critically ill patients with burn’ [Burns 39 (2013) 565–570]"
+}

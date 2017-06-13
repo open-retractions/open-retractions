@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383177600000,"doi":"10.1016/j.celrep.2013.10.023","type":"err"},"doi":"10.1016/j.celrep.2013.09.007","journal":"Cell Reports","publisher":"Elsevier BV","title":"Intermittent Transcription Dynamics for the Rapid Production of Long Transcripts of High Fidelity"}
+{
+  "retracted": false,
+  "timestamp": 1383177600000,
+  "updates": [
+    {
+      "timestamp": 1495991262721,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.10.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.09.007"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Intermittent Transcription Dynamics for the Rapid Production of Long Transcripts of High Fidelity"
+}

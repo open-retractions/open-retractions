@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.sab.2013.05.027","type":"err"},"doi":"10.1016/j.sab.2011.09.008","journal":"Spectrochimica Acta Part B: Atomic Spectroscopy","publisher":"Elsevier BV","title":"Corrigendum to “Quantitative measurement of Au and Fe in ferromagnetic nanoparticles with Laser Induced Breakdown Spectroscopy using a polymer-based gel matrix” [Spectrochim. Acta Part B 66 (2011) 726–732]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496025374229,
+      "identifier": {
+        "doi": "10.1016/j.sab.2013.05.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sab.2011.09.008"
+  },
+  "journal": "Spectrochimica Acta Part B: Atomic Spectroscopy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantitative measurement of Au and Fe in ferromagnetic nanoparticles with Laser Induced Breakdown Spectroscopy using a polymer-based gel matrix” [Spectrochim. Acta Part B 66 (2011) 726–732]"
+}

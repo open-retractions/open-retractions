@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.ajem.2016.05.002","type":"err"},"doi":"10.1016/j.ajem.2015.12.029","journal":"The American Journal of Emergency Medicine","publisher":"Elsevier BV","title":"Erratum to “Serial change of C1 inhibitor in patients with sepsis—a preliminary report” [Volume 34, Issue 3, March 2016, pages 594-598]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495675480720,
+      "identifier": {
+        "doi": "10.1016/j.ajem.2016.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajem.2015.12.029"
+  },
+  "journal": "The American Journal of Emergency Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Serial change of C1 inhibitor in patients with sepsis—a preliminary report” [Volume 34, Issue 3, March 2016, pages 594-598]"
+}

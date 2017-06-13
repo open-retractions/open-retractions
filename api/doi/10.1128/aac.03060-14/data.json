@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1128/aac.03100-15","type":"correction"},"doi":"10.1128/aac.03060-14","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Yang et al., Resistome Analysis of Enterobacter cloacae CY01, an Extensively Drug-Resistant Strain Producing VIM-1 Metallo-β-Lactamase from China"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641059258,
+      "identifier": {
+        "doi": "10.1128/aac.03100-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.03060-14"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Yang et al., Resistome Analysis of Enterobacter cloacae CY01, an Extensively Drug-Resistant Strain Producing VIM-1 Metallo-β-Lactamase from China"
+}

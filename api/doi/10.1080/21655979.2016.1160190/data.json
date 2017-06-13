@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469491200000,"doi":"10.1080/21655979.2016.1200908","type":"correction"},"doi":"10.1080/21655979.2016.1160190","journal":"Bioengineered","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1469491200000,
+  "updates": [
+    {
+      "timestamp": 1495728604380,
+      "identifier": {
+        "doi": "10.1080/21655979.2016.1200908"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21655979.2016.1160190"
+  },
+  "journal": "Bioengineered",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

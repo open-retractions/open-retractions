@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-2495664000000,"doi":"10.1007/bf02392514","type":"correction"},"doi":"10.1007/bf02392506","journal":"Acta Mathematica","publisher":"International Press of Boston","title":"Erratum to: Etude des surfaces asymptotiques"}
+{
+  "retracted": false,
+  "timestamp": -2495664000000,
+  "updates": [
+    {
+      "timestamp": 1495823243634,
+      "identifier": {
+        "doi": "10.1007/bf02392514"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02392506"
+  },
+  "journal": "Acta Mathematica",
+  "publisher": "International Press of Boston",
+  "title": "Erratum to: Etude des surfaces asymptotiques"
+}

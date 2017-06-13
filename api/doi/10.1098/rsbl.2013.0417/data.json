@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382486400000,"doi":"10.1098/rsbl.2013.0788","type":"correction"},"doi":"10.1098/rsbl.2013.0417","journal":"Biology Letters","publisher":"The Royal Society","title":"European birds adjust their flight initiation distance to road speed limits"}
+{
+  "retracted": false,
+  "timestamp": 1382486400000,
+  "updates": [
+    {
+      "timestamp": 1496048466562,
+      "identifier": {
+        "doi": "10.1098/rsbl.2013.0788"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2013.0417"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "European birds adjust their flight initiation distance to road speed limits"
+}

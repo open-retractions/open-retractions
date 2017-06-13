@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1107/s1600576714026028","type":"correction"},"doi":"10.1107/s1600576714012114","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"An X-ray diffractometer using mirage diffraction. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496030949196,
+      "identifier": {
+        "doi": "10.1107/s1600576714026028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600576714012114"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "An X-ray diffractometer using mirage diffraction. Erratum"
+}

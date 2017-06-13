@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1063/1.4860977","type":"correction"},"doi":"10.1063/1.4833415","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Ultrafast and steady-state laser heating effects on electron relaxation and phonon coupling mechanisms in thin gold films” [Appl. Phys. Lett. 103, 211910 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496012297727,
+      "identifier": {
+        "doi": "10.1063/1.4860977"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4833415"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Ultrafast and steady-state laser heating effects on electron relaxation and phonon coupling mechanisms in thin gold films” [Appl. Phys. Lett. 103, 211910 (2013)]"
+}

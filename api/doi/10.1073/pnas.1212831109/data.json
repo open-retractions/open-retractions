@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1353974400000,"doi":"10.1073/pnas.1222800110","type":"correction"},"doi":"10.1073/pnas.1212831109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Omsland et al., Developmental stage-specific metabolic and transcriptional activity of Chlamydia trachomatis in an axenic medium"}
+{
+  "retracted": false,
+  "timestamp": 1353974400000,
+  "updates": [
+    {
+      "timestamp": 1495984849548,
+      "identifier": {
+        "doi": "10.1073/pnas.1222800110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1212831109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Omsland et al., Developmental stage-specific metabolic and transcriptional activity of Chlamydia trachomatis in an axenic medium"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.bej.2014.02.010","type":"erratum"},"doi":"10.1016/j.bej.2013.04.026","journal":"Biochemical Engineering Journal","publisher":"Elsevier BV","title":"Erratum to ‘Characterization of a thermophilic l-arabinose isomerase from Thermoanaerobacterium saccharolyticum NTOU1’ [Biochem. Eng. J. 83 (2014) 121–128]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496019990333,
+      "identifier": {
+        "doi": "10.1016/j.bej.2014.02.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bej.2013.04.026"
+  },
+  "journal": "Biochemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Characterization of a thermophilic l-arabinose isomerase from Thermoanaerobacterium saccharolyticum NTOU1’ [Biochem. Eng. J. 83 (2014) 121–128]"
+}

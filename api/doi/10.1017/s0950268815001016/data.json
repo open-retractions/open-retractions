@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1017/s0950268815001946","type":"correction"},"doi":"10.1017/s0950268815001016","journal":"Epidemiology and Infection","publisher":"Cambridge University Press (CUP)","title":"A large Great Britain-wide outbreak of STEC O157 phage type 8 linked to handling of raw leeks and potatoes – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496025200474,
+      "identifier": {
+        "doi": "10.1017/s0950268815001946"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0950268815001016"
+  },
+  "journal": "Epidemiology and Infection",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "A large Great Britain-wide outbreak of STEC O157 phage type 8 linked to handling of raw leeks and potatoes – CORRIGENDUM"
+}

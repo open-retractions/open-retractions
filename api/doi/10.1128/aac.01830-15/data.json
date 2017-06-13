@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1128/aac.00483-16","type":"correction"},"doi":"10.1128/aac.01830-15","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Chirehwa et al., Model-Based Evaluation of Higher Doses of Rifampin Using a Semimechanistic Model Incorporating Autoinduction and Saturation of Hepatic Extraction"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495664714967,
+      "identifier": {
+        "doi": "10.1128/aac.00483-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.01830-15"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Chirehwa et al., Model-Based Evaluation of Higher Doses of Rifampin Using a Semimechanistic Model Incorporating Autoinduction and Saturation of Hepatic Extraction"
+}

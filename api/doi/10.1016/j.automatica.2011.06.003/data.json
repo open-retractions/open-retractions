@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.automatica.2014.03.023","type":"err"},"doi":"10.1016/j.automatica.2011.06.003","journal":"Automatica","publisher":"Elsevier BV","title":"Corrigendum to “Stability analysis for linear delayed systems via an optimally dividing delay interval approach” [Automatica 47 (2011) 2126–2129]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496037754292,
+      "identifier": {
+        "doi": "10.1016/j.automatica.2014.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.automatica.2011.06.003"
+  },
+  "journal": "Automatica",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stability analysis for linear delayed systems via an optimally dividing delay interval approach” [Automatica 47 (2011) 2126–2129]"
+}

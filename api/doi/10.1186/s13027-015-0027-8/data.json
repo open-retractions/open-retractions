@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1186/s13027-016-0048-y","type":"correction"},"doi":"10.1186/s13027-015-0027-8","journal":"Infectious Agents and Cancer","publisher":"Springer Nature","title":"Erratum to: Human papillomavirus types in non-cervical high-grade intraepithelial neoplasias and invasive carcinomas from San Luis Potosí, Mexico: a retrospective cross-sectional study"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648091142,
+      "identifier": {
+        "doi": "10.1186/s13027-016-0048-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13027-015-0027-8"
+  },
+  "journal": "Infectious Agents and Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Human papillomavirus types in non-cervical high-grade intraepithelial neoplasias and invasive carcinomas from San Luis Potosí, Mexico: a retrospective cross-sectional study"
+}

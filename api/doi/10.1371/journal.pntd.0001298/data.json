@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412640000000,"doi":"10.1371/journal.pntd.0003293","type":"correction"},"doi":"10.1371/journal.pntd.0001298","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Activity In Vivo of Anti-Trypanosoma cruzi Compounds Selected from a High Throughput Screening"}
+{
+  "retracted": false,
+  "timestamp": 1412640000000,
+  "updates": [
+    {
+      "timestamp": 1496012700151,
+      "identifier": {
+        "doi": "10.1371/journal.pntd.0003293"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0001298"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Activity In Vivo of Anti-Trypanosoma cruzi Compounds Selected from a High Throughput Screening"
+}

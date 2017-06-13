@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.agee.2014.06.023","type":"err"},"doi":"10.1016/j.agee.2011.12.007","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to “Long-term nitrate loss along an agricultural intensity gradient in the Upper Midwest USA” [Agric. Ecosyst. Environ. 149 (2012) 10–19]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496048864156,
+      "identifier": {
+        "doi": "10.1016/j.agee.2014.06.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2011.12.007"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Long-term nitrate loss along an agricultural intensity gradient in the Upper Midwest USA” [Agric. Ecosyst. Environ. 149 (2012) 10–19]"
+}

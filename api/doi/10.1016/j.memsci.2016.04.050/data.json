@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.memsci.2016.08.063","type":"erratum"},"doi":"10.1016/j.memsci.2016.04.050","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Coating porous membranes with a photocatalyst: Comparison of LbL self-assembly and plasma-enhanced CVD techniques” [J. Membr. Sci. 514 (2016) 340–349]"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495742377442,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2016.08.063"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2016.04.050"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Coating porous membranes with a photocatalyst: Comparison of LbL self-assembly and plasma-enhanced CVD techniques” [J. Membr. Sci. 514 (2016) 340–349]"
+}

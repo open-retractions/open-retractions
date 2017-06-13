@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359676800000,"doi":"10.1063/1.4790401","type":"correction"},"doi":"10.1063/1.3693329","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Note: Volume errors and equimolar surfaces” [J. Chem. Phys. 136, 116102 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1359676800000,
+  "updates": [
+    {
+      "timestamp": 1495993215058,
+      "identifier": {
+        "doi": "10.1063/1.4790401"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3693329"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Note: Volume errors and equimolar surfaces” [J. Chem. Phys. 136, 116102 (2012)]"
+}

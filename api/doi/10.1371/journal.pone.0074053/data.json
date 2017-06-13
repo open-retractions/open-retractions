@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378857600000,"doi":"10.1371/annotation/416be1ef-f439-445a-96f8-b1d2f01c6957","type":"correction"},"doi":"10.1371/journal.pone.0074053","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Distal Effect of Amino Acid Substitutions in CYP2C9 Polymorphic Variants Causes Differences in Interatomic Interactions against (S)-Warfarin"}
+{
+  "retracted": false,
+  "timestamp": 1378857600000,
+  "updates": [
+    {
+      "timestamp": 1496053921865,
+      "identifier": {
+        "doi": "10.1371/annotation/416be1ef-f439-445a-96f8-b1d2f01c6957"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074053"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Distal Effect of Amino Acid Substitutions in CYP2C9 Polymorphic Variants Causes Differences in Interatomic Interactions against (S)-Warfarin"
+}

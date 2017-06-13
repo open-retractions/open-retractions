@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487635200000,"doi":"10.1007/s13198-017-0586-8","type":"correction"},"doi":"10.1007/s13198-014-0263-0","journal":"International Journal of System Assurance Engineering and Management","publisher":"Springer Nature","title":"Erratum to: Energy efficient clearance routing in WSN"}
+{
+  "retracted": false,
+  "timestamp": 1487635200000,
+  "updates": [
+    {
+      "timestamp": 1495721710534,
+      "identifier": {
+        "doi": "10.1007/s13198-017-0586-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13198-014-0263-0"
+  },
+  "journal": "International Journal of System Assurance Engineering and Management",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Energy efficient clearance routing in WSN"
+}

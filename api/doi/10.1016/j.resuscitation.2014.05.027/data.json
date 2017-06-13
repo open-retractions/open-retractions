@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.resuscitation.2014.12.012","type":"err"},"doi":"10.1016/j.resuscitation.2014.05.027","journal":"Resuscitation","publisher":"Elsevier BV","title":"Corrigendum to “Cognitive function and quality of life after successful resuscitation from cardiac arrest” [Resuscitation 85 (2014) 1269–1274]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496033241018,
+      "identifier": {
+        "doi": "10.1016/j.resuscitation.2014.12.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resuscitation.2014.05.027"
+  },
+  "journal": "Resuscitation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cognitive function and quality of life after successful resuscitation from cardiac arrest” [Resuscitation 85 (2014) 1269–1274]"
+}

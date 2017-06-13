@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474243200000,"doi":"10.1136/bcr-2016-215920corr1","type":"correction"},"doi":"10.1136/bcr-2016-215920","journal":"BMJ Case Reports","publisher":"BMJ","title":"Erratum:What is inside the hernia sac?"}
+{
+  "retracted": false,
+  "timestamp": 1474243200000,
+  "updates": [
+    {
+      "timestamp": 1495640929327,
+      "identifier": {
+        "doi": "10.1136/bcr-2016-215920corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bcr-2016-215920"
+  },
+  "journal": "BMJ Case Reports",
+  "publisher": "BMJ",
+  "title": "Erratum:What is inside the hernia sac?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1080/00313831.2014.992160","type":"correction"},"doi":"10.1080/00313831.2014.965792","journal":"Scandinavian Journal of Educational Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496028176281,
+      "identifier": {
+        "doi": "10.1080/00313831.2014.992160"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00313831.2014.965792"
+  },
+  "journal": "Scandinavian Journal of Educational Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

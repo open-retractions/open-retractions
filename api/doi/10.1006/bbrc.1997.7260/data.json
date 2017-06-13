@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414108800000,"doi":"10.1016/j.bbrc.2014.09.006","type":"erratum"},"doi":"10.1006/bbrc.1997.7260","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Retraction notice to NKR-P1A protein, an activating receptor of rat natural killer cells, binds to the chitobiose core of uncompletely glycosylated N-linked glycans, and to linear chitooligomers [Biochem. Biophys. Res. Chem. 238 (1997) 149–153]"}
+{
+  "retracted": false,
+  "timestamp": 1414108800000,
+  "updates": [
+    {
+      "timestamp": 1496030410920,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2014.09.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1006/bbrc.1997.7260"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to NKR-P1A protein, an activating receptor of rat natural killer cells, binds to the chitobiose core of uncompletely glycosylated N-linked glycans, and to linear chitooligomers [Biochem. Biophys. Res. Chem. 238 (1997) 149–153]"
+}

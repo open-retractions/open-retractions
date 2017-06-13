@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.pgeola.2015.05.004","type":"err"},"doi":"10.1016/j.pgeola.2015.01.001","journal":"Proceedings of the Geologists' Association","publisher":"Elsevier BV","title":"Erratum to “Geological exploration of South Atlantic islands and its contributions to the continental drift debate of the early 20th century” [Proc. Geol. Assoc. 126 (2) (2015) 266–281]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496023250672,
+      "identifier": {
+        "doi": "10.1016/j.pgeola.2015.05.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pgeola.2015.01.001"
+  },
+  "journal": "Proceedings of the Geologists' Association",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Geological exploration of South Atlantic islands and its contributions to the continental drift debate of the early 20th century” [Proc. Geol. Assoc. 126 (2) (2015) 266–281]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437696000000,"doi":"10.1186/s13634-015-0252-8","type":"correction"},"doi":"10.1186/1687-6180-2013-14","journal":"EURASIP Journal on Advances in Signal Processing","publisher":"Springer Nature","title":"Erratum to: A Wald test with enhanced selectivity properties in homogeneous environments"}
+{
+  "retracted": false,
+  "timestamp": 1437696000000,
+  "updates": [
+    {
+      "timestamp": 1496017317802,
+      "identifier": {
+        "doi": "10.1186/s13634-015-0252-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1687-6180-2013-14"
+  },
+  "journal": "EURASIP Journal on Advances in Signal Processing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Wald test with enhanced selectivity properties in homogeneous environments"
+}

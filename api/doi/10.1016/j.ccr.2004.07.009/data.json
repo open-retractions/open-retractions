@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1016/j.ccr.2013.08.028","type":"err"},"doi":"10.1016/j.ccr.2004.07.009","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Species- and Cell Type-Specific Requirements for Cellular Transformation"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1496044955941,
+      "identifier": {
+        "doi": "10.1016/j.ccr.2013.08.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2004.07.009"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Species- and Cell Type-Specific Requirements for Cellular Transformation"
+}

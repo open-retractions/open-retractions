@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1007/s11227-016-1685-z","type":"correction"},"doi":"10.1007/s11227-016-1644-8","journal":"The Journal of Supercomputing","publisher":"Springer Nature","title":"Erratum to: Design procedures and NML cost analysis of reversible barrel shifters optimizing garbage and ancilla lines"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647306872,
+      "identifier": {
+        "doi": "10.1007/s11227-016-1685-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11227-016-1644-8"
+  },
+  "journal": "The Journal of Supercomputing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Design procedures and NML cost analysis of reversible barrel shifters optimizing garbage and ancilla lines"
+}

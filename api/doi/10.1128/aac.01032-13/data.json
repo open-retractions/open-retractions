@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1128/aac.01090-16","type":"correction"},"doi":"10.1128/aac.01032-13","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Marcos-Zambrano et al., Comparison between the EUCAST Procedure and the Etest for Determination of the Susceptibility of Candida Species Isolates to Micafungin"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495721861219,
+      "identifier": {
+        "doi": "10.1128/aac.01090-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.01032-13"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Marcos-Zambrano et al., Comparison between the EUCAST Procedure and the Etest for Determination of the Susceptibility of Candida Species Isolates to Micafungin"
+}

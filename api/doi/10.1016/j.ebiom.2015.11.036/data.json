@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.ebiom.2016.04.021","type":"err"},"doi":"10.1016/j.ebiom.2015.11.036","journal":"EBioMedicine","publisher":"Elsevier BV","title":"Corrigendum to: “Plasma concentration of the neurofilament light protein (NFL) is a biomarker of CNS injury in HIV infection: A cross-sectional study” [EBioMedicine 3 (216) 135–140]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495672127042,
+      "identifier": {
+        "doi": "10.1016/j.ebiom.2016.04.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ebiom.2015.11.036"
+  },
+  "journal": "EBioMedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Plasma concentration of the neurofilament light protein (NFL) is a biomarker of CNS injury in HIV infection: A cross-sectional study” [EBioMedicine 3 (216) 135–140]"
+}

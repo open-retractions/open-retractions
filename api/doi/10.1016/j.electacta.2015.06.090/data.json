@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1016/j.electacta.2015.09.135","type":"erratum"},"doi":"10.1016/j.electacta.2015.06.090","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to FOREWORD [Electrochimica Acta 175 (2015) 1–4]"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496036133839,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2015.09.135"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2015.06.090"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to FOREWORD [Electrochimica Acta 175 (2015) 1–4]"
+}

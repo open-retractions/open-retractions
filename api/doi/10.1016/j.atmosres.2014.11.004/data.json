@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.atmosres.2015.07.001","type":"err"},"doi":"10.1016/j.atmosres.2014.11.004","journal":"Atmospheric Research","publisher":"Elsevier BV","title":"Retraction notice to “Large-eddy simulation of the hurricane boundary layer: Evaluation of the planetary boundary-layer parametrizations” [ATMOS 154C (2015) 73–88]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496016015538,
+      "identifier": {
+        "doi": "10.1016/j.atmosres.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosres.2014.11.004"
+  },
+  "journal": "Atmospheric Research",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Large-eddy simulation of the hurricane boundary layer: Evaluation of the planetary boundary-layer parametrizations” [ATMOS 154C (2015) 73–88]"
+}

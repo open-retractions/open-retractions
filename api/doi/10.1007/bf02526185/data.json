@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225929600000,"doi":"10.1007/bf02539659","type":"correction"},"doi":"10.1007/bf02526185","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: La méthode dynamique en Géodésie"}
+{
+  "retracted": false,
+  "timestamp": 1225929600000,
+  "updates": [
+    {
+      "timestamp": 1495924332366,
+      "identifier": {
+        "doi": "10.1007/bf02539659"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02526185"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: La méthode dynamique en Géodésie"
+}

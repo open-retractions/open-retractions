@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.bbr.2013.11.048","type":"err"},"doi":"10.1016/j.bbr.2013.10.009","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Erratum to “Task complexity modifies the search strategy of rats” [Behav. Brain Res. 258C (2014) 208–217]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496003150381,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2013.11.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2013.10.009"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Task complexity modifies the search strategy of rats” [Behav. Brain Res. 258C (2014) 208–217]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1279152000000,"doi":"10.1371/annotation/be07af21-d5b4-4cb3-b311-a3fc275cd9aa","type":"correction"},"doi":"10.1371/journal.pone.0005594","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Predicting Visibility of Aircraft"}
+{
+  "retracted": false,
+  "timestamp": 1279152000000,
+  "updates": [
+    {
+      "timestamp": 1496025197533,
+      "identifier": {
+        "doi": "10.1371/annotation/be07af21-d5b4-4cb3-b311-a3fc275cd9aa"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005594"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Predicting Visibility of Aircraft"
+}

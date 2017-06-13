@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.hoc.2014.12.002","type":"err"},"doi":"10.1016/j.hoc.2013.11.003","journal":"Hematology/Oncology Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496053927795,
+      "identifier": {
+        "doi": "10.1016/j.hoc.2014.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hoc.2013.11.003"
+  },
+  "journal": "Hematology/Oncology Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

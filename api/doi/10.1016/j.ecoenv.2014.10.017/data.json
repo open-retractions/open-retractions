@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.ecoenv.2014.11.001","type":"err"},"doi":"10.1016/j.ecoenv.2014.10.017","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Corrigendum to “Circannual rhythms of acetylcholinesterase (AChE) activity in the freshwater fish Cnesterodon decemmaculatus” [Ecotoxicol. Environ. Saf. 111 (2015) 236–241]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496022801986,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2014.10.017"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Circannual rhythms of acetylcholinesterase (AChE) activity in the freshwater fish Cnesterodon decemmaculatus” [Ecotoxicol. Environ. Saf. 111 (2015) 236–241]"
+}

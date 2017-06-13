@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1007/s00044-015-1372-2","type":"correction"},"doi":"10.1007/s00044-014-1238-z","journal":"Medicinal Chemistry Research","publisher":"Springer Nature","title":"Erratum to: Synthesis and evaluation of mefway analogs as ligands for serotonin 5HT1A receptors"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996307018,
+      "identifier": {
+        "doi": "10.1007/s00044-015-1372-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00044-014-1238-z"
+  },
+  "journal": "Medicinal Chemistry Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Synthesis and evaluation of mefway analogs as ligands for serotonin 5HT1A receptors"
+}

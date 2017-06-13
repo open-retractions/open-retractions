@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1128/jvi.02624-13","type":"correction"},"doi":"10.1128/jvi.03070-12","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Molecular Evolution of the HIV-1 Thai Epidemic between the Time of RV144 Immunogen Selection to the Execution of the Vaccine Efficacy Trial"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495994440314,
+      "identifier": {
+        "doi": "10.1128/jvi.02624-13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.03070-12"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Molecular Evolution of the HIV-1 Thai Epidemic between the Time of RV144 Immunogen Selection to the Execution of the Vaccine Efficacy Trial"
+}

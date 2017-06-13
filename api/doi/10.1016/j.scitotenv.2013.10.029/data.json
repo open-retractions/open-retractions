@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1016/j.scitotenv.2014.03.128","type":"err"},"doi":"10.1016/j.scitotenv.2013.10.029","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Erratum to “Comparison of the Chernobyl and Fukushima nuclear accidents: A review of the environmental impacts” [Sci Total Environ 470–471 (2014) 800–817]"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496033606142,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.03.128"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2013.10.029"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Comparison of the Chernobyl and Fukushima nuclear accidents: A review of the environmental impacts” [Sci Total Environ 470–471 (2014) 800–817]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1088/0026-1394/53/3/1009","type":"correction"},"doi":"10.1088/0026-1394/52/1/163","journal":"Metrologia","publisher":"IOP Publishing","title":"Corrigendum: Comment on ‘First accuracy evaluation of NIST-F2’"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717386196,
+      "identifier": {
+        "doi": "10.1088/0026-1394/53/3/1009"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0026-1394/52/1/163"
+  },
+  "journal": "Metrologia",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Comment on ‘First accuracy evaluation of NIST-F2’"
+}

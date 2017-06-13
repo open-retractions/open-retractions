@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377734400000,"doi":"10.1016/j.toxlet.2013.06.232","type":"err"},"doi":"10.1016/j.toxlet.2013.03.033","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “Mechanism of E-cadherin redistribution in bronchial airway epithelial cells in a TDI-induced asthma model” [Toxicol. Lett. 220 (1) (2013) 8–14]"}
+{
+  "retracted": false,
+  "timestamp": 1377734400000,
+  "updates": [
+    {
+      "timestamp": 1496031381671,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2013.06.232"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2013.03.033"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mechanism of E-cadherin redistribution in bronchial airway epithelial cells in a TDI-induced asthma model” [Toxicol. Lett. 220 (1) (2013) 8–14]"
+}

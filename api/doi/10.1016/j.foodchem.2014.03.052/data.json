@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.foodchem.2016.04.061","type":"err"},"doi":"10.1016/j.foodchem.2014.03.052","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Effects of chicken-liver hydrolysates on lipid metabolism in a high-fat dietary habit” [Food Chem. 160 (2014) 148–156]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495670000790,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.04.061"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2014.03.052"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of chicken-liver hydrolysates on lipid metabolism in a high-fat dietary habit” [Food Chem. 160 (2014) 148–156]"
+}

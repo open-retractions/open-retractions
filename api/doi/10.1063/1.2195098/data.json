@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1159142400000,"doi":"10.1063/1.2358196","type":"erratum"},"doi":"10.1063/1.2195098","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Optical generation and detection of shock waves in sapphire at room temperature” [Appl. Phys. Lett. 88, 151910 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1159142400000,
+  "updates": [
+    {
+      "timestamp": 1495868125223,
+      "identifier": {
+        "doi": "10.1063/1.2358196"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2195098"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Optical generation and detection of shock waves in sapphire at room           temperature” [Appl. Phys.               Lett. 88, 151910           (2006)]"
+}

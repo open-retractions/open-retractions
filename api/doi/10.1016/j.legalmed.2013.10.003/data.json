@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.legalmed.2014.10.009","type":"err"},"doi":"10.1016/j.legalmed.2013.10.003","journal":"Legal Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Stature estimation in Japanese cadavers using the sacral and coccygeal length measured with multidetector computed tomography” Leg Med 16 (2014) 14–19"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496022637704,
+      "identifier": {
+        "doi": "10.1016/j.legalmed.2014.10.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.legalmed.2013.10.003"
+  },
+  "journal": "Legal Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stature estimation in Japanese cadavers using the sacral and coccygeal length measured with multidetector computed tomography” Leg Med 16 (2014) 14–19"
+}

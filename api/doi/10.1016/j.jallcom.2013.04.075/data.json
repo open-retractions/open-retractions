@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386201600000,"doi":"10.1016/j.jallcom.2013.08.083","type":"err"},"doi":"10.1016/j.jallcom.2013.04.075","journal":"Journal of Alloys and Compounds","publisher":"Elsevier BV","title":"Corrigendum to “Investigation of aluminum–gallium co-doped zinc oxide targets for sputtering thin film and photovoltaic application” [J. Alloys Comp. 575 (2013) 174–182]"}
+{
+  "retracted": false,
+  "timestamp": 1386201600000,
+  "updates": [
+    {
+      "timestamp": 1496039760244,
+      "identifier": {
+        "doi": "10.1016/j.jallcom.2013.08.083"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jallcom.2013.04.075"
+  },
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Investigation of aluminum–gallium co-doped zinc oxide targets for sputtering thin film and photovoltaic application” [J. Alloys Comp. 575 (2013) 174–182]"
+}

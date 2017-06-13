@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1007/s00021-014-0172-7","type":"correction"},"doi":"10.1007/s00021-014-0166-5","journal":"Journal of Mathematical Fluid Mechanics","publisher":"Springer Nature","title":"Erratum to: An Incompressible 2D Didactic Model with Singularity and Explicit Solutions of the 2D Boussinesq Equations"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496029700521,
+      "identifier": {
+        "doi": "10.1007/s00021-014-0172-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00021-014-0166-5"
+  },
+  "journal": "Journal of Mathematical Fluid Mechanics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An Incompressible 2D Didactic Model with Singularity and Explicit Solutions of the 2D Boussinesq Equations"
+}

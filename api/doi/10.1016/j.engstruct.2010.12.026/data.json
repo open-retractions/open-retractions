@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.engstruct.2013.02.001","type":"err"},"doi":"10.1016/j.engstruct.2010.12.026","journal":"Engineering Structures","publisher":"Elsevier BV","title":"Corrigendum to ‘A new model to simulate joint shear behavior of poorly detailed beam–column connections in RC structures under seismic loads, Part I: Exterior joints’ [Eng. Struct. 33 (3) (2011) 1034–1051]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496022978260,
+      "identifier": {
+        "doi": "10.1016/j.engstruct.2013.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engstruct.2010.12.026"
+  },
+  "journal": "Engineering Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A new model to simulate joint shear behavior of poorly detailed beam–column connections in RC structures under seismic loads, Part I: Exterior joints’ [Eng. Struct. 33 (3) (2011) 1034–1051]"
+}

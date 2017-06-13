@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1314921600000,"doi":"10.1371/annotation/099db8aa-be3a-4635-b464-dc94ba0fb069","type":"correction"},"doi":"10.1371/journal.pone.0020278","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Potential Use of a Serpin from Arabidopsis for Pest Control"}
+{
+  "retracted": false,
+  "timestamp": 1314921600000,
+  "updates": [
+    {
+      "timestamp": 1495801676672,
+      "identifier": {
+        "doi": "10.1371/annotation/099db8aa-be3a-4635-b464-dc94ba0fb069"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0020278"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Potential Use of a Serpin from Arabidopsis for Pest Control"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1108425600000,"doi":"10.1073/pnas.0500257102","type":"correction"},"doi":"10.1073/pnas.0408235102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sykova et al., Changes in extracellular space size and geometry in APP23 transgenic mice: A model of Alzheimer's disease, PNAS 2005 102:479-484"}
+{
+  "retracted": false,
+  "timestamp": 1108425600000,
+  "updates": [
+    {
+      "timestamp": 1495918570938,
+      "identifier": {
+        "doi": "10.1073/pnas.0500257102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0408235102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sykova et al., Changes in extracellular space size and geometry in APP23 transgenic mice: A model of Alzheimer's disease, PNAS 2005 102:479-484"
+}

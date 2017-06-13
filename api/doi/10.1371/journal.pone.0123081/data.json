@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435795200000,"doi":"10.1371/journal.pone.0132537","type":"correction"},"doi":"10.1371/journal.pone.0123081","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identifying Human Genome-Wide CNV, LOH and UPD by Targeted Sequencing of Selected Regions"}
+{
+  "retracted": false,
+  "timestamp": 1435795200000,
+  "updates": [
+    {
+      "timestamp": 1496010267551,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0132537"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0123081"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identifying Human Genome-Wide CNV, LOH and UPD by Targeted Sequencing of Selected Regions"
+}

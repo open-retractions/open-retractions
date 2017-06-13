@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1109980800000,"doi":"10.1136/vr.156.10.309","type":"correction"},"doi":"10.1136/vr.156.3.71","journal":"Veterinary Record","publisher":"BMJ","title":"Prevalence and associations between bacterial isolates from dry mammary glands of dairy cows"}
+{
+  "retracted": false,
+  "timestamp": 1109980800000,
+  "updates": [
+    {
+      "timestamp": 1496016282729,
+      "identifier": {
+        "doi": "10.1136/vr.156.10.309"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/vr.156.3.71"
+  },
+  "journal": "Veterinary Record",
+  "publisher": "BMJ",
+  "title": "Prevalence and associations between bacterial isolates from dry mammary glands of dairy cows"
+}

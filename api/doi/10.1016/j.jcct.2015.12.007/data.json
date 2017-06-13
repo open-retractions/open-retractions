@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.jcct.2016.03.006","type":"err"},"doi":"10.1016/j.jcct.2015.12.007","journal":"Journal of Cardiovascular Computed Tomography","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Optimal fluoroscopic viewing angles of left-sided heart structures in patients with aortic stenosis and mitral regurgitation based on multislice computed tomography’’ [J. of Cardiovasc. Comput. Tomogr. 10 (2016) 162–172]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495730107207,
+      "identifier": {
+        "doi": "10.1016/j.jcct.2016.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcct.2015.12.007"
+  },
+  "journal": "Journal of Cardiovascular Computed Tomography",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Optimal fluoroscopic viewing angles of left-sided heart structures in patients with aortic stenosis and mitral regurgitation based on multislice computed tomography’’ [J. of Cardiovasc. Comput. Tomogr. 10 (2016) 162–172]"
+}

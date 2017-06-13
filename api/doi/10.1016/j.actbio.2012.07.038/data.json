@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.actbio.2013.11.018","type":"erratum"},"doi":"10.1016/j.actbio.2012.07.038","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to: “Anti-infective and osteointegration properties of silicon nitride, poly-ether-ether-ketone, and titanium implants” [Acta Materialia 8 (2012) 4447–4454]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496005297003,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2013.11.018"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2012.07.038"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Anti-infective and osteointegration properties of silicon nitride, poly-ether-ether-ketone, and titanium implants” [Acta Materialia 8 (2012) 4447–4454]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1254960000000,"doi":"10.1371/annotation/cfc9c388-05fa-4b1c-8c5f-99835278a458","type":"correction"},"doi":"10.1371/journal.ppat.1000588","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Bacillus anthracis Lethal Toxin Disrupts TCR Signaling in CD1d-Restricted NKT Cells Leading to Functional Anergy"}
+{
+  "retracted": false,
+  "timestamp": 1254960000000,
+  "updates": [
+    {
+      "timestamp": 1496025197825,
+      "identifier": {
+        "doi": "10.1371/annotation/cfc9c388-05fa-4b1c-8c5f-99835278a458"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1000588"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bacillus anthracis Lethal Toxin Disrupts TCR Signaling in CD1d-Restricted NKT Cells Leading to Functional Anergy"
+}

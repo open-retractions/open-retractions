@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1407196800000,"update":{"timestamp":null,"doi":null,"pmid":25606606,"type":"retraction"},"doi":"10.1016/j.cbi.2014.04.013","journal":"Chemico-biological interactions","publisher":null,"title":"REMOVED: Protective effect of Daucus carota against UV-DMBA induced skin cancer in mice."}
+{
+  "retracted": false,
+  "timestamp": 1407196800000,
+  "updates": [
+    {
+      "timestamp": 1496019314182,
+      "identifier": {
+        "doi": "10.1016/j.cbi.2014.10.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbi.2014.04.013"
+  },
+  "journal": "Chemico-Biological Interactions",
+  "publisher": "Elsevier BV",
+  "title": "Removal notice to “Protective effect of Daucus carota against UV–DMBA induced skin cancer in mice” [Chem. Biol. Interact. 219 (2014) 48–56]"
+}

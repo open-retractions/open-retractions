@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391472000000,"doi":"10.1016/j.cmet.2014.01.007","type":"err"},"doi":"10.1016/j.cmet.2005.10.008","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Retraction Notice to: Nicotinamide Nucleotide Transhydrogenase: A Key Role in Insulin Secretion"}
+{
+  "retracted": false,
+  "timestamp": 1391472000000,
+  "updates": [
+    {
+      "timestamp": 1496016424980,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2014.01.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2005.10.008"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: Nicotinamide Nucleotide Transhydrogenase: A Key Role in Insulin Secretion"
+}

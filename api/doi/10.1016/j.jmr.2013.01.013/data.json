@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jmr.2015.11.001","type":"erratum"},"doi":"10.1016/j.jmr.2013.01.013","journal":"Journal of Magnetic Resonance","publisher":"Elsevier BV","title":"Corrigendum to “Matrix-algebra-based calculations of the time evolution of the binary spin-bath model for magnetization transfer” [J. Magn. Reson. 230 (2013) 88–97]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496051630362,
+      "identifier": {
+        "doi": "10.1016/j.jmr.2015.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmr.2013.01.013"
+  },
+  "journal": "Journal of Magnetic Resonance",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Matrix-algebra-based calculations of the time evolution of the binary spin-bath model for magnetization transfer” [J. Magn. Reson. 230 (2013) 88–97]"
+}

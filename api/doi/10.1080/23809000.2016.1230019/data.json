@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1080/23809000.2017.1276696","type":"correction"},"doi":"10.1080/23809000.2016.1230019","journal":"Expert Review of Quality of Life in Cancer Care","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495672500207,
+      "identifier": {
+        "doi": "10.1080/23809000.2017.1276696"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23809000.2016.1230019"
+  },
+  "journal": "Expert Review of Quality of Life in Cancer Care",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

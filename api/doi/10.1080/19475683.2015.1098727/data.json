@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1080/19475683.2015.1125468","type":"correction"},"doi":"10.1080/19475683.2015.1098727","journal":"Annals of GIS","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638461606,
+      "identifier": {
+        "doi": "10.1080/19475683.2015.1125468"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19475683.2015.1098727"
+  },
+  "journal": "Annals of GIS",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

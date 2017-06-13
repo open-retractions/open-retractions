@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433894400000,"doi":"10.1007/s11166-015-9214-7","type":"correction"},"doi":"10.1007/s11166-015-9210-y","journal":"Journal of Risk and Uncertainty","publisher":"Springer Nature","title":"Erratum to: The impact of statistical learning on violations of the sure-thing principle"}
+{
+  "retracted": false,
+  "timestamp": 1433894400000,
+  "updates": [
+    {
+      "timestamp": 1496005100508,
+      "identifier": {
+        "doi": "10.1007/s11166-015-9214-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11166-015-9210-y"
+  },
+  "journal": "Journal of Risk and Uncertainty",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The impact of statistical learning on violations of the sure-thing principle"
+}

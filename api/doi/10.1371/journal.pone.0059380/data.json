@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1371/annotation/aaa12360-0c90-42c3-bc43-d00022b68b81","type":"correction"},"doi":"10.1371/journal.pone.0059380","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Akt Inhibitor ISC-4 Synergizes with Cetuximab in 5-FU-Resistant Colon Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495995630779,
+      "identifier": {
+        "doi": "10.1371/annotation/aaa12360-0c90-42c3-bc43-d00022b68b81"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059380"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Akt Inhibitor ISC-4 Synergizes with Cetuximab in 5-FU-Resistant Colon Cancer"
+}

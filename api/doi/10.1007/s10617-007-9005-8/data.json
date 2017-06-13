@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1196467200000,"doi":"10.1007/s10617-007-9008-5","type":"correction"},"doi":"10.1007/s10617-007-9005-8","journal":"Design Automation for Embedded Systems","publisher":"Springer Nature","title":"Erratum to A rule-based availability-driven cosynthesis scheme"}
+{
+  "retracted": false,
+  "timestamp": 1196467200000,
+  "updates": [
+    {
+      "timestamp": 1495802670601,
+      "identifier": {
+        "doi": "10.1007/s10617-007-9008-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10617-007-9005-8"
+  },
+  "journal": "Design Automation for Embedded Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to A rule-based availability-driven cosynthesis scheme"
+}

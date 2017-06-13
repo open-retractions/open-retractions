@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480896000000,"doi":"10.1007/s11227-016-1931-4","type":"correction"},"doi":"10.1007/s11227-016-1684-0","journal":"The Journal of Supercomputing","publisher":"Springer Nature","title":"Erratum to: Secure IoT framework and 2D architecture for End-To-End security"}
+{
+  "retracted": false,
+  "timestamp": 1480896000000,
+  "updates": [
+    {
+      "timestamp": 1495663503601,
+      "identifier": {
+        "doi": "10.1007/s11227-016-1931-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11227-016-1684-0"
+  },
+  "journal": "The Journal of Supercomputing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Secure IoT framework and 2D architecture for End-To-End security"
+}

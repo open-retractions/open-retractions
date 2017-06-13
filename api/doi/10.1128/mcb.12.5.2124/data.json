@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":709948800000,"doi":"10.1128/mcb.12.7.3313-b","type":"correction"},"doi":"10.1128/mcb.12.5.2124","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Mechanism and consequences of the duplication of the human C4/P450c21/gene X locus."}
+{
+  "retracted": false,
+  "timestamp": 709948800000,
+  "updates": [
+    {
+      "timestamp": 1496035222500,
+      "identifier": {
+        "doi": "10.1128/mcb.12.7.3313-b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.12.5.2124"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Mechanism and consequences of the duplication of the human C4/P450c21/gene X locus."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jclepro.2014.06.065","type":"err"},"doi":"10.1016/j.jclepro.2011.06.010","journal":"Journal of Cleaner Production","publisher":"Elsevier BV","title":"Corrigendum to “Using fuzzy DEMATEL to evaluate the green supply chain management practices” [J. Clean. Prod. 40 (2013) 32–39]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496056511888,
+      "identifier": {
+        "doi": "10.1016/j.jclepro.2014.06.065"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jclepro.2011.06.010"
+  },
+  "journal": "Journal of Cleaner Production",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Using fuzzy DEMATEL to evaluate the green supply chain management practices” [J. Clean. Prod. 40 (2013) 32–39]"
+}

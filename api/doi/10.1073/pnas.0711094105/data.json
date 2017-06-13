@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200355200000,"doi":"10.1073/pnas.0902353106","type":"correction"},"doi":"10.1073/pnas.0711094105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hetz et al., Unfolded protein response transcription factor XBP-1 does not influence prion replication or pathogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1200355200000,
+  "updates": [
+    {
+      "timestamp": 1495947132572,
+      "identifier": {
+        "doi": "10.1073/pnas.0902353106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0711094105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hetz et al., Unfolded protein response transcription factor XBP-1 does not influence prion replication or pathogenesis"
+}

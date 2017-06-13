@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202688000000,"doi":"10.1007/bf02727419","type":"correction"},"doi":"10.1007/bf02827068","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Polarization in production reactions on deuterons"}
+{
+  "retracted": false,
+  "timestamp": 1202688000000,
+  "updates": [
+    {
+      "timestamp": 1495830497617,
+      "identifier": {
+        "doi": "10.1007/bf02727419"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02827068"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Polarization in production reactions on deuterons"
+}

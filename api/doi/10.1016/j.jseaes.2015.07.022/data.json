@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.jseaes.2016.01.019","type":"err"},"doi":"10.1016/j.jseaes.2015.07.022","journal":"Journal of Asian Earth Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Morphometric evaluation of the Afşin-Elbistan lignite basin using kernel density estimation and Getis-Ord’s statistics of DEM derived indices, SE Turkey”. [J. Asian Earth Sci. 111 (2015) 819–826]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495643448406,
+      "identifier": {
+        "doi": "10.1016/j.jseaes.2016.01.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jseaes.2015.07.022"
+  },
+  "journal": "Journal of Asian Earth Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Morphometric evaluation of the Afşin-Elbistan lignite basin using kernel density estimation and Getis-Ord’s statistics of DEM derived indices, SE Turkey”. [J. Asian Earth Sci. 111 (2015) 819–826]"
+}

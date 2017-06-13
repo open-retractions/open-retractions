@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380240000000,"doi":"10.1063/1.4823535","type":"correction"},"doi":"10.1063/1.4816427","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Photoacoustic tomography using a Michelson interferometer with quadrature phase detection” [Appl. Phys. Lett. 103, 053501 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1380240000000,
+  "updates": [
+    {
+      "timestamp": 1496049937884,
+      "identifier": {
+        "doi": "10.1063/1.4823535"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4816427"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Photoacoustic tomography using a Michelson interferometer with quadrature phase detection” [Appl. Phys. Lett. 103, 053501 (2013)]"
+}

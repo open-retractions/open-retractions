@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400716800000,"doi":"10.1007/s10482-014-0192-6","type":"correction"},"doi":"10.1007/s10482-013-0093-0","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Nocardia bhagyanesis sp. nov., a novel actinomycete isolated from the rhizosphere of Callistemon citrinus (Curtis), India"}
+{
+  "retracted": false,
+  "timestamp": 1400716800000,
+  "updates": [
+    {
+      "timestamp": 1496040118219,
+      "identifier": {
+        "doi": "10.1007/s10482-014-0192-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-013-0093-0"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nocardia bhagyanesis sp. nov., a novel actinomycete isolated from the rhizosphere of Callistemon citrinus (Curtis), India"
+}

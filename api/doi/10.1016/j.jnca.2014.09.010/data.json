@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jnca.2016.03.019","type":"err"},"doi":"10.1016/j.jnca.2014.09.010","journal":"Journal of Network and Computer Applications","publisher":"Elsevier BV","title":"Corrigendum to: “Cross-layer QoE-driven admission control and resource allocation for adaptive multimedia services in LTE” [J. Netw. Comput. Appl. 46 (2014) 336–351]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495676656970,
+      "identifier": {
+        "doi": "10.1016/j.jnca.2016.03.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnca.2014.09.010"
+  },
+  "journal": "Journal of Network and Computer Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Cross-layer QoE-driven admission control and resource allocation for adaptive multimedia services in LTE” [J. Netw. Comput. Appl. 46 (2014) 336–351]"
+}

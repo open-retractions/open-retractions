@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.triboint.2014.02.009","type":"err"},"doi":"10.1016/j.triboint.2013.10.004","journal":"Tribology International","publisher":"Elsevier BV","title":"Erratum to “Theoretical and experimental investigation of traction coefficient in line-contact EHL of rough surfaces” [Tribol. Int. 70 (2014) 179–189]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496027263282,
+      "identifier": {
+        "doi": "10.1016/j.triboint.2014.02.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.triboint.2013.10.004"
+  },
+  "journal": "Tribology International",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Theoretical and experimental investigation of traction coefficient in line-contact EHL of rough surfaces” [Tribol. Int. 70 (2014) 179–189]"
+}

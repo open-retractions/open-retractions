@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385942400000,"doi":"10.1063/1.4840015","type":"correction"},"doi":"10.1063/1.3685755","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “The structure of the magnetic reconnection exhaust boundary” [Phys. Plasmas 19, 022110 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1385942400000,
+  "updates": [
+    {
+      "timestamp": 1496000465289,
+      "identifier": {
+        "doi": "10.1063/1.4840015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3685755"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The structure of the magnetic reconnection exhaust boundary” [Phys. Plasmas 19, 022110 (2012)]"
+}

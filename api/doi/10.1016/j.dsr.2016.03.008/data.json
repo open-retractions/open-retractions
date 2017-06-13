@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.dsr.2016.09.001","type":"erratum"},"doi":"10.1016/j.dsr.2016.03.008","journal":"Deep Sea Research Part I: Oceanographic Research Papers","publisher":"Elsevier BV","title":"Corrigendum to “Testing models of thorium and particle cycling in the ocean using data from station GT11-22 of the U.S. GEOTRACES North Atlantic Section” [Deep-Sea Res. I 113 (2016) 57–79]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495640407288,
+      "identifier": {
+        "doi": "10.1016/j.dsr.2016.09.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsr.2016.03.008"
+  },
+  "journal": "Deep Sea Research Part I: Oceanographic Research Papers",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Testing models of thorium and particle cycling in the ocean using data from station GT11-22 of the U.S. GEOTRACES North Atlantic Section” [Deep-Sea Res. I 113 (2016) 57–79]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-152668800000,"doi":"10.1007/bf02142005","type":"correction"},"doi":"10.1007/bf02136362","journal":"Experientia","publisher":"Springer Nature","title":"Erratum to: Photosensitizing furocoumarins: Interaction with DNA and photo-inactivation of DNA containing viruses"}
+{
+  "retracted": false,
+  "timestamp": -152668800000,
+  "updates": [
+    {
+      "timestamp": 1495960533534,
+      "identifier": {
+        "doi": "10.1007/bf02142005"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02136362"
+  },
+  "journal": "Experientia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Photosensitizing furocoumarins: Interaction with DNA and photo-inactivation of DNA containing viruses"
+}

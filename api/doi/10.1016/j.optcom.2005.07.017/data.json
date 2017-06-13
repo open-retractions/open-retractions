@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.optcom.2015.10.002","type":"err"},"doi":"10.1016/j.optcom.2005.07.017","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Fourier-Wavelet Regularized Deconvolution (ForWaRD) for lidar systems based on TEA-CO2 laser” [Opt. Commun. 257 (1) (2005) 97–111]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496038566396,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2015.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2005.07.017"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fourier-Wavelet Regularized Deconvolution (ForWaRD) for lidar systems based on TEA-CO2 laser” [Opt. Commun. 257 (1) (2005) 97–111]"
+}

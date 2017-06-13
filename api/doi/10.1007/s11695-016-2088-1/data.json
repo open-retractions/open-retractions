@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1007/s11695-016-2108-1","type":"correction"},"doi":"10.1007/s11695-016-2088-1","journal":"Obesity Surgery","publisher":"Springer Nature","title":"Erratum to: Biography of Aniceto Baltasar, MD"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645810941,
+      "identifier": {
+        "doi": "10.1007/s11695-016-2108-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11695-016-2088-1"
+  },
+  "journal": "Obesity Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biography of Aniceto Baltasar, MD"
+}

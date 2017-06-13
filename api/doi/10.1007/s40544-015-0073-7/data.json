@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445558400000,"doi":"10.1007/s40544-015-0085-3","type":"correction"},"doi":"10.1007/s40544-015-0073-7","journal":"Friction","publisher":"Springer Nature","title":"Erratum to: Conductive grease synthesized using nanometer ATO as an additive"}
+{
+  "retracted": false,
+  "timestamp": 1445558400000,
+  "updates": [
+    {
+      "timestamp": 1496040288026,
+      "identifier": {
+        "doi": "10.1007/s40544-015-0085-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40544-015-0073-7"
+  },
+  "journal": "Friction",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Conductive grease synthesized using nanometer ATO as an additive"
+}

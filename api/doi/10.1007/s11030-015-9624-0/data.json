@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1007/s11030-015-9637-8","type":"correction"},"doi":"10.1007/s11030-015-9624-0","journal":"Molecular Diversity","publisher":"Springer Nature","title":"Erratum to: Discovery of new Mycobacterium tuberculosis proteasome inhibitors using a knowledge-based computational screening approach"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1496041072829,
+      "identifier": {
+        "doi": "10.1007/s11030-015-9637-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11030-015-9624-0"
+  },
+  "journal": "Molecular Diversity",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Discovery of new Mycobacterium tuberculosis proteasome inhibitors using a knowledge-based computational screening approach"
+}

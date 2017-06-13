@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1136/bmj.h2360","type":"correction"},"doi":"10.1136/bmj.h1755","journal":"BMJ","publisher":"BMJ","title":"Women, children, and global public health: beyond the millennium development goals"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495997236006,
+      "identifier": {
+        "doi": "10.1136/bmj.h2360"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h1755"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Women, children, and global public health: beyond the millennium development goals"
+}

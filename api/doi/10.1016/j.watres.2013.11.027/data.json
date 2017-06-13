@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.watres.2014.03.021","type":"err"},"doi":"10.1016/j.watres.2013.11.027","journal":"Water Research","publisher":"Elsevier BV","title":"Erratum to “Molecular analysis of point-of-use drinking water microbiology” [Water Res. 49 (2014 Feb 1) 225–235]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496030240935,
+      "identifier": {
+        "doi": "10.1016/j.watres.2014.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2013.11.027"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Molecular analysis of point-of-use drinking water microbiology” [Water Res. 49 (2014 Feb 1) 225–235]"
+}

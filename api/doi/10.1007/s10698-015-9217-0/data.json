@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1007/s10698-015-9238-8","type":"correction"},"doi":"10.1007/s10698-015-9217-0","journal":"Foundations of Chemistry","publisher":"Springer Nature","title":"Erratum to: A modern version of Lewis’s theory of valency"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496026302098,
+      "identifier": {
+        "doi": "10.1007/s10698-015-9238-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10698-015-9217-0"
+  },
+  "journal": "Foundations of Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A modern version of Lewis’s theory of valency"
+}

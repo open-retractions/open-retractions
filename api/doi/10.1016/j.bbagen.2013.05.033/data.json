@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.bbagen.2014.01.029","type":"erratum"},"doi":"10.1016/j.bbagen.2013.05.033","journal":"Biochimica et Biophysica Acta (BBA) - General Subjects","publisher":"Elsevier BV","title":"Corrigendum to “Kinetics of extracellular ATP in mastoparan 7-activated human erythrocytes” [Biochim. Biophys. Acta — Gen. Subj. 1830 (10) (2013) 4692–4707]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496014667107,
+      "identifier": {
+        "doi": "10.1016/j.bbagen.2014.01.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbagen.2013.05.033"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - General Subjects",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Kinetics of extracellular ATP in mastoparan 7-activated human erythrocytes” [Biochim. Biophys. Acta — Gen. Subj. 1830 (10) (2013) 4692–4707]"
+}

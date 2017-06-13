@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372118400000,"doi":"10.1073/pnas.1311057110","type":"correction"},"doi":"10.1073/pnas.1307308110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Klein, Stable carbon isotopes and human evolution"}
+{
+  "retracted": false,
+  "timestamp": 1372118400000,
+  "updates": [
+    {
+      "timestamp": 1496027906245,
+      "identifier": {
+        "doi": "10.1073/pnas.1311057110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1307308110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Klein, Stable carbon isotopes and human evolution"
+}

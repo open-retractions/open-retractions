@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469750400000,"doi":"10.1186/s12864-016-2812-1","type":"correction"},"doi":"10.1186/s12864-016-2465-0","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Highly diverse nirK genes comprise two major clades that harbour ammonium-producing denitrifiers"}
+{
+  "retracted": false,
+  "timestamp": 1469750400000,
+  "updates": [
+    {
+      "timestamp": 1495732949899,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2812-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2465-0"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Highly diverse nirK genes comprise two major clades that harbour ammonium-producing denitrifiers"
+}

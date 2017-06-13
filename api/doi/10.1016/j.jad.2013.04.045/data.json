@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.jad.2015.03.014","type":"err"},"doi":"10.1016/j.jad.2013.04.045","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Corrigendum to “Omega-6 fatty acids and greater likelihood of suicide risk and major depression in early pregnancy” [J. Affect. Disord. 152–154 (2014) 76–82]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496053343003,
+      "identifier": {
+        "doi": "10.1016/j.jad.2015.03.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2013.04.045"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Omega-6 fatty acids and greater likelihood of suicide risk and major depression in early pregnancy” [J. Affect. Disord. 152–154 (2014) 76–82]"
+}

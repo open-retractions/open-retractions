@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435190400000,"doi":"10.1586/17512433.2015.1055111","type":"correction"},"doi":"10.1586/17512433.2015.1011125","journal":"Expert Review of Clinical Pharmacology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1435190400000,
+  "updates": [
+    {
+      "timestamp": 1496004093805,
+      "identifier": {
+        "doi": "10.1586/17512433.2015.1055111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/17512433.2015.1011125"
+  },
+  "journal": "Expert Review of Clinical Pharmacology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

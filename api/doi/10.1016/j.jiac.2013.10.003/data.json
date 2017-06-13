@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jiac.2014.07.009","type":"err"},"doi":"10.1016/j.jiac.2013.10.003","journal":"Journal of Infection and Chemotherapy","publisher":"Elsevier BV","title":"Corrigendum to “Occurrence of infection following prostate biopsy procedures in Japan: Japanese Research Group for Urinary Tract Infection (JRGU) – A multi-center retrospective study” [J Infect Chemother 20 (2014) 232–237]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495994686097,
+      "identifier": {
+        "doi": "10.1016/j.jiac.2014.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jiac.2013.10.003"
+  },
+  "journal": "Journal of Infection and Chemotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Occurrence of infection following prostate biopsy procedures in Japan: Japanese Research Group for Urinary Tract Infection (JRGU) – A multi-center retrospective study” [J Infect Chemother 20 (2014) 232–237]"
+}

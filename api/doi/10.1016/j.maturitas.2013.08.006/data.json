@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.maturitas.2013.11.004","type":"err"},"doi":"10.1016/j.maturitas.2013.08.006","journal":"Maturitas","publisher":"Elsevier BV","title":"Corrigendum to “Diagnosis and management of osteoporosis in postmenopausal women and older men in the UK: National Osteoporosis Guideline Group (NOGG) update 2013” [Maturitas 75 (2013) 392–396]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496004388982,
+      "identifier": {
+        "doi": "10.1016/j.maturitas.2013.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.maturitas.2013.08.006"
+  },
+  "journal": "Maturitas",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Diagnosis and management of osteoporosis in postmenopausal women and older men in the UK: National Osteoporosis Guideline Group (NOGG) update 2013” [Maturitas 75 (2013) 392–396]"
+}

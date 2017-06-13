@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1134/s1021443715030152","type":"correction"},"doi":"10.1134/s102144371401018x","journal":"Russian Journal of Plant Physiology","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Isolation, mutagenesis, and optimization of cultivation conditions of microalgal strains for biodiesel production”"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996339298,
+      "identifier": {
+        "doi": "10.1134/s1021443715030152"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s102144371401018x"
+  },
+  "journal": "Russian Journal of Plant Physiology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Isolation, mutagenesis, and optimization of cultivation conditions of microalgal strains for biodiesel production”"
+}

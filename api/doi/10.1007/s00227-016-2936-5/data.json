@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1007/s00227-017-3077-1","type":"correction"},"doi":"10.1007/s00227-016-2936-5","journal":"Marine Biology","publisher":"Springer Nature","title":"Erratum to: Glycolytic regulation in aestivation of the sea cucumber Apostichopus japonicus: evidence from metabolite quantification and rate-limiting enzyme analyses"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495721903456,
+      "identifier": {
+        "doi": "10.1007/s00227-017-3077-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00227-016-2936-5"
+  },
+  "journal": "Marine Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Glycolytic regulation in aestivation of the sea cucumber Apostichopus japonicus: evidence from metabolite quantification and rate-limiting enzyme analyses"
+}

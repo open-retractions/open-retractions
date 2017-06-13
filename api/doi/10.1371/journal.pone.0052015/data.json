@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367193600000,"doi":"10.1371/annotation/83cc3ff1-9438-4b1d-abf4-07f378ed558f","type":"correction"},"doi":"10.1371/journal.pone.0052015","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Fitting and Interpreting Occupancy Models"}
+{
+  "retracted": false,
+  "timestamp": 1367193600000,
+  "updates": [
+    {
+      "timestamp": 1496015412808,
+      "identifier": {
+        "doi": "10.1371/annotation/83cc3ff1-9438-4b1d-abf4-07f378ed558f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0052015"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Fitting and Interpreting Occupancy Models"
+}

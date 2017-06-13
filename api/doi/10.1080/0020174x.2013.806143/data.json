@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374537600000,"doi":"10.1080/0020174x.2013.826886","type":"correction"},"doi":"10.1080/0020174x.2013.806143","journal":"Inquiry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1374537600000,
+  "updates": [
+    {
+      "timestamp": 1496034815816,
+      "identifier": {
+        "doi": "10.1080/0020174x.2013.826886"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0020174x.2013.806143"
+  },
+  "journal": "Inquiry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440374400000,"doi":"10.3109/19401736.2015.1053113","type":"correction"},"doi":"10.3109/19401736.2014.987242","journal":"Mitochondrial DNA Part A","publisher":"Informa Healthcare","title":"Corrigendum to “The complete mitochondrial genome of the gnomefishScombrops boops(Teleostei, Perciformes, Scombropidae) from the Pacific Ocean off the Japanese Islands” [Mitochondrial DNA. http://dx.doi.org/10.3109/19401736.2014.987242]"}
+{
+  "retracted": false,
+  "timestamp": 1440374400000,
+  "updates": [
+    {
+      "timestamp": 1495645078461,
+      "identifier": {
+        "doi": "10.3109/19401736.2015.1053113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/19401736.2014.987242"
+  },
+  "journal": "Mitochondrial DNA Part A",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum to “The complete mitochondrial genome of the gnomefishScombrops boops(Teleostei, Perciformes, Scombropidae) from the Pacific Ocean off the Japanese Islands” [Mitochondrial DNA. http://dx.doi.org/10.3109/19401736.2014.987242]"
+}

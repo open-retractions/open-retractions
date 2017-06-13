@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426464000000,"doi":"10.1080/0013838x.2015.1026730","type":"correction"},"doi":"10.1080/0013838x.2014.996387","journal":"English Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1426464000000,
+  "updates": [
+    {
+      "timestamp": 1496050263670,
+      "identifier": {
+        "doi": "10.1080/0013838x.2015.1026730"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0013838x.2014.996387"
+  },
+  "journal": "English Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

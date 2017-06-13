@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.virol.2015.02.001","type":"err"},"doi":"10.1016/j.virol.2013.04.031","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to: Characterization of the transport signals that mediate the nucleocytoplasmic traffic of low risk HPV11 E7 [Virology 443 (2013) 113–122]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496045207835,
+      "identifier": {
+        "doi": "10.1016/j.virol.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2013.04.031"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Characterization of the transport signals that mediate the nucleocytoplasmic traffic of low risk HPV11 E7 [Virology 443 (2013) 113–122]"
+}

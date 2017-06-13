@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385942400000,"doi":"10.1080/15321819.2014.864163","type":"correction"},"doi":"10.1080/15321819.2013.792831","journal":"Journal of Immunoassay and Immunochemistry","publisher":"Informa UK Limited","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1385942400000,
+  "updates": [
+    {
+      "timestamp": 1496002130693,
+      "identifier": {
+        "doi": "10.1080/15321819.2014.864163"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15321819.2013.792831"
+  },
+  "journal": "Journal of Immunoassay and Immunochemistry",
+  "publisher": "Informa UK Limited",
+  "title": "CORRIGENDUM"
+}

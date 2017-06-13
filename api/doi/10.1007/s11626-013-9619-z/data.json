@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421798400000,"doi":"10.1007/s11626-014-9864-9","type":"correction"},"doi":"10.1007/s11626-013-9619-z","journal":"In Vitro Cellular & Developmental Biology - Animal","publisher":"Springer Nature","title":"Erratum to: Splice variants DNMT3B4 and DNMT3B7 overexpression inhibit cell proliferation in 293A cell line"}
+{
+  "retracted": false,
+  "timestamp": 1421798400000,
+  "updates": [
+    {
+      "timestamp": 1496036489126,
+      "identifier": {
+        "doi": "10.1007/s11626-014-9864-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11626-013-9619-z"
+  },
+  "journal": "In Vitro Cellular & Developmental Biology - Animal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Splice variants DNMT3B4 and DNMT3B7 overexpression inhibit cell proliferation in 293A cell line"
+}

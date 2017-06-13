@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455840000000,"doi":"10.1186/s40824-016-0052-8","type":"correction"},"doi":"10.1186/s40824-015-0046-y","journal":"Biomaterials Research","publisher":"Springer Nature","title":"Erratum to: Investigation of the changes of biophysical/mechanical characteristics of differentiating preosteoblasts in vitro"}
+{
+  "retracted": false,
+  "timestamp": 1455840000000,
+  "updates": [
+    {
+      "timestamp": 1495646116534,
+      "identifier": {
+        "doi": "10.1186/s40824-016-0052-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40824-015-0046-y"
+  },
+  "journal": "Biomaterials Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Investigation of the changes of biophysical/mechanical characteristics of differentiating preosteoblasts in vitro"
+}

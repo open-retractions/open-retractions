@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1136/bmj.h2167","type":"correction"},"doi":"10.1136/bmj.h2098","journal":"BMJ","publisher":"BMJ","title":"Doctors must not accept inducements for referrals, GMC says"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496059469315,
+      "identifier": {
+        "doi": "10.1136/bmj.h2167"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2098"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Doctors must not accept inducements for referrals, GMC says"
+}

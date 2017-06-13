@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430784000000,"doi":"10.1016/j.jde.2015.02.001","type":"err"},"doi":"10.1016/j.jde.2014.11.023","journal":"Journal of Differential Equations","publisher":"Elsevier BV","title":"Corrigendum to “Global classical solutions to the 2D compressible MHD equations with large data and vacuum”"}
+{
+  "retracted": false,
+  "timestamp": 1430784000000,
+  "updates": [
+    {
+      "timestamp": 1496042762694,
+      "identifier": {
+        "doi": "10.1016/j.jde.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jde.2014.11.023"
+  },
+  "journal": "Journal of Differential Equations",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Global classical solutions to the 2D compressible MHD equations with large data and vacuum”"
+}

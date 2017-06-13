@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1107/s1600577515001575","type":"correction"},"doi":"10.1107/s1600577514015343","journal":"Journal of Synchrotron Radiation","publisher":"International Union of Crystallography (IUCr)","title":"Coherent imaging at the diffraction limit. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496046948909,
+      "identifier": {
+        "doi": "10.1107/s1600577515001575"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600577514015343"
+  },
+  "journal": "Journal of Synchrotron Radiation",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Coherent imaging at the diffraction limit. Erratum"
+}

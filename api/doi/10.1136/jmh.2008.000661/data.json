@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243814400000,"doi":"10.1136/jmh.2008.000661corr1","type":"correction"},"doi":"10.1136/jmh.2008.000661","journal":"Medical Humanities","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1243814400000,
+  "updates": [
+    {
+      "timestamp": 1495929184518,
+      "identifier": {
+        "doi": "10.1136/jmh.2008.000661corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/jmh.2008.000661"
+  },
+  "journal": "Medical Humanities",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

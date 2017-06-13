@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.tibtech.2015.02.004","type":"err"},"doi":"10.1016/j.tibtech.2014.10.003","journal":"Trends in Biotechnology","publisher":"Elsevier BV","title":"Erratum: Green genes: bioinformatics and systems-biology innovations drive algal biotechnology"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496059081314,
+      "identifier": {
+        "doi": "10.1016/j.tibtech.2015.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tibtech.2014.10.003"
+  },
+  "journal": "Trends in Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum: Green genes: bioinformatics and systems-biology innovations drive algal biotechnology"
+}

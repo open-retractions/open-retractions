@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225411200000,"doi":"10.1371/annotation/02a793a0-160f-46b9-abaa-4a3d3eecdde2","type":"correction"},"doi":"10.1371/journal.pgen.1000192","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: A Mouse Model of Harlequin Ichthyosis Delineates a Key Role for Abca12 in Lipid Homeostasis"}
+{
+  "retracted": false,
+  "timestamp": 1225411200000,
+  "updates": [
+    {
+      "timestamp": 1496025195864,
+      "identifier": {
+        "doi": "10.1371/annotation/02a793a0-160f-46b9-abaa-4a3d3eecdde2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000192"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Mouse Model of Harlequin Ichthyosis Delineates a Key Role for Abca12 in Lipid Homeostasis"
+}

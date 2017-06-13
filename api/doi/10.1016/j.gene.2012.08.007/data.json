@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378771200000,"doi":"10.1016/j.gene.2013.04.001","type":"err"},"doi":"10.1016/j.gene.2012.08.007","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Mutational screening of SF1 and WNT4 in Tunisian women with premature ovarian failure” [Gene 509 (2012) 298–301]"}
+{
+  "retracted": false,
+  "timestamp": 1378771200000,
+  "updates": [
+    {
+      "timestamp": 1496013017737,
+      "identifier": {
+        "doi": "10.1016/j.gene.2013.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2012.08.007"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mutational screening of SF1 and WNT4 in Tunisian women with premature ovarian failure” [Gene 509 (2012) 298–301]"
+}

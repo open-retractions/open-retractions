@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1016/j.desal.2015.10.014","type":"err"},"doi":"10.1016/j.desal.2015.09.028","journal":"Desalination","publisher":"Elsevier BV","title":"Corrigendum to “Effect of high salinity on the performance of forward osmosis: Water flux, membrane scaling and removal efficiency” [Desalination 378 (2016) 67–73]"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1496047823936,
+      "identifier": {
+        "doi": "10.1016/j.desal.2015.10.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.desal.2015.09.028"
+  },
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of high salinity on the performance of forward osmosis: Water flux, membrane scaling and removal efficiency” [Desalination 378 (2016) 67–73]"
+}

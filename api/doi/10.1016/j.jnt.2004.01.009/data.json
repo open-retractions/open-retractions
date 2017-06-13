@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jnt.2014.11.010","type":"err"},"doi":"10.1016/j.jnt.2004.01.009","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “A parametric family of cubic Thue equations” [J. Number Theory 107 (1) (2004) 63–79]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496037773881,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2014.11.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2004.01.009"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A parametric family of cubic Thue equations” [J. Number Theory 107 (1) (2004) 63–79]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.optcom.2013.10.028","type":"err"},"doi":"10.1016/j.optcom.2010.04.028","journal":"Optics Communications","publisher":"Elsevier BV","title":"Retraction notice to “The optical properties in a chain waveguide of an array of silver nanoshell with dielectric holes” [Opt. Commun. 283(2010)3189–3193]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1495996284142,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.10.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2010.04.028"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The optical properties in a chain waveguide of an array of silver nanoshell with dielectric holes” [Opt. Commun. 283(2010)3189–3193]"
+}

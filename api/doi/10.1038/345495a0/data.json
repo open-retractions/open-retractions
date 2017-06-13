@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":644716800000,"update":{"timestamp":null,"doi":null,"pmid":1448156,"type":"retraction"},"doi":"10.1038/345495a0","journal":"Nature","publisher":null,"title":"Identification by anti-idiotype antibodies of an intracellular membrane protein that recognizes a mammalian endoplasmic reticulum retention signal."}
+{
+  "retracted": false,
+  "timestamp": 722736000000,
+  "updates": [
+    {
+      "timestamp": 1497089405984,
+      "identifier": {
+        "doi": "10.1038/360372a0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/345495a0"
+  },
+  "journal": "Nature",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Identification by anti-idiotype antibodies of an intracellular membrane protein that recognizes a mammalian endoplasmic reticulum retention signal"
+}

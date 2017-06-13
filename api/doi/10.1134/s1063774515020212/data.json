@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1134/s1063774515440029","type":"correction"},"doi":"10.1134/s1063774515020212","journal":"Crystallography Reports","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Role of strong magnetoelastic interaction in multiferroics materials: Semiconductor CuCrO2 and insulator CaMn7O12”"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1496001974157,
+      "identifier": {
+        "doi": "10.1134/s1063774515440029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063774515020212"
+  },
+  "journal": "Crystallography Reports",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Role of strong magnetoelastic interaction in multiferroics materials: Semiconductor CuCrO2 and insulator CaMn7O12”"
+}

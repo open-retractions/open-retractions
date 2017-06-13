@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428796800000,"doi":"10.1007/s10915-015-0025-4","type":"correction"},"doi":"10.1007/s10915-015-0006-7","journal":"Journal of Scientific Computing","publisher":"Springer Nature","title":"Erratum to: Lax–Friedrichs Multigrid Fast Sweeping Methods for Steady State Problems for Hyperbolic Conservation Laws"}
+{
+  "retracted": false,
+  "timestamp": 1428796800000,
+  "updates": [
+    {
+      "timestamp": 1496057008334,
+      "identifier": {
+        "doi": "10.1007/s10915-015-0025-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10915-015-0006-7"
+  },
+  "journal": "Journal of Scientific Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lax–Friedrichs Multigrid Fast Sweeping Methods for Steady State Problems for Hyperbolic Conservation Laws"
+}

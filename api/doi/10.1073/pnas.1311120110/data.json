@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1434412800000,"doi":"10.1073/pnas.1509023112","type":"correction"},"doi":"10.1073/pnas.1311120110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Thavandiran et al., Design and formulation of functional pluripotent stem cell-derived cardiac microtissues"}
+{
+  "retracted": false,
+  "timestamp": 1434412800000,
+  "updates": [
+    {
+      "timestamp": 1496000504742,
+      "identifier": {
+        "doi": "10.1073/pnas.1509023112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1311120110"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Thavandiran et al., Design and formulation of functional pluripotent stem cell-derived cardiac microtissues"
+}

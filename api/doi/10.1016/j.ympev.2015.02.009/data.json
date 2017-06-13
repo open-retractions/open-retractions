@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.ympev.2015.03.017","type":"err"},"doi":"10.1016/j.ympev.2015.02.009","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “MitoPhAST, a new automated mitogenomic phylogeny tool in the post-genomic era with a case study of 89 decapod mitogenomes including eight new freshwater crayfish mitogenomes” [Mol. Phylogenet. Evol. 85 (2015) 180–188]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496055208951,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2015.03.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2015.02.009"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MitoPhAST, a new automated mitogenomic phylogeny tool in the post-genomic era with a case study of 89 decapod mitogenomes including eight new freshwater crayfish mitogenomes” [Mol. Phylogenet. Evol. 85 (2015) 180–188]"
+}

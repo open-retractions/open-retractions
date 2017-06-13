@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484697600000,"doi":"10.1007/s00335-016-9676-1","type":"correction"},"doi":"10.1007/s00335-016-9668-1","journal":"Mammalian Genome","publisher":"Springer Nature","title":"Erratum to: A FAS-ligand variant associated with autoimmune lymphoproliferative syndrome in cats"}
+{
+  "retracted": false,
+  "timestamp": 1484697600000,
+  "updates": [
+    {
+      "timestamp": 1495676937210,
+      "identifier": {
+        "doi": "10.1007/s00335-016-9676-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00335-016-9668-1"
+  },
+  "journal": "Mammalian Genome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A FAS-ligand variant associated with autoimmune lymphoproliferative syndrome in cats"
+}

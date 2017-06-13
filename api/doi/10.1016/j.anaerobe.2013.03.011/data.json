@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.anaerobe.2014.08.004","type":"err"},"doi":"10.1016/j.anaerobe.2013.03.011","journal":"Anaerobe","publisher":"Elsevier BV","title":"‘Corrigendum to “Diet, the human gut microbiota, and IBD” [Anaerobe 24 (2013 Dec) 117–20]’"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496000191857,
+      "identifier": {
+        "doi": "10.1016/j.anaerobe.2014.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anaerobe.2013.03.011"
+  },
+  "journal": "Anaerobe",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “Diet, the human gut microbiota, and IBD” [Anaerobe 24 (2013 Dec) 117–20]’"
+}

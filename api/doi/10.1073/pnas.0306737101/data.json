@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1093305600000,"doi":"10.1073/pnas.0404931101","type":"correction"},"doi":"10.1073/pnas.0306737101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Larsson et al., Fluorometric measurements of conformational changes in glutamate transporters, PNAS 2004 101:3951-3956"}
+{
+  "retracted": false,
+  "timestamp": 1093305600000,
+  "updates": [
+    {
+      "timestamp": 1495830139454,
+      "identifier": {
+        "doi": "10.1073/pnas.0404931101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0306737101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Larsson et al., Fluorometric measurements of conformational changes in glutamate transporters, PNAS 2004 101:3951-3956"
+}

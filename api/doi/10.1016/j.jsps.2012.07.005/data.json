@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.jsps.2015.04.001","type":"err"},"doi":"10.1016/j.jsps.2012.07.005","journal":"Saudi Pharmaceutical Journal","publisher":"Elsevier BV","title":"Corrigendum to “Medication safety practices in hospitals: A national survey in Saudi Arabia” [Saudi Pharm. J. 21(2) (2013) 159–164]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495995717508,
+      "identifier": {
+        "doi": "10.1016/j.jsps.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsps.2012.07.005"
+  },
+  "journal": "Saudi Pharmaceutical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Medication safety practices in hospitals: A national survey in Saudi Arabia” [Saudi Pharm. J. 21(2) (2013) 159–164]"
+}

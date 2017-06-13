@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311206400000,"doi":"10.1371/annotation/90916531-1b34-4eb5-92a9-a7f8c5d72318","type":"correction"},"doi":"10.1371/journal.pbio.1000284","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Origin of Irreversibility of Cell Cycle Start in Budding Yeast"}
+{
+  "retracted": false,
+  "timestamp": 1311206400000,
+  "updates": [
+    {
+      "timestamp": 1495851259914,
+      "identifier": {
+        "doi": "10.1371/annotation/90916531-1b34-4eb5-92a9-a7f8c5d72318"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1000284"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Origin of Irreversibility of Cell Cycle Start in Budding Yeast"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1016/j.jconrel.2016.09.001","type":"erratum"},"doi":"10.1016/j.jconrel.2015.12.053","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Short-range cytokine gradients to mimic paracrine cell interactions in vitro” [J. Control. Release 224 (2016) 59–68]"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495644425508,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2016.09.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2015.12.053"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Short-range cytokine gradients to mimic paracrine cell interactions in vitro” [J. Control. Release 224 (2016) 59–68]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bbadis.2013.06.005","type":"err"},"doi":"10.1016/j.bbadis.2011.12.012","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease","publisher":"Elsevier BV","title":"Corrigendum to “Oxidative stress and antioxidant therapy in cystic fibrosis” [Biochim. Biophys. Acta 1822 (2012) 690–713]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496025734868,
+      "identifier": {
+        "doi": "10.1016/j.bbadis.2013.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbadis.2011.12.012"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Oxidative stress and antioxidant therapy in cystic fibrosis” [Biochim. Biophys. Acta 1822 (2012) 690–713]"
+}

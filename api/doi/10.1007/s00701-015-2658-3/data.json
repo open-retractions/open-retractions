@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453161600000,"doi":"10.1007/s00701-015-2694-z","type":"correction"},"doi":"10.1007/s00701-015-2658-3","journal":"Acta Neurochirurgica","publisher":"Springer Nature","title":"Erratum to: Intraforaminal ozone therapy"}
+{
+  "retracted": false,
+  "timestamp": 1453161600000,
+  "updates": [
+    {
+      "timestamp": 1495637633621,
+      "identifier": {
+        "doi": "10.1007/s00701-015-2694-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00701-015-2658-3"
+  },
+  "journal": "Acta Neurochirurgica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intraforaminal ozone therapy"
+}

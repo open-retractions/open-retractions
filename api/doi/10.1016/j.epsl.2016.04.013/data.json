@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484438400000,"doi":"10.1016/j.epsl.2016.11.005","type":"erratum"},"doi":"10.1016/j.epsl.2016.04.013","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Deep water provenance and dynamics of the (de)glacial Atlantic meridional overturning circulation” [Earth Planet. Sci. Lett. 445 (2016) 68–78]"}
+{
+  "retracted": false,
+  "timestamp": 1484438400000,
+  "updates": [
+    {
+      "timestamp": 1495660299293,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2016.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2016.04.013"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Deep water provenance and dynamics of the (de)glacial Atlantic meridional overturning circulation” [Earth Planet. Sci. Lett. 445 (2016) 68–78]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.dld.2015.07.006","type":"err"},"doi":"10.1016/j.dld.2014.08.034","journal":"Digestive and Liver Disease","publisher":"Elsevier BV","title":"Corrigendum to “Tobacco smoking and intestinal metaplasia: Systematic review and meta-analysis” [Dig. Liver Dis. 46 (2014) 1031–1037]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496017783795,
+      "identifier": {
+        "doi": "10.1016/j.dld.2015.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dld.2014.08.034"
+  },
+  "journal": "Digestive and Liver Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Tobacco smoking and intestinal metaplasia: Systematic review and meta-analysis” [Dig. Liver Dis. 46 (2014) 1031–1037]"
+}

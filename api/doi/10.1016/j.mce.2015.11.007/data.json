@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.mce.2016.04.017","type":"err"},"doi":"10.1016/j.mce.2015.11.007","journal":"Molecular and Cellular Endocrinology","publisher":"Elsevier BV","title":"Corrigendum to “Differential gene regulation of GHSR signaling pathway in the arcuate nucleus and NPY neurons by fasting, diet-induced obesity, and 17β-estradiol” [Mol. Cell. Endocrinol. 157 (2016) 679–691]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495672269601,
+      "identifier": {
+        "doi": "10.1016/j.mce.2016.04.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mce.2015.11.007"
+  },
+  "journal": "Molecular and Cellular Endocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Differential gene regulation of GHSR signaling pathway in the arcuate nucleus and NPY neurons by fasting, diet-induced obesity, and 17β-estradiol” [Mol. Cell. Endocrinol. 157 (2016) 679–691]"
+}

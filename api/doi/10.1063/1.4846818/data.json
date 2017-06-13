@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488412800000,"doi":"10.1063/1.4977907","type":"erratum"},"doi":"10.1063/1.4846818","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Collisionless microinstabilities in stellarators. I. Analytical theory of trapped-particle modes” [Phys. Plasmas 20, 122505 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1488412800000,
+  "updates": [
+    {
+      "timestamp": 1495732622542,
+      "identifier": {
+        "doi": "10.1063/1.4977907"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4846818"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Collisionless microinstabilities in stellarators. I. Analytical theory of trapped-particle modes” [Phys. Plasmas 20, 122505 (2013)]"
+}

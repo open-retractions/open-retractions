@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1297382400000,"doi":"10.1371/annotation/0bac4872-2fa2-416e-ac45-4b0ac79f8ddd","type":"correction"},"doi":"10.1371/journal.pgen.1001063","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Transcriptional Regulation by CHIP/LDB Complexes"}
+{
+  "retracted": false,
+  "timestamp": 1297382400000,
+  "updates": [
+    {
+      "timestamp": 1495924873738,
+      "identifier": {
+        "doi": "10.1371/annotation/0bac4872-2fa2-416e-ac45-4b0ac79f8ddd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001063"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Transcriptional Regulation by CHIP/LDB Complexes"
+}

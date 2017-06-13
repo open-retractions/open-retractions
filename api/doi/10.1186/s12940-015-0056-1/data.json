@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490227200000,"doi":"10.1186/s12940-017-0236-2","type":"correction"},"doi":"10.1186/s12940-015-0056-1","journal":"Environmental Health","publisher":"Springer Nature","title":"Erratum to: Transcriptome profile analysis reflects rat liver and kidney damage following chronic ultra-low dose Roundup exposure"}
+{
+  "retracted": false,
+  "timestamp": 1490227200000,
+  "updates": [
+    {
+      "timestamp": 1495731630518,
+      "identifier": {
+        "doi": "10.1186/s12940-017-0236-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12940-015-0056-1"
+  },
+  "journal": "Environmental Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transcriptome profile analysis reflects rat liver and kidney damage following chronic ultra-low dose Roundup exposure"
+}

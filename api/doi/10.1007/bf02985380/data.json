@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1240617600000,"doi":"10.1007/bf03038089","type":"correction"},"doi":"10.1007/bf02985380","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: Max von laue’s role in the relativity revolution"}
+{
+  "retracted": false,
+  "timestamp": 1240617600000,
+  "updates": [
+    {
+      "timestamp": 1495947539868,
+      "identifier": {
+        "doi": "10.1007/bf03038089"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02985380"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Max von laue’s role in the relativity revolution"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.bmc.2015.06.001","type":"erratum"},"doi":"10.1016/j.bmc.2015.04.038","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Structure-based design and synthesis of covalent-reversible inhibitors to overcome drug resistance in EGFR” [Bioorg. Med. Chem. 23, 2015, 2767–2780]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496007607648,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.06.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2015.04.038"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structure-based design and synthesis of covalent-reversible inhibitors to overcome drug resistance in EGFR” [Bioorg. Med. Chem. 23, 2015, 2767–2780]"
+}

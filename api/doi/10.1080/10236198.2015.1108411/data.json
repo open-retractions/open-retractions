@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464912000000,"doi":"10.1080/10236198.2016.1193956","type":"correction"},"doi":"10.1080/10236198.2015.1108411","journal":"Journal of Difference Equations and Applications","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1464912000000,
+  "updates": [
+    {
+      "timestamp": 1495718145442,
+      "identifier": {
+        "doi": "10.1080/10236198.2016.1193956"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10236198.2015.1108411"
+  },
+  "journal": "Journal of Difference Equations and Applications",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

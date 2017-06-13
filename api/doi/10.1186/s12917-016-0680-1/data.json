@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460419200000,"doi":"10.1186/s12917-016-0699-3","type":"correction"},"doi":"10.1186/s12917-016-0680-1","journal":"BMC Veterinary Research","publisher":"Springer Nature","title":"Erratum to: Laboratory investigations into the origin of Mycoplasma synoviae isolated from a lesser flamingo (Phoeniconaias minor)"}
+{
+  "retracted": false,
+  "timestamp": 1460419200000,
+  "updates": [
+    {
+      "timestamp": 1495666584043,
+      "identifier": {
+        "doi": "10.1186/s12917-016-0699-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12917-016-0680-1"
+  },
+  "journal": "BMC Veterinary Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Laboratory investigations into the origin of Mycoplasma synoviae isolated from a lesser flamingo (Phoeniconaias minor)"
+}

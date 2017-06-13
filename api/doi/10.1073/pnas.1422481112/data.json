@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438646400000,"doi":"10.1073/pnas.1512309112","type":"correction"},"doi":"10.1073/pnas.1422481112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Washburn et al., Controlled tetra-Fc sialylation of IVIg results in a drug candidate with consistent enhanced anti-inflammatory activity"}
+{
+  "retracted": false,
+  "timestamp": 1438646400000,
+  "updates": [
+    {
+      "timestamp": 1496015223290,
+      "identifier": {
+        "doi": "10.1073/pnas.1512309112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1422481112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Washburn et al., Controlled tetra-Fc sialylation of IVIg results in a drug candidate with consistent enhanced anti-inflammatory activity"
+}

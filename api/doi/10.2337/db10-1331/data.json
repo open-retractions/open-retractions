@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.2337/db13-er12","type":"correction"},"doi":"10.2337/db10-1331","journal":"Diabetes","publisher":"American Diabetes Association","title":"Identification of metabolic modifiers that underlie phenotypic variations in energy-balance regulation. Diabetes 2011;60:726-734"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496015123288,
+      "identifier": {
+        "doi": "10.2337/db13-er12"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db10-1331"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Identification of metabolic modifiers that underlie phenotypic variations in energy-balance regulation. Diabetes 2011;60:726-734"
+}

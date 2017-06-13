@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.biortech.2014.12.061","type":"err"},"doi":"10.1016/j.biortech.2014.02.038","journal":"Bioresource Technology","publisher":"Elsevier BV","title":"Corrigendum to “Using planktonic microorganisms to supply the unpurified multi-copper oxidases laccase and copper efflux oxidases at a biofuel cell cathode” [Bioresour. Technol. 158 (2014) 231–238]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496037055719,
+      "identifier": {
+        "doi": "10.1016/j.biortech.2014.12.061"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biortech.2014.02.038"
+  },
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Using planktonic microorganisms to supply the unpurified multi-copper oxidases laccase and copper efflux oxidases at a biofuel cell cathode” [Bioresour. Technol. 158 (2014) 231–238]"
+}

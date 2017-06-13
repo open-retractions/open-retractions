@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448236800000,"doi":"10.1007/s10891-015-1346-8","type":"correction"},"doi":"10.1007/s10891-015-1263-x","journal":"Journal of Engineering Physics and Thermophysics","publisher":"Springer Nature","title":"Erratum to: Simulation of Supersonic Flow in a Channel with a Step on Nonstructured Meshes with the Use of the Weno Scheme"}
+{
+  "retracted": false,
+  "timestamp": 1448236800000,
+  "updates": [
+    {
+      "timestamp": 1496047631732,
+      "identifier": {
+        "doi": "10.1007/s10891-015-1346-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10891-015-1263-x"
+  },
+  "journal": "Journal of Engineering Physics and Thermophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simulation of Supersonic Flow in a Channel with a Step on Nonstructured Meshes with the Use of the Weno Scheme"
+}

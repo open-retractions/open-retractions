@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1096329600000,"doi":"10.1073/pnas.0406245101","type":"correction"},"doi":"10.1073/pnas.0405015101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Blelloch et al., Inaugural Article: Nuclear cloning of embryonal carcinoma cells, PNAS 2004 101:13985-13990"}
+{
+  "retracted": false,
+  "timestamp": 1096329600000,
+  "updates": [
+    {
+      "timestamp": 1495857622267,
+      "identifier": {
+        "doi": "10.1073/pnas.0406245101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0405015101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Blelloch et al., Inaugural Article: Nuclear cloning of embryonal carcinoma cells, PNAS 2004 101:13985-13990"
+}

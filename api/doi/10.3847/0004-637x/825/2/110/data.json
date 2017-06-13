@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491350400000,"doi":"10.3847/1538-4357/aa679d","type":"correction"},"doi":"10.3847/0004-637x/825/2/110","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “On the Fourier and Wavelet Analysis of Coronal Time Series” (2016, ApJ, 825, 110)"}
+{
+  "retracted": false,
+  "timestamp": 1491350400000,
+  "updates": [
+    {
+      "timestamp": 1495736748590,
+      "identifier": {
+        "doi": "10.3847/1538-4357/aa679d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/0004-637x/825/2/110"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “On the Fourier and Wavelet Analysis of Coronal Time Series” (2016, ApJ, 825, 110)"
+}

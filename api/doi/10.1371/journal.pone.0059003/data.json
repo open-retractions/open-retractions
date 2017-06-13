@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382659200000,"doi":"10.1371/annotation/ac974676-18a6-4aee-b38e-57a1142a3dc1","type":"correction"},"doi":"10.1371/journal.pone.0059003","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Depletion of Cellular Iron by Curcumin Leads to Alteration in Histone Acetylation and Degradation of Sml1p in Saccharomyces cerevisiae"}
+{
+  "retracted": false,
+  "timestamp": 1382659200000,
+  "updates": [
+    {
+      "timestamp": 1495992672362,
+      "identifier": {
+        "doi": "10.1371/annotation/ac974676-18a6-4aee-b38e-57a1142a3dc1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059003"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Depletion of Cellular Iron by Curcumin Leads to Alteration in Histone Acetylation and Degradation of Sml1p in Saccharomyces cerevisiae"
+}

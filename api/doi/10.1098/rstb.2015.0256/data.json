@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476835200000,"doi":"10.1098/rstb.2016.0395","type":"correction"},"doi":"10.1098/rstb.2015.0256","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘The neural basis of depth perception from motion parallax’"}
+{
+  "retracted": false,
+  "timestamp": 1476835200000,
+  "updates": [
+    {
+      "timestamp": 1495639535534,
+      "identifier": {
+        "doi": "10.1098/rstb.2016.0395"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2015.0256"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘The neural basis of depth perception from motion parallax’"
+}

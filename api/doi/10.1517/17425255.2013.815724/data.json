@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392336000000,"doi":"10.1517/17425255.2014.884990","type":"correction"},"doi":"10.1517/17425255.2013.815724","journal":"Expert Opinion on Drug Metabolism & Toxicology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1392336000000,
+  "updates": [
+    {
+      "timestamp": 1496015418805,
+      "identifier": {
+        "doi": "10.1517/17425255.2014.884990"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/17425255.2013.815724"
+  },
+  "journal": "Expert Opinion on Drug Metabolism & Toxicology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

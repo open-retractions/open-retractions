@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386374400000,"doi":"10.1016/j.jtbi.2013.09.015","type":"err"},"doi":"10.1016/j.jtbi.2011.10.015","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"Corrigendum to “Multi-kernel transfer learning based on Chou's PseAAC formulation for protein submitochondria localization” [J. Theor. Biol. 293 (2012) 121–130]"}
+{
+  "retracted": false,
+  "timestamp": 1386374400000,
+  "updates": [
+    {
+      "timestamp": 1496048386629,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2013.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2011.10.015"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-kernel transfer learning based on Chou's PseAAC formulation for protein submitochondria localization” [J. Theor. Biol. 293 (2012) 121–130]"
+}

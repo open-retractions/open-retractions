@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491955200000,"doi":"10.1007/s00284-017-1245-7","type":"correction"},"doi":"10.1007/s00284-017-1216-z","journal":"Current Microbiology","publisher":"Springer Nature","title":"Erratum to: Hymenobacter knuensis sp. nov., Isolated From River Water"}
+{
+  "retracted": false,
+  "timestamp": 1491955200000,
+  "updates": [
+    {
+      "timestamp": 1496067036328,
+      "identifier": {
+        "doi": "10.1007/s00284-017-1245-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00284-017-1216-z"
+  },
+  "journal": "Current Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hymenobacter knuensis sp. nov., Isolated From River Water"
+}

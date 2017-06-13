@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421712000000,"doi":"10.1007/s12474-015-0073-4","type":"correction"},"doi":"10.1007/s12474-014-0066-8","journal":"Neuropraxis","publisher":"Springer Nature","title":"Erratum op: Van Gogh en de hoge gele noot"}
+{
+  "retracted": false,
+  "timestamp": 1421712000000,
+  "updates": [
+    {
+      "timestamp": 1496037692750,
+      "identifier": {
+        "doi": "10.1007/s12474-015-0073-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12474-014-0066-8"
+  },
+  "journal": "Neuropraxis",
+  "publisher": "Springer Nature",
+  "title": "Erratum op: Van Gogh en de hoge gele noot"
+}

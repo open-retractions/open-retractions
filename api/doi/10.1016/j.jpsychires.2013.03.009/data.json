@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jpsychires.2014.05.002","type":"err"},"doi":"10.1016/j.jpsychires.2013.03.009","journal":"Journal of Psychiatric Research","publisher":"Elsevier BV","title":"Corrigendum to “Investigating the influence of maternal cortisol and emotional state during pregnancy on the DNA methylation status of the glucocorticoid receptor gene (NR3C1) promoter region in cord blood” [J Psychiatr Res 47 880–91]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496042955454,
+      "identifier": {
+        "doi": "10.1016/j.jpsychires.2014.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpsychires.2013.03.009"
+  },
+  "journal": "Journal of Psychiatric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Investigating the influence of maternal cortisol and emotional state during pregnancy on the DNA methylation status of the glucocorticoid receptor gene (NR3C1) promoter region in cord blood” [J Psychiatr Res 47 880–91]"
+}

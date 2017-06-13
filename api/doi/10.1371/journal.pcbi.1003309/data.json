@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491868800000,"doi":"10.1371/journal.pcbi.1005476","type":"correction"},"doi":"10.1371/journal.pcbi.1003309","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Deciding Not to Decide: Computational and Neural Evidence for Hidden Behavior in Sequential Choice"}
+{
+  "retracted": false,
+  "timestamp": 1491868800000,
+  "updates": [
+    {
+      "timestamp": 1495738595010,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1005476"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003309"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Deciding Not to Decide: Computational and Neural Evidence for Hidden Behavior in Sequential Choice"
+}

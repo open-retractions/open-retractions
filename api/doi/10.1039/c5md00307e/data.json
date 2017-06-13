@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447977600000,"doi":"10.1039/c5md90057c","type":"correction"},"doi":"10.1039/c5md00307e","journal":"Med. Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Discovery of a potent and highly fluorescent sirtuin inhibitor"}
+{
+  "retracted": false,
+  "timestamp": 1447977600000,
+  "updates": [
+    {
+      "timestamp": 1496047560817,
+      "identifier": {
+        "doi": "10.1039/c5md90057c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5md00307e"
+  },
+  "journal": "Med. Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Discovery of a potent and highly fluorescent sirtuin inhibitor"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jtte.2016.12.001","type":"erratum"},"doi":"10.1016/j.jtte.2015.09.006","journal":"Journal of Traffic and Transportation Engineering (English Edition)","publisher":"Elsevier BV","title":"Corrigendum to <‘Random-parameters analysis of highway characteristics on crash frequency and injury severity’> <[J. Traffic Transp. Eng. (English Edition) 3 (2016), 236–242]>"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495673993368,
+      "identifier": {
+        "doi": "10.1016/j.jtte.2016.12.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtte.2015.09.006"
+  },
+  "journal": "Journal of Traffic and Transportation Engineering (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to <‘Random-parameters analysis of highway characteristics on crash frequency and injury severity’> <[J. Traffic Transp. Eng. (English Edition) 3 (2016), 236–242]>"
+}

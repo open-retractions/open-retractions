@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-365644800000,"doi":"10.1063/1.1723321","type":"erratum"},"doi":"10.1063/1.1702374","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: A Definition of Passive Linear Networks in Terms of Time and Energy"}
+{
+  "retracted": false,
+  "timestamp": -365644800000,
+  "updates": [
+    {
+      "timestamp": 1495936977155,
+      "identifier": {
+        "doi": "10.1063/1.1723321"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1702374"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: A Definition of Passive Linear Networks in Terms of Time and Energy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431388800000,"doi":"10.1088/1367-2630/17/5/059601","type":"correction"},"doi":"10.1088/1367-2630/17/4/043012","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Erratum: An adjustable-length cavity and Bose–Einstein condensate apparatus for multimode cavity QED (2015 New J. Phys. 17 043012)"}
+{
+  "retracted": false,
+  "timestamp": 1431388800000,
+  "updates": [
+    {
+      "timestamp": 1495999623145,
+      "identifier": {
+        "doi": "10.1088/1367-2630/17/5/059601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/17/4/043012"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: An adjustable-length cavity and Bose–Einstein condensate apparatus for multimode cavity QED (2015 New J. Phys. 17 043012)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1128/jcm.01953-16","type":"correction"},"doi":"10.1128/jcm.00399-11","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Shewmaker et al., Reevaluation of the Taxonomic Status of Recently Described Species of Enterococcus: Evidence that E. thailandicus Is a Senior Subjective Synonym of “E. sanguinicola” and Confirmation of E. caccae as a Species Distinct from E. silesiacus"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495669924859,
+      "identifier": {
+        "doi": "10.1128/jcm.01953-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.00399-11"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Shewmaker et al., Reevaluation of the Taxonomic Status of Recently Described Species of Enterococcus: Evidence that E. thailandicus Is a Senior Subjective Synonym of “E. sanguinicola” and Confirmation of E. caccae as a Species Distinct from E. silesiacus"
+}

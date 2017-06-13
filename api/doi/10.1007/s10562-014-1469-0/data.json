@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427155200000,"doi":"10.1007/s10562-015-1516-5","type":"correction"},"doi":"10.1007/s10562-014-1469-0","journal":"Catalysis Letters","publisher":"Springer Nature","title":"Erratum to: Dehydrogenation of 2-Phenyl-1-pyrroline with Palladium-Supported Catalysts: An Effective Route to the Synthesis of 2-Phenylpyrrole"}
+{
+  "retracted": false,
+  "timestamp": 1427155200000,
+  "updates": [
+    {
+      "timestamp": 1496052443843,
+      "identifier": {
+        "doi": "10.1007/s10562-015-1516-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10562-014-1469-0"
+  },
+  "journal": "Catalysis Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dehydrogenation of 2-Phenyl-1-pyrroline with Palladium-Supported Catalysts: An Effective Route to the Synthesis of 2-Phenylpyrrole"
+}

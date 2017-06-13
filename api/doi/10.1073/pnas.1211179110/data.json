@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479772800000,"doi":"10.1073/pnas.1616960113","type":"correction"},"doi":"10.1073/pnas.1211179110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ren et al., LRP-6 is a coreceptor for multiple fibrogenic signaling pathways in pericytes and myofibroblasts that are inhibited by DKK-1"}
+{
+  "retracted": false,
+  "timestamp": 1479772800000,
+  "updates": [
+    {
+      "timestamp": 1495657380323,
+      "identifier": {
+        "doi": "10.1073/pnas.1616960113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1211179110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ren et al., LRP-6 is a coreceptor for multiple fibrogenic signaling pathways in pericytes and myofibroblasts that are inhibited by DKK-1"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1103587200000,"doi":"10.1073/pnas.0408427101","type":"correction"},"doi":"10.1073/pnas.0405583101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kurokawa et al., Regulatory actions of the A-kinase anchoring protein Yotiao on a heart potassium channel downstream of PKA phosphorylation, PNAS 2004 101:16374-16378"}
+{
+  "retracted": false,
+  "timestamp": 1103587200000,
+  "updates": [
+    {
+      "timestamp": 1495870985379,
+      "identifier": {
+        "doi": "10.1073/pnas.0408427101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0405583101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kurokawa et al., Regulatory actions of the A-kinase anchoring protein Yotiao on a heart potassium channel downstream of PKA phosphorylation, PNAS 2004 101:16374-16378"
+}

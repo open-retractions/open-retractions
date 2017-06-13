@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bse.2014.09.001","type":"err"},"doi":"10.1016/j.bse.2013.11.001","journal":"Biochemical Systematics and Ecology","publisher":"Elsevier BV","title":"Corrigendum to ‘Diterpenes from the brown seaweed Dictyota caribaea (Dictyotaceae, Phaeophyceae): The ecological and taxonomic significance’ [BSE (2014) 33–37]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496009223140,
+      "identifier": {
+        "doi": "10.1016/j.bse.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bse.2013.11.001"
+  },
+  "journal": "Biochemical Systematics and Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Diterpenes from the brown seaweed Dictyota caribaea (Dictyotaceae, Phaeophyceae): The ecological and taxonomic significance’ [BSE (2014) 33–37]"
+}

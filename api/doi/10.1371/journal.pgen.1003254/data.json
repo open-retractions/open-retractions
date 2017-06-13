@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361145600000,"doi":"10.1371/annotation/a26cb527-ec18-46ec-a63f-c69d0983add6","type":"correction"},"doi":"10.1371/journal.pgen.1003254","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: An Evolutionarily Conserved Synthetic Lethal Interaction Network Identifies FEN1 as a Broad-Spectrum Target for Anticancer Therapeutic Development"}
+{
+  "retracted": false,
+  "timestamp": 1361145600000,
+  "updates": [
+    {
+      "timestamp": 1496000085254,
+      "identifier": {
+        "doi": "10.1371/annotation/a26cb527-ec18-46ec-a63f-c69d0983add6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003254"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: An Evolutionarily Conserved Synthetic Lethal Interaction Network Identifies FEN1 as a Broad-Spectrum Target for Anticancer Therapeutic Development"
+}

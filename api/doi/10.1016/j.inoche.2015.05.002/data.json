@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.inoche.2015.06.021","type":"err"},"doi":"10.1016/j.inoche.2015.05.002","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Corrigendum to “A novel zinc tetraphenylporphyrinate substituted in the axial position with one E-stilbazole: Synthesis, structure, and nonlinear optics” [Inorg. Chem. Commun. 57 (2015) 47–50]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496009442410,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2015.06.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2015.05.002"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel zinc tetraphenylporphyrinate substituted in the axial position with one E-stilbazole: Synthesis, structure, and nonlinear optics” [Inorg. Chem. Commun. 57 (2015) 47–50]"
+}

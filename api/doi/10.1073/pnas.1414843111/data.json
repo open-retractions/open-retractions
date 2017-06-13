@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421712000000,"doi":"10.1073/pnas.1424022112","type":"correction"},"doi":"10.1073/pnas.1414843111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Robertson et al., Assembly and molecular order of two-dimensional peptoid nanosheets through the oil–water interface"}
+{
+  "retracted": false,
+  "timestamp": 1421712000000,
+  "updates": [
+    {
+      "timestamp": 1496032854370,
+      "identifier": {
+        "doi": "10.1073/pnas.1424022112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1414843111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Robertson et al., Assembly and molecular order of two-dimensional peptoid nanosheets through the oil–water interface"
+}

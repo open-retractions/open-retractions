@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424304000000,"doi":"10.1007/s11229-015-0687-3","type":"correction"},"doi":"10.1007/s11229-014-0525-z","journal":"Synthese","publisher":"Springer Nature","title":"Erratum to: The Jeffreys–Lindley paradox and discovery criteria in high energy physics"}
+{
+  "retracted": false,
+  "timestamp": 1424304000000,
+  "updates": [
+    {
+      "timestamp": 1496044865679,
+      "identifier": {
+        "doi": "10.1007/s11229-015-0687-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11229-014-0525-z"
+  },
+  "journal": "Synthese",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Jeffreys–Lindley paradox and discovery criteria in high energy physics"
+}

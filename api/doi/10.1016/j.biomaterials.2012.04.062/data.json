@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.biomaterials.2015.06.021","type":"erratum"},"doi":"10.1016/j.biomaterials.2012.04.062","journal":"Biomaterials","publisher":"Elsevier BV","title":"Corrigendum to “Superparamagnetic PLGA-iron oxide microcapsules for dual-modality US/MR imaging and high intensity focused US breast cancer ablation” [Biomaterials 33 (2012) 5854–5864]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496009451305,
+      "identifier": {
+        "doi": "10.1016/j.biomaterials.2015.06.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biomaterials.2012.04.062"
+  },
+  "journal": "Biomaterials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Superparamagnetic PLGA-iron oxide microcapsules for dual-modality US/MR imaging and high intensity focused US breast cancer ablation” [Biomaterials 33 (2012) 5854–5864]"
+}

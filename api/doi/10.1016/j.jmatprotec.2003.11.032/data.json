@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jmatprotec.2013.08.009","type":"err"},"doi":"10.1016/j.jmatprotec.2003.11.032","journal":"Journal of Materials Processing Technology","publisher":"Elsevier BV","title":"Corrigendum to “Yao Yingxue, Gao Shengdong, Cui Chengsong, Rapid prototyping based on uniform droplet spraying” [J. Mater. Process. Technol. 146 (2004) 389–395]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1495999398630,
+      "identifier": {
+        "doi": "10.1016/j.jmatprotec.2013.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmatprotec.2003.11.032"
+  },
+  "journal": "Journal of Materials Processing Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Yao Yingxue, Gao Shengdong, Cui Chengsong, Rapid prototyping based on uniform droplet spraying” [J. Mater. Process. Technol. 146 (2004) 389–395]"
+}

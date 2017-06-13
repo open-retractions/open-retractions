@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.drudis.2014.08.002","type":"err"},"doi":"10.1016/j.drudis.2013.11.010","journal":"Drug Discovery Today","publisher":"Elsevier BV","title":"Corrigendum to “d-Arginine as a neuroprotective amino acid: promising outcomes for neurological diseases” [Drug Discov. Today 19 (2014) 627–636]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496002185792,
+      "identifier": {
+        "doi": "10.1016/j.drudis.2014.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.drudis.2013.11.010"
+  },
+  "journal": "Drug Discovery Today",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “d-Arginine as a neuroprotective amino acid: promising outcomes for neurological diseases” [Drug Discov. Today 19 (2014) 627–636]"
+}

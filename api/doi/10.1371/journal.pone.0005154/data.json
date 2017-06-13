@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245369600000,"doi":"10.1371/annotation/da3ad6f8-bc52-494d-9472-dd96c387c8fd","type":"correction"},"doi":"10.1371/journal.pone.0005154","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: CaZF, a Plant Transcription Factor Functions through and Parallel to HOG and Calcineurin Pathways in Saccharomyces cerevisiae to Provide Osmotolerance"}
+{
+  "retracted": false,
+  "timestamp": 1245369600000,
+  "updates": [
+    {
+      "timestamp": 1496025199451,
+      "identifier": {
+        "doi": "10.1371/annotation/da3ad6f8-bc52-494d-9472-dd96c387c8fd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005154"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: CaZF, a Plant Transcription Factor Functions through and Parallel to HOG and Calcineurin Pathways in Saccharomyces cerevisiae to Provide Osmotolerance"
+}

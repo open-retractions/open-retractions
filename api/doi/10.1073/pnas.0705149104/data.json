@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1196726400000,"doi":"10.1073/pnas.0711492105","type":"correction"},"doi":"10.1073/pnas.0705149104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Rayala et al., Dynamic interplay between nitration and phosphorylation of tubulin cofactor B in the control of microtubule dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1196726400000,
+  "updates": [
+    {
+      "timestamp": 1495813629514,
+      "identifier": {
+        "doi": "10.1073/pnas.0711492105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0705149104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Rayala et al., Dynamic interplay between nitration and phosphorylation of tubulin cofactor B in the control of microtubule dynamics"
+}

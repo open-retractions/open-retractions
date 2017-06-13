@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407110400000,"doi":"10.1016/j.ijhydene.2014.06.002","type":"err"},"doi":"10.1016/j.ijhydene.2011.09.030","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “CFD modeling of hydrogen production using steam reforming of methane in monolith reactors: Surface or volume-base reaction model?” [Fuel Energy 36 (24) (2011) 15602–10]"}
+{
+  "retracted": false,
+  "timestamp": 1407110400000,
+  "updates": [
+    {
+      "timestamp": 1496049837557,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2014.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2011.09.030"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “CFD modeling of hydrogen production using steam reforming of methane in monolith reactors: Surface or volume-base reaction model?” [Fuel Energy 36 (24) (2011) 15602–10]"
+}

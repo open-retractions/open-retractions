@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.appet.2014.05.012","type":"err"},"doi":"10.1016/j.appet.2014.03.020","journal":"Appetite","publisher":"Elsevier BV","title":"Corrigendum to ‘Adherence to Mediterranean diet in a Spanish university population’"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496040695949,
+      "identifier": {
+        "doi": "10.1016/j.appet.2014.05.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.appet.2014.03.020"
+  },
+  "journal": "Appetite",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Adherence to Mediterranean diet in a Spanish university population’"
+}

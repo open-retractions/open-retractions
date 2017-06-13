@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1007/s00216-015-8756-5","type":"correction"},"doi":"10.1007/s00216-014-8117-9","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Chiral ligand-exchange high-performance liquid chromatography with copper (II)-L-phenylalanine complexes for separation of 3,4-dimethoxy-α-methylphenylalanine racemes"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1496001251631,
+      "identifier": {
+        "doi": "10.1007/s00216-015-8756-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-014-8117-9"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chiral ligand-exchange high-performance liquid chromatography with copper (II)-L-phenylalanine complexes for separation of 3,4-dimethoxy-α-methylphenylalanine racemes"
+}

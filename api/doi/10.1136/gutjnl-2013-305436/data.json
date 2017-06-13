@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1136/gutjnl-2013-305436a","type":"correction"},"doi":"10.1136/gutjnl-2013-305436","journal":"Gut","publisher":"BMJ","title":"Erratum:A patient with acute pancreatitis and unusual vermiform stools"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1496030969260,
+      "identifier": {
+        "doi": "10.1136/gutjnl-2013-305436a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/gutjnl-2013-305436"
+  },
+  "journal": "Gut",
+  "publisher": "BMJ",
+  "title": "Erratum:A patient with acute pancreatitis and unusual vermiform stools"
+}

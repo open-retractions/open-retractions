@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407542400000,"doi":"10.1007/s00184-014-0504-x","type":"correction"},"doi":"10.1007/s00184-014-0500-1","journal":"Metrika","publisher":"Springer Nature","title":"Erratum to: On optimal designs for censored data"}
+{
+  "retracted": false,
+  "timestamp": 1407542400000,
+  "updates": [
+    {
+      "timestamp": 1495999092537,
+      "identifier": {
+        "doi": "10.1007/s00184-014-0504-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00184-014-0500-1"
+  },
+  "journal": "Metrika",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On optimal designs for censored data"
+}

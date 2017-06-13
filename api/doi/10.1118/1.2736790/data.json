@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1272672000000,"doi":"10.1118/1.3388848","type":"erratum"},"doi":"10.1118/1.2736790","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Supplement to the 2004 update of the AAPM Task Group No. 43 Report” [Med. Phys. 34, 2187-2205 (2007)]"}
+{
+  "retracted": false,
+  "timestamp": 1272672000000,
+  "updates": [
+    {
+      "timestamp": 1495838185758,
+      "identifier": {
+        "doi": "10.1118/1.3388848"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.2736790"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Supplement to the 2004 update of the AAPM Task Group No. 43 Report” [Med. Phys. 34, 2187-2205 (2007)]"
+}

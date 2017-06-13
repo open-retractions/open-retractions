@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.cad.2014.12.004","type":"err"},"doi":"10.1016/j.cad.2013.10.005","journal":"Computer-Aided Design","publisher":"Elsevier BV","title":"Corrigendum to “A high capacity reversible data hiding method for 2D vector maps based on virtual coordinates” [Comput Aided Des 47 (2014) 108–117]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496040447854,
+      "identifier": {
+        "doi": "10.1016/j.cad.2014.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cad.2013.10.005"
+  },
+  "journal": "Computer-Aided Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A high capacity reversible data hiding method for 2D vector maps based on virtual coordinates” [Comput Aided Des 47 (2014) 108–117]"
+}

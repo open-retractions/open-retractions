@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372377600000,"doi":"10.1371/annotation/47607b18-ed69-4a08-8619-60c39bd83a13","type":"correction"},"doi":"10.1371/journal.pone.0059267","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Assessing Phospholipase A2Activity toward Cardiolipin by Mass Spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1372377600000,
+  "updates": [
+    {
+      "timestamp": 1496039101850,
+      "identifier": {
+        "doi": "10.1371/annotation/47607b18-ed69-4a08-8619-60c39bd83a13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059267"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Assessing Phospholipase A2Activity toward Cardiolipin by Mass Spectrometry"
+}

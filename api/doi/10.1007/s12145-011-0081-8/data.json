@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407974400000,"doi":"10.1007/s12145-014-0174-2","type":"correction"},"doi":"10.1007/s12145-011-0081-8","journal":"Earth Science Informatics","publisher":"Springer Nature","title":"Erratum to: A decision support system for assessing and managing environment risk cross borders"}
+{
+  "retracted": false,
+  "timestamp": 1407974400000,
+  "updates": [
+    {
+      "timestamp": 1495999884076,
+      "identifier": {
+        "doi": "10.1007/s12145-014-0174-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12145-011-0081-8"
+  },
+  "journal": "Earth Science Informatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A decision support system for assessing and managing environment risk cross borders"
+}

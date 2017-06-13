@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433376000000,"doi":"10.1007/s00705-015-2475-2","type":"correction"},"doi":"10.1007/s00705-015-2424-0","journal":"Archives of Virology","publisher":"Springer Nature","title":"Erratum to: Evolutionary trends of European bat lyssavirus type 2 including genetic characterization of Finnish strains of human and bat origin 24 years apart"}
+{
+  "retracted": false,
+  "timestamp": 1433376000000,
+  "updates": [
+    {
+      "timestamp": 1496003778858,
+      "identifier": {
+        "doi": "10.1007/s00705-015-2475-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00705-015-2424-0"
+  },
+  "journal": "Archives of Virology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evolutionary trends of European bat lyssavirus type 2 including genetic characterization of Finnish strains of human and bat origin 24 years apart"
+}

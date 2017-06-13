@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-2682288000000,"doi":"10.1007/bf02111786","type":"correction"},"doi":"10.1007/bf01642750","journal":"Österreichische botanische Zeitschrift","publisher":"Springer Nature","title":"Erratum zu: Beiträge zur Flora von Kärnten"}
+{
+  "retracted": false,
+  "timestamp": -2682288000000,
+  "updates": [
+    {
+      "timestamp": 1495901741839,
+      "identifier": {
+        "doi": "10.1007/bf02111786"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01642750"
+  },
+  "journal": "Österreichische botanische Zeitschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Beiträge zur Flora von Kärnten"
+}

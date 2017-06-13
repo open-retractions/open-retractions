@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.jcrc.2016.06.022","type":"erratum"},"doi":"10.1016/j.jcrc.2016.04.005","journal":"Journal of Critical Care","publisher":"Elsevier BV","title":"Is inhaled prophylactic heparin useful for prevention and management of pneumonia in ventilated ICU patients?"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495729412903,
+      "identifier": {
+        "doi": "10.1016/j.jcrc.2016.06.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrc.2016.04.005"
+  },
+  "journal": "Journal of Critical Care",
+  "publisher": "Elsevier BV",
+  "title": "Is inhaled prophylactic heparin useful for prevention and management of pneumonia in ventilated ICU patients?"
+}

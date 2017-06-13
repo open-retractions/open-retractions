@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.eururo.2014.11.036","type":"err"},"doi":"10.1016/j.eururo.2013.07.033","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum to “Current Perspectives in the Use of Molecular Imaging to Target Surgical Treatments for Genitourinary Cancers” [Eur Urol 2014;65:947–64]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496027089749,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2014.11.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2013.07.033"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Current Perspectives in the Use of Molecular Imaging to Target Surgical Treatments for Genitourinary Cancers” [Eur Urol 2014;65:947–64]"
+}

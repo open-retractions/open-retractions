@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.icarus.2015.12.002","type":"erratum"},"doi":"10.1016/j.icarus.2013.05.020","journal":"Icarus","publisher":"Elsevier BV","title":"Erratum to “Stratospheric aerosols on Jupiter from Cassini observations” [Icarus 226 (1) (2013) 159–171 doi:10.1016/j.icarus.2013.05.020]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496055140446,
+      "identifier": {
+        "doi": "10.1016/j.icarus.2015.12.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.icarus.2013.05.020"
+  },
+  "journal": "Icarus",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Stratospheric aerosols on Jupiter from Cassini observations” [Icarus 226 (1) (2013) 159–171 doi:10.1016/j.icarus.2013.05.020]"
+}

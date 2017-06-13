@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372377600000,"doi":"10.1371/annotation/e57a05d7-5fd5-4ba0-a60d-64be7865fda5","type":"correction"},"doi":"10.1371/journal.pone.0062865","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Deep Sequencing Reveals Transcriptome Re-Programming of Taxus × media Cells to the Elicitation with Methyl Jasmonate"}
+{
+  "retracted": false,
+  "timestamp": 1372377600000,
+  "updates": [
+    {
+      "timestamp": 1496039105052,
+      "identifier": {
+        "doi": "10.1371/annotation/e57a05d7-5fd5-4ba0-a60d-64be7865fda5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0062865"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Deep Sequencing Reveals Transcriptome Re-Programming of Taxus × media Cells to the Elicitation with Methyl Jasmonate"
+}

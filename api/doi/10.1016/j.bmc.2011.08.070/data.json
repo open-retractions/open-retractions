@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.bmc.2014.02.044","type":"err"},"doi":"10.1016/j.bmc.2011.08.070","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Design, structure–activity relationship, and highly efficient asymmetric synthesis of 3-phenyl-4-benzylaminopiperidine derivatives as novel neurokinin-1 receptor antagonists” [Bioorg. Med. Chem. 19 (2011) 6430–6446]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496025585731,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2014.02.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2011.08.070"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design, structure–activity relationship, and highly efficient asymmetric synthesis of 3-phenyl-4-benzylaminopiperidine derivatives as novel neurokinin-1 receptor antagonists” [Bioorg. Med. Chem. 19 (2011) 6430–6446]"
+}

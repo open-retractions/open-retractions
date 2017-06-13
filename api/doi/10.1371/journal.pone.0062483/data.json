@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389139200000,"doi":"10.1371/annotation/6e83489b-e1ff-4523-9b31-08c90fa39030","type":"correction"},"doi":"10.1371/journal.pone.0062483","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: ARID1A Alterations Are Associated with FGFR3-Wild Type, Poor-Prognosis, Urothelial Bladder Tumors"}
+{
+  "retracted": false,
+  "timestamp": 1389139200000,
+  "updates": [
+    {
+      "timestamp": 1496011841641,
+      "identifier": {
+        "doi": "10.1371/annotation/6e83489b-e1ff-4523-9b31-08c90fa39030"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0062483"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ARID1A Alterations Are Associated with FGFR3-Wild Type, Poor-Prognosis, Urothelial Bladder Tumors"
+}

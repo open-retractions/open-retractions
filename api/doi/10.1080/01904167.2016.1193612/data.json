@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486944000000,"doi":"10.1080/01904167.2017.1286137","type":"correction"},"doi":"10.1080/01904167.2016.1193612","journal":"Journal of Plant Nutrition","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1486944000000,
+  "updates": [
+    {
+      "timestamp": 1495720218170,
+      "identifier": {
+        "doi": "10.1080/01904167.2017.1286137"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01904167.2016.1193612"
+  },
+  "journal": "Journal of Plant Nutrition",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

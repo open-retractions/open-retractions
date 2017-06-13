@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1286150400000,"doi":"10.1186/1471-2334-10-291","type":"correction"},"doi":"10.1186/1471-2334-10-200","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: EVOTECH®endoscope cleaner and reprocessor (ECR) simulated-use and clinical-use evaluation of cleaning efficacy"}
+{
+  "retracted": false,
+  "timestamp": 1286150400000,
+  "updates": [
+    {
+      "timestamp": 1495890208115,
+      "identifier": {
+        "doi": "10.1186/1471-2334-10-291"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2334-10-200"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: EVOTECH®endoscope cleaner and reprocessor (ECR) simulated-use and clinical-use evaluation of cleaning efficacy"
+}

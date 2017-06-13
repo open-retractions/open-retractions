@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467244800000,"doi":"10.1186/s40478-016-0332-5","type":"correction"},"doi":"10.1186/s40478-016-0326-3","journal":"Acta Neuropathologica Communications","publisher":"Springer Nature","title":"Erratum to: ‘Purkinje cell injury, structural plasticity and fusion in patients with Friedreich’s ataxia’"}
+{
+  "retracted": false,
+  "timestamp": 1467244800000,
+  "updates": [
+    {
+      "timestamp": 1495723736285,
+      "identifier": {
+        "doi": "10.1186/s40478-016-0332-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40478-016-0326-3"
+  },
+  "journal": "Acta Neuropathologica Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Purkinje cell injury, structural plasticity and fusion in patients with Friedreich’s ataxia’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395446400000,"doi":"10.1007/s00134-014-3271-2","type":"correction"},"doi":"10.1007/s00134-014-3227-6","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: How to derive and validate clinical prediction models for use in intensive care medicine"}
+{
+  "retracted": false,
+  "timestamp": 1395446400000,
+  "updates": [
+    {
+      "timestamp": 1496027174989,
+      "identifier": {
+        "doi": "10.1007/s00134-014-3271-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-014-3227-6"
+  },
+  "journal": "Intensive Care Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: How to derive and validate clinical prediction models for use in intensive care medicine"
+}

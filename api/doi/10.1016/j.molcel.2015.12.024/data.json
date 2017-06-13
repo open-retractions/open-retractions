@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459987200000,"doi":"10.1016/j.molcel.2016.03.012","type":"erratum"},"doi":"10.1016/j.molcel.2015.12.024","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Regulated Formation of lncRNA-DNA Hybrids Enables Faster Transcriptional Induction and Environmental Adaptation"}
+{
+  "retracted": false,
+  "timestamp": 1459987200000,
+  "updates": [
+    {
+      "timestamp": 1495663110947,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.03.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.12.024"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Regulated Formation of lncRNA-DNA Hybrids Enables Faster Transcriptional Induction and Environmental Adaptation"
+}

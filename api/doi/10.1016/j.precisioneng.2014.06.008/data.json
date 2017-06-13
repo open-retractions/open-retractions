@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.precisioneng.2015.04.012","type":"err"},"doi":"10.1016/j.precisioneng.2014.06.008","journal":"Precision Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Characterisation of thermal influences after laser processing polycrystalline diamond composites using long to ultrashort pulse durations” [Precis. Eng. 39 (2015) 16–24]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1495999529229,
+      "identifier": {
+        "doi": "10.1016/j.precisioneng.2015.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.precisioneng.2014.06.008"
+  },
+  "journal": "Precision Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterisation of thermal influences after laser processing polycrystalline diamond composites using long to ultrashort pulse durations” [Precis. Eng. 39 (2015) 16–24]"
+}

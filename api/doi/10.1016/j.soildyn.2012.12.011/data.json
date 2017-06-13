@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.soildyn.2014.03.003","type":"err"},"doi":"10.1016/j.soildyn.2012.12.011","journal":"Soil Dynamics and Earthquake Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Nonlinear rocking stiffness of foundations” [Soil Dyn. Earthq. Eng. 47 (2013) 83–91]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496038396486,
+      "identifier": {
+        "doi": "10.1016/j.soildyn.2014.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soildyn.2012.12.011"
+  },
+  "journal": "Soil Dynamics and Earthquake Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nonlinear rocking stiffness of foundations” [Soil Dyn. Earthq. Eng. 47 (2013) 83–91]"
+}

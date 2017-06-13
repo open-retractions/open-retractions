@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.atmosenv.2016.07.043","type":"erratum"},"doi":"10.1016/j.atmosenv.2016.06.028","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Erratum to “Predicting sulphur and nitrogen deposition using a simple statistical method” [Atmos. Environ. 140 (2016) 456–468]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495729282363,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2016.07.043"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2016.06.028"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Predicting sulphur and nitrogen deposition using a simple statistical method” [Atmos. Environ. 140 (2016) 456–468]"
+}

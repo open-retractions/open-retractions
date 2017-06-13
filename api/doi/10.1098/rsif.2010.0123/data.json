@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1286323200000,"doi":"10.1098/rsif.2011.0101","type":"correction"},"doi":"10.1098/rsif.2010.0123","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Corrigendum for the paper 'Risk factors for the evolutionary emergence of pathogens'"}
+{
+  "retracted": false,
+  "timestamp": 1286323200000,
+  "updates": [
+    {
+      "timestamp": 1495949904146,
+      "identifier": {
+        "doi": "10.1098/rsif.2011.0101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2010.0123"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Corrigendum for the paper 'Risk factors for the evolutionary emergence of pathogens'"
+}

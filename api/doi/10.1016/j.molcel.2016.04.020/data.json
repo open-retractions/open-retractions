@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466035200000,"doi":"10.1016/j.molcel.2016.05.030","type":"err"},"doi":"10.1016/j.molcel.2016.04.020","journal":"Molecular Cell","publisher":"Elsevier BV","title":"The Noncanonical Role of ULK/ATG1 in ER-to-Golgi Trafficking Is Essential for Cellular Homeostasis"}
+{
+  "retracted": false,
+  "timestamp": 1466035200000,
+  "updates": [
+    {
+      "timestamp": 1495721190716,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.05.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.04.020"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "The Noncanonical Role of ULK/ATG1 in ER-to-Golgi Trafficking Is Essential for Cellular Homeostasis"
+}

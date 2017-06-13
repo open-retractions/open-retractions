@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jaut.2015.04.001","type":"err"},"doi":"10.1016/j.jaut.2015.01.006","journal":"Journal of Autoimmunity","publisher":"Elsevier BV","title":"Corrigendum to “Predominant role for activation-induced cytidine deaminase in generating IgG anti-nucleosomal antibodies of murine SLE” [J. Autoimmun. 58 (2015) 67–77]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496058277074,
+      "identifier": {
+        "doi": "10.1016/j.jaut.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaut.2015.01.006"
+  },
+  "journal": "Journal of Autoimmunity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Predominant role for activation-induced cytidine deaminase in generating IgG anti-nucleosomal antibodies of murine SLE” [J. Autoimmun. 58 (2015) 67–77]"
+}

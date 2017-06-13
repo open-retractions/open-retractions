@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1371/journal.pone.0095816","type":"correction"},"doi":"10.1371/journal.pone.0085777","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496035287574,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0095816"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0085777"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions"
+}

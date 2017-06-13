@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1063/1.4948382","type":"correction"},"doi":"10.1063/1.4796168","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Thermal conduction inhomogeneity of nanocrystalline diamond films by dual-side thermoreflectance” [Appl. Phys. Lett. 102, 111907 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495670216530,
+      "identifier": {
+        "doi": "10.1063/1.4948382"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4796168"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Thermal conduction inhomogeneity of nanocrystalline diamond films by dual-side thermoreflectance” [Appl. Phys. Lett. 102, 111907 (2013)]"
+}

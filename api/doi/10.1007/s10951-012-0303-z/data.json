@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421971200000,"doi":"10.1007/s10951-015-0417-1","type":"correction"},"doi":"10.1007/s10951-012-0303-z","journal":"Journal of Scheduling","publisher":"Springer Nature","title":"Erratum to: A survey on offline scheduling with rejection"}
+{
+  "retracted": false,
+  "timestamp": 1421971200000,
+  "updates": [
+    {
+      "timestamp": 1496039080821,
+      "identifier": {
+        "doi": "10.1007/s10951-015-0417-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10951-012-0303-z"
+  },
+  "journal": "Journal of Scheduling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A survey on offline scheduling with rejection"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.pss.2015.03.023","type":"err"},"doi":"10.1016/j.pss.2014.08.008","journal":"Planetary and Space Science","publisher":"Elsevier BV","title":"Corrigendum to “Impact experiments on highly porous targets: cavity morphology and disruption thresholds in the strength regime” [Planet. Space Sci. 107 (2015) 36–44]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496009903130,
+      "identifier": {
+        "doi": "10.1016/j.pss.2015.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pss.2014.08.008"
+  },
+  "journal": "Planetary and Space Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impact experiments on highly porous targets: cavity morphology and disruption thresholds in the strength regime” [Planet. Space Sci. 107 (2015) 36–44]"
+}

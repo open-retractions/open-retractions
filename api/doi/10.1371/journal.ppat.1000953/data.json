@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1277251200000,"doi":"10.1371/annotation/1b59fd9e-9ac9-4ea8-a083-14c413c80b03","type":"correction"},"doi":"10.1371/journal.ppat.1000953","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Cryptococcal Cell Morphology Affects Host Cell Interactions and Pathogenicity"}
+{
+  "retracted": false,
+  "timestamp": 1277251200000,
+  "updates": [
+    {
+      "timestamp": 1496025197937,
+      "identifier": {
+        "doi": "10.1371/annotation/1b59fd9e-9ac9-4ea8-a083-14c413c80b03"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1000953"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cryptococcal Cell Morphology Affects Host Cell Interactions and Pathogenicity"
+}

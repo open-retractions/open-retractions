@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1080/13669877.2015.1066595","type":"correction"},"doi":"10.1080/13669877.2015.1042507","journal":"Journal of Risk Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015849298,
+      "identifier": {
+        "doi": "10.1080/13669877.2015.1066595"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13669877.2015.1042507"
+  },
+  "journal": "Journal of Risk Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

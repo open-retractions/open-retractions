@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.pss.2014.05.011","type":"err"},"doi":"10.1016/j.pss.2009.03.003","journal":"Planetary and Space Science","publisher":"Elsevier BV","title":"Corrigendum to “Plasma in Saturn׳s nightside magnetosphere and the implications for global circulation” [Planet. Space Sci. 57(14–15) (2009) 1714–1722]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496045217970,
+      "identifier": {
+        "doi": "10.1016/j.pss.2014.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pss.2009.03.003"
+  },
+  "journal": "Planetary and Space Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Plasma in Saturn׳s nightside magnetosphere and the implications for global circulation” [Planet. Space Sci. 57(14–15) (2009) 1714–1722]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jad.2016.04.054","type":"err"},"doi":"10.1016/j.jad.2015.09.069","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Corrigendum to: “The prevalence of neuropsychiatric symptoms in Alzheimer's disease: Systematic review and meta-analysis” [J. Affect. Disord. 190 (2016) 264–271]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495731576222,
+      "identifier": {
+        "doi": "10.1016/j.jad.2016.04.054"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2015.09.069"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “The prevalence of neuropsychiatric symptoms in Alzheimer's disease: Systematic review and meta-analysis” [J. Affect. Disord. 190 (2016) 264–271]"
+}

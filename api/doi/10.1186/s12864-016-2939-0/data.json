@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473206400000,"doi":"10.1186/s12864-016-3071-x","type":"correction"},"doi":"10.1186/s12864-016-2939-0","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Chromosome doubling to overcome the chrysanthemum cross barrier based on insight from transcriptomic and proteomic analyses"}
+{
+  "retracted": false,
+  "timestamp": 1473206400000,
+  "updates": [
+    {
+      "timestamp": 1495637853365,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3071-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2939-0"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chromosome doubling to overcome the chrysanthemum cross barrier based on insight from transcriptomic and proteomic analyses"
+}

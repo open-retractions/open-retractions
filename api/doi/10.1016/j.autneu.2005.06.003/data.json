@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.autneu.2013.09.014","type":"err"},"doi":"10.1016/j.autneu.2005.06.003","journal":"Autonomic Neuroscience","publisher":"Elsevier BV","title":"Erratum to “Effects of intermittent hypoxia on sympathetic activity and blood pressure in humans” [Auton. Neurosci. 121/1-2 (2005) 87–93]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496053021065,
+      "identifier": {
+        "doi": "10.1016/j.autneu.2013.09.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.autneu.2005.06.003"
+  },
+  "journal": "Autonomic Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effects of intermittent hypoxia on sympathetic activity and blood pressure in humans” [Auton. Neurosci. 121/1-2 (2005) 87–93]"
+}

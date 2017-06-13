@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379462400000,"doi":"10.1371/annotation/b02313dc-840f-4f03-91a2-77cb55a3a4c9","type":"correction"},"doi":"10.1371/journal.pone.0072023","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Directed In Vitro Myogenesis of Human Embryonic Stem Cells and Their In Vivo Engraftment"}
+{
+  "retracted": false,
+  "timestamp": 1379462400000,
+  "updates": [
+    {
+      "timestamp": 1496052946267,
+      "identifier": {
+        "doi": "10.1371/annotation/b02313dc-840f-4f03-91a2-77cb55a3a4c9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072023"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Directed In Vitro Myogenesis of Human Embryonic Stem Cells and Their In Vivo Engraftment"
+}

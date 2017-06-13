@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368576000000,"doi":"10.1016/j.ipl.2012.12.005","type":"err"},"doi":"10.1016/j.ipl.2010.09.006","journal":"Information Processing Letters","publisher":"Elsevier BV","title":"Corrigendum to “On 3-choosability of planar graphs with neither adjacent triangles nor 5-, 6- and 9-cycles” [Information Processing Letters 110 (24) (2010) 1084–1087]"}
+{
+  "retracted": false,
+  "timestamp": 1368576000000,
+  "updates": [
+    {
+      "timestamp": 1495982626395,
+      "identifier": {
+        "doi": "10.1016/j.ipl.2012.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ipl.2010.09.006"
+  },
+  "journal": "Information Processing Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On 3-choosability of planar graphs with neither adjacent triangles nor 5-, 6- and 9-cycles” [Information Processing Letters 110 (24) (2010) 1084–1087]"
+}

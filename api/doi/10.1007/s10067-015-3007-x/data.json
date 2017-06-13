@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440720000000,"doi":"10.1007/s10067-015-3057-0","type":"correction"},"doi":"10.1007/s10067-015-3007-x","journal":"Clinical Rheumatology","publisher":"Springer Nature","title":"Erratum to: Is entheses ultrasound reliable? A reading Latin American exercise"}
+{
+  "retracted": false,
+  "timestamp": 1440720000000,
+  "updates": [
+    {
+      "timestamp": 1496025679811,
+      "identifier": {
+        "doi": "10.1007/s10067-015-3057-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10067-015-3007-x"
+  },
+  "journal": "Clinical Rheumatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Is entheses ultrasound reliable? A reading Latin American exercise"
+}

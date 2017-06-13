@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483660800000,"doi":"10.1088/1361-648x/aa530f","type":"correction"},"doi":"10.1088/0953-8984/25/2/025302","journal":"Journal of Physics: Condensed Matter","publisher":"IOP Publishing","title":"Corrigendum: Possible formation of chiral polarons in graphene (2013 J. Phys.: Condens. Matter 25 025302)"}
+{
+  "retracted": false,
+  "timestamp": 1483660800000,
+  "updates": [
+    {
+      "timestamp": 1495673256707,
+      "identifier": {
+        "doi": "10.1088/1361-648x/aa530f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0953-8984/25/2/025302"
+  },
+  "journal": "Journal of Physics: Condensed Matter",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Possible formation of chiral polarons in graphene (2013 J. Phys.: Condens. Matter 25 025302)"
+}

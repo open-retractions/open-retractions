@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.cellimm.2014.08.008","type":"err"},"doi":"10.1016/j.cellimm.2011.09.015","journal":"Cellular Immunology","publisher":"Elsevier BV","title":"Corrigendum to “CXCR7 mediated Giα independent activation of ERK and Akt promotes cell survival and chemotaxis in T cells” [Cell. Immunol. 272(2) (2012) 230–241]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496006228144,
+      "identifier": {
+        "doi": "10.1016/j.cellimm.2014.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellimm.2011.09.015"
+  },
+  "journal": "Cellular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “CXCR7 mediated Giα independent activation of ERK and Akt promotes cell survival and chemotaxis in T cells” [Cell. Immunol. 272(2) (2012) 230–241]"
+}

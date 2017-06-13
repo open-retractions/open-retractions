@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402790400000,"doi":"10.1016/j.csr.2014.04.003","type":"err"},"doi":"10.1016/j.csr.2014.02.002","journal":"Continental Shelf Research","publisher":"Elsevier BV","title":"Corrigendum to “Inorganic nitrogen transformations within permeable carbonate sands” [Continental Shelf Research, vol. 77, doi:10.1016/j.csr.2014.02.002]"}
+{
+  "retracted": false,
+  "timestamp": 1402790400000,
+  "updates": [
+    {
+      "timestamp": 1496033462504,
+      "identifier": {
+        "doi": "10.1016/j.csr.2014.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.csr.2014.02.002"
+  },
+  "journal": "Continental Shelf Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inorganic nitrogen transformations within permeable carbonate sands” [Continental Shelf Research, vol. 77, doi:10.1016/j.csr.2014.02.002]"
+}

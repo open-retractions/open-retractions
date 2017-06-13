@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":6307200000,"doi":"10.1063/1.1659135","type":"erratum"},"doi":"10.1063/1.1657321","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: Determining Polar Angles from Mössbauer Intensity Ratios"}
+{
+  "retracted": false,
+  "timestamp": 6307200000,
+  "updates": [
+    {
+      "timestamp": 1495805354470,
+      "identifier": {
+        "doi": "10.1063/1.1659135"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1657321"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Determining Polar Angles from Mössbauer Intensity Ratios"
+}

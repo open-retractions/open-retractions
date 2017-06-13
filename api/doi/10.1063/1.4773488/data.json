@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359072000000,"doi":"10.1063/1.4789899","type":"correction"},"doi":"10.1063/1.4773488","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Nanoscale study of the current transport through transrotational NiSi/n-Si contacts by conductive atomic force microscopy” [Appl. Phys. Lett. 101, 261906 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1359072000000,
+  "updates": [
+    {
+      "timestamp": 1495990208618,
+      "identifier": {
+        "doi": "10.1063/1.4789899"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4773488"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Nanoscale study of the current transport through transrotational NiSi/n-Si contacts by conductive atomic force microscopy” [Appl. Phys. Lett. 101, 261906 (2012)]"
+}

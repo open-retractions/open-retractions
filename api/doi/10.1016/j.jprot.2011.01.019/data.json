@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389830400000,"doi":"10.1016/j.jprot.2013.11.017","type":"err"},"doi":"10.1016/j.jprot.2011.01.019","journal":"Journal of Proteomics","publisher":"Elsevier BV","title":"Corrigendum to ‘Proteomics for development of vaccine’ [J Proteomics volume 74, Issue 12 (November 2011), pages 2596–2616]"}
+{
+  "retracted": false,
+  "timestamp": 1389830400000,
+  "updates": [
+    {
+      "timestamp": 1496000083328,
+      "identifier": {
+        "doi": "10.1016/j.jprot.2013.11.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jprot.2011.01.019"
+  },
+  "journal": "Journal of Proteomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Proteomics for development of vaccine’ [J Proteomics volume 74, Issue 12 (November 2011), pages 2596–2616]"
+}

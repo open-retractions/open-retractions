@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433980800000,"doi":"10.1007/s00239-015-9685-9","type":"correction"},"doi":"10.1007/s00239-014-9616-1","journal":"Journal of Molecular Evolution","publisher":"Springer Nature","title":"Erratum to: Thermodynamic Prediction of Glycine Polymerization as a Function of Temperature and pH Consistent with Experimentally Obtained Results"}
+{
+  "retracted": false,
+  "timestamp": 1433980800000,
+  "updates": [
+    {
+      "timestamp": 1496005785760,
+      "identifier": {
+        "doi": "10.1007/s00239-015-9685-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00239-014-9616-1"
+  },
+  "journal": "Journal of Molecular Evolution",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermodynamic Prediction of Glycine Polymerization as a Function of Temperature and pH Consistent with Experimentally Obtained Results"
+}

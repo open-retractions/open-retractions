@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1162598400000,"doi":"10.1007/s00216-006-0933-0","type":"correction"},"doi":"10.1007/s00216-006-0623-y","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Development and characterization of an integrated silicon micro flow cytometer"}
+{
+  "retracted": false,
+  "timestamp": 1162598400000,
+  "updates": [
+    {
+      "timestamp": 1495913173189,
+      "identifier": {
+        "doi": "10.1007/s00216-006-0933-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-006-0623-y"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Development and characterization of an integrated silicon micro flow cytometer"
+}

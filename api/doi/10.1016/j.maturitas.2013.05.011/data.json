@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.maturitas.2013.08.005","type":"err"},"doi":"10.1016/j.maturitas.2013.05.011","journal":"Maturitas","publisher":"Elsevier BV","title":"Erratum to “Better health, longer lives” [Maturitas 75 (2013) 301–302]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496044842578,
+      "identifier": {
+        "doi": "10.1016/j.maturitas.2013.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.maturitas.2013.05.011"
+  },
+  "journal": "Maturitas",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Better health, longer lives” [Maturitas 75 (2013) 301–302]"
+}

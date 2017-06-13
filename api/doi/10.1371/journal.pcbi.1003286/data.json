@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384732800000,"doi":"10.1371/annotation/90e5e4be-952b-42b8-b56d-46baae3479ed","type":"correction"},"doi":"10.1371/journal.pcbi.1003286","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Integrative Modelling of the Influence of MAPK Network on Cancer Cell Fate Decision"}
+{
+  "retracted": false,
+  "timestamp": 1384732800000,
+  "updates": [
+    {
+      "timestamp": 1495997895780,
+      "identifier": {
+        "doi": "10.1371/annotation/90e5e4be-952b-42b8-b56d-46baae3479ed"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003286"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Integrative Modelling of the Influence of MAPK Network on Cancer Cell Fate Decision"
+}

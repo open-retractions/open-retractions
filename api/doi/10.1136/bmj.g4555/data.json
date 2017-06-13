@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407369600000,"doi":"10.1136/bmj.g5077","type":"correction"},"doi":"10.1136/bmj.g4555","journal":"BMJ","publisher":"BMJ","title":"Anthony Promnitz"}
+{
+  "retracted": false,
+  "timestamp": 1407369600000,
+  "updates": [
+    {
+      "timestamp": 1495998834413,
+      "identifier": {
+        "doi": "10.1136/bmj.g5077"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g4555"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Anthony Promnitz"
+}

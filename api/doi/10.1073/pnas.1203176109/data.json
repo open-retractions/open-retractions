@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1334620800000,"doi":"10.1073/pnas.1206123109","type":"correction"},"doi":"10.1073/pnas.1203176109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Dalin et al., Evolution of the global virtual water trade network"}
+{
+  "retracted": false,
+  "timestamp": 1334620800000,
+  "updates": [
+    {
+      "timestamp": 1495902603970,
+      "identifier": {
+        "doi": "10.1073/pnas.1206123109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1203176109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Dalin et al., Evolution of the global virtual water trade network"
+}

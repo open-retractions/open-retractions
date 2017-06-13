@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.jat.2015.08.003","type":"err"},"doi":"10.1016/j.jat.2015.02.010","journal":"Journal of Approximation Theory","publisher":"Elsevier BV","title":"Erratum to “A differential version of the Chebyshev–Markov–Stieltjes inequalities” [J. Approx. Theory 196 (2015) 13–54]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496025320168,
+      "identifier": {
+        "doi": "10.1016/j.jat.2015.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jat.2015.02.010"
+  },
+  "journal": "Journal of Approximation Theory",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A differential version of the Chebyshev–Markov–Stieltjes inequalities” [J. Approx. Theory 196 (2015) 13–54]"
+}

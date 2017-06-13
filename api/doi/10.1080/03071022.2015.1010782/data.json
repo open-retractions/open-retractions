@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1080/03071022.2016.1158942","type":"correction"},"doi":"10.1080/03071022.2015.1010782","journal":"Social History","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495661474782,
+      "identifier": {
+        "doi": "10.1080/03071022.2016.1158942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03071022.2015.1010782"
+  },
+  "journal": "Social History",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

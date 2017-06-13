@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.aop.2016.04.017","type":"erratum"},"doi":"10.1016/j.aop.2010.09.008","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Erratum to “Semiclassical anomalies of the quantum mechanical systems and their modifications for the asymptotic matching” [Ann. Phys. 326(8) (2011) 1816–1838]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495671183963,
+      "identifier": {
+        "doi": "10.1016/j.aop.2016.04.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2010.09.008"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Semiclassical anomalies of the quantum mechanical systems and their modifications for the asymptotic matching” [Ann. Phys. 326(8) (2011) 1816–1838]"
+}

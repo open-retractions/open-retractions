@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476489600000,"doi":"10.1016/j.laa.2016.07.012","type":"erratum"},"doi":"10.1016/j.laa.2012.11.023","journal":"Linear Algebra and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Classification of solvable Leibniz algebras with naturally graded filiform nilradical” [Linear Algebra Appl. 438 (7) (2013) 2973–3000]"}
+{
+  "retracted": false,
+  "timestamp": 1476489600000,
+  "updates": [
+    {
+      "timestamp": 1495734201783,
+      "identifier": {
+        "doi": "10.1016/j.laa.2016.07.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.laa.2012.11.023"
+  },
+  "journal": "Linear Algebra and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Classification of solvable Leibniz algebras with naturally graded filiform nilradical” [Linear Algebra Appl. 438 (7) (2013) 2973–3000]"
+}

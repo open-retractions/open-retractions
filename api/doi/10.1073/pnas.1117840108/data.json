@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327968000000,"doi":"10.1073/pnas.1205746109","type":"correction"},"doi":"10.1073/pnas.1117840108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Crotty et al., Reexamination of magnetic isotope and field effects on adenosine triphosphate production by creatine kinase"}
+{
+  "retracted": false,
+  "timestamp": 1327968000000,
+  "updates": [
+    {
+      "timestamp": 1495893391695,
+      "identifier": {
+        "doi": "10.1073/pnas.1205746109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1117840108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Crotty et al., Reexamination of magnetic isotope and field effects on adenosine triphosphate production by creatine kinase"
+}

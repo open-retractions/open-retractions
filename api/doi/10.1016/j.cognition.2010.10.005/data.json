@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.cognition.2014.03.003","type":"err"},"doi":"10.1016/j.cognition.2010.10.005","journal":"Cognition","publisher":"Elsevier BV","title":"Corrigendum to “Three ideal observer models for rule learning in simple languages” [Cognition 120 (3) (2011) 360–371]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496039923360,
+      "identifier": {
+        "doi": "10.1016/j.cognition.2014.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cognition.2010.10.005"
+  },
+  "journal": "Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Three ideal observer models for rule learning in simple languages” [Cognition 120 (3) (2011) 360–371]"
+}

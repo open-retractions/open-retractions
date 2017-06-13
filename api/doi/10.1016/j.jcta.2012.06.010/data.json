@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jcta.2016.09.005","type":"err"},"doi":"10.1016/j.jcta.2012.06.010","journal":"Journal of Combinatorial Theory, Series A","publisher":"Elsevier BV","title":"Corrigendum to “A characterization of metacirculants” [J. Combin. Theory Ser. A 120 (1) (2013) 39–48]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495651376920,
+      "identifier": {
+        "doi": "10.1016/j.jcta.2016.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcta.2012.06.010"
+  },
+  "journal": "Journal of Combinatorial Theory, Series A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A characterization of metacirculants” [J. Combin. Theory Ser. A 120 (1) (2013) 39–48]"
+}

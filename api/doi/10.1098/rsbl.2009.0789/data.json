@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1271980800000,"doi":"10.1098/rsbl.2010.0311","type":"correction"},"doi":"10.1098/rsbl.2009.0789","journal":"Biology Letters","publisher":"The Royal Society","title":"Fisheries change spawning ground distribution in northeast Arctic cod"}
+{
+  "retracted": false,
+  "timestamp": 1271980800000,
+  "updates": [
+    {
+      "timestamp": 1495835829539,
+      "identifier": {
+        "doi": "10.1098/rsbl.2010.0311"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2009.0789"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Fisheries change spawning ground distribution in northeast Arctic cod"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.epsl.2014.01.002","type":"err"},"doi":"10.1016/j.epsl.2012.11.015","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Late delivery of chondritic hydrogen into the lunar mantle: Insights from mare basalts” [Earth Planet. Sci. Lett. 361 (2013) 480–486]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496009343305,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2014.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2012.11.015"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Late delivery of chondritic hydrogen into the lunar mantle: Insights from mare basalts” [Earth Planet. Sci. Lett. 361 (2013) 480–486]"
+}

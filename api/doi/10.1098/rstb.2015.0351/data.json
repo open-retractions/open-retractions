@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1492560000000,"doi":"10.1098/rstb.2017.0002","type":"correction"},"doi":"10.1098/rstb.2015.0351","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Precision mapping of the vibrissa representation within murine primary somatosensory cortex’"}
+{
+  "retracted": false,
+  "timestamp": 1492560000000,
+  "updates": [
+    {
+      "timestamp": 1495723873379,
+      "identifier": {
+        "doi": "10.1098/rstb.2017.0002"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2015.0351"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Precision mapping of the vibrissa representation within murine primary somatosensory cortex’"
+}

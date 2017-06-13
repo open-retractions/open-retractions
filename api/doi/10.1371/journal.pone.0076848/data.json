@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386028800000,"doi":"10.1371/annotation/5c0143e4-65c5-4feb-90a6-2824125f9cad","type":"correction"},"doi":"10.1371/journal.pone.0076848","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Insights into Recombinant TROSPA Protein from Ixodes ricinus"}
+{
+  "retracted": false,
+  "timestamp": 1386028800000,
+  "updates": [
+    {
+      "timestamp": 1496003945013,
+      "identifier": {
+        "doi": "10.1371/annotation/5c0143e4-65c5-4feb-90a6-2824125f9cad"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0076848"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Insights into Recombinant TROSPA Protein from Ixodes ricinus"
+}

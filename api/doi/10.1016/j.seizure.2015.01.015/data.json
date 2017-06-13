@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.seizure.2015.04.001","type":"err"},"doi":"10.1016/j.seizure.2015.01.015","journal":"Seizure","publisher":"Elsevier BV","title":"Erratum to “Exploring the capability of wireless near infrared spectroscopy as a portable seizure detection device for epilepsy patients” [Seizure 26 (2015) 43–48]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496059866016,
+      "identifier": {
+        "doi": "10.1016/j.seizure.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.seizure.2015.01.015"
+  },
+  "journal": "Seizure",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Exploring the capability of wireless near infrared spectroscopy as a portable seizure detection device for epilepsy patients” [Seizure 26 (2015) 43–48]"
+}

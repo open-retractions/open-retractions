@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467849600000,"doi":"10.1038/srep28213","type":"correction"},"doi":"10.1038/srep22555","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Elimination of HIV-1 Genomes from Human T-lymphoid Cells by CRISPR/Cas9 Gene Editing"}
+{
+  "retracted": false,
+  "timestamp": 1467849600000,
+  "updates": [
+    {
+      "timestamp": 1495725376070,
+      "identifier": {
+        "doi": "10.1038/srep28213"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep22555"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Elimination of HIV-1 Genomes from Human T-lymphoid Cells by CRISPR/Cas9 Gene Editing"
+}

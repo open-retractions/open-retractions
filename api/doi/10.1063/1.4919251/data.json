@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447200000000,"doi":"10.1063/1.4935827","type":"correction"},"doi":"10.1063/1.4919251","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “A new equation of state of a flexible-chain polyelectrolyte solution: Phase equilibria and osmotic pressure in the salt-free case” [J. Chem. Phys. 142, 174901 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1447200000000,
+  "updates": [
+    {
+      "timestamp": 1496045102451,
+      "identifier": {
+        "doi": "10.1063/1.4935827"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4919251"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A new equation of state of a flexible-chain polyelectrolyte solution: Phase equilibria and osmotic pressure in the salt-free case” [J. Chem. Phys. 142, 174901 (2015)]"
+}

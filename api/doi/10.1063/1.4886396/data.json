@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433980800000,"doi":"10.1063/1.4922305","type":"correction"},"doi":"10.1063/1.4886396","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Irreversible thermodynamics of open chemical networks. I. Emergent cycles and broken conservation laws” [J. Chem. Phys. 141, 024117 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1433980800000,
+  "updates": [
+    {
+      "timestamp": 1496006996413,
+      "identifier": {
+        "doi": "10.1063/1.4922305"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4886396"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Irreversible thermodynamics of open chemical networks. I. Emergent cycles and broken conservation laws” [J. Chem. Phys. 141, 024117 (2014)]"
+}

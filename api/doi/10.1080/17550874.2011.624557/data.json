@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442966400000,"doi":"10.1080/17550874.2015.1085231","type":"correction"},"doi":"10.1080/17550874.2011.624557","journal":"Plant Ecology & Diversity","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1442966400000,
+  "updates": [
+    {
+      "timestamp": 1496032437384,
+      "identifier": {
+        "doi": "10.1080/17550874.2015.1085231"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17550874.2011.624557"
+  },
+  "journal": "Plant Ecology & Diversity",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457654400000,"doi":"10.1016/j.neulet.2016.02.023","type":"err"},"doi":"10.1016/j.neulet.2015.10.013","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Cathodal transcranial direct current stimulation can stabilize perception of movement: Evidence from the two-thirds power law illusion” [Neurosci. Lett. 609 (2015) 87–91]"}
+{
+  "retracted": false,
+  "timestamp": 1457654400000,
+  "updates": [
+    {
+      "timestamp": 1495647499681,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2016.02.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2015.10.013"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cathodal transcranial direct current stimulation can stabilize perception of movement: Evidence from the two-thirds power law illusion” [Neurosci. Lett. 609 (2015) 87–91]"
+}

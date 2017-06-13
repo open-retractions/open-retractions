@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357257600000,"doi":"10.1118/1.4769414","type":"erratum"},"doi":"10.1118/1.4747343","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Emerging technologies for image guidance and device navigation in interventional radiology” [Med. Phys. 39(9), 5768-5781 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357257600000,
+  "updates": [
+    {
+      "timestamp": 1495983281812,
+      "identifier": {
+        "doi": "10.1118/1.4769414"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4747343"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Emerging technologies for image guidance and device navigation in interventional radiology” [Med. Phys. 39(9), 5768-5781 (2012)]"
+}

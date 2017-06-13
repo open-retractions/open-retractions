@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1016/j.msea.2016.01.007","type":"err"},"doi":"10.1016/j.msea.2015.12.026","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Erratum to “Fatigue behavior and failure mechanisms of direct laser deposited Ti–6Al–4V” [Mater. Sci. Eng. A 655 (2016) 100–112]"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1496058428271,
+      "identifier": {
+        "doi": "10.1016/j.msea.2016.01.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2015.12.026"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Fatigue behavior and failure mechanisms of direct laser deposited Ti–6Al–4V” [Mater. Sci. Eng. A 655 (2016) 100–112]"
+}

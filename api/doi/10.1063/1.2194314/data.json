@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1150070400000,"doi":"10.1063/1.2213199","type":"erratum"},"doi":"10.1063/1.2194314","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: Band offsets in the Sc2O3∕GaN heterojunction system [Appl. Phys. Lett. 88, 142115 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1150070400000,
+  "updates": [
+    {
+      "timestamp": 1495828099461,
+      "identifier": {
+        "doi": "10.1063/1.2213199"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2194314"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Band offsets in the Sc2O3∕GaN heterojunction system [Appl. Phys. Lett. 88, 142115           (2006)]"
+}

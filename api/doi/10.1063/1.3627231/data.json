@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470182400000,"doi":"10.1063/1.4960613","type":"correction"},"doi":"10.1063/1.3627231","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Van der Waals supercritical fluid: Exact formulas for special lines” [J. Chem. Phys. 135, 084503 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1470182400000,
+  "updates": [
+    {
+      "timestamp": 1495734464990,
+      "identifier": {
+        "doi": "10.1063/1.4960613"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3627231"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Van der Waals supercritical fluid: Exact formulas for special lines” [J. Chem. Phys. 135, 084503 (2011)]"
+}

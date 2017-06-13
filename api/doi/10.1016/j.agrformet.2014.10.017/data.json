@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.agrformet.2015.05.007","type":"err"},"doi":"10.1016/j.agrformet.2014.10.017","journal":"Agricultural and Forest Meteorology","publisher":"Elsevier BV","title":"Corrigendum to “Landscape-level terrestrial methane flux observed from a very tall tower” Agricultural and Forest Meteorology, Volume 201(2015), 61-75"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496001507023,
+      "identifier": {
+        "doi": "10.1016/j.agrformet.2015.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agrformet.2014.10.017"
+  },
+  "journal": "Agricultural and Forest Meteorology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Landscape-level terrestrial methane flux observed from a very tall tower” Agricultural and Forest Meteorology, Volume 201(2015), 61-75"
+}

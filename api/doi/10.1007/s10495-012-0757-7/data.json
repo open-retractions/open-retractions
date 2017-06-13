@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1007/s10495-016-1224-7","type":"correction"},"doi":"10.1007/s10495-012-0757-7","journal":"Apoptosis","publisher":"Springer Nature","title":"Erratum to: DAPK plays an important role in panobinostat-induced autophagy and commits cells to apoptosis under autophagy deficient conditions"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495652843319,
+      "identifier": {
+        "doi": "10.1007/s10495-016-1224-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10495-012-0757-7"
+  },
+  "journal": "Apoptosis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: DAPK plays an important role in panobinostat-induced autophagy and commits cells to apoptosis under autophagy deficient conditions"
+}

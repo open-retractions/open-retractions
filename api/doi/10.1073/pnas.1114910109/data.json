@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1331596800000,"doi":"10.1073/pnas.1204582109","type":"correction"},"doi":"10.1073/pnas.1114910109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Liu et al., Impact of declining Arctic sea ice on winter snowfall"}
+{
+  "retracted": false,
+  "timestamp": 1331596800000,
+  "updates": [
+    {
+      "timestamp": 1495873262539,
+      "identifier": {
+        "doi": "10.1073/pnas.1204582109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1114910109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Liu et al., Impact of declining Arctic sea ice on winter snowfall"
+}

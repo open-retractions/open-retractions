@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1244332800000,"doi":"10.1007/s00120-009-2016-2","type":"correction"},"doi":"10.1007/s00120-008-1925-9","journal":"Der Urologe","publisher":"Springer Nature","title":"Samenblasenerhaltende radikale perineale Prostatektomie"}
+{
+  "retracted": false,
+  "timestamp": 1244332800000,
+  "updates": [
+    {
+      "timestamp": 1495959036868,
+      "identifier": {
+        "doi": "10.1007/s00120-009-2016-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00120-008-1925-9"
+  },
+  "journal": "Der Urologe",
+  "publisher": "Springer Nature",
+  "title": "Samenblasenerhaltende radikale perineale Prostatektomie"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":219456000000,"doi":"10.1063/1.433607","type":"erratum"},"doi":"10.1063/1.431815","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Electronic symmetries, dipole moments, and polarizabilities of molecules in Rydberg states determined from electric‐field effects on absorption spectra"}
+{
+  "retracted": false,
+  "timestamp": 219456000000,
+  "updates": [
+    {
+      "timestamp": 1495896769850,
+      "identifier": {
+        "doi": "10.1063/1.433607"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.431815"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Electronic symmetries, dipole moments, and polarizabilities of molecules in Rydberg states determined from electric‐field effects on absorption spectra"
+}

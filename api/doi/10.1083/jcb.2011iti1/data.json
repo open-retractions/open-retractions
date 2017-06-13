@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365984000000,"doi":"10.1083/jcb.2011iti12012c","type":"correction"},"doi":"10.1083/jcb.2011iti1","journal":"The Journal of Cell Biology","publisher":"Rockefeller University Press","title":"FANCJ lets chromatin stay true"}
+{
+  "retracted": false,
+  "timestamp": 1365984000000,
+  "updates": [
+    {
+      "timestamp": 1496012423172,
+      "identifier": {
+        "doi": "10.1083/jcb.2011iti12012c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1083/jcb.2011iti1"
+  },
+  "journal": "The Journal of Cell Biology",
+  "publisher": "Rockefeller University Press",
+  "title": "FANCJ lets chromatin stay true"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1007/s10334-013-0415-2","type":"correction"},"doi":"10.1007/s10334-013-0402-7","journal":"Magnetic Resonance Materials in Physics, Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: Cylinders or walls? A new computational model to estimate the MR transverse relaxation rate dependence on trabecular bone architecture"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495994117317,
+      "identifier": {
+        "doi": "10.1007/s10334-013-0415-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10334-013-0402-7"
+  },
+  "journal": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cylinders or walls? A new computational model to estimate the MR transverse relaxation rate dependence on trabecular bone architecture"
+}

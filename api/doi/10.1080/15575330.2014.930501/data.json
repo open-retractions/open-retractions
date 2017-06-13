@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411084800000,"doi":"10.1080/15575330.2014.954349","type":"correction"},"doi":"10.1080/15575330.2014.930501","journal":"Community Development","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1411084800000,
+  "updates": [
+    {
+      "timestamp": 1496007159476,
+      "identifier": {
+        "doi": "10.1080/15575330.2014.954349"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15575330.2014.930501"
+  },
+  "journal": "Community Development",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

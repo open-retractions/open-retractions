@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1007/s12350-016-0463-x","type":"correction"},"doi":"10.1007/s12350-015-0387-x","journal":"Journal of Nuclear Cardiology","publisher":"Springer Nature","title":"Erratum to: ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652605954,
+      "identifier": {
+        "doi": "10.1007/s12350-016-0463-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12350-015-0387-x"
+  },
+  "journal": "Journal of Nuclear Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers"
+}

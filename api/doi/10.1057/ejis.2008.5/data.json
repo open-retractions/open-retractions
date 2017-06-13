@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1224720000000,"doi":"10.1057/ejis.2008.23","type":"correction"},"doi":"10.1057/ejis.2008.5","journal":"European Journal of Information Systems","publisher":"Springer Nature","title":"Erratum: System development activities and inquiring systems: an integrating framework"}
+{
+  "retracted": false,
+  "timestamp": 1224720000000,
+  "updates": [
+    {
+      "timestamp": 1495872272347,
+      "identifier": {
+        "doi": "10.1057/ejis.2008.23"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/ejis.2008.5"
+  },
+  "journal": "European Journal of Information Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum: System development activities and inquiring systems: an integrating framework"
+}

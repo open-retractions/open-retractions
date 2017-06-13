@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.euromechsol.2014.01.003","type":"err"},"doi":"10.1016/j.euromechsol.2010.03.001","journal":"European Journal of Mechanics - A/Solids","publisher":"Elsevier BV","title":"Erratum to “Cosserat model for periodic masonry deduced by nonlinear homogenization” [29 (2010) 724–737]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496024129554,
+      "identifier": {
+        "doi": "10.1016/j.euromechsol.2014.01.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.euromechsol.2010.03.001"
+  },
+  "journal": "European Journal of Mechanics - A/Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Cosserat model for periodic masonry deduced by nonlinear homogenization” [29 (2010) 724–737]"
+}

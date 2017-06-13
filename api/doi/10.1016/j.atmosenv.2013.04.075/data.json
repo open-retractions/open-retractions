@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.atmosenv.2013.08.007","type":"err"},"doi":"10.1016/j.atmosenv.2013.04.075","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Corrigendum to “Long-term frequency and characteristics of dust storm events in Northeast Iceland (1949–2011)” [Atmos. Environ. 77 (2013) 117–127]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496040014597,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2013.08.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2013.04.075"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Long-term frequency and characteristics of dust storm events in Northeast Iceland (1949–2011)” [Atmos. Environ. 77 (2013) 117–127]"
+}

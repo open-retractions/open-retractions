@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1280620800000,"update":{"timestamp":null,"doi":null,"pmid":24910880,"type":"retraction"},"doi":"10.1016/j.micron.2010.03.007","journal":"Micron (Oxford, England : 1993)","publisher":null,"title":"Sperm ultrastructure in two species of Panorpa and one Bittacus (Mecoptera)."}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496037518704,
+      "identifier": {
+        "doi": "10.1016/j.micron.2014.02.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micron.2010.03.007"
+  },
+  "journal": "Micron",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Sperm ultrastructure in two species of Panorpa and one Bittacus (Mecoptera)” [Micron 41 (6) (2010) 622–632]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467849600000,"doi":"10.1039/c6an90038k","type":"correction"},"doi":"10.1039/c3an00254c","journal":"The Analyst","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Total viable bacterial count using a real time all-fibre spectroscopic system"}
+{
+  "retracted": false,
+  "timestamp": 1467849600000,
+  "updates": [
+    {
+      "timestamp": 1495725387628,
+      "identifier": {
+        "doi": "10.1039/c6an90038k"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c3an00254c"
+  },
+  "journal": "The Analyst",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Total viable bacterial count using a real time all-fibre spectroscopic system"
+}

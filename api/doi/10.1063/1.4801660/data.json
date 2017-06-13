@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407801600000,"doi":"10.1063/1.4892983","type":"correction"},"doi":"10.1063/1.4801660","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Core hole screening and decay rates of double core ionized first row hydrides” [J. Chem. Phys. 138, 164304 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1407801600000,
+  "updates": [
+    {
+      "timestamp": 1495999860170,
+      "identifier": {
+        "doi": "10.1063/1.4892983"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4801660"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Core hole screening and decay rates of double core ionized first row hydrides” [J. Chem. Phys. 138, 164304 (2013)]"
+}

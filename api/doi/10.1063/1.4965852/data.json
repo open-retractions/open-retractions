@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483660800000,"doi":"10.1063/1.4973864","type":"erratum"},"doi":"10.1063/1.4965852","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Soliton-assisted random lasing in optically-pumped liquid crystals” [Appl. Phys. Lett. 109, 161105 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1483660800000,
+  "updates": [
+    {
+      "timestamp": 1495673236838,
+      "identifier": {
+        "doi": "10.1063/1.4973864"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4965852"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Soliton-assisted random lasing in optically-pumped liquid crystals” [Appl. Phys. Lett. 109, 161105 (2016)]"
+}

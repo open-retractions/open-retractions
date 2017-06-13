@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426118400000,"doi":"10.1017/s0031182015000153","type":"corrected-article"},"doi":"10.1017/s0031182014001875","journal":"Parasitology","publisher":"Cambridge University Press (CUP)","title":"Parasitology, Volume 142, Issue 1- ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1426118400000,
+  "updates": [
+    {
+      "timestamp": 1496050378850,
+      "identifier": {
+        "doi": "10.1017/s0031182015000153"
+      },
+      "type": "corrected-article"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0031182014001875"
+  },
+  "journal": "Parasitology",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Parasitology, Volume 142, Issue 1- ERRATUM"
+}

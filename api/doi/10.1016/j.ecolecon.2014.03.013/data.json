@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.ecolecon.2014.05.004","type":"err"},"doi":"10.1016/j.ecolecon.2014.03.013","journal":"Ecological Economics","publisher":"Elsevier BV","title":"Corrigendum to “To shut down or to shift: Multinationals and environmental regulation” [Ecolec (2014) 102, 113–117]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496043509833,
+      "identifier": {
+        "doi": "10.1016/j.ecolecon.2014.05.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolecon.2014.03.013"
+  },
+  "journal": "Ecological Economics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “To shut down or to shift: Multinationals and environmental regulation” [Ecolec (2014) 102, 113–117]"
+}

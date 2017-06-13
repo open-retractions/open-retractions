@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1007/s00521-015-1926-8","type":"correction"},"doi":"10.1007/s00521-015-1909-9","journal":"Neural Computing and Applications","publisher":"Springer Nature","title":"Erratum to: Real-time transient stability status prediction using cost-sensitive extreme learning machine"}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1496001394644,
+      "identifier": {
+        "doi": "10.1007/s00521-015-1926-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00521-015-1909-9"
+  },
+  "journal": "Neural Computing and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Real-time transient stability status prediction using cost-sensitive extreme learning machine"
+}

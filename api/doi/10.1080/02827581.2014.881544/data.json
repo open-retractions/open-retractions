@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1080/02827581.2014.905024","type":"correction"},"doi":"10.1080/02827581.2014.881544","journal":"Scandinavian Journal of Forest Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496027164301,
+      "identifier": {
+        "doi": "10.1080/02827581.2014.905024"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02827581.2014.881544"
+  },
+  "journal": "Scandinavian Journal of Forest Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

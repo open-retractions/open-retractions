@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485734400000,"doi":"10.1088/1361-6668/aa5a7d","type":"correction"},"doi":"10.1088/0953-2048/28/5/053002","journal":"Superconductor Science and Technology","publisher":"IOP Publishing","title":"Corrigendum: Modelling of bulk superconductor magnetisation (2015 Supercond. Sci. Technol. 28 053002)"}
+{
+  "retracted": false,
+  "timestamp": 1485734400000,
+  "updates": [
+    {
+      "timestamp": 1495681475544,
+      "identifier": {
+        "doi": "10.1088/1361-6668/aa5a7d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0953-2048/28/5/053002"
+  },
+  "journal": "Superconductor Science and Technology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Modelling of bulk superconductor magnetisation (2015 Supercond. Sci. Technol. 28 053002)"
+}

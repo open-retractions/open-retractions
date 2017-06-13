@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.phytol.2013.06.001","type":"err"},"doi":"10.1016/j.phytol.2012.10.012","journal":"Phytochemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Protective effect of Echinops galalensis against CCl4-induced injury on the human hepatoma cell line (Huh7)” [Phytochem. Lett. 6 (2013) 73–78]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496024073692,
+      "identifier": {
+        "doi": "10.1016/j.phytol.2013.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytol.2012.10.012"
+  },
+  "journal": "Phytochemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protective effect of Echinops galalensis against CCl4-induced injury on the human hepatoma cell line (Huh7)” [Phytochem. Lett. 6 (2013) 73–78]"
+}

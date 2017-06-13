@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1228867200000,"doi":"10.1371/annotation/a81b1fab-890c-447b-a308-5bc8ca3eb21d","type":"correction"},"doi":"10.1371/journal.pgen.1000281","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Hypermutable Non-Synonymous Sites Are under Stronger Negative Selection"}
+{
+  "retracted": false,
+  "timestamp": 1228867200000,
+  "updates": [
+    {
+      "timestamp": 1496023932843,
+      "identifier": {
+        "doi": "10.1371/annotation/a81b1fab-890c-447b-a308-5bc8ca3eb21d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000281"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hypermutable Non-Synonymous Sites Are under Stronger Negative Selection"
+}

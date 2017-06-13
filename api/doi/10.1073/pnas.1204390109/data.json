@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1343692800000,"doi":"10.1073/pnas.1217417109","type":"correction"},"doi":"10.1073/pnas.1204390109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Borghi et al., E-cadherin is under constitutive actomyosin-generated tension that is increased at cell-cell contacts upon externally applied stretch"}
+{
+  "retracted": false,
+  "timestamp": 1343692800000,
+  "updates": [
+    {
+      "timestamp": 1495962223062,
+      "identifier": {
+        "doi": "10.1073/pnas.1217417109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1204390109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Borghi et al., E-cadherin is under constitutive actomyosin-generated tension that is increased at cell-cell contacts upon externally applied stretch"
+}

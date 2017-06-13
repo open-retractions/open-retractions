@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":922060800000,"doi":"10.1063/1.478513","type":"erratum"},"doi":"10.1063/1.477360","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Ab initio calculation of molecular energies including parity violating interactions” [J. Chem. Phys. 109, 7263 (1998)]"}
+{
+  "retracted": false,
+  "timestamp": 922060800000,
+  "updates": [
+    {
+      "timestamp": 1495866989816,
+      "identifier": {
+        "doi": "10.1063/1.478513"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.477360"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Ab initio calculation of molecular energies including parity violating interactions” [J. Chem. Phys. 109, 7263 (1998)]"
+}

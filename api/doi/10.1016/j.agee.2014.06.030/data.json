@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.agee.2014.08.009","type":"err"},"doi":"10.1016/j.agee.2014.06.030","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to ‘Assessment of native shrubs for stabilisation of a trace elements-polluted soil as the final phase of a restoration process’ [Agric. Ecosyst. Environ. (2014), 196C: 103–111]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496004423450,
+      "identifier": {
+        "doi": "10.1016/j.agee.2014.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2014.06.030"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Assessment of native shrubs for stabilisation of a trace elements-polluted soil as the final phase of a restoration process’ [Agric. Ecosyst. Environ. (2014), 196C: 103–111]"
+}

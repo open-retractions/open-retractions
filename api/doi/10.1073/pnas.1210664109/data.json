@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1358985600000,"doi":"10.1073/pnas.1222108110","type":"correction"},"doi":"10.1073/pnas.1210664109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Arganda et al., A common rule for decision making in animal collectives across species"}
+{
+  "retracted": false,
+  "timestamp": 1358985600000,
+  "updates": [
+    {
+      "timestamp": 1495989726705,
+      "identifier": {
+        "doi": "10.1073/pnas.1222108110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1210664109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Arganda et al., A common rule for decision making in animal collectives across species"
+}

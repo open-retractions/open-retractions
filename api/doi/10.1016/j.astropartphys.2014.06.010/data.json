@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.astropartphys.2015.06.003","type":"err"},"doi":"10.1016/j.astropartphys.2014.06.010","journal":"Astroparticle Physics","publisher":"Elsevier BV","title":"Corrigendum to ‘Scintillation efficiency for low energy nuclear recoils in liquid xenon dark matter detectors’ [Astroparticle Physics 61 (2015) 56-61]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496013167325,
+      "identifier": {
+        "doi": "10.1016/j.astropartphys.2015.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.astropartphys.2014.06.010"
+  },
+  "journal": "Astroparticle Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Scintillation efficiency for low energy nuclear recoils in liquid xenon dark matter detectors’ [Astroparticle Physics 61 (2015) 56-61]"
+}

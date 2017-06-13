@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1072051200000,"doi":"10.1371/journal.pbio.0000091","type":"correction"},"doi":"10.1371/journal.pbio.0000027","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: What Controls Variation in Human Skin Color?"}
+{
+  "retracted": false,
+  "timestamp": 1072051200000,
+  "updates": [
+    {
+      "timestamp": 1495801800234,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0000091"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0000027"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: What Controls Variation in Human Skin Color?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jnc.2015.09.004","type":"err"},"doi":"10.1016/j.jnc.2013.08.004","journal":"Journal for Nature Conservation","publisher":"Elsevier BV","title":"Corrigendum to “Functional diversity analysis helps to identify filters affecting community assembly after fen restoration by top-soil removal and hay transfer” [J. Nat. Conserv. 22 (February (1)) (2014) 50–58]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1496032649973,
+      "identifier": {
+        "doi": "10.1016/j.jnc.2015.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnc.2013.08.004"
+  },
+  "journal": "Journal for Nature Conservation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Functional diversity analysis helps to identify filters affecting community assembly after fen restoration by top-soil removal and hay transfer” [J. Nat. Conserv. 22 (February (1)) (2014) 50–58]"
+}

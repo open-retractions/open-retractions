@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.ebiom.2016.05.033","type":"erratum"},"doi":"10.1016/j.ebiom.2015.11.012","journal":"EBioMedicine","publisher":"Elsevier BV","title":"Corrigendum to “Syk and ye shall find” [EBioMedicine 2 (11) (2015) 190-1591]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495716838020,
+      "identifier": {
+        "doi": "10.1016/j.ebiom.2016.05.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ebiom.2015.11.012"
+  },
+  "journal": "EBioMedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Syk and ye shall find” [EBioMedicine 2 (11) (2015) 190-1591]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1358812800000,"doi":"10.1073/pnas.1220901110","type":"correction"},"doi":"10.1073/pnas.1209192109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kirkby et al., Cyclooxygenase-1, not cyclooxygenase-2, is responsible for physiological production of prostacyclin in the cardiovascular system"}
+{
+  "retracted": false,
+  "timestamp": 1358812800000,
+  "updates": [
+    {
+      "timestamp": 1495983318746,
+      "identifier": {
+        "doi": "10.1073/pnas.1220901110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1209192109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kirkby et al., Cyclooxygenase-1, not cyclooxygenase-2, is responsible for physiological production of prostacyclin in the cardiovascular system"
+}

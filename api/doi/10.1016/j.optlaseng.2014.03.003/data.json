@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.optlaseng.2014.04.004","type":"err"},"doi":"10.1016/j.optlaseng.2014.03.003","journal":"Optics and Lasers in Engineering","publisher":"Elsevier BV","title":"Erratum to “General solution for high dynamic range three-dimensional shape measurement using fringe projection techniques [Opt Lasers Eng 59 (2014) 56–71]”"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496037778928,
+      "identifier": {
+        "doi": "10.1016/j.optlaseng.2014.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optlaseng.2014.03.003"
+  },
+  "journal": "Optics and Lasers in Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “General solution for high dynamic range three-dimensional shape measurement using fringe projection techniques [Opt Lasers Eng 59 (2014) 56–71]”"
+}

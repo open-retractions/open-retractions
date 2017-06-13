@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.exppara.2014.09.001","type":"err"},"doi":"10.1016/j.exppara.2012.07.012","journal":"Experimental Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “Heat shock protein 60 of filarial parasite Brugia malayi: cDNA cloning, expression, purification and in silico modeling and analysis of its ATP binding site” [Exp. Parasitol. 132 (2012) 257–266]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496006424413,
+      "identifier": {
+        "doi": "10.1016/j.exppara.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exppara.2012.07.012"
+  },
+  "journal": "Experimental Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Heat shock protein 60 of filarial parasite Brugia malayi: cDNA cloning, expression, purification and in silico modeling and analysis of its ATP binding site” [Exp. Parasitol. 132 (2012) 257–266]"
+}

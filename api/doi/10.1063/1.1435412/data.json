@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1020211200000,"doi":"10.1063/1.1470664","type":"erratum"},"doi":"10.1063/1.1435412","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Largely tunable midinfrared (8–12 μm) difference frequency generation in isotropic semiconductors” [J. Appl. Phys. 91, 2550 (2002)]"}
+{
+  "retracted": false,
+  "timestamp": 1020211200000,
+  "updates": [
+    {
+      "timestamp": 1495840635675,
+      "identifier": {
+        "doi": "10.1063/1.1470664"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1435412"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Largely tunable midinfrared (8–12 μm) difference frequency generation in isotropic semiconductors” [J. Appl. Phys. 91, 2550 (2002)]"
+}

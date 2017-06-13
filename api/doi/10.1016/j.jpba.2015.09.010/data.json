@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454630400000,"doi":"10.1016/j.jpba.2015.11.019","type":"err"},"doi":"10.1016/j.jpba.2015.09.010","journal":"Journal of Pharmaceutical and Biomedical Analysis","publisher":"Elsevier BV","title":"Erratum to “Development and validation of a FIA/UV-vis method for pKa determination of oxime based acetylcholinesterase reactivators” [J. Pharm. Biomed. Anal. 117 (5 January) (2016) 240–246]"}
+{
+  "retracted": false,
+  "timestamp": 1454630400000,
+  "updates": [
+    {
+      "timestamp": 1496049527929,
+      "identifier": {
+        "doi": "10.1016/j.jpba.2015.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpba.2015.09.010"
+  },
+  "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Development and validation of a FIA/UV-vis method for pKa determination of oxime based acetylcholinesterase reactivators” [J. Pharm. Biomed. Anal. 117 (5 January) (2016) 240–246]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.eururo.2014.12.020","type":"err"},"doi":"10.1016/j.eururo.2012.11.056","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum to “Immunoglobulin G4–related Disease in Genitourinary Organs: An Emerging Fibroinflammatory Entity Often Misdiagnosed Preoperatively as Cancer” [Eur Urol 2013;64:865–72]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496032335914,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2014.12.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2012.11.056"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Immunoglobulin G4–related Disease in Genitourinary Organs: An Emerging Fibroinflammatory Entity Often Misdiagnosed Preoperatively as Cancer” [Eur Urol 2013;64:865–72]"
+}

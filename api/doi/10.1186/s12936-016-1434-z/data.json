@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477612800000,"doi":"10.1186/s12936-016-1571-4","type":"correction"},"doi":"10.1186/s12936-016-1434-z","journal":"Malaria Journal","publisher":"Springer Nature","title":"Erratum to: Diagnosis and treatment based on quantitative PCR after controlled human malaria infection"}
+{
+  "retracted": false,
+  "timestamp": 1477612800000,
+  "updates": [
+    {
+      "timestamp": 1495652577863,
+      "identifier": {
+        "doi": "10.1186/s12936-016-1571-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12936-016-1434-z"
+  },
+  "journal": "Malaria Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diagnosis and treatment based on quantitative PCR after controlled human malaria infection"
+}

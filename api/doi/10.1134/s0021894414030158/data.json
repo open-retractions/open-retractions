@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1134/s002189441506022x","type":"correction"},"doi":"10.1134/s0021894414030158","journal":"Journal of Applied Mechanics and Technical Physics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: Nondestructive evaluation of the carbon content in steel"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645030809,
+      "identifier": {
+        "doi": "10.1134/s002189441506022x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0021894414030158"
+  },
+  "journal": "Journal of Applied Mechanics and Technical Physics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: Nondestructive evaluation of the carbon content in steel"
+}

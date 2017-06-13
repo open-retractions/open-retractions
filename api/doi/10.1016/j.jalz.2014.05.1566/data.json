@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jalz.2015.04.003","type":"err"},"doi":"10.1016/j.jalz.2014.05.1566","journal":"Alzheimer's & Dementia","publisher":"Elsevier BV","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495997528441,
+      "identifier": {
+        "doi": "10.1016/j.jalz.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jalz.2014.05.1566"
+  },
+  "journal": "Alzheimer's & Dementia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum"
+}

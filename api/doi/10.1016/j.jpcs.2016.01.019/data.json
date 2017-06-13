@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jpcs.2016.06.001","type":"err"},"doi":"10.1016/j.jpcs.2016.01.019","journal":"Journal of Physics and Chemistry of Solids","publisher":"Elsevier BV","title":"Retraction notice to “Transverse photovoltaic effect of tetragonal BiFeO3 films” [J. Phys. Chem. Solids 92C (2016) 32–37]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495721817198,
+      "identifier": {
+        "doi": "10.1016/j.jpcs.2016.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpcs.2016.01.019"
+  },
+  "journal": "Journal of Physics and Chemistry of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Transverse photovoltaic effect of tetragonal BiFeO3 films” [J. Phys. Chem. Solids 92C (2016) 32–37]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453075200000,"doi":"10.1007/s12544-016-0193-9","type":"correction"},"doi":"10.1007/s12544-015-0160-x","journal":"European Transport Research Review","publisher":"Springer Nature","title":"Erratum to: Fuel consumption optimization in air transport: a review, classification, critique, simple meta-analysis, and future research implications"}
+{
+  "retracted": false,
+  "timestamp": 1453075200000,
+  "updates": [
+    {
+      "timestamp": 1495637379116,
+      "identifier": {
+        "doi": "10.1007/s12544-016-0193-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12544-015-0160-x"
+  },
+  "journal": "European Transport Research Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fuel consumption optimization in air transport: a review, classification, critique, simple meta-analysis, and future research implications"
+}

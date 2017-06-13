@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337126400000,"doi":"10.1063/1.4718794","type":"corrigendum"},"doi":"10.1063/1.3604019","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher’s Note: “Field modulation of the electronic structure of trilayer graphene” [Appl. Phys. Lett. 98, 263107 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1337126400000,
+  "updates": [
+    {
+      "timestamp": 1495895628824,
+      "identifier": {
+        "doi": "10.1063/1.4718794"
+      },
+      "type": "corrigendum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3604019"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Field modulation of the electronic structure of trilayer graphene” [Appl. Phys. Lett. 98, 263107 (2011)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.lithos.2014.08.009","type":"err"},"doi":"10.1016/j.lithos.2014.06.005","journal":"Lithos","publisher":"Elsevier BV","title":"Corrigendum to The Early Jurassic Bokan Mountain peralkaline granitic complex (southeastern Alaska): Geochemistry, petrogenesis and rare-metal mineralization"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496003030258,
+      "identifier": {
+        "doi": "10.1016/j.lithos.2014.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lithos.2014.06.005"
+  },
+  "journal": "Lithos",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to The Early Jurassic Bokan Mountain peralkaline granitic complex (southeastern Alaska): Geochemistry, petrogenesis and rare-metal mineralization"
+}

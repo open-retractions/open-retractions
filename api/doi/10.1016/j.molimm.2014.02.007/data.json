@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.molimm.2015.05.006","type":"err"},"doi":"10.1016/j.molimm.2014.02.007","journal":"Molecular Immunology","publisher":"Elsevier BV","title":"Corrigendum to “The mast cell plays a central role in the immune system of teleost fish” [Mol. Immunol. 63 (1) (2015) 3–8]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496004771583,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2015.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2014.02.007"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The mast cell plays a central role in the immune system of teleost fish” [Mol. Immunol. 63 (1) (2015) 3–8]"
+}

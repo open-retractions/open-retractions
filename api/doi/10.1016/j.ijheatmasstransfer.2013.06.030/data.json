@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.ijheatmasstransfer.2013.08.024","type":"err"},"doi":"10.1016/j.ijheatmasstransfer.2013.06.030","journal":"International Journal of Heat and Mass Transfer","publisher":"Elsevier BV","title":"Erratum to “An Eulerian model for particles nonisothermally carried by a compressible fluid” [Int. J. Heat Mass Transfer 65 (2013) 845–854]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496050552712,
+      "identifier": {
+        "doi": "10.1016/j.ijheatmasstransfer.2013.08.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijheatmasstransfer.2013.06.030"
+  },
+  "journal": "International Journal of Heat and Mass Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “An Eulerian model for particles nonisothermally carried by a compressible fluid” [Int. J. Heat Mass Transfer 65 (2013) 845–854]"
+}

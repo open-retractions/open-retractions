@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1224892800000,"doi":"10.1007/s11060-008-9727-x","type":"correction"},"doi":"10.1007/s11060-008-9670-x","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"End of life issues in brain tumor patients"}
+{
+  "retracted": false,
+  "timestamp": 1224892800000,
+  "updates": [
+    {
+      "timestamp": 1495886407673,
+      "identifier": {
+        "doi": "10.1007/s11060-008-9727-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-008-9670-x"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "End of life issues in brain tumor patients"
+}

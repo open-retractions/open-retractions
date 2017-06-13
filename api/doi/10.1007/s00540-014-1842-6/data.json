@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406246400000,"doi":"10.1007/s00540-014-1886-7","type":"correction"},"doi":"10.1007/s00540-014-1842-6","journal":"Journal of Anesthesia","publisher":"Springer Nature","title":"Erratum to: Intravenous dezocine pretreatment reduces the incidence and intensity of myoclonus induced by etomidate"}
+{
+  "retracted": false,
+  "timestamp": 1406246400000,
+  "updates": [
+    {
+      "timestamp": 1496055085837,
+      "identifier": {
+        "doi": "10.1007/s00540-014-1886-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00540-014-1842-6"
+  },
+  "journal": "Journal of Anesthesia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intravenous dezocine pretreatment reduces the incidence and intensity of myoclonus induced by etomidate"
+}

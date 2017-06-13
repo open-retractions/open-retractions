@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459814400000,"doi":"10.1073/pnas.1604056113","type":"correction"},"doi":"10.1073/pnas.1117674109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gaiser et al., Cancer-associated epithelial cell adhesion molecule (EpCAM; CD326) enables epidermal Langerhans cell motility and migration in vivo"}
+{
+  "retracted": false,
+  "timestamp": 1459814400000,
+  "updates": [
+    {
+      "timestamp": 1495659951687,
+      "identifier": {
+        "doi": "10.1073/pnas.1604056113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1117674109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gaiser et al., Cancer-associated epithelial cell adhesion molecule (EpCAM; CD326) enables epidermal Langerhans cell motility and migration in vivo"
+}

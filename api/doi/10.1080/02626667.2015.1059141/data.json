@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439856000000,"doi":"10.1080/02626667.2015.1076616","type":"correction"},"doi":"10.1080/02626667.2015.1059141","journal":"Hydrological Sciences Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1439856000000,
+  "updates": [
+    {
+      "timestamp": 1496022201256,
+      "identifier": {
+        "doi": "10.1080/02626667.2015.1076616"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02626667.2015.1059141"
+  },
+  "journal": "Hydrological Sciences Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

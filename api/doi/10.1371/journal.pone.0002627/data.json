@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350432000000,"doi":"10.1371/annotation/08b55d6b-7872-40a1-9988-b4bd1c849b8a","type":"correction"},"doi":"10.1371/journal.pone.0002627","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Probing the Dynamics of Identified Neurons with a Data-Driven Modeling Approach"}
+{
+  "retracted": false,
+  "timestamp": 1350432000000,
+  "updates": [
+    {
+      "timestamp": 1495967870825,
+      "identifier": {
+        "doi": "10.1371/annotation/08b55d6b-7872-40a1-9988-b4bd1c849b8a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002627"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Probing the Dynamics of Identified Neurons with a Data-Driven Modeling Approach"
+}

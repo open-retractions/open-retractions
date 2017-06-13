@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jcv.2016.06.019","type":"err"},"doi":"10.1016/j.jcv.2016.05.005","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of sensitivity of TaqMan RT-PCR for rubella virus detection in clinical specimens” [J. Clin. Virol. 80 (2016) 98–101]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495729413923,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2016.06.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2016.05.005"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of sensitivity of TaqMan RT-PCR for rubella virus detection in clinical specimens” [J. Clin. Virol. 80 (2016) 98–101]"
+}

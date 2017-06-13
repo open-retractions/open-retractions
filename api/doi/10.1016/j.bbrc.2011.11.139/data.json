@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.bbrc.2015.02.142","type":"err"},"doi":"10.1016/j.bbrc.2011.11.139","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Enzymatic synthesis of substituted epicatechins for bioactivity studies in neurological disorders” [Biochem. Biophys. Res. Commun. 417 (1) (6 January 2012) 457–461]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496055238086,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.02.142"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2011.11.139"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enzymatic synthesis of substituted epicatechins for bioactivity studies in neurological disorders” [Biochem. Biophys. Res. Commun. 417 (1) (6 January 2012) 457–461]"
+}

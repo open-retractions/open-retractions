@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.cct.2013.09.013","type":"err"},"doi":"10.1016/j.cct.2013.05.005","journal":"Contemporary Clinical Trials","publisher":"Elsevier BV","title":"Corrigendum to “Use of a randomized multiple baseline design: Rationale and design of the Spirited Life holistic health intervention study” [Contemp Clin Trials 35 (2013) 138–152]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496052050844,
+      "identifier": {
+        "doi": "10.1016/j.cct.2013.09.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cct.2013.05.005"
+  },
+  "journal": "Contemporary Clinical Trials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Use of a randomized multiple baseline design: Rationale and design of the Spirited Life holistic health intervention study” [Contemp Clin Trials 35 (2013) 138–152]"
+}

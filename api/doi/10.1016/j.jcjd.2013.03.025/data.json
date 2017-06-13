@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.jcjd.2014.06.003","type":"err"},"doi":"10.1016/j.jcjd.2013.03.025","journal":"Canadian Journal of Diabetes","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1495997489242,
+      "identifier": {
+        "doi": "10.1016/j.jcjd.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcjd.2013.03.025"
+  },
+  "journal": "Canadian Journal of Diabetes",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

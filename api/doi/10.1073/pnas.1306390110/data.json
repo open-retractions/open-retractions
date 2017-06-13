@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442880000000,"doi":"10.1073/pnas.1516042112","type":"correction"},"doi":"10.1073/pnas.1306390110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hobley et al., BslA is a self-assembling bacterial hydrophobin that coats theBacillus subtilisbiofilm"}
+{
+  "retracted": false,
+  "timestamp": 1442880000000,
+  "updates": [
+    {
+      "timestamp": 1496026126298,
+      "identifier": {
+        "doi": "10.1073/pnas.1516042112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1306390110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hobley et al., BslA is a self-assembling bacterial hydrophobin that coats theBacillus subtilisbiofilm"
+}

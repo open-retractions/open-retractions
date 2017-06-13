@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":397008000000,"doi":"10.1007/bf01065176","type":"correction"},"doi":"10.1007/bf01059186","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: On the solution of the Michaelis-Menten equation"}
+{
+  "retracted": false,
+  "timestamp": 397008000000,
+  "updates": [
+    {
+      "timestamp": 1495879948140,
+      "identifier": {
+        "doi": "10.1007/bf01065176"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01059186"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the solution of the Michaelis-Menten equation"
+}

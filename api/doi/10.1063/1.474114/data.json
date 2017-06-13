@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":879552000000,"doi":"10.1063/1.475337","type":"erratum"},"doi":"10.1063/1.474114","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “A 250 GHz ESR study of o-terphenyl: Dynamic cage effects above Tc” [J. Chem. Phys. 106, 9996 (1997)]"}
+{
+  "retracted": false,
+  "timestamp": 879552000000,
+  "updates": [
+    {
+      "timestamp": 1495866808262,
+      "identifier": {
+        "doi": "10.1063/1.475337"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.474114"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A 250 GHz ESR study of o-terphenyl: Dynamic cage effects above Tc” [J. Chem. Phys. 106, 9996 (1997)]"
+}

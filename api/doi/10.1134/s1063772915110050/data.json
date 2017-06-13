@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1134/s1063772916050012","type":"correction"},"doi":"10.1134/s1063772915110050","journal":"Astronomy Reports","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “An Exo-Jupiter Candidate in the Eclipsing Binary FL Lyr”"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495671516256,
+      "identifier": {
+        "doi": "10.1134/s1063772916050012"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063772915110050"
+  },
+  "journal": "Astronomy Reports",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “An Exo-Jupiter Candidate in the Eclipsing Binary FL Lyr”"
+}

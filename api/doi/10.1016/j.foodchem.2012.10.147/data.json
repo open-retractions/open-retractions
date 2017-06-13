@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387065600000,"doi":"10.1016/j.foodchem.2013.07.019","type":"err"},"doi":"10.1016/j.foodchem.2012.10.147","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Influence of nitrogen supply on the production of higher alcohols/esters and expression of flavour-related genes in cachaça fermentation” [Food Chem 138 (2013) 701–708]"}
+{
+  "retracted": false,
+  "timestamp": 1387065600000,
+  "updates": [
+    {
+      "timestamp": 1496031697678,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2013.07.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2012.10.147"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of nitrogen supply on the production of higher alcohols/esters and expression of flavour-related genes in cachaça fermentation” [Food Chem 138 (2013) 701–708]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366761600000,"doi":"10.1063/1.4803012","type":"correction"},"doi":"10.1063/1.3525375","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Optical transitions and energy relaxation of hot carriers in Si nanocrystals” [Appl. Phys. Lett. 97, 231116 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1366761600000,
+  "updates": [
+    {
+      "timestamp": 1496014624719,
+      "identifier": {
+        "doi": "10.1063/1.4803012"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3525375"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Optical transitions and energy relaxation of hot carriers in Si nanocrystals” [Appl. Phys. Lett. 97, 231116 (2010)]"
+}

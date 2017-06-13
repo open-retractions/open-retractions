@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.1063/1.4933042","type":"correction"},"doi":"10.1063/1.4931372","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Collapse of the low temperature insulating state in Cr-doped V2O3 thin films” [Appl. Phys. Lett. 107, 111904 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496035932386,
+      "identifier": {
+        "doi": "10.1063/1.4933042"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4931372"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Collapse of the low temperature insulating state in Cr-doped V2O3 thin films” [Appl. Phys. Lett. 107, 111904 (2015)]"
+}

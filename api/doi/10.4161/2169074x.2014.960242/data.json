@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424822400000,"doi":"10.1080/21690731.2015.1011549","type":"correction"},"doi":"10.4161/2169074x.2014.960242","journal":"Translation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1424822400000,
+  "updates": [
+    {
+      "timestamp": 1496002493898,
+      "identifier": {
+        "doi": "10.1080/21690731.2015.1011549"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/2169074x.2014.960242"
+  },
+  "journal": "Translation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

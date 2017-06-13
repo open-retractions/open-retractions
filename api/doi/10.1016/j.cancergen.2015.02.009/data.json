@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.cancergen.2016.02.001","type":"err"},"doi":"10.1016/j.cancergen.2015.02.009","journal":"Cancer Genetics","publisher":"Elsevier BV","title":"Erratum to “5-hydroxymethylcytosine in cancer: Significance in diagnosis and therapy” [Cancer Genet 208 (2015):167–177]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495644544416,
+      "identifier": {
+        "doi": "10.1016/j.cancergen.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cancergen.2015.02.009"
+  },
+  "journal": "Cancer Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “5-hydroxymethylcytosine in cancer: Significance in diagnosis and therapy” [Cancer Genet 208 (2015):167–177]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415318400000,"doi":"10.1016/j.jbiomech.2014.09.023","type":"erratum"},"doi":"10.1016/j.jbiomech.2009.06.022","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Influence of knee alignment on quadriceps cross-sectional area” [J. Biomech. 42 (14) (2009) 2313–2317]"}
+{
+  "retracted": false,
+  "timestamp": 1415318400000,
+  "updates": [
+    {
+      "timestamp": 1496012110872,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2014.09.023"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2009.06.022"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of knee alignment on quadriceps cross-sectional area” [J. Biomech. 42 (14) (2009) 2313–2317]"
+}

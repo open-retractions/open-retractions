@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1098/rsbl.2016.0775","type":"correction"},"doi":"10.1098/rsbl.2015.0781","journal":"Biology Letters","publisher":"The Royal Society","title":"Correction to ‘Is the scaling of swim speed in sharks driven by metabolism?’"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495651744547,
+      "identifier": {
+        "doi": "10.1098/rsbl.2016.0775"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2015.0781"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Is the scaling of swim speed in sharks driven by metabolism?’"
+}

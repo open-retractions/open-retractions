@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.actamat.2014.05.056","type":"err"},"doi":"10.1016/j.actamat.2012.07.026","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Inverse Hall–Petch behavior in diamantane stabilized bulk nanocrystalline aluminum” [Acta Mater. 60 (2012) 5850–5857]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496056500823,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.05.056"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2012.07.026"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inverse Hall–Petch behavior in diamantane stabilized bulk nanocrystalline aluminum” [Acta Mater. 60 (2012) 5850–5857]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1292112000000,"doi":"10.1098/rsbm.2010.0022","type":"correction"},"doi":"10.1098/rsbm.2009.0020","journal":"Biographical Memoirs of Fellows of the Royal Society","publisher":"The Royal Society","title":"Correction for Frank William Ernest Gibson. 22 July 1923 -- 11 July 2008"}
+{
+  "retracted": false,
+  "timestamp": 1292112000000,
+  "updates": [
+    {
+      "timestamp": 1495896614554,
+      "identifier": {
+        "doi": "10.1098/rsbm.2010.0022"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbm.2009.0020"
+  },
+  "journal": "Biographical Memoirs of Fellows of the Royal Society",
+  "publisher": "The Royal Society",
+  "title": "Correction for Frank William Ernest Gibson. 22 July 1923 -- 11 July 2008"
+}

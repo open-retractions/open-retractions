@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1080/02772248.2014.981075","type":"correction"},"doi":"10.1080/02772248.2014.912776","journal":"Toxicological & Environmental Chemistry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496023396865,
+      "identifier": {
+        "doi": "10.1080/02772248.2014.981075"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02772248.2014.912776"
+  },
+  "journal": "Toxicological & Environmental Chemistry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

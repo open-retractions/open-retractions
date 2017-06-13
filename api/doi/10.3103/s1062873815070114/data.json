@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445558400000,"doi":"10.3103/s1062873815150010","type":"correction"},"doi":"10.3103/s1062873815070114","journal":"Bulletin of the Russian Academy of Sciences: Physics","publisher":"Allerton Press","title":"Erratum to: “Measuring independent yields of fission products using a penning trap”"}
+{
+  "retracted": false,
+  "timestamp": 1445558400000,
+  "updates": [
+    {
+      "timestamp": 1496040267845,
+      "identifier": {
+        "doi": "10.3103/s1062873815150010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1062873815070114"
+  },
+  "journal": "Bulletin of the Russian Academy of Sciences: Physics",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Measuring independent yields of fission products using a penning trap”"
+}

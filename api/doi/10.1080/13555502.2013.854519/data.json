@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398988800000,"doi":"10.1080/13555502.2013.878972","type":"correction"},"doi":"10.1080/13555502.2013.854519","journal":"Journal of Victorian Culture","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1398988800000,
+  "updates": [
+    {
+      "timestamp": 1496009136745,
+      "identifier": {
+        "doi": "10.1080/13555502.2013.878972"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13555502.2013.854519"
+  },
+  "journal": "Journal of Victorian Culture",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

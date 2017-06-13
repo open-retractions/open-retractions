@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443484800000,"doi":"10.1073/pnas.1517100112","type":"correction"},"doi":"10.1073/pnas.1503129112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lee et al., The opportunistic marine pathogenVibrio parahaemolyticusbecomes virulent by acquiring a plasmid that expresses a deadly toxin"}
+{
+  "retracted": false,
+  "timestamp": 1443484800000,
+  "updates": [
+    {
+      "timestamp": 1496027425000,
+      "identifier": {
+        "doi": "10.1073/pnas.1517100112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1503129112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lee et al., The opportunistic marine pathogenVibrio parahaemolyticusbecomes virulent by acquiring a plasmid that expresses a deadly toxin"
+}

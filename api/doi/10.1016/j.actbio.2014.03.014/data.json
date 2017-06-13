@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.actbio.2015.06.029","type":"err"},"doi":"10.1016/j.actbio.2014.03.014","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “Scaffolds for tissue engineering of cardiac valves” [Acta Biomater. 10 (2014) 2877–2893]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496011343954,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2015.06.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2014.03.014"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Scaffolds for tissue engineering of cardiac valves” [Acta Biomater. 10 (2014) 2877–2893]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475366400000,"doi":"10.1016/j.ces.2016.05.016","type":"erratum"},"doi":"10.1016/j.ces.2010.07.003","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to ‘‘The application of the parametric continuation method for determining steady state diagrams in chemical enginnering’’ [Chem. Eng. Sci. 65/19 (2010) 5411–5414]"}
+{
+  "retracted": false,
+  "timestamp": 1475366400000,
+  "updates": [
+    {
+      "timestamp": 1495675215178,
+      "identifier": {
+        "doi": "10.1016/j.ces.2016.05.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2010.07.003"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘The application of the parametric continuation method for determining steady state diagrams in chemical enginnering’’ [Chem. Eng. Sci. 65/19 (2010) 5411–5414]"
+}

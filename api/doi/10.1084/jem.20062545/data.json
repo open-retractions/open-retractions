@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1191196800000,"doi":"10.1084/jem.2006254508232007c","type":"correction"},"doi":"10.1084/jem.20062545","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Selective blockade of the inhibitory Fcγ receptor (FcγRIIB) in human dendritic cells and monocytes induces a type I interferon response program"}
+{
+  "retracted": false,
+  "timestamp": 1191196800000,
+  "updates": [
+    {
+      "timestamp": 1495976595875,
+      "identifier": {
+        "doi": "10.1084/jem.2006254508232007c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20062545"
+  },
+  "publisher": "Rockefeller University Press",
+  "title": "Selective blockade of the inhibitory Fcγ receptor (FcγRIIB) in human dendritic cells and monocytes induces a type I interferon response program"
+}

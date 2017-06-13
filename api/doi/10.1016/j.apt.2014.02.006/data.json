@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.apt.2014.12.006","type":"err"},"doi":"10.1016/j.apt.2014.02.006","journal":"Advanced Powder Technology","publisher":"Elsevier BV","title":"Erratum to “Nano-sized cube-shaped single crystalline oxides and their potentials; composition, assembly and functions’’ [Adv. Powder Technol. 25 (5) (2014) 1401–1414]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496032872152,
+      "identifier": {
+        "doi": "10.1016/j.apt.2014.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apt.2014.02.006"
+  },
+  "journal": "Advanced Powder Technology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Nano-sized cube-shaped single crystalline oxides and their potentials; composition, assembly and functions’’ [Adv. Powder Technol. 25 (5) (2014) 1401–1414]"
+}

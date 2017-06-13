@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.molstruc.2015.10.005","type":"err"},"doi":"10.1016/j.molstruc.2015.07.014","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Electronic structure and photoelectron spectra of nickel (II) acetylacetonate and its thio- and amino-substituted analogues” [J. Mol. Struct. 1099 (2015) 579–587]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496041026213,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2015.10.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2015.07.014"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electronic structure and photoelectron spectra of nickel (II) acetylacetonate and its thio- and amino-substituted analogues” [J. Mol. Struct. 1099 (2015) 579–587]"
+}

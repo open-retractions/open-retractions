@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300665600000,"doi":"10.1371/annotation/039deb02-bbe7-406c-a876-341cc4f3fefa","type":"correction"},"doi":"10.1371/journal.pone.0017596","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Multiparameter RNA and Codon Optimization: A Standardized Tool to Assess and Enhance Autologous Mammalian Gene Expression"}
+{
+  "retracted": false,
+  "timestamp": 1300665600000,
+  "updates": [
+    {
+      "timestamp": 1495945820507,
+      "identifier": {
+        "doi": "10.1371/annotation/039deb02-bbe7-406c-a876-341cc4f3fefa"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017596"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Multiparameter RNA and Codon Optimization: A Standardized Tool to Assess and Enhance Autologous Mammalian Gene Expression"
+}

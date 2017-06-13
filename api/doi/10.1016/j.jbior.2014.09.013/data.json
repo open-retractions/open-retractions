@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jbior.2015.02.001","type":"err"},"doi":"10.1016/j.jbior.2014.09.013","journal":"Advances in Biological Regulation","publisher":"Elsevier BV","title":"Corrigendum to “MicroRNA and cancer – A brief overview” [Adv Biol Regul 57 (2015) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496048335667,
+      "identifier": {
+        "doi": "10.1016/j.jbior.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbior.2014.09.013"
+  },
+  "journal": "Advances in Biological Regulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MicroRNA and cancer – A brief overview” [Adv Biol Regul 57 (2015) 1–9]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389744000000,"doi":"10.1136/bmj.g311","type":"correction"},"doi":"10.1136/bmj.g236","journal":"BMJ","publisher":"BMJ","title":"Why the GMC should set up a central registry of doctors' competing interests"}
+{
+  "retracted": false,
+  "timestamp": 1389744000000,
+  "updates": [
+    {
+      "timestamp": 1496012920636,
+      "identifier": {
+        "doi": "10.1136/bmj.g311"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g236"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Why the GMC should set up a central registry of doctors' competing interests"
+}

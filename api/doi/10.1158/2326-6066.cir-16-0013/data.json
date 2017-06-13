@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1158/2326-6066.cir-17-0048","type":"correction"},"doi":"10.1158/2326-6066.cir-16-0013","journal":"Cancer Immunology Research","publisher":"American Association for Cancer Research (AACR)","title":"Correction: Deep Sequencing of T-cell Receptor DNA as a Biomarker of Clonally Expanded TILs in Breast Cancer after Immunotherapy"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1496864411040,
+      "identifier": {
+        "doi": "10.1158/2326-6066.cir-17-0048"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1158/2326-6066.cir-16-0013"
+  },
+  "journal": "Cancer Immunology Research",
+  "publisher": "American Association for Cancer Research (AACR)",
+  "title": "Correction: Deep Sequencing of T-cell Receptor DNA as a Biomarker of Clonally Expanded TILs in Breast Cancer after Immunotherapy"
+}

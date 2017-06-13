@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.appet.2013.06.086","type":"err"},"doi":"10.1016/j.appet.2013.04.005","journal":"Appetite","publisher":"Elsevier BV","title":"Corrigendum to “An evaluation of the cognitive and mood effects of an energy shot over a 6 h period in volunteers. A randomized, double-blind, placebo controlled, cross-over study” [Appetite 67 (2013) 105–113]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496031222144,
+      "identifier": {
+        "doi": "10.1016/j.appet.2013.06.086"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.appet.2013.04.005"
+  },
+  "journal": "Appetite",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An evaluation of the cognitive and mood effects of an energy shot over a 6 h period in volunteers. A randomized, double-blind, placebo controlled, cross-over study” [Appetite 67 (2013) 105–113]"
+}

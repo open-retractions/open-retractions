@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1371/annotation/a0e06cef-a7e4-4ec9-9f35-9df5e50bf7a2","type":"correction"},"doi":"10.1371/journal.pgen.1000090","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Combined Analysis of Murine and Human Microarrays and ChIP Analysis Reveals Genes Associated with the Ability of MYC To Maintain Tumorigenesis"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1496054160064,
+      "identifier": {
+        "doi": "10.1371/annotation/a0e06cef-a7e4-4ec9-9f35-9df5e50bf7a2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000090"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Combined Analysis of Murine and Human Microarrays and ChIP Analysis Reveals Genes Associated with the Ability of MYC To Maintain Tumorigenesis"
+}

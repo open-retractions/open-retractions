@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315267200000,"doi":"10.1073/pnas.1208781109","type":"correction"},"doi":"10.1073/pnas.1015063108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Magalhaes et al., Nucleotide oligomerization domain-containing proteins instruct T cell helper type 2 immunity through stromal activation"}
+{
+  "retracted": false,
+  "timestamp": 1315267200000,
+  "updates": [
+    {
+      "timestamp": 1495912239491,
+      "identifier": {
+        "doi": "10.1073/pnas.1208781109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1015063108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Magalhaes et al., Nucleotide oligomerization domain-containing proteins instruct T cell helper type 2 immunity through stromal activation"
+}

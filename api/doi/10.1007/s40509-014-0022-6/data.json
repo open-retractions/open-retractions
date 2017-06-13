@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424822400000,"doi":"10.1007/s40509-015-0032-z","type":"correction"},"doi":"10.1007/s40509-014-0022-6","journal":"Quantum Studies: Mathematics and Foundations","publisher":"Springer Nature","title":"Erratum to: Toward a geometrical foundation for physics"}
+{
+  "retracted": false,
+  "timestamp": 1424822400000,
+  "updates": [
+    {
+      "timestamp": 1496046121528,
+      "identifier": {
+        "doi": "10.1007/s40509-015-0032-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40509-014-0022-6"
+  },
+  "journal": "Quantum Studies: Mathematics and Foundations",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Toward a geometrical foundation for physics"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389916800000,"doi":"10.1136/bmj.g1402","type":"correction"},"doi":"10.1136/bmj.g282","journal":"BMJ","publisher":"BMJ","title":"Prognostic scores"}
+{
+  "retracted": false,
+  "timestamp": 1389916800000,
+  "updates": [
+    {
+      "timestamp": 1496017808842,
+      "identifier": {
+        "doi": "10.1136/bmj.g1402"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g282"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Prognostic scores"
+}

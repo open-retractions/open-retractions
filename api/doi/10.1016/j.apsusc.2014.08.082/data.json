@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.apsusc.2014.10.163","type":"err"},"doi":"10.1016/j.apsusc.2014.08.082","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “The poisoning effect of Na and K on Mn/TiO2 catalyst for selective catalytic reduction of NO with NH3: A comparative study” [Appl. Surf. Sci. 317 (2014) 111–116]"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496025333021,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2014.10.163"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2014.08.082"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The poisoning effect of Na and K on Mn/TiO2 catalyst for selective catalytic reduction of NO with NH3: A comparative study” [Appl. Surf. Sci. 317 (2014) 111–116]"
+}

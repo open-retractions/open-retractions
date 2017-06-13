@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.vacuum.2016.08.002","type":"err"},"doi":"10.1016/j.vacuum.2016.06.020","journal":"Vacuum","publisher":"Elsevier BV","title":"Erratum to “Growth and characterization of Cu2ZnGeSe4 thin films by selenization of multiple stacks (Cu/Se/ZnSe/Se/Ge/Se) in high vacuum” [Vacuum 131 (2016) 264–270]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495740128915,
+      "identifier": {
+        "doi": "10.1016/j.vacuum.2016.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vacuum.2016.06.020"
+  },
+  "journal": "Vacuum",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Growth and characterization of Cu2ZnGeSe4 thin films by selenization of multiple stacks (Cu/Se/ZnSe/Se/Ge/Se) in high vacuum” [Vacuum 131 (2016) 264–270]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386633600000,"doi":"10.1136/bmj.f7624","type":"correction"},"doi":"10.1136/bmj.f7073","journal":"BMJ","publisher":"BMJ","title":"Intravenous fluid therapy for adults in hospital: summary of NICE guidance"}
+{
+  "retracted": false,
+  "timestamp": 1386633600000,
+  "updates": [
+    {
+      "timestamp": 1496006628580,
+      "identifier": {
+        "doi": "10.1136/bmj.f7624"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f7073"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Intravenous fluid therapy for adults in hospital: summary of NICE guidance"
+}

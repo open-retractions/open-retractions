@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435795200000,"doi":"10.1063/1.4923312","type":"correction"},"doi":"10.1063/1.4919091","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Optimal Ge/SiGe nanofin geometries for hole mobility enhancement: Technology limit from atomic simulations” [J. Appl. Phys. 117, 174312 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1435795200000,
+  "updates": [
+    {
+      "timestamp": 1496013197730,
+      "identifier": {
+        "doi": "10.1063/1.4923312"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4919091"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Optimal Ge/SiGe nanofin geometries for hole mobility enhancement: Technology limit from atomic simulations” [J. Appl. Phys. 117, 174312 (2015)]"
+}

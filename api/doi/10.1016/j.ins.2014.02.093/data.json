@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436486400000,"doi":"10.1016/j.ins.2015.03.057","type":"err"},"doi":"10.1016/j.ins.2014.02.093","journal":"Information Sciences","publisher":"Elsevier BV","title":"Erratum to “Quick attribute reduct algorithm for neighborhood rough set model” [Inform. Sci. 271 (2014) 65–81]"}
+{
+  "retracted": false,
+  "timestamp": 1436486400000,
+  "updates": [
+    {
+      "timestamp": 1496057128816,
+      "identifier": {
+        "doi": "10.1016/j.ins.2015.03.057"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2014.02.093"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Quick attribute reduct algorithm for neighborhood rough set model” [Inform. Sci. 271 (2014) 65–81]"
+}

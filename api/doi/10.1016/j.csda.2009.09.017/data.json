@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.csda.2015.09.008","type":"err"},"doi":"10.1016/j.csda.2009.09.017","journal":"Computational Statistics & Data Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Nonparametric multiplicative bias correction for kernel-type density estimation on the unit interval” [Comput. Statist. Data Anal. 54 (2010) 473–495]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496039412775,
+      "identifier": {
+        "doi": "10.1016/j.csda.2015.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.csda.2009.09.017"
+  },
+  "journal": "Computational Statistics & Data Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nonparametric multiplicative bias correction for kernel-type density estimation on the unit interval” [Comput. Statist. Data Anal. 54 (2010) 473–495]"
+}

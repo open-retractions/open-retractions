@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1186/s12936-016-1223-8","type":"correction"},"doi":"10.1186/s12936-016-1137-5","journal":"Malaria Journal","publisher":"Springer Nature","title":"Erratum to: Synergistic anti-malarial action of cryptolepine and artemisinins"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655723816,
+      "identifier": {
+        "doi": "10.1186/s12936-016-1223-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12936-016-1137-5"
+  },
+  "journal": "Malaria Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Synergistic anti-malarial action of cryptolepine and artemisinins"
+}

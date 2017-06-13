@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463011200000,"doi":"10.3847/0004-637x/822/2/119","type":"correction"},"doi":"10.1088/0004-637x/812/1/71","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “DRIVING SOLAR SPICULES AND JETS WITH MAGNETOHYDRODYNAMIC TURBULENCE: TESTING A PERSISTENT IDEA” (2015, ApJ, 812, 71)"}
+{
+  "retracted": false,
+  "timestamp": 1463011200000,
+  "updates": [
+    {
+      "timestamp": 1495676537809,
+      "identifier": {
+        "doi": "10.3847/0004-637x/822/2/119"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/812/1/71"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “DRIVING SOLAR SPICULES AND JETS WITH MAGNETOHYDRODYNAMIC TURBULENCE: TESTING A PERSISTENT IDEA” (2015, ApJ, 812, 71)"
+}

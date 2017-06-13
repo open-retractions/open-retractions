@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.radphyschem.2014.02.022","type":"err"},"doi":"10.1016/j.radphyschem.2013.12.008","journal":"Radiation Physics and Chemistry","publisher":"Elsevier BV","title":"Corrigendum to: “A comparative study of the effect of Ni9+ and Au8+ ion beams on the properties of poly(methacrylic acid) grafted gum ghatti films [Radiat. Phys. Chem. 97 (2014) 253–261]”"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496026811329,
+      "identifier": {
+        "doi": "10.1016/j.radphyschem.2014.02.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.radphyschem.2013.12.008"
+  },
+  "journal": "Radiation Physics and Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “A comparative study of the effect of Ni9+ and Au8+ ion beams on the properties of poly(methacrylic acid) grafted gum ghatti films [Radiat. Phys. Chem. 97 (2014) 253–261]”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485820800000,"doi":"10.1080/00958972.2017.1284416","type":"correction"},"doi":"10.1080/00958972.2013.816418","journal":"Journal of Coordination Chemistry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485820800000,
+  "updates": [
+    {
+      "timestamp": 1495715311206,
+      "identifier": {
+        "doi": "10.1080/00958972.2017.1284416"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00958972.2013.816418"
+  },
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

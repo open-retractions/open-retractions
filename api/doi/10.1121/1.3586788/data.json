@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424217600000,"doi":"10.1121/1.4906188","type":"correction"},"doi":"10.1121/1.3586788","journal":"The Journal of the Acoustical Society of America","publisher":"Acoustical Society of America (ASA)","title":"Erratum: Numerical simulation of ultrasonic wave propagation for the evaluation of dental implant biomechanical stability [J. Acoust. Soc. Am. 129, 4062–4072 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1424217600000,
+  "updates": [
+    {
+      "timestamp": 1496042436025,
+      "identifier": {
+        "doi": "10.1121/1.4906188"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1121/1.3586788"
+  },
+  "journal": "The Journal of the Acoustical Society of America",
+  "publisher": "Acoustical Society of America (ASA)",
+  "title": "Erratum: Numerical simulation of ultrasonic wave propagation for the evaluation of dental implant biomechanical stability [J. Acoust. Soc. Am. 129, 4062–4072 (2011)]"
+}

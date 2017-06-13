@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.bbi.2016.02.016","type":"erratum"},"doi":"10.1016/j.bbi.2015.10.013","journal":"Brain, Behavior, and Immunity","publisher":"Elsevier BV","title":"Corrigendum to “Unraveling cognitive traits using the Morris water maze unbiased strategy classification (MUST-C) algorithm” [Brain Behav. Immun. 52C (2016) 132–144]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495647534811,
+      "identifier": {
+        "doi": "10.1016/j.bbi.2016.02.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbi.2015.10.013"
+  },
+  "journal": "Brain, Behavior, and Immunity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Unraveling cognitive traits using the Morris water maze unbiased strategy classification (MUST-C) algorithm” [Brain Behav. Immun. 52C (2016) 132–144]"
+}

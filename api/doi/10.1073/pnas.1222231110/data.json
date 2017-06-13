@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363651200000,"doi":"10.1073/pnas.1317243110","type":"correction"},"doi":"10.1073/pnas.1222231110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kanter et al., A post-Kyoto partner: Considering the stratospheric ozone regime as a tool to manage nitrous oxide"}
+{
+  "retracted": false,
+  "timestamp": 1363651200000,
+  "updates": [
+    {
+      "timestamp": 1496048377484,
+      "identifier": {
+        "doi": "10.1073/pnas.1317243110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1222231110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kanter et al., A post-Kyoto partner: Considering the stratospheric ozone regime as a tool to manage nitrous oxide"
+}

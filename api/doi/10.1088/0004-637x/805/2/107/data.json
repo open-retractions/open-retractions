@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.3847/0004-637x/826/1/100","type":"correction"},"doi":"10.1088/0004-637x/805/2/107","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “NEW CONSTRAINTS ON COSMIC POLARIZATION ROTATION FROM THE ACTPOL COSMIC MICROWAVE BACKGROUND B-MODE POLARIZATION OBSERVATION AND THE BICEP2 CONSTRAINT UPDATE” (2015, ApJ, 805, 107)"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495731645477,
+      "identifier": {
+        "doi": "10.3847/0004-637x/826/1/100"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/805/2/107"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “NEW CONSTRAINTS ON COSMIC POLARIZATION ROTATION FROM THE ACTPOL COSMIC MICROWAVE BACKGROUND B-MODE POLARIZATION OBSERVATION AND THE BICEP2 CONSTRAINT UPDATE” (2015, ApJ, 805, 107)"
+}

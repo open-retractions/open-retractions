@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354320000000,"doi":"10.1098/rsbm.2012.0043","type":"correction"},"doi":"10.1098/rsbm.2012.0040","journal":"Biographical Memoirs of Fellows of the Royal Society","publisher":"The Royal Society","title":"Correction for Editorial"}
+{
+  "retracted": false,
+  "timestamp": 1354320000000,
+  "updates": [
+    {
+      "timestamp": 1496052972898,
+      "identifier": {
+        "doi": "10.1098/rsbm.2012.0043"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbm.2012.0040"
+  },
+  "journal": "Biographical Memoirs of Fellows of the Royal Society",
+  "publisher": "The Royal Society",
+  "title": "Correction for Editorial"
+}

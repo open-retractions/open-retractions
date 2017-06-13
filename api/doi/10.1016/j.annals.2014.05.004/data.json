@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.annals.2014.10.003","type":"err"},"doi":"10.1016/j.annals.2014.05.004","journal":"Annals of Tourism Research","publisher":"Elsevier BV","title":"Corrigendum to “Does the tourism industry co-evolve?” [Ann. Tourism Res. 47 (July) (2014) 81–83]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496016646095,
+      "identifier": {
+        "doi": "10.1016/j.annals.2014.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.annals.2014.05.004"
+  },
+  "journal": "Annals of Tourism Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Does the tourism industry co-evolve?” [Ann. Tourism Res. 47 (July) (2014) 81–83]"
+}

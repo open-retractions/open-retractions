@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1324252800000,"doi":"10.1084/jem.2010189020813c","type":"correction"},"doi":"10.1084/jem.20101890","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Osteoclasts are dispensable for hematopoietic stem cell maintenance and mobilization"}
+{
+  "retracted": false,
+  "timestamp": 1324252800000,
+  "updates": [
+    {
+      "timestamp": 1495834437482,
+      "identifier": {
+        "doi": "10.1084/jem.2010189020813c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20101890"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Osteoclasts are dispensable for hematopoietic stem cell maintenance and mobilization"
+}

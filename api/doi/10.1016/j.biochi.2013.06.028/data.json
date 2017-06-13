@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.biochi.2015.11.025","type":"erratum"},"doi":"10.1016/j.biochi.2013.06.028","journal":"Biochimie","publisher":"Elsevier BV","title":"Corrigendum to ‘Unveiling the effects of the secretome of mesenchymal progenitors from the umbilical cord in different neuronal cell populations’ [Biochimie 95–12 (2013) 2297–2303]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496050097762,
+      "identifier": {
+        "doi": "10.1016/j.biochi.2015.11.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biochi.2013.06.028"
+  },
+  "journal": "Biochimie",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Unveiling the effects of the secretome of mesenchymal progenitors from the umbilical cord in different neuronal cell populations’ [Biochimie 95–12 (2013) 2297–2303]"
+}

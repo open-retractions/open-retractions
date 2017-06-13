@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1260835200000,"doi":"10.1007/s00705-009-0531-5","type":"correction"},"doi":"10.1007/s00705-009-0499-1","journal":"Archives of Virology","publisher":"Springer Nature","title":"Erratum to: Molecular characterization of a rare, human-porcine reassortant rotavirus strain, G11P[6], from Ecuador"}
+{
+  "retracted": false,
+  "timestamp": 1260835200000,
+  "updates": [
+    {
+      "timestamp": 1495806015760,
+      "identifier": {
+        "doi": "10.1007/s00705-009-0531-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00705-009-0499-1"
+  },
+  "journal": "Archives of Virology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular characterization of a rare, human-porcine reassortant rotavirus strain, G11P[6], from Ecuador"
+}

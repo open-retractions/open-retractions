@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1080/13510002.2016.1202057","type":"correction"},"doi":"10.1080/13510002.2015.1101890","journal":"Redox Report","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495724153505,
+      "identifier": {
+        "doi": "10.1080/13510002.2016.1202057"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13510002.2015.1101890"
+  },
+  "journal": "Redox Report",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

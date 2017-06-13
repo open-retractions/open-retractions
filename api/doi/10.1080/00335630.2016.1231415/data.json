@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1080/00335630.2016.1260253","type":"correction"},"doi":"10.1080/00335630.2016.1231415","journal":"Quarterly Journal of Speech","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495657585674,
+      "identifier": {
+        "doi": "10.1080/00335630.2016.1260253"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00335630.2016.1231415"
+  },
+  "journal": "Quarterly Journal of Speech",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1303948800000,"doi":"10.1371/annotation/d4e8b4eb-2385-4a46-938e-19bbae4fcf89","type":"correction"},"doi":"10.1371/journal.pgen.1001068","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Epigenetically-Inherited Centromere and Neocentromere DNA Replicates Earliest in S-Phase"}
+{
+  "retracted": false,
+  "timestamp": 1303948800000,
+  "updates": [
+    {
+      "timestamp": 1491970314848,
+      "identifier": {
+        "doi": "10.1371/annotation/d4e8b4eb-2385-4a46-938e-19bbae4fcf89"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001068"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Epigenetically-Inherited Centromere and Neocentromere DNA Replicates Earliest in S-Phase"
+}

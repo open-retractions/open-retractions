@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382054400000,"doi":"10.1007/s11468-013-9625-8","type":"correction"},"doi":"10.1007/s11468-013-9579-x","journal":"Plasmonics","publisher":"Springer Nature","title":"Erratum to: Characteristics of Symmetric Surface Plasmon Polariton Mode in Glass–Metal–Glass Waveguide"}
+{
+  "retracted": false,
+  "timestamp": 1382054400000,
+  "updates": [
+    {
+      "timestamp": 1496054333110,
+      "identifier": {
+        "doi": "10.1007/s11468-013-9625-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11468-013-9579-x"
+  },
+  "journal": "Plasmonics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Characteristics of Symmetric Surface Plasmon Polariton Mode in Glass–Metal–Glass Waveguide"
+}

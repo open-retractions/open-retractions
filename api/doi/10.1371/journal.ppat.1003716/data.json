@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385078400000,"doi":"10.1371/annotation/05c0ca66-4ed9-4c04-96c6-3addac835e04","type":"correction"},"doi":"10.1371/journal.ppat.1003716","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Deletion of the α-(1,3)-Glucan Synthase Genes Induces a Restructuring of the Conidial Cell Wall Responsible for the Avirulence of Aspergillus fumigatus"}
+{
+  "retracted": false,
+  "timestamp": 1385078400000,
+  "updates": [
+    {
+      "timestamp": 1495999518868,
+      "identifier": {
+        "doi": "10.1371/annotation/05c0ca66-4ed9-4c04-96c6-3addac835e04"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003716"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Deletion of the α-(1,3)-Glucan Synthase Genes Induces a Restructuring of the Conidial Cell Wall Responsible for the Avirulence of Aspergillus fumigatus"
+}

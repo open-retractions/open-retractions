@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.chb.2014.04.017","type":"err"},"doi":"10.1016/j.chb.2014.02.044","journal":"Computers in Human Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Relational maintenance on social network sites: How Facebook communication predicts relational escalation” [Comput. Hum. Behav. 35 (2014) 124–131]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496037931189,
+      "identifier": {
+        "doi": "10.1016/j.chb.2014.04.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chb.2014.02.044"
+  },
+  "journal": "Computers in Human Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relational maintenance on social network sites: How Facebook communication predicts relational escalation” [Comput. Hum. Behav. 35 (2014) 124–131]"
+}

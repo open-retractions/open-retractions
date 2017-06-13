@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363564800000,"doi":"10.1016/j.ccr.2013.03.006","type":"err"},"doi":"10.1016/j.ccr.2004.05.022","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Dynein Light Chain 1, a p21-Activated Kinase 1-Interacting Substrate, Promotes Cancerous Phenotypes"}
+{
+  "retracted": false,
+  "timestamp": 1363564800000,
+  "updates": [
+    {
+      "timestamp": 1496005463934,
+      "identifier": {
+        "doi": "10.1016/j.ccr.2013.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2004.05.022"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Dynein Light Chain 1, a p21-Activated Kinase 1-Interacting Substrate, Promotes Cancerous Phenotypes"
+}

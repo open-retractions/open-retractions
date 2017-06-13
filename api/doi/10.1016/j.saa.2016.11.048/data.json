@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1497484800000,"doi":"10.1016/j.saa.2017.02.044","type":"erratum"},"doi":"10.1016/j.saa.2016.11.048","journal":"Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy","publisher":"Elsevier BV","title":"Corrigendum to “Validated spectrofluorimetric methods for the determination of apixaban and tirofiban hydrochloride in pharmaceutical formulations” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 174 (2017) 326–330]"}
+{
+  "retracted": false,
+  "timestamp": 1497484800000,
+  "updates": [
+    {
+      "timestamp": 1495729957326,
+      "identifier": {
+        "doi": "10.1016/j.saa.2017.02.044"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.saa.2016.11.048"
+  },
+  "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Validated spectrofluorimetric methods for the determination of apixaban and tirofiban hydrochloride in pharmaceutical formulations” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 174 (2017) 326–330]"
+}

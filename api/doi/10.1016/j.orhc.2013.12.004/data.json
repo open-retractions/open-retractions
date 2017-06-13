@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.orhc.2014.05.001","type":"err"},"doi":"10.1016/j.orhc.2013.12.004","journal":"Operations Research for Health Care","publisher":"Elsevier BV","title":"Corrigendum to “Dose optimization in high-dose-rate brachytherapy: A literature review of quantitative models from 1990–2010” [ORHC 3 (2) (2014) 80–90]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496039788564,
+      "identifier": {
+        "doi": "10.1016/j.orhc.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.orhc.2013.12.004"
+  },
+  "journal": "Operations Research for Health Care",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dose optimization in high-dose-rate brachytherapy: A literature review of quantitative models from 1990–2010” [ORHC 3 (2) (2014) 80–90]"
+}

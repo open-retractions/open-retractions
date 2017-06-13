@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1270512000000,"doi":"10.1007/s00248-010-9655-0","type":"correction"},"doi":"10.1007/s00248-009-9622-9","journal":"Microbial Ecology","publisher":"Springer Nature","title":"Erratum to: Membrane Vesicles: A Common Feature in the Extracellular Matter of Cold-Adapted Antarctic Bacteria"}
+{
+  "retracted": false,
+  "timestamp": 1270512000000,
+  "updates": [
+    {
+      "timestamp": 1495834313382,
+      "identifier": {
+        "doi": "10.1007/s00248-010-9655-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00248-009-9622-9"
+  },
+  "journal": "Microbial Ecology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Membrane Vesicles: A Common Feature in the Extracellular Matter of Cold-Adapted Antarctic Bacteria"
+}

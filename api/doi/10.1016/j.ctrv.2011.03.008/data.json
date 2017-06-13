@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ctrv.2013.06.003","type":"err"},"doi":"10.1016/j.ctrv.2011.03.008","journal":"Cancer Treatment Reviews","publisher":"Elsevier BV","title":"Corrigendum to “HER2 shedding and serum HER2 extracellular domain: Biology and clinical utility in breast cancer” [Cancer Treat Rev 2012; 38: 133–142]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496032516098,
+      "identifier": {
+        "doi": "10.1016/j.ctrv.2013.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ctrv.2011.03.008"
+  },
+  "journal": "Cancer Treatment Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “HER2 shedding and serum HER2 extracellular domain: Biology and clinical utility in breast cancer” [Cancer Treat Rev 2012; 38: 133–142]"
+}

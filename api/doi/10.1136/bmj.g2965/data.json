@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424390400000,"doi":"10.1136/bmj.h1007","type":"correction"},"doi":"10.1136/bmj.g2965","journal":"BMJ","publisher":"BMJ","title":"Procedural sedation and analgesia for adults in the emergency department"}
+{
+  "retracted": false,
+  "timestamp": 1424390400000,
+  "updates": [
+    {
+      "timestamp": 1496046614943,
+      "identifier": {
+        "doi": "10.1136/bmj.h1007"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2965"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Procedural sedation and analgesia for adults in the emergency department"
+}

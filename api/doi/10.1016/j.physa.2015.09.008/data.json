@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.physa.2016.02.008","type":"err"},"doi":"10.1016/j.physa.2015.09.008","journal":"Physica A: Statistical Mechanics and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Dynamics of water clusters in solution with LiCl” [Physica A 442 (2016) 261–267]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495644072461,
+      "identifier": {
+        "doi": "10.1016/j.physa.2016.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physa.2015.09.008"
+  },
+  "journal": "Physica A: Statistical Mechanics and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamics of water clusters in solution with LiCl” [Physica A 442 (2016) 261–267]"
+}

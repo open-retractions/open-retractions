@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jfa.2016.08.009","type":"err"},"doi":"10.1016/j.jfa.2013.06.009","journal":"Journal of Functional Analysis","publisher":"Elsevier BV","title":"Corrigendum and Addendum to “Almost-additive ergodic theorems for amenable groups” [J. Funct. Anal. 265 (2013) 1615–1666]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495638269165,
+      "identifier": {
+        "doi": "10.1016/j.jfa.2016.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfa.2013.06.009"
+  },
+  "journal": "Journal of Functional Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum and Addendum to “Almost-additive ergodic theorems for amenable groups” [J. Funct. Anal. 265 (2013) 1615–1666]"
+}

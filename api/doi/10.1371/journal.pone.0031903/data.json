@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339027200000,"doi":"10.1371/annotation/1ada33bd-76c7-4b66-906f-950b383111e8","type":"correction"},"doi":"10.1371/journal.pone.0031903","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Defective Expression and Function of the Leukocyte Associated Ig-like Receptor 1 in B Lymphocytes from Systemic Lupus Erythematosus Patients"}
+{
+  "retracted": false,
+  "timestamp": 1339027200000,
+  "updates": [
+    {
+      "timestamp": 1495912225263,
+      "identifier": {
+        "doi": "10.1371/annotation/1ada33bd-76c7-4b66-906f-950b383111e8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031903"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Defective Expression and Function of the Leukocyte Associated Ig-like Receptor 1 in B Lymphocytes from Systemic Lupus Erythematosus Patients"
+}

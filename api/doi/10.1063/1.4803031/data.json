@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380758400000,"doi":"10.1063/1.4824743","type":"correction"},"doi":"10.1063/1.4803031","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Room temperature magneto-birefringence in composites of stress-birefringence and magnetostriction,” [J. Appl. Phys. 113, 173903 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1380758400000,
+  "updates": [
+    {
+      "timestamp": 1496051292168,
+      "identifier": {
+        "doi": "10.1063/1.4824743"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4803031"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Room temperature magneto-birefringence in composites of stress-birefringence and magnetostriction,” [J. Appl. Phys. 113, 173903 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376265600000,"doi":"10.1080/10494820.2013.826427","type":"correction"},"doi":"10.1080/10494820.2013.792845","journal":"Interactive Learning Environments","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1376265600000,
+  "updates": [
+    {
+      "timestamp": 1496038553500,
+      "identifier": {
+        "doi": "10.1080/10494820.2013.826427"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10494820.2013.792845"
+  },
+  "journal": "Interactive Learning Environments",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.triboint.2016.01.002","type":"erratum"},"doi":"10.1016/j.triboint.2015.03.009","journal":"Tribology International","publisher":"Elsevier BV","title":"Corrigendum to “Friction-wear behaviors of AlTiN coating by cathodic arc ion plating at high temperatures” [Tribol Int, 88 (2015), 31–39]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495642203234,
+      "identifier": {
+        "doi": "10.1016/j.triboint.2016.01.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.triboint.2015.03.009"
+  },
+  "journal": "Tribology International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Friction-wear behaviors of AlTiN coating by cathodic arc ion plating at high temperatures” [Tribol Int, 88 (2015), 31–39]"
+}

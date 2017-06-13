@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380844800000,"doi":"10.1016/j.chroma.2013.08.009","type":"err"},"doi":"10.1016/j.chroma.2012.03.070","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Corrigendum to “Determination of RNA degradation by capillary electrophoresis with cyan light-emitted diode-induced fluorescence” [J. Chromatogr. A 1239 (2012) 78–84]"}
+{
+  "retracted": false,
+  "timestamp": 1380844800000,
+  "updates": [
+    {
+      "timestamp": 1496042337050,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2013.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2012.03.070"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Determination of RNA degradation by capillary electrophoresis with cyan light-emitted diode-induced fluorescence” [J. Chromatogr. A 1239 (2012) 78–84]"
+}

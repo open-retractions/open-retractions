@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443571200000,"doi":"10.1080/09500340.2015.1086128","type":"correction"},"doi":"10.1080/09500340.2015.1052028","journal":"Journal of Modern Optics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1443571200000,
+  "updates": [
+    {
+      "timestamp": 1496033901803,
+      "identifier": {
+        "doi": "10.1080/09500340.2015.1086128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09500340.2015.1052028"
+  },
+  "journal": "Journal of Modern Optics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

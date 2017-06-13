@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.1007/s10120-015-0548-2","type":"correction"},"doi":"10.1007/s10120-015-0509-9","journal":"Gastric Cancer","publisher":"Springer Nature","title":"Erratum to: Trends in gastric cancer incidence: a period and birth cohort analysis in a well-defined French population"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496035575144,
+      "identifier": {
+        "doi": "10.1007/s10120-015-0548-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10120-015-0509-9"
+  },
+  "journal": "Gastric Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trends in gastric cancer incidence: a period and birth cohort analysis in a well-defined French population"
+}

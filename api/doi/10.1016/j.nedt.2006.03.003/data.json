@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.nedt.2015.01.006","type":"err"},"doi":"10.1016/j.nedt.2006.03.003","journal":"Nurse Education Today","publisher":"Elsevier BV","title":"Corrigendum to “Establishing a culture for patient safety—the role of education” [Nurse Educ Today volume 27 (2007) 95–102]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496042792261,
+      "identifier": {
+        "doi": "10.1016/j.nedt.2015.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nedt.2006.03.003"
+  },
+  "journal": "Nurse Education Today",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Establishing a culture for patient safety—the role of education” [Nurse Educ Today volume 27 (2007) 95–102]"
+}

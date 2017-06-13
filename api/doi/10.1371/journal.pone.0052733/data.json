@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375833600000,"doi":"10.1371/annotation/50f98e02-214c-4314-b053-ca272101ead1","type":"correction"},"doi":"10.1371/journal.pone.0052733","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Human-Mediated Dispersal of Seeds by the Airflow of Vehicles"}
+{
+  "retracted": false,
+  "timestamp": 1375833600000,
+  "updates": [
+    {
+      "timestamp": 1496038307352,
+      "identifier": {
+        "doi": "10.1371/annotation/50f98e02-214c-4314-b053-ca272101ead1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0052733"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Human-Mediated Dispersal of Seeds by the Airflow of Vehicles"
+}

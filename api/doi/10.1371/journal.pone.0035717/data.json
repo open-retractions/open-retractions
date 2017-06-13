@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348617600000,"doi":"10.1371/annotation/e56fbda3-1898-4a36-bf93-d33d5a8b2d2e","type":"correction"},"doi":"10.1371/journal.pone.0035717","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: PIAS1 Is a GATA4 SUMO Ligase That Regulates GATA4-Dependent Intestinal Promoters Independent of SUMO Ligase Activity and GATA4 Sumoylation"}
+{
+  "retracted": false,
+  "timestamp": 1348617600000,
+  "updates": [
+    {
+      "timestamp": 1496025197774,
+      "identifier": {
+        "doi": "10.1371/annotation/e56fbda3-1898-4a36-bf93-d33d5a8b2d2e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035717"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: PIAS1 Is a GATA4 SUMO Ligase That Regulates GATA4-Dependent Intestinal Promoters Independent of SUMO Ligase Activity and GATA4 Sumoylation"
+}

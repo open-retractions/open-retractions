@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1224720000000,"doi":"10.1371/annotation/499b225f-e661-4124-aa2f-60bef89bd14a","type":"correction"},"doi":"10.1371/journal.pone.0002916","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Live Imaging of Cysteine-Cathepsin Activity Reveals Dynamics of Focal Inflammation, Angiogenesis, and Polyp Growth"}
+{
+  "retracted": false,
+  "timestamp": 1224720000000,
+  "updates": [
+    {
+      "timestamp": 1496025197621,
+      "identifier": {
+        "doi": "10.1371/annotation/499b225f-e661-4124-aa2f-60bef89bd14a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002916"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Live Imaging of Cysteine-Cathepsin Activity Reveals Dynamics of Focal Inflammation, Angiogenesis, and Polyp Growth"
+}

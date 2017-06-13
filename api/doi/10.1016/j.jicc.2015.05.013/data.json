@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jicc.2015.05.014","type":"err"},"doi":"10.1016/j.jicc.2015.05.013","journal":"Journal of Indian College of Cardiology","publisher":"Elsevier BV","title":"Management of hypertension in patients with chronic kidney disease"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1496007716429,
+      "identifier": {
+        "doi": "10.1016/j.jicc.2015.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jicc.2015.05.013"
+  },
+  "journal": "Journal of Indian College of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Management of hypertension in patients with chronic kidney disease"
+}

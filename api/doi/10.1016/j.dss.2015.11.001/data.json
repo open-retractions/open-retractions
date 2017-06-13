@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.dss.2017.02.009","type":"erratum"},"doi":"10.1016/j.dss.2015.11.001","journal":"Decision Support Systems","publisher":"Elsevier BV","title":"Retraction notice to: Provider Feedback Information and Customer Choice Decisions on Crowdsourcing Marketplaces: Evidence from Two Discrete Choice Experiments [Decision Support Systems 82 (2016) 1-11]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495725849903,
+      "identifier": {
+        "doi": "10.1016/j.dss.2017.02.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dss.2015.11.001"
+  },
+  "journal": "Decision Support Systems",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: Provider Feedback Information and Customer Choice Decisions on Crowdsourcing Marketplaces: Evidence from Two Discrete Choice Experiments [Decision Support Systems 82 (2016) 1-11]"
+}

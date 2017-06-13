@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408406400000,"doi":"10.1063/1.4893303","type":"correction"},"doi":"10.1063/1.4727885","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “High pressure study of molecular dynamics of protic ionic liquid lidocaine hydrochloride” [J. Chem. Phys. 136, 224501 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1408406400000,
+  "updates": [
+    {
+      "timestamp": 1495998603360,
+      "identifier": {
+        "doi": "10.1063/1.4893303"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4727885"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “High pressure study of molecular dynamics of protic ionic           liquid lidocaine hydrochloride” [J. Chem. Phys.             136, 224501           (2012)]"
+}

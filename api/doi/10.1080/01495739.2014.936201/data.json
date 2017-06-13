@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1080/01495739.2014.962935","type":"correction"},"doi":"10.1080/01495739.2014.936201","journal":"Journal of Thermal Stresses","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496008695161,
+      "identifier": {
+        "doi": "10.1080/01495739.2014.962935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01495739.2014.936201"
+  },
+  "journal": "Journal of Thermal Stresses",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

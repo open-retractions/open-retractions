@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1080/2330443x.2016.1150735","type":"correction"},"doi":"10.1080/2330443x.2015.1092899","journal":"Statistics and Public Policy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495652914626,
+      "identifier": {
+        "doi": "10.1080/2330443x.2016.1150735"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/2330443x.2015.1092899"
+  },
+  "journal": "Statistics and Public Policy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

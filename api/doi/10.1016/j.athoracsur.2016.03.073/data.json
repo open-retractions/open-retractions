@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.athoracsur.2016.11.021","type":"erratum"},"doi":"10.1016/j.athoracsur.2016.03.073","journal":"The Annals of Thoracic Surgery","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495667981822,
+      "identifier": {
+        "doi": "10.1016/j.athoracsur.2016.11.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.athoracsur.2016.03.073"
+  },
+  "journal": "The Annals of Thoracic Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

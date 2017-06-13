@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.ttbdis.2014.07.018","type":"err"},"doi":"10.1016/j.ttbdis.2013.12.001","journal":"Ticks and Tick-borne Diseases","publisher":"Elsevier BV","title":"Corrigendum to “Detection of Borrelia burgdorferi, Anaplasma phagocytophilum and Babesia microti, with two different multiplex PCR assays” [Tick Tick-borne Dis. 5 (2014) 349–351]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495999830626,
+      "identifier": {
+        "doi": "10.1016/j.ttbdis.2014.07.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ttbdis.2013.12.001"
+  },
+  "journal": "Ticks and Tick-borne Diseases",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Detection of Borrelia burgdorferi, Anaplasma phagocytophilum and Babesia microti, with two different multiplex PCR assays” [Tick Tick-borne Dis. 5 (2014) 349–351]"
+}

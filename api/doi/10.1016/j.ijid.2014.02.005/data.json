@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.ijid.2014.12.027","type":"err"},"doi":"10.1016/j.ijid.2014.02.005","journal":"International Journal of Infectious Diseases","publisher":"Elsevier BV","title":"Corrigendum to An outbreak of aseptic meningitis caused by a distinct lineage of coxsackievirus B5 in China"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496032949456,
+      "identifier": {
+        "doi": "10.1016/j.ijid.2014.12.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijid.2014.02.005"
+  },
+  "journal": "International Journal of Infectious Diseases",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to An outbreak of aseptic meningitis caused by a distinct lineage of coxsackievirus B5 in China"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373328000000,"doi":"10.1371/annotation/27fb555c-4365-4c5f-a1c9-42b4e9608f20","type":"correction"},"doi":"10.1371/journal.pone.0068255","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The GTPase Rab37 Participates in the Control of Insulin Exocytosis"}
+{
+  "retracted": false,
+  "timestamp": 1373328000000,
+  "updates": [
+    {
+      "timestamp": 1496038750799,
+      "identifier": {
+        "doi": "10.1371/annotation/27fb555c-4365-4c5f-a1c9-42b4e9608f20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0068255"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The GTPase Rab37 Participates in the Control of Insulin Exocytosis"
+}

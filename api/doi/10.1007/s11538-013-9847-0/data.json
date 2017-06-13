@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397174400000,"doi":"10.1007/s11538-014-9953-7","type":"correction"},"doi":"10.1007/s11538-013-9847-0","journal":"Bulletin of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Diffusion of Finite-Size Particles in Confined Geometries"}
+{
+  "retracted": false,
+  "timestamp": 1397174400000,
+  "updates": [
+    {
+      "timestamp": 1496031855546,
+      "identifier": {
+        "doi": "10.1007/s11538-014-9953-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11538-013-9847-0"
+  },
+  "journal": "Bulletin of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diffusion of Finite-Size Particles in Confined Geometries"
+}

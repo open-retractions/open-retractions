@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jfoodeng.2014.03.002","type":"err"},"doi":"10.1016/j.jfoodeng.2012.03.028","journal":"Journal of Food Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Discernment of bee pollen loads using computer vision and one-class classification techniques” [J. Food Eng. 112 (1–2) (2012) 50–59]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496036400390,
+      "identifier": {
+        "doi": "10.1016/j.jfoodeng.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfoodeng.2012.03.028"
+  },
+  "journal": "Journal of Food Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Discernment of bee pollen loads using computer vision and one-class classification techniques” [J. Food Eng. 112 (1–2) (2012) 50–59]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.hlpt.2013.08.001","type":"err"},"doi":"10.1016/j.hlpt.2012.07.001","journal":"Health Policy and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Electronic data capture in healthcare—NFC as easy way for self-reported health status information” [Health Policy Technol. 1 (2012) 137—144]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496043434853,
+      "identifier": {
+        "doi": "10.1016/j.hlpt.2013.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hlpt.2012.07.001"
+  },
+  "journal": "Health Policy and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electronic data capture in healthcare—NFC as easy way for self-reported health status information” [Health Policy Technol. 1 (2012) 137—144]"
+}

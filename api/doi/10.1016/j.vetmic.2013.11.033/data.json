@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451520000000,"doi":"10.1016/j.vetmic.2015.11.005","type":"erratum"},"doi":"10.1016/j.vetmic.2013.11.033","journal":"Veterinary Microbiology","publisher":"Elsevier BV","title":"Corrigendum to ‘Acquired resistance to the 16-membered macrolides tylosin and tilmicosin by Mycoplasma bovis ’ [Veterinary Microbiology 168 (2014) 365–371]"}
+{
+  "retracted": false,
+  "timestamp": 1451520000000,
+  "updates": [
+    {
+      "timestamp": 1496047823651,
+      "identifier": {
+        "doi": "10.1016/j.vetmic.2015.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetmic.2013.11.033"
+  },
+  "journal": "Veterinary Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Acquired resistance to the 16-membered macrolides tylosin and tilmicosin by  Mycoplasma bovis ’ [Veterinary Microbiology 168 (2014) 365–371]"
+}

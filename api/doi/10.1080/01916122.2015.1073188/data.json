@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449705600000,"doi":"10.1080/01916122.2016.1125663","type":"correction"},"doi":"10.1080/01916122.2015.1073188","journal":"Palynology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1449705600000,
+  "updates": [
+    {
+      "timestamp": 1496051508886,
+      "identifier": {
+        "doi": "10.1080/01916122.2016.1125663"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01916122.2015.1073188"
+  },
+  "journal": "Palynology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

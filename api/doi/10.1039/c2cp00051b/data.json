@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486339200000,"doi":"10.1039/c7cp90027a","type":"correction"},"doi":"10.1039/c2cp00051b","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Folding kinetics of a polymer"}
+{
+  "retracted": false,
+  "timestamp": 1486339200000,
+  "updates": [
+    {
+      "timestamp": 1495718194769,
+      "identifier": {
+        "doi": "10.1039/c7cp90027a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c2cp00051b"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Folding kinetics of a polymer"
+}

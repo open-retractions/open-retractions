@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449273600000,"doi":"10.1007/s12206-015-1056-3","type":"correction"},"doi":"10.1007/s12206-014-0852-5","journal":"Journal of Mechanical Science and Technology","publisher":"Springer Nature","title":"Erratum to “Solar radiation assisted mixed convection MHD flow of nanofluids over an inclined transparent plate embedded in a porous medium”"}
+{
+  "retracted": false,
+  "timestamp": 1449273600000,
+  "updates": [
+    {
+      "timestamp": 1496051224516,
+      "identifier": {
+        "doi": "10.1007/s12206-015-1056-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12206-014-0852-5"
+  },
+  "journal": "Journal of Mechanical Science and Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to “Solar radiation assisted mixed convection MHD flow of nanofluids over an inclined transparent plate embedded in a porous medium”"
+}

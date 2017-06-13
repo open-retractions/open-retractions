@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436400000000,"doi":"10.3103/s1068337215020176","type":"correction"},"doi":"10.3103/s1068337215010120","journal":"Journal of Contemporary Physics (Armenian Academy of Sciences)","publisher":"Allerton Press","title":"Erratum to: “Estimation of thermal expansion coefficient of solid crystalline dielectrics at high temperatures”"}
+{
+  "retracted": false,
+  "timestamp": 1436400000000,
+  "updates": [
+    {
+      "timestamp": 1496013954276,
+      "identifier": {
+        "doi": "10.3103/s1068337215020176"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1068337215010120"
+  },
+  "journal": "Journal of Contemporary Physics (Armenian Academy of Sciences)",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Estimation of thermal expansion coefficient of solid crystalline dielectrics at high temperatures”"
+}

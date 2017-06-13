@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1314921600000,"doi":"10.1371/annotation/62e74a1c-c922-495b-9aaf-eebfe6b85ff5","type":"correction"},"doi":"10.1371/journal.pone.0016719","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Two-Hybrid and Comparative Proteomic Analyses Reveal Novel Yeast Pre-mRNA Splicing Factors Connected to Prp19"}
+{
+  "retracted": false,
+  "timestamp": 1314921600000,
+  "updates": [
+    {
+      "timestamp": 1495801675201,
+      "identifier": {
+        "doi": "10.1371/annotation/62e74a1c-c922-495b-9aaf-eebfe6b85ff5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0016719"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Two-Hybrid and Comparative Proteomic Analyses Reveal Novel Yeast Pre-mRNA Splicing Factors Connected to Prp19"
+}

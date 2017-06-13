@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487030400000,"doi":"10.1186/s13040-017-0128-6","type":"correction"},"doi":"10.1186/s13040-017-0126-8","journal":"BioData Mining","publisher":"Springer Nature","title":"Erratum to: Meta-analytic support vector machine for integrating multiple omics data"}
+{
+  "retracted": false,
+  "timestamp": 1487030400000,
+  "updates": [
+    {
+      "timestamp": 1495720386398,
+      "identifier": {
+        "doi": "10.1186/s13040-017-0128-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13040-017-0126-8"
+  },
+  "journal": "BioData Mining",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Meta-analytic support vector machine for integrating multiple omics data"
+}

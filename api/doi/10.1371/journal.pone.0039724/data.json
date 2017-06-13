@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350604800000,"doi":"10.1371/annotation/93bcdc6c-e844-4d41-a9c1-40b1791d49cf","type":"correction"},"doi":"10.1371/journal.pone.0039724","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Budding Yeast Pch2, a Widely Conserved Meiotic Protein, Is Involved in the Initiation of Meiotic Recombination"}
+{
+  "retracted": false,
+  "timestamp": 1350604800000,
+  "updates": [
+    {
+      "timestamp": 1495963939288,
+      "identifier": {
+        "doi": "10.1371/annotation/93bcdc6c-e844-4d41-a9c1-40b1791d49cf"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0039724"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Budding Yeast Pch2, a Widely Conserved Meiotic Protein, Is Involved in the Initiation of Meiotic Recombination"
+}

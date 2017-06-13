@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.jeconom.2014.10.001","type":"err"},"doi":"10.1016/j.jeconom.2014.05.005","journal":"Journal of Econometrics","publisher":"Elsevier BV","title":"Erratum to “Pricing default events: Surprise, exogeneity and contagion” [J. Econometrics 182 (2) (2014) 397–411]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496018337884,
+      "identifier": {
+        "doi": "10.1016/j.jeconom.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jeconom.2014.05.005"
+  },
+  "journal": "Journal of Econometrics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Pricing default events: Surprise, exogeneity and contagion” [J. Econometrics 182 (2) (2014) 397–411]"
+}

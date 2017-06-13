@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1186/s12888-016-0723-y","type":"correction"},"doi":"10.1186/s12888-015-0632-5","journal":"BMC Psychiatry","publisher":"Springer Nature","title":"Erratum to: Homicide in Chile: Trends 2000 – 2012"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1495640618618,
+      "identifier": {
+        "doi": "10.1186/s12888-016-0723-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12888-015-0632-5"
+  },
+  "journal": "BMC Psychiatry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Homicide in Chile: Trends 2000 – 2012"
+}

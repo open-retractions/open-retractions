@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1016/j.celrep.2015.01.048","type":"err"},"doi":"10.1016/j.celrep.2014.12.035","journal":"Cell Reports","publisher":"Elsevier BV","title":"Cooperation between Noncanonical Ras Network Mutations"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496043302715,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.01.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.12.035"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Cooperation between Noncanonical Ras Network Mutations"
+}

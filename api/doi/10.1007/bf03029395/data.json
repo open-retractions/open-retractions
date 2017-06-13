@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":925516800000,"doi":"10.1007/bf03029457","type":"correction"},"doi":"10.1007/bf03029395","journal":"Journal of the Australian Population Association","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 925516800000,
+  "updates": [
+    {
+      "timestamp": 1496015057058,
+      "identifier": {
+        "doi": "10.1007/bf03029457"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03029395"
+  },
+  "journal": "Journal of the Australian Population Association",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

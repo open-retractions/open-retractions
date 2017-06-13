@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.cbpa.2016.05.024","type":"err"},"doi":"10.1016/j.cbpa.2013.05.026","journal":"Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology","publisher":"Elsevier BV","title":"Corrigendum to “Plasma leptin, glucose and non-esterified fatty acid variations in dromedary camels exposed to prolonged periods of underfeeding or dehydration” [Comp. Biochem. Physiol., A 166 (2013) 177–185]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495718042636,
+      "identifier": {
+        "doi": "10.1016/j.cbpa.2016.05.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpa.2013.05.026"
+  },
+  "journal": "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Plasma leptin, glucose and non-esterified fatty acid variations in dromedary camels exposed to prolonged periods of underfeeding or dehydration” [Comp. Biochem. Physiol., A 166 (2013) 177–185]"
+}

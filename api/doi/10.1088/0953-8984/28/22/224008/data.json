@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459900800000,"doi":"10.1088/0953-8984/28/18/189601","type":"correction"},"doi":"10.1088/0953-8984/28/22/224008","journal":"Journal of Physics: Condensed Matter","publisher":"IOP Publishing","title":"Erratum: Assessment of structural, optical and conduction properties of ZnO thin films in the presence of acceptor impurities (2016J. Phys.: Condens. Matter28 224008)"}
+{
+  "retracted": false,
+  "timestamp": 1459900800000,
+  "updates": [
+    {
+      "timestamp": 1495658880245,
+      "identifier": {
+        "doi": "10.1088/0953-8984/28/18/189601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0953-8984/28/22/224008"
+  },
+  "journal": "Journal of Physics: Condensed Matter",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Assessment of structural, optical and conduction properties of ZnO thin films in the presence of acceptor impurities (2016J. Phys.: Condens. Matter28 224008)"
+}

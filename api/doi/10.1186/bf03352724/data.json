@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423785600000,"doi":"10.5047/eps.2010.05.002","type":"correction"},"doi":"10.1186/bf03352724","journal":"Earth, Planets and Space","publisher":"Springer Nature","title":"Erratum to Thermal and hydrostatic structure of the protoplanetary nebula exposed to stellar radiation and stellar wind from the central star"}
+{
+  "retracted": false,
+  "timestamp": 1423785600000,
+  "updates": [
+    {
+      "timestamp": 1495874612428,
+      "identifier": {
+        "doi": "10.5047/eps.2010.05.002"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bf03352724"
+  },
+  "journal": "Earth, Planets and Space",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Thermal and hydrostatic structure of the protoplanetary nebula exposed to stellar radiation and stellar wind from the central star"
+}

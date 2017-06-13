@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.gene.2014.02.018","type":"err"},"doi":"10.1016/j.gene.2014.01.029","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of three Arabidopsis thaliana immunophilin genes involved in the plant defense response against Pseudomonas syringae” [Gene 538 (2014) 12–22]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496017396745,
+      "identifier": {
+        "doi": "10.1016/j.gene.2014.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2014.01.029"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of three Arabidopsis thaliana immunophilin genes involved in the plant defense response against Pseudomonas syringae” [Gene 538 (2014) 12–22]"
+}

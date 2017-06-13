@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447891200000,"doi":"10.3938/jkps.67.1708","type":"correction"},"doi":"10.3938/jkps.67.995","journal":"Journal of the Korean Physical Society","publisher":"Korean Physical Society","title":"Erratum: Effects of plasma-enhanced chemical vapor deposition (PECVD) on the carrier lifetime of Al2O3 passivation stack"}
+{
+  "retracted": false,
+  "timestamp": 1447891200000,
+  "updates": [
+    {
+      "timestamp": 1496046759977,
+      "identifier": {
+        "doi": "10.3938/jkps.67.1708"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3938/jkps.67.995"
+  },
+  "journal": "Journal of the Korean Physical Society",
+  "publisher": "Korean Physical Society",
+  "title": "Erratum: Effects of plasma-enhanced chemical vapor deposition (PECVD) on the carrier lifetime of Al2O3 passivation stack"
+}

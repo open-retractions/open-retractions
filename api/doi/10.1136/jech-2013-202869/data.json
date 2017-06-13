@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1136/jech-2013-202869corr1","type":"correction"},"doi":"10.1136/jech-2013-202869","journal":"Journal of Epidemiology & Community Health","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1491876665927,
+      "identifier": {
+        "doi": "10.1136/jech-2013-202869corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/jech-2013-202869"
+  },
+  "journal": "Journal of Epidemiology & Community Health",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

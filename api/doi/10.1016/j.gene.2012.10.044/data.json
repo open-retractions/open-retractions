@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468108800000,"doi":"10.1016/j.gene.2016.03.042","type":"err"},"doi":"10.1016/j.gene.2012.10.044","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “VDR TaqI is associated with obesity in the Greek population” [Gene 512/2 (2013) 237–239]"}
+{
+  "retracted": false,
+  "timestamp": 1468108800000,
+  "updates": [
+    {
+      "timestamp": 1495658832429,
+      "identifier": {
+        "doi": "10.1016/j.gene.2016.03.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2012.10.044"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “VDR TaqI is associated with obesity in the Greek population” [Gene 512/2 (2013) 237–239]"
+}

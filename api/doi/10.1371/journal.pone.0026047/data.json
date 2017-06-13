@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320192000000,"doi":"10.1371/annotation/468cfdcd-184c-42f7-a1d0-3b72a2f6a558","type":"correction"},"doi":"10.1371/journal.pone.0026047","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: FilmArray, an Automated Nested Multiplex PCR System for Multi-Pathogen Detection: Development and Application to Respiratory Tract Infection"}
+{
+  "retracted": false,
+  "timestamp": 1320192000000,
+  "updates": [
+    {
+      "timestamp": 1495825829358,
+      "identifier": {
+        "doi": "10.1371/annotation/468cfdcd-184c-42f7-a1d0-3b72a2f6a558"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0026047"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: FilmArray, an Automated Nested Multiplex PCR System for Multi-Pathogen Detection: Development and Application to Respiratory Tract Infection"
+}

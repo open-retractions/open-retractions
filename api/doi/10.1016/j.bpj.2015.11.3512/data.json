@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475539200000,"doi":"10.1016/j.bpj.2016.09.011","type":"err"},"doi":"10.1016/j.bpj.2015.11.3512","journal":"Biophysical Journal","publisher":"Elsevier BV","title":"Anisotropic Membrane Curvature Sensing by Amphipathic Peptides"}
+{
+  "retracted": false,
+  "timestamp": 1475539200000,
+  "updates": [
+    {
+      "timestamp": 1495645543055,
+      "identifier": {
+        "doi": "10.1016/j.bpj.2016.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpj.2015.11.3512"
+  },
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Anisotropic Membrane Curvature Sensing by Amphipathic Peptides"
+}

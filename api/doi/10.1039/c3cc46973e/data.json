@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1039/c4cc90361g","type":"correction"},"doi":"10.1039/c3cc46973e","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A novel small-molecule binds to the influenza A virus RNA promoter and inhibits viral replication"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496005910329,
+      "identifier": {
+        "doi": "10.1039/c4cc90361g"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c3cc46973e"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A novel small-molecule binds to the influenza A virus RNA promoter and inhibits viral replication"
+}

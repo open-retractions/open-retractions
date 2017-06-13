@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.ijgo.2016.03.001","type":"err"},"doi":"10.1016/j.ijgo.2015.06.017","journal":"International Journal of Gynecology & Obstetrics","publisher":"Wiley-Blackwell","title":"Corrigendum to “FIGO consensus guidelines on intrapartum fetal monitoring: Introduction” [Int J Gynecol Obstet 131(2015) 3-4]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495653489739,
+      "identifier": {
+        "doi": "10.1016/j.ijgo.2016.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijgo.2015.06.017"
+  },
+  "journal": "International Journal of Gynecology & Obstetrics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “FIGO consensus guidelines on intrapartum fetal monitoring: Introduction” [Int J Gynecol Obstet 131(2015) 3-4]"
+}

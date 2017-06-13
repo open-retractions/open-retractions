@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402099200000,"doi":"10.2478/s11532-014-0579-2","type":"correction"},"doi":"10.2478/s11532-014-0563-x","journal":"Central European Journal of Chemistry","publisher":"Walter de Gruyter GmbH","title":"Erratum to: “Occurrence of 2-phenylphenol in food paper packages”"}
+{
+  "retracted": false,
+  "timestamp": 1402099200000,
+  "updates": [
+    {
+      "timestamp": 1496044128387,
+      "identifier": {
+        "doi": "10.2478/s11532-014-0579-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2478/s11532-014-0563-x"
+  },
+  "journal": "Central European Journal of Chemistry",
+  "publisher": "Walter de Gruyter GmbH",
+  "title": "Erratum to: “Occurrence of 2-phenylphenol in food paper packages”"
+}

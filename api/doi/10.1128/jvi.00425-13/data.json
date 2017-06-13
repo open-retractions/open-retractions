@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1128/jvi.02643-13","type":"correction"},"doi":"10.1128/jvi.00425-13","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Virion Factors That Target Daxx To Overcome Intrinsic Immunity"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495994440309,
+      "identifier": {
+        "doi": "10.1128/jvi.02643-13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.00425-13"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Virion Factors That Target Daxx To Overcome Intrinsic Immunity"
+}

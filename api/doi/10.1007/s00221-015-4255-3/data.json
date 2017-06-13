@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437436800000,"doi":"10.1007/s00221-015-4354-1","type":"correction"},"doi":"10.1007/s00221-015-4255-3","journal":"Experimental Brain Research","publisher":"Springer Nature","title":"Erratum to: Excitability of the infraspinatus, but not the middle deltoid, is affected by shoulder elevation angle"}
+{
+  "retracted": false,
+  "timestamp": 1437436800000,
+  "updates": [
+    {
+      "timestamp": 1496016883323,
+      "identifier": {
+        "doi": "10.1007/s00221-015-4354-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00221-015-4255-3"
+  },
+  "journal": "Experimental Brain Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Excitability of the infraspinatus, but not the middle deltoid, is affected by shoulder elevation angle"
+}

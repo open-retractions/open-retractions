@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463443200000,"doi":"10.1073/pnas.1606072113","type":"correction"},"doi":"10.1073/pnas.1517466112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tanaka et al., Fourteen babies born after round spermatid injection into human oocytes"}
+{
+  "retracted": false,
+  "timestamp": 1463443200000,
+  "updates": [
+    {
+      "timestamp": 1495675196664,
+      "identifier": {
+        "doi": "10.1073/pnas.1606072113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1517466112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tanaka et al., Fourteen babies born after round spermatid injection into human oocytes"
+}

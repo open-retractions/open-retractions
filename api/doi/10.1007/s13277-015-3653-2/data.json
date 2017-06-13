@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440806400000,"doi":"10.1007/s13277-015-3953-6","type":"correction"},"doi":"10.1007/s13277-015-3653-2","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Exon 19 deletion of epidermal growth factor receptor is associated with prolonged survival in brain metastases from non-small-cell lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1440806400000,
+  "updates": [
+    {
+      "timestamp": 1496025881995,
+      "identifier": {
+        "doi": "10.1007/s13277-015-3953-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-3653-2"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exon 19 deletion of epidermal growth factor receptor is associated with prolonged survival in brain metastases from non-small-cell lung cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379980800000,"doi":"10.1371/annotation/5dd55ed1-2fb6-4672-9142-fb01331567e1","type":"correction"},"doi":"10.1371/journal.pone.0060746","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Detection and Sequencing of a Broad-Host-Range Conjugative IncP-1β Plasmid in an Epidemic Strain of Mycobacterium abscessus subsp. bolletii"}
+{
+  "retracted": false,
+  "timestamp": 1379980800000,
+  "updates": [
+    {
+      "timestamp": 1496052002622,
+      "identifier": {
+        "doi": "10.1371/annotation/5dd55ed1-2fb6-4672-9142-fb01331567e1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0060746"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Detection and Sequencing of a Broad-Host-Range Conjugative IncP-1β Plasmid in an Epidemic Strain of Mycobacterium abscessus subsp. bolletii"
+}

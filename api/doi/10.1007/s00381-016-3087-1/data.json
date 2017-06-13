@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463529600000,"doi":"10.1007/s00381-016-3121-3","type":"correction"},"doi":"10.1007/s00381-016-3087-1","journal":"Child's Nervous System","publisher":"Springer Nature","title":"Erratum to: Variants in TNIP1, a regulator of the NF-kB pathway, found in two patients with neural tube defects"}
+{
+  "retracted": false,
+  "timestamp": 1463529600000,
+  "updates": [
+    {
+      "timestamp": 1495677328017,
+      "identifier": {
+        "doi": "10.1007/s00381-016-3121-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00381-016-3087-1"
+  },
+  "journal": "Child's Nervous System",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Variants in TNIP1, a regulator of the NF-kB pathway, found in two patients with neural tube defects"
+}

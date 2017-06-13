@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1088/0268-1242/31/9/099501","type":"correction"},"doi":"10.1088/0268-1242/31/6/065015","journal":"Semiconductor Science and Technology","publisher":"IOP Publishing","title":"Corrigendum: Design considerations of biaxially tensile-strained germanium-on-silicon lasers (2016Semiconductor Science and Technology31065015)"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495735069737,
+      "identifier": {
+        "doi": "10.1088/0268-1242/31/9/099501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0268-1242/31/6/065015"
+  },
+  "journal": "Semiconductor Science and Technology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Design considerations of biaxially tensile-strained germanium-on-silicon lasers (2016Semiconductor Science and Technology31065015)"
+}

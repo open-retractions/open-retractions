@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1341100800000,"update":{"timestamp":null,"doi":null,"pmid":26550647,"type":"retraction"},"doi":"10.1016/j.ygyno.2012.03.051","journal":"Gynecologic oncology","publisher":null,"title":"High-mobility group protein B1 (HMGB1) is a novel biomarker for human ovarian cancer."}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496026108261,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2015.07.111"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2012.03.051"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “High-mobility group protein B1 (HMGB1) is a novel biomarker for human ovarian cancer” [Gynecol. Oncol. 126 (2012) 109–117]"
+}

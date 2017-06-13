@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.3847/2041-8213/aa633c","type":"correction"},"doi":"10.3847/2041-8213/836/1/l10","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “On the Existence of the Kolmogorov Inertial Range in the Terrestrial Magnetosheath Turbulence” (2017, ApJL, 836, L10)"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495729363845,
+      "identifier": {
+        "doi": "10.3847/2041-8213/aa633c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/2041-8213/836/1/l10"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “On the Existence of the Kolmogorov Inertial Range in the Terrestrial Magnetosheath Turbulence” (2017, ApJL, 836, L10)"
+}

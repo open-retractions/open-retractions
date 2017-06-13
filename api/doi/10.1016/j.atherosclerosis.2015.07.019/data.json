@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.atherosclerosis.2015.08.041","type":"err"},"doi":"10.1016/j.atherosclerosis.2015.07.019","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Increased cholesterol efflux capacity in metabolic syndrome: Relation with qualitative alterations in HDL and LCAT” [Atherosclerosis 224 (2015) 236–242]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496028892350,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2015.08.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2015.07.019"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Increased cholesterol efflux capacity in metabolic syndrome: Relation with qualitative alterations in HDL and LCAT” [Atherosclerosis 224 (2015) 236–242]"
+}

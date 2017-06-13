@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382313600000,"doi":"10.1016/j.cub.2013.10.010","type":"err"},"doi":"10.1016/j.cub.2011.03.044","journal":"Current Biology","publisher":"Elsevier BV","title":"Monkeys Recall and Reproduce Simple Shapes from Memory"}
+{
+  "retracted": false,
+  "timestamp": 1382313600000,
+  "updates": [
+    {
+      "timestamp": 1496055436676,
+      "identifier": {
+        "doi": "10.1016/j.cub.2013.10.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2011.03.044"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Monkeys Recall and Reproduce Simple Shapes from Memory"
+}

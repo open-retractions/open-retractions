@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413590400000,"doi":"10.1016/j.ces.2014.08.012","type":"err"},"doi":"10.1016/j.ces.2014.02.017","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to “Experimental study of particle separation and the Fishhook effect in a mini-hydrocyclone” [Chem. Eng. Sci. 111 (2014) 94–105]"}
+{
+  "retracted": false,
+  "timestamp": 1413590400000,
+  "updates": [
+    {
+      "timestamp": 1496004084793,
+      "identifier": {
+        "doi": "10.1016/j.ces.2014.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2014.02.017"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Experimental study of particle separation and the Fishhook effect in a mini-hydrocyclone” [Chem. Eng. Sci. 111 (2014) 94–105]"
+}

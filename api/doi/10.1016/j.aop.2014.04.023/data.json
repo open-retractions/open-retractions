@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.aop.2016.12.027","type":"erratum"},"doi":"10.1016/j.aop.2014.04.023","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Corrigendum to “Solving a two-electron quantum dot model in terms of polynomial solutions of a Biconfluent Heun Equation” [Ann. Phys. 347 (2014) 130–140]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495669178310,
+      "identifier": {
+        "doi": "10.1016/j.aop.2016.12.027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2014.04.023"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Solving a two-electron quantum dot model in terms of polynomial solutions of a Biconfluent Heun Equation” [Ann. Phys. 347 (2014) 130–140]"
+}

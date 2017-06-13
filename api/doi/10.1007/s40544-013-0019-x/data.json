@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418342400000,"doi":"10.1007/s40544-014-0066-y","type":"correction"},"doi":"10.1007/s40544-013-0019-x","journal":"Friction","publisher":"Springer Nature","title":"Erratum to: Lithium-based ionic liquids as novel lubricant additives for multiply alkylated cyclopentanes (MACs)"}
+{
+  "retracted": false,
+  "timestamp": 1418342400000,
+  "updates": [
+    {
+      "timestamp": 1496028119443,
+      "identifier": {
+        "doi": "10.1007/s40544-014-0066-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40544-013-0019-x"
+  },
+  "journal": "Friction",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lithium-based ionic liquids as novel lubricant additives for multiply alkylated cyclopentanes (MACs)"
+}

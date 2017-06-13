@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399939200000,"doi":"10.1007/s10600-014-0968-y","type":"correction"},"doi":"10.1007/s10600-014-0890-3","journal":"Chemistry of Natural Compounds","publisher":"Springer Nature","title":"Erratum: To the article Chemical compounds from the bark of Cratoxylum formosum ssp. pruniflorum"}
+{
+  "retracted": false,
+  "timestamp": 1399939200000,
+  "updates": [
+    {
+      "timestamp": 1496037966623,
+      "identifier": {
+        "doi": "10.1007/s10600-014-0968-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10600-014-0890-3"
+  },
+  "journal": "Chemistry of Natural Compounds",
+  "publisher": "Springer Nature",
+  "title": "Erratum: To the article Chemical compounds from the bark of Cratoxylum formosum ssp. pruniflorum"
+}

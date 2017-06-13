@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.aej.2014.07.001","type":"err"},"doi":"10.1016/j.aej.2013.07.001","journal":"Alexandria Engineering Journal","publisher":"Elsevier BV","title":"Corrigendum to “A new type of shooting method for nonlinear boundary value problems” [Alexandria Eng. J. 52 (4) (2013) 801–805]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496052741140,
+      "identifier": {
+        "doi": "10.1016/j.aej.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aej.2013.07.001"
+  },
+  "journal": "Alexandria Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new type of shooting method for nonlinear boundary value problems” [Alexandria Eng. J. 52 (4) (2013) 801–805]"
+}

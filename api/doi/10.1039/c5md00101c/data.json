@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1039/c5md90041g","type":"correction"},"doi":"10.1039/c5md00101c","journal":"Med. Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Synthesis and antibacterial activity evaluation of C-5 side chain modified analogues of FYL-66, a potential agent against methicillin-resistant Staphylococcus aureus"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496024566904,
+      "identifier": {
+        "doi": "10.1039/c5md90041g"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5md00101c"
+  },
+  "journal": "Med. Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Synthesis and antibacterial activity evaluation of C-5 side chain modified analogues of FYL-66, a potential agent against methicillin-resistant Staphylococcus aureus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429660800000,"doi":"10.1080/01652176.2015.1040689","type":"correction"},"doi":"10.1080/01652176.2015.1028657","journal":"Veterinary Quarterly","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1429660800000,
+  "updates": [
+    {
+      "timestamp": 1496059678930,
+      "identifier": {
+        "doi": "10.1080/01652176.2015.1040689"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01652176.2015.1028657"
+  },
+  "journal": "Veterinary Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

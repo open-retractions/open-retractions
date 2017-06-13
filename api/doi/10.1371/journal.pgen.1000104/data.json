@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1224460800000,"doi":"10.1371/annotation/f7fc9c28-14ae-480d-a69e-ee9cc4fba9a7","type":"correction"},"doi":"10.1371/journal.pgen.1000104","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Noncanonical DNA Motifs as Transactivation Targets by Wild Type and Mutant p53"}
+{
+  "retracted": false,
+  "timestamp": 1224460800000,
+  "updates": [
+    {
+      "timestamp": 1496021273135,
+      "identifier": {
+        "doi": "10.1371/annotation/f7fc9c28-14ae-480d-a69e-ee9cc4fba9a7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000104"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Noncanonical DNA Motifs as Transactivation Targets by Wild Type and Mutant p53"
+}

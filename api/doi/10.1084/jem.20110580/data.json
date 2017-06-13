@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1307318400000,"doi":"10.1084/jem.201105802011512c","type":"correction"},"doi":"10.1084/jem.20110580","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Gain-of-function mutations ininterleukin-7 receptor-α (IL7R) in childhood acute lymphoblastic leukemias"}
+{
+  "retracted": false,
+  "timestamp": 1307318400000,
+  "updates": [
+    {
+      "timestamp": 1495930215190,
+      "identifier": {
+        "doi": "10.1084/jem.201105802011512c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20110580"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Gain-of-function mutations ininterleukin-7 receptor-α (IL7R) in childhood acute lymphoblastic leukemias"
+}

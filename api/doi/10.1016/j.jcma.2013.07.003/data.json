@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.jcma.2013.11.002","type":"err"},"doi":"10.1016/j.jcma.2013.07.003","journal":"Journal of the Chinese Medical Association","publisher":"Elsevier BV","title":"Corrigendum to “Risk Factors of Suicidal Ideation and Attempt in Women with Drug User Spouse” [JCMA 76 (2013) 648–652]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495999938051,
+      "identifier": {
+        "doi": "10.1016/j.jcma.2013.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcma.2013.07.003"
+  },
+  "journal": "Journal of the Chinese Medical Association",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Risk Factors of Suicidal Ideation and Attempt in Women with Drug User Spouse” [JCMA 76 (2013) 648–652]"
+}

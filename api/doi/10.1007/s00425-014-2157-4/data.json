@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1007/s00425-014-2188-x","type":"correction"},"doi":"10.1007/s00425-014-2157-4","journal":"Planta","publisher":"Springer Nature","title":"Erratum to: A putative role for γ-aminobutyric acid (GABA) in vascular development in pine seedlings"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496014167483,
+      "identifier": {
+        "doi": "10.1007/s00425-014-2188-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00425-014-2157-4"
+  },
+  "journal": "Planta",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A putative role for γ-aminobutyric acid (GABA) in vascular development in pine seedlings"
+}

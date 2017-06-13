@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.pan.2016.03.011","type":"err"},"doi":"10.1016/j.pan.2015.03.009","journal":"Pancreatology","publisher":"Elsevier BV","title":"Corrigendum to “Antioxidants as a treatment for acute pancreatitis: A meta-analysis” [Pancreatology (2015) 203–208]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495663618229,
+      "identifier": {
+        "doi": "10.1016/j.pan.2016.03.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pan.2015.03.009"
+  },
+  "journal": "Pancreatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Antioxidants as a treatment for acute pancreatitis: A meta-analysis” [Pancreatology (2015) 203–208]"
+}

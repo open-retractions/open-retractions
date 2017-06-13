@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452643200000,"doi":"10.3109/13697137.2016.1139299","type":"correction"},"doi":"10.3109/13697137.2015.1107039","journal":"Climacteric","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1452643200000,
+  "updates": [
+    {
+      "timestamp": 1496059875306,
+      "identifier": {
+        "doi": "10.3109/13697137.2016.1139299"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/13697137.2015.1107039"
+  },
+  "journal": "Climacteric",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

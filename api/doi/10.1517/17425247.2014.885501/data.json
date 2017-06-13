@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416355200000,"doi":"10.1517/17425247.2014.986032","type":"correction"},"doi":"10.1517/17425247.2014.885501","journal":"Expert Opinion on Drug Delivery","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1416355200000,
+  "updates": [
+    {
+      "timestamp": 1496023335342,
+      "identifier": {
+        "doi": "10.1517/17425247.2014.986032"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/17425247.2014.885501"
+  },
+  "journal": "Expert Opinion on Drug Delivery",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

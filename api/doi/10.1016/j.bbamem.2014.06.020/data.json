@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.bbamem.2014.10.034","type":"err"},"doi":"10.1016/j.bbamem.2014.06.020","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"Corrigendum to “The dynamics of giant unilamellar vesicle oxidation probed by morphological transitions” [Biochim. Biophys. Acta 1838 (2014) 2615–2624]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496018356412,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2014.10.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2014.06.020"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The dynamics of giant unilamellar vesicle oxidation probed by morphological transitions” [Biochim. Biophys. Acta 1838 (2014) 2615–2624]"
+}

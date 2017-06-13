@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1448928000000,"update":{"timestamp":null,"doi":null,"pmid":27719824,"type":"retraction"},"doi":"10.1378/chest.15-0990","journal":"Chest","publisher":null,"title":"Mechanical Ventilation as a Therapeutic Tool to Reduce ARDS Incidence."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495646561841,
+      "identifier": {
+        "doi": "10.1016/j.chest.2016.08.1429"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1378/chest.15-0990"
+  },
+  "journal": "Chest",
+  "publisher": "Elsevier BV",
+  "title": "Notice of Retraction: Mechanical Ventilation as a Therapeutic Tool to Reduce ARDS Incidence. (Chest. 2015;148(6):1396-1404)"
+}

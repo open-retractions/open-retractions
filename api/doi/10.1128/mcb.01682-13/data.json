@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1128/mcb.00671-16","type":"correction"},"doi":"10.1128/mcb.01682-13","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Erratum for Zaret, At the Revolution with Fred Sherman"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495720590276,
+      "identifier": {
+        "doi": "10.1128/mcb.00671-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.01682-13"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Zaret, At the Revolution with Fred Sherman"
+}

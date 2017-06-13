@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371772800000,"doi":"10.1371/annotation/49d4d96b-fafa-43cc-8c98-6146816656ed","type":"correction"},"doi":"10.1371/journal.pone.0058333","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Structural Insights into Putative Molybdenum Cofactor Biosynthesis Protein C (MoaC2) from Mycobacterium tuberculosis H37Rv"}
+{
+  "retracted": false,
+  "timestamp": 1371772800000,
+  "updates": [
+    {
+      "timestamp": 1496038587837,
+      "identifier": {
+        "doi": "10.1371/annotation/49d4d96b-fafa-43cc-8c98-6146816656ed"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0058333"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Structural Insights into Putative Molybdenum Cofactor Biosynthesis Protein C (MoaC2) from Mycobacterium tuberculosis H37Rv"
+}

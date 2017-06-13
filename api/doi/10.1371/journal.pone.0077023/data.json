@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384300800000,"doi":"10.1371/annotation/67f555f5-35b7-4468-8bab-26d518942803","type":"correction"},"doi":"10.1371/journal.pone.0077023","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Iron Accumulates in Huntington’s Disease Neurons: Protection by Deferoxamine"}
+{
+  "retracted": false,
+  "timestamp": 1384300800000,
+  "updates": [
+    {
+      "timestamp": 1495997148359,
+      "identifier": {
+        "doi": "10.1371/annotation/67f555f5-35b7-4468-8bab-26d518942803"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0077023"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Iron Accumulates in Huntington’s Disease Neurons: Protection by Deferoxamine"
+}

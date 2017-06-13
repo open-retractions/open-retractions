@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362009600000,"doi":"10.1016/j.cell.2013.01.048","type":"err"},"doi":"10.1016/j.cell.2012.11.051","journal":"Cell","publisher":"Elsevier BV","title":"An Endogenous Accelerator for Viral Gene Expression Confers a Fitness Advantage"}
+{
+  "retracted": false,
+  "timestamp": 1362009600000,
+  "updates": [
+    {
+      "timestamp": 1496002105261,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.01.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.11.051"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "An Endogenous Accelerator for Viral Gene Expression Confers a Fitness Advantage"
+}

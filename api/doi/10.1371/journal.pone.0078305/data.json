@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384819200000,"doi":"10.1371/annotation/66ee2369-2bcb-4af0-be75-7212c5463241","type":"correction"},"doi":"10.1371/journal.pone.0078305","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Three-Dimensional Phase-Sensitive Inversion-Recovery Turbo FLASH Sequence for the Assessment of Left Ventricular Myocardial Scar in Swine"}
+{
+  "retracted": false,
+  "timestamp": 1384819200000,
+  "updates": [
+    {
+      "timestamp": 1495999516824,
+      "identifier": {
+        "doi": "10.1371/annotation/66ee2369-2bcb-4af0-be75-7212c5463241"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0078305"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Three-Dimensional Phase-Sensitive Inversion-Recovery Turbo FLASH Sequence for the Assessment of Left Ventricular Myocardial Scar in Swine"
+}

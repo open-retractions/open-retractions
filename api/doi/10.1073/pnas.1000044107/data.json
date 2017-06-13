@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1281398400000,"doi":"10.1073/pnas.1011158107","type":"correction"},"doi":"10.1073/pnas.1000044107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Fujita et al., Bone marrow transplantation restores epidermal basement membrane protein expression and rescues epidermolysis bullosa model mice"}
+{
+  "retracted": false,
+  "timestamp": 1281398400000,
+  "updates": [
+    {
+      "timestamp": 1495854899053,
+      "identifier": {
+        "doi": "10.1073/pnas.1011158107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1000044107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Fujita et al., Bone marrow transplantation restores epidermal basement membrane protein expression and rescues epidermolysis bullosa model mice"
+}

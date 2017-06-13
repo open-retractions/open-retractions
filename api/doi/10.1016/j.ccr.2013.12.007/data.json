@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468195200000,"doi":"10.1016/j.ccell.2016.06.013","type":"err"},"doi":"10.1016/j.ccr.2013.12.007","journal":"Cancer Cell","publisher":"Elsevier BV","title":"CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis"}
+{
+  "retracted": false,
+  "timestamp": 1468195200000,
+  "updates": [
+    {
+      "timestamp": 1495726437743,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2016.06.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2013.12.007"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis"
+}

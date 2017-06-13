@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1080/13682199.2017.1298217","type":"correction"},"doi":"10.1080/13682199.2016.1231990","journal":"The Imaging Science Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495728083458,
+      "identifier": {
+        "doi": "10.1080/13682199.2017.1298217"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13682199.2016.1231990"
+  },
+  "journal": "The Imaging Science Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

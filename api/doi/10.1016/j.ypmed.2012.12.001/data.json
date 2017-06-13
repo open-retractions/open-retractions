@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.ypmed.2013.10.014","type":"err"},"doi":"10.1016/j.ypmed.2012.12.001","journal":"Preventive Medicine","publisher":"Elsevier BV","title":"Erratum for “Delays in time to primary treatment after a diagnosis of breast cancer: Does it impact survival?” [Prev. Med. 56 (2013) 222–224]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1495993750587,
+      "identifier": {
+        "doi": "10.1016/j.ypmed.2013.10.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ypmed.2012.12.001"
+  },
+  "journal": "Preventive Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for “Delays in time to primary treatment after a diagnosis of breast cancer: Does it impact survival?” [Prev. Med. 56 (2013) 222–224]"
+}

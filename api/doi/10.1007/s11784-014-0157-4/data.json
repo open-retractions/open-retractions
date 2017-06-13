@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402099200000,"doi":"10.1007/s11784-014-0171-6","type":"correction"},"doi":"10.1007/s11784-014-0157-4","journal":"Journal of Fixed Point Theory and Applications","publisher":"Springer Nature","title":"Erratum to: The approximation to a fixed point"}
+{
+  "retracted": false,
+  "timestamp": 1402099200000,
+  "updates": [
+    {
+      "timestamp": 1496044174969,
+      "identifier": {
+        "doi": "10.1007/s11784-014-0171-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11784-014-0157-4"
+  },
+  "journal": "Journal of Fixed Point Theory and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The approximation to a fixed point"
+}

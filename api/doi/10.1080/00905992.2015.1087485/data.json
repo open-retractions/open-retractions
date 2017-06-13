@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1080/00905992.2016.1158431","type":"correction"},"doi":"10.1080/00905992.2015.1087485","journal":"Nationalities Papers","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495653051779,
+      "identifier": {
+        "doi": "10.1080/00905992.2016.1158431"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00905992.2015.1087485"
+  },
+  "journal": "Nationalities Papers",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

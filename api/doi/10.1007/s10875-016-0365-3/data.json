@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485475200000,"doi":"10.1007/s10875-017-0368-8","type":"correction"},"doi":"10.1007/s10875-016-0365-3","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: Increased Mucosal IL-22 Production of an IL-10RA Mutation Patient Following Anakinra Treatment Suggests Further Mechanism for Mucosal Healing"}
+{
+  "retracted": false,
+  "timestamp": 1485475200000,
+  "updates": [
+    {
+      "timestamp": 1495679221093,
+      "identifier": {
+        "doi": "10.1007/s10875-017-0368-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-016-0365-3"
+  },
+  "journal": "Journal of Clinical Immunology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Increased Mucosal IL-22 Production of an IL-10RA Mutation Patient Following Anakinra Treatment Suggests Further Mechanism for Mucosal Healing"
+}

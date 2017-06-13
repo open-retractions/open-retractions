@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364860800000,"doi":"10.1073/pnas.1305878110","type":"correction"},"doi":"10.1073/pnas.1302641110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kakoki et al., Primary aldosteronism and impaired natriuresis in mice underexpressing TGF"}
+{
+  "retracted": false,
+  "timestamp": 1364860800000,
+  "updates": [
+    {
+      "timestamp": 1496011219929,
+      "identifier": {
+        "doi": "10.1073/pnas.1305878110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1302641110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kakoki et al., Primary aldosteronism and impaired natriuresis in mice underexpressing TGF"
+}

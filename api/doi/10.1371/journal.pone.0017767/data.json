@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300924800000,"doi":"10.1371/annotation/3355db50-d82f-4676-9c00-ab6c30ef7ee3","type":"correction"},"doi":"10.1371/journal.pone.0017767","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Phytophthora infestans Has a Plethora of Phospholipase D Enzymes Including a Subclass That Has Extracellular Activity"}
+{
+  "retracted": false,
+  "timestamp": 1300924800000,
+  "updates": [
+    {
+      "timestamp": 1495926493910,
+      "identifier": {
+        "doi": "10.1371/annotation/3355db50-d82f-4676-9c00-ab6c30ef7ee3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017767"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Phytophthora infestans Has a Plethora of Phospholipase D Enzymes Including a Subclass That Has Extracellular Activity"
+}

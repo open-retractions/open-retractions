@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1080/13647830.2016.1157299","type":"correction"},"doi":"10.1080/13647830.2016.1139749","journal":"Combustion Theory and Modelling","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647419853,
+      "identifier": {
+        "doi": "10.1080/13647830.2016.1157299"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13647830.2016.1139749"
+  },
+  "journal": "Combustion Theory and Modelling",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

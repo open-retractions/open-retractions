@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jhydrol.2015.05.007","type":"err"},"doi":"10.1016/j.jhydrol.2014.09.082","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “SWAT hydrologic model parameter uncertainty and its implications for hydroclimatic projections in snowmelt-dependent watersheds” [J. Hydrol. 519 (2014) 2081–2090]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496000571162,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2015.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2014.09.082"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “SWAT hydrologic model parameter uncertainty and its implications for hydroclimatic projections in snowmelt-dependent watersheds” [J. Hydrol. 519 (2014) 2081–2090]"
+}

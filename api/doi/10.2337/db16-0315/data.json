@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.2337/db17-er04a","type":"correction"},"doi":"10.2337/db16-0315","journal":"Diabetes","publisher":"American Diabetes Association","title":"Erratum. Metabolomic Profile of Low–Copy Number Carriers at the Salivary α-Amylase Gene Suggests a Metabolic Shift Toward Lipid-Based Energy Production. Diabetes 2016;65:3362–3368"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495720262646,
+      "identifier": {
+        "doi": "10.2337/db17-er04a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db16-0315"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Erratum. Metabolomic Profile of Low–Copy Number Carriers at the Salivary α-Amylase Gene Suggests a Metabolic Shift Toward Lipid-Based Energy Production. Diabetes 2016;65:3362–3368"
+}

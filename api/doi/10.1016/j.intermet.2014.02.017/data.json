@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.intermet.2015.12.007","type":"erratum"},"doi":"10.1016/j.intermet.2014.02.017","journal":"Intermetallics","publisher":"Elsevier BV","title":"Corrigendum to “Structural, electronic, elastic, mechanical and thermal behavior of RESn3 (RE = Y, La and Ce) compounds: A first principles study” [Intermetallics 51 (2014) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1496056102890,
+      "identifier": {
+        "doi": "10.1016/j.intermet.2015.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intermet.2014.02.017"
+  },
+  "journal": "Intermetallics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structural, electronic, elastic, mechanical and thermal behavior of RESn3 (RE = Y, La and Ce) compounds: A first principles study” [Intermetallics 51 (2014) 1–10]"
+}

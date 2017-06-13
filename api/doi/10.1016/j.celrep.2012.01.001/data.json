@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364428800000,"doi":"10.1016/j.celrep.2013.03.022","type":"err"},"doi":"10.1016/j.celrep.2012.01.001","journal":"Cell Reports","publisher":"Elsevier BV","title":"Global Patterns of Tissue-Specific Alternative Polyadenylation in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1364428800000,
+  "updates": [
+    {
+      "timestamp": 1496011870231,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.03.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2012.01.001"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Global Patterns of Tissue-Specific Alternative Polyadenylation in Drosophila"
+}

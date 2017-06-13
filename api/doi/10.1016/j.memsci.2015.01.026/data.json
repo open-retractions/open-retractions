@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.memsci.2015.03.046","type":"err"},"doi":"10.1016/j.memsci.2015.01.026","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to: Stimuli responsive and low fouling ultrafiltration membranes from blends of polyvinylidene fluoride and designed library of amphiphilic poly(methyl methacrylate) containing copolymers [J. Membr. Sci. 481 (2015) 137–147]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496059063261,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2015.03.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2015.01.026"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Stimuli responsive and low fouling ultrafiltration membranes from blends of polyvinylidene fluoride and designed library of amphiphilic poly(methyl methacrylate) containing copolymers [J. Membr. Sci. 481 (2015) 137–147]"
+}

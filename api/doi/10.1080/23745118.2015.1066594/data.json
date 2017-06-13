@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454025600000,"doi":"10.1080/23745118.2016.1139393","type":"correction"},"doi":"10.1080/23745118.2015.1066594","journal":"European Politics and Society","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1454025600000,
+  "updates": [
+    {
+      "timestamp": 1495641123041,
+      "identifier": {
+        "doi": "10.1080/23745118.2016.1139393"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23745118.2015.1066594"
+  },
+  "journal": "European Politics and Society",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

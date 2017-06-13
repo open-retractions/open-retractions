@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471478400000,"doi":"10.1016/j.jsv.2016.05.007","type":"erratum"},"doi":"10.1016/j.jsv.2014.05.048","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Erratum to “Characterization of parallel misalignment in rotating machines by means of the modulated signal of incremental encoders” [J. Sound Vib. 333/21 (2014) 5229–5243]"}
+{
+  "retracted": false,
+  "timestamp": 1471478400000,
+  "updates": [
+    {
+      "timestamp": 1495675836691,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2016.05.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2014.05.048"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Characterization of parallel misalignment in rotating machines by means of the modulated signal of incremental encoders” [J. Sound Vib. 333/21 (2014) 5229–5243]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470268800000,"doi":"10.1063/1.4960578","type":"correction"},"doi":"10.1063/1.4948661","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: “Stretch and hold: The dynamics of a filament governed by a viscoelastic constitutive model with thixotropic yield stress behavior” [Phys. Fluids 28(5) 053104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1470268800000,
+  "updates": [
+    {
+      "timestamp": 1495734985095,
+      "identifier": {
+        "doi": "10.1063/1.4960578"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4948661"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Stretch and hold: The dynamics of a filament governed by a viscoelastic constitutive model with thixotropic yield stress behavior” [Phys. Fluids 28(5) 053104 (2016)]"
+}

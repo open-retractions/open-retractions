@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487635200000,"doi":"10.1080/00325899.2017.1296063","type":"correction"},"doi":"10.1080/00325899.2016.1269431","journal":"Powder Metallurgy","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1487635200000,
+  "updates": [
+    {
+      "timestamp": 1495721769390,
+      "identifier": {
+        "doi": "10.1080/00325899.2017.1296063"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00325899.2016.1269431"
+  },
+  "journal": "Powder Metallurgy",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396569600000,"doi":"10.1186/1471-2407-14-216","type":"correction"},"doi":"10.1186/1471-2407-13-167","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum To: UCN-01 induces S and G2/M cell cycle arrest through the p53/p21waf1 or CHK2/CDC25C pathways and can suppress invasion in human hepatoma cell lines"}
+{
+  "retracted": false,
+  "timestamp": 1396569600000,
+  "updates": [
+    {
+      "timestamp": 1496031312805,
+      "identifier": {
+        "doi": "10.1186/1471-2407-14-216"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2407-13-167"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum To: UCN-01 induces S and G2/M cell cycle arrest through the p53/p21waf1 or CHK2/CDC25C pathways and can suppress invasion in human hepatoma cell lines"
+}

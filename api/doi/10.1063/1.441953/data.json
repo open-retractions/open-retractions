@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":390268800000,"doi":"10.1063/1.443583","type":"erratum"},"doi":"10.1063/1.441953","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Polarization density profiles for dipoles against an electrified wall in the MS and RLHNC approximations [J. Chem. Phys. 75, 5497 (1981)]"}
+{
+  "retracted": false,
+  "timestamp": 390268800000,
+  "updates": [
+    {
+      "timestamp": 1496021894407,
+      "identifier": {
+        "doi": "10.1063/1.443583"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.441953"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Polarization density profiles for dipoles against an electrified wall in the MS and RLHNC approximations [J. Chem. Phys. 75, 5497 (1981)]"
+}

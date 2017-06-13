@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.future.2014.08.001","type":"err"},"doi":"10.1016/j.future.2013.12.028","journal":"Future Generation Computer Systems","publisher":"Elsevier BV","title":"Corrigendum to “The business intelligence as a service in the cloud” [Future Gener. Comput. Syst. 37C (2014) 512–534]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496003601567,
+      "identifier": {
+        "doi": "10.1016/j.future.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.future.2013.12.028"
+  },
+  "journal": "Future Generation Computer Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The business intelligence as a service in the cloud” [Future Gener. Comput. Syst. 37C (2014) 512–534]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447113600000,"doi":"10.1080/02331888.2015.1112993","type":"correction"},"doi":"10.1080/02331888.2015.1083020","journal":"Statistics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1447113600000,
+  "updates": [
+    {
+      "timestamp": 1496044900930,
+      "identifier": {
+        "doi": "10.1080/02331888.2015.1112993"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02331888.2015.1083020"
+  },
+  "journal": "Statistics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

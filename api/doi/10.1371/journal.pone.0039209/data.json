@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383004800000,"doi":"10.1371/annotation/cf556c9c-8c18-4d54-b34f-7a2e0c9339e3","type":"correction"},"doi":"10.1371/journal.pone.0039209","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Targeting Sphingosine Kinase 1 in Carcinoma Cells Decreases Proliferation and Survival by Compromising PKC Activity and Cytokinesis"}
+{
+  "retracted": false,
+  "timestamp": 1383004800000,
+  "updates": [
+    {
+      "timestamp": 1495993835225,
+      "identifier": {
+        "doi": "10.1371/annotation/cf556c9c-8c18-4d54-b34f-7a2e0c9339e3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0039209"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Targeting Sphingosine Kinase 1 in Carcinoma Cells Decreases Proliferation and Survival by Compromising PKC Activity and Cytokinesis"
+}

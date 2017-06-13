@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372377600000,"doi":"10.1007/s00125-013-2980-3","type":"correction"},"doi":"10.1007/s00125-011-2104-x","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Intensive glucose control and risk of cancer in patients with type 2 diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1372377600000,
+  "updates": [
+    {
+      "timestamp": 1496029249364,
+      "identifier": {
+        "doi": "10.1007/s00125-013-2980-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-011-2104-x"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intensive glucose control and risk of cancer in patients with type 2 diabetes"
+}

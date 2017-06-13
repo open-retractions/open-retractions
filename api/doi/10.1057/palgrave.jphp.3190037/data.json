@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1114387200000,"doi":"10.1057/palgrave.jphp.3200016","type":"correction"},"doi":"10.1057/palgrave.jphp.3190037","journal":"Journal of Public Health Policy","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1114387200000,
+  "updates": [
+    {
+      "timestamp": 1495891272318,
+      "identifier": {
+        "doi": "10.1057/palgrave.jphp.3200016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/palgrave.jphp.3190037"
+  },
+  "journal": "Journal of Public Health Policy",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

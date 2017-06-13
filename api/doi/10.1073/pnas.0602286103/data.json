@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1150156800000,"doi":"10.1073/pnas.0603506103","type":"correction"},"doi":"10.1073/pnas.0602286103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Guo et al., Long-range multilocus haplotype phasing of the MHC"}
+{
+  "retracted": false,
+  "timestamp": 1150156800000,
+  "updates": [
+    {
+      "timestamp": 1495825634073,
+      "identifier": {
+        "doi": "10.1073/pnas.0603506103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0602286103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Guo et al., Long-range multilocus haplotype phasing of the MHC"
+}

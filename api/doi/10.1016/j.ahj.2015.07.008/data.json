@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ahj.2015.12.011","type":"err"},"doi":"10.1016/j.ahj.2015.07.008","journal":"American Heart Journal","publisher":"Elsevier BV","title":"Corrigendum to “Heart failure in low- and middle-income countries: Background, rationale, and design of the INTERnational Congestive Heart Failure Study (INTER-CHF)” (Am Heart J. 2015;170[4]:627-634)"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496060307703,
+      "identifier": {
+        "doi": "10.1016/j.ahj.2015.12.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ahj.2015.07.008"
+  },
+  "journal": "American Heart Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Heart failure in low- and middle-income countries: Background, rationale, and design of the INTERnational Congestive Heart Failure Study (INTER-CHF)” (Am Heart J. 2015;170[4]:627-634)"
+}

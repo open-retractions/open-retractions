@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1317945600000,"doi":"10.1098/rsif.2011.0811","type":"correction"},"doi":"10.1098/rsif.2010.0702","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"A highly distributed Bragg stack with unique geometry provides effective camouflage for Loliginid squid eyes"}
+{
+  "retracted": false,
+  "timestamp": 1317945600000,
+  "updates": [
+    {
+      "timestamp": 1495849660302,
+      "identifier": {
+        "doi": "10.1098/rsif.2011.0811"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2010.0702"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "A highly distributed Bragg stack with unique geometry provides effective camouflage for Loliginid squid eyes"
+}

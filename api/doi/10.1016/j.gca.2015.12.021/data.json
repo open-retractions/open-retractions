@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.gca.2016.04.051","type":"err"},"doi":"10.1016/j.gca.2015.12.021","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Recycling of crustal material by the Iceland mantle plume: New evidence from nitrogen elemental and isotope systematics of subglacial basalts” [Geochim. Cosmochim. Acta 176 (2016) 206–226]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495680524707,
+      "identifier": {
+        "doi": "10.1016/j.gca.2016.04.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2015.12.021"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Recycling of crustal material by the Iceland mantle plume: New evidence from nitrogen elemental and isotope systematics of subglacial basalts” [Geochim. Cosmochim. Acta 176 (2016) 206–226]"
+}

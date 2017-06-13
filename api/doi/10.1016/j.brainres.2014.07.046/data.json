@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.brainres.2016.05.053","type":"err"},"doi":"10.1016/j.brainres.2014.07.046","journal":"Brain Research","publisher":"Elsevier BV","title":"Corrigendum to: “Propofol inhibits inflammatory cytokine-mediated glutamate uptake dysfunction to alleviate learning/memory impairment in depressed rats undergoing electroconvulsive shock” [Brain Res. 1595 (2015) 101–109]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495716973161,
+      "identifier": {
+        "doi": "10.1016/j.brainres.2016.05.053"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainres.2014.07.046"
+  },
+  "journal": "Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Propofol inhibits inflammatory cytokine-mediated glutamate uptake dysfunction to alleviate learning/memory impairment in depressed rats undergoing electroconvulsive shock” [Brain Res. 1595 (2015) 101–109]"
+}

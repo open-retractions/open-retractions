@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.imlet.2016.09.002","type":"err"},"doi":"10.1016/j.imlet.2016.07.010","journal":"Immunology Letters","publisher":"Elsevier BV","title":"Corrigendum to: “Development of a flow cytometry-based potency assay for measuring the in vitro immunomodulatory properties of mesenchymal stromal cells” [J. Immunol. Lett. 177 (2016) 38–46]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495656167514,
+      "identifier": {
+        "doi": "10.1016/j.imlet.2016.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.imlet.2016.07.010"
+  },
+  "journal": "Immunology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Development of a flow cytometry-based potency assay for measuring the in vitro immunomodulatory properties of mesenchymal stromal cells” [J. Immunol. Lett. 177 (2016) 38–46]"
+}

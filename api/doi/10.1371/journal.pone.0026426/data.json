@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1321488000000,"doi":"10.1371/annotation/e5ef7afc-7e81-4053-8670-1bb3402f63fd","type":"correction"},"doi":"10.1371/journal.pone.0026426","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Low-Cost Library Construction Protocol and Data Analysis Pipeline for Illumina-Based Strand-Specific Multiplex RNA-Seq"}
+{
+  "retracted": false,
+  "timestamp": 1321488000000,
+  "updates": [
+    {
+      "timestamp": 1495833930744,
+      "identifier": {
+        "doi": "10.1371/annotation/e5ef7afc-7e81-4053-8670-1bb3402f63fd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0026426"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Low-Cost Library Construction Protocol and Data Analysis Pipeline for Illumina-Based Strand-Specific Multiplex RNA-Seq"
+}

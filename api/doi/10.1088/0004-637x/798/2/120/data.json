@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461283200000,"doi":"10.3847/0004-637x/821/2/133","type":"correction"},"doi":"10.1088/0004-637x/798/2/120","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “THE PROPER MOTION OF THE GALACTIC CENTER PULSAR RELATIVE TO SAGITTARIUS A*” (2015, ApJ, 798, 120)"}
+{
+  "retracted": false,
+  "timestamp": 1461283200000,
+  "updates": [
+    {
+      "timestamp": 1495668260061,
+      "identifier": {
+        "doi": "10.3847/0004-637x/821/2/133"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/798/2/120"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “THE PROPER MOTION OF THE GALACTIC CENTER PULSAR RELATIVE TO SAGITTARIUS A*” (2015, ApJ, 798, 120)"
+}

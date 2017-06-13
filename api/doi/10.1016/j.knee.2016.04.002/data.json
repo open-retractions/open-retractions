@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.knee.2016.09.013","type":"err"},"doi":"10.1016/j.knee.2016.04.002","journal":"The Knee","publisher":"Elsevier BV","title":"Erratum to “LARS® band and tube for extensor mechanism reconstructions in proximal tibial modular endoprostheses after bone tumors” [Knee 23 (2016) 905–910]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495649002823,
+      "identifier": {
+        "doi": "10.1016/j.knee.2016.09.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.knee.2016.04.002"
+  },
+  "journal": "The Knee",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “LARS® band and tube for extensor mechanism reconstructions in proximal tibial modular endoprostheses after bone tumors” [Knee 23 (2016) 905–910]"
+}

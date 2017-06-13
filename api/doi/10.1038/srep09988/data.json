@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1038/srep12207","type":"correction"},"doi":"10.1038/srep09988","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Soret Fishnet Metalens Antenna"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015882542,
+      "identifier": {
+        "doi": "10.1038/srep12207"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09988"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Soret Fishnet Metalens Antenna"
+}

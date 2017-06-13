@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1007/bf01060041","type":"correction"},"doi":"10.1007/bf01059625","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Properties of the Michaelis-Menten equation and its integrated form which are useful in pharmacokinetics"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1495880035561,
+      "identifier": {
+        "doi": "10.1007/bf01060041"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01059625"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Properties of the Michaelis-Menten equation and its integrated form which are useful in pharmacokinetics"
+}

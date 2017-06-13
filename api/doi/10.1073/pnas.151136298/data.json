@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":995328000000,"doi":"10.1073/pnas.0803890105","type":"correction"},"doi":"10.1073/pnas.151136298","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Editorial Expression of Concern for multiple articles"}
+{
+  "retracted": false,
+  "timestamp": 995328000000,
+  "updates": [
+    {
+      "timestamp": 1495856284873,
+      "identifier": {
+        "doi": "10.1073/pnas.0803890105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.151136298"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Editorial Expression of Concern for multiple articles"
+}

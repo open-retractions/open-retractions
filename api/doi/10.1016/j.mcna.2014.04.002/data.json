@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.mcna.2014.10.002","type":"err"},"doi":"10.1016/j.mcna.2014.04.002","journal":"Medical Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496024357147,
+      "identifier": {
+        "doi": "10.1016/j.mcna.2014.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mcna.2014.04.002"
+  },
+  "journal": "Medical Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

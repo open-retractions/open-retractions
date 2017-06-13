@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1007/s11547-016-0625-6","type":"correction"},"doi":"10.1007/s11547-015-0603-4","journal":"La radiologia medica","publisher":"Springer Nature","title":"Erratum to: MR imaging of perianal fistulas in Crohn’s disease: sensitivity and specificity of STIR sequences"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641332786,
+      "identifier": {
+        "doi": "10.1007/s11547-016-0625-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11547-015-0603-4"
+  },
+  "journal": "La radiologia medica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: MR imaging of perianal fistulas in Crohn’s disease: sensitivity and specificity of STIR sequences"
+}

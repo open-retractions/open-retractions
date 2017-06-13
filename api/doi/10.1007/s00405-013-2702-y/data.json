@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1007/s00405-016-4068-4","type":"correction"},"doi":"10.1007/s00405-013-2702-y","journal":"European Archives of Oto-Rhino-Laryngology","publisher":"Springer Nature","title":"Erratum to: Diagnostic value of cone-beam CT in histologically confirmed otosclerosis"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495669999741,
+      "identifier": {
+        "doi": "10.1007/s00405-016-4068-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00405-013-2702-y"
+  },
+  "journal": "European Archives of Oto-Rhino-Laryngology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diagnostic value of cone-beam CT in histologically confirmed otosclerosis"
+}

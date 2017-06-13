@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390348800000,"doi":"10.1007/bf02538403","type":"correction"},"doi":"10.1007/bf02538406","journal":"Journal of Geodesy","publisher":"Springer Nature","title":"Erratum to: On the aliasing problem in the spherical harmonic analysis"}
+{
+  "retracted": false,
+  "timestamp": 1390348800000,
+  "updates": [
+    {
+      "timestamp": 1495924960805,
+      "identifier": {
+        "doi": "10.1007/bf02538403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02538406"
+  },
+  "journal": "Journal of Geodesy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the aliasing problem in the spherical harmonic analysis"
+}

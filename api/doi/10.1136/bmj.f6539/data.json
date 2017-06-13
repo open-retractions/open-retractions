@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383609600000,"doi":"10.1136/bmj.f6854","type":"correction"},"doi":"10.1136/bmj.f6539","journal":"BMJ","publisher":"BMJ","title":"Dental pain"}
+{
+  "retracted": false,
+  "timestamp": 1383609600000,
+  "updates": [
+    {
+      "timestamp": 1495991665033,
+      "identifier": {
+        "doi": "10.1136/bmj.f6854"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f6539"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Dental pain"
+}

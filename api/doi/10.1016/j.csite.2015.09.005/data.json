@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.csite.2016.06.007","type":"erratum"},"doi":"10.1016/j.csite.2015.09.005","journal":"Case Studies in Thermal Engineering","publisher":"Elsevier BV","title":"Corrigendum to ‘Scrutiny of plasma spraying complexities with case study on the optimized conditions toward coating process control’ [CSITE 6C (2015) 171–181]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495726054007,
+      "identifier": {
+        "doi": "10.1016/j.csite.2016.06.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.csite.2015.09.005"
+  },
+  "journal": "Case Studies in Thermal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Scrutiny of plasma spraying complexities with case study on the optimized conditions toward coating process control’ [CSITE 6C (2015) 171–181]"
+}

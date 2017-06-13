@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1016/j.str.2016.05.003","type":"erratum"},"doi":"10.1016/j.str.2016.04.004","journal":"Structure","publisher":"Elsevier BV","title":"Production of Heteromeric Transmembrane Receptors with Defined Subunit Stoichiometry"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1497080405679,
+      "identifier": {
+        "doi": "10.1016/j.str.2016.05.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.str.2016.04.004"
+  },
+  "journal": "Structure",
+  "publisher": "Elsevier BV",
+  "title": "Production of Heteromeric Transmembrane Receptors with Defined Subunit Stoichiometry"
+}

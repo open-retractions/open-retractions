@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411257600000,"doi":"10.1007/s00220-014-2172-0","type":"correction"},"doi":"10.1007/s002200050560","journal":"Communications in Mathematical Physics","publisher":"Springer Nature","title":"Erratum to: A Note on a Symplectic Structure on the Space of G-Monopoles"}
+{
+  "retracted": false,
+  "timestamp": 1411257600000,
+  "updates": [
+    {
+      "timestamp": 1496007376648,
+      "identifier": {
+        "doi": "10.1007/s00220-014-2172-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s002200050560"
+  },
+  "journal": "Communications in Mathematical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Note on a Symplectic Structure on the Space of G-Monopoles"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1297209600000,"doi":"10.1371/annotation/118b702e-9609-4f91-afba-6a76f8f1f14a","type":"correction"},"doi":"10.1371/journal.pone.0014571","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Heat-Killed Trypanosoma cruzi Induces Acute Cardiac Damage and Polyantigenic Autoimmunity"}
+{
+  "retracted": false,
+  "timestamp": 1297209600000,
+  "updates": [
+    {
+      "timestamp": 1495934662449,
+      "identifier": {
+        "doi": "10.1371/annotation/118b702e-9609-4f91-afba-6a76f8f1f14a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0014571"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Heat-Killed Trypanosoma cruzi Induces Acute Cardiac Damage and Polyantigenic Autoimmunity"
+}

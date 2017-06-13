@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1007/s11538-015-0138-9","type":"correction"},"doi":"10.1007/s11538-009-9445-3","journal":"Bulletin of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Numerical Equilibrium Analysis for Structured Consumer Resource Models"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645535596,
+      "identifier": {
+        "doi": "10.1007/s11538-015-0138-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11538-009-9445-3"
+  },
+  "journal": "Bulletin of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Numerical Equilibrium Analysis for Structured Consumer Resource Models"
+}

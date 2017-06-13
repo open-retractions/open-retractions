@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.joca.2016.06.004","type":"err"},"doi":"10.1016/j.joca.2016.01.385","journal":"Osteoarthritis and Cartilage","publisher":"Elsevier BV","title":"Corrigendum to “Moderate to vigorous physical activity is associated with greater patellar cartilage volume over 2 years following anterior cruciate ligament reconstruction” [Osteoarthritis Cartilage 24 (2016) S195–S196]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495722360729,
+      "identifier": {
+        "doi": "10.1016/j.joca.2016.06.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joca.2016.01.385"
+  },
+  "journal": "Osteoarthritis and Cartilage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Moderate to vigorous physical activity is associated with greater patellar cartilage volume over 2 years following anterior cruciate ligament reconstruction” [Osteoarthritis Cartilage 24 (2016) S195–S196]"
+}

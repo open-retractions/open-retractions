@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1116288000000,"doi":"10.1073/pnas.1000618107","type":"correction"},"doi":"10.1073/pnas.0409455102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hays et al., How sequence defines structure: A crystallographic map of DNA structure and conformation"}
+{
+  "retracted": false,
+  "timestamp": 1116288000000,
+  "updates": [
+    {
+      "timestamp": 1495819042437,
+      "identifier": {
+        "doi": "10.1073/pnas.1000618107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0409455102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hays et al., How sequence defines structure: A crystallographic map of DNA structure and conformation"
+}

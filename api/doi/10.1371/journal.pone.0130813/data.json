@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448841600000,"doi":"10.1371/journal.pone.0143991","type":"correction"},"doi":"10.1371/journal.pone.0130813","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Novel recA-Independent Horizontal Gene Transfer in Escherichia coli K-12"}
+{
+  "retracted": false,
+  "timestamp": 1448841600000,
+  "updates": [
+    {
+      "timestamp": 1496050010217,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0143991"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0130813"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Novel recA-Independent Horizontal Gene Transfer in Escherichia coli K-12"
+}

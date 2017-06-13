@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476057600000,"doi":"10.1016/j.ejps.2016.09.013","type":"err"},"doi":"10.1016/j.ejps.2016.05.017","journal":"European Journal of Pharmaceutical Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Formulation and stabilization of norfloxacin in liposomal preparations” [Eur. J. Pharm. Sci. 91 (2016) 208–215]"}
+{
+  "retracted": false,
+  "timestamp": 1476057600000,
+  "updates": [
+    {
+      "timestamp": 1495644492086,
+      "identifier": {
+        "doi": "10.1016/j.ejps.2016.09.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejps.2016.05.017"
+  },
+  "journal": "European Journal of Pharmaceutical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Formulation and stabilization of norfloxacin in liposomal preparations” [Eur. J. Pharm. Sci. 91 (2016) 208–215]"
+}

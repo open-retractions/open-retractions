@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1186/s13037-016-0096-7","type":"correction"},"doi":"10.1186/s13037-016-0093-x","journal":"Patient Safety in Surgery","publisher":"Springer Nature","title":"Erratum to: Assessing the quality of operation notes: a review of 1092 operation notes in 9 UK hospitals"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495647046599,
+      "identifier": {
+        "doi": "10.1186/s13037-016-0096-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13037-016-0093-x"
+  },
+  "journal": "Patient Safety in Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Assessing the quality of operation notes: a review of 1092 operation notes in 9 UK hospitals"
+}

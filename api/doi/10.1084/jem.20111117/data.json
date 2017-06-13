@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1331510400000,"doi":"10.1084/jem.201111172093c","type":"correction"},"doi":"10.1084/jem.20111117","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Inhibiting the HSP90 chaperone destabilizes macrophage migration inhibitory factor and thereby inhibits breast tumor progression"}
+{
+  "retracted": false,
+  "timestamp": 1331510400000,
+  "updates": [
+    {
+      "timestamp": 1495879411667,
+      "identifier": {
+        "doi": "10.1084/jem.201111172093c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20111117"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Inhibiting the HSP90 chaperone destabilizes macrophage migration inhibitory factor and thereby inhibits breast tumor progression"
+}

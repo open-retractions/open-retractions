@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415232000000,"doi":"10.1016/j.cell.2014.10.038","type":"erratum"},"doi":"10.1016/j.cell.2014.06.048","journal":"Cell","publisher":"Elsevier BV","title":"A Secreted Tyrosine Kinase Acts in the Extracellular Environment"}
+{
+  "retracted": false,
+  "timestamp": 1415232000000,
+  "updates": [
+    {
+      "timestamp": 1496019610844,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.10.038"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.06.048"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Secreted Tyrosine Kinase Acts in the Extracellular Environment"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1136/bcr-2014-207151corr1","type":"correction"},"doi":"10.1136/bcr-2014-207151","journal":"Case Reports","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1491849630315,
+      "identifier": {
+        "doi": "10.1136/bcr-2014-207151corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bcr-2014-207151"
+  },
+  "journal": "Case Reports",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

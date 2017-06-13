@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.cie.2013.05.015","type":"err"},"doi":"10.1016/j.cie.2011.05.015","journal":"Computers & Industrial Engineering","publisher":"Elsevier BV","title":"Erratum to “A solution procedure for type E simple assembly line balancing problem”"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496026347204,
+      "identifier": {
+        "doi": "10.1016/j.cie.2013.05.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cie.2011.05.015"
+  },
+  "journal": "Computers & Industrial Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A solution procedure for type E simple assembly line balancing problem”"
+}

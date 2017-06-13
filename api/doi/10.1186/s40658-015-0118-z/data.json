@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444089600000,"doi":"10.1186/s40658-015-0126-z","type":"correction"},"doi":"10.1186/s40658-015-0118-z","journal":"EJNMMI Physics","publisher":"Springer Nature","title":"Erratum to: Motion correction in simultaneous PET/MR brain imaging using sparsely sampled MR navigators: a clinically feasible tool"}
+{
+  "retracted": false,
+  "timestamp": 1444089600000,
+  "updates": [
+    {
+      "timestamp": 1496035323081,
+      "identifier": {
+        "doi": "10.1186/s40658-015-0126-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40658-015-0118-z"
+  },
+  "journal": "EJNMMI Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Motion correction in simultaneous PET/MR brain imaging using sparsely sampled MR navigators: a clinically feasible tool"
+}

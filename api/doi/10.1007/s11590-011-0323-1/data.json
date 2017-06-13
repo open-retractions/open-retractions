@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396742400000,"doi":"10.1007/s11590-014-0735-9","type":"correction"},"doi":"10.1007/s11590-011-0323-1","journal":"Optimization Letters","publisher":"Springer Nature","title":"Erratum to: On convex optimization without convex representation"}
+{
+  "retracted": false,
+  "timestamp": 1396742400000,
+  "updates": [
+    {
+      "timestamp": 1496031126901,
+      "identifier": {
+        "doi": "10.1007/s11590-014-0735-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11590-011-0323-1"
+  },
+  "journal": "Optimization Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On convex optimization without convex representation"
+}

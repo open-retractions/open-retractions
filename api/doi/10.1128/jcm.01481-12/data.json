@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1128/jcm.02149-16","type":"correction"},"doi":"10.1128/jcm.01481-12","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Shewmaker et al., Evaluation of Methods for Identification and Determination of the Taxonomic Status of Strains Belonging to the Streptococcus porcinus-Streptococcus pseudoporcinus Complex Isolated from Animal, Human, and Dairy Sources"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495669932426,
+      "identifier": {
+        "doi": "10.1128/jcm.02149-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.01481-12"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Shewmaker et al., Evaluation of Methods for Identification and Determination of the Taxonomic Status of Strains Belonging to the Streptococcus porcinus-Streptococcus pseudoporcinus Complex Isolated from Animal, Human, and Dairy Sources"
+}

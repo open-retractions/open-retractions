@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1073/pnas.1518632112","type":"correction"},"doi":"10.1073/pnas.1414221111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jiménez-Díaz et al., (+)-SJ733, a clinical candidate for malaria that acts through ATP4 to induce rapid host-mediated clearance ofPlasmodium: Fig. 5."}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496034126597,
+      "identifier": {
+        "doi": "10.1073/pnas.1518632112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1414221111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jiménez-Díaz et al., (+)-SJ733, a clinical candidate for malaria that acts through ATP4 to induce rapid host-mediated clearance ofPlasmodium: Fig. 5."
+}

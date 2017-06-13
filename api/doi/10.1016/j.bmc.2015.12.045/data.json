@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.bmc.2016.07.014","type":"err"},"doi":"10.1016/j.bmc.2015.12.045","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Structural features underlying raloxifene’s biophysical interaction with bone matrix” [Bioorg. Med. Chem. 24 (2016) 759–767]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495729276382,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2016.07.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2015.12.045"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structural features underlying raloxifene’s biophysical interaction with bone matrix” [Bioorg. Med. Chem. 24 (2016) 759–767]"
+}

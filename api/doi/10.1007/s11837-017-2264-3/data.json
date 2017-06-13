@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489363200000,"doi":"10.1007/s11837-017-2297-7","type":"correction"},"doi":"10.1007/s11837-017-2264-3","journal":"JOM","publisher":"Springer Nature","title":"Erratum to: Strategy for Texture Management in Metals Additive Manufacturing"}
+{
+  "retracted": false,
+  "timestamp": 1489363200000,
+  "updates": [
+    {
+      "timestamp": 1495728631030,
+      "identifier": {
+        "doi": "10.1007/s11837-017-2297-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11837-017-2264-3"
+  },
+  "journal": "JOM",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Strategy for Texture Management in Metals Additive Manufacturing"
+}

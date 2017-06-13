@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405728000000,"doi":"10.1007/s00249-014-0976-7","type":"correction"},"doi":"10.1007/s00249-013-0912-2","journal":"European Biophysics Journal","publisher":"Springer Nature","title":"Erratum to: A new way of tracking motion, shape, and divisions"}
+{
+  "retracted": false,
+  "timestamp": 1405728000000,
+  "updates": [
+    {
+      "timestamp": 1496055076900,
+      "identifier": {
+        "doi": "10.1007/s00249-014-0976-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00249-013-0912-2"
+  },
+  "journal": "European Biophysics Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new way of tracking motion, shape, and divisions"
+}

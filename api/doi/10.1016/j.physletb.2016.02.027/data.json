@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1016/j.physletb.2016.03.058","type":"erratum"},"doi":"10.1016/j.physletb.2016.02.027","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “On magnetic guidance of charged particles” [Phys. Lett. B 755 (2016) 409–413]"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495659234961,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2016.03.058"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2016.02.027"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On magnetic guidance of charged particles” [Phys. Lett. B 755 (2016) 409–413]"
+}

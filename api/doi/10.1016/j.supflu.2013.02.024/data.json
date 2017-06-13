@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.supflu.2014.02.018","type":"err"},"doi":"10.1016/j.supflu.2013.02.024","journal":"The Journal of Supercritical Fluids","publisher":"Elsevier BV","title":"Corrigendum to “Lysozyme encapsulation within PLGA and CaCO3 microparticles using supercritical CO2 medium” [J. Supercrit. Fluids 79 (2013) 159–169]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496026266780,
+      "identifier": {
+        "doi": "10.1016/j.supflu.2014.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.supflu.2013.02.024"
+  },
+  "journal": "The Journal of Supercritical Fluids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lysozyme encapsulation within PLGA and CaCO3 microparticles using supercritical CO2 medium” [J. Supercrit. Fluids 79 (2013) 159–169]"
+}

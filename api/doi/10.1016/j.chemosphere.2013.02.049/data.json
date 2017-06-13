@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.chemosphere.2013.09.099","type":"err"},"doi":"10.1016/j.chemosphere.2013.02.049","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Removal rates of dissolved munitions compounds in seawater” [Chemosphere 92 (2013) 898–904]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1495997031606,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2013.09.099"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2013.02.049"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Removal rates of dissolved munitions compounds in seawater” [Chemosphere 92 (2013) 898–904]"
+}

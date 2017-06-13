@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1212/wnl.0000000000001435","type":"correction"},"doi":"10.1212/wnl.0000000000001075","journal":"Neurology","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Occupational complexity and lifetime cognitive abilities"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496059516483,
+      "identifier": {
+        "doi": "10.1212/wnl.0000000000001435"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1212/wnl.0000000000001075"
+  },
+  "journal": "Neurology",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Occupational complexity and lifetime cognitive abilities"
+}

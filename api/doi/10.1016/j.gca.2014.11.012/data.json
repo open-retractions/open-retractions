@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.gca.2015.03.019","type":"err"},"doi":"10.1016/j.gca.2014.11.012","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Erratum to “Uranium isotope fractionation in Saanich Inlet: A modern analog study of a paleoredox tracer” [Geochim. Cosmochim. Acta 153 (2015) 202–215]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495998067770,
+      "identifier": {
+        "doi": "10.1016/j.gca.2015.03.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2014.11.012"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Uranium isotope fractionation in Saanich Inlet: A modern analog study of a paleoredox tracer” [Geochim. Cosmochim. Acta 153 (2015) 202–215]"
+}

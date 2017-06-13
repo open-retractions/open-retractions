@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333324800000,"doi":"10.1017/s1751731112000778","type":"correction"},"doi":"10.1017/s1751731110002727","journal":"animal","publisher":"Cambridge University Press (CUP)","title":"Gene expression profiling in developing pig adipose tissue: non-secreted regulatory proteins – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1333324800000,
+  "updates": [
+    {
+      "timestamp": 1495889006547,
+      "identifier": {
+        "doi": "10.1017/s1751731112000778"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s1751731110002727"
+  },
+  "journal": "animal",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Gene expression profiling in developing pig adipose tissue: non-secreted regulatory proteins – CORRIGENDUM"
+}

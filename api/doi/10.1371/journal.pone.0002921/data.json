@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298678400000,"doi":"10.1371/annotation/5284a0b6-62a9-484e-80a4-a08c59b3b17c","type":"correction"},"doi":"10.1371/journal.pone.0002921","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Safety and Immunogenicity of the Candidate Tuberculosis Vaccine MVA85A in West Africa"}
+{
+  "retracted": false,
+  "timestamp": 1298678400000,
+  "updates": [
+    {
+      "timestamp": 1495948249842,
+      "identifier": {
+        "doi": "10.1371/annotation/5284a0b6-62a9-484e-80a4-a08c59b3b17c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002921"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Safety and Immunogenicity of the Candidate Tuberculosis Vaccine MVA85A in West Africa"
+}

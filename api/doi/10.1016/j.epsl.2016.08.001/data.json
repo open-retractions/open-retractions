@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.epsl.2016.09.047","type":"err"},"doi":"10.1016/j.epsl.2016.08.001","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Geochemical evidence for cryptic sulfur cycling in salt marsh sediments” [Earth Planet. Sci. Lett. 453 (2016) 23–32]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495647703759,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2016.09.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2016.08.001"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geochemical evidence for cryptic sulfur cycling in salt marsh sediments” [Earth Planet. Sci. Lett. 453 (2016) 23–32]"
+}

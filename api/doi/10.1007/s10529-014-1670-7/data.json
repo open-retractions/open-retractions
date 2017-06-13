@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1007/s10529-014-1688-x","type":"correction"},"doi":"10.1007/s10529-014-1670-7","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Biotransformation of 1,3-propanediol cyclic sulfate and its derivatives to diols by Rhodococcus sp."}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1496012618885,
+      "identifier": {
+        "doi": "10.1007/s10529-014-1688-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-014-1670-7"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biotransformation of 1,3-propanediol cyclic sulfate and its derivatives to diols by Rhodococcus sp."
+}

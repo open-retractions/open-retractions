@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403308800000,"doi":"10.1007/s00253-014-5879-0","type":"correction"},"doi":"10.1007/s00253-013-4997-4","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Engineering redox cofactor utilization for detoxification of glycolaldehyde, a key inhibitor of bioethanol production, in yeast Saccharomyces cerevisiae"}
+{
+  "retracted": false,
+  "timestamp": 1403308800000,
+  "updates": [
+    {
+      "timestamp": 1496047633494,
+      "identifier": {
+        "doi": "10.1007/s00253-014-5879-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-013-4997-4"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Engineering redox cofactor utilization for detoxification of glycolaldehyde, a key inhibitor of bioethanol production, in yeast Saccharomyces cerevisiae"
+}

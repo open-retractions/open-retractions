@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413417600000,"doi":"10.1007/s11120-014-0046-0","type":"correction"},"doi":"10.1007/s11120-014-0040-6","journal":"Photosynthesis Research","publisher":"Springer Nature","title":"Erratum to: Apparent PS II absorption cross-section and estimation of mean PAR in optically thin and dense suspensions of Chlorella"}
+{
+  "retracted": false,
+  "timestamp": 1413417600000,
+  "updates": [
+    {
+      "timestamp": 1496010414826,
+      "identifier": {
+        "doi": "10.1007/s11120-014-0046-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11120-014-0040-6"
+  },
+  "journal": "Photosynthesis Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Apparent PS II absorption cross-section and estimation of mean PAR in optically thin and dense suspensions of Chlorella"
+}

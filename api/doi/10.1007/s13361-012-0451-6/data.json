@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398297600000,"doi":"10.1007/s13361-014-0907-y","type":"correction"},"doi":"10.1007/s13361-012-0451-6","journal":"Journal of The American Society for Mass Spectrometry","publisher":"Springer Nature","title":"Erratum to: Quantifying Protein-Ligand Binding Constants Using Electrospray Ionization Mass Spectrometry: A Systematic Binding Affinity Study of a Series of Hydrophobically Modified Trypsin Inhibitors"}
+{
+  "retracted": false,
+  "timestamp": 1398297600000,
+  "updates": [
+    {
+      "timestamp": 1496034859336,
+      "identifier": {
+        "doi": "10.1007/s13361-014-0907-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13361-012-0451-6"
+  },
+  "journal": "Journal of The American Society for Mass Spectrometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantifying Protein-Ligand Binding Constants Using Electrospray Ionization Mass Spectrometry: A Systematic Binding Affinity Study of a Series of Hydrophobically Modified Trypsin Inhibitors"
+}

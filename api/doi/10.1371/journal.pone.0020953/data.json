@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1314057600000,"doi":"10.1371/annotation/5247af81-4595-44b7-9c3f-2e45ad85abfa","type":"correction"},"doi":"10.1371/journal.pone.0020953","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Novel Murine Infection Models Provide Deep Insights into the “Ménage à Trois” of Campylobacter jejuni, Microbiota and Host Innate Immunity"}
+{
+  "retracted": false,
+  "timestamp": 1314057600000,
+  "updates": [
+    {
+      "timestamp": 1495801144592,
+      "identifier": {
+        "doi": "10.1371/annotation/5247af81-4595-44b7-9c3f-2e45ad85abfa"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0020953"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Novel Murine Infection Models Provide Deep Insights into the “Ménage à Trois” of Campylobacter jejuni, Microbiota and Host Innate Immunity"
+}

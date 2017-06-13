@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.soilbio.2014.09.015","type":"err"},"doi":"10.1016/j.soilbio.2012.11.022","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Changes in community structure of methanogenic archaea brought about by water-saving practice in paddy field soil” [Soil Biol. Biochem. 58 (March 2013) 235–243]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496009193158,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2014.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2012.11.022"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Changes in community structure of methanogenic archaea brought about by water-saving practice in paddy field soil” [Soil Biol. Biochem. 58 (March 2013) 235–243]"
+}

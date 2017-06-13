@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1016/j.jsv.2015.06.041","type":"erratum"},"doi":"10.1016/j.jsv.2015.05.016","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Rayleigh to Lamb Wave Conversion at a Delamination-Like Crack’’"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1496034459265,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2015.06.041"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2015.05.016"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Rayleigh to Lamb Wave Conversion at a Delamination-Like Crack’’"
+}

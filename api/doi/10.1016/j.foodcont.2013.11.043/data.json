@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.foodcont.2014.01.009","type":"err"},"doi":"10.1016/j.foodcont.2013.11.043","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Effect of milling on the content of deoxynivalenol, nivalenol, and zearalenone in Japanese wheat” [Food Control 40 (2014) 193–197]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496010356237,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2014.01.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2013.11.043"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of milling on the content of deoxynivalenol, nivalenol, and zearalenone in Japanese wheat” [Food Control 40 (2014) 193–197]"
+}

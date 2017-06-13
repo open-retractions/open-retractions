@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1371/journal.pone.0171581","type":"correction"},"doi":"10.1371/journal.pone.0162746","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Optimizing SIEM Throughput on the Cloud Using Parallelization"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495715773476,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0171581"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0162746"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Optimizing SIEM Throughput on the Cloud Using Parallelization"
+}

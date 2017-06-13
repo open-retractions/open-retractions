@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450224000000,"doi":"10.1080/1070289x.2015.1131045","type":"correction"},"doi":"10.1080/1070289x.2015.1111839","journal":"Identities","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1450224000000,
+  "updates": [
+    {
+      "timestamp": 1496053831548,
+      "identifier": {
+        "doi": "10.1080/1070289x.2015.1131045"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1070289x.2015.1111839"
+  },
+  "journal": "Identities",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

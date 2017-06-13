@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395014400000,"doi":"10.1002/sim.6150","type":"correction"},"doi":"10.1002/sim.5957","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1395014400000,
+  "updates": [
+    {
+      "timestamp": 1496026177307,
+      "identifier": {
+        "doi": "10.1002/sim.6150"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.5957"
+  },
+  "journal": "Statistics in Medicine",
+  "publisher": "Wiley-Blackwell",
+  "title": "Correction"
+}

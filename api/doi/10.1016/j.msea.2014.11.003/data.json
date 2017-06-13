@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487203200000,"doi":"10.1016/j.msea.2017.01.040","type":"erratum"},"doi":"10.1016/j.msea.2014.11.003","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to “Influence of electropulsing treatment on microstructure and mechanical properties of Ti-6Al-4V alloy strip with lamellar microstructure” [Mater. Sci. Eng. A 622C (2015) 1−6]"}
+{
+  "retracted": false,
+  "timestamp": 1487203200000,
+  "updates": [
+    {
+      "timestamp": 1495677195410,
+      "identifier": {
+        "doi": "10.1016/j.msea.2017.01.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2014.11.003"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Influence of electropulsing treatment on microstructure and mechanical properties of Ti-6Al-4V alloy strip with lamellar microstructure” [Mater. Sci. Eng. A 622C (2015) 1−6]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450656000000,"doi":"10.1039/c5cc90557e","type":"correction"},"doi":"10.1039/c5cc08224b","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Self-assembly of the anti-fungal polyene amphotericin B into giant helically-twisted nanotapes"}
+{
+  "retracted": false,
+  "timestamp": 1450656000000,
+  "updates": [
+    {
+      "timestamp": 1496055076301,
+      "identifier": {
+        "doi": "10.1039/c5cc90557e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cc08224b"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Self-assembly of the anti-fungal polyene amphotericin B into giant helically-twisted nanotapes"
+}

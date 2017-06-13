@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217548800000,"doi":"10.1107/s0108768108017497","type":"correction"},"doi":"10.1107/s0108768107055292","journal":"Acta Crystallographica Section B Structural Science","publisher":"International Union of Crystallography (IUCr)","title":"Charge-density studies of energetic materials: CL-20 and FOX-7. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1217548800000,
+  "updates": [
+    {
+      "timestamp": 1495854022885,
+      "identifier": {
+        "doi": "10.1107/s0108768108017497"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108768107055292"
+  },
+  "journal": "Acta Crystallographica Section B Structural Science",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Charge-density studies of energetic materials: CL-20 and FOX-7. Corrigendum"
+}

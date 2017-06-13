@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.cogdev.2016.10.004","type":"err"},"doi":"10.1016/j.cogdev.2016.05.001","journal":"Cognitive Development","publisher":"Elsevier BV","title":"Corrigendum to ‘Maternal touch predicts social orienting in young children’ [Cognit Develop 39 (2016) 128–140]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495655858025,
+      "identifier": {
+        "doi": "10.1016/j.cogdev.2016.10.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cogdev.2016.05.001"
+  },
+  "journal": "Cognitive Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Maternal touch predicts social orienting in young children’ [Cognit Develop 39 (2016) 128–140]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1264118400000,"doi":"10.1371/annotation/1320f032-3c02-4feb-94ec-66591aa27d1c","type":"correction"},"doi":"10.1371/journal.pone.0008212","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: P-Glycoprotein Acts as an Immunomodulator during Neuroinflammation"}
+{
+  "retracted": false,
+  "timestamp": 1264118400000,
+  "updates": [
+    {
+      "timestamp": 1496025199503,
+      "identifier": {
+        "doi": "10.1371/annotation/1320f032-3c02-4feb-94ec-66591aa27d1c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0008212"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: P-Glycoprotein Acts as an Immunomodulator during Neuroinflammation"
+}

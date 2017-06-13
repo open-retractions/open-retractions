@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464652800000,"doi":"10.1080/00305316.2016.1189198","type":"correction"},"doi":"10.1080/00305316.2016.1182595","journal":"Oriental Insects","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464652800000,
+  "updates": [
+    {
+      "timestamp": 1495717040992,
+      "identifier": {
+        "doi": "10.1080/00305316.2016.1189198"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00305316.2016.1182595"
+  },
+  "journal": "Oriental Insects",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

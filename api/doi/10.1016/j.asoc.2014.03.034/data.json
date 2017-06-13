@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.asoc.2014.06.019","type":"err"},"doi":"10.1016/j.asoc.2014.03.034","journal":"Applied Soft Computing","publisher":"Elsevier BV","title":"Corrigendum to “Haplotype inference using a novel binary particle swarm optimization algorithm” [Appl. Soft Comput. 21 (2014) 415–422]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496049199107,
+      "identifier": {
+        "doi": "10.1016/j.asoc.2014.06.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asoc.2014.03.034"
+  },
+  "journal": "Applied Soft Computing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Haplotype inference using a novel binary particle swarm optimization algorithm” [Appl. Soft Comput. 21 (2014) 415–422]"
+}

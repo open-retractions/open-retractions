@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474329600000,"doi":"10.7567/jjap.55.109201","type":"correction"},"doi":"10.7567/jjap.54.055202","journal":"Japanese Journal of Applied Physics","publisher":"Japan Society of Applied Physics","title":"Erratum: “Depth analysis on oxidation of Al/Si(111) thin film by X-ray photoelectron spectroscopy using synchrotron radiation”"}
+{
+  "retracted": false,
+  "timestamp": 1474329600000,
+  "updates": [
+    {
+      "timestamp": 1495641223780,
+      "identifier": {
+        "doi": "10.7567/jjap.55.109201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/jjap.54.055202"
+  },
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “Depth analysis on oxidation of Al/Si(111) thin film by X-ray photoelectron spectroscopy using synchrotron radiation”"
+}

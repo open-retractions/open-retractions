@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.cor.2013.12.005","type":"err"},"doi":"10.1016/j.cor.2013.09.020","journal":"Computers & Operations Research","publisher":"Elsevier BV","title":"Erratum to “Optimizing the strategic patient mix combining queueing theory and dynamic programing” [Comput. Operat. Res. 43 (2013) 271–279]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496009095879,
+      "identifier": {
+        "doi": "10.1016/j.cor.2013.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cor.2013.09.020"
+  },
+  "journal": "Computers & Operations Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Optimizing the strategic patient mix combining queueing theory and dynamic programing” [Comput. Operat. Res. 43 (2013) 271–279]"
+}

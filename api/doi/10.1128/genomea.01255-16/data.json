@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486598400000,"doi":"10.1128/genomea.01657-16","type":"correction"},"doi":"10.1128/genomea.01255-16","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Correction for Mathijs et al., Complete Genome Sequences of the Neethling-Like Lumpy Skin Disease Virus Strains Obtained Directly from Three Commercial Live Attenuated Vaccines"}
+{
+  "retracted": false,
+  "timestamp": 1486598400000,
+  "updates": [
+    {
+      "timestamp": 1495719620138,
+      "identifier": {
+        "doi": "10.1128/genomea.01657-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01255-16"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Mathijs et al., Complete Genome Sequences of the Neethling-Like Lumpy Skin Disease Virus Strains Obtained Directly from Three Commercial Live Attenuated Vaccines"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455926400000,"doi":"10.1016/j.ins.2015.10.034","type":"err"},"doi":"10.1016/j.ins.2015.04.031","journal":"Information Sciences","publisher":"Elsevier BV","title":"Erratum to “The gradient evolution algorithm: A new metaheuristics” [Information Science 316 (2015) 246–265]"}
+{
+  "retracted": false,
+  "timestamp": 1455926400000,
+  "updates": [
+    {
+      "timestamp": 1496039702408,
+      "identifier": {
+        "doi": "10.1016/j.ins.2015.10.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2015.04.031"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The gradient evolution algorithm: A new metaheuristics” [Information Science 316 (2015) 246–265]"
+}

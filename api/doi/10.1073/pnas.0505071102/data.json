@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1139875200000,"doi":"10.1073/pnas.0510955103","type":"correction"},"doi":"10.1073/pnas.0505071102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sacher et al., The crystal structure of CREG, a secreted glycoprotein involved in cellular growth and differentiation"}
+{
+  "retracted": false,
+  "timestamp": 1139875200000,
+  "updates": [
+    {
+      "timestamp": 1495975157580,
+      "identifier": {
+        "doi": "10.1073/pnas.0510955103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0505071102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sacher et al., The crystal structure of CREG, a secreted glycoprotein involved in cellular growth and differentiation"
+}

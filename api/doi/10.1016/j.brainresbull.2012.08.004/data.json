@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.brainresbull.2015.08.002","type":"err"},"doi":"10.1016/j.brainresbull.2012.08.004","journal":"Brain Research Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Alterations in grooming activity and syntax in heterozygous SERT and BDNF knockout mice: The utility of behavior-recognition tools to characterize mutant mouse phenotypes”"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496022763354,
+      "identifier": {
+        "doi": "10.1016/j.brainresbull.2015.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainresbull.2012.08.004"
+  },
+  "journal": "Brain Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Alterations in grooming activity and syntax in heterozygous SERT and BDNF knockout mice: The utility of behavior-recognition tools to characterize mutant mouse phenotypes”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344384000000,"doi":"10.1371/annotation/4c62d454-931e-4c48-841a-a701cb658a1c","type":"correction"},"doi":"10.1371/journal.pone.0037250","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: High-Resolution Positional Tracking for Long-Term Analysis of Drosophila Sleep and Locomotion Using the “Tracker” Program"}
+{
+  "retracted": false,
+  "timestamp": 1344384000000,
+  "updates": [
+    {
+      "timestamp": 1495940503320,
+      "identifier": {
+        "doi": "10.1371/annotation/4c62d454-931e-4c48-841a-a701cb658a1c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037250"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: High-Resolution Positional Tracking for Long-Term Analysis of Drosophila Sleep and Locomotion Using the “Tracker” Program"
+}

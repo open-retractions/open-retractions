@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413936000000,"doi":"10.1098/rspb.2014.1911","type":"correction"},"doi":"10.1098/rspb.2010.0898","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Scaling of sensorimotor control in terrestrial mammals"}
+{
+  "retracted": false,
+  "timestamp": 1413936000000,
+  "updates": [
+    {
+      "timestamp": 1496003085426,
+      "identifier": {
+        "doi": "10.1098/rspb.2014.1911"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2010.0898"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Scaling of sensorimotor control in terrestrial mammals"
+}

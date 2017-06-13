@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364428800000,"doi":"10.1371/annotation/8bc63544-9ed4-42ca-a830-e8058ab13bab","type":"correction"},"doi":"10.1371/journal.pgen.1002903","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Rare Copy Number Variants Contribute to Congenital Left-Sided Heart Disease"}
+{
+  "retracted": false,
+  "timestamp": 1364428800000,
+  "updates": [
+    {
+      "timestamp": 1496007989544,
+      "identifier": {
+        "doi": "10.1371/annotation/8bc63544-9ed4-42ca-a830-e8058ab13bab"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1002903"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rare Copy Number Variants Contribute to Congenital Left-Sided Heart Disease"
+}

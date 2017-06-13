@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1063/1.4930560","type":"correction"},"doi":"10.1063/1.4918540","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Complex structure on the six dimensional sphere from a spontaneous symmetry breaking” [J. Math. Phys. 56, 043508 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027566859,
+      "identifier": {
+        "doi": "10.1063/1.4930560"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4918540"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Complex structure on the six dimensional sphere from a spontaneous symmetry breaking” [J. Math. Phys. 56, 043508 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1063/1.4901322","type":"correction"},"doi":"10.1063/1.4898013","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Electronic structure and thermoelectric properties of p-type Ag-doped Mg2Sn and Mg2Sn1−xSix (x = 0.05, 0.1)” [J. Appl. Phys. 116, 153706 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496010853226,
+      "identifier": {
+        "doi": "10.1063/1.4901322"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4898013"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electronic structure and thermoelectric properties of p-type Ag-doped Mg2Sn and Mg2Sn1−xSix (x = 0.05, 0.1)” [J. Appl. Phys. 116, 153706 (2014)]"
+}

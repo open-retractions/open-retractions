@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454630400000,"doi":"10.1186/s13059-016-0885-4","type":"correction"},"doi":"10.1186/s13059-015-0698-x","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Dynamics of gene silencing during X inactivation using allele-specific RNA-seq"}
+{
+  "retracted": false,
+  "timestamp": 1454630400000,
+  "updates": [
+    {
+      "timestamp": 1495642605706,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0885-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-015-0698-x"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamics of gene silencing during X inactivation using allele-specific RNA-seq"
+}

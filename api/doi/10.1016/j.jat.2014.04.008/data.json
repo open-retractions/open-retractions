@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jat.2015.11.003","type":"erratum"},"doi":"10.1016/j.jat.2014.04.008","journal":"Journal of Approximation Theory","publisher":"Elsevier BV","title":"Corrigendum to “Stability of ball proximinality” [J. Approx. Theory 183 (2014) 72–81]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495645165462,
+      "identifier": {
+        "doi": "10.1016/j.jat.2015.11.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jat.2014.04.008"
+  },
+  "journal": "Journal of Approximation Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stability of ball proximinality” [J. Approx. Theory 183 (2014) 72–81]"
+}

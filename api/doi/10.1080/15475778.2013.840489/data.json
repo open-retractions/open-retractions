@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392940800000,"doi":"10.1080/15475778.2014.885319","type":"correction"},"doi":"10.1080/15475778.2013.840489","journal":"Journal of Transnational Management","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1392940800000,
+  "updates": [
+    {
+      "timestamp": 1496020384550,
+      "identifier": {
+        "doi": "10.1080/15475778.2014.885319"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15475778.2013.840489"
+  },
+  "journal": "Journal of Transnational Management",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

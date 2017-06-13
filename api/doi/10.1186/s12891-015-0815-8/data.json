@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450742400000,"doi":"10.1186/s12891-015-0850-5","type":"correction"},"doi":"10.1186/s12891-015-0815-8","journal":"BMC Musculoskeletal Disorders","publisher":"Springer Nature","title":"Erratum to: A Bayesian network meta-analysis: Comparing the clinical effectiveness of local corticosteroid injections using different treatment strategies for carpal tunnel syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1450742400000,
+  "updates": [
+    {
+      "timestamp": 1496055834906,
+      "identifier": {
+        "doi": "10.1186/s12891-015-0850-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12891-015-0815-8"
+  },
+  "journal": "BMC Musculoskeletal Disorders",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Bayesian network meta-analysis: Comparing the clinical effectiveness of local corticosteroid injections using different treatment strategies for carpal tunnel syndrome"
+}

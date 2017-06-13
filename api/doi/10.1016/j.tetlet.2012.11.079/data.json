@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420675200000,"doi":"10.1016/j.tetlet.2014.11.086","type":"err"},"doi":"10.1016/j.tetlet.2012.11.079","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis of 15N-labeled vicinal diamines through N-activated chiral aziridines: tools for the NMR study of platinum-based anticancer compounds” [Tetrahedron Lett. 54 (2013) 545–548]"}
+{
+  "retracted": false,
+  "timestamp": 1420675200000,
+  "updates": [
+    {
+      "timestamp": 1496029995043,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2014.11.086"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2012.11.079"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis of 15N-labeled vicinal diamines through N-activated chiral aziridines: tools for the NMR study of platinum-based anticancer compounds” [Tetrahedron Lett. 54 (2013) 545–548]"
+}

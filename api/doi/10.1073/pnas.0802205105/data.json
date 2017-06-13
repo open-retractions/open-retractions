@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1207612800000,"doi":"10.1073/pnas.0802205105","type":"correction"},"doi":"10.1073/pnas.0802205105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Samejima et al., A promoter-hijack strategy for conditional shutdown of multiply spliced essential cell cycle genes"}
+{
+  "retracted": false,
+  "timestamp": 1207612800000,
+  "updates": [
+    {
+      "timestamp": 1495841042853,
+      "identifier": {
+        "doi": "10.1073/pnas.0802205105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0802205105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Samejima et al., A promoter-hijack strategy for conditional shutdown of multiply spliced essential cell cycle genes"
+}

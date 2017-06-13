@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jhep.2013.11.027","type":"err"},"doi":"10.1016/j.jhep.2012.02.014","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to: “Effect of ursodeoxycholic acid on bile acid profiles and intestinal detoxification machinery in primary biliary cirrhosis and health” [J Hepatol 2012;57:133–140]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496005873967,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2013.11.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2012.02.014"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Effect of ursodeoxycholic acid on bile acid profiles and intestinal detoxification machinery in primary biliary cirrhosis and health” [J Hepatol 2012;57:133–140]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.lrr.2015.04.003","type":"err"},"doi":"10.1016/j.lrr.2014.05.003","journal":"Leukemia Research Reports","publisher":"Elsevier BV","title":"Corrigendum to “Combination therapy with interferon and JAK1-2 inhibitor is feasible. Proof of concept with rapid reduction in JAK2V617F-allele burden in Polycythemia Vera” [Leuk. Res. Rep. 3 (2) (2014) 73–75]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1495996774334,
+      "identifier": {
+        "doi": "10.1016/j.lrr.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lrr.2014.05.003"
+  },
+  "journal": "Leukemia Research Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Combination therapy with interferon and JAK1-2 inhibitor is feasible. Proof of concept with rapid reduction in JAK2V617F-allele burden in Polycythemia Vera” [Leuk. Res. Rep. 3 (2) (2014) 73–75]"
+}

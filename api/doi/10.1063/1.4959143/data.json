@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472601600000,"doi":"10.1063/1.4962292","type":"correction"},"doi":"10.1063/1.4959143","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Carrier dynamics and Coulomb-enhanced capture in III-nitride quantum heterostructures” [Appl. Phys. Lett. 109, 033504 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1472601600000,
+  "updates": [
+    {
+      "timestamp": 1496715824998,
+      "identifier": {
+        "doi": "10.1063/1.4962292"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4959143"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Carrier dynamics and Coulomb-enhanced capture in III-nitride quantum heterostructures” [Appl. Phys. Lett. 109, 033504 (2016)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1136/bmj.i957","type":"correction"},"doi":"10.1136/bmj.i563","journal":"BMJ","publisher":"BMJ","title":"An open letter toThe BMJeditors on qualitative research"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645123100,
+      "identifier": {
+        "doi": "10.1136/bmj.i957"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.i563"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "An open letter toThe BMJeditors on qualitative research"
+}

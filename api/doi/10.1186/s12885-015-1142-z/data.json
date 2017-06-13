@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1186/s12885-016-2163-y","type":"correction"},"doi":"10.1186/s12885-015-1142-z","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Results of multicenter double-blind placebo-controlled phase II clinical trial of Panagen preparation to evaluate its leukostimulatory activity and formation of the adaptive immune response in patients with stage II-IV breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645715945,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2163-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-015-1142-z"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Results of multicenter double-blind placebo-controlled phase II clinical trial of Panagen preparation to evaluate its leukostimulatory activity and formation of the adaptive immune response in patients with stage II-IV breast cancer"
+}

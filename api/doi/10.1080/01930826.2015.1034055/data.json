@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434931200000,"doi":"10.1080/01930826.2015.1058669","type":"correction"},"doi":"10.1080/01930826.2015.1034055","journal":"Journal of Library Administration","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1434931200000,
+  "updates": [
+    {
+      "timestamp": 1496009318498,
+      "identifier": {
+        "doi": "10.1080/01930826.2015.1058669"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01930826.2015.1034055"
+  },
+  "journal": "Journal of Library Administration",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.imlet.2013.11.020","type":"err"},"doi":"10.1016/j.imlet.2013.02.002","journal":"Immunology Letters","publisher":"Elsevier BV","title":"Corrigendum to “PKC∝ and PKCβ cooperate functionally in CD3-induced de novo IL-2 mRNA transcription” [Immunol. Lett. 151 (1–2) (2013) 31–38)]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496003262936,
+      "identifier": {
+        "doi": "10.1016/j.imlet.2013.11.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.imlet.2013.02.002"
+  },
+  "journal": "Immunology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PKC∝ and PKCβ cooperate functionally in CD3-induced de novo IL-2 mRNA transcription” [Immunol. Lett. 151 (1–2) (2013) 31–38)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.livsci.2014.09.001","type":"err"},"doi":"10.1016/j.livsci.2013.03.026","journal":"Livestock Science","publisher":"Elsevier BV","title":"Erratum to: “Dynamic production monitoring in pig herds II. Modeling and monitoring farrowing rate at herd level” [Livest. Sci. 155/1 (2013) 92–102]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496008373987,
+      "identifier": {
+        "doi": "10.1016/j.livsci.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.livsci.2013.03.026"
+  },
+  "journal": "Livestock Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Dynamic production monitoring in pig herds II. Modeling and monitoring farrowing rate at herd level” [Livest. Sci. 155/1 (2013) 92–102]"
+}

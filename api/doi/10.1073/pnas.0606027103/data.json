@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1171929600000,"doi":"10.1073/pnas.0700675104","type":"correction"},"doi":"10.1073/pnas.0606027103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gindulyte et al., The transition state for formation of the peptide bond in the ribosome"}
+{
+  "retracted": false,
+  "timestamp": 1171929600000,
+  "updates": [
+    {
+      "timestamp": 1495930733316,
+      "identifier": {
+        "doi": "10.1073/pnas.0700675104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0606027103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gindulyte et al., The transition state for formation of the peptide bond in the ribosome"
+}

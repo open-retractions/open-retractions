@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":773020800000,"doi":"10.1063/1.868450","type":"erratum"},"doi":"10.1063/1.858685","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: ‘‘The use of magnetohydrodynamic effects to investigate fluid flow in electrically conducting melts’’ [Phys. Fluids A 5, 3280 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 773020800000,
+  "updates": [
+    {
+      "timestamp": 1495866989309,
+      "identifier": {
+        "doi": "10.1063/1.868450"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.858685"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘The use of magnetohydrodynamic effects to investigate fluid flow           in electrically conducting melts’’ [Phys. Fluids A 5, 3280           (1993)]"
+}

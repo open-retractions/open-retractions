@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1007/s00761-016-0027-3","type":"correction"},"doi":"10.1007/s00761-015-3008-z","journal":"Der Onkologe","publisher":"Springer Nature","title":"Erratum zu: Chirurgische Therapie des Kolonkarzinoms"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495652979693,
+      "identifier": {
+        "doi": "10.1007/s00761-016-0027-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00761-015-3008-z"
+  },
+  "journal": "Der Onkologe",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Chirurgische Therapie des Kolonkarzinoms"
+}

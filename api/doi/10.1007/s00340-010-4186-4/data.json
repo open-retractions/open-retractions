@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396569600000,"doi":"10.1007/s00340-013-5619-7","type":"correction"},"doi":"10.1007/s00340-010-4186-4","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Mobile source of high-energy single-cycle terahertz pulses"}
+{
+  "retracted": false,
+  "timestamp": 1396569600000,
+  "updates": [
+    {
+      "timestamp": 1496030680324,
+      "identifier": {
+        "doi": "10.1007/s00340-013-5619-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-010-4186-4"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mobile source of high-energy single-cycle terahertz pulses"
+}

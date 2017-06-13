@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.sna.2013.12.001","type":"erratum"},"doi":"10.1016/j.sna.2012.10.019","journal":"Sensors and Actuators A: Physical","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of corrected calibration independent transmission coefficient method to estimate complex permittivity” [Sens. Actuators A: Phys. 189 (2013) 466–473]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496009151581,
+      "identifier": {
+        "doi": "10.1016/j.sna.2013.12.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sna.2012.10.019"
+  },
+  "journal": "Sensors and Actuators A: Physical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of corrected calibration independent transmission coefficient method to estimate complex permittivity” [Sens. Actuators A: Phys. 189 (2013) 466–473]"
+}

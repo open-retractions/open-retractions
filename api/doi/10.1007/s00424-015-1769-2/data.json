@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1007/s00424-016-1825-6","type":"correction"},"doi":"10.1007/s00424-015-1769-2","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Spontaneous inward currents reflecting oscillatory activation of Na+/Ca2+ exchangers in human embryonic stem cell-derived cardiomyocytes"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669743876,
+      "identifier": {
+        "doi": "10.1007/s00424-016-1825-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-015-1769-2"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spontaneous inward currents reflecting oscillatory activation of Na+/Ca2+ exchangers in human embryonic stem cell-derived cardiomyocytes"
+}

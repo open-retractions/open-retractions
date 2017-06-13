@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1358208000000,"update":{"timestamp":null,"doi":null,"pmid":27195336,"type":"retraction"},"doi":"10.1016/j.gene.2012.10.047","journal":"Gene","publisher":null,"title":"Protein-protein interaction and SNP analysis in intraductal papillary mucinous neoplasm."}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495637897110,
+      "identifier": {
+        "doi": "10.1016/j.gene.2015.12.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2012.10.047"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to protein–protein interaction and SNP analysis in intraductal papillary mucinous neoplasm [GENE 513/1 (2013) 219 - 224]"
+}

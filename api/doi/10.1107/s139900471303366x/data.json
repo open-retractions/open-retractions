@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1107/s1399004714022597","type":"correction"},"doi":"10.1107/s139900471303366x","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Structures of SAICAR synthetase (PurC) fromStreptococcus pneumoniaewith ADP, Mg2+, AIR and Asp. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496018263538,
+      "identifier": {
+        "doi": "10.1107/s1399004714022597"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s139900471303366x"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Structures of SAICAR synthetase (PurC) fromStreptococcus pneumoniaewith ADP, Mg2+, AIR and Asp. Corrigendum"
+}

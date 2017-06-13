@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430956800000,"doi":"10.1007/s00371-015-1088-9","type":"correction"},"doi":"10.1007/s00371-014-0989-3","journal":"The Visual Computer","publisher":"Springer Nature","title":"Erratum to: Optical illusion shape texturing using repeated asymmetric patterns"}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1495995257306,
+      "identifier": {
+        "doi": "10.1007/s00371-015-1088-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00371-014-0989-3"
+  },
+  "journal": "The Visual Computer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optical illusion shape texturing using repeated asymmetric patterns"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.cemconcomp.2013.12.011","type":"err"},"doi":"10.1016/j.cemconcomp.2013.03.003","journal":"Cement and Concrete Composites","publisher":"Elsevier BV","title":"Erratum to “Modeling of the influence of transverse cracking on chloride penetration into concrete” [Cem. Concr. Compos. 38 (2013) 65–74]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496012794262,
+      "identifier": {
+        "doi": "10.1016/j.cemconcomp.2013.12.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cemconcomp.2013.03.003"
+  },
+  "journal": "Cement and Concrete Composites",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Modeling of the influence of transverse cracking on chloride penetration into concrete” [Cem. Concr. Compos. 38 (2013) 65–74]"
+}

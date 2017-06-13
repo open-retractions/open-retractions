@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470182400000,"doi":"10.1186/s12985-016-0582-7","type":"correction"},"doi":"10.1186/s12985-016-0545-z","journal":"Virology Journal","publisher":"Springer Nature","title":"Erratum to: Classical swine fever virus NS5A protein changed inflammatory cytokine secretion in porcine alveolar macrophages by inhibiting the NF-κB signaling pathway"}
+{
+  "retracted": false,
+  "timestamp": 1470182400000,
+  "updates": [
+    {
+      "timestamp": 1495734414826,
+      "identifier": {
+        "doi": "10.1186/s12985-016-0582-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12985-016-0545-z"
+  },
+  "journal": "Virology Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Classical swine fever virus NS5A protein changed inflammatory cytokine secretion in porcine alveolar macrophages by inhibiting the NF-κB signaling pathway"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360800000000,"doi":"10.1016/j.febslet.2013.01.001","type":"err"},"doi":"10.1016/j.febslet.2012.02.050","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “MicroRNA-223 regulates FOXO1 expression and cell proliferation” [FEBS Lett. 586 (2012) 1038-1043]"}
+{
+  "retracted": false,
+  "timestamp": 1360800000000,
+  "updates": [
+    {
+      "timestamp": 1495985784488,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2013.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2012.02.050"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “MicroRNA-223 regulates FOXO1 expression and cell proliferation” [FEBS Lett. 586 (2012) 1038-1043]"
+}

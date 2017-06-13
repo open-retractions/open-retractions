@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.biomaterials.2013.06.011","type":"err"},"doi":"10.1016/j.biomaterials.2011.01.009","journal":"Biomaterials","publisher":"Elsevier BV","title":"Corrigendum to “Elasticity boundary conditions required for cell mechanotaxis on microelastically-patterned gels” [Biomaterials 32 (2011) 2725–33]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496030229351,
+      "identifier": {
+        "doi": "10.1016/j.biomaterials.2013.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biomaterials.2011.01.009"
+  },
+  "journal": "Biomaterials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Elasticity boundary conditions required for cell mechanotaxis on microelastically-patterned gels” [Biomaterials 32 (2011) 2725–33]"
+}

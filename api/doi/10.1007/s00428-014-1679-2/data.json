@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429228800000,"doi":"10.1007/s00428-015-1775-y","type":"correction"},"doi":"10.1007/s00428-014-1679-2","journal":"Virchows Archiv","publisher":"Springer Nature","title":"Erratum to: ROS1 gene rearrangement and copy number gain in non-small cell lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1429228800000,
+  "updates": [
+    {
+      "timestamp": 1496058142017,
+      "identifier": {
+        "doi": "10.1007/s00428-015-1775-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00428-014-1679-2"
+  },
+  "journal": "Virchows Archiv",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ROS1 gene rearrangement and copy number gain in non-small cell lung cancer"
+}

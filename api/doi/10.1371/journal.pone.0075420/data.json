@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1371/annotation/f5b113a4-62bf-41e8-8bdd-fc99271b9d1e","type":"correction"},"doi":"10.1371/journal.pone.0075420","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identification and Structural Characterization of Interneurons of the Drosophila Brain by Monoclonal Antibodies of the Würzburg Hybridoma Library"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496049701123,
+      "identifier": {
+        "doi": "10.1371/annotation/f5b113a4-62bf-41e8-8bdd-fc99271b9d1e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075420"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identification and Structural Characterization of Interneurons of the Drosophila Brain by Monoclonal Antibodies of the Würzburg Hybridoma Library"
+}

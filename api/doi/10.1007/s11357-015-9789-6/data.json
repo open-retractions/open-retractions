@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436227200000,"doi":"10.1007/s11357-015-9810-0","type":"correction"},"doi":"10.1007/s11357-015-9789-6","journal":"AGE","publisher":"Springer Nature","title":"Erratum to: Analysis of gene expression during aging of CGNs in culture: implication of SLIT2 and NPY in senescence"}
+{
+  "retracted": false,
+  "timestamp": 1436227200000,
+  "updates": [
+    {
+      "timestamp": 1496013578653,
+      "identifier": {
+        "doi": "10.1007/s11357-015-9810-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11357-015-9789-6"
+  },
+  "journal": "AGE",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysis of gene expression during aging of CGNs in culture: implication of SLIT2 and NPY in senescence"
+}

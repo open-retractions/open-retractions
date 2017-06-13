@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.chest.2016.03.029","type":"err"},"doi":"10.1016/j.chest.2015.12.003","journal":"Chest","publisher":"Elsevier BV","title":"Correction to Figure legend in: Vessels of the Central Airways: A Bronchoscopic Perspective"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495673498119,
+      "identifier": {
+        "doi": "10.1016/j.chest.2016.03.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chest.2015.12.003"
+  },
+  "journal": "Chest",
+  "publisher": "Elsevier BV",
+  "title": "Correction to Figure legend in: Vessels of the Central Airways: A Bronchoscopic Perspective"
+}

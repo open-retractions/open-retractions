@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1007/s11416-016-0285-z","type":"correction"},"doi":"10.1007/s11416-016-0280-4","journal":"Journal of Computer Virology and Hacking Techniques","publisher":"Springer Nature","title":"Erratum to: Evolution and characterization of point-of-sale RAM scraping malware"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495742256558,
+      "identifier": {
+        "doi": "10.1007/s11416-016-0285-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11416-016-0280-4"
+  },
+  "journal": "Journal of Computer Virology and Hacking Techniques",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evolution and characterization of point-of-sale RAM scraping malware"
+}

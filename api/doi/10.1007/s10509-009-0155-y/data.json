@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1261612800000,"doi":"10.1007/s10509-009-0238-9","type":"correction"},"doi":"10.1007/s10509-009-0155-y","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Preface"}
+{
+  "retracted": false,
+  "timestamp": 1261612800000,
+  "updates": [
+    {
+      "timestamp": 1495808947762,
+      "identifier": {
+        "doi": "10.1007/s10509-009-0238-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-009-0155-y"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Preface"
+}

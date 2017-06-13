@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379635200000,"doi":"10.1016/j.ces.2013.04.016","type":"err"},"doi":"10.1016/j.ces.2011.12.022","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Erratum to “Determination of the metastable ice zone for a sodium sulphate system,” [Chem. Eng. Sci. 77 (2012) 184–188]"}
+{
+  "retracted": false,
+  "timestamp": 1379635200000,
+  "updates": [
+    {
+      "timestamp": 1496033491215,
+      "identifier": {
+        "doi": "10.1016/j.ces.2013.04.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2011.12.022"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Determination of the metastable ice zone for a sodium sulphate system,” [Chem. Eng. Sci. 77 (2012) 184–188]"
+}

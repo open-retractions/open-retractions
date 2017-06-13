@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1103241600000,"doi":"10.1186/bcr990","type":"correction"},"doi":"10.1186/bcr899","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Transcriptomic changes in human breast cancer progression as determined by serial analysis of gene expression"}
+{
+  "retracted": false,
+  "timestamp": 1103241600000,
+  "updates": [
+    {
+      "timestamp": 1495878577789,
+      "identifier": {
+        "doi": "10.1186/bcr990"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bcr899"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transcriptomic changes in human breast cancer progression as determined by serial analysis of gene expression"
+}

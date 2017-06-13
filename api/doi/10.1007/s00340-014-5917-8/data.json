@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417910400000,"doi":"10.1007/s00340-014-5971-2","type":"correction"},"doi":"10.1007/s00340-014-5917-8","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: High-accuracy coherent optical frequency transfer over a doubled 642-km fiber link"}
+{
+  "retracted": false,
+  "timestamp": 1417910400000,
+  "updates": [
+    {
+      "timestamp": 1496028978758,
+      "identifier": {
+        "doi": "10.1007/s00340-014-5971-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-014-5917-8"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High-accuracy coherent optical frequency transfer over a doubled 642-km fiber link"
+}

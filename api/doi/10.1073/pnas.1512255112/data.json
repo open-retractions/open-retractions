@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1073/pnas.1521907112","type":"correction"},"doi":"10.1073/pnas.1512255112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Marques et al., Holocentromeres inRhynchosporaare associated with genome-wide centromere-specific repeat arrays interspersed among euchromatin"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496048191378,
+      "identifier": {
+        "doi": "10.1073/pnas.1521907112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1512255112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Marques et al., Holocentromeres inRhynchosporaare associated with genome-wide centromere-specific repeat arrays interspersed among euchromatin"
+}

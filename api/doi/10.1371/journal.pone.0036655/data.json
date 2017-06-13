@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338854400000,"doi":"10.1371/annotation/e1bf2a26-2299-4126-bd5f-6710aacfb1e5","type":"correction"},"doi":"10.1371/journal.pone.0036655","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: GSK-3 Activity Is Critical for the Orientation of the Cortical Microtubules and the Dorsoventral Axis Determination in Zebrafish Embryos"}
+{
+  "retracted": false,
+  "timestamp": 1338854400000,
+  "updates": [
+    {
+      "timestamp": 1495911763619,
+      "identifier": {
+        "doi": "10.1371/annotation/e1bf2a26-2299-4126-bd5f-6710aacfb1e5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0036655"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: GSK-3 Activity Is Critical for the Orientation of the Cortical Microtubules and the Dorsoventral Axis Determination in Zebrafish Embryos"
+}

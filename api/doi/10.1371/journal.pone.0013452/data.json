@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288224000000,"doi":"10.1371/annotation/a2019934-b1cc-4781-80cb-9e09fc7ff6dc","type":"correction"},"doi":"10.1371/journal.pone.0013452","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Dopamine Metabolite 3-Methoxytyramine Is a Neuromodulator"}
+{
+  "retracted": false,
+  "timestamp": 1288224000000,
+  "updates": [
+    {
+      "timestamp": 1495893844544,
+      "identifier": {
+        "doi": "10.1371/annotation/a2019934-b1cc-4781-80cb-9e09fc7ff6dc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0013452"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Dopamine Metabolite 3-Methoxytyramine Is a Neuromodulator"
+}

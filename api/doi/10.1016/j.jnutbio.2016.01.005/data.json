@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.jnutbio.2016.08.001","type":"err"},"doi":"10.1016/j.jnutbio.2016.01.005","journal":"The Journal of Nutritional Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Dietary interesterified fat enriched with palmitic acid induces atherosclerosis by impairing macrophage cholesterol efflux and eliciting inflammation” [J Nutr Biochem 32C (2016) 91–100]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495643819299,
+      "identifier": {
+        "doi": "10.1016/j.jnutbio.2016.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnutbio.2016.01.005"
+  },
+  "journal": "The Journal of Nutritional Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dietary interesterified fat enriched with palmitic acid induces atherosclerosis by impairing macrophage cholesterol efflux and eliciting inflammation” [J Nutr Biochem 32C (2016) 91–100]"
+}

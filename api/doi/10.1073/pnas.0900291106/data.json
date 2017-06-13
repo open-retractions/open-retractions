@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1240876800000,"doi":"10.1073/pnas.0906817106","type":"correction"},"doi":"10.1073/pnas.0900291106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Qin and Zhou, Dissection of the high rate constant for the binding of a ribotoxin to the ribosome"}
+{
+  "retracted": false,
+  "timestamp": 1240876800000,
+  "updates": [
+    {
+      "timestamp": 1495959797680,
+      "identifier": {
+        "doi": "10.1073/pnas.0906817106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0900291106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Qin and Zhou, Dissection of the high rate constant for the binding of a ribotoxin to the ribosome"
+}

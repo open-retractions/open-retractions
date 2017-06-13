@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1186/s13054-016-1524-x","type":"correction"},"doi":"10.1186/s13054-016-1440-0","journal":"Critical Care","publisher":"Springer Nature","title":"Erratum to: The right ventricle: interaction with the pulmonary circulation"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495656383242,
+      "identifier": {
+        "doi": "10.1186/s13054-016-1524-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13054-016-1440-0"
+  },
+  "journal": "Critical Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The right ventricle: interaction with the pulmonary circulation"
+}

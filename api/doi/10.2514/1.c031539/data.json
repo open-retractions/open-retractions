@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461283200000,"doi":"10.2514/1.c033214","type":"correction"},"doi":"10.2514/1.c031539","journal":"Journal of Aircraft","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Verification of Variational–Asymptotic Sectional Analysis for Initially Curved and Twisted Beams"}
+{
+  "retracted": false,
+  "timestamp": 1461283200000,
+  "updates": [
+    {
+      "timestamp": 1495664684594,
+      "identifier": {
+        "doi": "10.2514/1.c033214"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.c031539"
+  },
+  "journal": "Journal of Aircraft",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Verification of Variational–Asymptotic Sectional Analysis for Initially Curved and Twisted Beams"
+}

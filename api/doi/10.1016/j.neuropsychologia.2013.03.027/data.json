@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.neuropsychologia.2014.10.028","type":"err"},"doi":"10.1016/j.neuropsychologia.2013.03.027","journal":"Neuropsychologia","publisher":"Elsevier BV","title":"Corrigendum to “Linking time-on-task, spatial bias and hemispheric activation asymmetry: A neural correlate of rightward attention drift” [Neuropsychologia 51 (2013) 1215–1223]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496018923171,
+      "identifier": {
+        "doi": "10.1016/j.neuropsychologia.2014.10.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuropsychologia.2013.03.027"
+  },
+  "journal": "Neuropsychologia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Linking time-on-task, spatial bias and hemispheric activation asymmetry: A neural correlate of rightward attention drift” [Neuropsychologia 51 (2013) 1215–1223]"
+}

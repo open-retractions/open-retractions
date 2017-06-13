@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441843200000,"doi":"10.1179/1083319615z.000000000211","type":"correction"},"doi":"10.1179/1743288x15y.0000000012","journal":"Physical Therapy Reviews","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1441843200000,
+  "updates": [
+    {
+      "timestamp": 1496029445698,
+      "identifier": {
+        "doi": "10.1179/1083319615z.000000000211"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1743288x15y.0000000012"
+  },
+  "journal": "Physical Therapy Reviews",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

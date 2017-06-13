@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1268956800000,"doi":"10.1371/annotation/c786d141-fd0f-45fd-80ec-96d80be620dc","type":"correction"},"doi":"10.1371/journal.pone.0008124","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Telomere Dynamics in Human Cells Reprogrammed to Pluripotency"}
+{
+  "retracted": false,
+  "timestamp": 1268956800000,
+  "updates": [
+    {
+      "timestamp": 1496025197293,
+      "identifier": {
+        "doi": "10.1371/annotation/c786d141-fd0f-45fd-80ec-96d80be620dc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0008124"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Telomere Dynamics in Human Cells Reprogrammed to Pluripotency"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1016/j.enconman.2016.06.026","type":"erratum"},"doi":"10.1016/j.enconman.2016.04.056","journal":"Energy Conversion and Management","publisher":"Elsevier BV","title":"Corrigendum to “Fuel suitability for homogeneous charge compression ignition combustion” [Energy Convers Manage 119 (2016) 304–315]"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495721255851,
+      "identifier": {
+        "doi": "10.1016/j.enconman.2016.06.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enconman.2016.04.056"
+  },
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fuel suitability for homogeneous charge compression ignition combustion” [Energy Convers Manage 119 (2016) 304–315]"
+}

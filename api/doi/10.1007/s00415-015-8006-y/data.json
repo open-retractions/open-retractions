@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1007/s00415-016-8068-5","type":"correction"},"doi":"10.1007/s00415-015-8006-y","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Increased risk of tumor in DM1 is not related to exposure to common lifestyle risk factors"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648055142,
+      "identifier": {
+        "doi": "10.1007/s00415-016-8068-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-015-8006-y"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Increased risk of tumor in DM1 is not related to exposure to common lifestyle risk factors"
+}

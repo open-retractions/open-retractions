@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427155200000,"doi":"10.1007/s00285-015-0858-3","type":"correction"},"doi":"10.1007/s00285-012-0579-9","journal":"Journal of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Extending the type reproduction number to infectious disease control targeting contacts between types"}
+{
+  "retracted": false,
+  "timestamp": 1427155200000,
+  "updates": [
+    {
+      "timestamp": 1496051853080,
+      "identifier": {
+        "doi": "10.1007/s00285-015-0858-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00285-012-0579-9"
+  },
+  "journal": "Journal of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Extending the type reproduction number to infectious disease control targeting contacts between types"
+}

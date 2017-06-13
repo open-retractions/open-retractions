@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482105600000,"doi":"10.1007/s10404-016-1833-z","type":"correction"},"doi":"10.1007/s10404-016-1826-y","journal":"Microfluidics and Nanofluidics","publisher":"Springer Nature","title":"Erratum to: An experimental characterization of a tunable separation device"}
+{
+  "retracted": false,
+  "timestamp": 1482105600000,
+  "updates": [
+    {
+      "timestamp": 1495667918181,
+      "identifier": {
+        "doi": "10.1007/s10404-016-1833-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10404-016-1826-y"
+  },
+  "journal": "Microfluidics and Nanofluidics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An experimental characterization of a tunable separation device"
+}

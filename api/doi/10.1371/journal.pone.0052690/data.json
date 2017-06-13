@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379376000000,"doi":"10.1371/annotation/3e3f4f53-4492-4c6e-8426-364bd585b9b8","type":"correction"},"doi":"10.1371/journal.pone.0052690","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Internal Organization of Mycobacterial Partition Assembly: Does the DNA Wrap a Protein Core?"}
+{
+  "retracted": false,
+  "timestamp": 1379376000000,
+  "updates": [
+    {
+      "timestamp": 1496047216292,
+      "identifier": {
+        "doi": "10.1371/annotation/3e3f4f53-4492-4c6e-8426-364bd585b9b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0052690"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Internal Organization of Mycobacterial Partition Assembly: Does the DNA Wrap a Protein Core?"
+}

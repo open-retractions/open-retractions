@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.scitotenv.2016.01.168","type":"err"},"doi":"10.1016/j.scitotenv.2015.09.093","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Ambient volatile organic compounds and their effect on ozone production in Wuhan, central China” [Sci. Total Environ. 541 (2016) 200–209]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495642290444,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2016.01.168"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2015.09.093"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ambient volatile organic compounds and their effect on ozone production in Wuhan, central China” [Sci. Total Environ. 541 (2016) 200–209]"
+}

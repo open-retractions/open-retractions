@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359676800000,"doi":"10.2337/db13-er02","type":"correction"},"doi":"10.2337/db12-0006","journal":"Diabetes","publisher":"American Diabetes Association","title":"B-Cell cross-presentation of autologous antigen precipitates diabetes. Diabetes 2012;61:2893-2905"}
+{
+  "retracted": false,
+  "timestamp": 1359676800000,
+  "updates": [
+    {
+      "timestamp": 1495975445404,
+      "identifier": {
+        "doi": "10.2337/db13-er02"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db12-0006"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "B-Cell cross-presentation of autologous antigen precipitates diabetes. Diabetes 2012;61:2893-2905"
+}

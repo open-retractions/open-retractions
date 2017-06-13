@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.yjmcc.2015.02.023","type":"err"},"doi":"10.1016/j.yjmcc.2014.05.015","journal":"Journal of Molecular and Cellular Cardiology","publisher":"Elsevier BV","title":"Corrigendum to ‘High density lipoprotein from patients with valvular heart disease uncouples endothelial nitric oxide synthase’ [J Mol Cell Cardiol 74 (2014) 209–219]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496049585433,
+      "identifier": {
+        "doi": "10.1016/j.yjmcc.2015.02.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yjmcc.2014.05.015"
+  },
+  "journal": "Journal of Molecular and Cellular Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘High density lipoprotein from patients with valvular heart disease uncouples endothelial nitric oxide synthase’ [J Mol Cell Cardiol 74 (2014) 209–219]"
+}

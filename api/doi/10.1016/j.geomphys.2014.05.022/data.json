@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.geomphys.2015.06.002","type":"err"},"doi":"10.1016/j.geomphys.2014.05.022","journal":"Journal of Geometry and Physics","publisher":"Elsevier BV","title":"Corrigendum to “The four-dimensional Martínez Alonso–Shabat equation: Differential coverings and recursion operators” [J. Geom. Phys. 85 (2014) 75–80]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496009903094,
+      "identifier": {
+        "doi": "10.1016/j.geomphys.2015.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geomphys.2014.05.022"
+  },
+  "journal": "Journal of Geometry and Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The four-dimensional Martínez Alonso–Shabat equation: Differential coverings and recursion operators” [J. Geom. Phys. 85 (2014) 75–80]"
+}

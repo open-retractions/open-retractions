@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407369600000,"doi":"10.1136/bmj.g5080","type":"correction"},"doi":"10.1136/bmj.g4857","journal":"BMJ","publisher":"BMJ","title":"GP commissioners not spending enough on mental health, claims Labour"}
+{
+  "retracted": false,
+  "timestamp": 1407369600000,
+  "updates": [
+    {
+      "timestamp": 1495998850496,
+      "identifier": {
+        "doi": "10.1136/bmj.g5080"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g4857"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "GP commissioners not spending enough on mental health, claims Labour"
+}

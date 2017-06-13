@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.1186/s40529-017-0174-x","type":"correction"},"doi":"10.1186/s40529-016-0129-7","journal":"Botanical Studies","publisher":"Springer Nature","title":"Erratum to: Endocarps of menispermaceous plants in Taiwan"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495736719946,
+      "identifier": {
+        "doi": "10.1186/s40529-017-0174-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40529-016-0129-7"
+  },
+  "journal": "Botanical Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Endocarps of menispermaceous plants in Taiwan"
+}

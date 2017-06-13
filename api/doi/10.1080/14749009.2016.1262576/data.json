@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485734400000,"doi":"10.1080/14749009.2017.1284975","type":"correction"},"doi":"10.1080/14749009.2016.1262576","journal":"Mining Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485734400000,
+  "updates": [
+    {
+      "timestamp": 1495679806725,
+      "identifier": {
+        "doi": "10.1080/14749009.2017.1284975"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14749009.2016.1262576"
+  },
+  "journal": "Mining Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

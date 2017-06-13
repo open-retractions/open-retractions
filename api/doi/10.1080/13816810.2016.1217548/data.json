@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484611200000,"doi":"10.1080/13816810.2016.1247534","type":"correction"},"doi":"10.1080/13816810.2016.1217548","journal":"Ophthalmic Genetics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484611200000,
+  "updates": [
+    {
+      "timestamp": 1495676735709,
+      "identifier": {
+        "doi": "10.1080/13816810.2016.1247534"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13816810.2016.1217548"
+  },
+  "journal": "Ophthalmic Genetics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

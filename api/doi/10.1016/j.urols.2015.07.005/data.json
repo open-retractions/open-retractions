@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.urols.2016.06.001","type":"err"},"doi":"10.1016/j.urols.2015.07.005","journal":"Urological Science","publisher":"Elsevier BV","title":"Corrigendum to “Less pain perceived in transrectal ultrasound of prostate using microconvex transducer as compared to biplaned linear transducer” [Urol Sci 27 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495730796162,
+      "identifier": {
+        "doi": "10.1016/j.urols.2016.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.urols.2015.07.005"
+  },
+  "journal": "Urological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Less pain perceived in transrectal ultrasound of prostate using microconvex transducer as compared to biplaned linear transducer” [Urol Sci 27 (2015)]"
+}

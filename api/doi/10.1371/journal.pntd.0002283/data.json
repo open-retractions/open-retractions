@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384732800000,"doi":"10.1371/annotation/20cc3a69-d7d3-49d2-bea4-1759e95a1e09","type":"correction"},"doi":"10.1371/journal.pntd.0002283","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Advances in the Diagnosis of Endemic Treponematoses: Yaws, Bejel, and Pinta"}
+{
+  "retracted": false,
+  "timestamp": 1384732800000,
+  "updates": [
+    {
+      "timestamp": 1495991929283,
+      "identifier": {
+        "doi": "10.1371/annotation/20cc3a69-d7d3-49d2-bea4-1759e95a1e09"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0002283"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Advances in the Diagnosis of Endemic Treponematoses: Yaws, Bejel, and Pinta"
+}

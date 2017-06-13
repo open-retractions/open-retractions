@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1209427200000,"doi":"10.1371/journal.pbio.0060091","type":"correction"},"doi":"10.1371/journal.pbio.0050300","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Distinct Mammalian Precursors Are Committed to Generate Neurons with Defined Dendritic Projection Patterns"}
+{
+  "retracted": false,
+  "timestamp": 1209427200000,
+  "updates": [
+    {
+      "timestamp": 1495847530831,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0060091"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0050300"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Distinct Mammalian Precursors Are Committed to Generate Neurons with Defined Dendritic Projection Patterns"
+}

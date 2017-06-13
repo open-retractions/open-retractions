@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1007/jhep06(2016)037","type":"correction"},"doi":"10.1007/jhep09(2010)034","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Bound-state effects on kinematical distributions of top quarks at hadron colliders"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495719142907,
+      "identifier": {
+        "doi": "10.1007/jhep06(2016)037"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep09(2010)034"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bound-state effects on kinematical distributions of top quarks at hadron colliders"
+}

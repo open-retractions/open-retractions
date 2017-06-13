@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.soilbio.2017.01.011","type":"erratum"},"doi":"10.1016/j.soilbio.2014.05.002","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Changes in the composition and diversity of AMF communities mediated by management practices in a Mediterranean soil are related with increases in soil biological activity” [Soil Biol. Biochem., 76 (2014) 34–44]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495678659120,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2017.01.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2014.05.002"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Changes in the composition and diversity of AMF communities mediated by management practices in a Mediterranean soil are related with increases in soil biological activity” [Soil Biol. Biochem., 76 (2014) 34–44]"
+}

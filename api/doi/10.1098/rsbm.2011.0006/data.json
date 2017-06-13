@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1323648000000,"doi":"10.1098/rsbm.2012.0035","type":"correction"},"doi":"10.1098/rsbm.2011.0006","journal":"Biographical Memoirs of Fellows of the Royal Society","publisher":"The Royal Society","title":"Correction for Clifford Hiley Mortimer. 27 February 1911 -- 11 May 2010"}
+{
+  "retracted": false,
+  "timestamp": 1323648000000,
+  "updates": [
+    {
+      "timestamp": 1495940213840,
+      "identifier": {
+        "doi": "10.1098/rsbm.2012.0035"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbm.2011.0006"
+  },
+  "journal": "Biographical Memoirs of Fellows of the Royal Society",
+  "publisher": "The Royal Society",
+  "title": "Correction for Clifford Hiley Mortimer. 27 February 1911 -- 11 May 2010"
+}

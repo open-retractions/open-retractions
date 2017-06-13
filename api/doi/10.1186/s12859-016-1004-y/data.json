@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1186/s12859-016-1155-x","type":"correction"},"doi":"10.1186/s12859-016-1004-y","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: eSTGt: a programming and simulation environment for population dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495736678353,
+      "identifier": {
+        "doi": "10.1186/s12859-016-1155-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-016-1004-y"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: eSTGt: a programming and simulation environment for population dynamics"
+}

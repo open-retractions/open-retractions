@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439683200000,"doi":"10.1016/j.ejor.2015.03.028","type":"err"},"doi":"10.1016/j.ejor.2014.12.039","journal":"European Journal of Operational Research","publisher":"Elsevier BV","title":"Erratum to “Mathematical programming techniques in water network optimization” [Eur. J. Oper. Res. 243 (2015) 774–788]"}
+{
+  "retracted": false,
+  "timestamp": 1439683200000,
+  "updates": [
+    {
+      "timestamp": 1496056603720,
+      "identifier": {
+        "doi": "10.1016/j.ejor.2015.03.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejor.2014.12.039"
+  },
+  "journal": "European Journal of Operational Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Mathematical programming techniques in water network optimization” [Eur. J. Oper. Res. 243 (2015) 774–788]"
+}

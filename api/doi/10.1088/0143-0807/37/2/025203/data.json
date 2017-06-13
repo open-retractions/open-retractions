@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1088/0143-0807/37/3/039601","type":"correction"},"doi":"10.1088/0143-0807/37/2/025203","journal":"European Journal of Physics","publisher":"IOP Publishing","title":"Erratum: Modelling the magnetic dipole (2016Eur. J. Phys.37 025203)"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495654273307,
+      "identifier": {
+        "doi": "10.1088/0143-0807/37/3/039601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0143-0807/37/2/025203"
+  },
+  "journal": "European Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Modelling the magnetic dipole (2016Eur. J. Phys.37 025203)"
+}

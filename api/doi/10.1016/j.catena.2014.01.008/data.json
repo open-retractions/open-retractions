@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.catena.2015.05.026","type":"err"},"doi":"10.1016/j.catena.2014.01.008","journal":"CATENA","publisher":"Elsevier BV","title":"Corrigendum to “Use and misuse of the K factor equation in soil erosion modeling” [Catena 118 (2014) 220–225]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496007710904,
+      "identifier": {
+        "doi": "10.1016/j.catena.2015.05.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.catena.2014.01.008"
+  },
+  "journal": "CATENA",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Use and misuse of the K factor equation in soil erosion modeling” [Catena 118 (2014) 220–225]"
+}

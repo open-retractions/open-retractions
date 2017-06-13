@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1154044800000,"doi":"10.1371/journal.pgen.0020126","type":"correction"},"doi":"10.1371/journal.pgen.0020096","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: The Life-Cycle of Operons"}
+{
+  "retracted": false,
+  "timestamp": 1154044800000,
+  "updates": [
+    {
+      "timestamp": 1495833899142,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.0020126"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.0020096"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Life-Cycle of Operons"
+}

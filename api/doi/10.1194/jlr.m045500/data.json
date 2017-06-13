@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1194/jlr.m045500err","type":"correction"},"doi":"10.1194/jlr.m045500","journal":"Journal of Lipid Research","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495724026824,
+      "identifier": {
+        "doi": "10.1194/jlr.m045500err"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1194/jlr.m045500"
+  },
+  "journal": "Journal of Lipid Research",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "ERRATUM"
+}

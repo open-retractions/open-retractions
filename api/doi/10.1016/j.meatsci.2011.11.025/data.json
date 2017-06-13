@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.meatsci.2014.06.018","type":"err"},"doi":"10.1016/j.meatsci.2011.11.025","journal":"Meat Science","publisher":"Elsevier BV","title":"Corrigendum to: “Analysis of MC4R polymorphism in Italian Large White and Italian Duroc pigs: Association with carcass traits” [Meat Science 90/4, 2012, 887–892]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496051371622,
+      "identifier": {
+        "doi": "10.1016/j.meatsci.2014.06.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.meatsci.2011.11.025"
+  },
+  "journal": "Meat Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Analysis of MC4R polymorphism in Italian Large White and Italian Duroc pigs: Association with carcass traits” [Meat Science 90/4, 2012, 887–892]"
+}

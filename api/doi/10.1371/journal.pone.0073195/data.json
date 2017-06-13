@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380499200000,"doi":"10.1371/annotation/9ae8db84-5d44-4a9c-bb80-47c9d68820ea","type":"correction"},"doi":"10.1371/journal.pone.0073195","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The CD44highTumorigenic Subsets in Lung Cancer Biospecimens Are Enriched for Low miR-34a Expression"}
+{
+  "retracted": false,
+  "timestamp": 1380499200000,
+  "updates": [
+    {
+      "timestamp": 1496050334636,
+      "identifier": {
+        "doi": "10.1371/annotation/9ae8db84-5d44-4a9c-bb80-47c9d68820ea"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073195"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The CD44highTumorigenic Subsets in Lung Cancer Biospecimens Are Enriched for Low miR-34a Expression"
+}

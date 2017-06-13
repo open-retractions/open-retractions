@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.epsl.2014.08.016","type":"err"},"doi":"10.1016/j.epsl.2014.06.012","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Erratum to “Eocene rotation of Sardinia, and the paleogeography of the western Mediterranean region” [Earth Planet. Sci. Lett. 401 (2014) 183–195]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1495998692689,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2014.08.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2014.06.012"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Eocene rotation of Sardinia, and the paleogeography of the western Mediterranean region” [Earth Planet. Sci. Lett. 401 (2014) 183–195]"
+}

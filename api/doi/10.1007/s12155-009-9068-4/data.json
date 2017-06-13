@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1280361600000,"doi":"10.1007/s12155-010-9100-8","type":"correction"},"doi":"10.1007/s12155-009-9068-4","journal":"BioEnergy Research","publisher":"Springer Nature","title":"Erratum to: Cell Wall Composition and Ruminant Digestibility of Various Maize Tissues Across Development"}
+{
+  "retracted": false,
+  "timestamp": 1280361600000,
+  "updates": [
+    {
+      "timestamp": 1495865630023,
+      "identifier": {
+        "doi": "10.1007/s12155-010-9100-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12155-009-9068-4"
+  },
+  "journal": "BioEnergy Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cell Wall Composition and Ruminant Digestibility of Various Maize Tissues Across Development"
+}

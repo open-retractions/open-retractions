@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.neo.2016.06.005","type":"err"},"doi":"10.1016/j.neo.2016.03.003","journal":"Neoplasia","publisher":"Elsevier BV","title":"Corrigendum to “PIAS1-FAK Interaction Promotes the Survival and Progression of Non–Small Cell Lung Cancer” [Neoplasia 18 (2016) 282-293]."}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495726657495,
+      "identifier": {
+        "doi": "10.1016/j.neo.2016.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neo.2016.03.003"
+  },
+  "journal": "Neoplasia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PIAS1-FAK Interaction Promotes the Survival and Progression of Non–Small Cell Lung Cancer” [Neoplasia 18 (2016) 282-293]."
+}

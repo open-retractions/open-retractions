@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1371/journal.pone.0149826","type":"correction"},"doi":"10.1371/journal.pone.0128288","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Arsenic Trioxide Sensitizes Glioblastoma to a Myc Inhibitor"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645174085,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0149826"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0128288"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Arsenic Trioxide Sensitizes Glioblastoma to a Myc Inhibitor"
+}

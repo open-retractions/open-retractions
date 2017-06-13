@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.cbpb.2014.01.005","type":"err"},"doi":"10.1016/j.cbpb.2012.12.001","journal":"Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “Genetic ontogeny of pancreatic enzymes in Labrus bergylta larvae and the effect of feed type on enzyme activities and gene expression” [Comp. Biochem. Physiol. B 164 (2013) 176–184]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496016788512,
+      "identifier": {
+        "doi": "10.1016/j.cbpb.2014.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpb.2012.12.001"
+  },
+  "journal": "Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic ontogeny of pancreatic enzymes in Labrus bergylta larvae and the effect of feed type on enzyme activities and gene expression” [Comp. Biochem. Physiol. B 164 (2013) 176–184]"
+}

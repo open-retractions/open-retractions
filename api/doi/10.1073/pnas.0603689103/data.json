@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1168905600000,"doi":"10.1073/pnas.0610824104","type":"correction"},"doi":"10.1073/pnas.0603689103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Shoshani et al., A proboscidean from the late Oligocene of Eritrea, a ‘missing link’ between early Elephantiformes and Elephantimorpha, and biogeographic implications: Table 2."}
+{
+  "retracted": false,
+  "timestamp": 1168905600000,
+  "updates": [
+    {
+      "timestamp": 1495921936147,
+      "identifier": {
+        "doi": "10.1073/pnas.0610824104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0603689103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Shoshani et al., A proboscidean from the late Oligocene of Eritrea, a ‘missing link’ between early Elephantiformes and Elephantimorpha, and biogeographic implications: Table 2."
+}

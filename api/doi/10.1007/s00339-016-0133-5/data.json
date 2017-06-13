@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465862400000,"doi":"10.1007/s00339-016-0176-7","type":"correction"},"doi":"10.1007/s00339-016-0133-5","journal":"Applied Physics A","publisher":"Springer Nature","title":"Erratum to: Progress of p-channel bottom-gate poly-Si thin-film transistor by nickel silicide seed-induced lateral crystallization"}
+{
+  "retracted": false,
+  "timestamp": 1465862400000,
+  "updates": [
+    {
+      "timestamp": 1495720355002,
+      "identifier": {
+        "doi": "10.1007/s00339-016-0176-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00339-016-0133-5"
+  },
+  "journal": "Applied Physics A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Progress of p-channel bottom-gate poly-Si thin-film transistor by nickel silicide seed-induced lateral crystallization"
+}

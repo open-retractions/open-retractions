@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bmc.2015.02.025","type":"err"},"doi":"10.1016/j.bmc.2014.11.013","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “A dual inhibitor of matrix metalloproteinases and a disintegrin and metalloproteinases, [18F]FB-ML5, as a molecular probe for non-invasive MMP/ADAM-targeted imaging” [Bioorg. Med. Chem. 23 (2014) 192–202]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496047431086,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.02.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2014.11.013"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A dual inhibitor of matrix metalloproteinases and a disintegrin and metalloproteinases, [18F]FB-ML5, as a molecular probe for non-invasive MMP/ADAM-targeted imaging” [Bioorg. Med. Chem. 23 (2014) 192–202]"
+}

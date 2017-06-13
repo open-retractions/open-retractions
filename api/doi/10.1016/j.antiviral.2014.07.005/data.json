@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.antiviral.2014.12.001","type":"err"},"doi":"10.1016/j.antiviral.2014.07.005","journal":"Antiviral Research","publisher":"Elsevier BV","title":"Corrigendum to “Endothelial cells in dengue hemorrhagic fever” [Antiviral Res. 109 (2014) 160–170]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496029488465,
+      "identifier": {
+        "doi": "10.1016/j.antiviral.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.antiviral.2014.07.005"
+  },
+  "journal": "Antiviral Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Endothelial cells in dengue hemorrhagic fever” [Antiviral Res. 109 (2014) 160–170]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.meatsci.2015.03.003","type":"err"},"doi":"10.1016/j.meatsci.2014.06.004","journal":"Meat Science","publisher":"Elsevier BV","title":"Corrigendum to ‘Prediction of intramuscular fat levels in Texel lamb loins using X-ray computed tomography scanning’ [Meat Science 98/2 (2014) 263–271]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496049682532,
+      "identifier": {
+        "doi": "10.1016/j.meatsci.2015.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.meatsci.2014.06.004"
+  },
+  "journal": "Meat Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Prediction of intramuscular fat levels in Texel lamb loins using X-ray computed tomography scanning’ [Meat Science 98/2 (2014) 263–271]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447545600000,"doi":"10.1016/j.ejphar.2015.10.045","type":"err"},"doi":"10.1016/j.ejphar.2015.08.004","journal":"European Journal of Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to ‘Suppressive effect of membrane-permeable peptides derived from autophosphorylation sites of the IGF-1 receptor on breast cancer cells’ [Eur J Pharmacol 765 (2015) 24–33]"}
+{
+  "retracted": false,
+  "timestamp": 1447545600000,
+  "updates": [
+    {
+      "timestamp": 1496043624252,
+      "identifier": {
+        "doi": "10.1016/j.ejphar.2015.10.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejphar.2015.08.004"
+  },
+  "journal": "European Journal of Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Suppressive effect of membrane-permeable peptides derived from autophosphorylation sites of the IGF-1 receptor on breast cancer cells’ [Eur J Pharmacol 765 (2015) 24–33]"
+}

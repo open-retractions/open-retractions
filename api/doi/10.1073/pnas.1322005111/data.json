@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1073/pnas.1405180111","type":"correction"},"doi":"10.1073/pnas.1322005111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tompkins et al., Testing Turing's theory of morphogenesis in chemical cells"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496028637291,
+      "identifier": {
+        "doi": "10.1073/pnas.1405180111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1322005111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tompkins et al., Testing Turing's theory of morphogenesis in chemical cells"
+}

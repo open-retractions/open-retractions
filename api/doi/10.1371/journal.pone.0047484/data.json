@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352332800000,"doi":"10.1371/annotation/d2dbf233-db12-431f-b9b6-4bd31cbca23e","type":"correction"},"doi":"10.1371/journal.pone.0047484","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Muscarinic and Nicotinic Modulation of Thalamo-Prefrontal Cortex Synaptic Pasticity In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1352332800000,
+  "updates": [
+    {
+      "timestamp": 1495979837226,
+      "identifier": {
+        "doi": "10.1371/annotation/d2dbf233-db12-431f-b9b6-4bd31cbca23e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0047484"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Muscarinic and Nicotinic Modulation of Thalamo-Prefrontal Cortex Synaptic Pasticity In Vivo"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.bone.2013.06.001","type":"err"},"doi":"10.1016/j.bone.2012.09.001","journal":"Bone","publisher":"Elsevier BV","title":"Corrigendum to “Osteoblast migration into type I collagen gel and differentiation to osteocyte-like cells within a self-produced mineralized matrix: A novel system for analyzing differentiation from osteoblast to osteocyte” [Bone 52 (2013) 102–110]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496024073713,
+      "identifier": {
+        "doi": "10.1016/j.bone.2013.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2012.09.001"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Osteoblast migration into type I collagen gel and differentiation to osteocyte-like cells within a self-produced mineralized matrix: A novel system for analyzing differentiation from osteoblast to osteocyte” [Bone 52 (2013) 102–110]"
+}

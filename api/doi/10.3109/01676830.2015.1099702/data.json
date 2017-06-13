@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464652800000,"doi":"10.1080/01676830.2016.1178978","type":"correction"},"doi":"10.3109/01676830.2015.1099702","journal":"Orbit","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464652800000,
+  "updates": [
+    {
+      "timestamp": 1495717232773,
+      "identifier": {
+        "doi": "10.1080/01676830.2016.1178978"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/01676830.2015.1099702"
+  },
+  "journal": "Orbit",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

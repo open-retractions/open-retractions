@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369872000000,"doi":"10.1016/j.celrep.2013.05.019","type":"err"},"doi":"10.1016/j.celrep.2013.04.001","journal":"Cell Reports","publisher":"Elsevier BV","title":"Morphological and Molecular Characterization of Adult Midgut Compartmentalization in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1369872000000,
+  "updates": [
+    {
+      "timestamp": 1496023133415,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.05.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.04.001"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Morphological and Molecular Characterization of Adult Midgut Compartmentalization in Drosophila"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1277164800000,"doi":"10.1073/pnas.1007564107","type":"correction"},"doi":"10.1073/pnas.0908083106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hu et al., GluN2B subunit-containing NMDA receptor antagonists prevent Aβ-mediated synaptic plasticity disruption in vivo"}
+{
+  "retracted": false,
+  "timestamp": 1277164800000,
+  "updates": [
+    {
+      "timestamp": 1495855836171,
+      "identifier": {
+        "doi": "10.1073/pnas.1007564107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0908083106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hu et al., GluN2B subunit-containing NMDA receptor antagonists prevent Aβ-mediated synaptic plasticity disruption in vivo"
+}

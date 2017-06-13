@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.ejca.2016.03.007","type":"err"},"doi":"10.1016/j.ejca.2015.11.001","journal":"European Journal of Cancer","publisher":"Elsevier BV","title":"Corrigendum to “Genetic heterogeneity after first-line chemotherapy in high-grade serous ovarian cancer” [Eur J Cancer 53 (2016) 51–64]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495672114629,
+      "identifier": {
+        "doi": "10.1016/j.ejca.2016.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejca.2015.11.001"
+  },
+  "journal": "European Journal of Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic heterogeneity after first-line chemotherapy in high-grade serous ovarian cancer” [Eur J Cancer 53 (2016) 51–64]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1164931200000,"doi":"10.1098/rsbm.2008.3000","type":"correction"},"doi":"10.1098/rsbm.2006.0007","journal":"Biographical Memoirs of Fellows of the Royal Society","publisher":"The Royal Society","title":"Correction for Holliday and Flavell, John Robert Stanley Fincham. 11 August 1926 - 9 February 2005"}
+{
+  "retracted": false,
+  "timestamp": 1164931200000,
+  "updates": [
+    {
+      "timestamp": 1495986977300,
+      "identifier": {
+        "doi": "10.1098/rsbm.2008.3000"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbm.2006.0007"
+  },
+  "journal": "Biographical Memoirs of Fellows of the Royal Society",
+  "publisher": "The Royal Society",
+  "title": "Correction for Holliday and Flavell, John Robert Stanley Fincham. 11 August 1926 - 9 February 2005"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.ibiod.2013.06.014","type":"err"},"doi":"10.1016/j.ibiod.2013.03.008","journal":"International Biodeterioration & Biodegradation","publisher":"Elsevier BV","title":"Corrigendum to “Biochemical characterization of three keratinolytic enzymes from Stenotrophomonas maltophilia BBE11-1 for biodegrading keratin wastes” [Int. Biodeterior. Biodegrad. 82 (2013) 166–172]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496031222517,
+      "identifier": {
+        "doi": "10.1016/j.ibiod.2013.06.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ibiod.2013.03.008"
+  },
+  "journal": "International Biodeterioration & Biodegradation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Biochemical characterization of three keratinolytic enzymes from Stenotrophomonas maltophilia BBE11-1 for biodegrading keratin wastes” [Int. Biodeterior. Biodegrad. 82 (2013) 166–172]"
+}

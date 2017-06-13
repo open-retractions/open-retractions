@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1007/s10836-015-5558-9","type":"correction"},"doi":"10.1007/s10836-015-5544-2","journal":"Journal of Electronic Testing","publisher":"Springer Nature","title":"Erratum to: Speeding Up Logic Locking via Fault Emulation and Dynamic Multiple Fault Injection"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496053155554,
+      "identifier": {
+        "doi": "10.1007/s10836-015-5558-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10836-015-5544-2"
+  },
+  "journal": "Journal of Electronic Testing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Speeding Up Logic Locking via Fault Emulation and Dynamic Multiple Fault Injection"
+}

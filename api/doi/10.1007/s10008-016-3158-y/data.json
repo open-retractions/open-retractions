@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1007/s10008-016-3183-x","type":"correction"},"doi":"10.1007/s10008-016-3158-y","journal":"Journal of Solid State Electrochemistry","publisher":"Springer Nature","title":"Erratum to: Comprehensive interrogation of electrochemical reaction and energy conversion of a direct fucose fuel cell"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495655684220,
+      "identifier": {
+        "doi": "10.1007/s10008-016-3183-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10008-016-3158-y"
+  },
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comprehensive interrogation of electrochemical reaction and energy conversion of a direct fucose fuel cell"
+}

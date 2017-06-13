@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396742400000,"doi":"10.1016/j.tox.2014.02.005","type":"err"},"doi":"10.1016/j.tox.2013.06.003","journal":"Toxicology","publisher":"Elsevier BV","title":"Erratum to “Intraperitoneal administration of high doses of polyethylene glycol (PEG) causes hepatic subcapsular necrosis and low-grade peritonitis with a rise in hepatic biomarkers” [314 (2–3) (2013) 262–266]"}
+{
+  "retracted": false,
+  "timestamp": 1396742400000,
+  "updates": [
+    {
+      "timestamp": 1496017630458,
+      "identifier": {
+        "doi": "10.1016/j.tox.2014.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tox.2013.06.003"
+  },
+  "journal": "Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Intraperitoneal administration of high doses of polyethylene glycol (PEG) causes hepatic subcapsular necrosis and low-grade peritonitis with a rise in hepatic biomarkers” [314 (2–3) (2013) 262–266]"
+}

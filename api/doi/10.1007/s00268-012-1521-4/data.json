@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339632000000,"doi":"10.1007/s00268-012-1678-x","type":"correction"},"doi":"10.1007/s00268-012-1521-4","journal":"World Journal of Surgery","publisher":"Springer Nature","title":"Erratum to: Evaluation of the Appendicitis Inflammatory Response Score for Patients with Acute Appendicitis"}
+{
+  "retracted": false,
+  "timestamp": 1339632000000,
+  "updates": [
+    {
+      "timestamp": 1495913547588,
+      "identifier": {
+        "doi": "10.1007/s00268-012-1678-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00268-012-1521-4"
+  },
+  "journal": "World Journal of Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evaluation of the Appendicitis Inflammatory Response Score for Patients with Acute Appendicitis"
+}

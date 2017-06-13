@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488153600000,"doi":"10.1007/s00204-016-1929-y","type":"correction"},"doi":"10.1007/s00204-016-1885-6","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Erratum to: Inhibition of pannexin1 channels alleviates acetaminophen-induced hepatotoxicity"}
+{
+  "retracted": false,
+  "timestamp": 1488153600000,
+  "updates": [
+    {
+      "timestamp": 1495723551022,
+      "identifier": {
+        "doi": "10.1007/s00204-016-1929-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-016-1885-6"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inhibition of pannexin1 channels alleviates acetaminophen-induced hepatotoxicity"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.recesp.2015.05.002","type":"err"},"doi":"10.1016/j.recesp.2014.09.013","journal":"Revista Española de Cardiología","publisher":"Elsevier BV","title":"Corrección en el artículo de Catalán-Sanz «Comentarios a la evaluación del dolor torácico agudo mediante ecocardiografía de ejercicio y tomografía computarizada multidetectores», Rev Esp Cardiol. 2015;68:164-5"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496003356414,
+      "identifier": {
+        "doi": "10.1016/j.recesp.2015.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.recesp.2014.09.013"
+  },
+  "journal": "Revista Española de Cardiología",
+  "publisher": "Elsevier BV",
+  "title": "Corrección en el artículo de Catalán-Sanz «Comentarios a la evaluación del dolor torácico agudo mediante ecocardiografía de ejercicio y tomografía computarizada multidetectores», Rev Esp Cardiol. 2015;68:164-5"
+}

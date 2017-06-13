@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.yhbeh.2015.08.004","type":"err"},"doi":"10.1016/j.yhbeh.2009.08.005","journal":"Hormones and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Testosterone related to age and life-history stages in male baboons and geladas” [Horm. Behav. 56/4 (2009) 472–480]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496025371570,
+      "identifier": {
+        "doi": "10.1016/j.yhbeh.2015.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yhbeh.2009.08.005"
+  },
+  "journal": "Hormones and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Testosterone related to age and life-history stages in male baboons and geladas” [Horm. Behav. 56/4 (2009) 472–480]"
+}

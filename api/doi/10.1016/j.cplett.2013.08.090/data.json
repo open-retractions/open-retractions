@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429228800000,"doi":"10.1016/j.cplett.2015.03.023","type":"err"},"doi":"10.1016/j.cplett.2013.08.090","journal":"Chemical Physics Letters","publisher":"Elsevier BV","title":"Corrigendum to “Resolution of a significant discrepancy in the electron impact excitation of the 3s[3/2]1 and 3s′[1/2]1 low-lying electronic states in neon” [Chem. Phys. Lett. 585 (2013) 33]"}
+{
+  "retracted": false,
+  "timestamp": 1429228800000,
+  "updates": [
+    {
+      "timestamp": 1496056885932,
+      "identifier": {
+        "doi": "10.1016/j.cplett.2015.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cplett.2013.08.090"
+  },
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Resolution of a significant discrepancy in the electron impact excitation of the 3s[3/2]1 and 3s′[1/2]1 low-lying electronic states in neon” [Chem. Phys. Lett. 585 (2013) 33]"
+}

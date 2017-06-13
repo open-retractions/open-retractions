@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.neuroimage.2015.10.054","type":"err"},"doi":"10.1016/j.neuroimage.2012.03.023","journal":"NeuroImage","publisher":"Elsevier BV","title":"Erratum to “Subfields of the hippocampal formation at 7T MRI: In vivo volumetric assessment” [NeuroImage 61 (2012) 1043–1049]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496041219509,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2015.10.054"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2012.03.023"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Subfields of the hippocampal formation at 7T MRI: In vivo volumetric assessment” [NeuroImage 61 (2012) 1043–1049]"
+}

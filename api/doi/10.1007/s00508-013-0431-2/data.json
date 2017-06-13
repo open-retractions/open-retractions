@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1007/s00508-014-0532-6","type":"correction"},"doi":"10.1007/s00508-013-0431-2","journal":"Wiener klinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Differences in the metabolic status of healthy adults with and without active brown adipose tissue"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496024620935,
+      "identifier": {
+        "doi": "10.1007/s00508-014-0532-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00508-013-0431-2"
+  },
+  "journal": "Wiener klinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Differences in the metabolic status of healthy adults with and without active brown adipose tissue"
+}

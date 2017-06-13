@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430352000000,"doi":"10.1063/1.4919437","type":"correction"},"doi":"10.1063/1.4894469","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Physical apparatus parameters and model for vibrating tube densimeters at pressures to 140 MPa and temperatures to 473 K” [Rev. Sci. Instrum. 85, 095111 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1430352000000,
+  "updates": [
+    {
+      "timestamp": 1495997109348,
+      "identifier": {
+        "doi": "10.1063/1.4919437"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4894469"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Physical apparatus parameters and model for vibrating tube densimeters at pressures to 140 MPa and temperatures to 473 K” [Rev. Sci. Instrum. 85, 095111 (2014)]"
+}

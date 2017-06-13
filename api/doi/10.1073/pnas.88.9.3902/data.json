@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":682214400000,"doi":"10.1073/pnas.88.16.7456c","type":"correction"},"doi":"10.1073/pnas.88.9.3902","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Nucleokinesis: Distinct pattern of cell translocation in response to an autocrine motility factor-like substance or fibronectin"}
+{
+  "retracted": false,
+  "timestamp": 682214400000,
+  "updates": [
+    {
+      "timestamp": 1495847321687,
+      "identifier": {
+        "doi": "10.1073/pnas.88.16.7456c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.88.9.3902"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Nucleokinesis: Distinct pattern of cell translocation in response to an autocrine motility factor-like substance or fibronectin"
+}

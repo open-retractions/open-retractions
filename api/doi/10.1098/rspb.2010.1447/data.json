@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1297036800000,"doi":"10.1098/rspb.2012.1017","type":"correction"},"doi":"10.1098/rspb.2010.1447","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Nutritional state and collective motion: from individuals to mass migration"}
+{
+  "retracted": false,
+  "timestamp": 1297036800000,
+  "updates": [
+    {
+      "timestamp": 1495909483856,
+      "identifier": {
+        "doi": "10.1098/rspb.2012.1017"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2010.1447"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Nutritional state and collective motion: from individuals to mass migration"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1080/20403313.2017.1279399","type":"correction"},"doi":"10.1080/20403313.2016.1237570","journal":"Jurisprudence","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495670526814,
+      "identifier": {
+        "doi": "10.1080/20403313.2017.1279399"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/20403313.2016.1237570"
+  },
+  "journal": "Jurisprudence",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

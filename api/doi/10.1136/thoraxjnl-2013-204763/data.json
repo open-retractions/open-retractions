@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1136/thoraxjnl-2013-204763corr1","type":"correction"},"doi":"10.1136/thoraxjnl-2013-204763","journal":"Thorax","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1495999392133,
+      "identifier": {
+        "doi": "10.1136/thoraxjnl-2013-204763corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/thoraxjnl-2013-204763"
+  },
+  "journal": "Thorax",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

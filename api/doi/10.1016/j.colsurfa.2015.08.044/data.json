@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465084800000,"doi":"10.1016/j.colsurfa.2016.02.030","type":"err"},"doi":"10.1016/j.colsurfa.2015.08.044","journal":"Colloids and Surfaces A: Physicochemical and Engineering Aspects","publisher":"Elsevier BV","title":"Erratum to “Standardization and validation of a protocol of zeta potential measurements by electrophoretic light scattering for nanomaterial characterization” [Colloids Surf. A: Physicochem. Eng. Aspects 486 (2015) 218–231]"}
+{
+  "retracted": false,
+  "timestamp": 1465084800000,
+  "updates": [
+    {
+      "timestamp": 1495660597558,
+      "identifier": {
+        "doi": "10.1016/j.colsurfa.2016.02.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.colsurfa.2015.08.044"
+  },
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Standardization and validation of a protocol of zeta potential measurements by electrophoretic light scattering for nanomaterial characterization” [Colloids Surf. A: Physicochem. Eng. Aspects 486 (2015) 218–231]"
+}

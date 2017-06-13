@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468368000000,"doi":"10.1080/14702029.2016.1212501","type":"correction"},"doi":"10.1080/14702029.2016.1179443","journal":"Journal of Visual Art Practice","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1468368000000,
+  "updates": [
+    {
+      "timestamp": 1495728252080,
+      "identifier": {
+        "doi": "10.1080/14702029.2016.1212501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14702029.2016.1179443"
+  },
+  "journal": "Journal of Visual Art Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

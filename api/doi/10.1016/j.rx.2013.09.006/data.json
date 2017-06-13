@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.rx.2015.02.001","type":"err"},"doi":"10.1016/j.rx.2013.09.006","journal":"Radiología","publisher":"Elsevier BV","title":"Fe de errores de «Función sistólica del ventrículo izquierdo: cómo comprenderla y analizarla»"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496056698380,
+      "identifier": {
+        "doi": "10.1016/j.rx.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rx.2013.09.006"
+  },
+  "journal": "Radiología",
+  "publisher": "Elsevier BV",
+  "title": "Fe de errores de «Función sistólica del ventrículo izquierdo: cómo comprenderla y analizarla»"
+}

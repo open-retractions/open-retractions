@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.1073/pnas.1401722111","type":"correction"},"doi":"10.1073/pnas.0609401103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chu et al., Purified vitamin K epoxide reductase alone is sufficient for conversion of vitamin K epoxide to vitamin K and vitamin K to vitamin KH2"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1494686261647,
+      "identifier": {
+        "doi": "10.1073/pnas.1401722111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0609401103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chu et al., Purified vitamin K epoxide reductase alone is sufficient for conversion of vitamin K epoxide to vitamin K and vitamin K to vitamin KH2"
+}

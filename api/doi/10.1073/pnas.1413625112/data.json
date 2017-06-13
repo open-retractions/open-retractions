@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1073/pnas.1507465112","type":"correction"},"doi":"10.1073/pnas.1413625112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kim et al., Cortically projecting basal forebrain parvalbumin neurons regulate cortical gamma band oscillations"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1495997153439,
+      "identifier": {
+        "doi": "10.1073/pnas.1507465112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1413625112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kim et al., Cortically projecting basal forebrain parvalbumin neurons regulate cortical gamma band oscillations"
+}

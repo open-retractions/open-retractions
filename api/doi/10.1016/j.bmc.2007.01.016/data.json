@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.bmc.2017.03.025","type":"erratum"},"doi":"10.1016/j.bmc.2007.01.016","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and biological activity of 2,5-diaryl-3-methylpyrimido[4,5- c ]quinolin-1(2 H )-one derivatives” [Bioorg. Med. Chem. 15 (2007) 2434–2440]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495731237701,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2017.03.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2007.01.016"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and biological activity of 2,5-diaryl-3-methylpyrimido[4,5- c ]quinolin-1(2 H )-one derivatives” [Bioorg. Med. Chem. 15 (2007) 2434–2440]"
+}

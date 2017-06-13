@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.amsu.2015.12.058","type":"err"},"doi":"10.1016/j.amsu.2015.10.007","journal":"Annals of Medicine and Surgery","publisher":"Elsevier BV","title":"Corrigendum to ‘A rare case of fibrostenotic endobronchial tuberculosis of trachea’ [Ann. Med. Surg. 4 (2015) 479–482]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496058399353,
+      "identifier": {
+        "doi": "10.1016/j.amsu.2015.12.058"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amsu.2015.10.007"
+  },
+  "journal": "Annals of Medicine and Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A rare case of fibrostenotic endobronchial tuberculosis of trachea’ [Ann. Med. Surg. 4 (2015) 479–482]"
+}

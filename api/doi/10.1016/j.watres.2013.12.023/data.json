@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.watres.2014.05.046","type":"err"},"doi":"10.1016/j.watres.2013.12.023","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Bacterial communities in a bioelectrochemical denitrification system: The effects of supplemental electron acceptors” [Water Res. 51 (2014) pp. 25–36]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496045283830,
+      "identifier": {
+        "doi": "10.1016/j.watres.2014.05.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2013.12.023"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bacterial communities in a bioelectrochemical denitrification system: The effects of supplemental electron acceptors” [Water Res. 51 (2014) pp. 25–36]"
+}

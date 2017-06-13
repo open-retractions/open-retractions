@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414454400000,"doi":"10.1016/j.jconrel.2014.08.008","type":"err"},"doi":"10.1016/j.jconrel.2014.05.033","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to ‘Prolonged survival upon ultrasound-enhanced doxorubicin delivery in two syngenic glioblastoma mouse models’ [Journal of Controlled Release, Volume 187 (10 August 2014), Pages 74–82]"}
+{
+  "retracted": false,
+  "timestamp": 1414454400000,
+  "updates": [
+    {
+      "timestamp": 1496001127877,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2014.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2014.05.033"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Prolonged survival upon ultrasound-enhanced doxorubicin delivery in two syngenic glioblastoma mouse models’ [Journal of Controlled Release, Volume 187 (10 August 2014), Pages 74–82]"
+}

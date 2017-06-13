@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1016/j.snb.2014.09.076","type":"err"},"doi":"10.1016/j.snb.2013.11.102","journal":"Sensors and Actuators B: Chemical","publisher":"Elsevier BV","title":"Corrigendum to “Work function based sensing of alkanes and alcohols with benzene tricarboxylate linked metal organic frameworks” [Sens. Actuators B 193 (2014) 911–917]"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496009537214,
+      "identifier": {
+        "doi": "10.1016/j.snb.2014.09.076"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.snb.2013.11.102"
+  },
+  "journal": "Sensors and Actuators B: Chemical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Work function based sensing of alkanes and alcohols with benzene tricarboxylate linked metal organic frameworks” [Sens. Actuators B 193 (2014) 911–917]"
+}

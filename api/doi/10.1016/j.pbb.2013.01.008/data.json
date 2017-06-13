@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.pbb.2013.10.011","type":"err"},"doi":"10.1016/j.pbb.2013.01.008","journal":"Pharmacology Biochemistry and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Synthetic Retinoid Am80 Results in Improved Exploratory and Emotional Behavior in the P8 Substrain of Senescence-Accelerated Mice” [Pharmacol. Biochem. Behav. 104 (2013) 1– 9]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496056469153,
+      "identifier": {
+        "doi": "10.1016/j.pbb.2013.10.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbb.2013.01.008"
+  },
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthetic Retinoid Am80 Results in Improved Exploratory and Emotional Behavior in the P8 Substrain of Senescence-Accelerated Mice” [Pharmacol. Biochem. Behav. 104 (2013) 1– 9]"
+}

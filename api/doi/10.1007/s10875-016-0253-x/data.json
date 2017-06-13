@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1007/s10875-016-0285-2","type":"correction"},"doi":"10.1007/s10875-016-0253-x","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: The Elements Steering Pathogenesis in IgG-Mediated Alloimmune Diseases"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669745539,
+      "identifier": {
+        "doi": "10.1007/s10875-016-0285-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-016-0253-x"
+  },
+  "journal": "Journal of Clinical Immunology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Elements Steering Pathogenesis in IgG-Mediated Alloimmune Diseases"
+}

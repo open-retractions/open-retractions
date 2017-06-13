@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453766400000,"doi":"10.1371/journal.pcbi.1004733","type":"correction"},"doi":"10.1371/journal.pcbi.1003973","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Comprehensive Sieve Analysis of Breakthrough HIV-1 Sequences in the RV144 Vaccine Efficacy Trial"}
+{
+  "retracted": false,
+  "timestamp": 1453766400000,
+  "updates": [
+    {
+      "timestamp": 1495640118640,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003973"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comprehensive Sieve Analysis of Breakthrough HIV-1 Sequences in the RV144 Vaccine Efficacy Trial"
+}

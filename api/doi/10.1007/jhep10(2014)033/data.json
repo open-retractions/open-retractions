@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421020800000,"doi":"10.1007/jhep01(2015)041","type":"correction"},"doi":"10.1007/jhep10(2014)033","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Wino-like Minimal Dark Matter and future colliders"}
+{
+  "retracted": false,
+  "timestamp": 1421020800000,
+  "updates": [
+    {
+      "timestamp": 1496037299537,
+      "identifier": {
+        "doi": "10.1007/jhep01(2015)041"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep10(2014)033"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Wino-like Minimal Dark Matter and future colliders"
+}

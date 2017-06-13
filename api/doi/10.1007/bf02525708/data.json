@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231372800000,"doi":"10.1007/bf02524848","type":"correction"},"doi":"10.1007/bf02525708","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: Predictor stabilisation of reduction formulae for observations of heavily-damped simple harmonic motions"}
+{
+  "retracted": false,
+  "timestamp": 1231372800000,
+  "updates": [
+    {
+      "timestamp": 1495919004619,
+      "identifier": {
+        "doi": "10.1007/bf02524848"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02525708"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Predictor stabilisation of reduction formulae for observations of heavily-damped simple harmonic motions"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462579200000,"doi":"10.1016/j.jtbi.2016.03.022","type":"err"},"doi":"10.1016/j.jtbi.2015.09.025","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"Corrigendum to ‘‘PDCD5 interacts with p53 and functions as a regulator of p53 dynamics in the DNA damage response’’ [J. Theor. Biol., 388 (2016) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1462579200000,
+  "updates": [
+    {
+      "timestamp": 1495655975459,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2016.03.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2015.09.025"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘PDCD5 interacts with p53 and functions as a regulator of p53 dynamics in the DNA damage response’’ [J. Theor. Biol., 388 (2016) 1–10]"
+}

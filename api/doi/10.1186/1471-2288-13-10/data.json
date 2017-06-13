@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1186/1471-2288-13-160","type":"correction"},"doi":"10.1186/1471-2288-13-10","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: Qualitative systematic reviews of treatment burden in stroke, heart failure and diabetes - Methodological challenges and solutions"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496011772389,
+      "identifier": {
+        "doi": "10.1186/1471-2288-13-160"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2288-13-10"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Qualitative systematic reviews of treatment burden in stroke, heart failure and diabetes - Methodological challenges and solutions"
+}

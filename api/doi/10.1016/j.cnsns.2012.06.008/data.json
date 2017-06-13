@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.cnsns.2015.02.012","type":"err"},"doi":"10.1016/j.cnsns.2012.06.008","journal":"Communications in Nonlinear Science and Numerical Simulation","publisher":"Elsevier BV","title":"Corrigendum to “Modified fractional Euler method for solving Fuzzy Fractional Initial Value Problem” [Commun Nonlinear Sci Numer Simul 18 (2013) 12–21]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496049466744,
+      "identifier": {
+        "doi": "10.1016/j.cnsns.2015.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cnsns.2012.06.008"
+  },
+  "journal": "Communications in Nonlinear Science and Numerical Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modified fractional Euler method for solving Fuzzy Fractional Initial Value Problem” [Commun Nonlinear Sci Numer Simul 18 (2013) 12–21]"
+}

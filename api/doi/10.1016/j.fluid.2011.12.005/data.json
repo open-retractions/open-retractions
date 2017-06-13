@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395705600000,"doi":"10.1016/j.fluid.2014.01.023","type":"err"},"doi":"10.1016/j.fluid.2011.12.005","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “A rapid and robust alternative to Rachford–Rice in flash calculations” [Fluid Phase Equilib. 316 (2012) 85–97]"}
+{
+  "retracted": false,
+  "timestamp": 1395705600000,
+  "updates": [
+    {
+      "timestamp": 1496019251757,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2014.01.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2011.12.005"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A rapid and robust alternative to Rachford–Rice in flash calculations” [Fluid Phase Equilib. 316 (2012) 85–97]"
+}

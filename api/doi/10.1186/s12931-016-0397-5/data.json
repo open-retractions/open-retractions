@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475798400000,"doi":"10.1186/s12931-016-0444-2","type":"correction"},"doi":"10.1186/s12931-016-0397-5","journal":"Respiratory Research","publisher":"Springer Nature","title":"Erratum to: Risk factors for mortality in patients admitted to intensive care units with pneumonia"}
+{
+  "retracted": false,
+  "timestamp": 1475798400000,
+  "updates": [
+    {
+      "timestamp": 1495646936251,
+      "identifier": {
+        "doi": "10.1186/s12931-016-0444-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12931-016-0397-5"
+  },
+  "journal": "Respiratory Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Risk factors for mortality in patients admitted to intensive care units with pneumonia"
+}

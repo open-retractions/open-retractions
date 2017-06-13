@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1119312000000,"doi":"10.1073/pnas.0503695102","type":"correction"},"doi":"10.1073/pnas.0501719102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhao et al., Detection and characterization of the product of hydroethidine and intracellular superoxide by HPLC and limitations of fluorescence, PNAS 2005 102:5727-5732"}
+{
+  "retracted": false,
+  "timestamp": 1119312000000,
+  "updates": [
+    {
+      "timestamp": 1495942268932,
+      "identifier": {
+        "doi": "10.1073/pnas.0503695102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0501719102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhao et al., Detection and characterization of the product of hydroethidine and intracellular superoxide by HPLC and limitations of fluorescence, PNAS 2005 102:5727-5732"
+}

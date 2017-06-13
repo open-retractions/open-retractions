@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427414400000,"doi":"10.1007/s10895-015-1562-9","type":"correction"},"doi":"10.1007/s10895-015-1512-6","journal":"Journal of Fluorescence","publisher":"Springer Nature","title":"Erratum to: Biophysical Interactions of Novel Oleic Acid Conjugate and its Anticancer Potential in HeLa Cells"}
+{
+  "retracted": false,
+  "timestamp": 1427414400000,
+  "updates": [
+    {
+      "timestamp": 1496053243928,
+      "identifier": {
+        "doi": "10.1007/s10895-015-1562-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10895-015-1512-6"
+  },
+  "journal": "Journal of Fluorescence",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biophysical Interactions of Novel Oleic Acid Conjugate and its Anticancer Potential in HeLa Cells"
+}

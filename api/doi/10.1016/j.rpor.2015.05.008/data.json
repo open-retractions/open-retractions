@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.rpor.2015.10.001","type":"err"},"doi":"10.1016/j.rpor.2015.05.008","journal":"Reports of Practical Oncology & Radiotherapy","publisher":"Elsevier BV","title":"Erratum to: “Pancreatic cancer and SBRT: A new potential option?” [Rep. Pract. Oncol. Radiother. 20 (2015) 377–384]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496047178754,
+      "identifier": {
+        "doi": "10.1016/j.rpor.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rpor.2015.05.008"
+  },
+  "journal": "Reports of Practical Oncology & Radiotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Pancreatic cancer and SBRT: A new potential option?” [Rep. Pract. Oncol. Radiother. 20 (2015) 377–384]"
+}

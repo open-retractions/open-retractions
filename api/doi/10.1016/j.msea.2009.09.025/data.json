@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386633600000,"doi":"10.1016/j.msea.2013.09.060","type":"err"},"doi":"10.1016/j.msea.2009.09.025","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to “Effects of minor scandium on as-cast microstructure, mechanical properties and casting fluidity of ZA84 magnesium Alloy” [Mater. Sci. Eng. A 527 (2009) 1074–1081]"}
+{
+  "retracted": false,
+  "timestamp": 1386633600000,
+  "updates": [
+    {
+      "timestamp": 1496051472140,
+      "identifier": {
+        "doi": "10.1016/j.msea.2013.09.060"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2009.09.025"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Effects of minor scandium on as-cast microstructure, mechanical properties and casting fluidity of ZA84 magnesium Alloy” [Mater. Sci. Eng. A 527 (2009) 1074–1081]"
+}

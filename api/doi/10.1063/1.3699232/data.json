@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1063/1.4847855","type":"correction"},"doi":"10.1063/1.3699232","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Theoretical predictions of properties of group-2 elements including element 120 and their adsorption on noble metal surfaces” [J. Chem. Phys. 136, 134317 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496005727512,
+      "identifier": {
+        "doi": "10.1063/1.4847855"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3699232"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Theoretical predictions of properties of group-2 elements including element 120 and their adsorption on noble metal surfaces” [J. Chem. Phys. 136, 134317 (2012)]"
+}

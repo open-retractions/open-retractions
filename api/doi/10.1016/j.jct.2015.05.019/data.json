@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.jct.2015.06.027","type":"err"},"doi":"10.1016/j.jct.2015.05.019","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Erratum to “Measurement and correlation of the solubility of genistin in eleven organic solvents from T=(283.2 to 323.2)K” [J. Chem. Thermodyn. 89 (2015) 142–147]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496014959429,
+      "identifier": {
+        "doi": "10.1016/j.jct.2015.06.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2015.05.019"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Measurement and correlation of the solubility of genistin in eleven organic solvents from T=(283.2 to 323.2)K” [J. Chem. Thermodyn. 89 (2015) 142–147]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.heares.2014.11.004","type":"err"},"doi":"10.1016/j.heares.2014.04.002","journal":"Hearing Research","publisher":"Elsevier BV","title":"Corrigendum to “Loudness perception affected by early age hearing loss” [Hear. Res. 313 (2014), 18–25]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496039223822,
+      "identifier": {
+        "doi": "10.1016/j.heares.2014.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.heares.2014.04.002"
+  },
+  "journal": "Hearing Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Loudness perception affected by early age hearing loss” [Hear. Res. 313 (2014), 18–25]"
+}

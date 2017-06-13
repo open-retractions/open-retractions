@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488153600000,"doi":"10.1007/s12020-017-1259-8","type":"correction"},"doi":"10.1007/s12020-016-1096-1","journal":"Endocrine","publisher":"Springer Nature","title":"Erratum to: CD28/CTLA-4/ICOS haplotypes confers susceptibility to Graves’ disease and modulates clinical phenotype of disease"}
+{
+  "retracted": false,
+  "timestamp": 1488153600000,
+  "updates": [
+    {
+      "timestamp": 1495723631111,
+      "identifier": {
+        "doi": "10.1007/s12020-017-1259-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12020-016-1096-1"
+  },
+  "journal": "Endocrine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CD28/CTLA-4/ICOS haplotypes confers susceptibility to Graves’ disease and modulates clinical phenotype of disease"
+}

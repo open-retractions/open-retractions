@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ultras.2014.02.018","type":"err"},"doi":"10.1016/j.ultras.2014.01.007","journal":"Ultrasonics","publisher":"Elsevier BV","title":"Corrigendum to “Measurement of viscosity of highly viscous non-Newtonian fluids by means of ultrasonic guided waves” [Ultrasonics 54 (2014) 1104–1112]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496021338935,
+      "identifier": {
+        "doi": "10.1016/j.ultras.2014.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ultras.2014.01.007"
+  },
+  "journal": "Ultrasonics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measurement of viscosity of highly viscous non-Newtonian fluids by means of ultrasonic guided waves” [Ultrasonics 54 (2014) 1104–1112]"
+}

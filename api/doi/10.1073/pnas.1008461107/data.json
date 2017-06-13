@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1282608000000,"doi":"10.1073/pnas.1211889109","type":"correction"},"doi":"10.1073/pnas.1008461107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Xiao et al., Global phosphorylation analysis of  -arrestin-mediated signaling downstream of a seven transmembrane receptor (7TMR)"}
+{
+  "retracted": false,
+  "timestamp": 1282608000000,
+  "updates": [
+    {
+      "timestamp": 1495935408892,
+      "identifier": {
+        "doi": "10.1073/pnas.1211889109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1008461107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Xiao et al., Global phosphorylation analysis of  -arrestin-mediated signaling downstream of a seven transmembrane receptor (7TMR)"
+}

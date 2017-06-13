@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1007/s13364-015-0228-y","type":"correction"},"doi":"10.1007/s13364-015-0220-6","journal":"Mammal Research","publisher":"Springer Nature","title":"Erratum to: Long-distance dispersal of a wolf, Canis lupus, in northwestern Europe"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1495998800138,
+      "identifier": {
+        "doi": "10.1007/s13364-015-0228-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13364-015-0220-6"
+  },
+  "journal": "Mammal Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Long-distance dispersal of a wolf, Canis lupus, in northwestern Europe"
+}

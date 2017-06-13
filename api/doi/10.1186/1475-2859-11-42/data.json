@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438214400000,"doi":"10.1186/s12934-015-0297-2","type":"correction"},"doi":"10.1186/1475-2859-11-42","journal":"Microbial Cell Factories","publisher":"Springer Nature","title":"Erratum to: Biosynthesis of caffeic acid in Escherichia coli using its endogenous hydroxylase complex"}
+{
+  "retracted": false,
+  "timestamp": 1438214400000,
+  "updates": [
+    {
+      "timestamp": 1496018790625,
+      "identifier": {
+        "doi": "10.1186/s12934-015-0297-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1475-2859-11-42"
+  },
+  "journal": "Microbial Cell Factories",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biosynthesis of caffeic acid in Escherichia coli using its endogenous hydroxylase complex"
+}

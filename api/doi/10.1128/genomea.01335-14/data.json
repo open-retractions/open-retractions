@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482969600000,"doi":"10.1128/genomea.01372-16","type":"correction"},"doi":"10.1128/genomea.01335-14","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"n Correction for Pradeep et al., Draft Genome Sequence ofn Elizabethkingia anophelesn , Isolated from a Postoperative Endophthalmitis Patientn "}
+{
+  "retracted": false,
+  "timestamp": 1482969600000,
+  "updates": [
+    {
+      "timestamp": 1495665922895,
+      "identifier": {
+        "doi": "10.1128/genomea.01372-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01335-14"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "\n            Correction for Pradeep et al., Draft Genome Sequence of\n            Elizabethkingia anopheles\n            , Isolated from a Postoperative Endophthalmitis Patient\n          "
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.eswa.2016.06.007","type":"erratum"},"doi":"10.1016/j.eswa.2016.03.031","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Corrigendum to “Unsupervised method for sentiment analysis in online texts” Expert Systems with Applications 58 (2016) 57–75"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495719917615,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2016.06.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2016.03.031"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Unsupervised method for sentiment analysis in online texts” Expert Systems with Applications 58 (2016) 57–75"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1266278400000,"doi":"10.1073/pnas.1303075110","type":"correction"},"doi":"10.1073/pnas.0915072107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhang et al., Downstream class switching leads to IgE antibody production by B lymphocytes lacking IgM switch regions"}
+{
+  "retracted": false,
+  "timestamp": 1266278400000,
+  "updates": [
+    {
+      "timestamp": 1496003742586,
+      "identifier": {
+        "doi": "10.1073/pnas.1303075110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0915072107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhang et al., Downstream class switching leads to IgE antibody production by B lymphocytes lacking IgM switch regions"
+}

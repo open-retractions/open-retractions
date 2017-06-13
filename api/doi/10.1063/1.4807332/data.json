@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374105600000,"doi":"10.1063/1.4816486","type":"correction"},"doi":"10.1063/1.4807332","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Nonlocal van der Waals functionals: The case of rare-gas dimers and solids” [J. Chem. Phys. 138, 204103 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1374105600000,
+  "updates": [
+    {
+      "timestamp": 1496034195541,
+      "identifier": {
+        "doi": "10.1063/1.4816486"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4807332"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Nonlocal van der Waals functionals: The case of rare-gas dimers and solids” [J. Chem. Phys. 138, 204103 (2013)]"
+}

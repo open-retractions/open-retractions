@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.snb.2016.12.138","type":"erratum"},"doi":"10.1016/j.snb.2016.09.188","journal":"Sensors and Actuators B: Chemical","publisher":"Elsevier BV","title":"Corrigendum to “Label-free quantitative detection of nucleic acids based on surface-immobilized DNA intercalators” [Sens. Actuators B: Chem. 241 (2017) 1310–1315]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495676048807,
+      "identifier": {
+        "doi": "10.1016/j.snb.2016.12.138"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.snb.2016.09.188"
+  },
+  "journal": "Sensors and Actuators B: Chemical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Label-free quantitative detection of nucleic acids based on surface-immobilized DNA intercalators” [Sens. Actuators B: Chem. 241 (2017) 1310–1315]"
+}

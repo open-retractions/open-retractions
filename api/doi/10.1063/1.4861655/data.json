@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400716800000,"doi":"10.1063/1.4879640","type":"correction"},"doi":"10.1063/1.4861655","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher’s Note: “Cyan laser diode grown by plasma-assisted molecular beam epitaxy” [Appl. Phys. Lett. 104, 023503 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1400716800000,
+  "updates": [
+    {
+      "timestamp": 1496040673074,
+      "identifier": {
+        "doi": "10.1063/1.4879640"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4861655"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Cyan laser diode grown by plasma-assisted molecular beam epitaxy” [Appl. Phys. Lett. 104, 023503 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449532800000,"doi":"10.1080/21520844.2015.1100497","type":"correction"},"doi":"10.1080/21520844.2015.1050625","journal":"The Journal of the Middle East and Africa","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1449532800000,
+  "updates": [
+    {
+      "timestamp": 1496051068690,
+      "identifier": {
+        "doi": "10.1080/21520844.2015.1100497"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21520844.2015.1050625"
+  },
+  "journal": "The Journal of the Middle East and Africa",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

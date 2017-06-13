@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1269302400000,"doi":"10.1073/pnas.1005825107","type":"correction"},"doi":"10.1073/pnas.0910798107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ren et al., RAS1, a quantitative trait locus for salt tolerance and ABA sensitivity in Arabidopsis"}
+{
+  "retracted": false,
+  "timestamp": 1269302400000,
+  "updates": [
+    {
+      "timestamp": 1495842943142,
+      "identifier": {
+        "doi": "10.1073/pnas.1005825107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0910798107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ren et al., RAS1, a quantitative trait locus for salt tolerance and ABA sensitivity in Arabidopsis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455840000000,"doi":"10.1186/s12858-016-0059-8","type":"correction"},"doi":"10.1186/s12858-015-0050-9","journal":"BMC Biochemistry","publisher":"Springer Nature","title":"Erratum to: Purification and characterization of a cytochrome c with novel caspase-3 activation activity from the pathogenic fungus Rhizopus arrhizus"}
+{
+  "retracted": false,
+  "timestamp": 1455840000000,
+  "updates": [
+    {
+      "timestamp": 1495646156611,
+      "identifier": {
+        "doi": "10.1186/s12858-016-0059-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12858-015-0050-9"
+  },
+  "journal": "BMC Biochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Purification and characterization of a cytochrome c with novel caspase-3 activation activity from the pathogenic fungus Rhizopus arrhizus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1128/aac.02545-15","type":"correction"},"doi":"10.1128/aac.02108-12","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Bueno et al., Coproduction of 16S rRNA Methyltransferase RmtD or RmtG with KPC-2 and CTX-M Group Extended-Spectrum β-Lactamases in Klebsiella pneumoniae"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496057275835,
+      "identifier": {
+        "doi": "10.1128/aac.02545-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.02108-12"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Bueno et al., Coproduction of 16S rRNA Methyltransferase RmtD or RmtG with KPC-2 and CTX-M Group Extended-Spectrum β-Lactamases in Klebsiella pneumoniae"
+}

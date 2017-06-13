@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1268611200000,"doi":"10.1084/jem.2009109722610c","type":"correction"},"doi":"10.1084/jem.20091097","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Heterozygous deficiency of δ-catenin impairs pathological angiogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1268611200000,
+  "updates": [
+    {
+      "timestamp": 1495821712266,
+      "identifier": {
+        "doi": "10.1084/jem.2009109722610c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20091097"
+  },
+  "publisher": "Rockefeller University Press",
+  "title": "Heterozygous deficiency of δ-catenin impairs pathological angiogenesis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.micinf.2008.01.014","type":"err"},"doi":"10.1016/j.micinf.2006.06.002","journal":"Microbes and Infection","publisher":"Elsevier BV","title":"Erratum to: Repeated lipopolysaccharide (LPS) exposure inhibits HIV replication in primary human macrophages"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495821198159,
+      "identifier": {
+        "doi": "10.1016/j.micinf.2008.01.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micinf.2006.06.002"
+  },
+  "journal": "Microbes and Infection",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Repeated lipopolysaccharide (LPS) exposure inhibits HIV replication in primary human macrophages"
+}

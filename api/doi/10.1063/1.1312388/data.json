@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":980985600000,"doi":"10.1063/1.1353709","type":"erratum"},"doi":"10.1063/1.1312388","journal":"Low Temperature Physics","publisher":"AIP Publishing","title":"Erratum: Medium effects on the spectroscopy and intramolecular energy redistribution of C60 in cryogenic matrices [Low Temp. Phys. 26, 632 (2000)]"}
+{
+  "retracted": false,
+  "timestamp": 980985600000,
+  "updates": [
+    {
+      "timestamp": 1495868352654,
+      "identifier": {
+        "doi": "10.1063/1.1353709"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1312388"
+  },
+  "journal": "Low Temperature Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Medium effects on the spectroscopy and intramolecular energy redistribution of C60 in cryogenic matrices [Low Temp. Phys. 26, 632 (2000)]"
+}

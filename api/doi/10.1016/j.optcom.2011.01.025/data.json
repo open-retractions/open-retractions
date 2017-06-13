@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1016/j.optcom.2013.04.014","type":"err"},"doi":"10.1016/j.optcom.2011.01.025","journal":"Optics Communications","publisher":"Elsevier BV","title":"Erratum “New arbitrated quantum signature of classical messages against collective amplitude damping noise” [Optics Communications 284 (2011) 3144]"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496014762062,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2011.01.025"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum “New arbitrated quantum signature of classical messages against collective amplitude damping noise” [Optics Communications 284 (2011) 3144]"
+}

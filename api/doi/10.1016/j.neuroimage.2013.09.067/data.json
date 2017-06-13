@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.neuroimage.2014.06.002","type":"erratum"},"doi":"10.1016/j.neuroimage.2013.09.067","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Two-dimensional spatial tuning for saccades in human parieto-frontal cortex” [Neuroimage 87 (2014) 476–489]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496045513668,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2014.06.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2013.09.067"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Two-dimensional spatial tuning for saccades in human parieto-frontal cortex” [Neuroimage 87 (2014) 476–489]"
+}

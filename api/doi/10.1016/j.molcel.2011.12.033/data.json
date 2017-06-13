@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364428800000,"doi":"10.1016/j.molcel.2013.03.007","type":"err"},"doi":"10.1016/j.molcel.2011.12.033","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Cyclin-Dependent Kinases Are Regulators and Effectors of Oscillations Driven by a Transcription Factor Network"}
+{
+  "retracted": false,
+  "timestamp": 1364428800000,
+  "updates": [
+    {
+      "timestamp": 1496007780157,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2013.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2011.12.033"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Cyclin-Dependent Kinases Are Regulators and Effectors of Oscillations Driven by a Transcription Factor Network"
+}

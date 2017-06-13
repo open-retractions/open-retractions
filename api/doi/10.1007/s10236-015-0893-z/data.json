@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450224000000,"doi":"10.1007/s10236-015-0911-1","type":"correction"},"doi":"10.1007/s10236-015-0893-z","journal":"Ocean Dynamics","publisher":"Springer Nature","title":"Erratum to: The all-source Green’s function (ASGF) and its applications to storm surge modeling, part I: from the governing equations to the ASGF convolution"}
+{
+  "retracted": false,
+  "timestamp": 1450224000000,
+  "updates": [
+    {
+      "timestamp": 1496053560701,
+      "identifier": {
+        "doi": "10.1007/s10236-015-0911-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10236-015-0893-z"
+  },
+  "journal": "Ocean Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The all-source Green’s function (ASGF) and its applications to storm surge modeling, part I: from the governing equations to the ASGF convolution"
+}

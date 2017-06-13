@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1336867200000,"doi":"10.1016/j.tet.2012.03.046","type":"err"},"doi":"10.1016/j.tet.2011.11.068","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to: Two new aromatic compounds and a new d-arabinitol ester from the mushroom Hericium erinaceum [Tetrahedron 68 (2012) 2007–2010]"}
+{
+  "retracted": false,
+  "timestamp": 1336867200000,
+  "updates": [
+    {
+      "timestamp": 1495888663413,
+      "identifier": {
+        "doi": "10.1016/j.tet.2012.03.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2011.11.068"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Two new aromatic compounds and a new d-arabinitol ester from the mushroom Hericium erinaceum [Tetrahedron 68 (2012) 2007–2010]"
+}

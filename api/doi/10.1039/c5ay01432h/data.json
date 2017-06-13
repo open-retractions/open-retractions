@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442534400000,"doi":"10.1039/c5ay90077h","type":"correction"},"doi":"10.1039/c5ay01432h","journal":"Anal. Methods","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: The development of paper microfluidic devices for presumptive drug detection"}
+{
+  "retracted": false,
+  "timestamp": 1442534400000,
+  "updates": [
+    {
+      "timestamp": 1496031411705,
+      "identifier": {
+        "doi": "10.1039/c5ay90077h"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5ay01432h"
+  },
+  "journal": "Anal. Methods",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: The development of paper microfluidic devices for presumptive drug detection"
+}

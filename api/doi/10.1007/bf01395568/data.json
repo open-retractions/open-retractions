@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":107740800000,"doi":"10.1007/bf01392838","type":"correction"},"doi":"10.1007/bf01395568","journal":"Zeitschrift für Physik A Hadrons and nuclei","publisher":"Springer Nature","title":"Erratum to: Interactions between a 3d impurity and conduction electrons"}
+{
+  "retracted": false,
+  "timestamp": 107740800000,
+  "updates": [
+    {
+      "timestamp": 1495889388449,
+      "identifier": {
+        "doi": "10.1007/bf01392838"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01395568"
+  },
+  "journal": "Zeitschrift für Physik A Hadrons and nuclei",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Interactions between a 3d impurity and conduction electrons"
+}

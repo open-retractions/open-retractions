@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.expneurol.2016.01.006","type":"err"},"doi":"10.1016/j.expneurol.2015.08.011","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Erratum to “Acute intermittent hypoxia induced phrenic long-term facilitation despite increased SOD1 expression in a rat model of ALS” [Exp. Neurol. (2015) 138–150]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495638520519,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2016.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2015.08.011"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Acute intermittent hypoxia induced phrenic long-term facilitation despite increased SOD1 expression in a rat model of ALS” [Exp. Neurol. (2015) 138–150]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.anl.2014.01.001","type":"err"},"doi":"10.1016/j.anl.2013.07.007","journal":"Auris Nasus Larynx","publisher":"Elsevier BV","title":"Corrigendum to “A multicenter observational study on the role of comorbidities in the recurrent episodes of benign paroxysmal positional vertigo” [Auris Nasus Larynx 41 (2014) 31–36]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496017609430,
+      "identifier": {
+        "doi": "10.1016/j.anl.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anl.2013.07.007"
+  },
+  "journal": "Auris Nasus Larynx",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A multicenter observational study on the role of comorbidities in the recurrent episodes of benign paroxysmal positional vertigo” [Auris Nasus Larynx 41 (2014) 31–36]"
+}

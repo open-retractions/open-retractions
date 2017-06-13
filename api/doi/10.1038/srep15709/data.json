@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1038/srep17241","type":"correction"},"doi":"10.1038/srep15709","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Rapid alteration of protein phosphorylation during postmortem: implication in the study of protein phosphorylation"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1496058414244,
+      "identifier": {
+        "doi": "10.1038/srep17241"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep15709"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Rapid alteration of protein phosphorylation during postmortem: implication in the study of protein phosphorylation"
+}

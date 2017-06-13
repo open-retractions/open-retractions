@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360886400000,"doi":"10.1063/1.4792317","type":"correction"},"doi":"10.1063/1.4775692","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Electromigration induced fast L10 ordering phase transition in perpendicular FePt films” [Appl. Phys. Lett. 102, 022411 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1360886400000,
+  "updates": [
+    {
+      "timestamp": 1495996030287,
+      "identifier": {
+        "doi": "10.1063/1.4792317"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4775692"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electromigration induced fast L10 ordering phase transition in perpendicular FePt films” [Appl. Phys. Lett. 102, 022411 (2013)]"
+}

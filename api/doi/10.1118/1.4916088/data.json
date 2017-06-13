@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1118/1.4918920","type":"erratum"},"doi":"10.1118/1.4916088","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Predicting adenocarcinoma recurrence using computational texture models of nodule components in lung CT” [Med. Phys. 42, 2054 (10pp.) (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495997288822,
+      "identifier": {
+        "doi": "10.1118/1.4918920"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4916088"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Predicting adenocarcinoma recurrence using computational texture models of nodule components in lung CT” [Med. Phys. 42, 2054 (10pp.) (2015)]"
+}

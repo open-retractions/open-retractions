@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387497600000,"doi":"10.1371/annotation/0852cc69-8cea-4966-bb8a-ae0b348d1bd9","type":"correction"},"doi":"10.1371/journal.pone.0065894","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Drug Promiscuity in PDB: Protein Binding Site Similarity Is Key"}
+{
+  "retracted": false,
+  "timestamp": 1387497600000,
+  "updates": [
+    {
+      "timestamp": 1496006326795,
+      "identifier": {
+        "doi": "10.1371/annotation/0852cc69-8cea-4966-bb8a-ae0b348d1bd9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0065894"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Drug Promiscuity in PDB: Protein Binding Site Similarity Is Key"
+}

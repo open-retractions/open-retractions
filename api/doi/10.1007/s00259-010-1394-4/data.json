@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1270598400000,"doi":"10.1007/s00259-010-1461-x","type":"correction"},"doi":"10.1007/s00259-010-1394-4","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: Guidelines for the labelling of leucocytes with 99mTc-HMPAO"}
+{
+  "retracted": false,
+  "timestamp": 1270598400000,
+  "updates": [
+    {
+      "timestamp": 1495829039990,
+      "identifier": {
+        "doi": "10.1007/s00259-010-1461-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-010-1394-4"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Guidelines for the labelling of leucocytes with 99mTc-HMPAO"
+}

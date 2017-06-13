@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476230400000,"doi":"10.1186/s12916-016-0713-4","type":"correction"},"doi":"10.1186/s12916-016-0694-3","journal":"BMC Medicine","publisher":"Springer Nature","title":"Erratum to: Diagnostic work-up of patients presenting in primary care with lower abdominal symptoms: which faecal test and triage strategy should be used?"}
+{
+  "retracted": false,
+  "timestamp": 1476230400000,
+  "updates": [
+    {
+      "timestamp": 1495648057276,
+      "identifier": {
+        "doi": "10.1186/s12916-016-0713-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12916-016-0694-3"
+  },
+  "journal": "BMC Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diagnostic work-up of patients presenting in primary care with lower abdominal symptoms: which faecal test and triage strategy should be used?"
+}

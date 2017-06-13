@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.bone.2016.02.003","type":"err"},"doi":"10.1016/j.bone.2015.11.008","journal":"Bone","publisher":"Elsevier BV","title":"Corrigendum to “Lower uncarboxylated osteocalcin and higher sclerostin levels are significantly associated with coronary artery disease” [Bone 83 (2016) 178–183]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495645022454,
+      "identifier": {
+        "doi": "10.1016/j.bone.2016.02.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2015.11.008"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lower uncarboxylated osteocalcin and higher sclerostin levels are significantly associated with coronary artery disease” [Bone 83 (2016) 178–183]"
+}

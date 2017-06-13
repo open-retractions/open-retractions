@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.cplett.2015.07.027","type":"err"},"doi":"10.1016/j.cplett.2015.04.019","journal":"Chemical Physics Letters","publisher":"Elsevier BV","title":"Corrigendum to “An implementation of the Levenberg–Marquardt algorithm for simultaneous-energy-gradient fitting using two-layer feed-forward neural networks” [Chem. Phys. Lett. 629 (2015) 40–45]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496022656410,
+      "identifier": {
+        "doi": "10.1016/j.cplett.2015.07.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cplett.2015.04.019"
+  },
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An implementation of the Levenberg–Marquardt algorithm for simultaneous-energy-gradient fitting using two-layer feed-forward neural networks” [Chem. Phys. Lett. 629 (2015) 40–45]"
+}

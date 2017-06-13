@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1007/s10533-016-0260-2","type":"correction"},"doi":"10.1007/s10533-016-0241-5","journal":"Biogeochemistry","publisher":"Springer Nature","title":"Erratum to: Chloroform emissions from arctic and subarctic ecosystems in Greenland and Northern Scandinavia"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647798286,
+      "identifier": {
+        "doi": "10.1007/s10533-016-0260-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10533-016-0241-5"
+  },
+  "journal": "Biogeochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chloroform emissions from arctic and subarctic ecosystems in Greenland and Northern Scandinavia"
+}

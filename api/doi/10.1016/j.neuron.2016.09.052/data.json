@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479859200000,"doi":"10.1016/j.neuron.2016.11.010","type":"erratum"},"doi":"10.1016/j.neuron.2016.09.052","journal":"Neuron","publisher":"Elsevier BV","title":"NR1H3 p.Arg415Gln Is Not Associated to Multiple Sclerosis Risk"}
+{
+  "retracted": false,
+  "timestamp": 1479859200000,
+  "updates": [
+    {
+      "timestamp": 1495660977556,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.11.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2016.09.052"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "NR1H3 p.Arg415Gln Is Not Associated to Multiple Sclerosis Risk"
+}

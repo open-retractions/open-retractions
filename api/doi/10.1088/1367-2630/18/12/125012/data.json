@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485388800000,"doi":"10.1088/1367-2630/aa579b","type":"correction"},"doi":"10.1088/1367-2630/18/12/125012","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Erratum: Recovering parity-time symmetry in highly dispersive coupled optical waveguides (2016 New J. Phys. 18 125012)"}
+{
+  "retracted": false,
+  "timestamp": 1485388800000,
+  "updates": [
+    {
+      "timestamp": 1495679672938,
+      "identifier": {
+        "doi": "10.1088/1367-2630/aa579b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/18/12/125012"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Recovering parity-time symmetry in highly dispersive coupled optical waveguides (2016 New J. Phys. 18 125012)"
+}

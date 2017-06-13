@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1128/jvi.02518-13","type":"correction"},"doi":"10.1128/jvi.02421-05","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Human Cytomegalovirus Subverts the Functions of Monocytes, Impairing Chemokine-Mediated Migration and Leukocyte Recruitment"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495994440295,
+      "identifier": {
+        "doi": "10.1128/jvi.02518-13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.02421-05"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Human Cytomegalovirus Subverts the Functions of Monocytes, Impairing Chemokine-Mediated Migration and Leukocyte Recruitment"
+}

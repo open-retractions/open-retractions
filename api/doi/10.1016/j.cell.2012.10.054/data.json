@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1016/j.cell.2015.06.020","type":"erratum"},"doi":"10.1016/j.cell.2012.10.054","journal":"Cell","publisher":"Elsevier BV","title":"Comprehensive Analysis of Silencing Mutants Reveals Complex Regulation of the Arabidopsis Methylome"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008933605,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.06.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.10.054"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Comprehensive Analysis of Silencing Mutants Reveals Complex Regulation of the Arabidopsis Methylome"
+}

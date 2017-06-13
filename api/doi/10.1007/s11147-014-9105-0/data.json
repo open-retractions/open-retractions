@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420761600000,"doi":"10.1007/s11147-014-9108-x","type":"correction"},"doi":"10.1007/s11147-014-9105-0","journal":"Review of Derivatives Research","publisher":"Springer Nature","title":"Erratum to: The valuation of forward-start rainbow options"}
+{
+  "retracted": false,
+  "timestamp": 1420761600000,
+  "updates": [
+    {
+      "timestamp": 1496035271485,
+      "identifier": {
+        "doi": "10.1007/s11147-014-9108-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11147-014-9105-0"
+  },
+  "journal": "Review of Derivatives Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The valuation of forward-start rainbow options"
+}

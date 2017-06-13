@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1007/s12035-015-9479-5","type":"correction"},"doi":"10.1007/s12035-015-9423-8","journal":"Molecular Neurobiology","publisher":"Springer Nature","title":"Erratum to: Tonic GABAA Receptors as Potential Target for the Treatment of Temporal Lobe Epilepsy"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496038585035,
+      "identifier": {
+        "doi": "10.1007/s12035-015-9479-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12035-015-9423-8"
+  },
+  "journal": "Molecular Neurobiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tonic GABAA Receptors as Potential Target for the Treatment of Temporal Lobe Epilepsy"
+}

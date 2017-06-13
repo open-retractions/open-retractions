@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1396396800000,"update":{"timestamp":null,"doi":null,"pmid":25591328,"type":"retraction"},"doi":"10.1038/srep04571","journal":"Scientific reports","publisher":null,"title":"Efficient quantum transmission in multiple-source networks."}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496037479291,
+      "identifier": {
+        "doi": "10.1038/srep07627"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep04571"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Retraction Note to: RETRACTION: Efficient Quantum Transmission in Multiple-Source Networks"
+}

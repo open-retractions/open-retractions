@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1186/s12916-016-0757-5","type":"correction"},"doi":"10.1186/s12916-015-0456-7","journal":"BMC Medicine","publisher":"Springer Nature","title":"Erratum to: Artemether-lumefantrine treatment of uncomplicated Plasmodium falciparum malaria: a systematic review and meta-analysis of day 7 lumefantrine concentrations and therapeutic response using individual patient data"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495668000446,
+      "identifier": {
+        "doi": "10.1186/s12916-016-0757-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12916-015-0456-7"
+  },
+  "journal": "BMC Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Artemether-lumefantrine treatment of uncomplicated Plasmodium falciparum malaria: a systematic review and meta-analysis of day 7 lumefantrine concentrations and therapeutic response using individual patient data"
+}

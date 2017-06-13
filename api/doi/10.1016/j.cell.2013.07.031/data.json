@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1016/j.cell.2013.10.036","type":"err"},"doi":"10.1016/j.cell.2013.07.031","journal":"Cell","publisher":"Elsevier BV","title":"Inhibition of mTORC1 by Astrin and Stress Granules Prevents Apoptosis in Cancer Cells"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495991420834,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.10.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.07.031"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Inhibition of mTORC1 by Astrin and Stress Granules Prevents Apoptosis in Cancer Cells"
+}

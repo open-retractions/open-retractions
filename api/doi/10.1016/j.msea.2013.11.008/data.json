@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1016/j.msea.2014.01.084","type":"err"},"doi":"10.1016/j.msea.2013.11.008","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to “A constitutive and fracture models of AZ31B magnesium alloy in the tensile state” [Mater. Sci. Eng. 594 (2014) 334–343]"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496027371279,
+      "identifier": {
+        "doi": "10.1016/j.msea.2014.01.084"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2013.11.008"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A constitutive and fracture models of AZ31B magnesium alloy in the tensile state” [Mater. Sci. Eng. 594 (2014) 334–343]"
+}

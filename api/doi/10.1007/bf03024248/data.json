@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1232064000000,"doi":"10.1007/bf03026584","type":"correction"},"doi":"10.1007/bf03024248","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: A simple function ..."}
+{
+  "retracted": false,
+  "timestamp": 1232064000000,
+  "updates": [
+    {
+      "timestamp": 1495912033660,
+      "identifier": {
+        "doi": "10.1007/bf03026584"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03024248"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A simple function ..."
+}

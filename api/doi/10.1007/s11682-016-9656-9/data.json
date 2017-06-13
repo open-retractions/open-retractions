@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490313600000,"doi":"10.1007/s11682-017-9709-8","type":"correction"},"doi":"10.1007/s11682-016-9656-9","journal":"Brain Imaging and Behavior","publisher":"Springer Nature","title":"Erratum to: Considering total intracranial volume and other nuisance variables in brain voxel based morphometry in idiopathic PD"}
+{
+  "retracted": false,
+  "timestamp": 1490313600000,
+  "updates": [
+    {
+      "timestamp": 1495731874020,
+      "identifier": {
+        "doi": "10.1007/s11682-017-9709-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11682-016-9656-9"
+  },
+  "journal": "Brain Imaging and Behavior",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Considering total intracranial volume and other nuisance variables in brain voxel based morphometry in idiopathic PD"
+}

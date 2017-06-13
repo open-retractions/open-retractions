@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jopan.2016.10.003","type":"err"},"doi":"10.1016/j.jopan.2016.06.004","journal":"Journal of PeriAnesthesia Nursing","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495663603898,
+      "identifier": {
+        "doi": "10.1016/j.jopan.2016.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jopan.2016.06.004"
+  },
+  "journal": "Journal of PeriAnesthesia Nursing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

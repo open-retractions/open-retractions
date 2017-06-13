@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484092800000,"doi":"10.1080/00207179.2016.1272892","type":"correction"},"doi":"10.1080/00207179.2016.1222556","journal":"International Journal of Control","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484092800000,
+  "updates": [
+    {
+      "timestamp": 1495675015811,
+      "identifier": {
+        "doi": "10.1080/00207179.2016.1272892"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00207179.2016.1222556"
+  },
+  "journal": "International Journal of Control",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

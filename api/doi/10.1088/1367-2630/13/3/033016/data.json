@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462233600000,"doi":"10.1088/1367-2630/18/5/059702","type":"correction"},"doi":"10.1088/1367-2630/13/3/033016","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Retraction: Evidence for subwavelength imaging with positive refraction (2011New J. Phys.13033016)"}
+{
+  "retracted": false,
+  "timestamp": 1462233600000,
+  "updates": [
+    {
+      "timestamp": 1495672649637,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/5/059702"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/13/3/033016"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Retraction: Evidence for subwavelength imaging with positive refraction (2011New J. Phys.13033016)"
+}

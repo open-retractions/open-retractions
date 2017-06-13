@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389916800000,"doi":"10.1371/annotation/439d7826-5008-437d-9b41-5afb31c704a1","type":"correction"},"doi":"10.1371/journal.pone.0074908","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Network of HSPG Core Proteins and HS Modifying Enzymes Regulates Netrin-Dependent Guidance of D-Type Motor Neurons in Caenorhabditis elegans"}
+{
+  "retracted": false,
+  "timestamp": 1389916800000,
+  "updates": [
+    {
+      "timestamp": 1496013628982,
+      "identifier": {
+        "doi": "10.1371/annotation/439d7826-5008-437d-9b41-5afb31c704a1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074908"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Network of HSPG Core Proteins and HS Modifying Enzymes Regulates Netrin-Dependent Guidance of D-Type Motor Neurons in Caenorhabditis elegans"
+}

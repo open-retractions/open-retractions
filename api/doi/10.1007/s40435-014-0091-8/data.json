@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403654400000,"doi":"10.1007/s40435-014-0109-2","type":"correction"},"doi":"10.1007/s40435-014-0091-8","journal":"International Journal of Dynamics and Control","publisher":"Springer Nature","title":"Erratum to: Complex period-1 motions of a periodically forced Duffing oscillator with a time-delay feedback"}
+{
+  "retracted": false,
+  "timestamp": 1403654400000,
+  "updates": [
+    {
+      "timestamp": 1496048177762,
+      "identifier": {
+        "doi": "10.1007/s40435-014-0109-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40435-014-0091-8"
+  },
+  "journal": "International Journal of Dynamics and Control",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Complex period-1 motions of a periodically forced Duffing oscillator with a time-delay feedback"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":60393600000,"doi":"10.1063/1.1675702","type":"erratum"},"doi":"10.1063/1.1674741","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Hydrogen Bonds Involving Sulfur. II. The Hydrogen Sulfide—Hydrosulfide Complex"}
+{
+  "retracted": false,
+  "timestamp": 60393600000,
+  "updates": [
+    {
+      "timestamp": 1495807388227,
+      "identifier": {
+        "doi": "10.1063/1.1675702"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1674741"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Hydrogen Bonds Involving Sulfur. II. The Hydrogen Sulfide—Hydrosulfide Complex"
+}

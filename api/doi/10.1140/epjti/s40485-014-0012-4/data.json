@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466726400000,"doi":"10.1140/epjti/s40485-016-0031-4","type":"correction"},"doi":"10.1140/epjti/s40485-014-0012-4","journal":"EPJ Techniques and Instrumentation","publisher":"Springer Nature","title":"Erratum to: ‘A microfluidic AFM cantilever based dispensing and aspiration platform’"}
+{
+  "retracted": false,
+  "timestamp": 1466726400000,
+  "updates": [
+    {
+      "timestamp": 1495722441912,
+      "identifier": {
+        "doi": "10.1140/epjti/s40485-016-0031-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjti/s40485-014-0012-4"
+  },
+  "journal": "EPJ Techniques and Instrumentation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘A microfluidic AFM cantilever based dispensing and aspiration platform’"
+}

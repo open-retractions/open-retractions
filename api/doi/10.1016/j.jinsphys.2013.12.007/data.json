@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jinsphys.2015.01.009","type":"err"},"doi":"10.1016/j.jinsphys.2013.12.007","journal":"Journal of Insect Physiology","publisher":"Elsevier BV","title":"Corrigendum to “Physiological effect of mild thermal stress and its induction of gene expression in the common cutworm, Spodoptera litura” [J. Insect Physiol. 61 (2014) 34-41]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496044053997,
+      "identifier": {
+        "doi": "10.1016/j.jinsphys.2015.01.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jinsphys.2013.12.007"
+  },
+  "journal": "Journal of Insect Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Physiological effect of mild thermal stress and its induction of gene expression in the common cutworm, Spodoptera litura” [J. Insect Physiol. 61 (2014) 34-41]"
+}

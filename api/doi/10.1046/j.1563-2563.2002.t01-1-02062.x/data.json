@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1030838400000,"doi":"10.1007/bf02948706","type":"correction"},"doi":"10.1046/j.1563-2563.2002.t01-1-02062.x","journal":"European Surgery","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1030838400000,
+  "updates": [
+    {
+      "timestamp": 1495892284644,
+      "identifier": {
+        "doi": "10.1007/bf02948706"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1046/j.1563-2563.2002.t01-1-02062.x"
+  },
+  "journal": "European Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

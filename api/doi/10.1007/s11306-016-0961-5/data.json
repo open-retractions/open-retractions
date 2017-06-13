@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467417600000,"doi":"10.1007/s11306-016-1068-8","type":"correction"},"doi":"10.1007/s11306-016-0961-5","journal":"Metabolomics","publisher":"Springer Nature","title":"Erratum to: Temporal characterization of serum metabolite signatures in lung cancer patients undergoing treatment"}
+{
+  "retracted": false,
+  "timestamp": 1467417600000,
+  "updates": [
+    {
+      "timestamp": 1495724223259,
+      "identifier": {
+        "doi": "10.1007/s11306-016-1068-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11306-016-0961-5"
+  },
+  "journal": "Metabolomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Temporal characterization of serum metabolite signatures in lung cancer patients undergoing treatment"
+}

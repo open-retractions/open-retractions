@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1258588800000,"doi":"10.1007/s10040-009-0546-8","type":"correction"},"doi":"10.1007/s10040-009-0479-2","journal":"Hydrogeology Journal","publisher":"Springer Nature","title":"Erratum: Discriminant analysis for estimation of groundwater age from hydrochemistry and well construction: application to New Zealand aquifers"}
+{
+  "retracted": false,
+  "timestamp": 1258588800000,
+  "updates": [
+    {
+      "timestamp": 1495990454672,
+      "identifier": {
+        "doi": "10.1007/s10040-009-0546-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10040-009-0479-2"
+  },
+  "journal": "Hydrogeology Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Discriminant analysis for estimation of groundwater age from hydrochemistry and well construction: application to New Zealand aquifers"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490745600000,"doi":"10.1190/tle36040361b.1","type":"correction"},"doi":"10.1190/tle36030262.1","journal":"The Leading Edge","publisher":"Society of Exploration Geophysicists","title":"Three data analytics party tricks"}
+{
+  "retracted": false,
+  "timestamp": 1490745600000,
+  "updates": [
+    {
+      "timestamp": 1495733863933,
+      "identifier": {
+        "doi": "10.1190/tle36040361b.1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1190/tle36030262.1"
+  },
+  "journal": "The Leading Edge",
+  "publisher": "Society of Exploration Geophysicists",
+  "title": "Three data analytics party tricks"
+}

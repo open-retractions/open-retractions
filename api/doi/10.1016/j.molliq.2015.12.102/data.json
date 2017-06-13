@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.molliq.2016.04.084","type":"erratum"},"doi":"10.1016/j.molliq.2015.12.102","journal":"Journal of Molecular Liquids","publisher":"Elsevier BV","title":"Corrigendum to “Conjugate natural convection in a cavity with a conductive partition and filled with different nanofluids on different sides of the partition” [J. Mol. Liquids 216 (2016) 67–77]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495676830355,
+      "identifier": {
+        "doi": "10.1016/j.molliq.2016.04.084"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molliq.2015.12.102"
+  },
+  "journal": "Journal of Molecular Liquids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conjugate natural convection in a cavity with a conductive partition and filled with different nanofluids on different sides of the partition” [J. Mol. Liquids 216 (2016) 67–77]"
+}

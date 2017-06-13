@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463270400000,"doi":"10.1016/j.bios.2015.10.087","type":"erratum"},"doi":"10.1016/j.bios.2015.08.058","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to 'Microfluidic platform for environmental contaminants sensing and degradation based on boron-doped diamond electrodes' [Biosens. Bioelectron. 08/75 (2015) 365–374]"}
+{
+  "retracted": false,
+  "timestamp": 1463270400000,
+  "updates": [
+    {
+      "timestamp": 1496046576652,
+      "identifier": {
+        "doi": "10.1016/j.bios.2015.10.087"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2015.08.058"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to 'Microfluidic platform for environmental contaminants sensing and degradation based on boron-doped diamond electrodes' [Biosens. Bioelectron. 08/75 (2015) 365–374]"
+}

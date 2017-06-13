@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.plaphy.2016.01.002","type":"err"},"doi":"10.1016/j.plaphy.2015.10.004","journal":"Plant Physiology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Identification of genes involved in color variation of bamboo culms by suppression subtractive hybridization” [Plant Physiol. Biochem. 97 (2015) 156–164]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641588895,
+      "identifier": {
+        "doi": "10.1016/j.plaphy.2016.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.plaphy.2015.10.004"
+  },
+  "journal": "Plant Physiology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of genes involved in color variation of bamboo culms by suppression subtractive hybridization” [Plant Physiol. Biochem. 97 (2015) 156–164]"
+}

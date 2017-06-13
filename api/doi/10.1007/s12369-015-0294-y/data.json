@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477612800000,"doi":"10.1007/s12369-016-0382-7","type":"correction"},"doi":"10.1007/s12369-015-0294-y","journal":"International Journal of Social Robotics","publisher":"Springer Nature","title":"Erratum to: Clinical Application of a Humanoid Robot in Pediatric Cancer Interventions"}
+{
+  "retracted": false,
+  "timestamp": 1477612800000,
+  "updates": [
+    {
+      "timestamp": 1495652636920,
+      "identifier": {
+        "doi": "10.1007/s12369-016-0382-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12369-015-0294-y"
+  },
+  "journal": "International Journal of Social Robotics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical Application of a Humanoid Robot in Pediatric Cancer Interventions"
+}

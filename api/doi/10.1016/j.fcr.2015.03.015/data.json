@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.fcr.2015.07.001","type":"err"},"doi":"10.1016/j.fcr.2015.03.015","journal":"Field Crops Research","publisher":"Elsevier BV","title":"Corrigendum to “Stability of resistance to sorghum shoot fly, Atherigona soccata” [Field Crops Res. 178 (2015) 34–41]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1496015030721,
+      "identifier": {
+        "doi": "10.1016/j.fcr.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fcr.2015.03.015"
+  },
+  "journal": "Field Crops Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stability of resistance to sorghum shoot fly, Atherigona soccata” [Field Crops Res. 178 (2015) 34–41]"
+}

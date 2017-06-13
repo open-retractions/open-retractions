@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476057600000,"doi":"10.1038/srep34431","type":"correction"},"doi":"10.1038/srep25294","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Cascading failures in coupled networks with both inner-dependency and inter-dependency links"}
+{
+  "retracted": false,
+  "timestamp": 1476057600000,
+  "updates": [
+    {
+      "timestamp": 1495647584963,
+      "identifier": {
+        "doi": "10.1038/srep34431"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep25294"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Cascading failures in coupled networks with both inner-dependency and inter-dependency links"
+}

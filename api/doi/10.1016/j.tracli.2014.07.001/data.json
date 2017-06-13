@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.tracli.2014.11.001","type":"err"},"doi":"10.1016/j.tracli.2014.07.001","journal":"Transfusion Clinique et Biologique","publisher":"Elsevier BV","title":"Erratum à « Documents et acte transfusionnel : hétérogénéité des pratiques » [Transfus. Clin. Biol. 21 (2014) 150–152]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496029317188,
+      "identifier": {
+        "doi": "10.1016/j.tracli.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tracli.2014.07.001"
+  },
+  "journal": "Transfusion Clinique et Biologique",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Documents et acte transfusionnel : hétérogénéité des pratiques » [Transfus. Clin. Biol. 21 (2014) 150–152]"
+}

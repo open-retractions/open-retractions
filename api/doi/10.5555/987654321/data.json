@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330473600000,"doi":"10.5555/29292929x","type":"correction"},"doi":"10.5555/987654321","journal":"Journal of Psychoceramics","publisher":"CrossRef Test Account","title":"Correction: The Impact of Interactive Epistemologies on Cryptography"}
+{
+  "retracted": false,
+  "timestamp": 1330473600000,
+  "updates": [
+    {
+      "timestamp": 1495875907944,
+      "identifier": {
+        "doi": "10.5555/29292929x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.5555/987654321"
+  },
+  "journal": "Journal of Psychoceramics",
+  "publisher": "CrossRef Test Account",
+  "title": "Correction: The Impact of Interactive Epistemologies on Cryptography"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391040000000,"doi":"10.1016/j.cell.2014.01.034","type":"err"},"doi":"10.1016/j.cell.2013.10.042","journal":"Cell","publisher":"Elsevier BV","title":"Δ9-THC-Caused Synaptic and Memory Impairments Are Mediated through COX-2 Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1391040000000,
+  "updates": [
+    {
+      "timestamp": 1496039628403,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.01.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.10.042"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Δ9-THC-Caused Synaptic and Memory Impairments Are Mediated through COX-2 Signaling"
+}

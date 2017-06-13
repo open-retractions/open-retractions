@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.cryobiol.2015.12.005","type":"err"},"doi":"10.1016/j.cryobiol.2015.10.146","journal":"Cryobiology","publisher":"Elsevier BV","title":"Corrigendum to “Characteristics of stem cells from human exfoliated deciduous teeth (SHED) from intact cryopreserved deciduous teeth” [Cryobiology 71 (2015) 374–383]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496057608697,
+      "identifier": {
+        "doi": "10.1016/j.cryobiol.2015.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cryobiol.2015.10.146"
+  },
+  "journal": "Cryobiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characteristics of stem cells from human exfoliated deciduous teeth (SHED) from intact cryopreserved deciduous teeth” [Cryobiology 71 (2015) 374–383]"
+}

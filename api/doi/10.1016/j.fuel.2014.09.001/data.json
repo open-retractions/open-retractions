@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.fuel.2015.03.023","type":"err"},"doi":"10.1016/j.fuel.2014.09.001","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “The characterization of micro-structure of cobalt on γ-Al2O3 for FTS: Effects of pretreatment on Ru–Co/γ-Al2O3” [Fuel 149 (2015) 118–129]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496052423254,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2015.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2014.09.001"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The characterization of micro-structure of cobalt on γ-Al2O3 for FTS: Effects of pretreatment on Ru–Co/γ-Al2O3” [Fuel 149 (2015) 118–129]"
+}

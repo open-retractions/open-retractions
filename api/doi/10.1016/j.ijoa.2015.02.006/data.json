@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.ijoa.2015.08.010","type":"err"},"doi":"10.1016/j.ijoa.2015.02.006","journal":"International Journal of Obstetric Anesthesia","publisher":"Elsevier BV","title":"Retraction notice to “Shaken not stirred: Homogeneity of phenylephrine following drug dispersion in solution” Int J Obstet Anesth 2015; 24: S53"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496029008197,
+      "identifier": {
+        "doi": "10.1016/j.ijoa.2015.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijoa.2015.02.006"
+  },
+  "journal": "International Journal of Obstetric Anesthesia",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Shaken not stirred: Homogeneity of phenylephrine following drug dispersion in solution” Int J Obstet Anesth 2015; 24: S53"
+}

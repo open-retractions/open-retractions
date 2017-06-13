@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1007/s40263-015-0274-7","type":"correction"},"doi":"10.1007/s40263-015-0254-y","journal":"CNS Drugs","publisher":"Springer Nature","title":"Erratum to: Oxycodone/Naloxone PR: A Review in Severe Refractory Restless Legs Syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496022543825,
+      "identifier": {
+        "doi": "10.1007/s40263-015-0274-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40263-015-0254-y"
+  },
+  "journal": "CNS Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Oxycodone/Naloxone PR: A Review in Severe Refractory Restless Legs Syndrome"
+}

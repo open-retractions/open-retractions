@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1480636800000,"doi":"10.1007/s10048-016-0501-5","type":"correction"},"doi":"10.1007/s10048-015-0465-x","journal":"neurogenetics","publisher":"Springer Nature","title":"Erratum to: Clinical and molecular study in a long-surviving patient with MLASA syndrome due to novel PUS1 mutations"}
+{
+  "retracted": false,
+  "timestamp": 1480636800000,
+  "updates": [
+    {
+      "timestamp": 1495663117138,
+      "identifier": {
+        "doi": "10.1007/s10048-016-0501-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10048-015-0465-x"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical and molecular study in a long-surviving patient with MLASA syndrome due to novel PUS1 mutations"
+}

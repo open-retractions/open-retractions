@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357171200000,"doi":"10.1121/1.4770262","type":"correction"},"doi":"10.1121/1.2993745","journal":"The Journal of the Acoustical Society of America","publisher":"Acoustical Society of America (ASA)","title":"Erratum: “The effect of signal-temporal uncertainty on detection in bursts of noise or a random-frequency complex” [J. Acoust. Soc. Am. 124(5), EL321–EL327 (2008)]"}
+{
+  "retracted": false,
+  "timestamp": 1357171200000,
+  "updates": [
+    {
+      "timestamp": 1495983133943,
+      "identifier": {
+        "doi": "10.1121/1.4770262"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1121/1.2993745"
+  },
+  "journal": "The Journal of the Acoustical Society of America",
+  "publisher": "Acoustical Society of America (ASA)",
+  "title": "Erratum: “The effect of signal-temporal uncertainty on detection in bursts of noise or a random-frequency complex” [J. Acoust. Soc. Am. 124(5), EL321–EL327 (2008)]"
+}

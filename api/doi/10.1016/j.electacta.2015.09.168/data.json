@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468108800000,"doi":"10.1016/j.electacta.2016.04.150","type":"err"},"doi":"10.1016/j.electacta.2015.09.168","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Determination of the average number of electrons released during the oxidation of ethanol in a direct ethanol fuel cell” [Electrochim. Acta 182, (2015) 856–860]"}
+{
+  "retracted": false,
+  "timestamp": 1468108800000,
+  "updates": [
+    {
+      "timestamp": 1495676303375,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2016.04.150"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2015.09.168"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Determination of the average number of electrons released during the oxidation of ethanol in a direct ethanol fuel cell” [Electrochim. Acta 182, (2015) 856–860]"
+}

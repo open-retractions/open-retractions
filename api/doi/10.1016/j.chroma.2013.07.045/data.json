@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381449600000,"doi":"10.1016/j.chroma.2013.08.027","type":"err"},"doi":"10.1016/j.chroma.2013.07.045","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Erratum to “Rapid and sensitive on-line solid phase extraction-ultra high performance liquid chromatography–electrospray-tandem mass spectrometry analysis of pesticides in surface waters” [J. Chromatogr. A 1305 (2013) 193–202]"}
+{
+  "retracted": false,
+  "timestamp": 1381449600000,
+  "updates": [
+    {
+      "timestamp": 1496041994496,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2013.08.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2013.07.045"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Rapid and sensitive on-line solid phase extraction-ultra high performance liquid chromatography–electrospray-tandem mass spectrometry analysis of pesticides in surface waters” [J. Chromatogr. A 1305 (2013) 193–202]"
+}

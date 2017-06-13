@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.freeradbiomed.2013.06.002","type":"err"},"doi":"10.1016/j.freeradbiomed.2012.04.027","journal":"Free Radical Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Glycochenodeoxycholate induces rat alveolar epithelial type II cell death and inhibits surfactant secretion in vitro” [Free Radic. Biol. Med. 53 (2012) 122–128]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496025718017,
+      "identifier": {
+        "doi": "10.1016/j.freeradbiomed.2013.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.freeradbiomed.2012.04.027"
+  },
+  "journal": "Free Radical Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Glycochenodeoxycholate induces rat alveolar epithelial type II cell death and inhibits surfactant secretion in vitro” [Free Radic. Biol. Med. 53 (2012) 122–128]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.rmb.2016.01.006","type":"err"},"doi":"10.1016/j.rmb.2015.07.002","journal":"Revista Mexicana de Biodiversidad","publisher":"Elsevier BV","title":"Erratum to “Prevalence of Haematoloechus pulcher metacercariae (Digenea: Plagiorchioidea) in the crayfish Cambarellus montezumae in Salazar Lagoon, Estado de México” [Rev. Mex. Biodivers. 86 (2015) 730–736]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495648675157,
+      "identifier": {
+        "doi": "10.1016/j.rmb.2016.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmb.2015.07.002"
+  },
+  "journal": "Revista Mexicana de Biodiversidad",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Prevalence of Haematoloechus pulcher metacercariae (Digenea: Plagiorchioidea) in the crayfish Cambarellus montezumae in Salazar Lagoon, Estado de México” [Rev. Mex. Biodivers. 86 (2015) 730–736]"
+}

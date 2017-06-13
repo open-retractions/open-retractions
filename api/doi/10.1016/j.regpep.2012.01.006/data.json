@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.regpep.2014.08.001","type":"err"},"doi":"10.1016/j.regpep.2012.01.006","journal":"Regulatory Peptides","publisher":"Elsevier BV","title":"Corrigendum to “Role of parathyroid hormone-related protein in the pro-inflammatory and pro-fibrogenic response associated with acute pancreatitis” [Regul Pept 175 (2012) 49–60]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1495999434843,
+      "identifier": {
+        "doi": "10.1016/j.regpep.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.regpep.2012.01.006"
+  },
+  "journal": "Regulatory Peptides",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Role of parathyroid hormone-related protein in the pro-inflammatory and pro-fibrogenic response associated with acute pancreatitis” [Regul Pept 175 (2012) 49–60]"
+}

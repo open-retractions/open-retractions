@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288569600000,"doi":"10.1063/1.3512958","type":"erratum"},"doi":"10.1063/1.3488015","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Single crystal-like selection rules for unipolar-axis oriented tetragonal Pb(Zr,Ti)O3 thick epitaxial films” [Appl. Phys. Lett. 97, 11901 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1288569600000,
+  "updates": [
+    {
+      "timestamp": 1495903228486,
+      "identifier": {
+        "doi": "10.1063/1.3512958"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3488015"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Single crystal-like selection rules for unipolar-axis oriented tetragonal Pb(Zr,Ti)O3 thick epitaxial films” [Appl. Phys. Lett. 97, 11901 (2010)]"
+}

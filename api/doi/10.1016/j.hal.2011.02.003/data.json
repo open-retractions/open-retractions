@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.hal.2014.04.014","type":"err"},"doi":"10.1016/j.hal.2011.02.003","journal":"Harmful Algae","publisher":"Elsevier BV","title":"Retraction notice to “Effects of seaweed Gracilaria verrucosa on the growth of microalgae: A case study in the laboratory and in an enclosed sea of Hangzhou Bay, China” [Harmful Algae 10 (2011) 411–418]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496037295733,
+      "identifier": {
+        "doi": "10.1016/j.hal.2014.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hal.2011.02.003"
+  },
+  "journal": "Harmful Algae",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Effects of seaweed Gracilaria verrucosa on the growth of microalgae: A case study in the laboratory and in an enclosed sea of Hangzhou Bay, China” [Harmful Algae 10 (2011) 411–418]"
+}

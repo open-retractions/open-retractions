@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1186/s13024-016-0080-9","type":"correction"},"doi":"10.1186/s13024-016-0078-3","journal":"Molecular Neurodegeneration","publisher":"Springer Nature","title":"Erratum to: ADAMTS-4 promotes neurodegeneration in a mouse model of amyotrophic lateral sclerosis"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643045713,
+      "identifier": {
+        "doi": "10.1186/s13024-016-0080-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13024-016-0078-3"
+  },
+  "journal": "Molecular Neurodegeneration",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ADAMTS-4 promotes neurodegeneration in a mouse model of amyotrophic lateral sclerosis"
+}

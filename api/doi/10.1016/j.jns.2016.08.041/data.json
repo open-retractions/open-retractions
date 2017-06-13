@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.jns.2016.09.060","type":"err"},"doi":"10.1016/j.jns.2016.08.041","journal":"Journal of the Neurological Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Mortality of advanced Parkinson's disease patients treated with deep brain stimulation surgery” [J. Neurol. Sci. 369, 230–235]"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495648695797,
+      "identifier": {
+        "doi": "10.1016/j.jns.2016.09.060"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jns.2016.08.041"
+  },
+  "journal": "Journal of the Neurological Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mortality of advanced Parkinson's disease patients treated with deep brain stimulation surgery” [J. Neurol. Sci. 369, 230–235]"
+}

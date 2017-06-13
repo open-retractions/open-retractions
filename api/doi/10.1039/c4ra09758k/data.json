@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1039/c4ra90062f","type":"correction"},"doi":"10.1039/c4ra09758k","journal":"RSC Adv.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A QM/MM study of the catalytic mechanism of α-1,4-glucan lyase from the red seaweed Gracilariopsis lemaneiformis"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496034697483,
+      "identifier": {
+        "doi": "10.1039/c4ra90062f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4ra09758k"
+  },
+  "journal": "RSC Adv.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A QM/MM study of the catalytic mechanism of α-1,4-glucan lyase from the red seaweed Gracilariopsis lemaneiformis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.geomorph.2015.01.027","type":"err"},"doi":"10.1016/j.geomorph.2014.03.034","journal":"Geomorphology","publisher":"Elsevier BV","title":"Corrigendum to “Stream channel responses and soil loss at off-highway vehicle stream crossings in the Ouachita National Forest” [Geomorphology 216 (2014) 40–52]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496039528709,
+      "identifier": {
+        "doi": "10.1016/j.geomorph.2015.01.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geomorph.2014.03.034"
+  },
+  "journal": "Geomorphology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stream channel responses and soil loss at off-highway vehicle stream crossings in the Ouachita National Forest” [Geomorphology 216 (2014) 40–52]"
+}

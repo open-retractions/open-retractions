@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434326400000,"doi":"10.1016/j.ydbio.2015.05.003","type":"err"},"doi":"10.1016/j.ydbio.2015.02.004","journal":"Developmental Biology","publisher":"Elsevier BV","title":"Corrigendum to “BMP-dependent gene repression cascade in drosophila eggshell patterning” [Dev. Biol. 400 (2015) 258–265]"}
+{
+  "retracted": false,
+  "timestamp": 1434326400000,
+  "updates": [
+    {
+      "timestamp": 1496000008735,
+      "identifier": {
+        "doi": "10.1016/j.ydbio.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ydbio.2015.02.004"
+  },
+  "journal": "Developmental Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “BMP-dependent gene repression cascade in drosophila eggshell patterning” [Dev. Biol. 400 (2015) 258–265]"
+}

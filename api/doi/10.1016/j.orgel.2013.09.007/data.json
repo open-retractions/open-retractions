@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.orgel.2013.12.005","type":"err"},"doi":"10.1016/j.orgel.2013.09.007","journal":"Organic Electronics","publisher":"Elsevier BV","title":"Erratum to “TiO2-poly(4-vinylphenol) nanocomposite dielectrics for organic thin film transistors” [Org. Electron. 14 (2013) 3406–3414]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496004759680,
+      "identifier": {
+        "doi": "10.1016/j.orgel.2013.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.orgel.2013.09.007"
+  },
+  "journal": "Organic Electronics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “TiO2-poly(4-vinylphenol) nanocomposite dielectrics for organic thin film transistors” [Org. Electron. 14 (2013) 3406–3414]"
+}

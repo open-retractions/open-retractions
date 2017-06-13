@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464220800000,"doi":"10.1088/0022-3727/49/26/269601","type":"correction"},"doi":"10.1088/0022-3727/49/11/115504","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Erratum:In situspectroscopic ellipsometry during atomic layer deposition of Pt, Ru and Pd (2016J. Phys. D: Appl. Phys.49115504)"}
+{
+  "retracted": false,
+  "timestamp": 1464220800000,
+  "updates": [
+    {
+      "timestamp": 1495680708301,
+      "identifier": {
+        "doi": "10.1088/0022-3727/49/26/269601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0022-3727/49/11/115504"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum:In situspectroscopic ellipsometry during atomic layer deposition of Pt, Ru and Pd (2016J. Phys. D: Appl. Phys.49115504)"
+}

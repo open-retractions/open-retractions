@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1007/s12035-014-9008-y","type":"correction"},"doi":"10.1007/s12035-014-8910-7","journal":"Molecular Neurobiology","publisher":"Springer Nature","title":"Erratum to: Functional Characteristics and Molecular Mechanism of a New scFv Antibody Against Aβ42 Oligomers and Immature Protofibrils"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496030374172,
+      "identifier": {
+        "doi": "10.1007/s12035-014-9008-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12035-014-8910-7"
+  },
+  "journal": "Molecular Neurobiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Functional Characteristics and Molecular Mechanism of a New scFv Antibody Against Aβ42 Oligomers and Immature Protofibrils"
+}

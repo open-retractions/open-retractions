@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.mechrescom.2015.01.001","type":"err"},"doi":"10.1016/j.mechrescom.2011.04.001","journal":"Mechanics Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “A note on the Mohr–Coulomb and Drucker–Prager strength criteria” [Mech. Res. Commun. 38 (2011) 309–314]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496037613785,
+      "identifier": {
+        "doi": "10.1016/j.mechrescom.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mechrescom.2011.04.001"
+  },
+  "journal": "Mechanics Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A note on the Mohr–Coulomb and Drucker–Prager strength criteria” [Mech. Res. Commun. 38 (2011) 309–314]"
+}

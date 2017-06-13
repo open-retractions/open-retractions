@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455148800000,"doi":"10.1186/s12859-016-0925-9","type":"correction"},"doi":"10.1186/s12859-015-0844-1","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Weakly supervised learning of biomedical information extraction from curated data"}
+{
+  "retracted": false,
+  "timestamp": 1455148800000,
+  "updates": [
+    {
+      "timestamp": 1495643780454,
+      "identifier": {
+        "doi": "10.1186/s12859-016-0925-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-015-0844-1"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Weakly supervised learning of biomedical information extraction from curated data"
+}

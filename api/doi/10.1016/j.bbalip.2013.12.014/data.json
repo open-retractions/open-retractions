@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.bbalip.2014.03.006","type":"err"},"doi":"10.1016/j.bbalip.2013.12.014","journal":"Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids","publisher":"Elsevier BV","title":"Corrigendum to “A potential screening factor for accumulation of cholesteyl ester transfer protein deficiency in East Asia: Schistosoma japonicum” [Biochim. Biophys. Acta 1841 (2014) 495–504]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496028056055,
+      "identifier": {
+        "doi": "10.1016/j.bbalip.2014.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbalip.2013.12.014"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A potential screening factor for accumulation of cholesteyl ester transfer protein deficiency in East Asia: Schistosoma japonicum” [Biochim. Biophys. Acta 1841 (2014) 495–504]"
+}

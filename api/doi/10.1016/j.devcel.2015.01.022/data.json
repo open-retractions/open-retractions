@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429488000000,"doi":"10.1016/j.devcel.2015.04.004","type":"err"},"doi":"10.1016/j.devcel.2015.01.022","journal":"Developmental Cell","publisher":"Elsevier BV","title":"Cellular Functions of the Amyloid Precursor Protein from Development to Dementia"}
+{
+  "retracted": false,
+  "timestamp": 1429488000000,
+  "updates": [
+    {
+      "timestamp": 1496059081763,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2015.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2015.01.022"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "Cellular Functions of the Amyloid Precursor Protein from Development to Dementia"
+}

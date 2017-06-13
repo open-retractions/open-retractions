@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.ymgme.2013.12.297","type":"err"},"doi":"10.1016/j.ymgme.2013.04.001","journal":"Molecular Genetics and Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Retinal thinning in Gaucher disease patients and carriers: Results of a pilot study” [Mol. Genet. Metab. 109 (2013) 221–223]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496013617634,
+      "identifier": {
+        "doi": "10.1016/j.ymgme.2013.12.297"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymgme.2013.04.001"
+  },
+  "journal": "Molecular Genetics and Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Retinal thinning in Gaucher disease patients and carriers: Results of a pilot study” [Mol. Genet. Metab. 109 (2013) 221–223]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480636800000,"doi":"10.1007/s00029-016-0297-z","type":"correction"},"doi":"10.1007/s00029-013-0146-2","journal":"Selecta Mathematica","publisher":"Springer Nature","title":"Erratum to: Symplectic embeddings of polydisks"}
+{
+  "retracted": false,
+  "timestamp": 1480636800000,
+  "updates": [
+    {
+      "timestamp": 1495663166688,
+      "identifier": {
+        "doi": "10.1007/s00029-016-0297-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00029-013-0146-2"
+  },
+  "journal": "Selecta Mathematica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Symplectic embeddings of polydisks"
+}

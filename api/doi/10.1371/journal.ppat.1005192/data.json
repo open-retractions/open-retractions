@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445558400000,"doi":"10.1371/journal.ppat.1005252","type":"correction"},"doi":"10.1371/journal.ppat.1005192","journal":"PLOS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: The cabABC Operon Essential for Biofilm and Rugose Colony Development in Vibrio vulnificus"}
+{
+  "retracted": false,
+  "timestamp": 1445558400000,
+  "updates": [
+    {
+      "timestamp": 1496040420376,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.1005252"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1005192"
+  },
+  "journal": "PLOS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The cabABC Operon Essential for Biofilm and Rugose Colony Development in Vibrio vulnificus"
+}

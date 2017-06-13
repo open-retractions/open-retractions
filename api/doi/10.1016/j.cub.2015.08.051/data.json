@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447632000000,"doi":"10.1016/j.cub.2015.10.050","type":"erratum"},"doi":"10.1016/j.cub.2015.08.051","journal":"Current Biology","publisher":"Elsevier BV","title":"The Molecular Biology of Spindle Assembly Checkpoint Signaling Dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1447632000000,
+  "updates": [
+    {
+      "timestamp": 1496043571196,
+      "identifier": {
+        "doi": "10.1016/j.cub.2015.10.050"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2015.08.051"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "The Molecular Biology of Spindle Assembly Checkpoint Signaling Dynamics"
+}

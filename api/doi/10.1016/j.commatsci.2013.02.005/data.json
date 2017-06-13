@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.commatsci.2015.07.023","type":"err"},"doi":"10.1016/j.commatsci.2013.02.005","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Ab initio energetics of charge compensating point defects: A case study on MgO” [Comput. Mater. Sci. 73 (2013) 41–55]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496016460635,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.07.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2013.02.005"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ab initio energetics of charge compensating point defects: A case study on MgO” [Comput. Mater. Sci. 73 (2013) 41–55]"
+}

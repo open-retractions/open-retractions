@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408492800000,"doi":"10.1007/s40265-014-0280-y","type":"correction"},"doi":"10.1007/s40265-014-0261-1","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Edoxaban: An Update on the New Oral Direct Factor Xa Inhibitor"}
+{
+  "retracted": false,
+  "timestamp": 1408492800000,
+  "updates": [
+    {
+      "timestamp": 1495998360040,
+      "identifier": {
+        "doi": "10.1007/s40265-014-0280-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-014-0261-1"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Edoxaban: An Update on the New Oral Direct Factor Xa Inhibitor"
+}

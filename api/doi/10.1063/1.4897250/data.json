@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414454400000,"doi":"10.1063/1.4900656","type":"correction"},"doi":"10.1063/1.4897250","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Effective diffusion coefficient in 2D periodic channels” [J. Chem. Phys. 141, 144101 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1414454400000,
+  "updates": [
+    {
+      "timestamp": 1496017142848,
+      "identifier": {
+        "doi": "10.1063/1.4900656"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4897250"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effective diffusion coefficient in 2D periodic channels” [J. Chem. Phys. 141, 144101 (2014)]"
+}

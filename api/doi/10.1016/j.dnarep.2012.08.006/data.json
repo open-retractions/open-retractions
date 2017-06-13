@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.dnarep.2013.09.005","type":"err"},"doi":"10.1016/j.dnarep.2012.08.006","journal":"DNA Repair","publisher":"Elsevier BV","title":"Corrigendum to “Inhibition of ATM blocks the etoposide-induced DNA damage response and apoptosis of human resting T cells” [DNA Repair 11 (11) (2012) 864–873]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496052663336,
+      "identifier": {
+        "doi": "10.1016/j.dnarep.2013.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dnarep.2012.08.006"
+  },
+  "journal": "DNA Repair",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inhibition of ATM blocks the etoposide-induced DNA damage response and apoptosis of human resting T cells” [DNA Repair 11 (11) (2012) 864–873]"
+}

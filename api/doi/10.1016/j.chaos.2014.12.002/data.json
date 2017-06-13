@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.chaos.2015.04.007","type":"err"},"doi":"10.1016/j.chaos.2014.12.002","journal":"Chaos, Solitons & Fractals","publisher":"Elsevier BV","title":"Corrigendum to “Power law scaling and “Dragon-Kings” in distributions of intraday financial drawdowns” [Chaos Solitons Fractals 74 (2015) 27–45]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496059168124,
+      "identifier": {
+        "doi": "10.1016/j.chaos.2015.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chaos.2014.12.002"
+  },
+  "journal": "Chaos, Solitons & Fractals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Power law scaling and “Dragon-Kings” in distributions of intraday financial drawdowns” [Chaos Solitons Fractals 74 (2015) 27–45]"
+}

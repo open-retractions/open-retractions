@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1146096000000,"doi":"10.1007/s10452-006-9034-6","type":"correction"},"doi":"10.1007/s10452-005-9028-9","journal":"Aquatic Ecology","publisher":"Springer Nature","title":"Feeding on micro-algae in the invasive Ponto-Caspian amphipod Dikerogammarus villosus (Sowinsky 1984)"}
+{
+  "retracted": false,
+  "timestamp": 1146096000000,
+  "updates": [
+    {
+      "timestamp": 1495815701734,
+      "identifier": {
+        "doi": "10.1007/s10452-006-9034-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10452-005-9028-9"
+  },
+  "journal": "Aquatic Ecology",
+  "publisher": "Springer Nature",
+  "title": "Feeding on micro-algae in the invasive Ponto-Caspian amphipod Dikerogammarus villosus (Sowinsky 1984)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373932800000,"doi":"10.1136/bmj.f4819","type":"correction"},"doi":"10.1136/bmj.f4503","journal":"BMJ","publisher":"BMJ","title":"The next step in controlling HBV in China"}
+{
+  "retracted": false,
+  "timestamp": 1373932800000,
+  "updates": [
+    {
+      "timestamp": 1496033577302,
+      "identifier": {
+        "doi": "10.1136/bmj.f4819"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f4503"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The next step in controlling HBV in China"
+}

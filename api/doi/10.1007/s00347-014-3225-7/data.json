@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444089600000,"doi":"10.1007/s00347-015-0144-1","type":"correction"},"doi":"10.1007/s00347-014-3225-7","journal":"Der Ophthalmologe","publisher":"Springer Nature","title":"Erratum zu: Das Deutsche Akanthamöbenkeratitis-Register"}
+{
+  "retracted": false,
+  "timestamp": 1444089600000,
+  "updates": [
+    {
+      "timestamp": 1496035361924,
+      "identifier": {
+        "doi": "10.1007/s00347-015-0144-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00347-014-3225-7"
+  },
+  "journal": "Der Ophthalmologe",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Das Deutsche Akanthamöbenkeratitis-Register"
+}

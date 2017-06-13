@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403136000000,"doi":"10.1016/j.cell.2014.05.029","type":"err"},"doi":"10.1016/j.cell.2014.04.017","journal":"Cell","publisher":"Elsevier BV","title":"Programming and Inheritance of Parental DNA Methylomes in Mammals"}
+{
+  "retracted": false,
+  "timestamp": 1403136000000,
+  "updates": [
+    {
+      "timestamp": 1496047509476,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.05.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.04.017"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Programming and Inheritance of Parental DNA Methylomes in Mammals"
+}

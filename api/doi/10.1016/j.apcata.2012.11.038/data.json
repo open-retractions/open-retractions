@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398124800000,"doi":"10.1016/j.apcata.2014.02.018","type":"err"},"doi":"10.1016/j.apcata.2012.11.038","journal":"Applied Catalysis A: General","publisher":"Elsevier BV","title":"Corrigendum to “Performance and deactivation of Ir-based catalyst during hydroxylammonium nitrate catalytic decomposition” [Appl. Catal. A: Gen. 452 (2013) 64–68]"}
+{
+  "retracted": false,
+  "timestamp": 1398124800000,
+  "updates": [
+    {
+      "timestamp": 1496023597662,
+      "identifier": {
+        "doi": "10.1016/j.apcata.2014.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apcata.2012.11.038"
+  },
+  "journal": "Applied Catalysis A: General",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance and deactivation of Ir-based catalyst during hydroxylammonium nitrate catalytic decomposition” [Appl. Catal. A: Gen. 452 (2013) 64–68]"
+}

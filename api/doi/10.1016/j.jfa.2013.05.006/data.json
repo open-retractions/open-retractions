@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.jfa.2015.09.027","type":"err"},"doi":"10.1016/j.jfa.2013.05.006","journal":"Journal of Functional Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Classifying C⁎-algebras with both finite and infinite subquotients” [J. Funct. Anal. 265 (2013) 449–468]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496044739523,
+      "identifier": {
+        "doi": "10.1016/j.jfa.2015.09.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfa.2013.05.006"
+  },
+  "journal": "Journal of Functional Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Classifying C⁎-algebras with both finite and infinite subquotients” [J. Funct. Anal. 265 (2013) 449–468]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1016/j.str.2016.07.006","type":"err"},"doi":"10.1016/j.str.2016.03.025","journal":"Structure","publisher":"Elsevier BV","title":"Structural Mechanism of Allosteric Activity Regulation in a Ribonucleotide Reductase with Double ATP Cones"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495733581077,
+      "identifier": {
+        "doi": "10.1016/j.str.2016.07.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.str.2016.03.025"
+  },
+  "journal": "Structure",
+  "publisher": "Elsevier BV",
+  "title": "Structural Mechanism of Allosteric Activity Regulation in a Ribonucleotide Reductase with Double ATP Cones"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397260800000,"doi":"10.1007/s11664-014-3158-6","type":"correction"},"doi":"10.1007/s11664-014-3036-2","journal":"Journal of Electronic Materials","publisher":"Springer Nature","title":"Erratum to: Quantitative Auger Electron Spectroscopy Analysis of Hg1-x Cd x Te"}
+{
+  "retracted": false,
+  "timestamp": 1397260800000,
+  "updates": [
+    {
+      "timestamp": 1496032247871,
+      "identifier": {
+        "doi": "10.1007/s11664-014-3158-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11664-014-3036-2"
+  },
+  "journal": "Journal of Electronic Materials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantitative Auger Electron Spectroscopy Analysis of Hg1-x Cd x Te"
+}

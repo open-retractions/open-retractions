@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394668800000,"doi":"10.1016/j.cell.2014.02.044","type":"err"},"doi":"10.1016/j.cell.2013.08.031","journal":"Cell","publisher":"Elsevier BV","title":"The Cell-Cycle State of Stem Cells Determines Cell Fate Propensity"}
+{
+  "retracted": false,
+  "timestamp": 1394668800000,
+  "updates": [
+    {
+      "timestamp": 1496026239433,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.02.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.08.031"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "The Cell-Cycle State of Stem Cells Determines Cell Fate Propensity"
+}

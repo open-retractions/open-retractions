@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399593600000,"doi":"10.1007/s00277-014-2101-5","type":"correction"},"doi":"10.1007/s00277-012-1648-2","journal":"Annals of Hematology","publisher":"Springer Nature","title":"Erratum to: High expression of the Ets-related gene (ERG) is an independent prognostic marker for relapse-free survival in patients with acute promyelocytic leukemia"}
+{
+  "retracted": false,
+  "timestamp": 1399593600000,
+  "updates": [
+    {
+      "timestamp": 1496037255004,
+      "identifier": {
+        "doi": "10.1007/s00277-014-2101-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00277-012-1648-2"
+  },
+  "journal": "Annals of Hematology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High expression of the Ets-related gene (ERG) is an independent prognostic marker for relapse-free survival in patients with acute promyelocytic leukemia"
+}

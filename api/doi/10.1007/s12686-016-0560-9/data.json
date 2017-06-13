@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1007/s12686-016-0578-z","type":"correction"},"doi":"10.1007/s12686-016-0560-9","journal":"Conservation Genetics Resources","publisher":"Springer Nature","title":"Erratum to: Identifying prey items from New Zealand fur seal (Arctocephalus forsteri) faeces using massive parallel sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495728879169,
+      "identifier": {
+        "doi": "10.1007/s12686-016-0578-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12686-016-0560-9"
+  },
+  "journal": "Conservation Genetics Resources",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identifying prey items from New Zealand fur seal (Arctocephalus forsteri) faeces using massive parallel sequencing"
+}

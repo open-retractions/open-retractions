@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jsv.2015.04.029","type":"err"},"doi":"10.1016/j.jsv.2014.11.016","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Erratum to “The influence of joints on friction induced vibration in brake squeal” [J. Sound Vib. 340 (2014) 239–252]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496003250687,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2015.04.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2014.11.016"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The influence of joints on friction induced vibration in brake squeal” [J. Sound Vib. 340 (2014) 239–252]"
+}

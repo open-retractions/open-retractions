@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.contraception.2016.06.001","type":"err"},"doi":"10.1016/j.contraception.2016.02.024","journal":"Contraception","publisher":"Elsevier BV","title":"Corrigendum to “Rowe P et al. safety and efficacy in parous women of a 52-mg levonorgestrel-medicated intrauterine device: a 7-year randomized comparative study with the TCu380A” [Contraception 2016;93:498–506]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495721417443,
+      "identifier": {
+        "doi": "10.1016/j.contraception.2016.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.contraception.2016.02.024"
+  },
+  "journal": "Contraception",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rowe P et al. safety and efficacy in parous women of a 52-mg levonorgestrel-medicated intrauterine device: a 7-year randomized comparative study with the TCu380A” [Contraception 2016;93:498–506]"
+}

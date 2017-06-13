@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1063/1.4825201","type":"correction"},"doi":"10.1063/1.2388269","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “The vibrational progressions of the N → V electronic transition of ethylene: A test case for the computation of Franck-Condon factors of highly flexible photoexcited molecules” [J. Chem. Phys. 125, 194308 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1496054159367,
+      "identifier": {
+        "doi": "10.1063/1.4825201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2388269"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The vibrational progressions of the N → V electronic transition of ethylene: A test case for the computation of Franck-Condon factors of highly flexible photoexcited molecules” [J. Chem. Phys. 125, 194308 (2006)]"
+}

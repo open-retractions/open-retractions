@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402531200000,"doi":"10.1080/02673037.2014.931012","type":"correction"},"doi":"10.1080/02673037.2013.878020","journal":"Housing Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1402531200000,
+  "updates": [
+    {
+      "timestamp": 1496045407220,
+      "identifier": {
+        "doi": "10.1080/02673037.2014.931012"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02673037.2013.878020"
+  },
+  "journal": "Housing Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

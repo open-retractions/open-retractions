@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1146528000000,"doi":"10.1073/pnas.0602708103","type":"correction"},"doi":"10.1073/pnas.0600508103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tadigotla et al., Thermodynamic and kinetic modeling of transcriptional pausing"}
+{
+  "retracted": false,
+  "timestamp": 1146528000000,
+  "updates": [
+    {
+      "timestamp": 1495803383669,
+      "identifier": {
+        "doi": "10.1073/pnas.0602708103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0600508103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tadigotla et al., Thermodynamic and kinetic modeling of transcriptional pausing"
+}

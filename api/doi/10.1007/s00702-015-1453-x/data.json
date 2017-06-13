@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446768000000,"doi":"10.1007/s00702-015-1471-8","type":"correction"},"doi":"10.1007/s00702-015-1453-x","journal":"Journal of Neural Transmission","publisher":"Springer Nature","title":"Erratum to: Strategies for treatment of dystonia"}
+{
+  "retracted": false,
+  "timestamp": 1446768000000,
+  "updates": [
+    {
+      "timestamp": 1496040891917,
+      "identifier": {
+        "doi": "10.1007/s00702-015-1471-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00702-015-1453-x"
+  },
+  "journal": "Journal of Neural Transmission",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Strategies for treatment of dystonia"
+}

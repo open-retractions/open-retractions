@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1147132800000,"doi":"10.1073/pnas.0602514103","type":"correction"},"doi":"10.1073/pnas.0600559103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ellis-Behnke et al., Nano neuro knitting: Peptide nanofiber scaffold for brain repair and axon regeneration with functional return of vision"}
+{
+  "retracted": false,
+  "timestamp": 1147132800000,
+  "updates": [
+    {
+      "timestamp": 1495816645148,
+      "identifier": {
+        "doi": "10.1073/pnas.0602514103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0600559103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ellis-Behnke et al., Nano neuro knitting: Peptide nanofiber scaffold for brain repair and axon regeneration with functional return of vision"
+}

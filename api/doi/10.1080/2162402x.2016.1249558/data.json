@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491523200000,"doi":"10.1080/2162402x.2017.1311485","type":"correction"},"doi":"10.1080/2162402x.2016.1249558","journal":"OncoImmunology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1491523200000,
+  "updates": [
+    {
+      "timestamp": 1495737170541,
+      "identifier": {
+        "doi": "10.1080/2162402x.2017.1311485"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/2162402x.2016.1249558"
+  },
+  "journal": "OncoImmunology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

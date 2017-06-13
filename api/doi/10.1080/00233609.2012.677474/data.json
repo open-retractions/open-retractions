@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412294400000,"doi":"10.1080/00233609.2013.820883","type":"correction"},"doi":"10.1080/00233609.2012.677474","journal":"Konsthistorisk tidskrift/Journal of Art History","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1412294400000,
+  "updates": [
+    {
+      "timestamp": 1496033576953,
+      "identifier": {
+        "doi": "10.1080/00233609.2013.820883"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00233609.2012.677474"
+  },
+  "journal": "Konsthistorisk tidskrift/Journal of Art History",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

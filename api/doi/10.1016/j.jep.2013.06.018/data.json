@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1016/j.jep.2013.11.001","type":"err"},"doi":"10.1016/j.jep.2013.06.018","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Erratum to “In vivo antimalarial activity of Keetia leucantha twigs extracts and in vitro antiplasmodial effect of their constituents” [J. Ethnopharmacol. 149(1) (2013) 176–183]"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1495996931185,
+      "identifier": {
+        "doi": "10.1016/j.jep.2013.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2013.06.018"
+  },
+  "journal": "Journal of Ethnopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “In vivo antimalarial activity of Keetia leucantha twigs extracts and in vitro antiplasmodial effect of their constituents” [J. Ethnopharmacol. 149(1) (2013) 176–183]"
+}

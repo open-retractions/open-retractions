@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375228800000,"doi":"10.1371/annotation/6ab9387b-ebd3-4692-99e8-96661687b6bb","type":"correction"},"doi":"10.1371/journal.pone.0067741","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Flavobacterium plurextorum sp. nov. Isolated from Farmed Rainbow Trout (Oncorhynchus mykiss)"}
+{
+  "retracted": false,
+  "timestamp": 1375228800000,
+  "updates": [
+    {
+      "timestamp": 1496036920856,
+      "identifier": {
+        "doi": "10.1371/annotation/6ab9387b-ebd3-4692-99e8-96661687b6bb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0067741"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Flavobacterium plurextorum sp. nov. Isolated from Farmed Rainbow Trout (Oncorhynchus mykiss)"
+}

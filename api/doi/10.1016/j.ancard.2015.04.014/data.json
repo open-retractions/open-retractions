@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.ancard.2015.07.001","type":"err"},"doi":"10.1016/j.ancard.2015.04.014","journal":"Annales de Cardiologie et d'Angéiologie","publisher":"Elsevier BV","title":"Erratum à l’article : « Relation entre structure et fonction de l’artère cérébrale “ carotide ” chez le rat Wistar soumis à un régime athérogène. » Ann. Cardiol. Angeiol. (2015); 64(3): 180-186"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496022780466,
+      "identifier": {
+        "doi": "10.1016/j.ancard.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ancard.2015.04.014"
+  },
+  "journal": "Annales de Cardiologie et d'Angéiologie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à l’article : « Relation entre structure et fonction de l’artère cérébrale “ carotide ” chez le rat Wistar soumis à un régime athérogène. » Ann. Cardiol. Angeiol. (2015); 64(3): 180-186"
+}

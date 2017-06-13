@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.tafmec.2016.04.005","type":"erratum"},"doi":"10.1016/j.tafmec.2015.01.002","journal":"Theoretical and Applied Fracture Mechanics","publisher":"Elsevier BV","title":"Corrigendum to “Algorithm to estimate notch root strain in tension using numerical analysis”. [Theor. Appl. Fract. Mech. 77 (2015) 1–13]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495674953651,
+      "identifier": {
+        "doi": "10.1016/j.tafmec.2016.04.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tafmec.2015.01.002"
+  },
+  "journal": "Theoretical and Applied Fracture Mechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Algorithm to estimate notch root strain in tension using numerical analysis”. [Theor. Appl. Fract. Mech. 77 (2015) 1–13]"
+}

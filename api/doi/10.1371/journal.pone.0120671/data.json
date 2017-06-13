@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432684800000,"doi":"10.1371/journal.pone.0129184","type":"correction"},"doi":"10.1371/journal.pone.0120671","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: AGAPE (Automated Genome Analysis PipelinE) for Pan-Genome Analysis of Saccharomyces cerevisiae"}
+{
+  "retracted": false,
+  "timestamp": 1432684800000,
+  "updates": [
+    {
+      "timestamp": 1496002459158,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0129184"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0120671"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: AGAPE (Automated Genome Analysis PipelinE) for Pan-Genome Analysis of Saccharomyces cerevisiae"
+}

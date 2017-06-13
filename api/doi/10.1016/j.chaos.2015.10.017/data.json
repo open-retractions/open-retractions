@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.chaos.2015.11.030","type":"err"},"doi":"10.1016/j.chaos.2015.10.017","journal":"Chaos, Solitons & Fractals","publisher":"Elsevier BV","title":"Corrigendum to: Measure expansivity for C1-conservative systems [Chaos, Solitons & Fractals, 81PA (2015) 400–405]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496050199859,
+      "identifier": {
+        "doi": "10.1016/j.chaos.2015.11.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chaos.2015.10.017"
+  },
+  "journal": "Chaos, Solitons & Fractals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Measure expansivity for C1-conservative systems [Chaos, Solitons & Fractals, 81PA (2015) 400–405]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387497600000,"doi":"10.1371/annotation/6b155146-de73-4733-83b0-62224d84717e","type":"correction"},"doi":"10.1371/journal.pone.0067158","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Characterization of PUD-1 and PUD-2, Two Proteins Up-Regulated in a Long-Lived daf-2 Mutant"}
+{
+  "retracted": false,
+  "timestamp": 1387497600000,
+  "updates": [
+    {
+      "timestamp": 1496006330688,
+      "identifier": {
+        "doi": "10.1371/annotation/6b155146-de73-4733-83b0-62224d84717e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0067158"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Characterization of PUD-1 and PUD-2, Two Proteins Up-Regulated in a Long-Lived daf-2 Mutant"
+}

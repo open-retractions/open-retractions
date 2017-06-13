@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1224806400000,"doi":"10.1007/s10048-008-0160-2","type":"correction"},"doi":"10.1007/s10048-008-0131-7","journal":"neurogenetics","publisher":"Springer Nature","title":"Erratum to ARSACS in the Dutch population: a frequent cause of early-onset cerebellar ataxia"}
+{
+  "retracted": false,
+  "timestamp": 1224806400000,
+  "updates": [
+    {
+      "timestamp": 1495886346580,
+      "identifier": {
+        "doi": "10.1007/s10048-008-0160-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10048-008-0131-7"
+  },
+  "journal": "neurogenetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to ARSACS in the Dutch population: a frequent cause of early-onset cerebellar ataxia"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1088/0143-0807/37/2/029501","type":"correction"},"doi":"10.1088/0143-0807/36/5/055013","journal":"European Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: The dynamics of hurricane balls (2015Eur. J. Phys.36055013)"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643068046,
+      "identifier": {
+        "doi": "10.1088/0143-0807/37/2/029501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0143-0807/36/5/055013"
+  },
+  "journal": "European Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: The dynamics of hurricane balls (2015Eur. J. Phys.36055013)"
+}

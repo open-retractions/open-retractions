@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401753600000,"doi":"10.1016/j.jbiomech.2014.03.013","type":"err"},"doi":"10.1016/j.jbiomech.2013.03.007","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Identifying intrinsic and reflexive contributions to low-back stabilization” [J. Biomech. 46(8) (2013) 1440–1446]"}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496035097551,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2014.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2013.03.007"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identifying intrinsic and reflexive contributions to low-back stabilization” [J. Biomech. 46(8) (2013) 1440–1446]"
+}

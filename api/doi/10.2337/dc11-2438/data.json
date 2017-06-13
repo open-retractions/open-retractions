@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351728000000,"doi":"10.2337/dc12-er11a","type":"correction"},"doi":"10.2337/dc11-2438","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Health-related quality of life among German youths with early-onset and long-duration type 1 diabetes. Diabetes Care 2012;35:1736-1742"}
+{
+  "retracted": false,
+  "timestamp": 1351728000000,
+  "updates": [
+    {
+      "timestamp": 1495961332471,
+      "identifier": {
+        "doi": "10.2337/dc12-er11a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc11-2438"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Health-related quality of life among German youths with early-onset and long-duration type 1 diabetes. Diabetes Care 2012;35:1736-1742"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1016/j.cell.2015.05.021","type":"err"},"doi":"10.1016/j.cell.2014.03.062","journal":"Cell","publisher":"Elsevier BV","title":"Cytotoxic Cells Kill Intracellular Bacteria through Granulysin-Mediated Delivery of Granzymes"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1495998393317,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.05.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.03.062"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Cytotoxic Cells Kill Intracellular Bacteria through Granulysin-Mediated Delivery of Granzymes"
+}

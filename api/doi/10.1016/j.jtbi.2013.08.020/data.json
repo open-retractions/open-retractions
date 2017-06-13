@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419120000000,"doi":"10.1016/j.jtbi.2014.09.012","type":"err"},"doi":"10.1016/j.jtbi.2013.08.020","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"Corrigendum to “Adaptive responses of energy storage and fish life histories to climatic gradients” [J. Theor. Biol. 339 (2013) 100–111]"}
+{
+  "retracted": false,
+  "timestamp": 1419120000000,
+  "updates": [
+    {
+      "timestamp": 1496006857220,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2014.09.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2013.08.020"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adaptive responses of energy storage and fish life histories to climatic gradients” [J. Theor. Biol. 339 (2013) 100–111]"
+}

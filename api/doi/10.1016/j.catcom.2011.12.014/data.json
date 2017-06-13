@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380931200000,"doi":"10.1016/j.catcom.2013.06.016","type":"err"},"doi":"10.1016/j.catcom.2011.12.014","journal":"Catalysis Communications","publisher":"Elsevier BV","title":"Corrigendum to “A green synthesis route of ortho-chloroaniline: Solvent-free selective hydrogenation of ortho-chloronitrobenzene over Pt–Ru/Fe3O4/C catalyst” [Catal. Commun. 19 (2012) 110–114]"}
+{
+  "retracted": false,
+  "timestamp": 1380931200000,
+  "updates": [
+    {
+      "timestamp": 1496032584610,
+      "identifier": {
+        "doi": "10.1016/j.catcom.2013.06.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.catcom.2011.12.014"
+  },
+  "journal": "Catalysis Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A green synthesis route of ortho-chloroaniline: Solvent-free selective hydrogenation of ortho-chloronitrobenzene over Pt–Ru/Fe3O4/C catalyst” [Catal. Commun. 19 (2012) 110–114]"
+}

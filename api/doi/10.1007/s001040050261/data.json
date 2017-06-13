@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":874800000000,"doi":"10.1007/s001040050303","type":"correction"},"doi":"10.1007/s001040050261","journal":"Der Chirurg","publisher":"Springer Nature","title":"Erratum to: Chirurg (1997) 68:727–731"}
+{
+  "retracted": false,
+  "timestamp": 874800000000,
+  "updates": [
+    {
+      "timestamp": 1495809309483,
+      "identifier": {
+        "doi": "10.1007/s001040050303"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s001040050261"
+  },
+  "journal": "Der Chirurg",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chirurg (1997) 68:727–731"
+}

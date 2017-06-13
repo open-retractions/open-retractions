@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1245/s10434-016-5170-y","type":"correction"},"doi":"10.1007/s11668-016-0089-y","journal":"Annals of Surgical Oncology","publisher":"Springer Nature","title":"Erratum to: Magnetic Technique for Sentinel Lymph Node Biopsy in Melanoma: The MELAMAG Trial"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652684018,
+      "identifier": {
+        "doi": "10.1245/s10434-016-5170-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11668-016-0089-y"
+  },
+  "journal": "Annals of Surgical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Magnetic Technique for Sentinel Lymph Node Biopsy in Melanoma: The MELAMAG Trial"
+}

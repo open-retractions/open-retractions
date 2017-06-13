@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475625600000,"doi":"10.1007/s00112-016-0190-z","type":"correction"},"doi":"10.1007/s00112-016-0158-z","journal":"Monatsschrift Kinderheilkunde","publisher":"Springer Nature","title":"Erratum zu: Pertussis. Epidemiologie und neue Impfkonzepte"}
+{
+  "retracted": false,
+  "timestamp": 1475625600000,
+  "updates": [
+    {
+      "timestamp": 1495645830231,
+      "identifier": {
+        "doi": "10.1007/s00112-016-0190-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00112-016-0158-z"
+  },
+  "journal": "Monatsschrift Kinderheilkunde",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Pertussis. Epidemiologie und neue Impfkonzepte"
+}

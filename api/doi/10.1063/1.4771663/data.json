@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361318400000,"doi":"10.1063/1.4792369","type":"correction"},"doi":"10.1063/1.4771663","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Water formation through O2 + D pathway on cold silicate and amorphous water ice surfaces of interstellar interest” [J. Chem. Phys. 137, 234706 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1361318400000,
+  "updates": [
+    {
+      "timestamp": 1495997044607,
+      "identifier": {
+        "doi": "10.1063/1.4792369"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4771663"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Water formation through O2 + D pathway on cold silicate and amorphous water ice surfaces of interstellar interest” [J. Chem. Phys. 137, 234706 (2012)]"
+}

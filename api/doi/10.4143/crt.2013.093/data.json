@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408924800000,"doi":"10.4143/crt.2013.093","type":"correction"},"doi":"10.4143/crt.2013.093","journal":"Cancer Research and Treatment","publisher":"Korean Cancer Association","title":"A New Approach to the Treatment of Metastatic Paraganglioma: Sorafenib"}
+{
+  "retracted": false,
+  "timestamp": 1408924800000,
+  "updates": [
+    {
+      "timestamp": 1496054917987,
+      "identifier": {
+        "doi": "10.4143/crt.2013.093"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4143/crt.2013.093"
+  },
+  "journal": "Cancer Research and Treatment",
+  "publisher": "Korean Cancer Association",
+  "title": "A New Approach to the Treatment of Metastatic Paraganglioma: Sorafenib"
+}

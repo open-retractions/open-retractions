@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.molliq.2016.08.006","type":"err"},"doi":"10.1016/j.molliq.2015.10.058","journal":"Journal of Molecular Liquids","publisher":"Elsevier BV","title":"Corrigendum to “Refractive index measurements in uniaxial and biaxial lyotropic nematic phases” [J. Mol. Liq. 213 (2016) 186–190]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495740954147,
+      "identifier": {
+        "doi": "10.1016/j.molliq.2016.08.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molliq.2015.10.058"
+  },
+  "journal": "Journal of Molecular Liquids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Refractive index measurements in uniaxial and biaxial lyotropic nematic phases” [J. Mol. Liq. 213 (2016) 186–190]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451865600000,"doi":"10.1186/s12893-015-0113-2","type":"correction"},"doi":"10.1186/s12893-015-0017-1","journal":"BMC Surgery","publisher":"Springer Nature","title":"Erratum to: The ACCURE-trial: the effect of appendectomy on the clinical course of ulcerative colitis, a randomised international multicenter trial (NTR2883) and the ACCURE-UK trial: a randomised external pilot trial (ISRCTN56523019)"}
+{
+  "retracted": false,
+  "timestamp": 1451865600000,
+  "updates": [
+    {
+      "timestamp": 1496057568986,
+      "identifier": {
+        "doi": "10.1186/s12893-015-0113-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12893-015-0017-1"
+  },
+  "journal": "BMC Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The ACCURE-trial: the effect of appendectomy on the clinical course of ulcerative colitis, a randomised international multicenter trial (NTR2883) and the ACCURE-UK trial: a randomised external pilot trial (ISRCTN56523019)"
+}

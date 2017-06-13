@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450310400000,"doi":"10.1016/j.cell.2015.12.003","type":"erratum"},"doi":"10.1016/j.cell.2015.10.055","journal":"Cell","publisher":"Elsevier BV","title":"Molecular Mechanism of V(D)J Recombination from Synaptic RAG1-RAG2 Complex Structures"}
+{
+  "retracted": false,
+  "timestamp": 1450310400000,
+  "updates": [
+    {
+      "timestamp": 1496054119534,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.12.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.10.055"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Molecular Mechanism of V(D)J Recombination from Synaptic RAG1-RAG2 Complex Structures"
+}

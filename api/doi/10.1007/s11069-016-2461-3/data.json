@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479340800000,"doi":"10.1007/s11069-016-2639-8","type":"correction"},"doi":"10.1007/s11069-016-2461-3","journal":"Natural Hazards","publisher":"Springer Nature","title":"Erratum to: A numerical investigation of the 1783 landslide-induced catastrophic tsunami in Scilla, Italy"}
+{
+  "retracted": false,
+  "timestamp": 1479340800000,
+  "updates": [
+    {
+      "timestamp": 1495659494172,
+      "identifier": {
+        "doi": "10.1007/s11069-016-2639-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11069-016-2461-3"
+  },
+  "journal": "Natural Hazards",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A numerical investigation of the 1783 landslide-induced catastrophic tsunami in Scilla, Italy"
+}

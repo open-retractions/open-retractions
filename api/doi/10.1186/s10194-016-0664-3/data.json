@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474329600000,"doi":"10.1186/s10194-016-0677-y","type":"correction"},"doi":"10.1186/s10194-016-0664-3","journal":"The Journal of Headache and Pain","publisher":"Springer Nature","title":"Erratum to: Expression of messenger molecules and receptors in rat and human sphenopalatine ganglion indicating therapeutic targets"}
+{
+  "retracted": false,
+  "timestamp": 1474329600000,
+  "updates": [
+    {
+      "timestamp": 1495641238446,
+      "identifier": {
+        "doi": "10.1186/s10194-016-0677-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s10194-016-0664-3"
+  },
+  "journal": "The Journal of Headache and Pain",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Expression of messenger molecules and receptors in rat and human sphenopalatine ganglion indicating therapeutic targets"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443052800000,"doi":"10.1080/14693062.2015.1094932","type":"correction"},"doi":"10.1080/14693062.2015.1046414","journal":"Climate Policy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1443052800000,
+  "updates": [
+    {
+      "timestamp": 1496028665596,
+      "identifier": {
+        "doi": "10.1080/14693062.2015.1094932"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14693062.2015.1046414"
+  },
+  "journal": "Climate Policy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

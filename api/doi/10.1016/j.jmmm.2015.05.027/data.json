@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jmmm.2016.01.086","type":"err"},"doi":"10.1016/j.jmmm.2015.05.027","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Erratum to: “Microwave magnetoelectric fields: An analytical study of topological characteristics” [J. Magn. Magn. Mater. 392 (2015) 6–21]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495641408479,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2016.01.086"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2015.05.027"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Microwave magnetoelectric fields: An analytical study of topological characteristics” [J. Magn. Magn. Mater. 392 (2015) 6–21]"
+}

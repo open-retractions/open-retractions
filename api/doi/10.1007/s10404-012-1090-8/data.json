@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393977600000,"doi":"10.1007/s10404-013-1315-5","type":"correction"},"doi":"10.1007/s10404-012-1090-8","journal":"Microfluidics and Nanofluidics","publisher":"Springer Nature","title":"Erratum to: Hydrophilic polycarbonate chips for generation of oil-in-water (O/W) and water-in-oil-in-water (W/O/W) emulsions"}
+{
+  "retracted": false,
+  "timestamp": 1393977600000,
+  "updates": [
+    {
+      "timestamp": 1496022350308,
+      "identifier": {
+        "doi": "10.1007/s10404-013-1315-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10404-012-1090-8"
+  },
+  "journal": "Microfluidics and Nanofluidics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hydrophilic polycarbonate chips for generation of oil-in-water (O/W) and water-in-oil-in-water (W/O/W) emulsions"
+}

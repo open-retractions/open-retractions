@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377043200000,"doi":"10.1136/bmj.f5255","type":"correction"},"doi":"10.1136/bmj.f5199","journal":"BMJ","publisher":"BMJ","title":"The BMA and its staff's private health cover"}
+{
+  "retracted": false,
+  "timestamp": 1377043200000,
+  "updates": [
+    {
+      "timestamp": 1496040989856,
+      "identifier": {
+        "doi": "10.1136/bmj.f5255"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5199"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The BMA and its staff's private health cover"
+}

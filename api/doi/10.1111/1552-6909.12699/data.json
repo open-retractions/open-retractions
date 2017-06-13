@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jogn.2016.06.009","type":"err"},"doi":"10.1111/1552-6909.12699","journal":"Journal of Obstetric, Gynecologic & Neonatal Nursing","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495642512561,
+      "identifier": {
+        "doi": "10.1016/j.jogn.2016.06.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/1552-6909.12699"
+  },
+  "journal": "Journal of Obstetric, Gynecologic & Neonatal Nursing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

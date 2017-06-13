@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.bjane.2014.09.001","type":"err"},"doi":"10.1016/j.bjane.2013.06.004","journal":"Brazilian Journal of Anesthesiology (English Edition)","publisher":"Elsevier BV","title":"Erratum of “Addition of lidocaine to levobupivacaine reduces intrathecal block duration: randomized controlled trial”"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496011830914,
+      "identifier": {
+        "doi": "10.1016/j.bjane.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjane.2013.06.004"
+  },
+  "journal": "Brazilian Journal of Anesthesiology (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum of “Addition of lidocaine to levobupivacaine reduces intrathecal block duration: randomized controlled trial”"
+}

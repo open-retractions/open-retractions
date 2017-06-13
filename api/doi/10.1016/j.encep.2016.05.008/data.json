@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.encep.2016.09.002","type":"err"},"doi":"10.1016/j.encep.2016.05.008","journal":"L'Encéphale","publisher":"Elsevier BV","title":"Erratum à « Is negative hallucination still a viable concept? » [L’Encéphale 42 (5) (2016) 293–5]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495648360465,
+      "identifier": {
+        "doi": "10.1016/j.encep.2016.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.encep.2016.05.008"
+  },
+  "journal": "L'Encéphale",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Is negative hallucination still a viable concept? » [L’Encéphale 42 (5) (2016) 293–5]"
+}

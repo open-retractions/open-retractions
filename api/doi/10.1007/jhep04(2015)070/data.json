@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1007/jhep09(2016)072","type":"correction"},"doi":"10.1007/jhep04(2015)070","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: The LPM effect in sequential bremsstrahlung"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639384164,
+      "identifier": {
+        "doi": "10.1007/jhep09(2016)072"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep04(2015)070"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The LPM effect in sequential bremsstrahlung"
+}

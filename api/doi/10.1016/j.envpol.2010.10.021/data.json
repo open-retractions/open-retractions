@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.envpol.2014.09.007","type":"err"},"doi":"10.1016/j.envpol.2010.10.021","journal":"Environmental Pollution","publisher":"Elsevier BV","title":"Corrigendum to “Effects of nitrogen deposition and soil fertility on cover and physiology of Cladonia foliacea (Huds.) Willd., a lichen of biological soil crusts from Mediterranean Spain” [Environ. Pollut. 159 (2) (February 2011) 449–457]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496010612944,
+      "identifier": {
+        "doi": "10.1016/j.envpol.2014.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envpol.2010.10.021"
+  },
+  "journal": "Environmental Pollution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of nitrogen deposition and soil fertility on cover and physiology of Cladonia foliacea (Huds.) Willd., a lichen of biological soil crusts from Mediterranean Spain” [Environ. Pollut. 159 (2) (February 2011) 449–457]"
+}

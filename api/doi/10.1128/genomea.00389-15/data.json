@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485993600000,"doi":"10.1128/genomea.00058-17","type":"correction"},"doi":"10.1128/genomea.00389-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"n Erratum for Inokuma et al., Complete Genome Sequence ofn Kluyveromyces marxianusn NBRC1777, a Nonconventional Thermotolerant Yeastn "}
+{
+  "retracted": false,
+  "timestamp": 1485993600000,
+  "updates": [
+    {
+      "timestamp": 1495716653890,
+      "identifier": {
+        "doi": "10.1128/genomea.00058-17"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00389-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "\n            Erratum for Inokuma et al., Complete Genome Sequence of\n            Kluyveromyces marxianus\n            NBRC1777, a Nonconventional Thermotolerant Yeast\n          "
+}

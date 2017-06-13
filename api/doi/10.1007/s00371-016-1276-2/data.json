@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474243200000,"doi":"10.1007/s00371-016-1319-8","type":"correction"},"doi":"10.1007/s00371-016-1276-2","journal":"The Visual Computer","publisher":"Springer Nature","title":"Erratum to: Preface"}
+{
+  "retracted": false,
+  "timestamp": 1474243200000,
+  "updates": [
+    {
+      "timestamp": 1495640825486,
+      "identifier": {
+        "doi": "10.1007/s00371-016-1319-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00371-016-1276-2"
+  },
+  "journal": "The Visual Computer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Preface"
+}

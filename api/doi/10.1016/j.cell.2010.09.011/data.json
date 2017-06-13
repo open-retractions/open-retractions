@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1287100800000,"update":{"timestamp":null,"doi":null,"pmid":27203114,"type":"retraction"},"doi":"10.1016/j.cell.2010.09.011","journal":"Cell","publisher":null,"title":"Cytohesins are cytoplasmic ErbB receptor activators."}
+{
+  "retracted": false,
+  "timestamp": 1463616000000,
+  "updates": [
+    {
+      "timestamp": 1495678262099,
+      "identifier": {
+        "doi": "10.1016/j.cell.2016.05.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2010.09.011"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: Cytohesins Are Cytoplasmic ErbB Receptor Activators"
+}

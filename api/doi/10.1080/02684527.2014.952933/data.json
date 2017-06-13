@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454630400000,"doi":"10.1080/02684527.2015.1095490","type":"correction"},"doi":"10.1080/02684527.2014.952933","journal":"Intelligence and National Security","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1454630400000,
+  "updates": [
+    {
+      "timestamp": 1495642678474,
+      "identifier": {
+        "doi": "10.1080/02684527.2015.1095490"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02684527.2014.952933"
+  },
+  "journal": "Intelligence and National Security",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

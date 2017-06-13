@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1007/s12026-013-8484-x","type":"correction"},"doi":"10.1007/s12026-013-8460-5","journal":"Immunologic Research","publisher":"Springer Nature","title":"Erratum to: Semaphorin7A: branching beyond axonal guidance and into immunity"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496011130224,
+      "identifier": {
+        "doi": "10.1007/s12026-013-8484-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12026-013-8460-5"
+  },
+  "journal": "Immunologic Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Semaphorin7A: branching beyond axonal guidance and into immunity"
+}

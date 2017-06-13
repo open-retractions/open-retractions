@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473292800000,"doi":"10.1007/s11192-016-2123-y","type":"correction"},"doi":"10.1007/s11192-016-1920-7","journal":"Scientometrics","publisher":"Springer Nature","title":"Erratum to: Is time up for the Flesch measure of reading ease?"}
+{
+  "retracted": false,
+  "timestamp": 1473292800000,
+  "updates": [
+    {
+      "timestamp": 1495638237493,
+      "identifier": {
+        "doi": "10.1007/s11192-016-2123-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11192-016-1920-7"
+  },
+  "journal": "Scientometrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Is time up for the Flesch measure of reading ease?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.clim.2015.08.011","type":"erratum"},"doi":"10.1016/j.clim.2013.10.007","journal":"Clinical Immunology","publisher":"Elsevier BV","title":"Erratum to “Immunomodulatory effect of Lactococcus lactis JCM5805 on human plasmacytoid dendritic cells” [Clin. Immunol. 149 (2013) 509-518]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496028663302,
+      "identifier": {
+        "doi": "10.1016/j.clim.2015.08.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clim.2013.10.007"
+  },
+  "journal": "Clinical Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Immunomodulatory effect of Lactococcus lactis JCM5805 on human plasmacytoid dendritic cells” [Clin. Immunol. 149 (2013) 509-518]"
+}

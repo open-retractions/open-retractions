@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.microc.2016.04.007","type":"err"},"doi":"10.1016/j.microc.2015.12.001","journal":"Microchemical Journal","publisher":"Elsevier BV","title":"Corrigendum to: “Non-invasive in situ analytical techniques working in synergy: The application on graduals held in the Certosa di Pavia” [Microchem. J. 126 (2016) 172–180]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495671705516,
+      "identifier": {
+        "doi": "10.1016/j.microc.2016.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.microc.2015.12.001"
+  },
+  "journal": "Microchemical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Non-invasive in situ analytical techniques working in synergy: The application on graduals held in the Certosa di Pavia” [Microchem. J. 126 (2016) 172–180]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.rvsc.2013.12.008","type":"err"},"doi":"10.1016/j.rvsc.2013.05.012","journal":"Research in Veterinary Science","publisher":"Elsevier BV","title":"Corrigendum to “Thermal manipulation during chicken embryogenesis results in enhanced Hsp70 gene expression and the acquisition of thermotolerance” [Research in Veterinary Science 95 (2013) 502–507]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496007530464,
+      "identifier": {
+        "doi": "10.1016/j.rvsc.2013.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rvsc.2013.05.012"
+  },
+  "journal": "Research in Veterinary Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thermal manipulation during chicken embryogenesis results in enhanced Hsp70 gene expression and the acquisition of thermotolerance” [Research in Veterinary Science 95 (2013) 502–507]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487548800000,"doi":"10.1186/s12991-017-0127-5","type":"correction"},"doi":"10.1186/s12991-016-0122-2","journal":"Annals of General Psychiatry","publisher":"Springer Nature","title":"Erratum to: Suicidal ideation and suicide attempts among asthma"}
+{
+  "retracted": false,
+  "timestamp": 1487548800000,
+  "updates": [
+    {
+      "timestamp": 1495680748573,
+      "identifier": {
+        "doi": "10.1186/s12991-017-0127-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12991-016-0122-2"
+  },
+  "journal": "Annals of General Psychiatry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Suicidal ideation and suicide attempts among asthma"
+}

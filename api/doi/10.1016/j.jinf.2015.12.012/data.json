@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jinf.2016.03.009","type":"err"},"doi":"10.1016/j.jinf.2015.12.012","journal":"Journal of Infection","publisher":"Elsevier BV","title":"Corrigendum to “India needs to strengthen microbial disease surveillance strategies” [J Infect 72 (2016) 394–395]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495657390084,
+      "identifier": {
+        "doi": "10.1016/j.jinf.2016.03.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jinf.2015.12.012"
+  },
+  "journal": "Journal of Infection",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “India needs to strengthen microbial disease surveillance strategies” [J Infect 72 (2016) 394–395]"
+}

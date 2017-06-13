@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419033600000,"doi":"10.4161/21645515.2014.983335","type":"correction"},"doi":"10.4161/hv.29140","journal":"Human Vaccines & Immunotherapeutics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1419033600000,
+  "updates": [
+    {
+      "timestamp": 1496032232057,
+      "identifier": {
+        "doi": "10.4161/21645515.2014.983335"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/hv.29140"
+  },
+  "journal": "Human Vaccines & Immunotherapeutics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

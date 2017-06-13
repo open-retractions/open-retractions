@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462320000000,"doi":"10.1016/j.ijhydene.2016.03.029","type":"erratum"},"doi":"10.1016/j.ijhydene.2004.04.012","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “The phase-shift method for determining Langmuir adsorption isotherms of over-potentially deposited hydrogen for the cathodic H2 evolution reaction at poly-Re/aqueous electrolyte interfaces” [Int J Hydrogen Energy 30 (2005) 485–499]"}
+{
+  "retracted": false,
+  "timestamp": 1462320000000,
+  "updates": [
+    {
+      "timestamp": 1495662380578,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2016.03.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2004.04.012"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The phase-shift method for determining Langmuir adsorption isotherms of over-potentially deposited hydrogen for the cathodic H2 evolution reaction at poly-Re/aqueous electrolyte interfaces” [Int J Hydrogen Energy 30 (2005) 485–499]"
+}

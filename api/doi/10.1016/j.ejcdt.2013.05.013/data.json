@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ejcdt.2015.11.008","type":"err"},"doi":"10.1016/j.ejcdt.2013.05.013","journal":"Egyptian Journal of Chest Diseases and Tuberculosis","publisher":"Elsevier BV","title":"Corrigendum to “Endobronchial ultrasonography for lung cancer staging in negative mediastinum on computed tomography” [Egypt. J. Chest Dis. Tuberc. 62 (3) (2013) 475–479]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049218633,
+      "identifier": {
+        "doi": "10.1016/j.ejcdt.2015.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejcdt.2013.05.013"
+  },
+  "journal": "Egyptian Journal of Chest Diseases and Tuberculosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Endobronchial ultrasonography for lung cancer staging in negative mediastinum on computed tomography” [Egypt. J. Chest Dis. Tuberc. 62 (3) (2013) 475–479]"
+}

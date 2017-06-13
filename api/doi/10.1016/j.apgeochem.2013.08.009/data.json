@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.apgeochem.2014.06.006","type":"err"},"doi":"10.1016/j.apgeochem.2013.08.009","journal":"Applied Geochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of the influence of urbanization processes using mangrove and fecal markers in recent organic matter in a tropical tidal flat estuary” [Appl. Geochem. 38 (2013) 82–91]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496055762470,
+      "identifier": {
+        "doi": "10.1016/j.apgeochem.2014.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apgeochem.2013.08.009"
+  },
+  "journal": "Applied Geochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of the influence of urbanization processes using mangrove and fecal markers in recent organic matter in a tropical tidal flat estuary” [Appl. Geochem. 38 (2013) 82–91]"
+}

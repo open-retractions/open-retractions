@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404432000000,"doi":"10.1134/s1063782614070239","type":"correction"},"doi":"10.1134/s1063782614060165","journal":"Semiconductors","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Influence of the nonequilibrium-carrier concentration on the Hall voltage in a p-type semiconductor”"}
+{
+  "retracted": false,
+  "timestamp": 1404432000000,
+  "updates": [
+    {
+      "timestamp": 1496051017355,
+      "identifier": {
+        "doi": "10.1134/s1063782614070239"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063782614060165"
+  },
+  "journal": "Semiconductors",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Influence of the nonequilibrium-carrier concentration on the Hall voltage in a p-type semiconductor”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1098144000000,"doi":"10.1073/pnas.0406713101","type":"correction"},"doi":"10.1073/pnas.0402069101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zerbini et al., NF- B-mediated repression of growth arrest- and DNA-damage-inducible proteins 45  and   is essential for cancer cell survival, PNAS 2004 101:13618-13623"}
+{
+  "retracted": false,
+  "timestamp": 1098144000000,
+  "updates": [
+    {
+      "timestamp": 1495834504082,
+      "identifier": {
+        "doi": "10.1073/pnas.0406713101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0402069101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zerbini et al., NF- B-mediated repression of growth arrest- and DNA-damage-inducible proteins 45  and   is essential for cancer cell survival, PNAS 2004 101:13618-13623"
+}

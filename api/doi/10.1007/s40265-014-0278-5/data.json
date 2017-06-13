@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412812800000,"doi":"10.1007/s40265-014-0311-8","type":"correction"},"doi":"10.1007/s40265-014-0278-5","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Clinical Use of Rivaroxaban: Pharmacokinetic and Pharmacodynamic Rationale for Dosing Regimens in Different Indications"}
+{
+  "retracted": false,
+  "timestamp": 1412812800000,
+  "updates": [
+    {
+      "timestamp": 1496012820652,
+      "identifier": {
+        "doi": "10.1007/s40265-014-0311-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-014-0278-5"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical Use of Rivaroxaban: Pharmacokinetic and Pharmacodynamic Rationale for Dosing Regimens in Different Indications"
+}

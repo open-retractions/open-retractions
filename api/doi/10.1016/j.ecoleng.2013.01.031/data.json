@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.ecoleng.2013.04.002","type":"err"},"doi":"10.1016/j.ecoleng.2013.01.031","journal":"Ecological Engineering","publisher":"Elsevier BV","title":"Corrigendum to: “Floating treatment wetland retrofit to improve stormwater pond performance for suspended solids, copper and zinc” [Ecol. Eng. 54 (2013) 173–182]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496015339387,
+      "identifier": {
+        "doi": "10.1016/j.ecoleng.2013.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoleng.2013.01.031"
+  },
+  "journal": "Ecological Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Floating treatment wetland retrofit to improve stormwater pond performance for suspended solids, copper and zinc” [Ecol. Eng. 54 (2013) 173–182]"
+}

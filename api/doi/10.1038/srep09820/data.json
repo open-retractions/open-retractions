@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436745600000,"doi":"10.1038/srep10506","type":"correction"},"doi":"10.1038/srep09820","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Non-equilibrium scale invariance and shortcuts to adiabaticity in a one-dimensional Bose gas"}
+{
+  "retracted": false,
+  "timestamp": 1436745600000,
+  "updates": [
+    {
+      "timestamp": 1496015165709,
+      "identifier": {
+        "doi": "10.1038/srep10506"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09820"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Non-equilibrium scale invariance and shortcuts to adiabaticity in a one-dimensional Bose gas"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1283299200000,"doi":"10.1057/bp.2010.13","type":"correction"},"doi":"10.1057/bp.2009.20","journal":"British Politics","publisher":"Springer Nature","title":"Erratum: The slow death of the Westminster Lobby: Collateral damage from the MPs’ expenses scandal"}
+{
+  "retracted": false,
+  "timestamp": 1283299200000,
+  "updates": [
+    {
+      "timestamp": 1495881361882,
+      "identifier": {
+        "doi": "10.1057/bp.2010.13"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/bp.2009.20"
+  },
+  "journal": "British Politics",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The slow death of the Westminster Lobby: Collateral damage from the MPs’ expenses scandal"
+}

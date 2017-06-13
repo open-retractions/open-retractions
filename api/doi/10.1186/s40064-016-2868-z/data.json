@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1186/s40064-016-2990-y","type":"correction"},"doi":"10.1186/s40064-016-2868-z","journal":"SpringerPlus","publisher":"Springer Nature","title":"Erratum to: Estimation of the Gini coefficient for the lognormal distribution of income using the Lorenz curve"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495515213831,
+      "identifier": {
+        "doi": "10.1186/s40064-016-2990-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40064-016-2868-z"
+  },
+  "journal": "SpringerPlus",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimation of the Gini coefficient for the lognormal distribution of income using the Lorenz curve"
+}

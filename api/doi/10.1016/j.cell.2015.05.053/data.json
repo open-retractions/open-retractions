@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1016/j.cell.2015.08.017","type":"err"},"doi":"10.1016/j.cell.2015.05.053","journal":"Cell","publisher":"Elsevier BV","title":"A Synergistic Interaction between Chk1- and MK2 Inhibitors in KRAS-Mutant Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496025804755,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.08.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.05.053"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Synergistic Interaction between Chk1- and MK2 Inhibitors in KRAS-Mutant Cancer"
+}

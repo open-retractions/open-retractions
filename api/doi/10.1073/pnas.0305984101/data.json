@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1081814400000,"doi":"10.1073/pnas.0401218101","type":"correction"},"doi":"10.1073/pnas.0305984101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ohgishi et al., Functional analysis of each blue light receptor, cry1, cry2, phot1, and phot2, by using combinatorial multiple mutants in Arabidopsis, PNAS 2004 101:2223-2228"}
+{
+  "retracted": false,
+  "timestamp": 1081814400000,
+  "updates": [
+    {
+      "timestamp": 1495814776507,
+      "identifier": {
+        "doi": "10.1073/pnas.0401218101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0305984101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ohgishi et al., Functional analysis of each blue light receptor, cry1, cry2, phot1, and phot2, by using combinatorial multiple mutants in Arabidopsis, PNAS 2004 101:2223-2228"
+}

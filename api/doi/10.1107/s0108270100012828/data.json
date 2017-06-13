@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":987292800000,"doi":"10.1107/s0108270101003948","type":"correction"},"doi":"10.1107/s0108270100012828","journal":"Acta Crystallographica Section C Crystal Structure Communications","publisher":"International Union of Crystallography (IUCr)","title":"Pseudokobusine. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 987292800000,
+  "updates": [
+    {
+      "timestamp": 1495915855347,
+      "identifier": {
+        "doi": "10.1107/s0108270101003948"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108270100012828"
+  },
+  "journal": "Acta Crystallographica Section C Crystal Structure Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Pseudokobusine. Erratum"
+}

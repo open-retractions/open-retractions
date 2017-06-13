@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.respol.2014.04.006","type":"err"},"doi":"10.1016/j.respol.2012.11.006","journal":"Research Policy","publisher":"Elsevier BV","title":"Erratum to “Effects of the durability of scientific literature at the group level: Case study of chemistry research groups in the Netherlands” [Res. Policy 42 (4) (2013) 886–894]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496037811864,
+      "identifier": {
+        "doi": "10.1016/j.respol.2014.04.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.respol.2012.11.006"
+  },
+  "journal": "Research Policy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effects of the durability of scientific literature at the group level: Case study of chemistry research groups in the Netherlands” [Res. Policy 42 (4) (2013) 886–894]"
+}

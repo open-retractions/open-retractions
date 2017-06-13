@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456444800000,"doi":"10.1007/s10973-016-5359-0","type":"correction"},"doi":"10.1007/s10973-013-3481-9","journal":"Journal of Thermal Analysis and Calorimetry","publisher":"Springer Nature","title":"Erratum to: High temperature properties of MDF composite based on calcium aluminate cement and polyvinyl alcohol"}
+{
+  "retracted": false,
+  "timestamp": 1456444800000,
+  "updates": [
+    {
+      "timestamp": 1495648511790,
+      "identifier": {
+        "doi": "10.1007/s10973-016-5359-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10973-013-3481-9"
+  },
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High temperature properties of MDF composite based on calcium aluminate cement and polyvinyl alcohol"
+}

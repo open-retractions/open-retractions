@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.cma.2016.05.004","type":"err"},"doi":"10.1016/j.cma.2016.03.022","journal":"Computer Methods in Applied Mechanics and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Multi-Fidelity Non-Intrusive Polynomial Chaos Based on Regression” [Comput. Methods Appl. Mech. Engrg. 305 (2016) 579–606]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495716032426,
+      "identifier": {
+        "doi": "10.1016/j.cma.2016.05.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cma.2016.03.022"
+  },
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-Fidelity Non-Intrusive Polynomial Chaos Based on Regression” [Comput. Methods Appl. Mech. Engrg. 305 (2016) 579–606]"
+}

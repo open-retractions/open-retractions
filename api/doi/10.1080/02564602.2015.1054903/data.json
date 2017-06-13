@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1080/02564602.2015.1110346","type":"correction"},"doi":"10.1080/02564602.2015.1054903","journal":"IETE Technical Review","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1496038689488,
+      "identifier": {
+        "doi": "10.1080/02564602.2015.1110346"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02564602.2015.1054903"
+  },
+  "journal": "IETE Technical Review",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

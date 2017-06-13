@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363996800000,"doi":"10.1007/s11427-013-4457-5","type":"correction"},"doi":"10.1007/s11427-013-4439-7","journal":"Science China Life Sciences","publisher":"Springer Nature","title":"Erratum to: Critical role of bioinformatics in translating huge amounts of next-generation sequencing data into personalized medicine"}
+{
+  "retracted": false,
+  "timestamp": 1363996800000,
+  "updates": [
+    {
+      "timestamp": 1496006465633,
+      "identifier": {
+        "doi": "10.1007/s11427-013-4457-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11427-013-4439-7"
+  },
+  "journal": "Science China Life Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Critical role of bioinformatics in translating huge amounts of next-generation sequencing data into personalized medicine"
+}

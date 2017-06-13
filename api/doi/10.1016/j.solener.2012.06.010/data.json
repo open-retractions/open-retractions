@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.solener.2013.02.016","type":"err"},"doi":"10.1016/j.solener.2012.06.010","journal":"Solar Energy","publisher":"Elsevier BV","title":"Corrigendum to “General correlation of a natural convective heat sink with plate-fins for high concentrating photovoltaic module cooling” [Solar Energy 86 (2012) 2725–2734]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496003726053,
+      "identifier": {
+        "doi": "10.1016/j.solener.2013.02.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solener.2012.06.010"
+  },
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “General correlation of a natural convective heat sink with plate-fins for high concentrating photovoltaic module cooling” [Solar Energy 86 (2012) 2725–2734]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471305600000,"doi":"10.1073/pnas.1611570113","type":"correction"},"doi":"10.1073/pnas.1519061113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for García-Ruiz et al., Changes in genetic selection differentials and generation intervals in US Holstein dairy cattle as a result of genomic selection"}
+{
+  "retracted": false,
+  "timestamp": 1471305600000,
+  "updates": [
+    {
+      "timestamp": 1495733625910,
+      "identifier": {
+        "doi": "10.1073/pnas.1611570113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1519061113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for García-Ruiz et al., Changes in genetic selection differentials and generation intervals in US Holstein dairy cattle as a result of genomic selection"
+}

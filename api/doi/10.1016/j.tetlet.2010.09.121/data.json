@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385510400000,"doi":"10.1016/j.tetlet.2013.09.117","type":"err"},"doi":"10.1016/j.tetlet.2010.09.121","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Towards the synthesis of coumarin derivatives as potential dual-action HIV-1 protease and reverse transcriptase inhibitors” [Tetrahedron Lett. 51 (2010) 6325–6328]"}
+{
+  "retracted": false,
+  "timestamp": 1385510400000,
+  "updates": [
+    {
+      "timestamp": 1496053430560,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.09.117"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2010.09.121"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Towards the synthesis of coumarin derivatives as potential dual-action HIV-1 protease and reverse transcriptase inhibitors” [Tetrahedron Lett. 51 (2010) 6325–6328]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1312243200000,"doi":"10.1073/pnas.1115306108","type":"correction"},"doi":"10.1073/pnas.1106582108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Cozzi et al., The naive airway hyperresponsiveness of the A/J mouse is Kit-mediated"}
+{
+  "retracted": false,
+  "timestamp": 1312243200000,
+  "updates": [
+    {
+      "timestamp": 1495814172383,
+      "identifier": {
+        "doi": "10.1073/pnas.1115306108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1106582108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Cozzi et al., The naive airway hyperresponsiveness of the A/J mouse is Kit-mediated"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.ijcard.2014.04.261","type":"err"},"doi":"10.1016/j.ijcard.2014.03.050","journal":"International Journal of Cardiology","publisher":"Elsevier BV","title":"Corrigendum to “Differential impacts of achieved heart rate and achieved dose of β-blocker on clinical outcomes in heart failure with and without atrial fibrillation”[Int. J. Cardiol. 173 (2) (2014) 331–3]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496038731973,
+      "identifier": {
+        "doi": "10.1016/j.ijcard.2014.04.261"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijcard.2014.03.050"
+  },
+  "journal": "International Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Differential impacts of achieved heart rate and achieved dose of β-blocker on clinical outcomes in heart failure with and without atrial fibrillation”[Int. J. Cardiol. 173 (2) (2014) 331–3]"
+}

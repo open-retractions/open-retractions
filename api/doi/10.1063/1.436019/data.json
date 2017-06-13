@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":302313600000,"doi":"10.1063/1.438835","type":"erratum"},"doi":"10.1063/1.436019","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Functional representation of Liu and Siegbahn’s accurate ab initio potential energy calculations for H+H2 "}
+{
+  "retracted": false,
+  "timestamp": 302313600000,
+  "updates": [
+    {
+      "timestamp": 1495896786815,
+      "identifier": {
+        "doi": "10.1063/1.438835"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.436019"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Functional representation of Liu and Siegbahn’s accurate             ab initio           potential energy calculations for H+H2 "
+}

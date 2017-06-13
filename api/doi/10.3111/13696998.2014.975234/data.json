@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.3111/13696998.2015.1046307","type":"correction"},"doi":"10.3111/13696998.2014.975234","journal":"Journal of Medical Economics","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496005653857,
+      "identifier": {
+        "doi": "10.3111/13696998.2015.1046307"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3111/13696998.2014.975234"
+  },
+  "journal": "Journal of Medical Economics",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

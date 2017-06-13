@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.14366/usg.15006","type":"correction"},"doi":"10.14366/usg.15006","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Postoperative ultrasonography of the musculoskeletal system"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1496049693091,
+      "identifier": {
+        "doi": "10.14366/usg.15006"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.15006"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Postoperative ultrasonography of the musculoskeletal system"
+}

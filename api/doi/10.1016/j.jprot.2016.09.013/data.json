@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485734400000,"doi":"10.1016/j.jprot.2016.12.005","type":"erratum"},"doi":"10.1016/j.jprot.2016.09.013","journal":"Journal of Proteomics","publisher":"Elsevier BV","title":"Corrigendum to “Introduction to the HUPO 2015 Special Issue” [J. Proteomics (2016) 1–2]"}
+{
+  "retracted": false,
+  "timestamp": 1485734400000,
+  "updates": [
+    {
+      "timestamp": 1495672619444,
+      "identifier": {
+        "doi": "10.1016/j.jprot.2016.12.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jprot.2016.09.013"
+  },
+  "journal": "Journal of Proteomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Introduction to the HUPO 2015 Special Issue” [J. Proteomics (2016) 1–2]"
+}

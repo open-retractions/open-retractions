@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442361600000,"doi":"10.1038/srep12385","type":"correction"},"doi":"10.1038/srep09683","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Genome analysis of Excretory/Secretory proteins in Taenia solium reveals their Abundance of Antigenic Regions (AAR)"}
+{
+  "retracted": false,
+  "timestamp": 1442361600000,
+  "updates": [
+    {
+      "timestamp": 1496028348957,
+      "identifier": {
+        "doi": "10.1038/srep12385"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09683"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Genome analysis of Excretory/Secretory proteins in Taenia solium reveals their Abundance of Antigenic Regions (AAR)"
+}

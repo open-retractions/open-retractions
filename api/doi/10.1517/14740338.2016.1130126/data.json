@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1517/14740338.2016.1154348","type":"correction"},"doi":"10.1517/14740338.2016.1130126","journal":"Expert Opinion on Drug Safety","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495646094787,
+      "identifier": {
+        "doi": "10.1517/14740338.2016.1154348"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/14740338.2016.1130126"
+  },
+  "journal": "Expert Opinion on Drug Safety",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

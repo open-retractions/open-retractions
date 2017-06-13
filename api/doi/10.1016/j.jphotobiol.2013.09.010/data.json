@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388880000000,"doi":"10.1016/j.jphotobiol.2013.12.004","type":"err"},"doi":"10.1016/j.jphotobiol.2013.09.010","journal":"Journal of Photochemistry and Photobiology B: Biology","publisher":"Elsevier BV","title":"Corrigendum to “Transfection of pseudouridine-modified mRNA encoding CPD-photolyase leads to repair of DNA damage in human keratinocytes: A new approach with future therapeutic potential” [J. Photochem. Photobiol. B: Biol. 129 (2013) 93–99]"}
+{
+  "retracted": false,
+  "timestamp": 1388880000000,
+  "updates": [
+    {
+      "timestamp": 1496012083244,
+      "identifier": {
+        "doi": "10.1016/j.jphotobiol.2013.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jphotobiol.2013.09.010"
+  },
+  "journal": "Journal of Photochemistry and Photobiology B: Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Transfection of pseudouridine-modified mRNA encoding CPD-photolyase leads to repair of DNA damage in human keratinocytes: A new approach with future therapeutic potential” [J. Photochem. Photobiol. B: Biol. 129 (2013) 93–99]"
+}

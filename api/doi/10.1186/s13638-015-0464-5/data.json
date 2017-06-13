@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1186/s13638-016-0583-7","type":"correction"},"doi":"10.1186/s13638-015-0464-5","journal":"EURASIP Journal on Wireless Communications and Networking","publisher":"Springer Nature","title":"Erratum to: Fuzzy approach to improving route stability of the AODV routing protocol"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495662177207,
+      "identifier": {
+        "doi": "10.1186/s13638-016-0583-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13638-015-0464-5"
+  },
+  "journal": "EURASIP Journal on Wireless Communications and Networking",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fuzzy approach to improving route stability of the AODV routing protocol"
+}

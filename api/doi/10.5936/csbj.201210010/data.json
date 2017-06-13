@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.csbj.2015.11.003","type":"erratum"},"doi":"10.5936/csbj.201210010","journal":"Computational and Structural Biotechnology Journal","publisher":"Elsevier BV","title":"Corrigendum to “Dissecting complex polyketide biosynthesis” [Comput Struct Biotechnol J 3(4) (2012) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049433400,
+      "identifier": {
+        "doi": "10.1016/j.csbj.2015.11.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.5936/csbj.201210010"
+  },
+  "journal": "Computational and Structural Biotechnology Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dissecting complex polyketide biosynthesis” [Comput Struct Biotechnol J 3(4) (2012) 1–8]"
+}

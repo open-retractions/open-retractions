@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1038/srep13473","type":"correction"},"doi":"10.1038/srep06070","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Selecting water-alcohol mixed solvent for synthesis of polydopamine nano-spheres using solubility parameter"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496026161331,
+      "identifier": {
+        "doi": "10.1038/srep13473"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep06070"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Selecting water-alcohol mixed solvent for synthesis of polydopamine nano-spheres using solubility parameter"
+}

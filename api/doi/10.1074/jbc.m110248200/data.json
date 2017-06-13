@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472774400000,"doi":"10.1074/jbc.a116.110248","type":"correction"},"doi":"10.1074/jbc.m110248200","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"The transcriptional factor Tcf-4 contains different binding sites for β-catenin and plakoglobin."}
+{
+  "retracted": false,
+  "timestamp": 1472774400000,
+  "updates": [
+    {
+      "timestamp": 1495742006706,
+      "identifier": {
+        "doi": "10.1074/jbc.a116.110248"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m110248200"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "The transcriptional factor Tcf-4 contains different binding sites for β-catenin and plakoglobin."
+}

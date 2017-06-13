@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1016/j.febslet.2014.12.001","type":"err"},"doi":"10.1016/j.febslet.2010.01.036","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “MiRNA-26b regulates the expression of cyclooxygenase-2 in desferrioxamine-treated CNE cells” [FEBS Lett. 584 (5) (2010) 961-967]"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496032171640,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2010.01.036"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “MiRNA-26b regulates the expression of cyclooxygenase-2 in desferrioxamine-treated CNE cells” [FEBS Lett. 584 (5) (2010) 961-967]"
+}

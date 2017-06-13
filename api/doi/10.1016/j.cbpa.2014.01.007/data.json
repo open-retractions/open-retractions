@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.cbpa.2014.06.009","type":"err"},"doi":"10.1016/j.cbpa.2014.01.007","journal":"Current Opinion in Chemical Biology","publisher":"Elsevier BV","title":"Corrigendum to “The neoglycolipid (NGL)-based oligosaccharide microarray system poised to decipher the meta-glycome” [Curr Opin Chem Biol 18 (2014) 87–94]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1495995375042,
+      "identifier": {
+        "doi": "10.1016/j.cbpa.2014.06.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpa.2014.01.007"
+  },
+  "journal": "Current Opinion in Chemical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The neoglycolipid (NGL)-based oligosaccharide microarray system poised to decipher the meta-glycome” [Curr Opin Chem Biol 18 (2014) 87–94]"
+}

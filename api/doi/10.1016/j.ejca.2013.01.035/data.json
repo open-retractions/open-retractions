@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.ejca.2016.06.014","type":"erratum"},"doi":"10.1016/j.ejca.2013.01.035","journal":"European Journal of Cancer","publisher":"Elsevier BV","title":"Corrigendum to “Borderline tumours of the ovary: A cohort study of the Arbeitsgemeinschaft Gynäkologische Onkologie AGO Study Group” [Eur J Cancer 49 (2013) 1905–1914]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495728415552,
+      "identifier": {
+        "doi": "10.1016/j.ejca.2016.06.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejca.2013.01.035"
+  },
+  "journal": "European Journal of Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Borderline tumours of the ovary: A cohort study of the Arbeitsgemeinschaft Gynäkologische Onkologie AGO Study Group” [Eur J Cancer 49 (2013) 1905–1914]"
+}

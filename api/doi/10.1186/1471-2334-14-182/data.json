@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1186/1471-2334-14-533","type":"correction"},"doi":"10.1186/1471-2334-14-182","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum To: Production of recombinant Entamoeba histolyticapyruvate phosphate dikinase and its application in a lateral flow dipstick test for amoebic liver abscess"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496021033957,
+      "identifier": {
+        "doi": "10.1186/1471-2334-14-533"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2334-14-182"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum To: Production of recombinant Entamoeba histolyticapyruvate phosphate dikinase and its application in a lateral flow dipstick test for amoebic liver abscess"
+}

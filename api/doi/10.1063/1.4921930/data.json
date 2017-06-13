@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1063/1.4936960","type":"correction"},"doi":"10.1063/1.4921930","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Effect of incorporation of ethylene glycol into PEDOT:PSS on electron phonon coupling and conductivity” [J. Appl. Phys. 117, 215501 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496050324179,
+      "identifier": {
+        "doi": "10.1063/1.4936960"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4921930"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effect of incorporation of ethylene glycol into PEDOT:PSS on electron phonon coupling and conductivity” [J. Appl. Phys. 117, 215501 (2015)]"
+}

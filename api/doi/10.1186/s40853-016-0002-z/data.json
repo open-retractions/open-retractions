@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490140800000,"doi":"10.1186/s40853-017-0006-3","type":"correction"},"doi":"10.1186/s40853-016-0002-z","journal":"Journal of Chinese Studies","publisher":"Springer Nature","title":"Erratum to: Volume 1, Journal of Chinese Studies"}
+{
+  "retracted": false,
+  "timestamp": 1490140800000,
+  "updates": [
+    {
+      "timestamp": 1495731139276,
+      "identifier": {
+        "doi": "10.1186/s40853-017-0006-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40853-016-0002-z"
+  },
+  "journal": "Journal of Chinese Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Volume 1, Journal of Chinese Studies"
+}

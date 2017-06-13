@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362441600000,"doi":"10.1071/as07045_co","type":"correction"},"doi":"10.1071/as07045","journal":"Publications of the Astronomical Society of Australia","publisher":"Cambridge University Press (CUP)","title":"Corrigendum to: The Coherent Radio Emission from the RS CVn Binary HR 1099"}
+{
+  "retracted": false,
+  "timestamp": 1362441600000,
+  "updates": [
+    {
+      "timestamp": 1495882108506,
+      "identifier": {
+        "doi": "10.1071/as07045_co"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1071/as07045"
+  },
+  "journal": "Publications of the Astronomical Society of Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Corrigendum to: The Coherent Radio Emission from the RS CVn Binary HR 1099"
+}

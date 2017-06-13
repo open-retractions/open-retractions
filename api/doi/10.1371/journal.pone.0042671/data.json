@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344556800000,"doi":"10.1371/annotation/bf36b938-523b-4c9f-ae86-16db7e8d39c1","type":"correction"},"doi":"10.1371/journal.pone.0042671","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Soil Bacterial Diversity Screening Using Single 16S rRNA Gene V Regions Coupled with Multi-Million Read Generating Sequencing Technologies"}
+{
+  "retracted": false,
+  "timestamp": 1344556800000,
+  "updates": [
+    {
+      "timestamp": 1495926383252,
+      "identifier": {
+        "doi": "10.1371/annotation/bf36b938-523b-4c9f-ae86-16db7e8d39c1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0042671"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Soil Bacterial Diversity Screening Using Single 16S rRNA Gene V Regions Coupled with Multi-Million Read Generating Sequencing Technologies"
+}

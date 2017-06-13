@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.atmosres.2013.10.001","type":"erratum"},"doi":"10.1016/j.atmosres.2013.07.005","journal":"Atmospheric Research","publisher":"Elsevier BV","title":"Corrigendum to “Organic composition of size segregated atmospheric particulate matter, during summer and winter sampling campaigns at representative sites in Madrid, Spain” [Journal of Atmospheric Research 132-133 (2013) 345–361]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496054566243,
+      "identifier": {
+        "doi": "10.1016/j.atmosres.2013.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosres.2013.07.005"
+  },
+  "journal": "Atmospheric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Organic composition of size segregated atmospheric particulate matter, during summer and winter sampling campaigns at representative sites in Madrid, Spain” [Journal of Atmospheric Research 132-133 (2013) 345–361]"
+}

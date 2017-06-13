@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1038/srep33622","type":"correction"},"doi":"10.1038/srep31245","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Is the detection of accelerated sea level rise imminent?"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495656375386,
+      "identifier": {
+        "doi": "10.1038/srep33622"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31245"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Is the detection of accelerated sea level rise imminent?"
+}

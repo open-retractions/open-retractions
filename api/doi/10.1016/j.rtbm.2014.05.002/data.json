@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.rtbm.2015.08.003","type":"err"},"doi":"10.1016/j.rtbm.2014.05.002","journal":"Research in Transportation Business & Management","publisher":"Elsevier BV","title":"Corrigendum to “Analyzing the relation between land-use/urban freight operations and the need for dedicated infrastructure/enforcement —Application to the City of Lisbon”[Research in Transportation Business & Management 11 (2014) 85–97]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496023025355,
+      "identifier": {
+        "doi": "10.1016/j.rtbm.2015.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rtbm.2014.05.002"
+  },
+  "journal": "Research in Transportation Business & Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analyzing the relation between land-use/urban freight operations and the need for dedicated infrastructure/enforcement —Application to the City of Lisbon”[Research in Transportation Business & Management 11 (2014) 85–97]"
+}

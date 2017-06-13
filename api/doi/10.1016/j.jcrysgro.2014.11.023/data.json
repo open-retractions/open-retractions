@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.jcrysgro.2015.01.020","type":"err"},"doi":"10.1016/j.jcrysgro.2014.11.023","journal":"Journal of Crystal Growth","publisher":"Elsevier BV","title":"Corrigendum to “Numerical and experimental investigation of the effect of crucible translation in liquid phase diffusion growth of SiGe” [J. Cryst. Growth 412 (2015) 7–15]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496049158539,
+      "identifier": {
+        "doi": "10.1016/j.jcrysgro.2015.01.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrysgro.2014.11.023"
+  },
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Numerical and experimental investigation of the effect of crucible translation in liquid phase diffusion growth of SiGe” [J. Cryst. Growth 412 (2015) 7–15]"
+}

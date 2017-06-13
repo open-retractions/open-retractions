@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.foodcont.2015.11.030","type":"err"},"doi":"10.1016/j.foodcont.2014.05.046","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, characterization and comparative study of nano-Ag–TiO2 against gram-positive and gram-negative bacteria under fluorescent light” Food Control 46C (2014) 480–487"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496049809235,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2015.11.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2014.05.046"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, characterization and comparative study of nano-Ag–TiO2 against gram-positive and gram-negative bacteria under fluorescent light” Food Control 46C (2014) 480–487"
+}

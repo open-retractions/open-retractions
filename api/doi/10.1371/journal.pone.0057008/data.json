@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376956800000,"doi":"10.1371/annotation/e6b5348e-9052-4a3b-8f06-90d01dc88fc2","type":"correction"},"doi":"10.1371/journal.pone.0057008","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Structure of the Arginine Methyltransferase PRMT5-MEP50 Reveals a Mechanism for Substrate Specificity"}
+{
+  "retracted": false,
+  "timestamp": 1376956800000,
+  "updates": [
+    {
+      "timestamp": 1496040902810,
+      "identifier": {
+        "doi": "10.1371/annotation/e6b5348e-9052-4a3b-8f06-90d01dc88fc2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0057008"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Structure of the Arginine Methyltransferase PRMT5-MEP50 Reveals a Mechanism for Substrate Specificity"
+}

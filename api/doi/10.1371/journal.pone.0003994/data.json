@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231718400000,"doi":"10.1371/annotation/adaf5807-7a9a-4132-9dd9-ccc0b1c2110a","type":"correction"},"doi":"10.1371/journal.pone.0003994","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Epidemiological Characteristics of Classical Scrapie Outbreaks in 30 Sheep Flocks in the United Kingdom"}
+{
+  "retracted": false,
+  "timestamp": 1231718400000,
+  "updates": [
+    {
+      "timestamp": 1496025195545,
+      "identifier": {
+        "doi": "10.1371/annotation/adaf5807-7a9a-4132-9dd9-ccc0b1c2110a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003994"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Epidemiological Characteristics of Classical Scrapie Outbreaks in 30 Sheep Flocks in the United Kingdom"
+}

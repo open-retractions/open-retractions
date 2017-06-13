@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377216000000,"doi":"10.1002/sim.5952","type":"correction"},"doi":"10.1002/sim.5640","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"Correction for “Doubly robust estimation, optimally truncated inverse-intensity weighting and increment-based methods for the analysis of irregularly observed longitudinal data” by Eleanor Pullenayegum and Brian Feldman"}
+{
+  "retracted": false,
+  "timestamp": 1377216000000,
+  "updates": [
+    {
+      "timestamp": 1496041261604,
+      "identifier": {
+        "doi": "10.1002/sim.5952"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.5640"
+  },
+  "journal": "Statistics in Medicine",
+  "publisher": "Wiley-Blackwell",
+  "title": "Correction for “Doubly robust estimation, optimally truncated inverse-intensity weighting and increment-based methods for the analysis of irregularly observed longitudinal data” by Eleanor Pullenayegum and Brian Feldman"
+}

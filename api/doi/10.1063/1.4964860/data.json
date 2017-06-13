@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482278400000,"doi":"10.1063/1.4972580","type":"erratum"},"doi":"10.1063/1.4964860","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Ab initio investigation of structure, stability, thermal behavior, bonding, and infrared spectra of ionized water cluster (H2O)6+” [J. Chem. Phys. 145, 154307 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1482278400000,
+  "updates": [
+    {
+      "timestamp": 1495664357728,
+      "identifier": {
+        "doi": "10.1063/1.4972580"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4964860"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Ab initio investigation of structure, stability, thermal behavior, bonding, and infrared spectra of ionized water cluster (H2O)6+” [J. Chem. Phys. 145, 154307 (2016)]"
+}

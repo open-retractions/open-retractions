@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ijrobp.2015.09.019","type":"err"},"doi":"10.1016/j.ijrobp.2015.04.044","journal":"International Journal of Radiation Oncology*Biology*Physics","publisher":"Elsevier BV","title":"Erratum to: Iuchi T, Hatano K, Uchino Y, et al. Methionine uptake and required radiation dose to control glioblastoma. Int J Radiat Oncol Biol Phys 2015;93:133-140."}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496052329891,
+      "identifier": {
+        "doi": "10.1016/j.ijrobp.2015.09.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijrobp.2015.04.044"
+  },
+  "journal": "International Journal of Radiation Oncology*Biology*Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Iuchi T, Hatano K, Uchino Y, et al. Methionine uptake and required radiation dose to control glioblastoma. Int J Radiat Oncol Biol Phys 2015;93:133-140."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304380800000,"doi":"10.1073/pnas.1219348110","type":"correction"},"doi":"10.1073/pnas.1103384108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ren et al., Flowers of Cypripedium fargesii (Orchidaceae) fool flat-footed flies (Platypezidae) by faking fungus-infected foliage"}
+{
+  "retracted": false,
+  "timestamp": 1304380800000,
+  "updates": [
+    {
+      "timestamp": 1495967956896,
+      "identifier": {
+        "doi": "10.1073/pnas.1219348110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1103384108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ren et al., Flowers of Cypripedium fargesii (Orchidaceae) fool flat-footed flies (Platypezidae) by faking fungus-infected foliage"
+}

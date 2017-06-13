@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1102982400000,"doi":"10.1073/pnas.0408339101","type":"correction"},"doi":"10.1073/pnas.0404312101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Armstrong et al., Identification of inhibitors of auxin transcriptional activation by means of chemical genetics in Arabidopsis, PNAS 2004 101:14978-14983"}
+{
+  "retracted": false,
+  "timestamp": 1102982400000,
+  "updates": [
+    {
+      "timestamp": 1495841906307,
+      "identifier": {
+        "doi": "10.1073/pnas.0408339101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0404312101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Armstrong et al., Identification of inhibitors of auxin transcriptional activation by means of chemical genetics in Arabidopsis, PNAS 2004 101:14978-14983"
+}

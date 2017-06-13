@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.engappai.2014.04.002","type":"err"},"doi":"10.1016/j.engappai.2012.11.011","journal":"Engineering Applications of Artificial Intelligence","publisher":"Elsevier BV","title":"Corrigendum to “Image contrast enhancement for preserving mean brightness without losing image features” [Eng. Appl. Artif. Intell. 26 (5) (2013) 1487–1492]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496035020823,
+      "identifier": {
+        "doi": "10.1016/j.engappai.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engappai.2012.11.011"
+  },
+  "journal": "Engineering Applications of Artificial Intelligence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Image contrast enhancement for preserving mean brightness without losing image features” [Eng. Appl. Artif. Intell. 26 (5) (2013) 1487–1492]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470268800000,"doi":"10.1007/s00705-016-2995-4","type":"correction"},"doi":"10.1007/s00705-015-2713-7","journal":"Archives of Virology","publisher":"Springer Nature","title":"Erratum to: Complete genome sequence of Colocasia bobone disease-associated virus, a putative cytorhabdovirus infecting taro"}
+{
+  "retracted": false,
+  "timestamp": 1470268800000,
+  "updates": [
+    {
+      "timestamp": 1495734584147,
+      "identifier": {
+        "doi": "10.1007/s00705-016-2995-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00705-015-2713-7"
+  },
+  "journal": "Archives of Virology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Complete genome sequence of Colocasia bobone disease-associated virus, a putative cytorhabdovirus infecting taro"
+}

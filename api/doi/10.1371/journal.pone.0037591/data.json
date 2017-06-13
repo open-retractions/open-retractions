@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1353369600000,"doi":"10.1371/annotation/bf626b67-ad61-4050-8cc9-5016aa8ab6b8","type":"correction"},"doi":"10.1371/journal.pone.0037591","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Characterization of an Aspergillus fumigatus Calcium Transporter (PmcA) that Is Essential for Fungal Infection"}
+{
+  "retracted": false,
+  "timestamp": 1353369600000,
+  "updates": [
+    {
+      "timestamp": 1495974655936,
+      "identifier": {
+        "doi": "10.1371/annotation/bf626b67-ad61-4050-8cc9-5016aa8ab6b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037591"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Characterization of an Aspergillus fumigatus Calcium Transporter (PmcA) that Is Essential for Fungal Infection"
+}

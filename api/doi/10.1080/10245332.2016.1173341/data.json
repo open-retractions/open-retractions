@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480032000000,"doi":"10.1080/10245332.2016.1217685","type":"correction"},"doi":"10.1080/10245332.2016.1173341","journal":"Hematology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1480032000000,
+  "updates": [
+    {
+      "timestamp": 1495661383323,
+      "identifier": {
+        "doi": "10.1080/10245332.2016.1217685"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10245332.2016.1173341"
+  },
+  "journal": "Hematology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

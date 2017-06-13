@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.actaastro.2013.07.021","type":"err"},"doi":"10.1016/j.actaastro.2012.04.014","journal":"Acta Astronautica","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Surgery in space: Where are we at now?’’ [Acta Astronautica, 79 (2012) 61–66]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496035990140,
+      "identifier": {
+        "doi": "10.1016/j.actaastro.2013.07.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actaastro.2012.04.014"
+  },
+  "journal": "Acta Astronautica",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Surgery in space: Where are we at now?’’ [Acta Astronautica, 79 (2012) 61–66]"
+}

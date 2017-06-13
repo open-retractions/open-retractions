@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.drugpo.2016.04.004","type":"err"},"doi":"10.1016/j.drugpo.2015.09.008","journal":"International Journal of Drug Policy","publisher":"Elsevier BV","title":"Erratum to “Comment on: “Fire in the vein: Heroin acidity and its proximal effect on users’ health” by Ciccarone and Harris” [Int. J. Drug Policy 27 (2016) 182–183]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495670439789,
+      "identifier": {
+        "doi": "10.1016/j.drugpo.2016.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.drugpo.2015.09.008"
+  },
+  "journal": "International Journal of Drug Policy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Comment on: “Fire in the vein: Heroin acidity and its proximal effect on users’ health” by Ciccarone and Harris” [Int. J. Drug Policy 27 (2016) 182–183]"
+}

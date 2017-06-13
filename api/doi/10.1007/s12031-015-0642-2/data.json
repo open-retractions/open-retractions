@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458518400000,"doi":"10.1007/s12031-016-0718-7","type":"correction"},"doi":"10.1007/s12031-015-0642-2","journal":"Journal of Molecular Neuroscience","publisher":"Springer Nature","title":"Erratum to: An Up-regulation of IRF-1 After a Spinal Cord Injury: Implications for Neuronal Apoptosis"}
+{
+  "retracted": false,
+  "timestamp": 1458518400000,
+  "updates": [
+    {
+      "timestamp": 1495656621244,
+      "identifier": {
+        "doi": "10.1007/s12031-016-0718-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12031-015-0642-2"
+  },
+  "journal": "Journal of Molecular Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An Up-regulation of IRF-1 After a Spinal Cord Injury: Implications for Neuronal Apoptosis"
+}

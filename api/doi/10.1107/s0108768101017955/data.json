@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1022889600000,"doi":"10.1107/s0108768102003518","type":"correction"},"doi":"10.1107/s0108768101017955","journal":"Acta Crystallographica Section B Structural Science","publisher":"International Union of Crystallography (IUCr)","title":"Coupling of the lactone-ring conformation with crystal symmetry in 6-hydroxy-4,4,5,7,8-pentamethyl-3,4-dihydrocoumarin. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1022889600000,
+  "updates": [
+    {
+      "timestamp": 1495915876000,
+      "identifier": {
+        "doi": "10.1107/s0108768102003518"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108768101017955"
+  },
+  "journal": "Acta Crystallographica Section B Structural Science",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Coupling of the lactone-ring conformation with crystal symmetry in 6-hydroxy-4,4,5,7,8-pentamethyl-3,4-dihydrocoumarin. Erratum"
+}

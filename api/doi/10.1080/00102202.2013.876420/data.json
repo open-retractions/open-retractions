@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1080/00102202.2014.976021","type":"correction"},"doi":"10.1080/00102202.2013.876420","journal":"Combustion Science and Technology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496014480566,
+      "identifier": {
+        "doi": "10.1080/00102202.2014.976021"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00102202.2013.876420"
+  },
+  "journal": "Combustion Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

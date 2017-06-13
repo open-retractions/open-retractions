@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.tvjl.2015.10.001","type":"err"},"doi":"10.1016/j.tvjl.2014.08.001","journal":"The Veterinary Journal","publisher":"Elsevier BV","title":"Corrigendum to ‘Longitudinal prevalence, faecal shedding and molecular characterization of Campylobacter spp. and Salmonella enterica in sheep’ [The Veterinary Journal 202 (2014) 250–254]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495641041643,
+      "identifier": {
+        "doi": "10.1016/j.tvjl.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tvjl.2014.08.001"
+  },
+  "journal": "The Veterinary Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Longitudinal prevalence, faecal shedding and molecular characterization of Campylobacter spp. and Salmonella enterica in sheep’ [The Veterinary Journal 202 (2014) 250–254]"
+}

@@ -1,1 +1,18 @@
-{"retracted":true,"timestamp":1213920000000,"update":{"timestamp":null,"doi":null,"pmid":28159763,"type":"retraction"},"doi":"10.1074/jbc.M709854200","journal":"The Journal of biological chemistry","publisher":null,"title":"Phosphorylation and dephosphorylation of tyrosine 141 regulate stability and degradation of INrf2: a novel mechanism in Nrf2 activation."}
+{
+  "retracted": false,
+  "timestamp": 1486080000000,
+  "updates": [
+    {
+      "timestamp": 1495680924651,
+      "identifier": {
+        "doi": "10.1074/jbc.a117.709854"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m709854200"
+  },
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Phosphorylation and dephosphorylation of tyrosine 141 regulate stability and degradation of INrf2.A NOVEL MECHANISM IN NRF2 ACTIVATION."
+}

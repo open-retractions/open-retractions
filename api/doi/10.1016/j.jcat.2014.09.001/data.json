@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jcat.2015.04.001","type":"err"},"doi":"10.1016/j.jcat.2014.09.001","journal":"Journal of Catalysis","publisher":"Elsevier BV","title":"Corrigendum to “Cooperative effects of secondary mesoporosity and acid site location in Pt/SAPO-11 on n-dodecane hydroisomerization selectivity” [J. Catal. 319 (2014) 232–238]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496057990645,
+      "identifier": {
+        "doi": "10.1016/j.jcat.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcat.2014.09.001"
+  },
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cooperative effects of secondary mesoporosity and acid site location in Pt/SAPO-11 on n-dodecane hydroisomerization selectivity” [J. Catal. 319 (2014) 232–238]"
+}

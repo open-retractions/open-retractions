@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.peptides.2015.10.004","type":"err"},"doi":"10.1016/j.peptides.2014.04.011","journal":"Peptides","publisher":"Elsevier BV","title":"Corrigendum to “Effects of urotensin II on intracellular pH regulation in cultured human internal mammary artery smooth muscle cells” Peptides 56 (2014) 173–182"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496044330875,
+      "identifier": {
+        "doi": "10.1016/j.peptides.2015.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.peptides.2014.04.011"
+  },
+  "journal": "Peptides",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of urotensin II on intracellular pH regulation in cultured human internal mammary artery smooth muscle cells” Peptides 56 (2014) 173–182"
+}

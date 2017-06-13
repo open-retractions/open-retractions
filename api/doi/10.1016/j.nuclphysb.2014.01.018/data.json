@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.nuclphysb.2016.09.010","type":"erratum"},"doi":"10.1016/j.nuclphysb.2014.01.018","journal":"Nuclear Physics B","publisher":"Elsevier BV","title":"Corrigendum to: “Complete electroweak chiral Lagrangian with a light Higgs at NLO” [Nucl. Phys. B 880 (2014) 552–573]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495647380641,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysb.2016.09.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysb.2014.01.018"
+  },
+  "journal": "Nuclear Physics B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Complete electroweak chiral Lagrangian with a light Higgs at NLO” [Nucl. Phys. B 880 (2014) 552–573]"
+}

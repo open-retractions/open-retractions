@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1080/19466315.2016.1253330","type":"correction"},"doi":"10.1080/19466315.2016.1174148","journal":"Statistics in Biopharmaceutical Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495663753015,
+      "identifier": {
+        "doi": "10.1080/19466315.2016.1253330"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19466315.2016.1174148"
+  },
+  "journal": "Statistics in Biopharmaceutical Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

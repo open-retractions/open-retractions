@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1186/s12934-017-0668-y","type":"correction"},"doi":"10.1186/s12934-017-0632-x","journal":"Microbial Cell Factories","publisher":"Springer Nature","title":"Erratum to: SWITCH: a dynamic CRISPR tool for genome engineering and metabolic pathway control for cell factory construction in Saccharomyces cerevisiaen "}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495733219198,
+      "identifier": {
+        "doi": "10.1186/s12934-017-0668-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12934-017-0632-x"
+  },
+  "journal": "Microbial Cell Factories",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: SWITCH: a dynamic CRISPR tool for genome engineering and metabolic pathway control for cell factory construction in Saccharomyces cerevisiae\n        "
+}

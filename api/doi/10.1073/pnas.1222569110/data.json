@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389657600000,"doi":"10.1073/pnas.1323512111","type":"correction"},"doi":"10.1073/pnas.1222569110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Labhsetwar et al., Heterogeneity in protein expression induces metabolic variability in a modeled Escherichia coli population"}
+{
+  "retracted": false,
+  "timestamp": 1389657600000,
+  "updates": [
+    {
+      "timestamp": 1496001743341,
+      "identifier": {
+        "doi": "10.1073/pnas.1323512111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1222569110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Labhsetwar et al., Heterogeneity in protein expression induces metabolic variability in a modeled Escherichia coli population"
+}

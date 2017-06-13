@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.prevetmed.2013.05.002","type":"err"},"doi":"10.1016/j.prevetmed.2012.02.005","journal":"Preventive Veterinary Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Age-structured dynamic, stochastic and mechanistic simulation model of Salmonella Dublin infection within dairy herds” [Prev. Vet. Med. 105 (2012) 59–74]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496020467313,
+      "identifier": {
+        "doi": "10.1016/j.prevetmed.2013.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.prevetmed.2012.02.005"
+  },
+  "journal": "Preventive Veterinary Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Age-structured dynamic, stochastic and mechanistic simulation model of Salmonella Dublin infection within dairy herds” [Prev. Vet. Med. 105 (2012) 59–74]"
+}

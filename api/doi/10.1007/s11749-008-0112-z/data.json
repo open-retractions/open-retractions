@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488758400000,"doi":"10.1007/s11749-017-0528-4","type":"correction"},"doi":"10.1007/s11749-008-0112-z","journal":"TEST","publisher":"Springer Nature","title":"Erratum to: Beta autoregressive moving average models"}
+{
+  "retracted": false,
+  "timestamp": 1488758400000,
+  "updates": [
+    {
+      "timestamp": 1495726534149,
+      "identifier": {
+        "doi": "10.1007/s11749-017-0528-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11749-008-0112-z"
+  },
+  "journal": "TEST",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Beta autoregressive moving average models"
+}

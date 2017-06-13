@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375747200000,"doi":"10.1371/annotation/72a01ce5-b0ad-4cbd-ac77-0a81347a3940","type":"correction"},"doi":"10.1371/journal.pone.0059773","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel, Diffusely Infiltrative Xenograft Model of Human Anaplastic Oligodendroglioma with Mutations in FUBP1, CIC, and IDH1"}
+{
+  "retracted": false,
+  "timestamp": 1375747200000,
+  "updates": [
+    {
+      "timestamp": 1496038087593,
+      "identifier": {
+        "doi": "10.1371/annotation/72a01ce5-b0ad-4cbd-ac77-0a81347a3940"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059773"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel, Diffusely Infiltrative Xenograft Model of Human Anaplastic Oligodendroglioma with Mutations in FUBP1, CIC, and IDH1"
+}

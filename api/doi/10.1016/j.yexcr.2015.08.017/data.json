@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.yexcr.2015.11.019","type":"err"},"doi":"10.1016/j.yexcr.2015.08.017","journal":"Experimental Cell Research","publisher":"Elsevier BV","title":"Corrigendum to: ''The effect of DNA damage on the pattern of immune-detectable DNA methylation in mouse embryonic fibroblasts'' [Exp. Cell Res. 339 (1) 20–34]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496048195253,
+      "identifier": {
+        "doi": "10.1016/j.yexcr.2015.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yexcr.2015.08.017"
+  },
+  "journal": "Experimental Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: ''The effect of DNA damage on the pattern of immune-detectable DNA methylation in mouse embryonic fibroblasts'' [Exp. Cell Res. 339 (1) 20–34]"
+}

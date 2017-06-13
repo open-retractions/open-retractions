@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.dark.2015.12.004","type":"err"},"doi":"10.1016/j.dark.2015.08.002","journal":"Physics of the Dark Universe","publisher":"Elsevier BV","title":"Corrigendum to “Directional Dark Matter Searches with Carbon Nanotubes” [Phys. Dark Univ. 9–10 (2015) 24–30]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496056076051,
+      "identifier": {
+        "doi": "10.1016/j.dark.2015.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dark.2015.08.002"
+  },
+  "journal": "Physics of the Dark Universe",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Directional Dark Matter Searches with Carbon Nanotubes” [Phys. Dark Univ. 9–10 (2015) 24–30]"
+}

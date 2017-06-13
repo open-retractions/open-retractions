@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490313600000,"doi":"10.1080/09500782.2017.1298352","type":"correction"},"doi":"10.1080/09500782.2015.1088547","journal":"Language and Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1490313600000,
+  "updates": [
+    {
+      "timestamp": 1495732077648,
+      "identifier": {
+        "doi": "10.1080/09500782.2017.1298352"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09500782.2015.1088547"
+  },
+  "journal": "Language and Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

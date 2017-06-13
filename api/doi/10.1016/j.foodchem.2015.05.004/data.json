@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.foodchem.2015.06.014","type":"err"},"doi":"10.1016/j.foodchem.2015.05.004","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Development of an effective and efficient DNA isolation method for Cinnamomum species” [Food Chem. 188 (2015) 264–270]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496004853560,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2015.06.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.05.004"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of an effective and efficient DNA isolation method for Cinnamomum species” [Food Chem. 188 (2015) 264–270]"
+}

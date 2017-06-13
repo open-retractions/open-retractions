@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.bbamem.2014.03.020","type":"err"},"doi":"10.1016/j.bbamem.2011.06.002","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"Corrigendum to “Activation of phospholipase A2 by Hsp70 in vitro” [Biochim. Biophys. Acta 1808 (2011) 2569–2572]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496031176860,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2014.03.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2011.06.002"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Activation of phospholipase A2 by Hsp70 in vitro” [Biochim. Biophys. Acta 1808 (2011) 2569–2572]"
+}

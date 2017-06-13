@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1080/10691316.2016.1142306","type":"correction"},"doi":"10.1080/10691316.2015.1076364","journal":"College & Undergraduate Libraries","publisher":"Informa UK Limited","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655032599,
+      "identifier": {
+        "doi": "10.1080/10691316.2016.1142306"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10691316.2015.1076364"
+  },
+  "journal": "College & Undergraduate Libraries",
+  "publisher": "Informa UK Limited",
+  "title": "Errata"
+}

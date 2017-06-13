@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333411200000,"doi":"10.1371/annotation/bed03b6b-8dfa-4aef-882c-b7e37bc122a4","type":"correction"},"doi":"10.1371/journal.pone.0027667","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Asrij Maintains the Stem Cell Niche and Controls Differentiation during Drosophila Lymph Gland Hematopoiesis"}
+{
+  "retracted": false,
+  "timestamp": 1333411200000,
+  "updates": [
+    {
+      "timestamp": 1495889949927,
+      "identifier": {
+        "doi": "10.1371/annotation/bed03b6b-8dfa-4aef-882c-b7e37bc122a4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027667"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Asrij Maintains the Stem Cell Niche and Controls Differentiation during Drosophila Lymph Gland Hematopoiesis"
+}

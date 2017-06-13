@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474502400000,"doi":"10.1038/srep33942","type":"correction"},"doi":"10.1038/srep31974","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Staircase Quantum Dots Configuration in Nanowires for Optimized Thermoelectric Power"}
+{
+  "retracted": false,
+  "timestamp": 1474502400000,
+  "updates": [
+    {
+      "timestamp": 1495641708519,
+      "identifier": {
+        "doi": "10.1038/srep33942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31974"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Staircase Quantum Dots Configuration in Nanowires for Optimized Thermoelectric Power"
+}

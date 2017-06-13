@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454371200000,"doi":"10.1038/srep20265","type":"correction"},"doi":"10.1038/srep14485","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Direct Observation of Long Electron-Hole Diffusion Distance in CH3NH3PbI3 Perovskite Thin Film"}
+{
+  "retracted": false,
+  "timestamp": 1454371200000,
+  "updates": [
+    {
+      "timestamp": 1495641905161,
+      "identifier": {
+        "doi": "10.1038/srep20265"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep14485"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Direct Observation of Long Electron-Hole Diffusion Distance in CH3NH3PbI3 Perovskite Thin Film"
+}

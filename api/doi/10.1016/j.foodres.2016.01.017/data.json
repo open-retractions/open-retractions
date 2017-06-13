@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.foodres.2016.03.003","type":"err"},"doi":"10.1016/j.foodres.2016.01.017","journal":"Food Research International","publisher":"Elsevier BV","title":"Corrigendum to “Polysaccharides from raw and cooked chayote modulate macrophage function” [Food Res. Int. 81 (March 2016), 171–179]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495654940428,
+      "identifier": {
+        "doi": "10.1016/j.foodres.2016.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodres.2016.01.017"
+  },
+  "journal": "Food Research International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Polysaccharides from raw and cooked chayote modulate macrophage function” [Food Res. Int. 81 (March 2016), 171–179]"
+}

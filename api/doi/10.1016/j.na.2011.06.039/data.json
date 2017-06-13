@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.na.2013.03.007","type":"err"},"doi":"10.1016/j.na.2011.06.039","journal":"Nonlinear Analysis: Theory, Methods & Applications","publisher":"Elsevier BV","title":"Erratum to “Generalized Newton’s method based on graphical derivatives” [Nonlinear Anal. TMA 75 (2012) 1324–1340]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496010340190,
+      "identifier": {
+        "doi": "10.1016/j.na.2013.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.na.2011.06.039"
+  },
+  "journal": "Nonlinear Analysis: Theory, Methods & Applications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Generalized Newton’s method based on graphical derivatives” [Nonlinear Anal. TMA 75 (2012) 1324–1340]"
+}

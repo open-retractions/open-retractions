@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1186/s12879-016-2015-z","type":"correction"},"doi":"10.1186/s12879-016-1783-9","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Hospitalization costs for community-acquired pneumonia in Dutch elderly: an observational study"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661084056,
+      "identifier": {
+        "doi": "10.1186/s12879-016-2015-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-016-1783-9"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hospitalization costs for community-acquired pneumonia in Dutch elderly: an observational study"
+}

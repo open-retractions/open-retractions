@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.ecss.2013.06.013","type":"err"},"doi":"10.1016/j.ecss.2013.04.002","journal":"Estuarine, Coastal and Shelf Science","publisher":"Elsevier BV","title":"Corrigendum to “Monsoon variability of Ultraviolet Radiation (UVR) attenuation and bio-optical factors in the Asian tropical coral-reef waters” [Estuar. Coast. Shelf Sci. 126 (2013) 34–43]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496028491306,
+      "identifier": {
+        "doi": "10.1016/j.ecss.2013.06.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecss.2013.04.002"
+  },
+  "journal": "Estuarine, Coastal and Shelf Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Monsoon variability of Ultraviolet Radiation (UVR) attenuation and bio-optical factors in the Asian tropical coral-reef waters” [Estuar. Coast. Shelf Sci. 126 (2013) 34–43]"
+}

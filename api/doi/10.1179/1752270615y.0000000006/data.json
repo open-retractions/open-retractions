@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1080/00396265.2016.1221647","type":"correction"},"doi":"10.1179/1752270615y.0000000006","journal":"Survey Review","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495738367573,
+      "identifier": {
+        "doi": "10.1080/00396265.2016.1221647"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1752270615y.0000000006"
+  },
+  "journal": "Survey Review",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

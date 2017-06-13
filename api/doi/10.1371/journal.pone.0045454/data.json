@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352851200000,"doi":"10.1371/annotation/b72afb21-407c-46e9-9870-7c59ab9e582c","type":"correction"},"doi":"10.1371/journal.pone.0045454","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Biophysics of Active Vesicle Transport, an Intermediate Step That Couples Excitation and Exocytosis of Serotonin in the Neuronal Soma"}
+{
+  "retracted": false,
+  "timestamp": 1352851200000,
+  "updates": [
+    {
+      "timestamp": 1495974636031,
+      "identifier": {
+        "doi": "10.1371/annotation/b72afb21-407c-46e9-9870-7c59ab9e582c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045454"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Biophysics of Active Vesicle Transport, an Intermediate Step That Couples Excitation and Exocytosis of Serotonin in the Neuronal Soma"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437523200000,"doi":"10.1007/s00285-015-0915-y","type":"correction"},"doi":"10.1007/s00285-014-0849-9","journal":"Journal of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Influence of diffusion on the stability of equilibria in a reaction–diffusion system modeling cholera dynamic"}
+{
+  "retracted": false,
+  "timestamp": 1437523200000,
+  "updates": [
+    {
+      "timestamp": 1496017004259,
+      "identifier": {
+        "doi": "10.1007/s00285-015-0915-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00285-014-0849-9"
+  },
+  "journal": "Journal of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Influence of diffusion on the stability of equilibria in a reaction–diffusion system modeling cholera dynamic"
+}

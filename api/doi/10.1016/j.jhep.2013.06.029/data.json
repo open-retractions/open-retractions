@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.jhep.2013.12.007","type":"err"},"doi":"10.1016/j.jhep.2013.06.029","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to: “Report from a Viral Hepatitis Policy Forum on implementing the WHO framework for global action on viral hepatitis in North Asia” [J Hepatol 2013;59:1073–1080]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496013244533,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2013.12.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2013.06.029"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Report from a Viral Hepatitis Policy Forum on implementing the WHO framework for global action on viral hepatitis in North Asia” [J Hepatol 2013;59:1073–1080]"
+}

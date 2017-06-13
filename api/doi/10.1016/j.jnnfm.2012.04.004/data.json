@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jnnfm.2016.07.001","type":"err"},"doi":"10.1016/j.jnnfm.2012.04.004","journal":"Journal of Non-Newtonian Fluid Mechanics","publisher":"Elsevier BV","title":"Corrigendum to “Theoretical analysis of the calendered exiting thickness of viscoelastic sheets” [J. Non-Newton Fluid Mech. 177–178 (2012) 29–36]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495726576518,
+      "identifier": {
+        "doi": "10.1016/j.jnnfm.2016.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnnfm.2012.04.004"
+  },
+  "journal": "Journal of Non-Newtonian Fluid Mechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Theoretical analysis of the calendered exiting thickness of viscoelastic sheets” [J. Non-Newton Fluid Mech. 177–178 (2012) 29–36]"
+}

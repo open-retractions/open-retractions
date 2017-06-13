@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.acme.2016.02.002","type":"erratum"},"doi":"10.1016/j.acme.2015.03.001","journal":"Archives of Civil and Mechanical Engineering","publisher":"Elsevier BV","title":"Influence of cooling on the performance of the drilling process of glass fibre reinforced epoxy composites"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495652715608,
+      "identifier": {
+        "doi": "10.1016/j.acme.2016.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.acme.2015.03.001"
+  },
+  "journal": "Archives of Civil and Mechanical Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Influence of cooling on the performance of the drilling process of glass fibre reinforced epoxy composites"
+}

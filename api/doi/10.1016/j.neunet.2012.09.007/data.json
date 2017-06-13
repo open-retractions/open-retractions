@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1354320000000,"update":{"timestamp":null,"doi":null,"pmid":24058982,"type":"retraction"},"doi":"10.1016/j.neunet.2012.09.007","journal":"Neural networks : the official journal of the International Neural Network Society","publisher":null,"title":"Hopf bifurcation stability in Hopfield neural networks."}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496033202953,
+      "identifier": {
+        "doi": "10.1016/j.neunet.2013.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neunet.2012.09.007"
+  },
+  "journal": "Neural Networks",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Hopf Bifurcation Stability in Hopfield Neural Networks” [Neural Networks 36 (2012) 51–58]"
+}

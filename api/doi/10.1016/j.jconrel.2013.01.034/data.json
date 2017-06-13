@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385596800000,"doi":"10.1016/j.jconrel.2013.08.036","type":"err"},"doi":"10.1016/j.jconrel.2013.01.034","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Targeted biodegradable dendritic MRI contrast agent for enhanced tumor imaging” [J. Control. Release 169 (2013) 239–245]"}
+{
+  "retracted": false,
+  "timestamp": 1385596800000,
+  "updates": [
+    {
+      "timestamp": 1496044928074,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2013.08.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2013.01.034"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Targeted biodegradable dendritic MRI contrast agent for enhanced tumor imaging” [J. Control. Release 169 (2013) 239–245]"
+}

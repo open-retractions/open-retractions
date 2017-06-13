@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200268800000,"doi":"10.1007/bf02770449","type":"correction"},"doi":"10.1007/bf02789737","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Nucleon-antinucleon production in high-energy (>1012eV) hadron collisions"}
+{
+  "retracted": false,
+  "timestamp": 1200268800000,
+  "updates": [
+    {
+      "timestamp": 1495822553151,
+      "identifier": {
+        "doi": "10.1007/bf02770449"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02789737"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nucleon-antinucleon production in high-energy (>1012eV) hadron collisions"
+}

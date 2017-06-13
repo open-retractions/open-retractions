@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1080/01694243.2017.1300386","type":"correction"},"doi":"10.1080/01694243.2016.1244038","journal":"Journal of Adhesion Science and Technology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495730615929,
+      "identifier": {
+        "doi": "10.1080/01694243.2017.1300386"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01694243.2016.1244038"
+  },
+  "journal": "Journal of Adhesion Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465776000000,"doi":"10.3847/0004-637x/824/1/64","type":"correction"},"doi":"10.1088/0004-637x/780/2/184","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “SN 2005ip: A LUMINOUS TYPE IIn SUPERNOVA EMERGING FROM A DENSE CIRCUMSTELLAR MEDIUM AS REVEALED BY X-RAY OBSERVATIONS” (2014, ApJ, 780, 184)"}
+{
+  "retracted": false,
+  "timestamp": 1465776000000,
+  "updates": [
+    {
+      "timestamp": 1495720245636,
+      "identifier": {
+        "doi": "10.3847/0004-637x/824/1/64"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/780/2/184"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “SN 2005ip: A LUMINOUS TYPE IIn SUPERNOVA EMERGING FROM A DENSE CIRCUMSTELLAR MEDIUM AS REVEALED BY X-RAY OBSERVATIONS” (2014, ApJ, 780, 184)"
+}

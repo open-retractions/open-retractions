@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451260800000,"doi":"10.1007/s00348-015-2101-9","type":"correction"},"doi":"10.1007/s00348-014-1763-z","journal":"Experiments in Fluids","publisher":"Springer Nature","title":"Erratum to: High-speed mixture fraction and temperature imaging of pulsed, turbulent fuel jets auto-igniting in high-temperature, vitiated co-flows"}
+{
+  "retracted": false,
+  "timestamp": 1451260800000,
+  "updates": [
+    {
+      "timestamp": 1496056451029,
+      "identifier": {
+        "doi": "10.1007/s00348-015-2101-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00348-014-1763-z"
+  },
+  "journal": "Experiments in Fluids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High-speed mixture fraction and temperature imaging of pulsed, turbulent fuel jets auto-igniting in high-temperature, vitiated co-flows"
+}

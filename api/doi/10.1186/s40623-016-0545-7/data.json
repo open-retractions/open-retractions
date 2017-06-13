@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1186/s40623-016-0575-1","type":"correction"},"doi":"10.1186/s40623-016-0545-7","journal":"Earth, Planets and Space","publisher":"Springer Nature","title":"Erratum to: Fault source model for the 2016 Kumamoto earthquake sequence based on ALOS-2/PALSAR-2 pixel-offset data: evidence for dynamic slip partitioning"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495658777628,
+      "identifier": {
+        "doi": "10.1186/s40623-016-0575-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40623-016-0545-7"
+  },
+  "journal": "Earth, Planets and Space",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fault source model for the 2016 Kumamoto earthquake sequence based on ALOS-2/PALSAR-2 pixel-offset data: evidence for dynamic slip partitioning"
+}

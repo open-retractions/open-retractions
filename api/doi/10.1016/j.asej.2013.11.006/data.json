@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.asej.2015.05.001","type":"err"},"doi":"10.1016/j.asej.2013.11.006","journal":"Ain Shams Engineering Journal","publisher":"Elsevier BV","title":"Corrigendum to “Experimental studies on the effect of water contaminants in convective boiling heat transfer” [Ain Shams Eng. J. 5 (2) (2014) 553–568]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496004822722,
+      "identifier": {
+        "doi": "10.1016/j.asej.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asej.2013.11.006"
+  },
+  "journal": "Ain Shams Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Experimental studies on the effect of water contaminants in convective boiling heat transfer” [Ain Shams Eng. J. 5 (2) (2014) 553–568]"
+}

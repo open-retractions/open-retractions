@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421884800000,"doi":"10.1007/s10029-015-1344-y","type":"correction"},"doi":"10.1007/s10029-014-1325-6","journal":"Hernia","publisher":"Springer Nature","title":"Erratum to: 16th Annual Hernia Repair, Las Vegas"}
+{
+  "retracted": false,
+  "timestamp": 1421884800000,
+  "updates": [
+    {
+      "timestamp": 1496038180536,
+      "identifier": {
+        "doi": "10.1007/s10029-015-1344-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10029-014-1325-6"
+  },
+  "journal": "Hernia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: 16th Annual Hernia Repair, Las Vegas"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379376000000,"doi":"10.1080/03610918.2012.719122","type":"correction"},"doi":"10.1080/03610918.2011.615433","journal":"Communications in Statistics - Simulation and Computation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1379376000000,
+  "updates": [
+    {
+      "timestamp": 1496005105604,
+      "identifier": {
+        "doi": "10.1080/03610918.2012.719122"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03610918.2011.615433"
+  },
+  "journal": "Communications in Statistics - Simulation and Computation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

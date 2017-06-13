@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1007/s10552-014-0418-y","type":"correction"},"doi":"10.1007/s10552-013-0205-1","journal":"Cancer Causes & Control","publisher":"Springer Nature","title":"Erratum to: Exposure to pesticides and the risk of childhood brain tumors"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496049612881,
+      "identifier": {
+        "doi": "10.1007/s10552-014-0418-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10552-013-0205-1"
+  },
+  "journal": "Cancer Causes & Control",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exposure to pesticides and the risk of childhood brain tumors"
+}

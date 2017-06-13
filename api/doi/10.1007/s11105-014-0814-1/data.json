@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420934400000,"doi":"10.1007/s11105-014-0849-3","type":"correction"},"doi":"10.1007/s11105-014-0814-1","journal":"Plant Molecular Biology Reporter","publisher":"Springer Nature","title":"Erratum to: Functional Characterization of a Putative Bacterial Wilt Resistance Gene (RE-bw) in Eggplant"}
+{
+  "retracted": false,
+  "timestamp": 1420934400000,
+  "updates": [
+    {
+      "timestamp": 1496035813042,
+      "identifier": {
+        "doi": "10.1007/s11105-014-0849-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11105-014-0814-1"
+  },
+  "journal": "Plant Molecular Biology Reporter",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Functional Characterization of a Putative Bacterial Wilt Resistance Gene (RE-bw) in Eggplant"
+}

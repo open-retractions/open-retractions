@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.ebiom.2017.03.013","type":"erratum"},"doi":"10.1016/j.ebiom.2016.10.025","journal":"EBioMedicine","publisher":"Elsevier BV","title":"Corrigendum to “Assessment of Human Tribbles Homolog 3 Genetic Variation (rs2295490) Effects on Type 2 Diabetes Patients with Glucose Control and Blood Pressure Lowering Treatment” [EBioMedicine 13 (2016) 181–189]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495725903080,
+      "identifier": {
+        "doi": "10.1016/j.ebiom.2017.03.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ebiom.2016.10.025"
+  },
+  "journal": "EBioMedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessment of Human Tribbles Homolog 3 Genetic Variation (rs2295490) Effects on Type 2 Diabetes Patients with Glucose Control and Blood Pressure Lowering Treatment” [EBioMedicine 13 (2016) 181–189]"
+}

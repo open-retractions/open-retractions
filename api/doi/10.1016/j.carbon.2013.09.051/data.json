@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.carbon.2014.01.065","type":"erratum"},"doi":"10.1016/j.carbon.2013.09.051","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to ‘Orientation dependence of the fracture behavior of graphene’"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496019215335,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2014.01.065"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2013.09.051"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Orientation dependence of the fracture behavior of graphene’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327968000000,"doi":"10.1073/pnas.1202752109","type":"correction"},"doi":"10.1073/pnas.1121485109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Bianchi and Baulieu, 3 -Methoxy-pregnenolone (MAP4343) as an innovative therapeutic approach for depressive disorders"}
+{
+  "retracted": false,
+  "timestamp": 1327968000000,
+  "updates": [
+    {
+      "timestamp": 1495880072800,
+      "identifier": {
+        "doi": "10.1073/pnas.1202752109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1121485109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Bianchi and Baulieu, 3 -Methoxy-pregnenolone (MAP4343) as an innovative therapeutic approach for depressive disorders"
+}

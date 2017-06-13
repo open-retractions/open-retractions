@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426550400000,"doi":"10.1016/j.jsv.2014.09.002","type":"err"},"doi":"10.1016/j.jsv.2013.11.013","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Free vibration analysis of a cracked shear deformable beam on a two-parameter elastic foundation using a lattice” [J. Sound Vib. 333 (11) (2014) 2359–2377]"}
+{
+  "retracted": false,
+  "timestamp": 1426550400000,
+  "updates": [
+    {
+      "timestamp": 1496030564693,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2014.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2013.11.013"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Free vibration analysis of a cracked shear deformable beam on a two-parameter elastic foundation using a lattice” [J. Sound Vib. 333 (11) (2014) 2359–2377]"
+}

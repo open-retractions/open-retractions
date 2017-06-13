@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":539136000000,"doi":"10.1007/bf01062942","type":"correction"},"doi":"10.1007/bf01059062","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Computation of the explicit solution to the Michaelis-Menten equation"}
+{
+  "retracted": false,
+  "timestamp": 539136000000,
+  "updates": [
+    {
+      "timestamp": 1495879948241,
+      "identifier": {
+        "doi": "10.1007/bf01062942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01059062"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Computation of the explicit solution to the Michaelis-Menten equation"
+}

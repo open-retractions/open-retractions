@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.compenvurbsys.2014.03.003","type":"err"},"doi":"10.1016/0198-9715(93)90037-6","journal":"Computers, Environment and Urban Systems","publisher":"Elsevier BV","title":"Corrigendum to “The Puget Sound environmental atlas update: Context and GIS database integration issues” [Comput. Environ. Urban Syst. 17 (5) (1993) 409–424]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496035971048,
+      "identifier": {
+        "doi": "10.1016/j.compenvurbsys.2014.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/0198-9715(93)90037-6"
+  },
+  "journal": "Computers, Environment and Urban Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Puget Sound environmental atlas update: Context and GIS database integration issues” [Comput. Environ. Urban Syst. 17 (5) (1993) 409–424]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423785600000,"doi":"10.3103/s0095452715010120","type":"correction"},"doi":"10.3103/s0095452714050028","journal":"Cytology and Genetics","publisher":"Allerton Press","title":"Erratum to: “Antagonistic effects of Satureja hortensis essential oil against AFB1, on human lymphocytes in vitro”"}
+{
+  "retracted": false,
+  "timestamp": 1423785600000,
+  "updates": [
+    {
+      "timestamp": 1496043593672,
+      "identifier": {
+        "doi": "10.3103/s0095452715010120"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s0095452714050028"
+  },
+  "journal": "Cytology and Genetics",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Antagonistic effects of Satureja hortensis essential oil against AFB1, on human lymphocytes in vitro”"
+}

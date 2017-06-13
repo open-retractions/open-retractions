@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355184000000,"doi":"10.1007/bf03260131","type":"correction"},"doi":"10.2165/00003495-199447060-00003","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to Quinolone antibacterials; an update of their pharmacology and therapeutic use"}
+{
+  "retracted": false,
+  "timestamp": 1355184000000,
+  "updates": [
+    {
+      "timestamp": 1495986709516,
+      "identifier": {
+        "doi": "10.1007/bf03260131"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2165/00003495-199447060-00003"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Quinolone antibacterials; an update of their pharmacology and therapeutic use"
+}

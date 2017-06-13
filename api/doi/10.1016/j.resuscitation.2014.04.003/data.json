@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.resuscitation.2016.09.001","type":"err"},"doi":"10.1016/j.resuscitation.2014.04.003","journal":"Resuscitation","publisher":"Elsevier BV","title":"Corrigendum to “C-reactive protein levels after cardiac arrest in patients treated with therapeutic hypothermia” [Resuscitation 85 (2014) 932–938]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495638701844,
+      "identifier": {
+        "doi": "10.1016/j.resuscitation.2016.09.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resuscitation.2014.04.003"
+  },
+  "journal": "Resuscitation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “C-reactive protein levels after cardiac arrest in patients treated with therapeutic hypothermia” [Resuscitation 85 (2014) 932–938]"
+}

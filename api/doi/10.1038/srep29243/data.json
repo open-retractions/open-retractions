@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471564800000,"doi":"10.1038/srep30666","type":"correction"},"doi":"10.1038/srep29243","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: The adipokine lipocalin-2 in the context of the osteoarthritic osteochondral junction"}
+{
+  "retracted": false,
+  "timestamp": 1471564800000,
+  "updates": [
+    {
+      "timestamp": 1495739598144,
+      "identifier": {
+        "doi": "10.1038/srep30666"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep29243"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: The adipokine lipocalin-2 in the context of the osteoarthritic osteochondral junction"
+}

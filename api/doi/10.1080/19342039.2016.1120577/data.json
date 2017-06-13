@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463356800000,"doi":"10.1080/19342039.2016.1170481","type":"correction"},"doi":"10.1080/19342039.2016.1120577","journal":"Jung Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1463356800000,
+  "updates": [
+    {
+      "timestamp": 1495676818027,
+      "identifier": {
+        "doi": "10.1080/19342039.2016.1170481"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19342039.2016.1120577"
+  },
+  "journal": "Jung Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1460073600000,"update":{"timestamp":null,"doi":null,"pmid":28411212,"type":"retraction"},"doi":"10.1074/jbc.M115.693119","journal":"The Journal of biological chemistry","publisher":null,"title":"Insights into the Effects of Complement Factor H on the Assembly and Decay of the Alternative Pathway C3 Proconvertase and C3 Convertase."}
+{
+  "retracted": false,
+  "timestamp": 1492128000000,
+  "updates": [
+    {
+      "timestamp": 1495739267028,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.693119"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.693119"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Insights into the effects of complement factor H on the assembly and decay of the alternative pathway C3 proconvertase and C3 convertase."
+}

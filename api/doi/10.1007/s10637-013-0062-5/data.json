@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391904000000,"doi":"10.1007/s10637-014-0069-6","type":"correction"},"doi":"10.1007/s10637-013-0062-5","journal":"Investigational New Drugs","publisher":"Springer Nature","title":"Erratum to: Phase I study of PF-04691502, a small-molecule, oral, dual inhibitor of PI3K and mTOR, in patients with advanced cancer"}
+{
+  "retracted": false,
+  "timestamp": 1391904000000,
+  "updates": [
+    {
+      "timestamp": 1496017971682,
+      "identifier": {
+        "doi": "10.1007/s10637-014-0069-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10637-013-0062-5"
+  },
+  "journal": "Investigational New Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phase I study of PF-04691502, a small-molecule, oral, dual inhibitor of PI3K and mTOR, in patients with advanced cancer"
+}

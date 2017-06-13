@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jfoodeng.2015.04.014","type":"err"},"doi":"10.1016/j.jfoodeng.2013.10.023","journal":"Journal of Food Engineering","publisher":"Elsevier BV","title":"Corrigendum to “In-package atmospheric pressure cold plasma treatment of strawberries” [J. Food Eng. 125 (2014) 131–138]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1495995815453,
+      "identifier": {
+        "doi": "10.1016/j.jfoodeng.2015.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfoodeng.2013.10.023"
+  },
+  "journal": "Journal of Food Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “In-package atmospheric pressure cold plasma treatment of strawberries” [J. Food Eng. 125 (2014) 131–138]"
+}

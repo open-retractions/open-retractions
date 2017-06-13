@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491955200000,"doi":"10.1098/rspb.2017.0574","type":"correction"},"doi":"10.1098/rspb.2017.0125","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Early life inflammation, immune response and ageing’"}
+{
+  "retracted": false,
+  "timestamp": 1491955200000,
+  "updates": [
+    {
+      "timestamp": 1495736188023,
+      "identifier": {
+        "doi": "10.1098/rspb.2017.0574"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2017.0125"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Early life inflammation, immune response and ageing’"
+}

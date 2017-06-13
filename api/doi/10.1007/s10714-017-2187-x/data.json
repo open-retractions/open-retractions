@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487030400000,"doi":"10.1007/s10714-017-2204-0","type":"correction"},"doi":"10.1007/s10714-017-2187-x","journal":"General Relativity and Gravitation","publisher":"Springer Nature","title":"Erratum to: Complete affine connection in the causal boundary: static, spherically symmetric spacetimes"}
+{
+  "retracted": false,
+  "timestamp": 1487030400000,
+  "updates": [
+    {
+      "timestamp": 1495720455074,
+      "identifier": {
+        "doi": "10.1007/s10714-017-2204-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10714-017-2187-x"
+  },
+  "journal": "General Relativity and Gravitation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Complete affine connection in the causal boundary: static, spherically symmetric spacetimes"
+}

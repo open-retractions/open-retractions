@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416355200000,"doi":"10.1080/00288233.2014.961670","type":"correction"},"doi":"10.1080/00288233.2014.935447","journal":"New Zealand Journal of Agricultural Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1416355200000,
+  "updates": [
+    {
+      "timestamp": 1496006629742,
+      "identifier": {
+        "doi": "10.1080/00288233.2014.961670"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00288233.2014.935447"
+  },
+  "journal": "New Zealand Journal of Agricultural Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

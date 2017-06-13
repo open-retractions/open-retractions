@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1162166400000,"doi":"10.1063/1.2374863","type":"erratum"},"doi":"10.1063/1.2347894","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Multilayer exchange spring media for magnetic recording” [Appl. Phys. Lett. 89, 113105 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1162166400000,
+  "updates": [
+    {
+      "timestamp": 1495912244778,
+      "identifier": {
+        "doi": "10.1063/1.2374863"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2347894"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Multilayer exchange spring media for magnetic recording” [Appl. Phys. Lett. 89, 113105 (2006)]"
+}

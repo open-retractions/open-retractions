@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352764800000,"doi":"10.1073/pnas.1309463110","type":"correction"},"doi":"10.1073/pnas.1216578109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Franz et al., Quantitative field theory of the glass transition"}
+{
+  "retracted": false,
+  "timestamp": 1352764800000,
+  "updates": [
+    {
+      "timestamp": 1496025661576,
+      "identifier": {
+        "doi": "10.1073/pnas.1309463110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1216578109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Franz et al., Quantitative field theory of the glass transition"
+}

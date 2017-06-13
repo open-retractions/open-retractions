@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411689600000,"doi":"10.1007/s10875-014-0100-x","type":"correction"},"doi":"10.1007/s10875-013-9940-z","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: Chronic Granulomatous Disease: A 25-Year Patient Registry Based on a Multistep Diagnostic Procedure, from the Referral Center for Primary Immunodeficiencies in Greece"}
+{
+  "retracted": false,
+  "timestamp": 1411689600000,
+  "updates": [
+    {
+      "timestamp": 1496008060762,
+      "identifier": {
+        "doi": "10.1007/s10875-014-0100-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-013-9940-z"
+  },
+  "journal": "Journal of Clinical Immunology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chronic Granulomatous Disease: A 25-Year Patient Registry Based on a Multistep Diagnostic Procedure, from the Referral Center for Primary Immunodeficiencies in Greece"
+}

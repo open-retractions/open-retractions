@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.exppara.2016.02.006","type":"err"},"doi":"10.1016/j.exppara.2015.01.003","journal":"Experimental Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “Expression of digestive enzymes and nutrient transporters in Eimeria-challenged broilers” [Exp. Parasitol. 150 (2015) 13–21]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495650096456,
+      "identifier": {
+        "doi": "10.1016/j.exppara.2016.02.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exppara.2015.01.003"
+  },
+  "journal": "Experimental Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Expression of digestive enzymes and nutrient transporters in Eimeria-challenged broilers” [Exp. Parasitol. 150 (2015) 13–21]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442966400000,"doi":"10.1080/09168451.2015.1091646","type":"correction"},"doi":"10.1080/09168451.2015.1075866","journal":"Bioscience, Biotechnology, and Biochemistry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1442966400000,
+  "updates": [
+    {
+      "timestamp": 1496032437173,
+      "identifier": {
+        "doi": "10.1080/09168451.2015.1091646"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09168451.2015.1075866"
+  },
+  "journal": "Bioscience, Biotechnology, and Biochemistry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

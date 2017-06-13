@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493078400000,"doi":"10.1016/j.cbi.2017.01.010","type":"erratum"},"doi":"10.1016/j.cbi.2013.06.004","journal":"Chemico-Biological Interactions","publisher":"Elsevier BV","title":"Corrigendum to “Evodiamine, a plant alkaloid, induces calcium/JNK-mediated autophagy and calcium/mitochondria-mediated apoptosis in human glioblastoma cells” [Chem. Biol. Interact. 205 (1) (2013 Sep 5) 20–28]"}
+{
+  "retracted": false,
+  "timestamp": 1493078400000,
+  "updates": [
+    {
+      "timestamp": 1495719676427,
+      "identifier": {
+        "doi": "10.1016/j.cbi.2017.01.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbi.2013.06.004"
+  },
+  "journal": "Chemico-Biological Interactions",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evodiamine, a plant alkaloid, induces calcium/JNK-mediated autophagy and calcium/mitochondria-mediated apoptosis in human glioblastoma cells” [Chem. Biol. Interact. 205 (1) (2013 Sep 5) 20–28]"
+}

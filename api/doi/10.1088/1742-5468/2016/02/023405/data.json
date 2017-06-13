@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1088/1742-5468/2016/04/049901","type":"correction"},"doi":"10.1088/1742-5468/2016/02/023405","journal":"Journal of Statistical Mechanics: Theory and Experiment","publisher":"IOP Publishing","title":"Erratum: Role of the plurality rule in multiple choices (J. Stat. Mech. (2016) 023405)"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495661243306,
+      "identifier": {
+        "doi": "10.1088/1742-5468/2016/04/049901"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1742-5468/2016/02/023405"
+  },
+  "journal": "Journal of Statistical Mechanics: Theory and Experiment",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Role of the plurality rule in multiple choices (J. Stat. Mech. (2016) 023405)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.pain.2013.10.020","type":"err"},"doi":"10.1016/j.pain.2013.05.051","journal":"Pain","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Erratum to: “Efficacy, safety, and tolerability of fulranumab, an anti-nerve growth factor antibody, in the treatment of patients with moderate to severe osteoarthritis pain” [PAIN® 2013;154(10):1910–19]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495990917042,
+      "identifier": {
+        "doi": "10.1016/j.pain.2013.10.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pain.2013.05.051"
+  },
+  "journal": "Pain",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Erratum to: “Efficacy, safety, and tolerability of fulranumab, an anti-nerve growth factor antibody, in the treatment of patients with moderate to severe osteoarthritis pain” [PAIN® 2013;154(10):1910–19]"
+}

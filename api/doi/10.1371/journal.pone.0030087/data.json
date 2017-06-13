@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332979200000,"doi":"10.1371/annotation/64ba358f-a483-46c2-b224-eaa5b9a33939","type":"correction"},"doi":"10.1371/journal.pone.0030087","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Direct Comparisons of Illumina vs. Roche 454 Sequencing Technologies on the Same Microbial Community DNA Sample"}
+{
+  "retracted": false,
+  "timestamp": 1332979200000,
+  "updates": [
+    {
+      "timestamp": 1495872564887,
+      "identifier": {
+        "doi": "10.1371/annotation/64ba358f-a483-46c2-b224-eaa5b9a33939"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030087"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Direct Comparisons of Illumina vs. Roche 454 Sequencing Technologies on the Same Microbial Community DNA Sample"
+}

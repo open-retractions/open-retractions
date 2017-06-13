@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1073/pnas.1519382112","type":"correction"},"doi":"10.1073/pnas.1515121112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lu et al., Label-free DNA imaging in vivo with stimulated Raman scattering microscopy"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496038979936,
+      "identifier": {
+        "doi": "10.1073/pnas.1519382112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1515121112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lu et al., Label-free DNA imaging in vivo with stimulated Raman scattering microscopy"
+}

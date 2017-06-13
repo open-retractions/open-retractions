@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1186/s12864-016-2649-7","type":"correction"},"doi":"10.1186/s12864-015-2292-8","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Liver transcriptomic networks reveal main biological processes associated with feed efficiency in beef cattle"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669698409,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2649-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-015-2292-8"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Liver transcriptomic networks reveal main biological processes associated with feed efficiency in beef cattle"
+}

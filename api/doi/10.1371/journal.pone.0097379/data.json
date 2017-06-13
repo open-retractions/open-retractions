@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404777600000,"doi":"10.1371/journal.pone.0102719","type":"correction"},"doi":"10.1371/journal.pone.0097379","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Direct Sequencing from the Minimal Number of DNA Molecules Needed to Fill a 454 Picotiterplate"}
+{
+  "retracted": false,
+  "timestamp": 1404777600000,
+  "updates": [
+    {
+      "timestamp": 1496051853931,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0102719"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0097379"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Direct Sequencing from the Minimal Number of DNA Molecules Needed to Fill a 454 Picotiterplate"
+}

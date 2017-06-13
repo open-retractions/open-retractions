@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332288000000,"doi":"10.1371/annotation/bd37b3ad-c242-4e77-9ef3-8e92d1f105f5","type":"correction"},"doi":"10.1371/journal.pone.0030601","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inhibition of Wnt/β-Catenin Signaling by a Soluble Collagen-Derived Frizzled Domain Interacting with Wnt3a and the Receptors Frizzled 1 and 8"}
+{
+  "retracted": false,
+  "timestamp": 1332288000000,
+  "updates": [
+    {
+      "timestamp": 1495872122852,
+      "identifier": {
+        "doi": "10.1371/annotation/bd37b3ad-c242-4e77-9ef3-8e92d1f105f5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030601"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inhibition of Wnt/β-Catenin Signaling by a Soluble Collagen-Derived Frizzled Domain Interacting with Wnt3a and the Receptors Frizzled 1 and 8"
+}

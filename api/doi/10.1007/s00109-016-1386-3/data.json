@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1007/s00109-016-1399-y","type":"correction"},"doi":"10.1007/s00109-016-1386-3","journal":"Journal of Molecular Medicine","publisher":"Springer Nature","title":"Erratum to: Low ambient oxygen prevents atherosclerosis"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652451755,
+      "identifier": {
+        "doi": "10.1007/s00109-016-1399-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00109-016-1386-3"
+  },
+  "journal": "Journal of Molecular Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Low ambient oxygen prevents atherosclerosis"
+}

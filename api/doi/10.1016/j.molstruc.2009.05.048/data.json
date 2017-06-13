@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459814400000,"doi":"10.1016/j.molstruc.2016.01.010","type":"err"},"doi":"10.1016/j.molstruc.2009.05.048","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Erratum to “Crystal structure and spectroscopic properties of trans-diisothiocyanatobis(2,2-dimethyl-1,3-diaminopropane)chromium(III) thiocyanate” [J. Mol. Struct. 932 (2009) 84–89]"}
+{
+  "retracted": false,
+  "timestamp": 1459814400000,
+  "updates": [
+    {
+      "timestamp": 1496059895642,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2016.01.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2009.05.048"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Crystal structure and spectroscopic properties of trans-diisothiocyanatobis(2,2-dimethyl-1,3-diaminopropane)chromium(III) thiocyanate” [J. Mol. Struct. 932 (2009) 84–89]"
+}

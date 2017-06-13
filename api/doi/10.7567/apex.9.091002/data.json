@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474588800000,"doi":"10.7567/apex.9.109201","type":"correction"},"doi":"10.7567/apex.9.091002","journal":"Applied Physics Express","publisher":"Japan Society of Applied Physics","title":"Erratum: “Franz–Keldysh effect in n-type GaN Schottky barrier diode under high reverse bias voltage”"}
+{
+  "retracted": false,
+  "timestamp": 1474588800000,
+  "updates": [
+    {
+      "timestamp": 1495642321229,
+      "identifier": {
+        "doi": "10.7567/apex.9.109201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/apex.9.091002"
+  },
+  "journal": "Applied Physics Express",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “Franz–Keldysh effect in n-type GaN Schottky barrier diode under high reverse bias voltage”"
+}

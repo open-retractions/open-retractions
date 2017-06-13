@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379894400000,"doi":"10.1371/annotation/3ff2b918-c83c-4c6f-a2e2-4d91294ec92f","type":"correction"},"doi":"10.1371/journal.pone.0053826","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Mutation Causes MuSK Reduced Sensitivity to Agrin and Congenital Myasthenia"}
+{
+  "retracted": false,
+  "timestamp": 1379894400000,
+  "updates": [
+    {
+      "timestamp": 1496049227845,
+      "identifier": {
+        "doi": "10.1371/annotation/3ff2b918-c83c-4c6f-a2e2-4d91294ec92f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0053826"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Mutation Causes MuSK Reduced Sensitivity to Agrin and Congenital Myasthenia"
+}

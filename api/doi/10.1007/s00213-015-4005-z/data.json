@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438732800000,"doi":"10.1007/s00213-015-4039-2","type":"correction"},"doi":"10.1007/s00213-015-4005-z","journal":"Psychopharmacology","publisher":"Springer Nature","title":"Erratum to: a subanesthetic dose of ketamine in the Rhesus monkey reduces the occurrence of anticipatory saccades"}
+{
+  "retracted": false,
+  "timestamp": 1438732800000,
+  "updates": [
+    {
+      "timestamp": 1496010948139,
+      "identifier": {
+        "doi": "10.1007/s00213-015-4039-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00213-015-4005-z"
+  },
+  "journal": "Psychopharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: a subanesthetic dose of ketamine in the Rhesus monkey reduces the occurrence of anticipatory saccades"
+}

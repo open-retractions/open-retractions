@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362614400000,"doi":"10.1016/j.ces.2012.12.021","type":"err"},"doi":"10.1016/j.ces.2011.03.004","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to “Modelling the solubility in Bayer liquors: A critical review and new models” [Chem. Eng. Sci. 66 (2011) 2596–2605]"}
+{
+  "retracted": false,
+  "timestamp": 1362614400000,
+  "updates": [
+    {
+      "timestamp": 1495983927955,
+      "identifier": {
+        "doi": "10.1016/j.ces.2012.12.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2011.03.004"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modelling the solubility in Bayer liquors: A critical review and new models” [Chem. Eng. Sci. 66 (2011) 2596–2605]"
+}

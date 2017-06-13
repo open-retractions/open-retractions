@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1038/srep12192","type":"correction"},"doi":"10.1038/srep08093","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: The impact of resveratrol and hydrogen peroxide on muscle cell plasticity shows a dose-dependent interaction"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496016255148,
+      "identifier": {
+        "doi": "10.1038/srep12192"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep08093"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: The impact of resveratrol and hydrogen peroxide on muscle cell plasticity shows a dose-dependent interaction"
+}

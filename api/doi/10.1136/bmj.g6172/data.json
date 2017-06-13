@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416873600000,"doi":"10.1136/bmj.g7253","type":"correction"},"doi":"10.1136/bmj.g6172","journal":"BMJ","publisher":"BMJ","title":"A 16 year old boy with chest pain"}
+{
+  "retracted": false,
+  "timestamp": 1416873600000,
+  "updates": [
+    {
+      "timestamp": 1496024785287,
+      "identifier": {
+        "doi": "10.1136/bmj.g7253"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g6172"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "A 16 year old boy with chest pain"
+}

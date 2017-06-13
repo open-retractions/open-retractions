@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1016/j.compscitech.2014.08.002","type":"err"},"doi":"10.1016/j.compscitech.2014.05.029","journal":"Composites Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Visualization of hidden delamination and debonding in composites through noncontact laser ultrasonic scanning” [Compos. Sci. Technol. 100 (2014) 10–18]"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1495996342676,
+      "identifier": {
+        "doi": "10.1016/j.compscitech.2014.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compscitech.2014.05.029"
+  },
+  "journal": "Composites Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Visualization of hidden delamination and debonding in composites through noncontact laser ultrasonic scanning” [Compos. Sci. Technol. 100 (2014) 10–18]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.oraloncology.2016.03.018","type":"err"},"doi":"10.1016/j.oraloncology.2015.11.016","journal":"Oral Oncology","publisher":"Elsevier BV","title":"Corrigendum to “Cetuximab activity in dysplastic lesions of the upper aerodigestive tract” [Oral Oncol. 53 (2016) 60–66]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495666435467,
+      "identifier": {
+        "doi": "10.1016/j.oraloncology.2016.03.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oraloncology.2015.11.016"
+  },
+  "journal": "Oral Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cetuximab activity in dysplastic lesions of the upper aerodigestive tract” [Oral Oncol. 53 (2016) 60–66]"
+}

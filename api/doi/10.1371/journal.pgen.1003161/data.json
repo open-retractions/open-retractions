@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361836800000,"doi":"10.1371/annotation/76b70ba2-f53d-4d7b-a348-9c941173aece","type":"correction"},"doi":"10.1371/journal.pgen.1003161","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Evidence for the Robustness of Protein Complexes to Inter-Species Hybridization"}
+{
+  "retracted": false,
+  "timestamp": 1361836800000,
+  "updates": [
+    {
+      "timestamp": 1496001352068,
+      "identifier": {
+        "doi": "10.1371/annotation/76b70ba2-f53d-4d7b-a348-9c941173aece"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003161"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evidence for the Robustness of Protein Complexes to Inter-Species Hybridization"
+}

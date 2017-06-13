@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1007/s12032-015-0628-5","type":"correction"},"doi":"10.1007/s12032-015-0561-7","journal":"Medical Oncology","publisher":"Springer Nature","title":"Erratum to: Study on the mesothelin-specific cytotoxicity against epithelial ovarian cancer with full-length mesothelin cDNA-transduced dendritic cells"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496002513289,
+      "identifier": {
+        "doi": "10.1007/s12032-015-0628-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12032-015-0561-7"
+  },
+  "journal": "Medical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Study on the mesothelin-specific cytotoxicity against epithelial ovarian cancer with full-length mesothelin cDNA-transduced dendritic cells"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1186/s12974-015-0410-9","type":"correction"},"doi":"10.1186/s12974-015-0399-0","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum To: Early pro-inflammatory cytokine elevations in the DBA/2J mouse model of glaucoma"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1496041087484,
+      "identifier": {
+        "doi": "10.1186/s12974-015-0410-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12974-015-0399-0"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum To: Early pro-inflammatory cytokine elevations in the DBA/2J mouse model of glaucoma"
+}

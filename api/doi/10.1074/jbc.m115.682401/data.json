@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1074/jbc.a115.682401","type":"correction"},"doi":"10.1074/jbc.m115.682401","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"High resolution structures of the human ABO(H) blood group enzymes in complex with donor analogs reveal that the enzymes utilize multiple donor conformations to bind substrates in a stepwise manner."}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495661298710,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.682401"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.682401"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "High resolution structures of the human ABO(H) blood group enzymes in complex with donor analogs reveal that the enzymes utilize multiple donor conformations to bind substrates in a stepwise manner."
+}

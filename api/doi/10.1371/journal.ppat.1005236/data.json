@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1371/journal.ppat.1005432","type":"correction"},"doi":"10.1371/journal.ppat.1005236","journal":"PLOS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Modulation of the Surface Proteome through Multiple Ubiquitylation Pathways in African Trypanosomes"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641544160,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.1005432"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1005236"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Modulation of the Surface Proteome through Multiple Ubiquitylation Pathways in African Trypanosomes"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bbapap.2015.11.008","type":"err"},"doi":"10.1016/j.bbapap.2015.04.030","journal":"Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics","publisher":"Elsevier BV","title":"Erratum to “Discovery of compounds that protect tyrosine hydroxylase activity through different mechanisms” [Biochim. Biophys. Acta 1854/9 (2015) 1078–1089]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496053492087,
+      "identifier": {
+        "doi": "10.1016/j.bbapap.2015.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbapap.2015.04.030"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Discovery of compounds that protect tyrosine hydroxylase activity through different mechanisms” [Biochim. Biophys. Acta 1854/9 (2015) 1078–1089]"
+}

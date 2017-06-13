@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461110400000,"doi":"10.1017/s0025100316000141","type":"correction"},"doi":"10.1017/s0025100315000407","journal":"Journal of the International Phonetic Association","publisher":"Cambridge University Press (CUP)","title":"Malayalam (Namboodiri Dialect) – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1461110400000,
+  "updates": [
+    {
+      "timestamp": 1495667677078,
+      "identifier": {
+        "doi": "10.1017/s0025100316000141"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0025100315000407"
+  },
+  "journal": "Journal of the International Phonetic Association",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Malayalam (Namboodiri Dialect) – CORRIGENDUM"
+}

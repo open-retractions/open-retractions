@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1063/1.4921711","type":"correction"},"doi":"10.1063/1.4918805","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Impact of symmetry on the ferroelectric properties of CaTiO3 thin films” [Appl. Phys. Lett. 106, 162904 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1496000682279,
+      "identifier": {
+        "doi": "10.1063/1.4921711"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4918805"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Impact of symmetry on the ferroelectric properties of CaTiO3 thin films” [Appl. Phys. Lett. 106, 162904 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.pbb.2013.12.018","type":"err"},"doi":"10.1016/j.pbb.2013.10.020","journal":"Pharmacology Biochemistry and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Sex differences in nicotine self-administration in rats during progressive unit dose reduction: Implications for nicotine regulation policy” [Pharmacol, Biochem and Behav 114–115 (2013) 70–81]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496008202156,
+      "identifier": {
+        "doi": "10.1016/j.pbb.2013.12.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbb.2013.10.020"
+  },
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sex differences in nicotine self-administration in rats during progressive unit dose reduction: Implications for nicotine regulation policy” [Pharmacol, Biochem and Behav 114–115 (2013) 70–81]"
+}

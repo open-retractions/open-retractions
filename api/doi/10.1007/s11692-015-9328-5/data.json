@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442880000000,"doi":"10.1007/s11692-015-9344-5","type":"correction"},"doi":"10.1007/s11692-015-9328-5","journal":"Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: Using Reflectance Ratios to Study Animal Coloration"}
+{
+  "retracted": false,
+  "timestamp": 1442880000000,
+  "updates": [
+    {
+      "timestamp": 1496032007195,
+      "identifier": {
+        "doi": "10.1007/s11692-015-9344-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11692-015-9328-5"
+  },
+  "journal": "Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Using Reflectance Ratios to Study Animal Coloration"
+}

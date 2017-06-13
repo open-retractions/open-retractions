@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1244678400000,"doi":"10.1371/annotation/2259f958-a68e-4e57-92b5-2ef003070cf1","type":"correction"},"doi":"10.1371/journal.pbio.1000099","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Abl Kinase Inhibits the Engulfment of Apopotic Cells in Caenorhabditis elegans"}
+{
+  "retracted": false,
+  "timestamp": 1244678400000,
+  "updates": [
+    {
+      "timestamp": 1496023937092,
+      "identifier": {
+        "doi": "10.1371/annotation/2259f958-a68e-4e57-92b5-2ef003070cf1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1000099"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Abl Kinase Inhibits the Engulfment of Apopotic Cells in Caenorhabditis elegans"
+}

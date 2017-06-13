@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434153600000,"doi":"10.1007/s00439-015-1576-z","type":"correction"},"doi":"10.1007/s00439-015-1566-1","journal":"Human Genetics","publisher":"Springer Nature","title":"Erratum to: The somatic autosomal mutation matrix in cancer genomes"}
+{
+  "retracted": false,
+  "timestamp": 1434153600000,
+  "updates": [
+    {
+      "timestamp": 1496007280596,
+      "identifier": {
+        "doi": "10.1007/s00439-015-1576-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00439-015-1566-1"
+  },
+  "journal": "Human Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The somatic autosomal mutation matrix in cancer genomes"
+}

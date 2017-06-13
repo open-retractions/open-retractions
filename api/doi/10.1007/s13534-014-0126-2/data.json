@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405123200000,"doi":"10.1007/s13534-014-0141-3","type":"correction"},"doi":"10.1007/s13534-014-0126-2","journal":"Biomedical Engineering Letters","publisher":"Springer Nature","title":"Erratum to: Optimal selection of regularization parameter in total variation method for reducing noise in magnetic resonance images of the brain"}
+{
+  "retracted": false,
+  "timestamp": 1405123200000,
+  "updates": [
+    {
+      "timestamp": 1496053119545,
+      "identifier": {
+        "doi": "10.1007/s13534-014-0141-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13534-014-0126-2"
+  },
+  "journal": "Biomedical Engineering Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optimal selection of regularization parameter in total variation method for reducing noise in magnetic resonance images of the brain"
+}

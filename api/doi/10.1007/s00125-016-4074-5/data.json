@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1007/s00125-016-4119-9","type":"correction"},"doi":"10.1007/s00125-016-4074-5","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: The epigenetic signature of systemic insulin resistance in obese women"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495644510355,
+      "identifier": {
+        "doi": "10.1007/s00125-016-4119-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-016-4074-5"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The epigenetic signature of systemic insulin resistance in obese women"
+}

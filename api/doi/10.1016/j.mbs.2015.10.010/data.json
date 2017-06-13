@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.mbs.2016.03.005","type":"err"},"doi":"10.1016/j.mbs.2015.10.010","journal":"Mathematical Biosciences","publisher":"Elsevier BV","title":"Erratum to Stochastic descriptors in an SIR epidemic model for heterogeneous individuals in small networks Mathematical Biosciences 271 (2016) 42–61"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495658026101,
+      "identifier": {
+        "doi": "10.1016/j.mbs.2016.03.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mbs.2015.10.010"
+  },
+  "journal": "Mathematical Biosciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to  Stochastic descriptors in an SIR epidemic model for heterogeneous individuals in small networks  Mathematical Biosciences 271 (2016) 42–61"
+}

@@ -1,1 +1,18 @@
-{"retracted":true,"timestamp":1242345600000,"update":{"timestamp":null,"doi":null,"pmid":28159762,"type":"retraction"},"doi":"10.1074/jbc.M808084200","journal":"The Journal of biological chemistry","publisher":null,"title":"Prothymosin-alpha mediates nuclear import of the INrf2/Cul3 Rbx1 complex to degrade nuclear Nrf2."}
+{
+  "retracted": false,
+  "timestamp": 1486080000000,
+  "updates": [
+    {
+      "timestamp": 1495680923446,
+      "identifier": {
+        "doi": "10.1074/jbc.a117.808084"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m808084200"
+  },
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Prothymosin-α mediates nuclear import of the INrf2/Cul3·Rbx1 complex to degrade nuclear Nrf2."
+}

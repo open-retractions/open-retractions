@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.physb.2014.08.014","type":"err"},"doi":"10.1016/j.physb.2014.05.008","journal":"Physica B: Condensed Matter","publisher":"Elsevier BV","title":"Corrigendum to “Structural, magnetic and electrical properties of self-doped La0.8Na0.2_x□xMnO3 manganites” [Physica B 449 (2014) 36–41]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496003383067,
+      "identifier": {
+        "doi": "10.1016/j.physb.2014.08.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physb.2014.05.008"
+  },
+  "journal": "Physica B: Condensed Matter",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structural, magnetic and electrical properties of self-doped La0.8Na0.2_x□xMnO3 manganites” [Physica B 449 (2014) 36–41]"
+}

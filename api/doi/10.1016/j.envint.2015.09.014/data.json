@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.envint.2016.04.043","type":"err"},"doi":"10.1016/j.envint.2015.09.014","journal":"Environment International","publisher":"Elsevier BV","title":"Corrigendum to “Undisturbed dust as a metric of long-term indoor insecticide exposure: Residential DDT contamination from indoor residual spraying and its association with serum levels in the VHEMBE cohort” [Environ. Int. 85C (2015) 163–167]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495716297733,
+      "identifier": {
+        "doi": "10.1016/j.envint.2016.04.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envint.2015.09.014"
+  },
+  "journal": "Environment International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Undisturbed dust as a metric of long-term indoor insecticide exposure: Residential DDT contamination from indoor residual spraying and its association with serum levels in the VHEMBE cohort” [Environ. Int. 85C (2015) 163–167]"
+}

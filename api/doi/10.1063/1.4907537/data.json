@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428451200000,"doi":"10.1063/1.4917272","type":"correction"},"doi":"10.1063/1.4907537","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Forward scattering in hard X-ray photoelectron spectroscopy: Structural investigation of buried Mn–Ga films” [Appl. Phys. Lett. 106, 052402 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1428451200000,
+  "updates": [
+    {
+      "timestamp": 1496056213857,
+      "identifier": {
+        "doi": "10.1063/1.4917272"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4907537"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Forward scattering in hard X-ray photoelectron spectroscopy: Structural investigation of buried Mn–Ga films” [Appl. Phys. Lett. 106, 052402 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389657600000,"doi":"10.1371/annotation/3eb548ab-c781-4784-9dee-b5a27f7e1643","type":"correction"},"doi":"10.1371/journal.pone.0074450","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Beneficial Role of Rapamycin in Experimental Autoimmune Myositis"}
+{
+  "retracted": false,
+  "timestamp": 1389657600000,
+  "updates": [
+    {
+      "timestamp": 1496010053718,
+      "identifier": {
+        "doi": "10.1371/annotation/3eb548ab-c781-4784-9dee-b5a27f7e1643"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074450"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Beneficial Role of Rapamycin in Experimental Autoimmune Myositis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-44755200000,"doi":"10.1007/bf01379964","type":"correction"},"doi":"10.1007/bf01333199","journal":"Zeitschrift für Physik A Hadrons and nuclei","publisher":"Springer Nature","title":"Erratum to: Theory of coupled mode oscillation in a laser with axial magnetic field"}
+{
+  "retracted": false,
+  "timestamp": -44755200000,
+  "updates": [
+    {
+      "timestamp": 1495932534541,
+      "identifier": {
+        "doi": "10.1007/bf01379964"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01333199"
+  },
+  "journal": "Zeitschrift für Physik A Hadrons and nuclei",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Theory of coupled mode oscillation in a laser with axial magnetic field"
+}

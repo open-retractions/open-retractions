@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.dss.2016.04.002","type":"erratum"},"doi":"10.1016/j.dss.2014.04.007","journal":"Decision Support Systems","publisher":"Elsevier BV","title":"Corrigendum to “A provenance-based approach to semantic web service description and discovery” [Decis. Support. Syst. (64C) (2014) 90–99]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495676736384,
+      "identifier": {
+        "doi": "10.1016/j.dss.2016.04.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dss.2014.04.007"
+  },
+  "journal": "Decision Support Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A provenance-based approach to semantic web service description and discovery” [Decis. Support. Syst. (64C) (2014) 90–99]"
+}

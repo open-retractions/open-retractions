@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1269820800000,"doi":"10.1186/1471-2334-10-79","type":"correction"},"doi":"10.1186/1471-2334-9-138","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Transmission of Specific Genotype Streptomycin Resistant Strains of Mycobacterium tuberculosisin the Tokyo Metropolitan Area in Japan"}
+{
+  "retracted": false,
+  "timestamp": 1269820800000,
+  "updates": [
+    {
+      "timestamp": 1495833698996,
+      "identifier": {
+        "doi": "10.1186/1471-2334-10-79"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2334-9-138"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transmission of Specific Genotype Streptomycin Resistant Strains of Mycobacterium tuberculosisin the Tokyo Metropolitan Area in Japan"
+}

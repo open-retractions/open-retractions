@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432684800000,"doi":"10.1134/s0030400x15220014","type":"correction"},"doi":"10.1134/s0030400x15030091","journal":"Optics and Spectroscopy","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Filtration of photon noises by a nonlinear interferometer”"}
+{
+  "retracted": false,
+  "timestamp": 1432684800000,
+  "updates": [
+    {
+      "timestamp": 1496002260367,
+      "identifier": {
+        "doi": "10.1134/s0030400x15220014"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0030400x15030091"
+  },
+  "journal": "Optics and Spectroscopy",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Filtration of photon noises by a nonlinear interferometer”"
+}

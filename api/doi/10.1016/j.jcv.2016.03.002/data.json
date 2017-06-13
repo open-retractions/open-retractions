@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jcv.2016.06.014","type":"err"},"doi":"10.1016/j.jcv.2016.03.002","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Corrigendum to “Outbreak of adenovirus type 55 infection in Israel” [J. Clin. Virol. 78 (2016) 31–35]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495727060659,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2016.06.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2016.03.002"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Outbreak of adenovirus type 55 infection in Israel” [J. Clin. Virol. 78 (2016) 31–35]"
+}

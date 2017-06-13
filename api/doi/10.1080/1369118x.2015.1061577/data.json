@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441929600000,"doi":"10.1080/1369118x.2015.1088214","type":"correction"},"doi":"10.1080/1369118x.2015.1061577","journal":"Information, Communication & Society","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1441929600000,
+  "updates": [
+    {
+      "timestamp": 1496029829333,
+      "identifier": {
+        "doi": "10.1080/1369118x.2015.1088214"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1369118x.2015.1061577"
+  },
+  "journal": "Information, Communication & Society",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

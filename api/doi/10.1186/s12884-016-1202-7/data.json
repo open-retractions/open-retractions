@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489449600000,"doi":"10.1186/s12884-017-1258-z","type":"correction"},"doi":"10.1186/s12884-016-1202-7","journal":"BMC Pregnancy and Childbirth","publisher":"Springer Nature","title":"Erratum to: Quality and uptake of antenatal and postnatal care in Haiti"}
+{
+  "retracted": false,
+  "timestamp": 1489449600000,
+  "updates": [
+    {
+      "timestamp": 1495728826960,
+      "identifier": {
+        "doi": "10.1186/s12884-017-1258-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12884-016-1202-7"
+  },
+  "journal": "BMC Pregnancy and Childbirth",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quality and uptake of antenatal and postnatal care in Haiti"
+}

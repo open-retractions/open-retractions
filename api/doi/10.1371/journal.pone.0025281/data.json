@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320105600000,"doi":"10.1371/annotation/69eda582-222c-4993-99a5-733db2dac07c","type":"correction"},"doi":"10.1371/journal.pone.0025281","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Sentinel Surveillance of HIV-1 Transmitted Drug Resistance, Acute Infection and Recent Infection"}
+{
+  "retracted": false,
+  "timestamp": 1320105600000,
+  "updates": [
+    {
+      "timestamp": 1495825788819,
+      "identifier": {
+        "doi": "10.1371/annotation/69eda582-222c-4993-99a5-733db2dac07c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0025281"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Sentinel Surveillance of HIV-1 Transmitted Drug Resistance, Acute Infection and Recent Infection"
+}

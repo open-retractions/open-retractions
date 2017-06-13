@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.jpain.2016.08.004","type":"err"},"doi":"10.1016/j.jpain.2015.03.007","journal":"The Journal of Pain","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495643620490,
+      "identifier": {
+        "doi": "10.1016/j.jpain.2016.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpain.2015.03.007"
+  },
+  "journal": "The Journal of Pain",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

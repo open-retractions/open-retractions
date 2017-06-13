@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359504000000,"doi":"10.1007/s12031-013-9963-1","type":"correction"},"doi":"10.1007/s12031-012-9925-z","journal":"Journal of Molecular Neuroscience","publisher":"Springer Nature","title":"Erratum to: Inge Grundke-Iqbal, Ph.D. (1937–2012): the Discoverer of the Abnormal Hyperphosphorylation of Tau in Alzheimer’s Disease"}
+{
+  "retracted": false,
+  "timestamp": 1359504000000,
+  "updates": [
+    {
+      "timestamp": 1495992320312,
+      "identifier": {
+        "doi": "10.1007/s12031-013-9963-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12031-012-9925-z"
+  },
+  "journal": "Journal of Molecular Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inge Grundke-Iqbal, Ph.D. (1937–2012): the Discoverer of the Abnormal Hyperphosphorylation of Tau in Alzheimer’s Disease"
+}

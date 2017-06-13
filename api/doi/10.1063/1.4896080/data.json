@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412553600000,"doi":"10.1063/1.4897451","type":"correction"},"doi":"10.1063/1.4896080","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Characteristic decomposition of compressible Euler equations for a non-ideal gas in two-dimensions” [J. Math. Phys. 55, 093103 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1412553600000,
+  "updates": [
+    {
+      "timestamp": 1496012643419,
+      "identifier": {
+        "doi": "10.1063/1.4897451"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4896080"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Characteristic decomposition of compressible Euler equations for a non-ideal gas in two-dimensions” [J. Math. Phys. 55, 093103 (2014)]"
+}

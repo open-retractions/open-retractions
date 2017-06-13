@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.atherosclerosis.2015.04.018","type":"err"},"doi":"10.1016/j.atherosclerosis.2014.09.034","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Erratum to ‘Altered lipidome and antioxidative activity of small, dense HDL in normolipidemic rheumatoid arthritis: Relevance of inflammation’ [Atherosclerosis 237 (2014) 652–660]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496058880783,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2015.04.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2014.09.034"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Altered lipidome and antioxidative activity of small, dense HDL in normolipidemic rheumatoid arthritis: Relevance of inflammation’ [Atherosclerosis 237 (2014) 652–660]"
+}

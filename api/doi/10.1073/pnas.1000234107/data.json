@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1294099200000,"doi":"10.1073/pnas.1017337108","type":"correction"},"doi":"10.1073/pnas.1000234107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Osakabe et al., Site-directed mutagenesis in Arabidopsis using custom-designed zinc finger nucleases"}
+{
+  "retracted": false,
+  "timestamp": 1294099200000,
+  "updates": [
+    {
+      "timestamp": 1495913767218,
+      "identifier": {
+        "doi": "10.1073/pnas.1017337108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1000234107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Osakabe et al., Site-directed mutagenesis in Arabidopsis using custom-designed zinc finger nucleases"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1016/j.jconrel.2014.12.020","type":"err"},"doi":"10.1016/j.jconrel.2014.08.002","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to ‘Lysosomal capturing of cytoplasmic injected nanoparticles by autophagy: An additional barrier to non-viral gene delivery’ [J. Control. Release 195 (2014) 29–36]"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496032192282,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2014.12.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2014.08.002"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Lysosomal capturing of cytoplasmic injected nanoparticles by autophagy: An additional barrier to non-viral gene delivery’ [J. Control. Release 195 (2014) 29–36]"
+}

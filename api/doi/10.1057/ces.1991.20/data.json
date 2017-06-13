@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":691545600000,"doi":"10.1057/ces.1991.39","type":"correction"},"doi":"10.1057/ces.1991.20","journal":"Comparative Economic Studies","publisher":"Springer Nature","title":"Erratum: Erratum"}
+{
+  "retracted": false,
+  "timestamp": 691545600000,
+  "updates": [
+    {
+      "timestamp": 1495907716924,
+      "identifier": {
+        "doi": "10.1057/ces.1991.39"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/ces.1991.20"
+  },
+  "journal": "Comparative Economic Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum"
+}

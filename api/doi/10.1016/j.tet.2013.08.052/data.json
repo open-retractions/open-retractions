@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1016/j.tet.2014.01.069","type":"err"},"doi":"10.1016/j.tet.2013.08.052","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Cascade reaction synthesis of multisubstituted bicyclic pyridone derivatives” [Tetrahedron 69 (2013) 9224–9236]"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1496016208704,
+      "identifier": {
+        "doi": "10.1016/j.tet.2014.01.069"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2013.08.052"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cascade reaction synthesis of multisubstituted bicyclic pyridone derivatives” [Tetrahedron 69 (2013) 9224–9236]"
+}

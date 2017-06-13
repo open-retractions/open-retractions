@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.molimm.2016.09.009","type":"erratum"},"doi":"10.1016/j.molimm.2015.02.016","journal":"Molecular Immunology","publisher":"Elsevier BV","title":"Corrigendum to “ Haemophilus parasuis induces activation of NF-κB and MAP kinase signaling pathways mediated by toll-like receptors” [Mol. Immunol. 65 (2) (2015) 360–366]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495642702258,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2016.09.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2015.02.016"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ Haemophilus parasuis  induces activation of NF-κB and MAP kinase signaling pathways mediated by toll-like receptors” [Mol. Immunol. 65 (2) (2015) 360–366]"
+}

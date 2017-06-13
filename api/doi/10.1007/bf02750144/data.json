@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202860800000,"doi":"10.1007/bf02750430","type":"correction"},"doi":"10.1007/bf02750144","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: The photoproduction of neutral pions from hydrogen in the forward direction, for photon energies between 550 MeV and 1050 MeV"}
+{
+  "retracted": false,
+  "timestamp": 1202860800000,
+  "updates": [
+    {
+      "timestamp": 1495830909934,
+      "identifier": {
+        "doi": "10.1007/bf02750430"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02750144"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The photoproduction of neutral pions from hydrogen in the forward direction, for photon energies between 550 MeV and 1050 MeV"
+}

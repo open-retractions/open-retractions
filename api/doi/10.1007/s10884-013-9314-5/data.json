@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1007/s10884-016-9540-8","type":"correction"},"doi":"10.1007/s10884-013-9314-5","journal":"Journal of Dynamics and Differential Equations","publisher":"Springer Nature","title":"Erratum to: Integrable Systems of Neumann Type"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495722231637,
+      "identifier": {
+        "doi": "10.1007/s10884-016-9540-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10884-013-9314-5"
+  },
+  "journal": "Journal of Dynamics and Differential Equations",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Integrable Systems of Neumann Type"
+}

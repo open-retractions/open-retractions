@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376870400000,"doi":"10.1016/j.cub.2013.07.085","type":"err"},"doi":"10.1016/j.cub.2013.06.033","journal":"Current Biology","publisher":"Elsevier BV","title":"Phylogenomics of the Intracellular Parasite Mikrocytos mackini Reveals Evidence for a Mitosome in Rhizaria"}
+{
+  "retracted": false,
+  "timestamp": 1376870400000,
+  "updates": [
+    {
+      "timestamp": 1496040595319,
+      "identifier": {
+        "doi": "10.1016/j.cub.2013.07.085"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2013.06.033"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Phylogenomics of the Intracellular Parasite Mikrocytos mackini Reveals Evidence for a Mitosome in Rhizaria"
+}

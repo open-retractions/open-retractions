@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.jcrysgro.2015.02.088","type":"err"},"doi":"10.1016/j.jcrysgro.2014.08.023","journal":"Journal of Crystal Growth","publisher":"Elsevier BV","title":"Corrigendum to: Continuous in situ X-ray reflectivity investigation on epitaxial growth of InGaN by metalorganic vapor phase epitaxy [J. Cryst. Growth 407 (2014) 68–73]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496049948703,
+      "identifier": {
+        "doi": "10.1016/j.jcrysgro.2015.02.088"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrysgro.2014.08.023"
+  },
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Continuous in situ X-ray reflectivity investigation on epitaxial growth of InGaN by metalorganic vapor phase epitaxy [J. Cryst. Growth 407 (2014) 68–73]"
+}

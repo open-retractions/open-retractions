@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.envres.2016.06.015","type":"err"},"doi":"10.1016/j.envres.2015.12.002","journal":"Environmental Research","publisher":"Elsevier BV","title":"Corrigendum to “Speciation, behaviour, and fate of mercury under oxy-fuel combustion conditions” [Environ. Res. 145 (2016) 154–161]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495720874595,
+      "identifier": {
+        "doi": "10.1016/j.envres.2016.06.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2015.12.002"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Speciation, behaviour, and fate of mercury under oxy-fuel combustion conditions” [Environ. Res. 145 (2016) 154–161]"
+}

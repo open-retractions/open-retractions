@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.mayocp.2016.12.010","type":"erratum"},"doi":"10.1016/j.mayocp.2016.06.013","journal":"Mayo Clinic Proceedings","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495716115405,
+      "identifier": {
+        "doi": "10.1016/j.mayocp.2016.12.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mayocp.2016.06.013"
+  },
+  "journal": "Mayo Clinic Proceedings",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

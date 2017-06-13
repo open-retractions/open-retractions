@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372118400000,"doi":"10.1073/pnas.1314545110","type":"correction"},"doi":"10.1073/pnas.1221036110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tonthat et al., SlmA forms a higher-order structure on DNA that inhibits cytokinetic Z-ring formation over the nucleoid"}
+{
+  "retracted": false,
+  "timestamp": 1372118400000,
+  "updates": [
+    {
+      "timestamp": 1496040903082,
+      "identifier": {
+        "doi": "10.1073/pnas.1314545110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1221036110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tonthat et al., SlmA forms a higher-order structure on DNA that inhibits cytokinetic Z-ring formation over the nucleoid"
+}

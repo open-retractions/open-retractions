@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1301443200000,"doi":"10.1007/s00028-011-0108-0","type":"correction"},"doi":"10.1007/s00028-010-0084-9","journal":"Journal of Evolution Equations","publisher":"Springer Nature","title":"Erratum to: On the Crank–Nicolson scheme once again"}
+{
+  "retracted": false,
+  "timestamp": 1301443200000,
+  "updates": [
+    {
+      "timestamp": 1495945465186,
+      "identifier": {
+        "doi": "10.1007/s00028-011-0108-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00028-010-0084-9"
+  },
+  "journal": "Journal of Evolution Equations",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the Crank–Nicolson scheme once again"
+}

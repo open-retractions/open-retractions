@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1486771200000,"doi":"10.1007/s10048-017-0511-y","type":"correction"},"doi":"10.1007/s10048-016-0493-1","journal":"neurogenetics","publisher":"Springer Nature","title":"Erratum to: PARP10 deficiency manifests by severe developmental delay and DNA repair defect"}
+{
+  "retracted": false,
+  "timestamp": 1486771200000,
+  "updates": [
+    {
+      "timestamp": 1495681192935,
+      "identifier": {
+        "doi": "10.1007/s10048-017-0511-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10048-016-0493-1"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: PARP10 deficiency manifests by severe developmental delay and DNA repair defect"
+}

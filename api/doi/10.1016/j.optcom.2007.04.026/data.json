@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.optcom.2013.10.001","type":"err"},"doi":"10.1016/j.optcom.2007.04.026","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Lasing from single, stationary, dye-doped glycerol/water microdroplets located on a superhydrophobic surface” [Opt. Commun. 276 (2007) 145–148]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495994238288,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2007.04.026"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lasing from single, stationary, dye-doped glycerol/water microdroplets located on a superhydrophobic surface” [Opt. Commun. 276 (2007) 145–148]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1371/journal.pntd.0004372","type":"correction"},"doi":"10.1371/journal.pntd.0004205","journal":"PLOS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Depletion of UDP-Glucose and UDP-Galactose Using a Degron System Leads to Growth Cessation of Leishmania major"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1496058212824,
+      "identifier": {
+        "doi": "10.1371/journal.pntd.0004372"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0004205"
+  },
+  "journal": "PLOS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Depletion of UDP-Glucose and UDP-Galactose Using a Degron System Leads to Growth Cessation of Leishmania major"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.jnucmat.2017.03.024","type":"erratum"},"doi":"10.1016/j.jnucmat.2016.09.026","journal":"Journal of Nuclear Materials","publisher":"Elsevier BV","title":"Erratum to “Oxide evolution on alloy X-750 in simulated BWR environment” [J. Nucl. Mater. 482 (15 December 2016) 19–27]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495731508657,
+      "identifier": {
+        "doi": "10.1016/j.jnucmat.2017.03.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnucmat.2016.09.026"
+  },
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Oxide evolution on alloy X-750 in simulated BWR environment” [J. Nucl. Mater. 482 (15 December 2016) 19–27]"
+}

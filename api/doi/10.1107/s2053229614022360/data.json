@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1107/s2053229615005598","type":"correction"},"doi":"10.1107/s2053229614022360","journal":"Acta Crystallographica Section C Structural Chemistry","publisher":"International Union of Crystallography (IUCr)","title":"Corrigenda for four articles"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495997016641,
+      "identifier": {
+        "doi": "10.1107/s2053229615005598"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s2053229614022360"
+  },
+  "journal": "Acta Crystallographica Section C Structural Chemistry",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Corrigenda for four articles"
+}

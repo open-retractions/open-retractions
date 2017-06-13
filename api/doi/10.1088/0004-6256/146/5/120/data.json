@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462233600000,"doi":"10.3847/0004-6256/151/5/133","type":"correction"},"doi":"10.1088/0004-6256/146/5/120","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “MOJAVE. X. PARSEC-SCALE JET ORIENTATION VARIATIONS AND SUPERLUMINAL MOTION IN ACTIVE GALACTIC NUCLEI” (2013, AJ, 146, 120)"}
+{
+  "retracted": false,
+  "timestamp": 1462233600000,
+  "updates": [
+    {
+      "timestamp": 1495672747440,
+      "identifier": {
+        "doi": "10.3847/0004-6256/151/5/133"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/146/5/120"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “MOJAVE. X. PARSEC-SCALE JET ORIENTATION VARIATIONS AND SUPERLUMINAL MOTION IN ACTIVE GALACTIC NUCLEI” (2013, AJ, 146, 120)"
+}

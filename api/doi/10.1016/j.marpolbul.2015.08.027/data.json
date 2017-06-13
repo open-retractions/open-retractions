@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.marpolbul.2016.02.063","type":"erratum"},"doi":"10.1016/j.marpolbul.2015.08.027","journal":"Marine Pollution Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Relationship between the lability of sediment-bound Cd and its bioaccumulation in edible oyster” [Mar. Pollut. Bull. 100 (2015) 344–351]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495650218507,
+      "identifier": {
+        "doi": "10.1016/j.marpolbul.2016.02.063"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marpolbul.2015.08.027"
+  },
+  "journal": "Marine Pollution Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relationship between the lability of sediment-bound Cd and its bioaccumulation in edible oyster” [Mar. Pollut. Bull. 100 (2015) 344–351]"
+}

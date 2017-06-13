@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1195516800000,"doi":"10.1073/pnas.0709460104","type":"correction"},"doi":"10.1073/pnas.0703740104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sales-Pardo et al., Extracting the hierarchical organization of complex systems"}
+{
+  "retracted": false,
+  "timestamp": 1195516800000,
+  "updates": [
+    {
+      "timestamp": 1495800223849,
+      "identifier": {
+        "doi": "10.1073/pnas.0709460104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0703740104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sales-Pardo et al., Extracting the hierarchical organization of complex systems"
+}

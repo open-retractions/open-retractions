@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1146441600000,"doi":"10.1063/1.2203668","type":"erratum"},"doi":"10.1063/1.1756030","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: “Fragmentation of stretched liquid ligaments” [Phys. Fluids 16, 2732 (2004)]"}
+{
+  "retracted": false,
+  "timestamp": 1146441600000,
+  "updates": [
+    {
+      "timestamp": 1495861433399,
+      "identifier": {
+        "doi": "10.1063/1.2203668"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1756030"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Fragmentation of stretched liquid ligaments” [Phys. Fluids 16, 2732           (2004)]"
+}

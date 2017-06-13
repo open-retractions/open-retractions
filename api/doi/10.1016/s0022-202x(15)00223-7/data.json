@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.jid.2016.01.011","type":"erratum"},"doi":"10.1016/s0022-202x(15)00223-7","journal":"Journal of Investigative Dermatology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495646071712,
+      "identifier": {
+        "doi": "10.1016/j.jid.2016.01.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0022-202x(15)00223-7"
+  },
+  "journal": "Journal of Investigative Dermatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

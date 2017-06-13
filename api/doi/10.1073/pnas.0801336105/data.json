@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1216684800000,"doi":"10.1073/pnas.0807092105","type":"correction"},"doi":"10.1073/pnas.0801336105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hendgen-Cotta et al., Nitrite reductase activity of myoglobin regulates respiration and cellular viability in myocardial ischemia-reperfusion injury"}
+{
+  "retracted": false,
+  "timestamp": 1216684800000,
+  "updates": [
+    {
+      "timestamp": 1495869850856,
+      "identifier": {
+        "doi": "10.1073/pnas.0807092105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0801336105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hendgen-Cotta et al., Nitrite reductase activity of myoglobin regulates respiration and cellular viability in myocardial ischemia-reperfusion injury"
+}

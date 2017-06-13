@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1128/jvi.02954-15","type":"correction"},"doi":"10.1128/jvi.01711-13","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Chen et al., Divergent MicroRNA Targetomes of Closely Related Circulating Strains of a Polyomavirus"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1495640710307,
+      "identifier": {
+        "doi": "10.1128/jvi.02954-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.01711-13"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Chen et al., Divergent MicroRNA Targetomes of Closely Related Circulating Strains of a Polyomavirus"
+}

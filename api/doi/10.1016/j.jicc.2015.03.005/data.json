@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jicc.2015.05.008","type":"err"},"doi":"10.1016/j.jicc.2015.03.005","journal":"Journal of Indian College of Cardiology","publisher":"Elsevier BV","title":"If triglycerides matter, why do they matter?"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495657074880,
+      "identifier": {
+        "doi": "10.1016/j.jicc.2015.05.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jicc.2015.03.005"
+  },
+  "journal": "Journal of Indian College of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "If triglycerides matter, why do they matter?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370908800000,"doi":"10.1073/pnas.1311700110","type":"correction"},"doi":"10.1073/pnas.1307575110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hu et al., Microbiota-induced activation of epithelial IL-6 signaling links inflammasome-driven inflammation with transmissible cancer"}
+{
+  "retracted": false,
+  "timestamp": 1370908800000,
+  "updates": [
+    {
+      "timestamp": 1496031394264,
+      "identifier": {
+        "doi": "10.1073/pnas.1311700110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1307575110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hu et al., Microbiota-induced activation of epithelial IL-6 signaling links inflammasome-driven inflammation with transmissible cancer"
+}

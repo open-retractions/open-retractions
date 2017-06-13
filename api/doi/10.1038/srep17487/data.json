@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1038/srep21219","type":"correction"},"doi":"10.1038/srep17487","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Cross-modal and modality-specific expectancy effects between pain and disgust"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645643913,
+      "identifier": {
+        "doi": "10.1038/srep21219"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17487"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Cross-modal and modality-specific expectancy effects between pain and disgust"
+}

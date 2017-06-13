@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1038/srep12188","type":"correction"},"doi":"10.1038/srep10075","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Influence of sociodemographic characteristics on human mobility"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496010527085,
+      "identifier": {
+        "doi": "10.1038/srep12188"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10075"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Influence of sociodemographic characteristics on human mobility"
+}

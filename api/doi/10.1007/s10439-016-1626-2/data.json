@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1007/s10439-016-1665-8","type":"correction"},"doi":"10.1007/s10439-016-1626-2","journal":"Annals of Biomedical Engineering","publisher":"Springer Nature","title":"Erratum to: Impact of Bi-Axial Shear on Atherogenic Gene Expression by Endothelial Cells"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495721608589,
+      "identifier": {
+        "doi": "10.1007/s10439-016-1665-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10439-016-1626-2"
+  },
+  "journal": "Annals of Biomedical Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Impact of Bi-Axial Shear on Atherogenic Gene Expression by Endothelial Cells"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440720000000,"doi":"10.1039/c5sc90050f","type":"correction"},"doi":"10.1039/c5sc02185e","journal":"Chem. Sci.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Characterizing chain processes in visible light photoredox catalysis"}
+{
+  "retracted": false,
+  "timestamp": 1440720000000,
+  "updates": [
+    {
+      "timestamp": 1496025177895,
+      "identifier": {
+        "doi": "10.1039/c5sc90050f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5sc02185e"
+  },
+  "journal": "Chem. Sci.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Characterizing chain processes in visible light photoredox catalysis"
+}

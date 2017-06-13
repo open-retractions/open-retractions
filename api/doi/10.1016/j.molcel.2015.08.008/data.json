@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.1016/j.molcel.2016.01.016","type":"erratum"},"doi":"10.1016/j.molcel.2015.08.008","journal":"Molecular Cell","publisher":"Elsevier BV","title":"ATR Plays a Direct Antiapoptotic Role at Mitochondria, which Is Regulated by Prolyl Isomerase Pin1"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495642475221,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.01.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.08.008"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "ATR Plays a Direct Antiapoptotic Role at Mitochondria, which Is Regulated by Prolyl Isomerase Pin1"
+}

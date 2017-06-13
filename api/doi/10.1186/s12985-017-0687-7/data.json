@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1186/s12985-017-0717-5","type":"correction"},"doi":"10.1186/s12985-017-0687-7","journal":"Virology Journal","publisher":"Springer Nature","title":"Erratum to: Characterization and pathogenesis of aerosolized eastern equine encephalitis in the common marmoset (Callithrix jacchus)"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495728047176,
+      "identifier": {
+        "doi": "10.1186/s12985-017-0717-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12985-017-0687-7"
+  },
+  "journal": "Virology Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Characterization and pathogenesis of aerosolized eastern equine encephalitis in the common marmoset (Callithrix jacchus)"
+}

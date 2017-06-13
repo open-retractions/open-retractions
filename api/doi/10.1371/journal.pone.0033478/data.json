@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344297600000,"doi":"10.1371/annotation/f4475cbd-3518-46cd-bb6b-a326008af388","type":"correction"},"doi":"10.1371/journal.pone.0033478","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: LILRA2 Selectively Modulates LPS-Mediated Cytokine Production and Inhibits Phagocytosis by Monocytes"}
+{
+  "retracted": false,
+  "timestamp": 1344297600000,
+  "updates": [
+    {
+      "timestamp": 1495940332502,
+      "identifier": {
+        "doi": "10.1371/annotation/f4475cbd-3518-46cd-bb6b-a326008af388"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033478"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: LILRA2 Selectively Modulates LPS-Mediated Cytokine Production and Inhibits Phagocytosis by Monocytes"
+}

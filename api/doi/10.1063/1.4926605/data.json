@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439769600000,"doi":"10.1063/1.4928682","type":"correction"},"doi":"10.1063/1.4926605","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Wafer-scale synthesis of multi-layer graphene by high-temperature carbon ion implantation” [Appl. Phys. Lett. 107, 033104 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1439769600000,
+  "updates": [
+    {
+      "timestamp": 1496023828867,
+      "identifier": {
+        "doi": "10.1063/1.4928682"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4926605"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Wafer-scale synthesis of multi-layer graphene by high-temperature carbon ion implantation” [Appl. Phys. Lett. 107, 033104 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1126569600000,"doi":"10.1073/pnas.0506705102","type":"correction"},"doi":"10.1073/pnas.0408645102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hodak et al., Docking kinetics and equilibrium of a GAAA tetraloop-receptor motif probed by single-molecule FRET, PNAS 2005 102:10505-10510"}
+{
+  "retracted": false,
+  "timestamp": 1126569600000,
+  "updates": [
+    {
+      "timestamp": 1495958229632,
+      "identifier": {
+        "doi": "10.1073/pnas.0506705102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0408645102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hodak et al., Docking kinetics and equilibrium of a GAAA tetraloop-receptor motif probed by single-molecule FRET, PNAS 2005 102:10505-10510"
+}

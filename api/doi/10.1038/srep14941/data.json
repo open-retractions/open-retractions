@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1038/srep20755","type":"correction"},"doi":"10.1038/srep14941","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Profiling RNA editing in human tissues: towards the inosinome Atlas"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495642780405,
+      "identifier": {
+        "doi": "10.1038/srep20755"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep14941"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Profiling RNA editing in human tissues: towards the inosinome Atlas"
+}

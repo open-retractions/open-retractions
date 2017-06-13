@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.dsr2.2014.05.001","type":"err"},"doi":"10.1016/j.dsr2.2013.06.005","journal":"Deep Sea Research Part II: Topical Studies in Oceanography","publisher":"Elsevier BV","title":"Corrigendum to: “The geochemistry of deep-sea coral skeletons: A review of vital effects and applications for palaeoceanography” [Deep-Sea Res. II 99 (2014) 184–198]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496043065052,
+      "identifier": {
+        "doi": "10.1016/j.dsr2.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsr2.2013.06.005"
+  },
+  "journal": "Deep Sea Research Part II: Topical Studies in Oceanography",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “The geochemistry of deep-sea coral skeletons: A review of vital effects and applications for palaeoceanography” [Deep-Sea Res. II 99 (2014) 184–198]"
+}

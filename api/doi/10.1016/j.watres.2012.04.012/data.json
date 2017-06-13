@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.watres.2013.12.007","type":"erratum"},"doi":"10.1016/j.watres.2012.04.012","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Definition and quantification of initial anthropogenic pollutant release in swimming pools” [Water Res. 46 (11) (July 2012) 3682–3692]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496006801663,
+      "identifier": {
+        "doi": "10.1016/j.watres.2013.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2012.04.012"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Definition and quantification of initial anthropogenic pollutant release in swimming pools” [Water Res. 46 (11) (July 2012) 3682–3692]"
+}

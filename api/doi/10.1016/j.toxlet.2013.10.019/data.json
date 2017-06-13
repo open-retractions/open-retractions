@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1016/j.toxlet.2014.01.031","type":"err"},"doi":"10.1016/j.toxlet.2013.10.019","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “Inflammation and gene expression in the rat lung after instillation of silica nanoparticles: Effect of size, dispersion medium and particle surface charge” [Toxicol. Lett. 224 (1) (2014) 147–156]"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496016104376,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2014.01.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2013.10.019"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inflammation and gene expression in the rat lung after instillation of silica nanoparticles: Effect of size, dispersion medium and particle surface charge” [Toxicol. Lett. 224 (1) (2014) 147–156]"
+}

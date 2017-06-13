@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-192067200000,"doi":"10.1007/bf02391862","type":"correction"},"doi":"10.1007/bf02391852","journal":"Acta Mathematica","publisher":"International Press of Boston","title":"Erratum to: Addition à la table des travaux mathématiques de Thoralf Skolem (ce tome, pages v–xi)"}
+{
+  "retracted": false,
+  "timestamp": -192067200000,
+  "updates": [
+    {
+      "timestamp": 1495843632177,
+      "identifier": {
+        "doi": "10.1007/bf02391862"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02391852"
+  },
+  "journal": "Acta Mathematica",
+  "publisher": "International Press of Boston",
+  "title": "Erratum to: Addition à la table des travaux mathématiques de Thoralf Skolem (ce tome, pages v–xi)"
+}

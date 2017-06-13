@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366675200000,"doi":"10.2514/1.59733","type":"correction"},"doi":"10.2514/1.55540","journal":"Journal of Guidance, Control, and Dynamics","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Optimal Sculling and Coning Algorithms for Analog-Sensor Systems"}
+{
+  "retracted": false,
+  "timestamp": 1366675200000,
+  "updates": [
+    {
+      "timestamp": 1496000228105,
+      "identifier": {
+        "doi": "10.2514/1.59733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.55540"
+  },
+  "journal": "Journal of Guidance, Control, and Dynamics",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Optimal Sculling and Coning Algorithms for Analog-Sensor Systems"
+}

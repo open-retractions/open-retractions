@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.ress.2016.07.005","type":"err"},"doi":"10.1016/j.ress.2016.01.017","journal":"Reliability Engineering & System Safety","publisher":"Elsevier BV","title":"Corrigendum to “Estimation of expected number of accidents and workforce unavailability through Bayesian population variability analysis and Markov-based model” [Reliab. Eng. Syst. Saf. 150 (2016) 136–146]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495727681177,
+      "identifier": {
+        "doi": "10.1016/j.ress.2016.07.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ress.2016.01.017"
+  },
+  "journal": "Reliability Engineering & System Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Estimation of expected number of accidents and workforce unavailability through Bayesian population variability analysis and Markov-based model” [Reliab. Eng. Syst. Saf. 150 (2016) 136–146]"
+}

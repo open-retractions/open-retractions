@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.funeco.2016.02.005","type":"erratum"},"doi":"10.1016/j.funeco.2015.10.002","journal":"Fungal Ecology","publisher":"Elsevier BV","title":"Erratum to “Aquatic fungal ecology” [Fungal Ecol. 19 (2016) 1–4]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495653254925,
+      "identifier": {
+        "doi": "10.1016/j.funeco.2016.02.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.funeco.2015.10.002"
+  },
+  "journal": "Fungal Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Aquatic fungal ecology” [Fungal Ecol. 19 (2016) 1–4]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.ultras.2013.05.004","type":"err"},"doi":"10.1016/j.ultras.2009.07.006","journal":"Ultrasonics","publisher":"Elsevier BV","title":"Erratum to “Acoustic radiation force of high-order Bessel beam standing wave tweezers on a rigid sphere” [Ultrasonics 49 (2009) 794–798]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496020802323,
+      "identifier": {
+        "doi": "10.1016/j.ultras.2013.05.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ultras.2009.07.006"
+  },
+  "journal": "Ultrasonics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Acoustic radiation force of high-order Bessel beam standing wave tweezers on a rigid sphere” [Ultrasonics 49 (2009) 794–798]"
+}

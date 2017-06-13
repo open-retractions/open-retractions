@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1063/1.4901427","type":"correction"},"doi":"10.1063/1.4898366","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “The role of material flexibility on the drying transition of water between hydrophobic objects: A thermodynamic analysis” [J. Chem. Phys. 141, 18C531 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496020574605,
+      "identifier": {
+        "doi": "10.1063/1.4901427"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4898366"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “The role of material flexibility on the drying transition of water between hydrophobic objects: A thermodynamic analysis” [J. Chem. Phys. 141, 18C531 (2014)]"
+}

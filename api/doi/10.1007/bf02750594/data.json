@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202774400000,"doi":"10.1007/bf02814305","type":"correction"},"doi":"10.1007/bf02750594","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Study of the27Al(d, α)25Mg and27Al(d, p)28Al nuclear reactions at 2 MeV deuteron energy"}
+{
+  "retracted": false,
+  "timestamp": 1202774400000,
+  "updates": [
+    {
+      "timestamp": 1495830778173,
+      "identifier": {
+        "doi": "10.1007/bf02814305"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02750594"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Study of the27Al(d, α)25Mg and27Al(d, p)28Al nuclear reactions at 2 MeV deuteron energy"
+}

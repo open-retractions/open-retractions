@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1080/10511970.2015.1082816","type":"correction"},"doi":"10.1080/10511970.2014.981902","journal":"PRIMUS","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496041682034,
+      "identifier": {
+        "doi": "10.1080/10511970.2015.1082816"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10511970.2014.981902"
+  },
+  "journal": "PRIMUS",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

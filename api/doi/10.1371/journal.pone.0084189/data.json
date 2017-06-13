@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390435200000,"doi":"10.1371/annotation/d9c3406a-75d0-471c-80a7-8ed4cff275bc","type":"correction"},"doi":"10.1371/journal.pone.0084189","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: ESR1 Amplification in Breast Cancer by Optimized RNase FISH: Frequent but Low-Level and Heterogeneous"}
+{
+  "retracted": false,
+  "timestamp": 1390435200000,
+  "updates": [
+    {
+      "timestamp": 1496014167359,
+      "identifier": {
+        "doi": "10.1371/annotation/d9c3406a-75d0-471c-80a7-8ed4cff275bc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0084189"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ESR1 Amplification in Breast Cancer by Optimized RNase FISH: Frequent but Low-Level and Heterogeneous"
+}

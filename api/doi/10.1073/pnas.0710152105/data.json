@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1198627200000,"doi":"10.1073/pnas.0712052105","type":"correction"},"doi":"10.1073/pnas.0710152105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Colby et al., Prion detection by an amyloid seeding assay"}
+{
+  "retracted": false,
+  "timestamp": 1198627200000,
+  "updates": [
+    {
+      "timestamp": 1495823354071,
+      "identifier": {
+        "doi": "10.1073/pnas.0712052105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0710152105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Colby et al., Prion detection by an amyloid seeding assay"
+}

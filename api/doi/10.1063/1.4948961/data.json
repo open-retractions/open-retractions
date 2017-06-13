@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1063/1.4960764","type":"correction"},"doi":"10.1063/1.4948961","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Cation ratio and ferroelectric properties of TbMnO3 epitaxial films grown by pulsed laser deposition” [J. Appl. Phys. 119, 184102 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495738889447,
+      "identifier": {
+        "doi": "10.1063/1.4960764"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4948961"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Cation ratio and ferroelectric properties of TbMnO3 epitaxial films grown by pulsed laser deposition” [J. Appl. Phys. 119, 184102 (2016)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.humimm.2014.10.001","type":"err"},"doi":"10.1016/j.humimm.2013.08.286","journal":"Human Immunology","publisher":"Elsevier BV","title":"Erratum to “Interleukin 4 haplotypes of susceptibility to chronic periodontitis are associated with IL-4 protein levels but not with clinical outcomes of periodontal therapy” [Hum. Immunol. 74 (2013) 1688–1695]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496014609644,
+      "identifier": {
+        "doi": "10.1016/j.humimm.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.humimm.2013.08.286"
+  },
+  "journal": "Human Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Interleukin 4 haplotypes of susceptibility to chronic periodontitis are associated with IL-4 protein levels but not with clinical outcomes of periodontal therapy” [Hum. Immunol. 74 (2013) 1688–1695]"
+}

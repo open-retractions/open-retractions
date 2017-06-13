@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1063/1.4933418","type":"correction"},"doi":"10.1063/1.4918948","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Publisher's Note: “Comment on ‘The ion kinetic D'Angelo mode’ [Phys. Plasmas 18, 102105 (2011)]” [Phys. Plasmas 22, 044703 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496039346347,
+      "identifier": {
+        "doi": "10.1063/1.4933418"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4918948"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Comment on ‘The ion kinetic D'Angelo mode’ [Phys. Plasmas 18, 102105 (2011)]” [Phys. Plasmas 22, 044703 (2015)]"
+}

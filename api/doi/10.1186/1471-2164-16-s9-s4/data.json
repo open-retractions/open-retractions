@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484524800000,"doi":"10.1186/s12864-016-3464-x","type":"correction"},"doi":"10.1186/1471-2164-16-s9-s4","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Integrative analysis of multi-omics data for identifying multi-markers for diagnosing pancreatic cancer"}
+{
+  "retracted": false,
+  "timestamp": 1484524800000,
+  "updates": [
+    {
+      "timestamp": 1495671106738,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3464-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2164-16-s9-s4"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Integrative analysis of multi-omics data for identifying multi-markers for diagnosing pancreatic cancer"
+}

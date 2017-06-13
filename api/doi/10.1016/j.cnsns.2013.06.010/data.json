@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.cnsns.2015.06.024","type":"err"},"doi":"10.1016/j.cnsns.2013.06.010","journal":"Communications in Nonlinear Science and Numerical Simulation","publisher":"Elsevier BV","title":"Corrigendum to “On the nonlinear self-adjointness and local conservation laws for a class of evolution equations unifying many models” [Communications in Nonlinear Science and Numerical Simulation 19(2) (2014) 350--360]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496015177646,
+      "identifier": {
+        "doi": "10.1016/j.cnsns.2015.06.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cnsns.2013.06.010"
+  },
+  "journal": "Communications in Nonlinear Science and Numerical Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the nonlinear self-adjointness and local conservation laws for a class of evolution equations unifying many models” [Communications in Nonlinear Science and Numerical Simulation 19(2) (2014) 350--360]"
+}

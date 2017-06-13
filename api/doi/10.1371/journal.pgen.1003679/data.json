@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379894400000,"doi":"10.1371/annotation/340dc359-b1f8-46bb-a82d-d209315c154c","type":"correction"},"doi":"10.1371/journal.pgen.1003679","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Identification of DSB-1, a Protein Required for Initiation of Meiotic Recombination in Caenorhabditis elegans, Illuminates a Crossover Assurance Checkpoint"}
+{
+  "retracted": false,
+  "timestamp": 1379894400000,
+  "updates": [
+    {
+      "timestamp": 1496055965629,
+      "identifier": {
+        "doi": "10.1371/annotation/340dc359-b1f8-46bb-a82d-d209315c154c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003679"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identification of DSB-1, a Protein Required for Initiation of Meiotic Recombination in Caenorhabditis elegans, Illuminates a Crossover Assurance Checkpoint"
+}

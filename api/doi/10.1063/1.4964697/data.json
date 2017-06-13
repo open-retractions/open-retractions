@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479859200000,"doi":"10.1063/1.4967924","type":"correction"},"doi":"10.1063/1.4964697","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Dependence of grain size and defect density on the magnetic properties of mechanically alloyed Fe90W10 powder” [J. Appl. Phys. 120, 143903 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1479859200000,
+  "updates": [
+    {
+      "timestamp": 1495660906325,
+      "identifier": {
+        "doi": "10.1063/1.4967924"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4964697"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Dependence of grain size and defect density on the magnetic properties of mechanically alloyed Fe90W10 powder” [J. Appl. Phys. 120, 143903 (2016)]"
+}

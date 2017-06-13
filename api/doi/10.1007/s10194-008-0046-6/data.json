@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219190400000,"doi":"10.1007/s10194-008-0065-3","type":"correction"},"doi":"10.1007/s10194-008-0046-6","journal":"The Journal of Headache and Pain","publisher":"Springer Nature","title":"Erratum to: Per-capita consumption of analgesics: a nine-country survey over 20 years"}
+{
+  "retracted": false,
+  "timestamp": 1219190400000,
+  "updates": [
+    {
+      "timestamp": 1495875411922,
+      "identifier": {
+        "doi": "10.1007/s10194-008-0065-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10194-008-0046-6"
+  },
+  "journal": "The Journal of Headache and Pain",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Per-capita consumption of analgesics: a nine-country survey over 20 years"
+}

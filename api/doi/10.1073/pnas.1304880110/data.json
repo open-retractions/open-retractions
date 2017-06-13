@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383004800000,"doi":"10.1073/pnas.1318658110","type":"correction"},"doi":"10.1073/pnas.1304880110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Allen et al., Measurements of methane emissions at natural gas production sites in the United States"}
+{
+  "retracted": false,
+  "timestamp": 1383004800000,
+  "updates": [
+    {
+      "timestamp": 1496053086710,
+      "identifier": {
+        "doi": "10.1073/pnas.1318658110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1304880110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Allen et al., Measurements of methane emissions at natural gas production sites in the United States"
+}

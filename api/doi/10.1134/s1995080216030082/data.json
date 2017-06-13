@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478995200000,"doi":"10.1134/s1995080216060214","type":"correction"},"doi":"10.1134/s1995080216030082","journal":"Lobachevskii Journal of Mathematics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “On the Eigenfunctions and Eigenvalues of a Class of Non-Selfadjoint Operators”"}
+{
+  "retracted": false,
+  "timestamp": 1478995200000,
+  "updates": [
+    {
+      "timestamp": 1495654682693,
+      "identifier": {
+        "doi": "10.1134/s1995080216060214"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1995080216030082"
+  },
+  "journal": "Lobachevskii Journal of Mathematics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “On the Eigenfunctions and Eigenvalues of a Class of Non-Selfadjoint Operators”"
+}

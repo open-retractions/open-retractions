@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225152000000,"doi":"10.1371/journal.pmed.0050209","type":"correction"},"doi":"10.1371/journal.pmed.0030184","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Bioinformatics and Multiepitope DNA Immunization to Design Rational Snake Antivenom"}
+{
+  "retracted": false,
+  "timestamp": 1225152000000,
+  "updates": [
+    {
+      "timestamp": 1495886535448,
+      "identifier": {
+        "doi": "10.1371/journal.pmed.0050209"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0030184"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bioinformatics and Multiepitope DNA Immunization to Design Rational Snake Antivenom"
+}

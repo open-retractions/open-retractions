@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.brainres.2017.02.022","type":"erratum"},"doi":"10.1016/j.brainres.2016.08.048","journal":"Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “Acute axonal damage in three different murine models of multiple sclerosis: A comparative approach” [Brain Res. 1650 (2016) 125–133]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495723885313,
+      "identifier": {
+        "doi": "10.1016/j.brainres.2017.02.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainres.2016.08.048"
+  },
+  "journal": "Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Acute axonal damage in three different murine models of multiple sclerosis: A comparative approach” [Brain Res. 1650 (2016) 125–133]"
+}

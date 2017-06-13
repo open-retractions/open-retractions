@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383696000000,"doi":"10.1371/annotation/6444bc1a-3501-482e-8cbe-a27ebc66b153","type":"correction"},"doi":"10.1371/journal.pone.0063377","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: PeSV-Fisher: Identification of Somatic and Non-Somatic Structural Variants Using Next Generation Sequencing Data"}
+{
+  "retracted": false,
+  "timestamp": 1383696000000,
+  "updates": [
+    {
+      "timestamp": 1495991398458,
+      "identifier": {
+        "doi": "10.1371/annotation/6444bc1a-3501-482e-8cbe-a27ebc66b153"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0063377"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: PeSV-Fisher: Identification of Somatic and Non-Somatic Structural Variants Using Next Generation Sequencing Data"
+}

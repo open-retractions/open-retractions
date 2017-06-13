@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357171200000,"doi":"10.1016/j.physleta.2012.11.051","type":"err"},"doi":"10.1016/j.physleta.2010.09.055","journal":"Physics Letters A","publisher":"Elsevier BV","title":"Erratum to “A new approach to relativistic multi-configuration quantum mechanics in titanium” [Phys. Lett. A 374 (47) (2010) 4756]"}
+{
+  "retracted": false,
+  "timestamp": 1357171200000,
+  "updates": [
+    {
+      "timestamp": 1495970227793,
+      "identifier": {
+        "doi": "10.1016/j.physleta.2012.11.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physleta.2010.09.055"
+  },
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A new approach to relativistic multi-configuration quantum mechanics in titanium” [Phys. Lett. A 374 (47) (2010) 4756]"
+}

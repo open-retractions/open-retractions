@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.bmc.2015.04.043","type":"erratum"},"doi":"10.1016/j.bmc.2014.04.065","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “The unique chemistry of benzoxaboroles: Current and emerging applications in biotechnology and therapeutic treatments” [Bioorg. Med. Chem. 22 (2014) 4462–4473]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495999218338,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.04.043"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2014.04.065"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The unique chemistry of benzoxaboroles: Current and emerging applications in biotechnology and therapeutic treatments” [Bioorg. Med. Chem. 22 (2014) 4462–4473]"
+}

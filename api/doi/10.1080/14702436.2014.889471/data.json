@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404691200000,"doi":"10.1080/14702436.2014.922737","type":"correction"},"doi":"10.1080/14702436.2014.889471","journal":"Defence Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1404691200000,
+  "updates": [
+    {
+      "timestamp": 1496038016485,
+      "identifier": {
+        "doi": "10.1080/14702436.2014.922737"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14702436.2014.889471"
+  },
+  "journal": "Defence Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

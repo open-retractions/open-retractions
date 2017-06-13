@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485993600000,"doi":"10.1186/s12874-016-0279-z","type":"correction"},"doi":"10.1186/1471-2288-13-29","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: A threshold method for immunological correlates of protection"}
+{
+  "retracted": false,
+  "timestamp": 1485993600000,
+  "updates": [
+    {
+      "timestamp": 1495716232401,
+      "identifier": {
+        "doi": "10.1186/s12874-016-0279-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2288-13-29"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A threshold method for immunological correlates of protection"
+}

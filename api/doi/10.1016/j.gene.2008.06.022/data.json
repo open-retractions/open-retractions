@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468108800000,"doi":"10.1016/j.gene.2016.02.043","type":"err"},"doi":"10.1016/j.gene.2008.06.022","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Dynamic and stable histone H3 methylation patterns at the Arabidopsis FLC and AP1 loci” [Gene. 2008 Oct. 15; 423(1):43–47]"}
+{
+  "retracted": false,
+  "timestamp": 1468108800000,
+  "updates": [
+    {
+      "timestamp": 1495653823426,
+      "identifier": {
+        "doi": "10.1016/j.gene.2016.02.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2008.06.022"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamic and stable histone H3 methylation patterns at the Arabidopsis FLC and AP1 loci” [Gene. 2008 Oct. 15; 423(1):43–47]"
+}

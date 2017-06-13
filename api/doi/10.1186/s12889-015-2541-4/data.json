@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490745600000,"doi":"10.1186/s12889-017-4198-7","type":"correction"},"doi":"10.1186/s12889-015-2541-4","journal":"BMC Public Health","publisher":"Springer Nature","title":"Erratum to: Highlighting consensus among medical scientists increases public support for vaccines: evidence from a randomized experiment"}
+{
+  "retracted": false,
+  "timestamp": 1490745600000,
+  "updates": [
+    {
+      "timestamp": 1495733436835,
+      "identifier": {
+        "doi": "10.1186/s12889-017-4198-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12889-015-2541-4"
+  },
+  "journal": "BMC Public Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Highlighting consensus among medical scientists increases public support for vaccines: evidence from a randomized experiment"
+}

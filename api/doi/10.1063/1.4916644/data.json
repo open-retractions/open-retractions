@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429747200000,"doi":"10.1063/1.4919363","type":"correction"},"doi":"10.1063/1.4916644","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Vibrational coherence and energy transfer in two-dimensional spectra with the optimized mean-trajectory approximation” [J. Chem. Phys. 142, 212417 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1429747200000,
+  "updates": [
+    {
+      "timestamp": 1495995382085,
+      "identifier": {
+        "doi": "10.1063/1.4919363"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4916644"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Vibrational coherence and energy transfer in two-dimensional spectra with the optimized mean-trajectory approximation” [J. Chem. Phys. 142, 212417 (2015)]"
+}

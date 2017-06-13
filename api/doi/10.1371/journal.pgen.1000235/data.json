@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226102400000,"doi":"10.1371/annotation/ffbb52bd-7ceb-404c-8c96-93577bf83932","type":"correction"},"doi":"10.1371/journal.pgen.1000235","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: ZHP-3 Acts at Crossovers to Couple Meiotic Recombination with Synaptonemal Complex Disassembly and Bivalent Formation in C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1226102400000,
+  "updates": [
+    {
+      "timestamp": 1496025196135,
+      "identifier": {
+        "doi": "10.1371/annotation/ffbb52bd-7ceb-404c-8c96-93577bf83932"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000235"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ZHP-3 Acts at Crossovers to Couple Meiotic Recombination with Synaptonemal Complex Disassembly and Bivalent Formation in C. elegans"
+}

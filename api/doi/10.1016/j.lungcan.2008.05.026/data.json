@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1233446400000,"update":{"timestamp":null,"doi":null,"pmid":27597291,"type":"retraction"},"doi":"10.1016/j.lungcan.2008.05.026","journal":"Lung cancer (Amsterdam, Netherlands)","publisher":null,"title":"Ellipticine-induced apoptosis depends on Akt translocation and signaling in lung epithelial cancer cells."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495637520721,
+      "identifier": {
+        "doi": "10.1016/j.lungcan.2016.08.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lungcan.2008.05.026"
+  },
+  "journal": "Lung Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Retraction to “Ellipticine-induced apoptosis depends on Akt translocation and signaling in lung epithelial cancer cells”"
+}

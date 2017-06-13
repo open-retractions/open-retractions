@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.nbd.2013.05.008","type":"err"},"doi":"10.1016/j.nbd.2013.04.007","journal":"Neurobiology of Disease","publisher":"Elsevier BV","title":"Corrigendum to “Single chain variable fragment antibodies block aggregation and toxicity induced by familial ALS-linked mutant forms of SOD1” [Neurobiol. Dis. 56 (2013) 74–78]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496023020116,
+      "identifier": {
+        "doi": "10.1016/j.nbd.2013.05.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nbd.2013.04.007"
+  },
+  "journal": "Neurobiology of Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Single chain variable fragment antibodies block aggregation and toxicity induced by familial ALS-linked mutant forms of SOD1” [Neurobiol. Dis. 56 (2013) 74–78]"
+}

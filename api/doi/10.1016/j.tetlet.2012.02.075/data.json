@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389139200000,"doi":"10.1016/j.tetlet.2013.11.075","type":"err"},"doi":"10.1016/j.tetlet.2012.02.075","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to ‘N-amination of amino acids and its derivatives using N-Boc-O-tosyl hydroxylamine as an efficient NH-Boc transfer reagent: electrophilic amination’ [Tetrahedron Lett. 53 (2012) 2292–2294]"}
+{
+  "retracted": false,
+  "timestamp": 1389139200000,
+  "updates": [
+    {
+      "timestamp": 1496003992521,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.11.075"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2012.02.075"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘N-amination of amino acids and its derivatives using N-Boc-O-tosyl hydroxylamine as an efficient NH-Boc transfer reagent: electrophilic amination’ [Tetrahedron Lett. 53 (2012) 2292–2294]"
+}

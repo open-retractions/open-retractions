@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403913600000,"doi":"10.1016/j.jconrel.2014.04.001","type":"err"},"doi":"10.1016/j.jconrel.2012.04.001","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Transcutaneous immunization using a dissolving microneedle array protects against tetanus, diphtheria, malaria, and influenza” [J. Control. Release 160 (2012) 495–501]"}
+{
+  "retracted": false,
+  "timestamp": 1403913600000,
+  "updates": [
+    {
+      "timestamp": 1496032990250,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2012.04.001"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Transcutaneous immunization using a dissolving microneedle array protects against tetanus, diphtheria, malaria, and influenza” [J. Control. Release 160 (2012) 495–501]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424304000000,"doi":"10.1007/s00253-015-6465-9","type":"correction"},"doi":"10.1007/s00253-015-6436-1","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Deciphering the role of coumarin as a novel quorum sensing inhibitor suppressing virulence phenotypes in bacterial pathogens"}
+{
+  "retracted": false,
+  "timestamp": 1424304000000,
+  "updates": [
+    {
+      "timestamp": 1496044932996,
+      "identifier": {
+        "doi": "10.1007/s00253-015-6465-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-015-6436-1"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Deciphering the role of coumarin as a novel quorum sensing inhibitor suppressing virulence phenotypes in bacterial pathogens"
+}

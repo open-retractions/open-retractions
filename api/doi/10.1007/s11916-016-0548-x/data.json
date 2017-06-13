@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458604800000,"doi":"10.1007/s11916-016-0566-8","type":"correction"},"doi":"10.1007/s11916-016-0548-x","journal":"Current Pain and Headache Reports","publisher":"Springer Nature","title":"Erratum to: Post-herpetic Neuralgia: a Review"}
+{
+  "retracted": false,
+  "timestamp": 1458604800000,
+  "updates": [
+    {
+      "timestamp": 1495654754148,
+      "identifier": {
+        "doi": "10.1007/s11916-016-0566-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11916-016-0548-x"
+  },
+  "journal": "Current Pain and Headache Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Post-herpetic Neuralgia: a Review"
+}

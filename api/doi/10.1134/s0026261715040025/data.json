@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1134/s0026261715060144","type":"correction"},"doi":"10.1134/s0026261715040025","journal":"Microbiology","publisher":"Pleiades Publishing Ltd","title":"Erratum: “Methylopila turkiensis sp. nov., a new aerobic facultatively methylotrophic phytosymbiont”"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496047970649,
+      "identifier": {
+        "doi": "10.1134/s0026261715060144"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0026261715040025"
+  },
+  "journal": "Microbiology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum: “Methylopila turkiensis sp. nov., a new aerobic facultatively methylotrophic phytosymbiont”"
+}

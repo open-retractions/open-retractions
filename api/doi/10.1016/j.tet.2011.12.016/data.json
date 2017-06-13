@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387152000000,"doi":"10.1016/j.tet.2013.10.068","type":"err"},"doi":"10.1016/j.tet.2011.12.016","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Retraction notice to “Synthesis and chemical transformations of azonine derivatives” [Tetrahedron 68 (2013) 2081–2091]"}
+{
+  "retracted": false,
+  "timestamp": 1387152000000,
+  "updates": [
+    {
+      "timestamp": 1495994859793,
+      "identifier": {
+        "doi": "10.1016/j.tet.2013.10.068"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2011.12.016"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Synthesis and chemical transformations of azonine derivatives” [Tetrahedron 68 (2013) 2081–2091]"
+}

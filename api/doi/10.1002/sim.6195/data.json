@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1425513600000,"doi":"10.1002/sim.6330","type":"correction"},"doi":"10.1002/sim.6195","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"How to interpret a small increase in AUC with an additional risk prediction marker: decision analysis comes through"}
+{
+  "retracted": false,
+  "timestamp": 1425513600000,
+  "updates": [
+    {
+      "timestamp": 1496012582557,
+      "identifier": {
+        "doi": "10.1002/sim.6330"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.6195"
+  },
+  "publisher": "Wiley-Blackwell",
+  "title": "How to interpret a small increase in AUC with an additional risk prediction marker: decision analysis comes through"
+}

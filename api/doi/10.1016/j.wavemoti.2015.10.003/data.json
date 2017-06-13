@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.wavemoti.2016.02.008","type":"err"},"doi":"10.1016/j.wavemoti.2015.10.003","journal":"Wave Motion","publisher":"Elsevier BV","title":"Corrigendum to “Line source representations for shear wave birefringence measurements in transversely isotropic materials using laser ultrasonics” [Wave Motion 61 (2016) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495657351589,
+      "identifier": {
+        "doi": "10.1016/j.wavemoti.2016.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wavemoti.2015.10.003"
+  },
+  "journal": "Wave Motion",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Line source representations for shear wave birefringence measurements in transversely isotropic materials using laser ultrasonics” [Wave Motion 61 (2016) 1–10]"
+}

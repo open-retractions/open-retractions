@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.desal.2014.01.026","type":"err"},"doi":"10.1016/j.desal.2013.12.034","journal":"Desalination","publisher":"Elsevier BV","title":"Corrigendum to “Highly chlorine-resistant multilayer reverse osmosis membranes based on sulfonated poly(arylene ether sulfone) and poly(vinyl alcohol)” [Desalination 336 (2014) 58–63]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496021285524,
+      "identifier": {
+        "doi": "10.1016/j.desal.2014.01.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.desal.2013.12.034"
+  },
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Highly chlorine-resistant multilayer reverse osmosis membranes based on sulfonated poly(arylene ether sulfone) and poly(vinyl alcohol)” [Desalination 336 (2014) 58–63]"
+}

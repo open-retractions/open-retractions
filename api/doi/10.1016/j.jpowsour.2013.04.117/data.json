@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jpowsour.2013.09.016","type":"err"},"doi":"10.1016/j.jpowsour.2013.04.117","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Examining temporal and spatial variations of internal temperature in large-format laminated battery with embedded thermocouples” [J. Power Sources 241 (2013) 536–553]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496048229992,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.09.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.04.117"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Examining temporal and spatial variations of internal temperature in large-format laminated battery with embedded thermocouples” [J. Power Sources 241 (2013) 536–553]"
+}

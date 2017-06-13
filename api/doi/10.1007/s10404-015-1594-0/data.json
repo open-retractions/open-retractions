@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1007/s10404-015-1616-y","type":"correction"},"doi":"10.1007/s10404-015-1594-0","journal":"Microfluidics and Nanofluidics","publisher":"Springer Nature","title":"Erratum to: Electroosmotic flow through packed beds of granular materials"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496015876550,
+      "identifier": {
+        "doi": "10.1007/s10404-015-1616-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10404-015-1594-0"
+  },
+  "journal": "Microfluidics and Nanofluidics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Electroosmotic flow through packed beds of granular materials"
+}

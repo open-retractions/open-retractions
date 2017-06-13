@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jlumin.2016.07.025","type":"erratum"},"doi":"10.1016/j.jlumin.2014.10.066","journal":"Journal of Luminescence","publisher":"Elsevier BV","title":"Erratum – Letter to the editor"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495653284749,
+      "identifier": {
+        "doi": "10.1016/j.jlumin.2016.07.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jlumin.2014.10.066"
+  },
+  "journal": "Journal of Luminescence",
+  "publisher": "Elsevier BV",
+  "title": "Erratum – Letter to the editor"
+}

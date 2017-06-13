@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208217600000,"doi":"10.1007/s10856-008-3448-8","type":"correction"},"doi":"10.1007/s10856-007-3362-5","journal":"Journal of Materials Science: Materials in Medicine","publisher":"Springer Nature","title":"Erratum to: Fabrication of bioactive hydroxyapatite/bis-GMA based composite via three dimensional printing"}
+{
+  "retracted": false,
+  "timestamp": 1208217600000,
+  "updates": [
+    {
+      "timestamp": 1495845055524,
+      "identifier": {
+        "doi": "10.1007/s10856-008-3448-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10856-007-3362-5"
+  },
+  "journal": "Journal of Materials Science: Materials in Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fabrication of bioactive hydroxyapatite/bis-GMA based composite via three dimensional printing"
+}

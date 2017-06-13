@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jad.2016.07.051","type":"err"},"doi":"10.1016/j.jad.2016.05.015","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Erratum to “Diagnostic performance of major depression disorder case-finding instruments used among mothers of young children in the United States: A systematic review” [J. Affect. Disord. 201 (2016) 185–193]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495738614222,
+      "identifier": {
+        "doi": "10.1016/j.jad.2016.07.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2016.05.015"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Diagnostic performance of major depression disorder case-finding instruments used among mothers of young children in the United States: A systematic review” [J. Affect. Disord. 201 (2016) 185–193]"
+}

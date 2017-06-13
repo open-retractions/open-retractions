@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388707200000,"doi":"10.1063/1.4860575","type":"correction"},"doi":"10.1063/1.4736547","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Thermodynamic scaling of α-relaxation time and viscosity stems from the Johari-Goldstein β-relaxation or the primitive relaxation of the coupling model” [J. Chem. Phys. 137, 034511 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1388707200000,
+  "updates": [
+    {
+      "timestamp": 1496009452240,
+      "identifier": {
+        "doi": "10.1063/1.4860575"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4736547"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Thermodynamic scaling of α-relaxation time and viscosity stems from the Johari-Goldstein β-relaxation or the primitive relaxation of the coupling model” [J. Chem. Phys. 137, 034511 (2012)]"
+}

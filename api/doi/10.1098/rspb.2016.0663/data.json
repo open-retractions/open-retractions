@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476230400000,"doi":"10.1098/rspb.2016.1992","type":"correction"},"doi":"10.1098/rspb.2016.0663","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Different effects of invader–native phylogenetic relatedness on invasion success and impact: a meta-analysis of Darwin's naturalization hypothesis’"}
+{
+  "retracted": false,
+  "timestamp": 1476230400000,
+  "updates": [
+    {
+      "timestamp": 1495645323748,
+      "identifier": {
+        "doi": "10.1098/rspb.2016.1992"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2016.0663"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Different effects of invader–native phylogenetic relatedness on invasion success and impact: a meta-analysis of Darwin's naturalization hypothesis’"
+}

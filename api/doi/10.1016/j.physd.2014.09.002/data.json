@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.physd.2015.11.001","type":"err"},"doi":"10.1016/j.physd.2014.09.002","journal":"Physica D: Nonlinear Phenomena","publisher":"Elsevier BV","title":"Erratum to “The Kuramoto model of coupled oscillators with a bi-harmonic coupling function” [Physica D 289 (2014) 18–31]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496044649089,
+      "identifier": {
+        "doi": "10.1016/j.physd.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physd.2014.09.002"
+  },
+  "journal": "Physica D: Nonlinear Phenomena",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The Kuramoto model of coupled oscillators with a bi-harmonic coupling function” [Physica D 289 (2014) 18–31]"
+}

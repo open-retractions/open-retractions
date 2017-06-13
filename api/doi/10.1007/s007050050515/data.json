@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400630400000,"doi":"10.1007/s007050050621","type":"correction"},"doi":"10.1007/s007050050515","journal":"Archives of Virology","publisher":"Springer Nature","title":"Erratum to: Virus Taxonomy – 1999 and How to write the names of virus species"}
+{
+  "retracted": false,
+  "timestamp": 1400630400000,
+  "updates": [
+    {
+      "timestamp": 1495809745386,
+      "identifier": {
+        "doi": "10.1007/s007050050621"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s007050050515"
+  },
+  "journal": "Archives of Virology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Virus Taxonomy – 1999 and How to write the names of virus species"
+}

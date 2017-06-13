@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400112000000,"doi":"10.1016/j.jpowsour.2013.12.050","type":"err"},"doi":"10.1016/j.jpowsour.2013.09.019","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Polythiophene coordination complexes as high performance lithium storage materials” [J. Power Sources 248 (2014) 343–347]"}
+{
+  "retracted": false,
+  "timestamp": 1400112000000,
+  "updates": [
+    {
+      "timestamp": 1496007533324,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.12.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.09.019"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Polythiophene coordination complexes as high performance lithium storage materials” [J. Power Sources 248 (2014) 343–347]"
+}

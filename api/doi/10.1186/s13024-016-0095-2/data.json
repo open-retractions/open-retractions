@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463961600000,"doi":"10.1186/s13024-016-0105-4","type":"correction"},"doi":"10.1186/s13024-016-0095-2","journal":"Molecular Neurodegeneration","publisher":"Springer Nature","title":"Erratum to: Network-driven plasma proteomics expose molecular changes in the Alzheimer’s brain"}
+{
+  "retracted": false,
+  "timestamp": 1463961600000,
+  "updates": [
+    {
+      "timestamp": 1495715138072,
+      "identifier": {
+        "doi": "10.1186/s13024-016-0105-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13024-016-0095-2"
+  },
+  "journal": "Molecular Neurodegeneration",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Network-driven plasma proteomics expose molecular changes in the Alzheimer’s brain"
+}

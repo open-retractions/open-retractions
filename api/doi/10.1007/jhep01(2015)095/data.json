@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440720000000,"doi":"10.1007/jhep08(2015)145","type":"correction"},"doi":"10.1007/jhep01(2015)095","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Novel construction and the monodromy relation for three-point functions at weak coupling"}
+{
+  "retracted": false,
+  "timestamp": 1440720000000,
+  "updates": [
+    {
+      "timestamp": 1496026778292,
+      "identifier": {
+        "doi": "10.1007/jhep08(2015)145"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep01(2015)095"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Novel construction and the monodromy relation for three-point functions at weak coupling"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.optmat.2015.03.021","type":"err"},"doi":"10.1016/j.optmat.2012.08.020","journal":"Optical Materials","publisher":"Elsevier BV","title":"Corrigendum to “Studies of upconversion emission of Yb3+, Er3+:Lu2O3 nanoceramics” [Opt. Mater. 35 (4) (2013) 731–734]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496055262590,
+      "identifier": {
+        "doi": "10.1016/j.optmat.2015.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optmat.2012.08.020"
+  },
+  "journal": "Optical Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Studies of upconversion emission of Yb3+, Er3+:Lu2O3 nanoceramics” [Opt. Mater. 35 (4) (2013) 731–734]"
+}

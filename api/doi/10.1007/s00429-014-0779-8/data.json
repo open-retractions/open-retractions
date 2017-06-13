@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403740800000,"doi":"10.1007/s00429-014-0820-y","type":"correction"},"doi":"10.1007/s00429-014-0779-8","journal":"Brain Structure and Function","publisher":"Springer Nature","title":"Erratum to: Dietary magnesium restriction reduces amygdala–hypothalamic GluN1 receptor complex levels in mice"}
+{
+  "retracted": false,
+  "timestamp": 1403740800000,
+  "updates": [
+    {
+      "timestamp": 1496048552692,
+      "identifier": {
+        "doi": "10.1007/s00429-014-0820-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00429-014-0779-8"
+  },
+  "journal": "Brain Structure and Function",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dietary magnesium restriction reduces amygdala–hypothalamic GluN1 receptor complex levels in mice"
+}

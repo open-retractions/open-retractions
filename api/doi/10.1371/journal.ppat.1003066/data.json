@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357171200000,"doi":"10.1371/annotation/3be1f9af-adb8-41cb-9c03-e218e57e025c","type":"correction"},"doi":"10.1371/journal.ppat.1003066","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: TgCDPK3 Regulates Calcium-Dependent Egress of Toxoplasma gondii from Host Cells"}
+{
+  "retracted": false,
+  "timestamp": 1357171200000,
+  "updates": [
+    {
+      "timestamp": 1495990092602,
+      "identifier": {
+        "doi": "10.1371/annotation/3be1f9af-adb8-41cb-9c03-e218e57e025c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003066"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: TgCDPK3 Regulates Calcium-Dependent Egress of Toxoplasma gondii from Host Cells"
+}

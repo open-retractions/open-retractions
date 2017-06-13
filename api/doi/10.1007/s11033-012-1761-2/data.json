@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428019200000,"doi":"10.1007/s11033-015-3872-z","type":"correction"},"doi":"10.1007/s11033-012-1761-2","journal":"Molecular Biology Reports","publisher":"Springer Nature","title":"Erratum to: Bioinformatics study of the 3-hydroxy-3-methylglotaryl-coenzyme A reductase (HMGR) gene in Gramineae"}
+{
+  "retracted": false,
+  "timestamp": 1428019200000,
+  "updates": [
+    {
+      "timestamp": 1496054831655,
+      "identifier": {
+        "doi": "10.1007/s11033-015-3872-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11033-012-1761-2"
+  },
+  "journal": "Molecular Biology Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bioinformatics study of the 3-hydroxy-3-methylglotaryl-coenzyme A reductase (HMGR) gene in Gramineae"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1038/srep12372","type":"correction"},"doi":"10.1038/srep10442","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: A new GWAS and meta-analysis with 1000Genomes imputation identifies novel risk variants for colorectal cancer"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019916232,
+      "identifier": {
+        "doi": "10.1038/srep12372"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10442"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: A new GWAS and meta-analysis with 1000Genomes imputation identifies novel risk variants for colorectal cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389052800000,"doi":"10.1073/pnas.1323160111","type":"correction"},"doi":"10.1073/pnas.1304227110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gartner et al., Whole-genome sequencing identifies a recurrent functional synonymous mutation in melanoma"}
+{
+  "retracted": false,
+  "timestamp": 1389052800000,
+  "updates": [
+    {
+      "timestamp": 1496006420175,
+      "identifier": {
+        "doi": "10.1073/pnas.1323160111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1304227110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gartner et al., Whole-genome sequencing identifies a recurrent functional synonymous mutation in melanoma"
+}

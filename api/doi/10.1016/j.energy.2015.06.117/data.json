@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.energy.2015.12.119","type":"err"},"doi":"10.1016/j.energy.2015.06.117","journal":"Energy","publisher":"Elsevier BV","title":"Corrigendum to “Dynamic behaviour analysis of a three pressure level Heat Recovery Steam Generator during transient operation” [Energy 90 (P2) (2015) 1595–1605]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496060105050,
+      "identifier": {
+        "doi": "10.1016/j.energy.2015.12.119"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.energy.2015.06.117"
+  },
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamic behaviour analysis of a three pressure level Heat Recovery Steam Generator during transient operation” [Energy 90 (P2) (2015) 1595–1605]"
+}

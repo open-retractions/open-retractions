@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.imavis.2013.09.001","type":"err"},"doi":"10.1016/j.imavis.2013.02.001","journal":"Image and Vision Computing","publisher":"Elsevier BV","title":"Corrigendum to “Hierarchical On-line Appearance-Based Tracking for 3D Head Pose, Eyebrows, Lips, Eyelids and Irises” [Image Vision Comput. (2013) 322–340]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496052463396,
+      "identifier": {
+        "doi": "10.1016/j.imavis.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.imavis.2013.02.001"
+  },
+  "journal": "Image and Vision Computing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Hierarchical On-line Appearance-Based Tracking for 3D Head Pose, Eyebrows, Lips, Eyelids and Irises” [Image Vision Comput. (2013) 322–340]"
+}

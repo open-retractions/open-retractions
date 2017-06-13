@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.jnucmat.2016.01.003","type":"err"},"doi":"10.1016/j.jnucmat.2015.09.050","journal":"Journal of Nuclear Materials","publisher":"Elsevier BV","title":"Corrigendum to “Measurement of chemical activities of rare earths (RE: Ce, Pr, Sm and Eu) in cadmium alloy” [J. Nucl. Mater. 467 (1) (2015) 280–285]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495637931754,
+      "identifier": {
+        "doi": "10.1016/j.jnucmat.2016.01.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnucmat.2015.09.050"
+  },
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measurement of chemical activities of rare earths (RE: Ce, Pr, Sm and Eu) in cadmium alloy” [J. Nucl. Mater. 467 (1) (2015) 280–285]"
+}

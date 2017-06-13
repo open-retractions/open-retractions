@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1247529600000,"doi":"10.1073/pnas.0906359106","type":"correction"},"doi":"10.1073/pnas.0811426106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Carey et al., Reprogramming of murine and human somatic cells using a single polycistronic vector"}
+{
+  "retracted": false,
+  "timestamp": 1247529600000,
+  "updates": [
+    {
+      "timestamp": 1495959216820,
+      "identifier": {
+        "doi": "10.1073/pnas.0906359106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0811426106"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Carey et al., Reprogramming of murine and human somatic cells using a single polycistronic vector"
+}

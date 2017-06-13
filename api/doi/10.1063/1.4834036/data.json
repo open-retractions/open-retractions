@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408406400000,"doi":"10.1063/1.4892936","type":"correction"},"doi":"10.1063/1.4834036","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “The stability of S-states of unit-charge Coulomb three-body systems: From H− to H2+” [J. Chem. Phys. 139, 224306 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1408406400000,
+  "updates": [
+    {
+      "timestamp": 1495998603524,
+      "identifier": {
+        "doi": "10.1063/1.4892936"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4834036"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “The stability of S-states of unit-charge Coulomb           three-body systems: From H− to H2+” [J. Chem. Phys.             139, 224306           (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362096000000,"doi":"10.1016/j.applthermaleng.2012.08.062","type":"err"},"doi":"10.1016/j.applthermaleng.2008.03.041","journal":"Applied Thermal Engineering","publisher":"Elsevier BV","title":"Erratum to “Thermal modeling of a packed bed thermal energy storage system during charging” [Appl. Therm. Eng. 29 (4) (March 2009) pp. 695–705]"}
+{
+  "retracted": false,
+  "timestamp": 1362096000000,
+  "updates": [
+    {
+      "timestamp": 1495974173916,
+      "identifier": {
+        "doi": "10.1016/j.applthermaleng.2012.08.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.applthermaleng.2008.03.041"
+  },
+  "journal": "Applied Thermal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Thermal modeling of a packed bed thermal energy storage system during charging” [Appl. Therm. Eng. 29 (4) (March 2009) pp. 695–705]"
+}

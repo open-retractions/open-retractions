@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390176000000,"doi":"10.1016/j.ins.2013.09.019","type":"err"},"doi":"10.1016/j.ins.2013.06.040","journal":"Information Sciences","publisher":"Elsevier BV","title":"Corrigendum to “A map of dependencies among three-valued logics” [Information Sciences 250 (2013) 161–177]"}
+{
+  "retracted": false,
+  "timestamp": 1390176000000,
+  "updates": [
+    {
+      "timestamp": 1496047991570,
+      "identifier": {
+        "doi": "10.1016/j.ins.2013.09.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2013.06.040"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A map of dependencies among three-valued logics” [Information Sciences 250 (2013) 161–177]"
+}

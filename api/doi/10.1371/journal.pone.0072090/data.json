@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1371/annotation/0625b456-da2e-44bd-b620-39796216cc2a","type":"correction"},"doi":"10.1371/journal.pone.0072090","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Rad26, the Transcription-Coupled Repair Factor in Yeast, Is Required for Removal of Stalled RNA Polymerase-II following UV Irradiation"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496053921859,
+      "identifier": {
+        "doi": "10.1371/annotation/0625b456-da2e-44bd-b620-39796216cc2a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072090"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rad26, the Transcription-Coupled Repair Factor in Yeast, Is Required for Removal of Stalled RNA Polymerase-II following UV Irradiation"
+}

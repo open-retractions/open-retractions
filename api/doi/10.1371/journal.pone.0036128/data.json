@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344556800000,"doi":"10.1371/annotation/57ad0b82-87c4-472d-b90b-b9c6f84947f8","type":"correction"},"doi":"10.1371/journal.pone.0036128","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Near-Real-Time Acoustic Monitoring of Beaked Whales and Other Cetaceans Using a Seaglider™"}
+{
+  "retracted": false,
+  "timestamp": 1344556800000,
+  "updates": [
+    {
+      "timestamp": 1496065450456,
+      "identifier": {
+        "doi": "10.1371/annotation/57ad0b82-87c4-472d-b90b-b9c6f84947f8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0036128"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Near-Real-Time Acoustic Monitoring of Beaked Whales and Other Cetaceans Using a Seaglider™"
+}

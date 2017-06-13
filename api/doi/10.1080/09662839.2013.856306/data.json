@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389657600000,"doi":"10.1080/09662839.2014.883185","type":"correction"},"doi":"10.1080/09662839.2013.856306","journal":"European Security","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1389657600000,
+  "updates": [
+    {
+      "timestamp": 1496012443008,
+      "identifier": {
+        "doi": "10.1080/09662839.2014.883185"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09662839.2013.856306"
+  },
+  "journal": "European Security",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

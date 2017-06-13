@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jmaa.2014.01.077","type":"err"},"doi":"10.1016/j.jmaa.2013.11.062","journal":"Journal of Mathematical Analysis and Applications","publisher":"Elsevier BV","title":"Corrigendum to “New conditions on nonlinearity for a periodic Schrödinger equation having zero as spectrum” [J. Math. Anal. Appl. 413 (1) (2014) 392–410]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496016053107,
+      "identifier": {
+        "doi": "10.1016/j.jmaa.2014.01.077"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmaa.2013.11.062"
+  },
+  "journal": "Journal of Mathematical Analysis and Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New conditions on nonlinearity for a periodic Schrödinger equation having zero as spectrum” [J. Math. Anal. Appl. 413 (1) (2014) 392–410]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229990400000,"doi":"10.1371/annotation/6475ab87-5c24-4ee6-9989-0762186dd073","type":"correction"},"doi":"10.1371/journal.pone.0003469","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Detection and Characterization of CD133+ Cancer Stem Cells in Human Solid Tumours"}
+{
+  "retracted": false,
+  "timestamp": 1229990400000,
+  "updates": [
+    {
+      "timestamp": 1496025195919,
+      "identifier": {
+        "doi": "10.1371/annotation/6475ab87-5c24-4ee6-9989-0762186dd073"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003469"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Detection and Characterization of CD133+ Cancer Stem Cells in Human Solid Tumours"
+}

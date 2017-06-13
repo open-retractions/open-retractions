@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416441600000,"doi":"10.1016/j.ijpharm.2014.08.012","type":"err"},"doi":"10.1016/j.ijpharm.2014.05.009","journal":"International Journal of Pharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to: Improved pH-dependent drug release and oral exposure of telmisartan, a poorly soluble drug through the formation of drug-aminoclay complex [Int. J. Pharm. (2014) 258–263]"}
+{
+  "retracted": false,
+  "timestamp": 1416441600000,
+  "updates": [
+    {
+      "timestamp": 1495999756074,
+      "identifier": {
+        "doi": "10.1016/j.ijpharm.2014.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpharm.2014.05.009"
+  },
+  "journal": "International Journal of Pharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Improved pH-dependent drug release and oral exposure of telmisartan, a poorly soluble drug through the formation of drug-aminoclay complex [Int. J. Pharm. (2014) 258–263]"
+}

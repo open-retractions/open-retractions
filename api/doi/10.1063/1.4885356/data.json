@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406678400000,"doi":"10.1063/1.4891724","type":"correction"},"doi":"10.1063/1.4885356","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Publisher's Note: “A diamond based neutron spectrometer for diagnostics of deuterium-tritium fusion plasmas” [Rev. Sci. Instrum. 85, 11E101 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1406678400000,
+  "updates": [
+    {
+      "timestamp": 1495996469544,
+      "identifier": {
+        "doi": "10.1063/1.4891724"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4885356"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “A diamond based neutron spectrometer for diagnostics of deuterium-tritium fusion plasmas” [Rev. Sci. Instrum. 85, 11E101 (2014)]"
+}

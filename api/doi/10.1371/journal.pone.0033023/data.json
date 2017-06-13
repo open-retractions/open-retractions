@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386288000000,"doi":"10.1371/annotation/f21efac9-2906-4a2f-ad22-befcb7714dd0","type":"correction"},"doi":"10.1371/journal.pone.0033023","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel High-Throughput Assay for Islet Respiration Reveals Uncoupling of Rodent and Human Islets"}
+{
+  "retracted": false,
+  "timestamp": 1386288000000,
+  "updates": [
+    {
+      "timestamp": 1496003176379,
+      "identifier": {
+        "doi": "10.1371/annotation/f21efac9-2906-4a2f-ad22-befcb7714dd0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033023"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel High-Throughput Assay for Islet Respiration Reveals Uncoupling of Rodent and Human Islets"
+}

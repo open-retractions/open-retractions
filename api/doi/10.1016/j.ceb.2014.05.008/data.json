@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.ceb.2014.08.002","type":"err"},"doi":"10.1016/j.ceb.2014.05.008","journal":"Current Opinion in Cell Biology","publisher":"Elsevier BV","title":"Corrigendum to ‘Unconventional protein secretion (UPS) pathways in plants’ [Curr Opin Cell Biol 2014, 29:107–115]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496003506069,
+      "identifier": {
+        "doi": "10.1016/j.ceb.2014.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ceb.2014.05.008"
+  },
+  "journal": "Current Opinion in Cell Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Unconventional protein secretion (UPS) pathways in plants’ [Curr Opin Cell Biol 2014, 29:107–115]"
+}

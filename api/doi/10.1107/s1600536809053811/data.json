@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1273881600000,"doi":"10.1107/s1600536810009025","type":"correction"},"doi":"10.1107/s1600536809053811","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"N,N′-Bis(phenylsulfonyl)maleamide. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1273881600000,
+  "updates": [
+    {
+      "timestamp": 1495829335648,
+      "identifier": {
+        "doi": "10.1107/s1600536810009025"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536809053811"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "N,N′-Bis(phenylsulfonyl)maleamide. Corrigendum"
+}

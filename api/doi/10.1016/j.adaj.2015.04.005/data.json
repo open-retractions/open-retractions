@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.adaj.2015.09.004","type":"err"},"doi":"10.1016/j.adaj.2015.04.005","journal":"The Journal of the American Dental Association","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496041008446,
+      "identifier": {
+        "doi": "10.1016/j.adaj.2015.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.adaj.2015.04.005"
+  },
+  "journal": "The Journal of the American Dental Association",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

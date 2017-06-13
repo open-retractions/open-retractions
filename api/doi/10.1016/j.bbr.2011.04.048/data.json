@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.bbr.2016.01.029","type":"erratum"},"doi":"10.1016/j.bbr.2011.04.048","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “Accelerated maternal responding following intra-VTA pertussis toxin treatment” [Behav. Brain Res. 223 (October (2)) (2011) 322–328; Epub 2011 May 6]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495638910693,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2016.01.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2011.04.048"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Accelerated maternal responding following intra-VTA pertussis toxin treatment” [Behav. Brain Res. 223 (October (2)) (2011) 322–328; Epub 2011 May 6]"
+}

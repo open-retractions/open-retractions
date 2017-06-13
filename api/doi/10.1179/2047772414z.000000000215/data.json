@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414540800000,"doi":"10.1179/2047772414z.000000000222","type":"correction"},"doi":"10.1179/2047772414z.000000000215","journal":"Pathogens and Global Health","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1414540800000,
+  "updates": [
+    {
+      "timestamp": 1496017226250,
+      "identifier": {
+        "doi": "10.1179/2047772414z.000000000222"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/2047772414z.000000000215"
+  },
+  "journal": "Pathogens and Global Health",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

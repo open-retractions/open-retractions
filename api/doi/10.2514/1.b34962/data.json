@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.2514/1.b35669","type":"correction"},"doi":"10.2514/1.b34962","journal":"Journal of Propulsion and Power","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Fast-Impulse Nanothermite Solid-Propellant Miniaturized Thrusters"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496030123104,
+      "identifier": {
+        "doi": "10.2514/1.b35669"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.b34962"
+  },
+  "journal": "Journal of Propulsion and Power",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Fast-Impulse Nanothermite Solid-Propellant Miniaturized Thrusters"
+}

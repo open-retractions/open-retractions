@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.watres.2016.06.020","type":"erratum"},"doi":"10.1016/j.watres.2014.08.018","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Determining treatment requirements for turbid river water to avoid clogging of aquifer storage and recovery wells in siliceous alluvium” [Water Res. 66 (2014) 99–110]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495724314012,
+      "identifier": {
+        "doi": "10.1016/j.watres.2016.06.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2014.08.018"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Determining treatment requirements for turbid river water to avoid clogging of aquifer storage and recovery wells in siliceous alluvium” [Water Res. 66 (2014) 99–110]"
+}

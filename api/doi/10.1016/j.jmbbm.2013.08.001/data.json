@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.jmbbm.2013.12.013","type":"erratum"},"doi":"10.1016/j.jmbbm.2013.08.001","journal":"Journal of the Mechanical Behavior of Biomedical Materials","publisher":"Elsevier BV","title":"Corrigendum to “Targeting the finite-deformation response of wavy biological tissues with bio-inspired material architectures” [J. Mech. Behav. Biomed. Mater. 28 (2013) 291–308]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496008785238,
+      "identifier": {
+        "doi": "10.1016/j.jmbbm.2013.12.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmbbm.2013.08.001"
+  },
+  "journal": "Journal of the Mechanical Behavior of Biomedical Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Targeting the finite-deformation response of wavy biological tissues with bio-inspired material architectures” [J. Mech. Behav. Biomed. Mater. 28 (2013) 291–308]"
+}

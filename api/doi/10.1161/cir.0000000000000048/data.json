@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415059200000,"doi":"10.1161/cir.0000000000000138","type":"correction"},"doi":"10.1161/cir.0000000000000048","journal":"Circulation","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1415059200000,
+  "updates": [
+    {
+      "timestamp": 1496018982363,
+      "identifier": {
+        "doi": "10.1161/cir.0000000000000138"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1161/cir.0000000000000048"
+  },
+  "journal": "Circulation",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486684800000,"doi":"10.1007/s40262-017-0517-5","type":"correction"},"doi":"10.1007/s40262-016-0458-4","journal":"Clinical Pharmacokinetics","publisher":"Springer Nature","title":"Erratum to: A Two-Way Steady-State Pharmacokinetic Interaction Study of Doravirine (MK-1439) and Dolutegravir"}
+{
+  "retracted": false,
+  "timestamp": 1486684800000,
+  "updates": [
+    {
+      "timestamp": 1495719647359,
+      "identifier": {
+        "doi": "10.1007/s40262-017-0517-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40262-016-0458-4"
+  },
+  "journal": "Clinical Pharmacokinetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Two-Way Steady-State Pharmacokinetic Interaction Study of Doravirine (MK-1439) and Dolutegravir"
+}

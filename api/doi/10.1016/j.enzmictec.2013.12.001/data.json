@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402358400000,"doi":"10.1016/j.enzmictec.2014.03.012","type":"err"},"doi":"10.1016/j.enzmictec.2013.12.001","journal":"Enzyme and Microbial Technology","publisher":"Elsevier BV","title":"Corrigendum to “Production and characterization of microbial biosurfactants for potential use in oil-spill remediation” [Enzyme Microb. Technol. 55 (2014) 31–39]"}
+{
+  "retracted": false,
+  "timestamp": 1402358400000,
+  "updates": [
+    {
+      "timestamp": 1496031167465,
+      "identifier": {
+        "doi": "10.1016/j.enzmictec.2014.03.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enzmictec.2013.12.001"
+  },
+  "journal": "Enzyme and Microbial Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Production and characterization of microbial biosurfactants for potential use in oil-spill remediation” [Enzyme Microb. Technol. 55 (2014) 31–39]"
+}

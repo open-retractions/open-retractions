@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485388800000,"doi":"10.1007/s10812-017-0416-4","type":"correction"},"doi":"10.1007/s10812-014-9867-z","journal":"Journal of Applied Spectroscopy","publisher":"Springer Nature","title":"Erratum to: Measurement of the Width of Emission Spectra by a Waveguide Technique"}
+{
+  "retracted": false,
+  "timestamp": 1485388800000,
+  "updates": [
+    {
+      "timestamp": 1495678842066,
+      "identifier": {
+        "doi": "10.1007/s10812-017-0416-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10812-014-9867-z"
+  },
+  "journal": "Journal of Applied Spectroscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Measurement of the Width of Emission Spectra by a Waveguide Technique"
+}

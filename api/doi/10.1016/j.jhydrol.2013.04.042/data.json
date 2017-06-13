@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1016/j.jhydrol.2013.07.017","type":"err"},"doi":"10.1016/j.jhydrol.2013.04.042","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Erratum to “Redistribution of groundwater evapotranspiration and water table around a well field in an unconfined aquifer: A simplified analytical model” [J. Hydrol. 495 (2013) 162–174]"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496038417399,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2013.07.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2013.04.042"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Redistribution of groundwater evapotranspiration and water table around a well field in an unconfined aquifer: A simplified analytical model” [J. Hydrol. 495 (2013) 162–174]"
+}

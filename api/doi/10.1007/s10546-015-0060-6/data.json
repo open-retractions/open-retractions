@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1007/s10546-015-0118-5","type":"correction"},"doi":"10.1007/s10546-015-0060-6","journal":"Boundary-Layer Meteorology","publisher":"Springer Nature","title":"Erratum to: Using the Cross-Correlation Function to Evaluate the Quality of Eddy-Covariance Data"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496052823660,
+      "identifier": {
+        "doi": "10.1007/s10546-015-0118-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10546-015-0060-6"
+  },
+  "journal": "Boundary-Layer Meteorology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Using the Cross-Correlation Function to Evaluate the Quality of Eddy-Covariance Data"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439510400000,"doi":"10.1038/srep09548","type":"correction"},"doi":"10.1038/srep08191","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Long-term efficacy and safety of omalizumab in patients with persistent uncontrolled allergic asthma: a systematic review and meta-analysis"}
+{
+  "retracted": false,
+  "timestamp": 1439510400000,
+  "updates": [
+    {
+      "timestamp": 1496023483362,
+      "identifier": {
+        "doi": "10.1038/srep09548"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep08191"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Long-term efficacy and safety of omalizumab in patients with persistent uncontrolled allergic asthma: a systematic review and meta-analysis"
+}

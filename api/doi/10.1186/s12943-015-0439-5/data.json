@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455235200000,"doi":"10.1186/s12943-016-0498-2","type":"correction"},"doi":"10.1186/s12943-015-0439-5","journal":"Molecular Cancer","publisher":"Springer Nature","title":"Erratum to: ‘Phosphoproteomic analysis reveals Smarcb1 dependent EGFR signaling in Malignant Rhabdoid tumor cells’"}
+{
+  "retracted": false,
+  "timestamp": 1455235200000,
+  "updates": [
+    {
+      "timestamp": 1495644277518,
+      "identifier": {
+        "doi": "10.1186/s12943-016-0498-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12943-015-0439-5"
+  },
+  "journal": "Molecular Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Phosphoproteomic analysis reveals Smarcb1 dependent EGFR signaling in Malignant Rhabdoid tumor cells’"
+}

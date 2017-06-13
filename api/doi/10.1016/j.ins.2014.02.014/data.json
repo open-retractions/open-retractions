@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1016/j.ins.2016.06.014","type":"erratum"},"doi":"10.1016/j.ins.2014.02.014","journal":"Information Sciences","publisher":"Elsevier BV","title":"Erratum to “Solving fuzzy complex system of linear equations” [Information sciences 277 (2014) 154–162]"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495714785495,
+      "identifier": {
+        "doi": "10.1016/j.ins.2016.06.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2014.02.014"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Solving fuzzy complex system of linear equations” [Information sciences 277 (2014) 154–162]"
+}

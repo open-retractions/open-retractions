@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382400000000,"doi":"10.1371/annotation/4e52dfe0-479d-4be7-8545-b4ee8a1eb9ed","type":"correction"},"doi":"10.1371/journal.ppat.1003579","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Specialization of the Small Interfering RNA Pathway in Response to Virus Infection"}
+{
+  "retracted": false,
+  "timestamp": 1382400000000,
+  "updates": [
+    {
+      "timestamp": 1495994232141,
+      "identifier": {
+        "doi": "10.1371/annotation/4e52dfe0-479d-4be7-8545-b4ee8a1eb9ed"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003579"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Specialization of the Small Interfering RNA Pathway in Response to Virus Infection"
+}

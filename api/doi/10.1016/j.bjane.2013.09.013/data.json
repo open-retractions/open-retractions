@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.bjane.2015.11.001","type":"err"},"doi":"10.1016/j.bjane.2013.09.013","journal":"Brazilian Journal of Anesthesiology (English Edition)","publisher":"Elsevier BV","title":"Erratum to “Hyperalgesic effect of subarachnoid administration of phentolamine in mice” [Rev. Bras. Anestesiol. 65 (2) (2015) 111–116]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049029607,
+      "identifier": {
+        "doi": "10.1016/j.bjane.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjane.2013.09.013"
+  },
+  "journal": "Brazilian Journal of Anesthesiology (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hyperalgesic effect of subarachnoid administration of phentolamine in mice” [Rev. Bras. Anestesiol. 65 (2) (2015) 111–116]"
+}

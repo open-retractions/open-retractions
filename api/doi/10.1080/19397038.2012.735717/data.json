@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395878400000,"doi":"10.1080/19397038.2014.886413","type":"correction"},"doi":"10.1080/19397038.2012.735717","journal":"International Journal of Sustainable Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395878400000,
+  "updates": [
+    {
+      "timestamp": 1496021766585,
+      "identifier": {
+        "doi": "10.1080/19397038.2014.886413"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19397038.2012.735717"
+  },
+  "journal": "International Journal of Sustainable Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

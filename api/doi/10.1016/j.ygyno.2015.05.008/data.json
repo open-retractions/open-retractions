@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.ygyno.2015.08.009","type":"err"},"doi":"10.1016/j.ygyno.2015.05.008","journal":"Gynecologic Oncology","publisher":"Elsevier BV","title":"Corrigendum to “A novel clinical trial recruitment strategy for women's cancer” [Gynecol. Oncol. 138 (2015) 445–448]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496026208523,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2015.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2015.05.008"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel clinical trial recruitment strategy for women's cancer” [Gynecol. Oncol. 138 (2015) 445–448]"
+}

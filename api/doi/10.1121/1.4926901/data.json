@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459987200000,"doi":"10.1121/1.4945750","type":"correction"},"doi":"10.1121/1.4926901","journal":"The Journal of the Acoustical Society of America","publisher":"Acoustical Society of America (ASA)","title":"Erratum: On the validity of the effective density fluid model as an approximation of a poroelastic sediment layer [J. Acoust. Soc. Am. 138, 748–757 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1459987200000,
+  "updates": [
+    {
+      "timestamp": 1495663200877,
+      "identifier": {
+        "doi": "10.1121/1.4945750"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1121/1.4926901"
+  },
+  "journal": "The Journal of the Acoustical Society of America",
+  "publisher": "Acoustical Society of America (ASA)",
+  "title": "Erratum: On the validity of the effective density fluid model as an approximation of a poroelastic sediment layer [J. Acoust. Soc. Am. 138, 748–757 (2015)]"
+}

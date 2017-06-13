@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392681600000,"doi":"10.1007/s10570-014-0198-2","type":"correction"},"doi":"10.1007/s10570-013-0128-8","journal":"Cellulose","publisher":"Springer Nature","title":"Erratum to: A DFT study of vibrational frequencies and 13C NMR chemical shifts of model cellulosic fragments as a function of size"}
+{
+  "retracted": false,
+  "timestamp": 1392681600000,
+  "updates": [
+    {
+      "timestamp": 1496019419784,
+      "identifier": {
+        "doi": "10.1007/s10570-014-0198-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10570-013-0128-8"
+  },
+  "journal": "Cellulose",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A DFT study of vibrational frequencies and 13C NMR chemical shifts of model cellulosic fragments as a function of size"
+}

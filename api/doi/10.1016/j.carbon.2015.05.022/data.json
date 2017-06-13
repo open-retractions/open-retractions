@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.carbon.2015.09.004","type":"erratum"},"doi":"10.1016/j.carbon.2015.05.022","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Lactoperoxidase-mediated degradation of single-walled carbon nanotubes in the presence of pulmonary surfactant” [Carbon 91 (2015) 506–517]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496029118487,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2015.09.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2015.05.022"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lactoperoxidase-mediated degradation of single-walled carbon nanotubes in the presence of pulmonary surfactant” [Carbon 91 (2015) 506–517]"
+}

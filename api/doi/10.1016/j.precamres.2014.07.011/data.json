@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.precamres.2014.09.002","type":"err"},"doi":"10.1016/j.precamres.2014.07.011","journal":"Precambrian Research","publisher":"Elsevier BV","title":"Corrigendum to “Magmatic and metamorphic history of Paleoarchean tonalite–trondhjemite–granodiorite (TTG) suite from the Singhbhum craton, eastern India” [Precambrian Res. 252 (2014) 180–190]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496028702335,
+      "identifier": {
+        "doi": "10.1016/j.precamres.2014.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.precamres.2014.07.011"
+  },
+  "journal": "Precambrian Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Magmatic and metamorphic history of Paleoarchean tonalite–trondhjemite–granodiorite (TTG) suite from the Singhbhum craton, eastern India” [Precambrian Res. 252 (2014) 180–190]"
+}

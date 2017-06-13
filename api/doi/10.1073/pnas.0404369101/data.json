@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1155600000000,"doi":"10.1073/pnas.0605122103","type":"correction"},"doi":"10.1073/pnas.0404369101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Corrections for Amit et al., Direct observation of RuvAB-catalyzed branch migration of single Holliday junctions and Dawid et al., Single-molecule study of RuvAB-mediated Holliday-junction migration"}
+{
+  "retracted": false,
+  "timestamp": 1155600000000,
+  "updates": [
+    {
+      "timestamp": 1495862135531,
+      "identifier": {
+        "doi": "10.1073/pnas.0605122103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0404369101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Corrections for Amit et al., Direct observation of RuvAB-catalyzed branch migration of single Holliday junctions and Dawid et al., Single-molecule study of RuvAB-mediated Holliday-junction migration"
+}

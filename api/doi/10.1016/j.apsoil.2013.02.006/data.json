@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.apsoil.2014.03.002","type":"err"},"doi":"10.1016/j.apsoil.2013.02.006","journal":"Applied Soil Ecology","publisher":"Elsevier BV","title":"Erratum to “Effect of land-use and elevation on microbial biomass and water extractable carbon in soils of Mt. Kilimanjaro ecosystems” [Appl. Soil Ecol. 67 (2013) 10–19]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496036348415,
+      "identifier": {
+        "doi": "10.1016/j.apsoil.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsoil.2013.02.006"
+  },
+  "journal": "Applied Soil Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effect of land-use and elevation on microbial biomass and water extractable carbon in soils of Mt. Kilimanjaro ecosystems” [Appl. Soil Ecol. 67 (2013) 10–19]"
+}

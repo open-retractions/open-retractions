@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.neucom.2015.07.016","type":"erratum"},"doi":"10.1016/j.neucom.2015.05.070","journal":"Neurocomputing","publisher":"Elsevier BV","title":"Corrigendum to “Adaptive Weighted Fusion: A novel fusion approach for image classification” Neurocomputing, volume 168 (2015), 566–574"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496017339091,
+      "identifier": {
+        "doi": "10.1016/j.neucom.2015.07.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neucom.2015.05.070"
+  },
+  "journal": "Neurocomputing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adaptive Weighted Fusion: A novel fusion approach for image classification” Neurocomputing, volume 168 (2015), 566–574"
+}

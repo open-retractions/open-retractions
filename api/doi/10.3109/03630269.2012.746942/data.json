@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.3109/03630269.2014.912381","type":"correction"},"doi":"10.3109/03630269.2012.746942","journal":"Hemoglobin","publisher":"Informa Healthcare","title":"Correction to: Incidence of the Hb E [β26(B8)Glu → Lys,GAG > AAG] Variant in Totos, one of the Smallest Primitive Tribes in the World"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038547417,
+      "identifier": {
+        "doi": "10.3109/03630269.2014.912381"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/03630269.2012.746942"
+  },
+  "journal": "Hemoglobin",
+  "publisher": "Informa Healthcare",
+  "title": "Correction to: Incidence of the Hb E [β26(B8)Glu → Lys,GAG > AAG] Variant in Totos, one of the Smallest Primitive Tribes in the World"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1236124800000,"doi":"10.1371/annotation/3706d475-e082-4be6-b328-7d8aea02b986","type":"correction"},"doi":"10.1371/journal.pone.0004537","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: MMTV-Wnt1 and -ΔN89β-Catenin Induce Canonical Signaling in Distinct Progenitors and Differentially Activate Hedgehog Signaling within Mammary Tumors"}
+{
+  "retracted": false,
+  "timestamp": 1236124800000,
+  "updates": [
+    {
+      "timestamp": 1496025195988,
+      "identifier": {
+        "doi": "10.1371/annotation/3706d475-e082-4be6-b328-7d8aea02b986"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004537"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: MMTV-Wnt1 and -ΔN89β-Catenin Induce Canonical Signaling in Distinct Progenitors and Differentially Activate Hedgehog Signaling within Mammary Tumors"
+}

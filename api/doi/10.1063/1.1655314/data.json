@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":166752000000,"doi":"10.1063/1.88252","type":"erratum"},"doi":"10.1063/1.1655314","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: Velocity saturation in n−type AlxGa1−xAs single crystals"}
+{
+  "retracted": false,
+  "timestamp": 166752000000,
+  "updates": [
+    {
+      "timestamp": 1495944474443,
+      "identifier": {
+        "doi": "10.1063/1.88252"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1655314"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Velocity saturation in n−type AlxGa1−xAs single crystals"
+}

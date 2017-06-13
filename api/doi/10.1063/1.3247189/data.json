@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357776000000,"doi":"10.1063/1.4775805","type":"correction"},"doi":"10.1063/1.3247189","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Spin-flip processes of polarons by magnetic impurities in conjugated polymers” [J. Chem. Phys. 131, 154901 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1357776000000,
+  "updates": [
+    {
+      "timestamp": 1495984873753,
+      "identifier": {
+        "doi": "10.1063/1.4775805"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3247189"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Spin-flip processes of polarons by magnetic impurities in conjugated polymers” [J. Chem. Phys. 131, 154901 (2009)]"
+}

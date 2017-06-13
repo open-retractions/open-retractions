@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.anihpc.2014.04.006","type":"err"},"doi":"10.1016/j.anihpc.2011.08.001","journal":"Annales de l'Institut Henri Poincare (C) Non Linear Analysis","publisher":"Elsevier BV","title":"Corrigendum to “An isoperimetric inequality for a nonlinear eigenvalue problem” [Ann. I. H. Poincaré – AN 29 (1) (2012) 21–34]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496045900291,
+      "identifier": {
+        "doi": "10.1016/j.anihpc.2014.04.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anihpc.2011.08.001"
+  },
+  "journal": "Annales de l'Institut Henri Poincare (C) Non Linear Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An isoperimetric inequality for a nonlinear eigenvalue problem” [Ann. I. H. Poincaré – AN 29 (1) (2012) 21–34]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.foodres.2015.07.021","type":"err"},"doi":"10.1016/j.foodres.2015.04.001","journal":"Food Research International","publisher":"Elsevier BV","title":"Corrigendum to “Mare's and cow's milk: Promote similar metabolic effects and expression of innate markers in Caco-2 cells?” [Food Res. Int. 72 (2015) 184–190]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496018786018,
+      "identifier": {
+        "doi": "10.1016/j.foodres.2015.07.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodres.2015.04.001"
+  },
+  "journal": "Food Research International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mare's and cow's milk: Promote similar metabolic effects and expression of innate markers in Caco-2 cells?” [Food Res. Int. 72 (2015) 184–190]"
+}

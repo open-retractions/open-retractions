@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424736000000,"doi":"10.1007/s40744-015-0009-8","type":"correction"},"doi":"10.1007/s40744-014-0005-4","journal":"Rheumatology and Therapy","publisher":"Springer Nature","title":"Erratum to: Apremilast: A Phosphodiesterase 4 Inhibitor for the Treatment of Psoriatic Arthritis"}
+{
+  "retracted": false,
+  "timestamp": 1424736000000,
+  "updates": [
+    {
+      "timestamp": 1496043338148,
+      "identifier": {
+        "doi": "10.1007/s40744-015-0009-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40744-014-0005-4"
+  },
+  "journal": "Rheumatology and Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Apremilast: A Phosphodiesterase 4 Inhibitor for the Treatment of Psoriatic Arthritis"
+}

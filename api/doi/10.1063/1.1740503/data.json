@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-447120000000,"doi":"10.1063/1.1740721","type":"erratum"},"doi":"10.1063/1.1740503","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Some Theorems Concerning the Mutual Polarizabilities of Atoms and Bonds in Conjugated Molecules"}
+{
+  "retracted": false,
+  "timestamp": -447120000000,
+  "updates": [
+    {
+      "timestamp": 1495891124728,
+      "identifier": {
+        "doi": "10.1063/1.1740721"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1740503"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Some Theorems Concerning the Mutual Polarizabilities of Atoms and Bonds in Conjugated Molecules"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1275955200000,"doi":"10.1371/annotation/c55d5089-ba2f-449d-8696-2bc8395978db","type":"correction"},"doi":"10.1371/journal.pgen.1000944","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: The Relationship among Gene Expression, the Evolution of Gene Dosage, and the Rate of Protein Evolution"}
+{
+  "retracted": false,
+  "timestamp": 1275955200000,
+  "updates": [
+    {
+      "timestamp": 1496025195086,
+      "identifier": {
+        "doi": "10.1371/annotation/c55d5089-ba2f-449d-8696-2bc8395978db"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000944"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Relationship among Gene Expression, the Evolution of Gene Dosage, and the Rate of Protein Evolution"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421452800000,"doi":"10.1007/s10722-014-0214-2","type":"correction"},"doi":"10.1007/s10722-014-0193-3","journal":"Genetic Resources and Crop Evolution","publisher":"Springer Nature","title":"Erratum to: Genome sizes in diploid and allopolyploid Arachis L. species (section Arachis)"}
+{
+  "retracted": false,
+  "timestamp": 1421452800000,
+  "updates": [
+    {
+      "timestamp": 1496037489447,
+      "identifier": {
+        "doi": "10.1007/s10722-014-0214-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10722-014-0193-3"
+  },
+  "journal": "Genetic Resources and Crop Evolution",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genome sizes in diploid and allopolyploid Arachis L. species (section Arachis)"
+}

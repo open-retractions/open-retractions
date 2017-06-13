@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.eurpsy.2014.10.002","type":"err"},"doi":"10.1016/j.eurpsy.2014.05.002","journal":"European Psychiatry","publisher":"Elsevier BV","title":"Erratum to “The role of high-density lipoprotein cholesterol in risk for posttraumatic stress disorder: Taking a nutritional approach towards universal prevention” [Eur. Psych. 29 (2014) 408–413]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496029395780,
+      "identifier": {
+        "doi": "10.1016/j.eurpsy.2014.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eurpsy.2014.05.002"
+  },
+  "journal": "European Psychiatry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The role of high-density lipoprotein cholesterol in risk for posttraumatic stress disorder: Taking a nutritional approach towards universal prevention” [Eur. Psych. 29 (2014) 408–413]"
+}

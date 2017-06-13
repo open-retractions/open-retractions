@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1134/s1054661816040246","type":"correction"},"doi":"10.1134/s1054661816020097","journal":"Pattern Recognition and Image Analysis","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “An Algorithm for Recognizing Linear Objects in Aerial Photons Automatically” [Pattern Recognition and Image Analysis 26, 385 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495663518640,
+      "identifier": {
+        "doi": "10.1134/s1054661816040246"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1054661816020097"
+  },
+  "journal": "Pattern Recognition and Image Analysis",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “An Algorithm for Recognizing Linear Objects in Aerial Photons Automatically” [Pattern Recognition and Image Analysis 26, 385 (2016)]"
+}

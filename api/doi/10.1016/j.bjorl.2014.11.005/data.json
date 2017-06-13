@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.bjorl.2015.08.001","type":"err"},"doi":"10.1016/j.bjorl.2014.11.005","journal":"Brazilian Journal of Otorhinolaryngology","publisher":"Elsevier BV","title":"Erratum to “Rhinosinusitis: evidence and experience. A summary” [Braz J Otorhinolaryngol. 81 (1) (2015) 8–18]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496026093096,
+      "identifier": {
+        "doi": "10.1016/j.bjorl.2015.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjorl.2014.11.005"
+  },
+  "journal": "Brazilian Journal of Otorhinolaryngology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Rhinosinusitis: evidence and experience. A summary” [Braz J Otorhinolaryngol. 81 (1) (2015) 8–18]"
+}

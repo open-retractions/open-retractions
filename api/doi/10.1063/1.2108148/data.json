@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1138752000000,"doi":"10.1063/1.2168511","type":"erratum"},"doi":"10.1063/1.2108148","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Strain relaxation due to V-pit formation in InxGa1−xN∕GaN epilayers grown on sapphire” [J. Appl. Phys. 98, 084906 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1138752000000,
+  "updates": [
+    {
+      "timestamp": 1495985477159,
+      "identifier": {
+        "doi": "10.1063/1.2168511"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2108148"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Strain relaxation due to V-pit formation in               InxGa1−xN∕GaN epilayers grown on sapphire” [J. Appl. Phys. 98, 084906           (2005)]"
+}

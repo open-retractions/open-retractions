@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472169600000,"doi":"10.1039/c6sc90058e","type":"correction"},"doi":"10.1039/c5sc03088a","journal":"Chem. Sci.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A universal chemical potential for sulfur vapours"}
+{
+  "retracted": false,
+  "timestamp": 1472169600000,
+  "updates": [
+    {
+      "timestamp": 1495739558322,
+      "identifier": {
+        "doi": "10.1039/c6sc90058e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5sc03088a"
+  },
+  "journal": "Chem. Sci.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A universal chemical potential for sulfur vapours"
+}

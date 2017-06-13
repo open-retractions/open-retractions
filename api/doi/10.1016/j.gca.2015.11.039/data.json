@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.gca.2016.01.037","type":"err"},"doi":"10.1016/j.gca.2015.11.039","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Calcium isotopic composition of mantle xenoliths and minerals from Eastern China” [Geochim. Cosmochim. Acta 174 (2016) 335–344]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495650430846,
+      "identifier": {
+        "doi": "10.1016/j.gca.2016.01.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2015.11.039"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Calcium isotopic composition of mantle xenoliths and minerals from Eastern China” [Geochim. Cosmochim. Acta 174 (2016) 335–344]"
+}

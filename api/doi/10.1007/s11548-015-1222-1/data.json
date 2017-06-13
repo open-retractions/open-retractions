@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450915200000,"doi":"10.1007/s11548-015-1314-y","type":"correction"},"doi":"10.1007/s11548-015-1222-1","journal":"International Journal of Computer Assisted Radiology and Surgery","publisher":"Springer Nature","title":"Erratum to: LapOntoSPM: an ontology for laparoscopic surgeries and its application to surgical phase recognition"}
+{
+  "retracted": false,
+  "timestamp": 1450915200000,
+  "updates": [
+    {
+      "timestamp": 1496056246138,
+      "identifier": {
+        "doi": "10.1007/s11548-015-1314-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11548-015-1222-1"
+  },
+  "journal": "International Journal of Computer Assisted Radiology and Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: LapOntoSPM: an ontology for laparoscopic surgeries and its application to surgical phase recognition"
+}

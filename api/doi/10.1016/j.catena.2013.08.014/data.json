@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.catena.2014.03.011","type":"err"},"doi":"10.1016/j.catena.2013.08.014","journal":"CATENA","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of granitoid and gneissic weathering profiles of the Mucone River basin (Calabria, southern Italy)” [Catena 113 (2014) 325–340]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496029297569,
+      "identifier": {
+        "doi": "10.1016/j.catena.2014.03.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.catena.2013.08.014"
+  },
+  "journal": "CATENA",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of granitoid and gneissic weathering profiles of the Mucone River basin (Calabria, southern Italy)” [Catena 113 (2014) 325–340]"
+}

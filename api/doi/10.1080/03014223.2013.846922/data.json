@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394150400000,"doi":"10.1080/03014223.2013.865508","type":"correction"},"doi":"10.1080/03014223.2013.846922","journal":"New Zealand Journal of Zoology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1394150400000,
+  "updates": [
+    {
+      "timestamp": 1496004442462,
+      "identifier": {
+        "doi": "10.1080/03014223.2013.865508"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03014223.2013.846922"
+  },
+  "journal": "New Zealand Journal of Zoology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

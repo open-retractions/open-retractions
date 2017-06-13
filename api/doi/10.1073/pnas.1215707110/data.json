@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1073/pnas.1508413112","type":"correction"},"doi":"10.1073/pnas.1215707110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Alsiö et al., Ikaros promotes early-born neuronal fates in the cerebral cortex: Fig. 6."}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496000278670,
+      "identifier": {
+        "doi": "10.1073/pnas.1508413112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1215707110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Alsiö et al., Ikaros promotes early-born neuronal fates in the cerebral cortex: Fig. 6."
+}

@@ -4,9 +4,8 @@ const fs = require('fs-extra')
 const path = require('path')
 const pumpify = require('pumpify')
 const through = require('through2')
-const retractions = require('crossref-retractions')
-const arraysplitter = require('array-split-stream')
-const formatter = require('crossref-to-retraction')
+const crossref = require('crossref-retractions')
+const retraction = require('open-retractions-datum')
 const writedoi = require('./writedoi')
 
 // let last_pubmed
@@ -33,12 +32,7 @@ try {
 }
 
 pumpify(
-  retractions(),
-//  arraysplitter(),
-  through.obj((data, enc, done) => {
-    console.log('got record', data.DOI)
-    done(null, data)
-  }),
-  formatter.stream(),
+  crossref(),
+  retraction.crossref.stream(),
   writedoi()
 )

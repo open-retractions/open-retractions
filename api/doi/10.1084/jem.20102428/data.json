@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1295222400000,"doi":"10.1084/jem.2010242820101229c","type":"correction"},"doi":"10.1084/jem.20102428","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Induced pluripotent stem cell–derived human platelets: one step closer to the clinic"}
+{
+  "retracted": false,
+  "timestamp": 1295222400000,
+  "updates": [
+    {
+      "timestamp": 1495918135821,
+      "identifier": {
+        "doi": "10.1084/jem.2010242820101229c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20102428"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Induced pluripotent stem cell–derived human platelets: one step closer to the clinic"
+}

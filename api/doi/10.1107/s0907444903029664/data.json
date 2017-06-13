@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1080777600000,"doi":"10.1107/s0907444904005001","type":"correction"},"doi":"10.1107/s0907444903029664","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Microseed matrix screening to improve crystals of yeast cytosine deaminase. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1080777600000,
+  "updates": [
+    {
+      "timestamp": 1495810303791,
+      "identifier": {
+        "doi": "10.1107/s0907444904005001"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444903029664"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Microseed matrix screening to improve crystals of yeast cytosine deaminase. Erratum"
+}

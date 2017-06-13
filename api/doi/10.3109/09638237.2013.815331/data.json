@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.3109/09638237.2014.899807","type":"correction"},"doi":"10.3109/09638237.2013.815331","journal":"Journal of Mental Health","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496029527202,
+      "identifier": {
+        "doi": "10.3109/09638237.2014.899807"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/09638237.2013.815331"
+  },
+  "journal": "Journal of Mental Health",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

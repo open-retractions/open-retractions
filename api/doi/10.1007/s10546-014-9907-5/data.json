@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407369600000,"doi":"10.1007/s10546-014-9951-1","type":"correction"},"doi":"10.1007/s10546-014-9907-5","journal":"Boundary-Layer Meteorology","publisher":"Springer Nature","title":"Erratum to: Observed and Modelled Convective Mixing-Layer Height at Dome C, Antarctica"}
+{
+  "retracted": false,
+  "timestamp": 1407369600000,
+  "updates": [
+    {
+      "timestamp": 1495998347679,
+      "identifier": {
+        "doi": "10.1007/s10546-014-9951-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10546-014-9907-5"
+  },
+  "journal": "Boundary-Layer Meteorology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Observed and Modelled Convective Mixing-Layer Height at Dome C, Antarctica"
+}

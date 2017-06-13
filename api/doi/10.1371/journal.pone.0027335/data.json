@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1323734400000,"doi":"10.1371/annotation/4ccaacb2-92d7-445a-87da-313cedf18feb","type":"correction"},"doi":"10.1371/journal.pone.0027335","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Next Generation Sequencing-Based Analysis of Repetitive DNA in the Model Dioceous Plant Silene latifolia"}
+{
+  "retracted": false,
+  "timestamp": 1323734400000,
+  "updates": [
+    {
+      "timestamp": 1495851348864,
+      "identifier": {
+        "doi": "10.1371/annotation/4ccaacb2-92d7-445a-87da-313cedf18feb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027335"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Next Generation Sequencing-Based Analysis of Repetitive DNA in the Model Dioceous Plant Silene latifolia"
+}

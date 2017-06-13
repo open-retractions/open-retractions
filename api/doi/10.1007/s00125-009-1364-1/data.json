@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424304000000,"doi":"10.1007/s00125-015-3502-2","type":"correction"},"doi":"10.1007/s00125-009-1364-1","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Brain-derived neurotrophic factor is produced by skeletal muscle cells in response to contraction and enhances fat oxidation via activation of AMP-activated protein kinase"}
+{
+  "retracted": false,
+  "timestamp": 1424304000000,
+  "updates": [
+    {
+      "timestamp": 1496044896928,
+      "identifier": {
+        "doi": "10.1007/s00125-015-3502-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-009-1364-1"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Brain-derived neurotrophic factor is produced by skeletal muscle cells in response to contraction and enhances fat oxidation via activation of AMP-activated protein kinase"
+}

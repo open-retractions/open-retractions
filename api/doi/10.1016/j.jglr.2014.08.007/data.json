@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jglr.2015.02.001","type":"err"},"doi":"10.1016/j.jglr.2014.08.007","journal":"Journal of Great Lakes Research","publisher":"Elsevier BV","title":"Corrigendum to “Recent changes in the offshore crustacean zooplankton community of Lake Ontario” [J. Great Lakes Res., 40(4)(2014)898–910]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496046464382,
+      "identifier": {
+        "doi": "10.1016/j.jglr.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jglr.2014.08.007"
+  },
+  "journal": "Journal of Great Lakes Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Recent changes in the offshore crustacean zooplankton community of Lake Ontario” [J. Great Lakes Res., 40(4)(2014)898–910]"
+}

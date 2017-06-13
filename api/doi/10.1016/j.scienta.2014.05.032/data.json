@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433376000000,"doi":"10.1016/j.scienta.2014.10.023","type":"err"},"doi":"10.1016/j.scienta.2014.05.032","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of anthocyanin components, expression of anthocyanin biosynthetic structural genes, and TfF3′H1 sequences between Tulipa fosteriana ‘Albert heijn’ and its reddish sport” [Sci. Hortic. 175 (2014) 16–26]"}
+{
+  "retracted": false,
+  "timestamp": 1433376000000,
+  "updates": [
+    {
+      "timestamp": 1496016196300,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2014.10.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2014.05.032"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of anthocyanin components, expression of anthocyanin biosynthetic structural genes, and TfF3′H1 sequences between Tulipa fosteriana ‘Albert heijn’ and its reddish sport” [Sci. Hortic. 175 (2014) 16–26]"
+}

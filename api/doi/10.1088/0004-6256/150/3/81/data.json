@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.3847/1538-3881/aa662e","type":"correction"},"doi":"10.1088/0004-6256/150/3/81","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"Erratum: “CHANG-ES. IV. Radio Continuum Emission of 35 Edge-on Galaxies Observed with the Karl G. Jansky Very Large Array in D-configuration—Data Release 1” (2015, AJ, 150, 81)"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495736748442,
+      "identifier": {
+        "doi": "10.3847/1538-3881/aa662e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/150/3/81"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “CHANG-ES. IV. Radio Continuum Emission of 35 Edge-on Galaxies Observed with the Karl G. Jansky Very Large Array in D-configuration—Data Release 1” (2015, AJ, 150, 81)"
+}

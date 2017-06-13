@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475798400000,"doi":"10.1007/s00521-016-2613-0","type":"correction"},"doi":"10.1007/s00521-016-2311-y","journal":"Neural Computing and Applications","publisher":"Springer Nature","title":"Erratum to: A new measure of divergence with its application to multi-criteria decision making under fuzzy environment"}
+{
+  "retracted": false,
+  "timestamp": 1475798400000,
+  "updates": [
+    {
+      "timestamp": 1495646536362,
+      "identifier": {
+        "doi": "10.1007/s00521-016-2613-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00521-016-2311-y"
+  },
+  "journal": "Neural Computing and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new measure of divergence with its application to multi-criteria decision making under fuzzy environment"
+}

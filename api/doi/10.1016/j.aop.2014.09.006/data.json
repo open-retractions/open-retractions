@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.aop.2015.04.034","type":"erratum"},"doi":"10.1016/j.aop.2014.09.006","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Corrigendum to “Convergence of Feynman integrals in Coulomb gauge QCD” [Ann. Phys. 351 (2014) 407–417]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496017353853,
+      "identifier": {
+        "doi": "10.1016/j.aop.2015.04.034"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2014.09.006"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Convergence of Feynman integrals in Coulomb gauge QCD” [Ann. Phys. 351 (2014) 407–417]"
+}

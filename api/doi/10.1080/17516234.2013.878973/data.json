@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416441600000,"doi":"10.1080/17516234.2014.955561","type":"correction"},"doi":"10.1080/17516234.2013.878973","journal":"Journal of Asian Public Policy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1416441600000,
+  "updates": [
+    {
+      "timestamp": 1496022013437,
+      "identifier": {
+        "doi": "10.1080/17516234.2014.955561"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17516234.2013.878973"
+  },
+  "journal": "Journal of Asian Public Policy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

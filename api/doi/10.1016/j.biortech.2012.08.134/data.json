@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.biortech.2015.10.033","type":"erratum"},"doi":"10.1016/j.biortech.2012.08.134","journal":"Bioresource Technology","publisher":"Elsevier BV","title":"Corrigendum to “Modelling and computational fluid dynamic behaviour of a biofilter treating benzene” [Bioresour. Technol. 125 (2012) 200–207]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049622278,
+      "identifier": {
+        "doi": "10.1016/j.biortech.2015.10.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biortech.2012.08.134"
+  },
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modelling and computational fluid dynamic behaviour of a biofilter treating benzene” [Bioresour. Technol. 125 (2012) 200–207]"
+}

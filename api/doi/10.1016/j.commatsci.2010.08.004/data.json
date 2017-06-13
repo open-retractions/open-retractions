@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.commatsci.2015.08.025","type":"err"},"doi":"10.1016/j.commatsci.2010.08.004","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “Buckling analysis of the composite plates with delaminations” [Comput. Mater. Sci. 50 (5) (2011) 1587–1591]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496024892343,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.08.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2010.08.004"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Buckling analysis of the composite plates with delaminations” [Comput. Mater. Sci. 50 (5) (2011) 1587–1591]"
+}

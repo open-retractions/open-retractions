@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377648000000,"doi":"10.1016/j.canlet.2013.02.044","type":"err"},"doi":"10.1016/j.canlet.2012.10.025","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “MiR-24 regulates the proliferation and invasion of glioma by ST7L via β-catenin/Tcf-4 signaling” [Cancer Lett. 329 (2) (2012) 174–180]"}
+{
+  "retracted": false,
+  "timestamp": 1377648000000,
+  "updates": [
+    {
+      "timestamp": 1496005068667,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2013.02.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2012.10.025"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MiR-24 regulates the proliferation and invasion of glioma by ST7L via β-catenin/Tcf-4 signaling” [Cancer Lett. 329 (2) (2012) 174–180]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.math.2016.06.011","type":"err"},"doi":"10.1016/j.math.2016.05.002","journal":"Manual Therapy","publisher":"Elsevier BV","title":"Erratum to ‘The TIDieR checklist will benefit the physiotherapy profession’ [Manual Therapy 24C (2016) V–VI]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495651915857,
+      "identifier": {
+        "doi": "10.1016/j.math.2016.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.math.2016.05.002"
+  },
+  "journal": "Manual Therapy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘The TIDieR checklist will benefit the physiotherapy profession’ [Manual Therapy 24C (2016) V–VI]"
+}

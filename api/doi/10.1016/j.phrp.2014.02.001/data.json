@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.phrp.2015.07.004","type":"err"},"doi":"10.1016/j.phrp.2014.02.001","journal":"Osong Public Health and Research Perspectives","publisher":"Elsevier BV","title":"Corrigendum to “Exposure to Dichlorodiphenyltrichloroethane and the Risk of Breast Cancer: A Systematic Review and Meta-analysis [Volume 5, Issue 2, April 2014, Pages 77–84]”"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496021090631,
+      "identifier": {
+        "doi": "10.1016/j.phrp.2015.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phrp.2014.02.001"
+  },
+  "journal": "Osong Public Health and Research Perspectives",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exposure to Dichlorodiphenyltrichloroethane and the Risk of Breast Cancer: A Systematic Review and Meta-analysis [Volume 5, Issue 2, April 2014, Pages 77–84]”"
+}

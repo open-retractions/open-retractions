@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.materresbull.2015.03.035","type":"err"},"doi":"10.1016/j.materresbull.2012.02.024","journal":"Materials Research Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, characterization and cation adsorption of p-aminobenzoic acid intercalated on calcium phosphate” [Mater. Res. Bull. 47 (2012) 1539–1543]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496055416571,
+      "identifier": {
+        "doi": "10.1016/j.materresbull.2015.03.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.materresbull.2012.02.024"
+  },
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, characterization and cation adsorption of p-aminobenzoic acid intercalated on calcium phosphate” [Mater. Res. Bull. 47 (2012) 1539–1543]"
+}

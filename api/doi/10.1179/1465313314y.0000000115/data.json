@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1080/14653125.2015.1139957","type":"correction"},"doi":"10.1179/1465313314y.0000000115","journal":"Journal of Orthodontics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645159908,
+      "identifier": {
+        "doi": "10.1080/14653125.2015.1139957"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1465313314y.0000000115"
+  },
+  "journal": "Journal of Orthodontics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

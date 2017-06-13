@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1016/j.polymer.2014.09.027","type":"err"},"doi":"10.1016/j.polymer.2014.04.039","journal":"Polymer","publisher":"Elsevier BV","title":"Corrigendum to “Cross-linked ionic resins and gels from epoxide-functionalized imidazolium ionic liquid monomers” [Polymer 55 (2014) 3305–3313]"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496010062054,
+      "identifier": {
+        "doi": "10.1016/j.polymer.2014.09.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.polymer.2014.04.039"
+  },
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cross-linked ionic resins and gels from epoxide-functionalized imidazolium ionic liquid monomers” [Polymer 55 (2014) 3305–3313]"
+}

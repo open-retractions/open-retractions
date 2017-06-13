@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437523200000,"doi":"10.1017/s031058220001590x","type":"correction"},"doi":"10.1017/s0310582200013730","journal":"The Aboriginal Child at School","publisher":"Cambridge University Press (CUP)","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1437523200000,
+  "updates": [
+    {
+      "timestamp": 1495734889420,
+      "identifier": {
+        "doi": "10.1017/s031058220001590x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0310582200013730"
+  },
+  "journal": "The Aboriginal Child at School",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Errata"
+}

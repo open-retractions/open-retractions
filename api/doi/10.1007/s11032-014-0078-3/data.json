@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399939200000,"doi":"10.1007/s11032-014-0099-y","type":"correction"},"doi":"10.1007/s11032-014-0078-3","journal":"Molecular Breeding","publisher":"Springer Nature","title":"Erratum to: Reference genes for transcriptional analysis of flowering and fruit ripening stages in apple (Malus × domestica Borkh.)"}
+{
+  "retracted": false,
+  "timestamp": 1399939200000,
+  "updates": [
+    {
+      "timestamp": 1496037983657,
+      "identifier": {
+        "doi": "10.1007/s11032-014-0099-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11032-014-0078-3"
+  },
+  "journal": "Molecular Breeding",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reference genes for transcriptional analysis of flowering and fruit ripening stages in apple (Malus × domestica Borkh.)"
+}

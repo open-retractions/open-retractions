@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.eswa.2015.11.021","type":"err"},"doi":"10.1016/j.eswa.2015.08.049","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Erratum to “New results on inconsistency indices and their relationship with the quality of priority vector estimation” Expert Systems with Applications 43 (2016) 197–212"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1496052613386,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2015.11.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2015.08.049"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “New results on inconsistency indices and their relationship with the quality of priority vector estimation” Expert Systems with Applications 43 (2016) 197–212"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.2337/dc13-er12a","type":"correction"},"doi":"10.2337/dc12-2491","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial. Diabetes Care 2013;36:2508-2515"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495999909789,
+      "identifier": {
+        "doi": "10.2337/dc13-er12a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc12-2491"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Canagliflozin compared with sitagliptin for patients with type 2 diabetes who do not have adequate glycemic control with metformin plus sulfonylurea: a 52-week randomized trial. Diabetes Care 2013;36:2508-2515"
+}

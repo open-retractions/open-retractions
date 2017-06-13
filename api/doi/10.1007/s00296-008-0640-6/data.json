@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1216684800000,"doi":"10.1007/s00296-008-0646-0","type":"correction"},"doi":"10.1007/s00296-008-0640-6","journal":"Rheumatology International","publisher":"Springer Nature","title":"Paget’s disease of bone: a review"}
+{
+  "retracted": false,
+  "timestamp": 1216684800000,
+  "updates": [
+    {
+      "timestamp": 1495866280658,
+      "identifier": {
+        "doi": "10.1007/s00296-008-0646-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00296-008-0640-6"
+  },
+  "journal": "Rheumatology International",
+  "publisher": "Springer Nature",
+  "title": "Paget’s disease of bone: a review"
+}

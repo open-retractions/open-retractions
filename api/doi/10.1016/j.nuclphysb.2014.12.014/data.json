@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.nuclphysb.2015.09.017","type":"err"},"doi":"10.1016/j.nuclphysb.2014.12.014","journal":"Nuclear Physics B","publisher":"Elsevier BV","title":"Corrigendum to “Integrals of motion in the many-body localized phase” [Nucl. Phys. B 891 (2015) 420–465]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496035004825,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysb.2015.09.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysb.2014.12.014"
+  },
+  "journal": "Nuclear Physics B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Integrals of motion in the many-body localized phase” [Nucl. Phys. B 891 (2015) 420–465]"
+}

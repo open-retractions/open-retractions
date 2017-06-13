@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456444800000,"doi":"10.1080/14786451.2016.1151992","type":"correction"},"doi":"10.1080/14786451.2014.998674","journal":"International Journal of Sustainable Energy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456444800000,
+  "updates": [
+    {
+      "timestamp": 1495648572761,
+      "identifier": {
+        "doi": "10.1080/14786451.2016.1151992"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14786451.2014.998674"
+  },
+  "journal": "International Journal of Sustainable Energy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

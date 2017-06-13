@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379635200000,"doi":"10.1371/annotation/23c9bde1-5ced-4eb9-8a73-c53f3f2913d4","type":"correction"},"doi":"10.1371/journal.pone.0070353","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: TACC3 Is Essential for EGF-Mediated EMT in Cervical Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1379635200000,
+  "updates": [
+    {
+      "timestamp": 1496047887613,
+      "identifier": {
+        "doi": "10.1371/annotation/23c9bde1-5ced-4eb9-8a73-c53f3f2913d4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070353"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: TACC3 Is Essential for EGF-Mediated EMT in Cervical Cancer"
+}

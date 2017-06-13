@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":702086400000,"doi":"10.1128/mcb.12.4.1903","type":"correction"},"doi":"10.1128/mcb.11.10.5164","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Complex recognition site for the group I intron-encoded endonuclease I-SceII.:"}
+{
+  "retracted": false,
+  "timestamp": 702086400000,
+  "updates": [
+    {
+      "timestamp": 1496035220468,
+      "identifier": {
+        "doi": "10.1128/mcb.12.4.1903"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.11.10.5164"
+  },
+  "publisher": "American Society for Microbiology",
+  "title": "Complex recognition site for the group I intron-encoded endonuclease I-SceII.:"
+}

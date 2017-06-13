@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jchromb.2016.03.010","type":"err"},"doi":"10.1016/j.jchromb.2015.06.007","journal":"Journal of Chromatography B","publisher":"Elsevier BV","title":"Corrigendum to “A simple high performance liquid chromatography method for quantitatively determining the reduced form of peroxiredoxin 2 and the mass spectrometric analysis of its oxidative status” [J. Chromatogr. B Analyt. Technol. Biomed. Life. Sci. 997 (2015) 136–141]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495657117088,
+      "identifier": {
+        "doi": "10.1016/j.jchromb.2016.03.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jchromb.2015.06.007"
+  },
+  "journal": "Journal of Chromatography B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A simple high performance liquid chromatography method for quantitatively determining the reduced form of peroxiredoxin 2 and the mass spectrometric analysis of its oxidative status” [J. Chromatogr. B Analyt. Technol. Biomed. Life. Sci. 997 (2015) 136–141]"
+}

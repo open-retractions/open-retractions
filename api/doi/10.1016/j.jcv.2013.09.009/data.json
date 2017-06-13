@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jcv.2013.09.010","type":"err"},"doi":"10.1016/j.jcv.2013.09.009","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Accuracy of a commercially available assay for HCV genotyping and subtyping in the clinical practice"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496053396750,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2013.09.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2013.09.009"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Accuracy of a commercially available assay for HCV genotyping and subtyping in the clinical practice"
+}

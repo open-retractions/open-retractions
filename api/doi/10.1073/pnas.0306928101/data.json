@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1083024000000,"doi":"10.1073/pnas.0402005101","type":"correction"},"doi":"10.1073/pnas.0306928101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Onwueme et al., Mycobacterial polyketide-associated proteins are acyltransferases: Proof of principle with Mycobacterium tuberculosis PapA5, PNAS 2004 101:4608-4613"}
+{
+  "retracted": false,
+  "timestamp": 1083024000000,
+  "updates": [
+    {
+      "timestamp": 1495816435061,
+      "identifier": {
+        "doi": "10.1073/pnas.0402005101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0306928101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Onwueme et al., Mycobacterial polyketide-associated proteins are acyltransferases: Proof of principle with Mycobacterium tuberculosis PapA5, PNAS 2004 101:4608-4613"
+}

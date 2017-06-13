@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408060800000,"doi":"10.1016/j.jplph.2014.04.011","type":"err"},"doi":"10.1016/j.jplph.2012.01.005","journal":"Journal of Plant Physiology","publisher":"Elsevier BV","title":"Erratum to “Stem sugar accumulation in sweet sorghum – Activity and expression of sucrose metabolizing enzymes and sucrose transporters” [J. Plant Physiol. 169 (2012) 605–613]"}
+{
+  "retracted": false,
+  "timestamp": 1408060800000,
+  "updates": [
+    {
+      "timestamp": 1496048504445,
+      "identifier": {
+        "doi": "10.1016/j.jplph.2014.04.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jplph.2012.01.005"
+  },
+  "journal": "Journal of Plant Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Stem sugar accumulation in sweet sorghum – Activity and expression of sucrose metabolizing enzymes and sucrose transporters” [J. Plant Physiol. 169 (2012) 605–613]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466985600000,"doi":"10.1038/srep26366","type":"correction"},"doi":"10.1038/srep24283","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Theory of Thomson scattering in inhomogeneous media"}
+{
+  "retracted": false,
+  "timestamp": 1466985600000,
+  "updates": [
+    {
+      "timestamp": 1495722830430,
+      "identifier": {
+        "doi": "10.1038/srep26366"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep24283"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Theory of Thomson scattering in inhomogeneous media"
+}

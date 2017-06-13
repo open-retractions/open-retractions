@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.rmed.2015.09.008","type":"err"},"doi":"10.1016/j.rmed.2015.06.006","journal":"Respiratory Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Efficacy and safety of umeclidinium added to fluticasone furoate/vilanterol in chronic obstructive pulmonary disease: Results of two randomized studies” [Respir. Med. 109 (2015) 1155–1163]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496034622168,
+      "identifier": {
+        "doi": "10.1016/j.rmed.2015.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmed.2015.06.006"
+  },
+  "journal": "Respiratory Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficacy and safety of umeclidinium added to fluticasone furoate/vilanterol in chronic obstructive pulmonary disease: Results of two randomized studies” [Respir. Med. 109 (2015) 1155–1163]"
+}

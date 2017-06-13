@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1295568000000,"doi":"10.1007/s00204-011-0647-8","type":"correction"},"doi":"10.1007/s00204-010-0626-5","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Erratum to: Nephrotoxicity of contrast media and protective effects of acetylcysteine"}
+{
+  "retracted": false,
+  "timestamp": 1295568000000,
+  "updates": [
+    {
+      "timestamp": 1495920285269,
+      "identifier": {
+        "doi": "10.1007/s00204-011-0647-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-010-0626-5"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nephrotoxicity of contrast media and protective effects of acetylcysteine"
+}

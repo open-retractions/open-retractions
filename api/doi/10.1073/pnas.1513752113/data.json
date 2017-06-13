@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1073/pnas.1600692113","type":"correction"},"doi":"10.1073/pnas.1513752113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Riedl et al., Metabolic connectivity mapping reveals effective connectivity in the resting human brain"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495645572381,
+      "identifier": {
+        "doi": "10.1073/pnas.1600692113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1513752113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Riedl et al., Metabolic connectivity mapping reveals effective connectivity in the resting human brain"
+}

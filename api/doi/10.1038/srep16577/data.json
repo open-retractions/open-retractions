@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1038/srep18552","type":"correction"},"doi":"10.1038/srep16577","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Pyruvate Dehydrogenase Kinase 4 Promotes Vascular Calcification via SMAD1/5/8 Phosphorylation"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640246699,
+      "identifier": {
+        "doi": "10.1038/srep18552"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep16577"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Pyruvate Dehydrogenase Kinase 4 Promotes Vascular Calcification via SMAD1/5/8 Phosphorylation"
+}

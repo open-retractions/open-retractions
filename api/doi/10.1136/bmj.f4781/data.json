@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375833600000,"doi":"10.1136/bmj.f5207","type":"correction"},"doi":"10.1136/bmj.f4781","journal":"BMJ","publisher":"BMJ","title":"Developing role of HPV in cervical cancer prevention"}
+{
+  "retracted": false,
+  "timestamp": 1375833600000,
+  "updates": [
+    {
+      "timestamp": 1496040811354,
+      "identifier": {
+        "doi": "10.1136/bmj.f5207"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f4781"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Developing role of HPV in cervical cancer prevention"
+}

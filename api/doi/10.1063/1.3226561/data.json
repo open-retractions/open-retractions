@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482969600000,"doi":"10.1063/1.4973240","type":"erratum"},"doi":"10.1063/1.3226561","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Study of SF6 adsorption on graphite using infrared spectroscopy” [J. Chem. Phys. 131, 124709 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1482969600000,
+  "updates": [
+    {
+      "timestamp": 1495670195481,
+      "identifier": {
+        "doi": "10.1063/1.4973240"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3226561"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Study of SF6 adsorption on graphite using infrared spectroscopy” [J. Chem. Phys. 131, 124709 (2009)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.quageo.2015.09.004","type":"err"},"doi":"10.1016/j.quageo.2015.05.006","journal":"Quaternary Geochronology","publisher":"Elsevier BV","title":"Corrigendum to ‘Radiocarbon reservoir corrections on the Brazilian coast from prebomb marine shells’ [Quat. Geochronol. 29 (2015) 30–35]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496050095223,
+      "identifier": {
+        "doi": "10.1016/j.quageo.2015.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.quageo.2015.05.006"
+  },
+  "journal": "Quaternary Geochronology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Radiocarbon reservoir corrections on the Brazilian coast from prebomb marine shells’ [Quat. Geochronol. 29 (2015) 30–35]"
+}

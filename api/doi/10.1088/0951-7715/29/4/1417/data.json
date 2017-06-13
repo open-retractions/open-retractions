@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1088/0951-7715/29/12/c4","type":"correction"},"doi":"10.1088/0951-7715/29/4/1417","journal":"Nonlinearity","publisher":"IOP Publishing","title":"Corrigendum: Mixing rates and limit theorems for random intermittent maps (2016 Nonlinearity 29 1417)"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495656451043,
+      "identifier": {
+        "doi": "10.1088/0951-7715/29/12/c4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0951-7715/29/4/1417"
+  },
+  "journal": "Nonlinearity",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Mixing rates and limit theorems for random intermittent maps (2016 Nonlinearity 29 1417)"
+}

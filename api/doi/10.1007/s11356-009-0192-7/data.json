@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1247616000000,"doi":"10.1007/s11356-009-0225-2","type":"correction"},"doi":"10.1007/s11356-009-0192-7","journal":"Environmental Science and Pollution Research","publisher":"Springer Nature","title":"Preface"}
+{
+  "retracted": false,
+  "timestamp": 1247616000000,
+  "updates": [
+    {
+      "timestamp": 1495931719329,
+      "identifier": {
+        "doi": "10.1007/s11356-009-0225-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11356-009-0192-7"
+  },
+  "journal": "Environmental Science and Pollution Research",
+  "publisher": "Springer Nature",
+  "title": "Preface"
+}

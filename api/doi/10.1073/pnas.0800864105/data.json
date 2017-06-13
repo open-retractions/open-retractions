@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1228176000000,"doi":"10.1073/pnas.1116142108","type":"correction"},"doi":"10.1073/pnas.0800864105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Qudeimat et al., A PIIB-type Ca2+-ATPase is essential for stress adaptation in Physcomitrella patens"}
+{
+  "retracted": false,
+  "timestamp": 1228176000000,
+  "updates": [
+    {
+      "timestamp": 1495818802654,
+      "identifier": {
+        "doi": "10.1073/pnas.1116142108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0800864105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Qudeimat et al., A PIIB-type Ca2+-ATPase is essential for stress adaptation in Physcomitrella patens"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436918400000,"doi":"10.1038/srep09731","type":"correction"},"doi":"10.1038/srep08366","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: CRISPR-engineered mosaicism rapidly reveals that loss of Kcnj13 function in mice mimics human disease phenotypes"}
+{
+  "retracted": false,
+  "timestamp": 1436918400000,
+  "updates": [
+    {
+      "timestamp": 1496015645042,
+      "identifier": {
+        "doi": "10.1038/srep09731"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep08366"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: CRISPR-engineered mosaicism rapidly reveals that loss of Kcnj13 function in mice mimics human disease phenotypes"
+}

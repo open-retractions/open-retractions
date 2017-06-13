@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407369600000,"doi":"10.1007/s00415-014-7451-3","type":"correction"},"doi":"10.1007/s00415-013-7218-2","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Time intervals from aneurysmal subarachnoid hemorrhage to treatment and factors contributing to delay"}
+{
+  "retracted": false,
+  "timestamp": 1407369600000,
+  "updates": [
+    {
+      "timestamp": 1496001593921,
+      "identifier": {
+        "doi": "10.1007/s00415-014-7451-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-013-7218-2"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Time intervals from aneurysmal subarachnoid hemorrhage to treatment and factors contributing to delay"
+}

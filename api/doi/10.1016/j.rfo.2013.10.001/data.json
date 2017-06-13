@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.rfo.2014.02.008","type":"err"},"doi":"10.1016/j.rfo.2013.10.001","journal":"Revue Francophone d'Orthoptie","publisher":"Elsevier BV","title":"Erratum à l’article « Miroir, mon beau miroir, dis-moi ce que je dois voir... » [Revue Francophone d’Orthoptie 6 (2013) 186–88]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496001026430,
+      "identifier": {
+        "doi": "10.1016/j.rfo.2014.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rfo.2013.10.001"
+  },
+  "journal": "Revue Francophone d'Orthoptie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à l’article « Miroir, mon beau miroir, dis-moi ce que je dois voir... » [Revue Francophone d’Orthoptie 6 (2013) 186–88]"
+}

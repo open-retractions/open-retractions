@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455321600000,"doi":"10.1007/s10894-016-0072-3","type":"correction"},"doi":"10.1007/s10894-015-0028-z","journal":"Journal of Fusion Energy","publisher":"Springer Nature","title":"Erratum to: The Study of the Dynamics of Z Pinch Plasma Using Electromagnetic, Thermal and Circuital Coupling"}
+{
+  "retracted": false,
+  "timestamp": 1455321600000,
+  "updates": [
+    {
+      "timestamp": 1495644481171,
+      "identifier": {
+        "doi": "10.1007/s10894-016-0072-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10894-015-0028-z"
+  },
+  "journal": "Journal of Fusion Energy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Study of the Dynamics of Z Pinch Plasma Using Electromagnetic, Thermal and Circuital Coupling"
+}

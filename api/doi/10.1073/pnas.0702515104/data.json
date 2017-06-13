@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1197936000000,"doi":"10.1073/pnas.0710636105","type":"correction"},"doi":"10.1073/pnas.0702515104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Barth et al., Toward high-resolution prediction and design of transmembrane helical protein structures"}
+{
+  "retracted": false,
+  "timestamp": 1197936000000,
+  "updates": [
+    {
+      "timestamp": 1495810058897,
+      "identifier": {
+        "doi": "10.1073/pnas.0710636105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0702515104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Barth et al., Toward high-resolution prediction and design of transmembrane helical protein structures"
+}

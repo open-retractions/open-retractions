@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473811200000,"doi":"10.1016/j.vaccine.2016.08.031","type":"erratum"},"doi":"10.1016/j.vaccine.2016.04.032","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to ‘Morning vaccination enhances antibody response over afternoon vaccination: A cluster-randomised trial’ [Vaccine 34 (2016) 2679–2685]"}
+{
+  "retracted": false,
+  "timestamp": 1473811200000,
+  "updates": [
+    {
+      "timestamp": 1496462639584,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2016.08.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2016.04.032"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Morning vaccination enhances antibody response over afternoon vaccination: A cluster-randomised trial’ [Vaccine 34 (2016) 2679–2685]"
+}

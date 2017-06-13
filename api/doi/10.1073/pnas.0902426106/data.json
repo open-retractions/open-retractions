@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437436800000,"doi":"10.1073/pnas.1507989112","type":"correction"},"doi":"10.1073/pnas.0902426106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhou et al., NPAS3 is a trachealess homolog critical for lung development and homeostasis: Fig. 4."}
+{
+  "retracted": false,
+  "timestamp": 1437436800000,
+  "updates": [
+    {
+      "timestamp": 1496014031376,
+      "identifier": {
+        "doi": "10.1073/pnas.1507989112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0902426106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhou et al., NPAS3 is a trachealess homolog critical for lung development and homeostasis: Fig. 4."
+}

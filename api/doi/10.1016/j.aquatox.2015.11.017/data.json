@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.aquatox.2016.01.015","type":"erratum"},"doi":"10.1016/j.aquatox.2015.11.017","journal":"Aquatic Toxicology","publisher":"Elsevier BV","title":"Corrigendum to “Carbendazim exposure induces developmental, biochemical and behavioural disturbance in zebrafish embryos” [Aquat. Toxicol. 170 (2016) 390–399]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495642901624,
+      "identifier": {
+        "doi": "10.1016/j.aquatox.2016.01.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquatox.2015.11.017"
+  },
+  "journal": "Aquatic Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Carbendazim exposure induces developmental, biochemical and behavioural disturbance in zebrafish embryos” [Aquat. Toxicol. 170 (2016) 390–399]"
+}

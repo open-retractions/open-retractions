@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.ocecoaman.2014.02.015","type":"err"},"doi":"10.1016/j.ocecoaman.2013.11.006","journal":"Ocean & Coastal Management","publisher":"Elsevier BV","title":"Corrigendum to “Interactions among shrimp and “catarina” clam fisheries at Magdalena Bay, Baja California Sur Mexico” [Ocean Coast. Manag. 88 (2014) 31–37]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496027410819,
+      "identifier": {
+        "doi": "10.1016/j.ocecoaman.2014.02.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ocecoaman.2013.11.006"
+  },
+  "journal": "Ocean & Coastal Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interactions among shrimp and “catarina” clam fisheries at Magdalena Bay, Baja California Sur Mexico” [Ocean Coast. Manag. 88 (2014) 31–37]"
+}

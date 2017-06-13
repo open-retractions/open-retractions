@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460592000000,"doi":"10.1016/j.jsv.2015.12.045","type":"err"},"doi":"10.1016/j.jsv.2013.11.022","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Revisiting a magneto-elastic strange attractor” [J. Sound Vib. 333 (6) (2014) 1767–1780]"}
+{
+  "retracted": false,
+  "timestamp": 1460592000000,
+  "updates": [
+    {
+      "timestamp": 1496060271023,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2015.12.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2013.11.022"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Revisiting a magneto-elastic strange attractor” [J. Sound Vib. 333 (6) (2014) 1767–1780]"
+}

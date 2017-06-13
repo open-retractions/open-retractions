@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245110400000,"doi":"10.1140/epjc/s10052-009-1070-7","type":"correction"},"doi":"10.1140/epjc/s10052-009-0895-4","journal":"The European Physical Journal C","publisher":"Springer Nature","title":"Simulation study of χ c →J/Ψ+γ detection with J/Ψ→e + e − in pp collisions in the ALICE experiment at LHC"}
+{
+  "retracted": false,
+  "timestamp": 1245110400000,
+  "updates": [
+    {
+      "timestamp": 1495957868552,
+      "identifier": {
+        "doi": "10.1140/epjc/s10052-009-1070-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjc/s10052-009-0895-4"
+  },
+  "journal": "The European Physical Journal C",
+  "publisher": "Springer Nature",
+  "title": "Simulation study of χ c →J/Ψ+γ detection with J/Ψ→e + e − in pp collisions in the ALICE experiment at LHC"
+}

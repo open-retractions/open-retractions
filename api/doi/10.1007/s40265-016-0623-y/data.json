@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472860800000,"doi":"10.1007/s40265-016-0637-5","type":"correction"},"doi":"10.1007/s40265-016-0623-y","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Opicapone: A Review in Parkinson’s Disease"}
+{
+  "retracted": false,
+  "timestamp": 1472860800000,
+  "updates": [
+    {
+      "timestamp": 1495742350300,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0637-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-016-0623-y"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Opicapone: A Review in Parkinson’s Disease"
+}

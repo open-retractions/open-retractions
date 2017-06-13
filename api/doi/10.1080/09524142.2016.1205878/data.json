@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486339200000,"doi":"10.1080/09524142.2017.1284368","type":"correction"},"doi":"10.1080/09524142.2016.1205878","journal":"The Keats-Shelley Review","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1486339200000,
+  "updates": [
+    {
+      "timestamp": 1495718027308,
+      "identifier": {
+        "doi": "10.1080/09524142.2017.1284368"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09524142.2016.1205878"
+  },
+  "journal": "The Keats-Shelley Review",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

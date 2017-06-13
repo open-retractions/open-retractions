@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411171200000,"doi":"10.1016/j.ins.2014.01.034","type":"err"},"doi":"10.1016/j.ins.2013.03.021","journal":"Information Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Memetic multiobjective particle swarm optimization-based radial basis function network for classification problems” [Inform. Sci. 239 (2013) 165–190]"}
+{
+  "retracted": false,
+  "timestamp": 1411171200000,
+  "updates": [
+    {
+      "timestamp": 1496015873256,
+      "identifier": {
+        "doi": "10.1016/j.ins.2014.01.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2013.03.021"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Memetic multiobjective particle swarm optimization-based radial basis function network for classification problems” [Inform. Sci. 239 (2013) 165–190]"
+}

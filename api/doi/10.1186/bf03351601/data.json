@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1186/bf03351615","type":"correction"},"doi":"10.1186/bf03351601","journal":"Earth, Planets and Space","publisher":"Springer Nature","title":"Erratum to: Circular asymmetry of the paleomagnetic directions observed at low latitude volcanic sites"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496000579470,
+      "identifier": {
+        "doi": "10.1186/bf03351615"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bf03351601"
+  },
+  "journal": "Earth, Planets and Space",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Circular asymmetry of the paleomagnetic directions observed at low latitude volcanic sites"
+}

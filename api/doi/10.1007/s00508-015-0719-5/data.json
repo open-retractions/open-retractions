@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432684800000,"doi":"10.1007/s00508-015-0793-8","type":"correction"},"doi":"10.1007/s00508-015-0719-5","journal":"Wiener klinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Diagnostic and prognostic value of sCD14-ST—presepsin for patients admitted to hospital intensive care unit (ICU)"}
+{
+  "retracted": false,
+  "timestamp": 1432684800000,
+  "updates": [
+    {
+      "timestamp": 1496002143970,
+      "identifier": {
+        "doi": "10.1007/s00508-015-0793-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00508-015-0719-5"
+  },
+  "journal": "Wiener klinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diagnostic and prognostic value of sCD14-ST—presepsin for patients admitted to hospital intensive care unit (ICU)"
+}

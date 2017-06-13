@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460419200000,"doi":"10.1007/s11227-016-1709-8","type":"correction"},"doi":"10.1007/s11227-016-1690-2","journal":"The Journal of Supercomputing","publisher":"Springer Nature","title":"Erratum to: Cloud service ranking as a multi objective optimization problem"}
+{
+  "retracted": false,
+  "timestamp": 1460419200000,
+  "updates": [
+    {
+      "timestamp": 1495666565874,
+      "identifier": {
+        "doi": "10.1007/s11227-016-1709-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11227-016-1690-2"
+  },
+  "journal": "The Journal of Supercomputing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cloud service ranking as a multi objective optimization problem"
+}

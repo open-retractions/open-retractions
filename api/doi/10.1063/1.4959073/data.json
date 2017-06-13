@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1063/1.4962817","type":"correction"},"doi":"10.1063/1.4959073","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Curvature and bow of bulk GaN substrates” [J. Appl. Phys. 120, 035104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640358395,
+      "identifier": {
+        "doi": "10.1063/1.4962817"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4959073"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Curvature and bow of bulk GaN substrates” [J. Appl. Phys. 120, 035104 (2016)]"
+}

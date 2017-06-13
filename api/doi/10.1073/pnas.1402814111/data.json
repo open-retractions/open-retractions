@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472515200000,"doi":"10.1073/pnas.1611407113","type":"correction"},"doi":"10.1073/pnas.1402814111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for AbouHaidar et al., Novel coding, translation, and gene expression of a replicating covalently closed circular RNA of 220 nt"}
+{
+  "retracted": false,
+  "timestamp": 1472515200000,
+  "updates": [
+    {
+      "timestamp": 1495740155256,
+      "identifier": {
+        "doi": "10.1073/pnas.1611407113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1402814111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for AbouHaidar et al., Novel coding, translation, and gene expression of a replicating covalently closed circular RNA of 220 nt"
+}

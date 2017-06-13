@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451347200000,"doi":"10.1073/pnas.1523893113","type":"correction"},"doi":"10.1073/pnas.1503960112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Mitra et al., Lag threads organize the brain’s intrinsic activity"}
+{
+  "retracted": false,
+  "timestamp": 1451347200000,
+  "updates": [
+    {
+      "timestamp": 1496056191028,
+      "identifier": {
+        "doi": "10.1073/pnas.1523893113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1503960112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Mitra et al., Lag threads organize the brain’s intrinsic activity"
+}

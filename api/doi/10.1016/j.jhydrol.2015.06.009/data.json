@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jhydrol.2015.08.051","type":"erratum"},"doi":"10.1016/j.jhydrol.2015.06.009","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “An innovative method for trend analysis of monthly pan evaporations” [J. Hydrol. 527 (2015) 1123–1129]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496027519012,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2015.08.051"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2015.06.009"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An innovative method for trend analysis of monthly pan evaporations” [J. Hydrol. 527 (2015) 1123–1129]"
+}

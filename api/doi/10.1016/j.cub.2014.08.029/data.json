@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1016/j.cub.2014.11.037","type":"err"},"doi":"10.1016/j.cub.2014.08.029","journal":"Current Biology","publisher":"Elsevier BV","title":"A Unique Set of Centrosome Proteins Requires Pericentrin for Spindle-Pole Localization and Spindle Orientation"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496030487111,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.11.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2014.08.029"
+  },
+  "publisher": "Elsevier BV",
+  "title": "A Unique Set of Centrosome Proteins Requires Pericentrin for Spindle-Pole Localization and Spindle Orientation"
+}

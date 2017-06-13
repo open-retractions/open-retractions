@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":807235200000,"doi":"10.1007/bf02353642","type":"correction"},"doi":"10.1007/bf02353795","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Simple approximate formulas for calculating the time to clear drug and the time to accumulate drug when the plasma disposition curve of the drug is multiexponential"}
+{
+  "retracted": false,
+  "timestamp": 807235200000,
+  "updates": [
+    {
+      "timestamp": 1495990987076,
+      "identifier": {
+        "doi": "10.1007/bf02353642"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02353795"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simple approximate formulas for calculating the time to clear drug and the time to accumulate drug when the plasma disposition curve of the drug is multiexponential"
+}

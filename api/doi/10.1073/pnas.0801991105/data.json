@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217289600000,"doi":"10.1073/pnas.0807512105","type":"correction"},"doi":"10.1073/pnas.0801991105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gongora et al., Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA"}
+{
+  "retracted": false,
+  "timestamp": 1217289600000,
+  "updates": [
+    {
+      "timestamp": 1495879620000,
+      "identifier": {
+        "doi": "10.1073/pnas.0807512105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0801991105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gongora et al., Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA"
+}

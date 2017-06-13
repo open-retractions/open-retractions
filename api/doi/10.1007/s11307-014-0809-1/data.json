@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1007/s11307-015-0837-5","type":"correction"},"doi":"10.1007/s11307-014-0809-1","journal":"Molecular Imaging and Biology","publisher":"Springer Nature","title":"Erratum to: Proceedings of the World Molecular Imaging Congress 2014, Seoul, Korea, September 17-20, 2014"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496047878680,
+      "identifier": {
+        "doi": "10.1007/s11307-015-0837-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11307-014-0809-1"
+  },
+  "journal": "Molecular Imaging and Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Proceedings of the World Molecular Imaging Congress 2014, Seoul, Korea, September 17-20, 2014"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1136/bmj.i5628","type":"correction"},"doi":"10.1136/bmj.i4639","journal":"BMJ","publisher":"BMJ","title":"Tight foreskin"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649774490,
+      "identifier": {
+        "doi": "10.1136/bmj.i5628"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.i4639"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Tight foreskin"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.molonc.2013.12.007","type":"err"},"doi":"10.1016/j.molonc.2013.01.002","journal":"Molecular Oncology","publisher":"Wiley-Blackwell","title":"Corrigendum to “The high mobility group A proteins contribute to thyroid cell transformation by regulating miR-603 and miR-10b expression” [Mol. Oncol. 7 (3) (Jan. 2013) 531-542]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496006579490,
+      "identifier": {
+        "doi": "10.1016/j.molonc.2013.12.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molonc.2013.01.002"
+  },
+  "journal": "Molecular Oncology",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “The high mobility group A proteins contribute to thyroid cell transformation by regulating miR-603 and miR-10b expression” [Mol. Oncol. 7 (3) (Jan. 2013) 531-542]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.yrtph.2015.05.001","type":"err"},"doi":"10.1016/j.yrtph.2014.11.002","journal":"Regulatory Toxicology and Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Use of dose-dependent absorption into target tissues to more accurately predict cancer risk at low oral doses of hexavalent chromium” [Regul. Toxicol. Pharmacol. 71 (1) (2015) 93–100]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495999128231,
+      "identifier": {
+        "doi": "10.1016/j.yrtph.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yrtph.2014.11.002"
+  },
+  "journal": "Regulatory Toxicology and Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Use of dose-dependent absorption into target tissues to more accurately predict cancer risk at low oral doses of hexavalent chromium” [Regul. Toxicol. Pharmacol. 71 (1) (2015) 93–100]"
+}

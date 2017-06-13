@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.apsusc.2013.08.026","type":"err"},"doi":"10.1016/j.apsusc.2013.05.071","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Erratum to “Quantitative roughness characterization and 3D reconstruction of electrode surface using cyclic voltammetry and SEM image” [Appl. Surf. Sci. 282 (2013) 105–114]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496044353099,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2013.08.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2013.05.071"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Quantitative roughness characterization and 3D reconstruction of electrode surface using cyclic voltammetry and SEM image” [Appl. Surf. Sci. 282 (2013) 105–114]"
+}

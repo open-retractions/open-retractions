@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.scienta.2016.09.013","type":"erratum"},"doi":"10.1016/j.scienta.2015.12.049","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Retraction notice to “Drought stress response in long-storage tomatoes: physiological and biochemical traits” HORTI 200C (2015) 25–35"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495645067011,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2016.09.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2015.12.049"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Drought stress response in long-storage tomatoes: physiological and biochemical traits” HORTI 200C (2015) 25–35"
+}

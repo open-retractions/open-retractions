@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":857174400000,"doi":"10.1136/hrt.77.3.294-c","type":"correction"},"doi":"10.1136/hrt.76.6.507","journal":"Heart","publisher":"BMJ","title":"Fludrocortisone in the treatment of hypotensive disorders in the elderly"}
+{
+  "retracted": false,
+  "timestamp": 857174400000,
+  "updates": [
+    {
+      "timestamp": 1495903717652,
+      "identifier": {
+        "doi": "10.1136/hrt.77.3.294-c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/hrt.76.6.507"
+  },
+  "journal": "Heart",
+  "publisher": "BMJ",
+  "title": "Fludrocortisone in the treatment of hypotensive disorders in the elderly"
+}

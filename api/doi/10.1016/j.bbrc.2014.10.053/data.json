@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431043200000,"doi":"10.1016/j.bbrc.2015.04.001","type":"err"},"doi":"10.1016/j.bbrc.2014.10.053","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Disruption of TGF-<beta> signaling in smooth muscle cell prevents elastase-induced abdominal aortic aneurysm” [Biochem. Biophys. Res. Commun. 454 (1) (7 November 2014) 137–143]"}
+{
+  "retracted": false,
+  "timestamp": 1431043200000,
+  "updates": [
+    {
+      "timestamp": 1496056697959,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2014.10.053"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Disruption of TGF-<beta> signaling in smooth muscle cell prevents elastase-induced abdominal aortic aneurysm” [Biochem. Biophys. Res. Commun. 454 (1) (7 November 2014) 137–143]"
+}

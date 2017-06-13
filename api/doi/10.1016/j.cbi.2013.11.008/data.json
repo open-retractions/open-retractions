@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409875200000,"doi":"10.1016/j.cbi.2014.06.011","type":"erratum"},"doi":"10.1016/j.cbi.2013.11.008","journal":"Chemico-Biological Interactions","publisher":"Elsevier BV","title":"Corrigendum to “Exploring the protective role of apocynin, a specific NADPH oxidase inhibitor, in cisplatin-induced cardiotoxicity in rats” [Chem. Biol. Interact. 207 (2014) 58–66]"}
+{
+  "retracted": false,
+  "timestamp": 1409875200000,
+  "updates": [
+    {
+      "timestamp": 1496048311426,
+      "identifier": {
+        "doi": "10.1016/j.cbi.2014.06.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbi.2013.11.008"
+  },
+  "journal": "Chemico-Biological Interactions",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploring the protective role of apocynin, a specific NADPH oxidase inhibitor, in cisplatin-induced cardiotoxicity in rats” [Chem. Biol. Interact. 207 (2014) 58–66]"
+}

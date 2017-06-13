@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.molimm.2014.04.008","type":"err"},"doi":"10.1016/j.molimm.2013.05.221","journal":"Molecular Immunology","publisher":"Elsevier BV","title":"Corrigendum to “An international serum standard for application in assays to detect human complement activation products” [Mol. Immunol. 56 (2013) 232–239]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496038413629,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2014.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2013.05.221"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An international serum standard for application in assays to detect human complement activation products” [Mol. Immunol. 56 (2013) 232–239]"
+}

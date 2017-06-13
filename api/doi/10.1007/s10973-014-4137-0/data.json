@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417824000000,"doi":"10.1007/s10973-014-4312-3","type":"correction"},"doi":"10.1007/s10973-014-4137-0","journal":"Journal of Thermal Analysis and Calorimetry","publisher":"Springer Nature","title":"Erratum to: Thermal characterization of II–VI binary crystals by photopyroelectric calorimetry and infrared lock-in thermography"}
+{
+  "retracted": false,
+  "timestamp": 1417824000000,
+  "updates": [
+    {
+      "timestamp": 1496027573906,
+      "identifier": {
+        "doi": "10.1007/s10973-014-4312-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10973-014-4137-0"
+  },
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermal characterization of II–VI binary crystals by photopyroelectric calorimetry and infrared lock-in thermography"
+}

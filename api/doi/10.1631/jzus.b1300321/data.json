@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415491200000,"doi":"10.1631/jzus.b13e0321","type":"correction"},"doi":"10.1631/jzus.b1300321","journal":"Journal of Zhejiang University SCIENCE B","publisher":"Zhejiang University Press","title":"Erratum to: Identification of a novel mutation in a Chinese family with Nance-Horan syndrome by whole exome sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1415491200000,
+  "updates": [
+    {
+      "timestamp": 1496021341841,
+      "identifier": {
+        "doi": "10.1631/jzus.b13e0321"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1631/jzus.b1300321"
+  },
+  "journal": "Journal of Zhejiang University SCIENCE B",
+  "publisher": "Zhejiang University Press",
+  "title": "Erratum to: Identification of a novel mutation in a Chinese family with Nance-Horan syndrome by whole exome sequencing"
+}

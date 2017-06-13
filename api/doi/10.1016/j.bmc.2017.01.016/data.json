@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1492214400000,"doi":"10.1016/j.bmc.2017.02.053","type":"erratum"},"doi":"10.1016/j.bmc.2017.01.016","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Novel salicylanilides from 4,5-dihalogenated salicylic acids: Synthesis, antimicrobial activity and cytotoxicity” [Bioorg. Med. Chem. 25 (2017) 1524–1532]"}
+{
+  "retracted": false,
+  "timestamp": 1492214400000,
+  "updates": [
+    {
+      "timestamp": 1495727863046,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2017.02.053"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2017.01.016"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Novel salicylanilides from 4,5-dihalogenated salicylic acids: Synthesis, antimicrobial activity and cytotoxicity” [Bioorg. Med. Chem. 25 (2017) 1524–1532]"
+}

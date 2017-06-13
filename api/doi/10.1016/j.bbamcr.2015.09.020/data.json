@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.bbamcr.2015.11.029","type":"erratum"},"doi":"10.1016/j.bbamcr.2015.09.020","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “IRS2 and PTEN are key molecules in controlling insulin sensitivity in podocytes” [Biochim. Biophys. Acta 1853 (12) (2015) 3224–3234]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496050053598,
+      "identifier": {
+        "doi": "10.1016/j.bbamcr.2015.11.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamcr.2015.09.020"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “IRS2 and PTEN are key molecules in controlling insulin sensitivity in podocytes” [Biochim. Biophys. Acta 1853 (12) (2015) 3224–3234]"
+}

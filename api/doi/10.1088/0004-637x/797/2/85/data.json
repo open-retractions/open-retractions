@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488844800000,"doi":"10.3847/1538-4357/aa6042","type":"correction"},"doi":"10.1088/0004-637x/797/2/85","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “Dust and Gas in the Magellanic Clouds from the HERITAGE Herschel Key Project. I. Dust Properties and Insights into the Origin of the Submm Excess Emission” (2014, ApJ, 797, 85)"}
+{
+  "retracted": false,
+  "timestamp": 1488844800000,
+  "updates": [
+    {
+      "timestamp": 1495785778310,
+      "identifier": {
+        "doi": "10.3847/1538-4357/aa6042"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/797/2/85"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “Dust and Gas in the Magellanic Clouds from the HERITAGE Herschel Key Project. I. Dust Properties and Insights into the Origin of the Submm Excess Emission” (2014, ApJ, 797, 85)"
+}

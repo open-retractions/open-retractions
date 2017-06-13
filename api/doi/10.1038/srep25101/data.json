@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1038/srep30222","type":"correction"},"doi":"10.1038/srep25101","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Quantification of topological features in cell meshes to explore E-cadherin dysfunction"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495729037850,
+      "identifier": {
+        "doi": "10.1038/srep30222"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep25101"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Quantification of topological features in cell meshes to explore E-cadherin dysfunction"
+}

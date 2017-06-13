@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407283200000,"doi":"10.1007/s00726-014-1804-1","type":"correction"},"doi":"10.1007/s00726-014-1780-5","journal":"Amino Acids","publisher":"Springer Nature","title":"Erratum to: Efficacy of the designer antimicrobial peptide SHAP1 in wound healing and wound infection"}
+{
+  "retracted": false,
+  "timestamp": 1407283200000,
+  "updates": [
+    {
+      "timestamp": 1495997922535,
+      "identifier": {
+        "doi": "10.1007/s00726-014-1804-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00726-014-1780-5"
+  },
+  "journal": "Amino Acids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Efficacy of the designer antimicrobial peptide SHAP1 in wound healing and wound infection"
+}

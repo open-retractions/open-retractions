@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1240876800000,"doi":"10.1073/pnas.0904226106","type":"correction"},"doi":"10.1073/pnas.0900952106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Fukushima et al., Impact of clock-associated Arabidopsis pseudo-response regulators in metabolic coordination"}
+{
+  "retracted": false,
+  "timestamp": 1240876800000,
+  "updates": [
+    {
+      "timestamp": 1495950693586,
+      "identifier": {
+        "doi": "10.1073/pnas.0904226106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0900952106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Fukushima et al., Impact of clock-associated Arabidopsis pseudo-response regulators in metabolic coordination"
+}

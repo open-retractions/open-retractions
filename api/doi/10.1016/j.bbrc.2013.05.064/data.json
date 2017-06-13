@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372982400000,"doi":"10.1016/j.bbrc.2013.06.071","type":"err"},"doi":"10.1016/j.bbrc.2013.05.064","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Erratum to ‘TRIM39R, but not TRIM39B, regulates type I interferon response’ [Biochem. Biophys. Res. Commun. 436(1) (2013) 90–95]"}
+{
+  "retracted": false,
+  "timestamp": 1372982400000,
+  "updates": [
+    {
+      "timestamp": 1496031261708,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2013.06.071"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2013.05.064"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘TRIM39R, but not TRIM39B, regulates type I interferon response’ [Biochem. Biophys. Res. Commun. 436(1) (2013) 90–95]"
+}

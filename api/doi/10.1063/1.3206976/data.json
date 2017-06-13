@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370476800000,"doi":"10.1063/1.4810796","type":"correction"},"doi":"10.1063/1.3206976","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Toroidal flow and radial particle flux in tokamak plasmas” [Phys. Plasmas 16, 082504 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1370476800000,
+  "updates": [
+    {
+      "timestamp": 1496024074675,
+      "identifier": {
+        "doi": "10.1063/1.4810796"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3206976"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Toroidal flow and radial particle flux in tokamak plasmas” [Phys. Plasmas 16, 082504 (2009)]"
+}

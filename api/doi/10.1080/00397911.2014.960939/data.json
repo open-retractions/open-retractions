@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1080/00397911.2015.1061299","type":"correction"},"doi":"10.1080/00397911.2014.960939","journal":"Synthetic Communications","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496016928725,
+      "identifier": {
+        "doi": "10.1080/00397911.2015.1061299"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00397911.2014.960939"
+  },
+  "journal": "Synthetic Communications",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

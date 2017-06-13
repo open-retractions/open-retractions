@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.materresbull.2015.09.002","type":"err"},"doi":"10.1016/j.materresbull.2014.10.042","journal":"Materials Research Bulletin","publisher":"Elsevier BV","title":"Erratum to “Characterization and pozzolanic properties of calcined alum sludge” [Mater. Res. Bull. 61 (2015) 415–421]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496031012518,
+      "identifier": {
+        "doi": "10.1016/j.materresbull.2015.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.materresbull.2014.10.042"
+  },
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Characterization and pozzolanic properties of calcined alum sludge” [Mater. Res. Bull. 61 (2015) 415–421]"
+}

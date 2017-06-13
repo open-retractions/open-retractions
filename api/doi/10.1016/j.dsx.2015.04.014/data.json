@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.dsx.2016.02.001","type":"err"},"doi":"10.1016/j.dsx.2015.04.014","journal":"Diabetes & Metabolic Syndrome: Clinical Research & Reviews","publisher":"Elsevier BV","title":"Corrigendum to “The impact of thiamine supplementation on blood pressure, serum lipids and C-reactive protein in individuals with hyperglycemia: A randomised, double-blind cross-over trial” [Diabetes Metab. Syndr.: Clin. Res. Rev. 9 (2015) 213–217]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495651001809,
+      "identifier": {
+        "doi": "10.1016/j.dsx.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsx.2015.04.014"
+  },
+  "journal": "Diabetes & Metabolic Syndrome: Clinical Research & Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The impact of thiamine supplementation on blood pressure, serum lipids and C-reactive protein in individuals with hyperglycemia: A randomised, double-blind cross-over trial” [Diabetes Metab. Syndr.: Clin. Res. Rev. 9 (2015) 213–217]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.intimp.2016.02.031","type":"err"},"doi":"10.1016/j.intimp.2015.09.007","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Sargaquinoic acid attenuates inflammatory responses by regulating NF-KB and Nrf2 pathways in lipopolysaccharide-stimulated RAW 264.7 cells” [International Immunopharmacology 29/2 (2015) 693–700]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495650304360,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2016.02.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2015.09.007"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sargaquinoic acid attenuates inflammatory responses by regulating NF-KB and Nrf2 pathways in lipopolysaccharide-stimulated RAW 264.7 cells” [International Immunopharmacology 29/2 (2015) 693–700]"
+}

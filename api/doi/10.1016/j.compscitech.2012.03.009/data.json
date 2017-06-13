@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391126400000,"doi":"10.1016/j.compscitech.2013.12.017","type":"err"},"doi":"10.1016/j.compscitech.2012.03.009","journal":"Composites Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Effect of kneading process conditions on the particle fineness and the polydispersity in nanocomposites” [Compos. Sci. Technol. 72 (2012) 939–947]"}
+{
+  "retracted": false,
+  "timestamp": 1391126400000,
+  "updates": [
+    {
+      "timestamp": 1496008242453,
+      "identifier": {
+        "doi": "10.1016/j.compscitech.2013.12.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compscitech.2012.03.009"
+  },
+  "journal": "Composites Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of kneading process conditions on the particle fineness and the polydispersity in nanocomposites” [Compos. Sci. Technol. 72 (2012) 939–947]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403654400000,"doi":"10.1007/s10530-014-0727-9","type":"correction"},"doi":"10.1007/s10530-014-0677-2","journal":"Biological Invasions","publisher":"Springer Nature","title":"Erratum to: Persistence of an invasive fish (Neogobius melanostomus) in a contaminated ecosystem"}
+{
+  "retracted": false,
+  "timestamp": 1403654400000,
+  "updates": [
+    {
+      "timestamp": 1496048184055,
+      "identifier": {
+        "doi": "10.1007/s10530-014-0727-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10530-014-0677-2"
+  },
+  "journal": "Biological Invasions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Persistence of an invasive fish (Neogobius melanostomus) in a contaminated ecosystem"
+}

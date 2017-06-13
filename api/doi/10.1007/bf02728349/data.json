@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1211587200000,"doi":"10.1007/bf02728668","type":"correction"},"doi":"10.1007/bf02728349","journal":"Il Nuovo Cimento B","publisher":"Springer Nature","title":"Erratum to: Stochasticity threshold for classical Hamiltonian systems"}
+{
+  "retracted": false,
+  "timestamp": 1211587200000,
+  "updates": [
+    {
+      "timestamp": 1495857801342,
+      "identifier": {
+        "doi": "10.1007/bf02728668"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02728349"
+  },
+  "journal": "Il Nuovo Cimento B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Stochasticity threshold for classical Hamiltonian systems"
+}

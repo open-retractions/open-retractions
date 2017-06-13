@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383523200000,"doi":"10.1016/j.physletb.2013.09.029","type":"erratum"},"doi":"10.1016/j.physletb.2013.01.050","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “A critical assessment of the angular momentum sum rules” [Phys. Lett. B 720 (1–3) (2013) 120-124]"}
+{
+  "retracted": false,
+  "timestamp": 1383523200000,
+  "updates": [
+    {
+      "timestamp": 1496048514959,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2013.09.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2013.01.050"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A critical assessment of the angular momentum sum rules” [Phys. Lett. B 720 (1–3) (2013) 120-124]"
+}

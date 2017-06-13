@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485820800000,"doi":"10.1007/s10534-017-9995-z","type":"correction"},"doi":"10.1007/s10534-017-9992-2","journal":"BioMetals","publisher":"Springer Nature","title":"Erratum to: Genome-wide exploration of silicon (Si) transporter genes, Lsi1 and Lsi2 in plants; insights into Si-accumulation status/capacity of plants"}
+{
+  "retracted": false,
+  "timestamp": 1485820800000,
+  "updates": [
+    {
+      "timestamp": 1495681872539,
+      "identifier": {
+        "doi": "10.1007/s10534-017-9995-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10534-017-9992-2"
+  },
+  "journal": "BioMetals",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genome-wide exploration of silicon (Si) transporter genes, Lsi1 and Lsi2 in plants; insights into Si-accumulation status/capacity of plants"
+}

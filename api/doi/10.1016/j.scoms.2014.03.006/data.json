@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.scoms.2014.08.001","type":"err"},"doi":"10.1016/j.scoms.2014.03.006","journal":"Studies in Communication Sciences","publisher":"Elsevier BV","title":"Corrigendum to “The Pragmatic Metamodel of Communication: A cultural approach to interaction” [Stud. Commun. Sci. 14 (2014) 86–93]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496005354795,
+      "identifier": {
+        "doi": "10.1016/j.scoms.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scoms.2014.03.006"
+  },
+  "journal": "Studies in Communication Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Pragmatic Metamodel of Communication: A cultural approach to interaction” [Stud. Commun. Sci. 14 (2014) 86–93]"
+}

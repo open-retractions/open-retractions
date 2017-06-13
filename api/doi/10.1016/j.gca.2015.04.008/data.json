@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.gca.2015.07.031","type":"err"},"doi":"10.1016/j.gca.2015.04.008","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Equilibrium magnesium isotope fractionation between aqueous Mg2+ and carbonate minerals: Insights from path integral molecular dynamics” [Geochim. Cosmochim. Acta 163 (2015) 126–139]"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496024474520,
+      "identifier": {
+        "doi": "10.1016/j.gca.2015.07.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2015.04.008"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Equilibrium magnesium isotope fractionation between aqueous Mg2+ and carbonate minerals: Insights from path integral molecular dynamics” [Geochim. Cosmochim. Acta 163 (2015) 126–139]"
+}

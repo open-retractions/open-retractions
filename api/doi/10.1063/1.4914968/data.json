@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463616000000,"doi":"10.1063/1.4952406","type":"correction"},"doi":"10.1063/1.4914968","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Charge trapping at the MoS2-SiO2 interface and its effects on the characteristics of MoS2 metal-oxide-semiconductor field effect transistors” [Appl. Phys. Lett. 106, 103109 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1463616000000,
+  "updates": [
+    {
+      "timestamp": 1495678316275,
+      "identifier": {
+        "doi": "10.1063/1.4952406"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4914968"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Charge trapping at the MoS2-SiO2 interface and its effects on the characteristics of MoS2 metal-oxide-semiconductor field effect transistors” [Appl. Phys. Lett. 106, 103109 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337731200000,"doi":"10.1371/annotation/a245f079-8184-47da-93d5-7d9e34e54279","type":"correction"},"doi":"10.1371/journal.pone.0029515","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Role of Zebrafish Lbx2 in Embryonic Lateral Line Development"}
+{
+  "retracted": false,
+  "timestamp": 1337731200000,
+  "updates": [
+    {
+      "timestamp": 1495896505384,
+      "identifier": {
+        "doi": "10.1371/annotation/a245f079-8184-47da-93d5-7d9e34e54279"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029515"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Role of Zebrafish Lbx2 in Embryonic Lateral Line Development"
+}

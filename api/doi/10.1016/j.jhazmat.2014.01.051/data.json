@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455321600000,"doi":"10.1016/j.jhazmat.2015.10.068","type":"err"},"doi":"10.1016/j.jhazmat.2014.01.051","journal":"Journal of Hazardous Materials","publisher":"Elsevier BV","title":"Corrigendum to “Importance of reduced sulfur for the equilibrium chemistry and kinetics of Fe(II), Co(II) and Ni(II) supplemented to semi-continuous stirred tank biogas reactors fed with stillage” [J. Hazard. Mater. 269 (2014) 83–88]"}
+{
+  "retracted": false,
+  "timestamp": 1455321600000,
+  "updates": [
+    {
+      "timestamp": 1496044727554,
+      "identifier": {
+        "doi": "10.1016/j.jhazmat.2015.10.068"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhazmat.2014.01.051"
+  },
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Importance of reduced sulfur for the equilibrium chemistry and kinetics of Fe(II), Co(II) and Ni(II) supplemented to semi-continuous stirred tank biogas reactors fed with stillage” [J. Hazard. Mater. 269 (2014) 83–88]"
+}

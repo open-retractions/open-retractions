@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.molstruc.2015.02.026","type":"err"},"doi":"10.1016/j.molstruc.2014.01.038","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, structural features, and methyl methacrylate polymerisation of binuclear zinc(II) complexes with tetradentate pyrazolyl ligands” [J. Mol. Struct. 1063 (2014) 70–76]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496046952768,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2015.02.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2014.01.038"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, structural features, and methyl methacrylate polymerisation of binuclear zinc(II) complexes with tetradentate pyrazolyl ligands” [J. Mol. Struct. 1063 (2014) 70–76]"
+}

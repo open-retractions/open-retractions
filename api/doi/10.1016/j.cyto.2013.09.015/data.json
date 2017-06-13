@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.cyto.2014.05.019","type":"err"},"doi":"10.1016/j.cyto.2013.09.015","journal":"Cytokine","publisher":"Elsevier BV","title":"Corrigendum to “Genetic polymorphisms involved in the inflammatory response and lung cancer risk: A case-control study in Japan” [Cytokine 2014; 65:88–94]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496044994583,
+      "identifier": {
+        "doi": "10.1016/j.cyto.2014.05.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cyto.2013.09.015"
+  },
+  "journal": "Cytokine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic polymorphisms involved in the inflammatory response and lung cancer risk: A case-control study in Japan” [Cytokine 2014; 65:88–94]"
+}

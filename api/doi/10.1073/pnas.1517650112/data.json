@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462233600000,"doi":"10.1073/pnas.1605181113","type":"correction"},"doi":"10.1073/pnas.1517650112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zahid et al., Agriculture, population growth, and statistical analysis of the radiocarbon record"}
+{
+  "retracted": false,
+  "timestamp": 1462233600000,
+  "updates": [
+    {
+      "timestamp": 1495668838470,
+      "identifier": {
+        "doi": "10.1073/pnas.1605181113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1517650112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zahid et al., Agriculture, population growth, and statistical analysis of the radiocarbon record"
+}

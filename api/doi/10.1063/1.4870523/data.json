@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1063/1.4897417","type":"correction"},"doi":"10.1063/1.4870523","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Theory and efficient computation of differential vibrational spectra” [J. Chem. Phys. 140, 144109 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1496013271351,
+      "identifier": {
+        "doi": "10.1063/1.4897417"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4870523"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Theory and efficient computation of differential vibrational spectra” [J. Chem. Phys. 140, 144109 (2014)]"
+}

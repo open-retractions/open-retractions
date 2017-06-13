@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1205452800000,"doi":"10.1007/s00204-008-0291-0","type":"correction"},"doi":"10.1007/s00204-007-0256-8","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Some molecular descriptors for non-specific chromosomal genotoxicity based on hydrophobic interactions"}
+{
+  "retracted": false,
+  "timestamp": 1205452800000,
+  "updates": [
+    {
+      "timestamp": 1495836743302,
+      "identifier": {
+        "doi": "10.1007/s00204-008-0291-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-007-0256-8"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Some molecular descriptors for non-specific chromosomal genotoxicity based on hydrophobic interactions"
+}

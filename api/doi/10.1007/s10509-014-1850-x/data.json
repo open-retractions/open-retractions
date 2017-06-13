@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441756800000,"doi":"10.1007/s10509-015-2489-y","type":"correction"},"doi":"10.1007/s10509-014-1850-x","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Resonant Compton scattering associated with pair creation"}
+{
+  "retracted": false,
+  "timestamp": 1441756800000,
+  "updates": [
+    {
+      "timestamp": 1496029124354,
+      "identifier": {
+        "doi": "10.1007/s10509-015-2489-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-014-1850-x"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Resonant Compton scattering associated with pair creation"
+}

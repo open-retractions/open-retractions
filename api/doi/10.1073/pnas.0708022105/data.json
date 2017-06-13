@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202774400000,"doi":"10.1073/pnas.0807693105","type":"correction"},"doi":"10.1073/pnas.0708022105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Fornai et al., Lithium delays progression of amyotrophic lateral sclerosis"}
+{
+  "retracted": false,
+  "timestamp": 1202774400000,
+  "updates": [
+    {
+      "timestamp": 1495883680433,
+      "identifier": {
+        "doi": "10.1073/pnas.0807693105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0708022105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Fornai et al., Lithium delays progression of amyotrophic lateral sclerosis"
+}

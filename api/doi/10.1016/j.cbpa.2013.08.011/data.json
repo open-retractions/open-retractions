@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.cbpa.2013.12.002","type":"err"},"doi":"10.1016/j.cbpa.2013.08.011","journal":"Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology","publisher":"Elsevier BV","title":"Corrigendum to “Molecular cloning of cDNA of gonadotropin-releasing hormones in the Chinese sturgeon (Acipenser sinensis) and the effect of 17β-estradiol on gene expression” [Comp. Biochem. Physiol. A 166, (2013) 529–537]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496005296993,
+      "identifier": {
+        "doi": "10.1016/j.cbpa.2013.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpa.2013.08.011"
+  },
+  "journal": "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular cloning of cDNA of gonadotropin-releasing hormones in the Chinese sturgeon (Acipenser sinensis) and the effect of 17β-estradiol on gene expression” [Comp. Biochem. Physiol. A 166, (2013) 529–537]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1080/10916466.2014.974013","type":"correction"},"doi":"10.1080/10916466.2010.551815","journal":"Petroleum Science and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496028175095,
+      "identifier": {
+        "doi": "10.1080/10916466.2014.974013"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10916466.2010.551815"
+  },
+  "journal": "Petroleum Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

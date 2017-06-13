@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1007/s41061-016-0024-4","type":"correction"},"doi":"10.1007/s41061-016-0017-3","journal":"Topics in Current Chemistry","publisher":"Springer Nature","title":"Erratum to: M. Vrabel and T. Carell for Cycloadditions in Bioorthogonal Chemistry"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495666562253,
+      "identifier": {
+        "doi": "10.1007/s41061-016-0024-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s41061-016-0017-3"
+  },
+  "journal": "Topics in Current Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: M. Vrabel and T. Carell for Cycloadditions in Bioorthogonal Chemistry"
+}

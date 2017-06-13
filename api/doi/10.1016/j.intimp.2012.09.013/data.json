@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.intimp.2013.05.010","type":"err"},"doi":"10.1016/j.intimp.2012.09.013","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Protective effects of nicotinamide against acetaminophen-induced acute liver injury” [Int. Immunopharmacol. 14 (2012) 530–537]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496021601639,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2013.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2012.09.013"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protective effects of nicotinamide against acetaminophen-induced acute liver injury” [Int. Immunopharmacol. 14 (2012) 530–537]"
+}

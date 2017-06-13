@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487289600000,"doi":"10.1074/jbc.a116.729210","type":"correction"},"doi":"10.1074/jbc.m116.729210","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Quantitative correlation between infectivity and Gp120 density on HIV-1 virions revealed by optical trapping virometry."}
+{
+  "retracted": false,
+  "timestamp": 1487289600000,
+  "updates": [
+    {
+      "timestamp": 1495721675605,
+      "identifier": {
+        "doi": "10.1074/jbc.a116.729210"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m116.729210"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Quantitative correlation between infectivity and Gp120 density on HIV-1 virions revealed by optical trapping virometry."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429488000000,"doi":"10.1080/00986445.2015.1031551","type":"correction"},"doi":"10.1080/00986445.2013.863188","journal":"Chemical Engineering Communications","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1429488000000,
+  "updates": [
+    {
+      "timestamp": 1496059163756,
+      "identifier": {
+        "doi": "10.1080/00986445.2015.1031551"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00986445.2013.863188"
+  },
+  "journal": "Chemical Engineering Communications",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

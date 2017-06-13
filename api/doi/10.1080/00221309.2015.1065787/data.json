@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453161600000,"doi":"10.1080/00221309.2016.1138067","type":"correction"},"doi":"10.1080/00221309.2015.1065787","journal":"The Journal of General Psychology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1453161600000,
+  "updates": [
+    {
+      "timestamp": 1495637997699,
+      "identifier": {
+        "doi": "10.1080/00221309.2016.1138067"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00221309.2015.1065787"
+  },
+  "journal": "The Journal of General Psychology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1175126400000,"doi":"10.1140/epja/i2007-10010-x","type":"correction"},"doi":"10.1140/epja/i2006-10141-6","journal":"The European Physical Journal A","publisher":"Springer Nature","title":"A simple model for doublet bands in doubly odd nuclei"}
+{
+  "retracted": false,
+  "timestamp": 1175126400000,
+  "updates": [
+    {
+      "timestamp": 1495895496129,
+      "identifier": {
+        "doi": "10.1140/epja/i2007-10010-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epja/i2006-10141-6"
+  },
+  "journal": "The European Physical Journal A",
+  "publisher": "Springer Nature",
+  "title": "A simple model for doublet bands in doubly odd nuclei"
+}

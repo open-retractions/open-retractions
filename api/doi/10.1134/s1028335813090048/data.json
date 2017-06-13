@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1134/s1028335814060081","type":"correction"},"doi":"10.1134/s1028335813090048","journal":"Doklady Physics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Incompatibility of the Tolman Solution for Dust-like Matter with the Causality Principle”"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050662973,
+      "identifier": {
+        "doi": "10.1134/s1028335814060081"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1028335813090048"
+  },
+  "journal": "Doklady Physics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Incompatibility of the Tolman Solution for Dust-like Matter with the Causality Principle”"
+}

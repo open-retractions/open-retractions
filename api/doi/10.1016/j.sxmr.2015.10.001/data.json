@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.sxmr.2016.01.001","type":"err"},"doi":"10.1016/j.sxmr.2015.10.001","journal":"Sexual Medicine Reviews","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495655110020,
+      "identifier": {
+        "doi": "10.1016/j.sxmr.2016.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sxmr.2015.10.001"
+  },
+  "journal": "Sexual Medicine Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

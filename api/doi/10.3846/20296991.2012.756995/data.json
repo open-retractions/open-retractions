@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403568000000,"doi":"10.3846/20296991.2013.763633","type":"correction"},"doi":"10.3846/20296991.2012.756995","journal":"Geodesy and Cartography","publisher":"Vilnius Gediminas Technical University","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1403568000000,
+  "updates": [
+    {
+      "timestamp": 1495985882718,
+      "identifier": {
+        "doi": "10.3846/20296991.2013.763633"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/20296991.2012.756995"
+  },
+  "journal": "Geodesy and Cartography",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Erratum"
+}

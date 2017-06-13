@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1165881600000,"doi":"10.1371/journal.pbio.0040432","type":"correction"},"doi":"10.1371/journal.pbio.0040348","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: A Signaling Network for Patterning of Neuronal Connectivity in the Drosophila Brain"}
+{
+  "retracted": false,
+  "timestamp": 1165881600000,
+  "updates": [
+    {
+      "timestamp": 1495918620415,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0040432"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0040348"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Signaling Network for Patterning of Neuronal Connectivity in the Drosophila Brain"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483142400000,"doi":"10.1080/23311916.2016.1269406","type":"correction"},"doi":"10.1080/23311916.2016.1261503","journal":"Cogent Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1483142400000,
+  "updates": [
+    {
+      "timestamp": 1496994009462,
+      "identifier": {
+        "doi": "10.1080/23311916.2016.1269406"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23311916.2016.1261503"
+  },
+  "journal": "Cogent Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

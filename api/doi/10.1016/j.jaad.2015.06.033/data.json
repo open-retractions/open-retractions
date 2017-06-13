@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.jaad.2016.06.056","type":"err"},"doi":"10.1016/j.jaad.2015.06.033","journal":"Journal of the American Academy of Dermatology","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495732505282,
+      "identifier": {
+        "doi": "10.1016/j.jaad.2016.06.056"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaad.2015.06.033"
+  },
+  "journal": "Journal of the American Academy of Dermatology",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427932800000,"doi":"10.1016/j.molcel.2015.03.026","type":"erratum"},"doi":"10.1016/j.molcel.2015.01.043","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Phosphoproteomics Reveals Distinct Modes of Mec1/ATR Signaling during DNA Replication"}
+{
+  "retracted": false,
+  "timestamp": 1427932800000,
+  "updates": [
+    {
+      "timestamp": 1496054242265,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.03.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.01.043"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Phosphoproteomics Reveals Distinct Modes of Mec1/ATR Signaling during DNA Replication"
+}

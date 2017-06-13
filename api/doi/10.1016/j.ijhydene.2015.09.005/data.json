@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454112000000,"doi":"10.1016/j.ijhydene.2015.12.118","type":"erratum"},"doi":"10.1016/j.ijhydene.2015.09.005","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Model-based estimation of liquid saturation in cathode gas diffusion layer and current density difference under proton exchange membrane fuel cell flooding” [Int J Hydrogen Energy 40 (2015) 14187–14201]"}
+{
+  "retracted": false,
+  "timestamp": 1454112000000,
+  "updates": [
+    {
+      "timestamp": 1496058294918,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2015.12.118"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2015.09.005"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Model-based estimation of liquid saturation in cathode gas diffusion layer and current density difference under proton exchange membrane fuel cell flooding” [Int J Hydrogen Energy 40 (2015) 14187–14201]"
+}

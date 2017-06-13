@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1080/14683857.2015.1081499","type":"correction"},"doi":"10.1080/14683857.2015.1007754","journal":"Southeast European and Black Sea Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496024667721,
+      "identifier": {
+        "doi": "10.1080/14683857.2015.1081499"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14683857.2015.1007754"
+  },
+  "journal": "Southeast European and Black Sea Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

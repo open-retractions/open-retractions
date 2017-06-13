@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439337600000,"doi":"10.1080/0895769x.2015.1071967","type":"correction"},"doi":"10.1080/0895769x.2014.991374","journal":"ANQ: A Quarterly Journal of Short Articles, Notes and Reviews","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1439337600000,
+  "updates": [
+    {
+      "timestamp": 1496022996451,
+      "identifier": {
+        "doi": "10.1080/0895769x.2015.1071967"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0895769x.2014.991374"
+  },
+  "journal": "ANQ: A Quarterly Journal of Short Articles, Notes and Reviews",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

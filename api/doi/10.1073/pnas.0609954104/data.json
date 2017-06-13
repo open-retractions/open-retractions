@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1173744000000,"doi":"10.1073/pnas.0701153104","type":"correction"},"doi":"10.1073/pnas.0609954104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Huang et al., A functional SNP of interferon-  gene is important for interferon- -induced and spontaneous recovery from hepatitis C virus infection"}
+{
+  "retracted": false,
+  "timestamp": 1173744000000,
+  "updates": [
+    {
+      "timestamp": 1495934825653,
+      "identifier": {
+        "doi": "10.1073/pnas.0701153104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0609954104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Huang et al., A functional SNP of interferon-  gene is important for interferon- -induced and spontaneous recovery from hepatitis C virus infection"
+}

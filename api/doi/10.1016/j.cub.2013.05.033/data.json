@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384732800000,"doi":"10.1016/j.cub.2013.10.059","type":"err"},"doi":"10.1016/j.cub.2013.05.033","journal":"Current Biology","publisher":"Elsevier BV","title":"The essential nature of iron usage and regulation"}
+{
+  "retracted": false,
+  "timestamp": 1384732800000,
+  "updates": [
+    {
+      "timestamp": 1495999060270,
+      "identifier": {
+        "doi": "10.1016/j.cub.2013.10.059"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2013.05.033"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "The essential nature of iron usage and regulation"
+}

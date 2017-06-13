@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361836800000,"doi":"10.1371/annotation/8b0ef43b-f45d-4098-8e6e-a92eebf50004","type":"correction"},"doi":"10.1371/journal.pntd.0001882","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Genetic Diversity within Schistosoma haematobium: DNA Barcoding Reveals Two Distinct Groups"}
+{
+  "retracted": false,
+  "timestamp": 1361836800000,
+  "updates": [
+    {
+      "timestamp": 1496002815749,
+      "identifier": {
+        "doi": "10.1371/annotation/8b0ef43b-f45d-4098-8e6e-a92eebf50004"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0001882"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genetic Diversity within Schistosoma haematobium: DNA Barcoding Reveals Two Distinct Groups"
+}

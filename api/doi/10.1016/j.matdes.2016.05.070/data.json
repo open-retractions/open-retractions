@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.matdes.2016.09.040","type":"erratum"},"doi":"10.1016/j.matdes.2016.05.070","journal":"Materials & Design","publisher":"Elsevier BV","title":"Corrigendum to “Correlation between porosity and processing parameters in TiAl6V4 produced by selective laser melting” [Materials and Design 105 (2016) 160–170]"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495642368572,
+      "identifier": {
+        "doi": "10.1016/j.matdes.2016.09.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matdes.2016.05.070"
+  },
+  "journal": "Materials & Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Correlation between porosity and processing parameters in TiAl6V4 produced by selective laser melting” [Materials and Design 105 (2016) 160–170]"
+}

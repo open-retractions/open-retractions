@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1407888000000,"doi":"10.1007/s11033-014-3674-8","type":"correction"},"doi":"10.1007/s11033-014-3392-2","journal":"Molecular Biology Reports","publisher":"Springer Nature","title":"Erratum to: Di-peptidyl peptidase-4 inhibitor sitagliptin protects vascular function in metabolic syndrome: possible role of epigenetic regulation"}
+{
+  "retracted": false,
+  "timestamp": 1407888000000,
+  "updates": [
+    {
+      "timestamp": 1495999751822,
+      "identifier": {
+        "doi": "10.1007/s11033-014-3674-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11033-014-3392-2"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Di-peptidyl peptidase-4 inhibitor sitagliptin protects vascular function in metabolic syndrome: possible role of epigenetic regulation"
+}

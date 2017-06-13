@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1007/s00348-015-2019-2","type":"correction"},"doi":"10.1007/s00348-015-1982-y","journal":"Experiments in Fluids","publisher":"Springer Nature","title":"Erratum to: Dynamic hysteresis control of lift on a pitching wing"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496015930024,
+      "identifier": {
+        "doi": "10.1007/s00348-015-2019-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00348-015-1982-y"
+  },
+  "journal": "Experiments in Fluids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamic hysteresis control of lift on a pitching wing"
+}

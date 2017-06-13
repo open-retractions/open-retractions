@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437782400000,"doi":"10.1007/s00339-015-9372-0","type":"correction"},"doi":"10.1007/s00339-015-9334-6","journal":"Applied Physics A","publisher":"Springer Nature","title":"Erratum to: Effect of deposition energy on the microstructure and phase purity of pulsed laser deposited iron fluoride thin films"}
+{
+  "retracted": false,
+  "timestamp": 1437782400000,
+  "updates": [
+    {
+      "timestamp": 1496017473548,
+      "identifier": {
+        "doi": "10.1007/s00339-015-9372-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00339-015-9334-6"
+  },
+  "journal": "Applied Physics A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of deposition energy on the microstructure and phase purity of pulsed laser deposited iron fluoride thin films"
+}

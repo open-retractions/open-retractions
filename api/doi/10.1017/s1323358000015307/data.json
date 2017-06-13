@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1017/s1323358000050001","type":"correction"},"doi":"10.1017/s1323358000015307","journal":"Publications of the Astronomical Society of Australia","publisher":"Cambridge University Press (CUP)","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495732284077,
+      "identifier": {
+        "doi": "10.1017/s1323358000050001"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s1323358000015307"
+  },
+  "journal": "Publications of the Astronomical Society of Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Errata"
+}

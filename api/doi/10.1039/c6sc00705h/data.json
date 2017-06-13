@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468281600000,"doi":"10.1039/c6sc90044e","type":"correction"},"doi":"10.1039/c6sc00705h","journal":"Chem. Sci.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: MN15: A Kohn–Sham global-hybrid exchange–correlation density functional with broad accuracy for multi-reference and single-reference systems and noncovalent interactions"}
+{
+  "retracted": false,
+  "timestamp": 1468281600000,
+  "updates": [
+    {
+      "timestamp": 1495725957657,
+      "identifier": {
+        "doi": "10.1039/c6sc90044e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6sc00705h"
+  },
+  "journal": "Chem. Sci.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: MN15: A Kohn–Sham global-hybrid exchange–correlation density functional with broad accuracy for multi-reference and single-reference systems and noncovalent interactions"
+}

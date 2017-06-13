@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467763200000,"doi":"10.1007/s13765-016-0205-4","type":"correction"},"doi":"10.1007/s13765-016-0189-0","journal":"Applied Biological Chemistry","publisher":"Springer Nature","title":"Erratum to: Cosmeceutical bioactivities of isolated compounds from Ligularia fischeri Turcz leaves"}
+{
+  "retracted": false,
+  "timestamp": 1467763200000,
+  "updates": [
+    {
+      "timestamp": 1495724889740,
+      "identifier": {
+        "doi": "10.1007/s13765-016-0205-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13765-016-0189-0"
+  },
+  "journal": "Applied Biological Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cosmeceutical bioactivities of isolated compounds from Ligularia fischeri Turcz leaves"
+}

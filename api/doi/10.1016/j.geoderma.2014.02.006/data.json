@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.geoderma.2014.06.030","type":"err"},"doi":"10.1016/j.geoderma.2014.02.006","journal":"Geoderma","publisher":"Elsevier BV","title":"Corrigendum to “Leaching of mercury from soils at extremely contaminated historical roasting sites (Idrija area, Slovenia)” [Geoderma 226–227C (2014) 213–222]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496055422438,
+      "identifier": {
+        "doi": "10.1016/j.geoderma.2014.06.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geoderma.2014.02.006"
+  },
+  "journal": "Geoderma",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Leaching of mercury from soils at extremely contaminated historical roasting sites (Idrija area, Slovenia)” [Geoderma 226–227C (2014) 213–222]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400630400000,"doi":"10.14366/usg.14015","type":"correction"},"doi":"10.14366/usg.14015","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Interobserver agreement on the interpretation of automated whole breast ultrasonography"}
+{
+  "retracted": false,
+  "timestamp": 1400630400000,
+  "updates": [
+    {
+      "timestamp": 1496034371963,
+      "identifier": {
+        "doi": "10.14366/usg.14015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.14015"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Interobserver agreement on the interpretation of automated whole breast ultrasonography"
+}

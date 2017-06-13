@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.ins.2015.04.004","type":"err"},"doi":"10.1016/j.ins.2014.10.014","journal":"Information Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Reliable fault diagnosis for incipient low-speed bearings using feature analysis based on a binary bat algorithm” [Inform. Sci. 294 (2015) 423–438]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496057781146,
+      "identifier": {
+        "doi": "10.1016/j.ins.2015.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2014.10.014"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reliable fault diagnosis for incipient low-speed bearings using feature analysis based on a binary bat algorithm” [Inform. Sci. 294 (2015) 423–438]"
+}

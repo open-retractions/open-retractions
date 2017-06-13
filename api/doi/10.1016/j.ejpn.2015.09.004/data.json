@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.ejpn.2016.04.018","type":"err"},"doi":"10.1016/j.ejpn.2015.09.004","journal":"European Journal of Paediatric Neurology","publisher":"Elsevier BV","title":"Erratum to “Increased working memory related fMRI signal in children following Tick Borne Encephalitis” [Eur J Paediatr Neurol 20 (1) (January 2016) 125–130]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495674677337,
+      "identifier": {
+        "doi": "10.1016/j.ejpn.2016.04.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejpn.2015.09.004"
+  },
+  "journal": "European Journal of Paediatric Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Increased working memory related fMRI signal in children following Tick Borne Encephalitis” [Eur J Paediatr Neurol 20 (1) (January 2016) 125–130]"
+}

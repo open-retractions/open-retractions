@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1073433600000,"doi":"10.1186/1471-2288-4-1","type":"correction"},"doi":"10.1186/1471-2288-3-8","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: A simple method for analyzing data from a randomized trial with a missing binary outcome"}
+{
+  "retracted": false,
+  "timestamp": 1073433600000,
+  "updates": [
+    {
+      "timestamp": 1495803145301,
+      "identifier": {
+        "doi": "10.1186/1471-2288-4-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2288-3-8"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A simple method for analyzing data from a randomized trial with a missing binary outcome"
+}

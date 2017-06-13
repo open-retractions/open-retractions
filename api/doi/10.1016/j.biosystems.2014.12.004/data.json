@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.biosystems.2016.11.005","type":"erratum"},"doi":"10.1016/j.biosystems.2014.12.004","journal":"Biosystems","publisher":"Elsevier BV","title":"Corrigendum to “Dynamics of an SIR model with vaccination dependent on past prevalence with high order distributed delay” [BioSystems 129 (2015) 50–65]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495665506780,
+      "identifier": {
+        "doi": "10.1016/j.biosystems.2016.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biosystems.2014.12.004"
+  },
+  "journal": "Biosystems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamics of an SIR model with vaccination dependent on past prevalence with high order distributed delay” [BioSystems 129 (2015) 50–65]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.physb.2013.06.005","type":"err"},"doi":"10.1016/j.physb.2012.07.052","journal":"Physica B: Condensed Matter","publisher":"Elsevier BV","title":"Corrigendum to: Dielectric relaxation spectroscopy of phlogopite mica [Physica B 407 (2012) 4489–4494]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496027151506,
+      "identifier": {
+        "doi": "10.1016/j.physb.2013.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physb.2012.07.052"
+  },
+  "journal": "Physica B: Condensed Matter",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Dielectric relaxation spectroscopy of phlogopite mica [Physica B 407 (2012) 4489–4494]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421539200000,"doi":"10.1007/s00701-015-2351-6","type":"correction"},"doi":"10.1007/s00701-014-2275-6","journal":"Acta Neurochirurgica","publisher":"Springer Nature","title":"Erratum to: Gamma Knife, CyberKnife or micro-multileaf collimator LINAC for intracranial radiosurgery?"}
+{
+  "retracted": false,
+  "timestamp": 1421539200000,
+  "updates": [
+    {
+      "timestamp": 1496037585739,
+      "identifier": {
+        "doi": "10.1007/s00701-015-2351-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00701-014-2275-6"
+  },
+  "journal": "Acta Neurochirurgica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gamma Knife, CyberKnife or micro-multileaf collimator LINAC for intracranial radiosurgery?"
+}

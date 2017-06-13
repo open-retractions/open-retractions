@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.geothermics.2016.02.001","type":"err"},"doi":"10.1016/j.geothermics.2015.10.011","journal":"Geothermics","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of subsurface processes estimation of reservoir temperature in Tural Rajwadi geothermal fields, Maharashtra, India” [Geothermics 59 (2016) 77–89]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495645394825,
+      "identifier": {
+        "doi": "10.1016/j.geothermics.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geothermics.2015.10.011"
+  },
+  "journal": "Geothermics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of subsurface processes estimation of reservoir temperature in Tural Rajwadi geothermal fields, Maharashtra, India” [Geothermics 59 (2016) 77–89]"
+}

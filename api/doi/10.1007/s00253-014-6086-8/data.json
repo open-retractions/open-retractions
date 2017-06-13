@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1007/s00253-014-6202-9","type":"correction"},"doi":"10.1007/s00253-014-6086-8","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Genome sequence of Vibrio diabolicus and identification of the exopolysaccharide HE800 biosynthesis locus"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496021481071,
+      "identifier": {
+        "doi": "10.1007/s00253-014-6202-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-014-6086-8"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genome sequence of Vibrio diabolicus and identification of the exopolysaccharide HE800 biosynthesis locus"
+}

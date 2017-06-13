@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1007/s11406-014-9571-5","type":"correction"},"doi":"10.1007/s11406-014-9543-9","journal":"Philosophia","publisher":"Springer Nature","title":"Erratum to: The Evil of Death: A Reply to Yi"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496021410278,
+      "identifier": {
+        "doi": "10.1007/s11406-014-9571-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11406-014-9543-9"
+  },
+  "journal": "Philosophia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Evil of Death: A Reply to Yi"
+}

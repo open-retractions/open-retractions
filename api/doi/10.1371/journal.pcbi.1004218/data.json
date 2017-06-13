@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1371/journal.pcbi.1004945","type":"correction"},"doi":"10.1371/journal.pcbi.1004218","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Measuring Fisher Information Accurately in Correlated Neural Populations"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495679774381,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004945"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004218"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Measuring Fisher Information Accurately in Correlated Neural Populations"
+}

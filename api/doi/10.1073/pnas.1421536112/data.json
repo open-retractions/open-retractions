@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1073/pnas.1503913112","type":"correction"},"doi":"10.1073/pnas.1421536112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Corrections for Chen et al., Plasma butyrylcholinesterase regulates ghrelin to control aggression"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496048375299,
+      "identifier": {
+        "doi": "10.1073/pnas.1503913112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1421536112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Corrections for Chen et al., Plasma butyrylcholinesterase regulates ghrelin to control aggression"
+}

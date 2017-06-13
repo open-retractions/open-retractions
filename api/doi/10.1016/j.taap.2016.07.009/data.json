@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.taap.2016.11.005","type":"erratum"},"doi":"10.1016/j.taap.2016.07.009","journal":"Toxicology and Applied Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Low doses of arsenic, via perturbing p53, promotes tumorigenesis” [Toxicol. Appl. Pharmacol. (2016) 98–104]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495657015693,
+      "identifier": {
+        "doi": "10.1016/j.taap.2016.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.taap.2016.07.009"
+  },
+  "journal": "Toxicology and Applied Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low doses of arsenic, via perturbing p53, promotes tumorigenesis” [Toxicol. Appl. Pharmacol. (2016) 98–104]"
+}

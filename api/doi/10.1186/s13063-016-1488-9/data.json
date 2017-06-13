@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473206400000,"doi":"10.1186/s13063-016-1567-y","type":"correction"},"doi":"10.1186/s13063-016-1488-9","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: ‘Models and impact of patient and public involvement in studies carried out by the Medical Research Council Clinical Trials Unit at University College London: findings from ten case studies’"}
+{
+  "retracted": false,
+  "timestamp": 1473206400000,
+  "updates": [
+    {
+      "timestamp": 1495637942356,
+      "identifier": {
+        "doi": "10.1186/s13063-016-1567-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13063-016-1488-9"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Models and impact of patient and public involvement in studies carried out by the Medical Research Council Clinical Trials Unit at University College London: findings from ten case studies’"
+}

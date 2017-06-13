@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.patbio.2014.11.002","type":"err"},"doi":"10.1016/j.patbio.2013.11.001","journal":"Pathologie Biologie","publisher":"Elsevier BV","title":"Erratum à : « Association entre les marqueurs du remodelage osseux, la densité minérale osseuse et le statut vitaminique D chez des femmes ménopausées d’origine marocaine » [Pathol. Biol. 62 (1) (2014) 49–54]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496038087197,
+      "identifier": {
+        "doi": "10.1016/j.patbio.2014.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patbio.2013.11.001"
+  },
+  "journal": "Pathologie Biologie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à : « Association entre les marqueurs du remodelage osseux, la densité minérale osseuse et le statut vitaminique D chez des femmes ménopausées d’origine marocaine » [Pathol. Biol. 62 (1) (2014) 49–54]"
+}

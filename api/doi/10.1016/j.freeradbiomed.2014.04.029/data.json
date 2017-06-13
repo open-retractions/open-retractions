@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.freeradbiomed.2014.11.001","type":"erratum"},"doi":"10.1016/j.freeradbiomed.2014.04.029","journal":"Free Radical Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Caveolin-1 is a negative regulator of NADPH oxidase-derived reactive oxygen species” [Free Radic. Biol. 73 (2014) 201–213]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496024654011,
+      "identifier": {
+        "doi": "10.1016/j.freeradbiomed.2014.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.freeradbiomed.2014.04.029"
+  },
+  "journal": "Free Radical Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Caveolin-1 is a negative regulator of NADPH oxidase-derived reactive oxygen species” [Free Radic. Biol. 73 (2014) 201–213]"
+}

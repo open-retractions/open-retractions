@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1248220800000,"doi":"10.1007/s10549-009-0482-2","type":"correction"},"doi":"10.1007/s10549-008-0152-9","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: A pilot study of dose-dense adjuvant paclitaxel without growth factor support for women with early breast carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1248220800000,
+  "updates": [
+    {
+      "timestamp": 1495964096372,
+      "identifier": {
+        "doi": "10.1007/s10549-009-0482-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-008-0152-9"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A pilot study of dose-dense adjuvant paclitaxel without growth factor support for women with early breast carcinoma"
+}

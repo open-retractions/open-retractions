@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460592000000,"doi":"10.1186/s40164-016-0038-1","type":"correction"},"doi":"10.1186/s40164-016-0036-3","journal":"Experimental Hematology & Oncology","publisher":"Springer Nature","title":"Erratum to: New CD20 alternative splice variants: molecular identification and differential expression within hematological B cell malignancies"}
+{
+  "retracted": false,
+  "timestamp": 1460592000000,
+  "updates": [
+    {
+      "timestamp": 1495664159434,
+      "identifier": {
+        "doi": "10.1186/s40164-016-0038-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40164-016-0036-3"
+  },
+  "journal": "Experimental Hematology & Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: New CD20 alternative splice variants: molecular identification and differential expression within hematological B cell malignancies"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407974400000,"doi":"10.1007/s00415-014-7461-1","type":"correction"},"doi":"10.1007/s00415-014-7425-5","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Arylsulphatase A activity in familial parkinsonism: a pathogenetic role?"}
+{
+  "retracted": false,
+  "timestamp": 1407974400000,
+  "updates": [
+    {
+      "timestamp": 1495998716108,
+      "identifier": {
+        "doi": "10.1007/s00415-014-7461-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-014-7425-5"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Arylsulphatase A activity in familial parkinsonism: a pathogenetic role?"
+}

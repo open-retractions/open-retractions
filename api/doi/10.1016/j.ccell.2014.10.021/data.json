@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423440000000,"doi":"10.1016/j.ccell.2014.12.011","type":"err"},"doi":"10.1016/j.ccell.2014.10.021","journal":"Cancer Cell","publisher":"Elsevier BV","title":"A BCL6/BCOR/SIRT1 Complex Triggers Neurogenesis and Suppresses Medulloblastoma by Repressing Sonic Hedgehog Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1423440000000,
+  "updates": [
+    {
+      "timestamp": 1496043025789,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2014.12.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2014.10.021"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "A BCL6/BCOR/SIRT1 Complex Triggers Neurogenesis and Suppresses Medulloblastoma by Repressing Sonic Hedgehog Signaling"
+}

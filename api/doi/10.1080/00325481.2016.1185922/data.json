@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481155200000,"doi":"10.1080/00325481.2017.1268820","type":"correction"},"doi":"10.1080/00325481.2016.1185922","journal":"Postgraduate Medicine","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1481155200000,
+  "updates": [
+    {
+      "timestamp": 1495665780016,
+      "identifier": {
+        "doi": "10.1080/00325481.2017.1268820"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00325481.2016.1185922"
+  },
+  "journal": "Postgraduate Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

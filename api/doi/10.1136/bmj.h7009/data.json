@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1136/bmj.i71","type":"correction"},"doi":"10.1136/bmj.h7009","journal":"BMJ","publisher":"BMJ","title":"Voluntary euthanasia is now legal in Quebec, says appeal court"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1495643872981,
+      "identifier": {
+        "doi": "10.1136/bmj.i71"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h7009"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Voluntary euthanasia is now legal in Quebec, says appeal court"
+}

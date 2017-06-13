@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365984000000,"doi":"10.1107/s0108270113007129","type":"correction"},"doi":"10.1107/s0108270107054959","journal":"Acta Crystallographica Section C Crystal Structure Communications","publisher":"International Union of Crystallography (IUCr)","title":"(E)-3-(Benzo[b]thiophen-2-yl)-2-(3,4,5-trimethoxyphenyl)acrylonitrile and (Z)-3-(benzo[b]thiophen-2-yl)-2-(3,4-dimethoxyphenyl)acrylonitrile. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1365984000000,
+  "updates": [
+    {
+      "timestamp": 1496005696068,
+      "identifier": {
+        "doi": "10.1107/s0108270113007129"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108270107054959"
+  },
+  "journal": "Acta Crystallographica Section C Crystal Structure Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "(E)-3-(Benzo[b]thiophen-2-yl)-2-(3,4,5-trimethoxyphenyl)acrylonitrile and (Z)-3-(benzo[b]thiophen-2-yl)-2-(3,4-dimethoxyphenyl)acrylonitrile. Corrigendum"
+}

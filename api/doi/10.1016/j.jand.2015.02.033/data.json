@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1430438400000,"update":{"timestamp":null,"doi":null,"pmid":26430705,"type":"retraction"},"doi":"10.1016/j.jand.2015.02.033","journal":"Journal of the Academy of Nutrition and Dietetics","publisher":null,"title":"Position of the academy of nutrition and dietetics: vegetarian diets."}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496017135268,
+      "identifier": {
+        "doi": "10.1016/j.jand.2015.06.371"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jand.2015.02.033"
+  },
+  "journal": "Journal of the Academy of Nutrition and Dietetics",
+  "publisher": "Elsevier BV",
+  "title": "Removal Notice"
+}

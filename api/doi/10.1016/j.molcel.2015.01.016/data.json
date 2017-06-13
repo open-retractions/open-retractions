@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.1016/j.molcel.2016.01.014","type":"erratum"},"doi":"10.1016/j.molcel.2015.01.016","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Structural Basis for the Activation and Inhibition of the UCH37 Deubiquitylase"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495641837891,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.01.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.01.016"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Structural Basis for the Activation and Inhibition of the UCH37 Deubiquitylase"
+}

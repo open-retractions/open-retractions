@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490227200000,"doi":"10.7567/jjap.56.049202","type":"correction"},"doi":"10.7567/jjap.55.04em02","journal":"Japanese Journal of Applied Physics","publisher":"Japan Society of Applied Physics","title":"Erratum: “Implantable self-reset CMOS image sensor and its application to hemodynamic response detection in living mouse brain”"}
+{
+  "retracted": false,
+  "timestamp": 1490227200000,
+  "updates": [
+    {
+      "timestamp": 1495731655259,
+      "identifier": {
+        "doi": "10.7567/jjap.56.049202"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/jjap.55.04em02"
+  },
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “Implantable self-reset CMOS image sensor and its application to hemodynamic response detection in living mouse brain”"
+}

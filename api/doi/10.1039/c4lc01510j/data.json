@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449619200000,"doi":"10.1039/c5lc90137e","type":"correction"},"doi":"10.1039/c4lc01510j","journal":"Lab Chip","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: HIV microarray for the mapping and characterization of HIV-specific antibody responses"}
+{
+  "retracted": false,
+  "timestamp": 1449619200000,
+  "updates": [
+    {
+      "timestamp": 1496052121840,
+      "identifier": {
+        "doi": "10.1039/c5lc90137e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4lc01510j"
+  },
+  "journal": "Lab Chip",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: HIV microarray for the mapping and characterization of HIV-specific antibody responses"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1186/s12977-016-0303-8","type":"correction"},"doi":"10.1186/s12977-016-0286-5","journal":"Retrovirology","publisher":"Springer Nature","title":"Erratum to: The KT Jeang Retrovirology prize 2016: Frank Kirchhoff"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640326219,
+      "identifier": {
+        "doi": "10.1186/s12977-016-0303-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12977-016-0286-5"
+  },
+  "journal": "Retrovirology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The KT Jeang Retrovirology prize 2016: Frank Kirchhoff"
+}

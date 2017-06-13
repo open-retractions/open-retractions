@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.compositesb.2014.06.028","type":"err"},"doi":"10.1016/j.compositesb.2013.10.049","journal":"Composites Part B: Engineering","publisher":"Elsevier BV","title":"Erratum to “Engineering the coefficient of thermal expansion and thermal conductivity of polymers filled with high aspect ratio silica nanofibers” [Composites: Part B 58 (2014) 228–234]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496052741468,
+      "identifier": {
+        "doi": "10.1016/j.compositesb.2014.06.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compositesb.2013.10.049"
+  },
+  "journal": "Composites Part B: Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Engineering the coefficient of thermal expansion and thermal conductivity of polymers filled with high aspect ratio silica nanofibers” [Composites: Part B 58 (2014) 228–234]"
+}

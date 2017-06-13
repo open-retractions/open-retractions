@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1063/1.4831949","type":"correction"},"doi":"10.1063/1.4817265","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “On the possibility of spontaneous generation of turbulent Alfvén waves in solar plasma by heavy ions” [Phys. Plasmas 20, 082102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495996263304,
+      "identifier": {
+        "doi": "10.1063/1.4831949"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4817265"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On the possibility of spontaneous generation of turbulent Alfvén waves in solar plasma by heavy ions” [Phys. Plasmas 20, 082102 (2013)]"
+}

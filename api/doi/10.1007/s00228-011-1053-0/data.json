@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315440000000,"doi":"10.1007/s00228-011-1116-2","type":"correction"},"doi":"10.1007/s00228-011-1053-0","journal":"European Journal of Clinical Pharmacology","publisher":"Springer Nature","title":"Erratum to: Metformin pharmacokinetics in nondiabetic pregnant women with polycystic ovary syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1315440000000,
+  "updates": [
+    {
+      "timestamp": 1495802409157,
+      "identifier": {
+        "doi": "10.1007/s00228-011-1116-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00228-011-1053-0"
+  },
+  "journal": "European Journal of Clinical Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Metformin pharmacokinetics in nondiabetic pregnant women with polycystic ovary syndrome"
+}

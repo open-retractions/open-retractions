@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ejc.2015.06.002","type":"erratum"},"doi":"10.1016/j.ejc.2014.09.001","journal":"European Journal of Combinatorics","publisher":"Elsevier BV","title":"Corrigendum to “Almost-Ramanujan graphs and prime gaps” [European J. Combin. 43 (2015) 204–209]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496008986802,
+      "identifier": {
+        "doi": "10.1016/j.ejc.2015.06.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejc.2014.09.001"
+  },
+  "journal": "European Journal of Combinatorics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Almost-Ramanujan graphs and prime gaps” [European J. Combin. 43 (2015) 204–209]"
+}

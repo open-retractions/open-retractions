@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":525916800000,"doi":"10.1007/bf02748680","type":"correction"},"doi":"10.1007/bf02749520","journal":"The Indian Journal of Pediatrics","publisher":"Springer Nature","title":"Erratum to: Blood culture updated"}
+{
+  "retracted": false,
+  "timestamp": 525916800000,
+  "updates": [
+    {
+      "timestamp": 1495801614716,
+      "identifier": {
+        "doi": "10.1007/bf02748680"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02749520"
+  },
+  "journal": "The Indian Journal of Pediatrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Blood culture updated"
+}

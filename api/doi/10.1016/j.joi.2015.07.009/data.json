@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.joi.2016.09.001","type":"err"},"doi":"10.1016/j.joi.2015.07.009","journal":"Journal of Informetrics","publisher":"Elsevier BV","title":"Corrigendum to “Is the expertise of evaluation panels congruent with the research interests of the research groups: A quantitative approach based on barycenters” [Journal of Informetrics 9 (4) (2015) 704–721]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495642368336,
+      "identifier": {
+        "doi": "10.1016/j.joi.2016.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joi.2015.07.009"
+  },
+  "journal": "Journal of Informetrics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Is the expertise of evaluation panels congruent with the research interests of the research groups: A quantitative approach based on barycenters” [Journal of Informetrics 9 (4) (2015) 704–721]"
+}

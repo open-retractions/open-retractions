@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329782400000,"doi":"10.1007/s11739-012-0762-4","type":"correction"},"doi":"10.1007/s11739-011-0744-y","journal":"Internal and Emergency Medicine","publisher":"Springer Nature","title":"Erratum to: Cardiovascular toxicity of anticancer-targeted therapy: emerging issues in the era of cardio-oncology"}
+{
+  "retracted": false,
+  "timestamp": 1329782400000,
+  "updates": [
+    {
+      "timestamp": 1495870388533,
+      "identifier": {
+        "doi": "10.1007/s11739-012-0762-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11739-011-0744-y"
+  },
+  "journal": "Internal and Emergency Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cardiovascular toxicity of anticancer-targeted therapy: emerging issues in the era of cardio-oncology"
+}

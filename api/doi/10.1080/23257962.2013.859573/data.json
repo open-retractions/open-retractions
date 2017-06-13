@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396483200000,"doi":"10.1080/23257962.2014.892777","type":"correction"},"doi":"10.1080/23257962.2013.859573","journal":"Archives and Records","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1396483200000,
+  "updates": [
+    {
+      "timestamp": 1496019298025,
+      "identifier": {
+        "doi": "10.1080/23257962.2014.892777"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23257962.2013.859573"
+  },
+  "journal": "Archives and Records",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

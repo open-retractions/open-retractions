@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439769600000,"doi":"10.1080/10426507.2015.1080565","type":"correction"},"doi":"10.1080/10426507.2014.978328","journal":"Phosphorus, Sulfur, and Silicon and the Related Elements","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1439769600000,
+  "updates": [
+    {
+      "timestamp": 1496023840121,
+      "identifier": {
+        "doi": "10.1080/10426507.2015.1080565"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10426507.2014.978328"
+  },
+  "journal": "Phosphorus, Sulfur, and Silicon and the Related Elements",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

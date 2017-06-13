@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1007/s10142-016-0543-7","type":"correction"},"doi":"10.1007/s10142-016-0537-5","journal":"Functional & Integrative Genomics","publisher":"Springer Nature","title":"Erratum to: Transcriptomics analysis of hulless barley during grain development with a focus on starch biosynthesis"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495670510191,
+      "identifier": {
+        "doi": "10.1007/s10142-016-0543-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10142-016-0537-5"
+  },
+  "journal": "Functional & Integrative Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transcriptomics analysis of hulless barley during grain development with a focus on starch biosynthesis"
+}

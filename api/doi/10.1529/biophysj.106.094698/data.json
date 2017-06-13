@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457395200000,"doi":"10.1016/j.bpj.2016.02.004","type":"erratum"},"doi":"10.1529/biophysj.106.094698","journal":"Biophysical Journal","publisher":"Elsevier BV","title":"Forces Applied by Cilia Measured on Explants from Mucociliary Tissue"}
+{
+  "retracted": false,
+  "timestamp": 1457395200000,
+  "updates": [
+    {
+      "timestamp": 1495652352471,
+      "identifier": {
+        "doi": "10.1016/j.bpj.2016.02.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1529/biophysj.106.094698"
+  },
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Forces Applied by Cilia Measured on Explants from Mucociliary Tissue"
+}

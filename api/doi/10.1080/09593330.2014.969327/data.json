@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423180800000,"doi":"10.1080/09593330.2014.981104","type":"correction"},"doi":"10.1080/09593330.2014.969327","journal":"Environmental Technology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1423180800000,
+  "updates": [
+    {
+      "timestamp": 1496022903273,
+      "identifier": {
+        "doi": "10.1080/09593330.2014.981104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09593330.2014.969327"
+  },
+  "journal": "Environmental Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1088/1751-8113/49/26/269501","type":"correction"},"doi":"10.1088/1751-8113/48/27/275501","journal":"Journal of Physics A: Mathematical and Theoretical","publisher":"IOP Publishing","title":"Corrigendum: Hamiltonian closures for fluid models with four moments by dimensional analysis (2015J. Phys. A: Math. Theor.48 275501)"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495715363350,
+      "identifier": {
+        "doi": "10.1088/1751-8113/49/26/269501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1751-8113/48/27/275501"
+  },
+  "journal": "Journal of Physics A: Mathematical and Theoretical",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Hamiltonian closures for fluid models with four moments by dimensional analysis (2015J. Phys. A: Math. Theor.48 275501)"
+}

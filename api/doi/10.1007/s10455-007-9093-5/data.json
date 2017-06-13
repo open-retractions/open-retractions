@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1237852800000,"doi":"10.1007/s10455-009-9162-z","type":"correction"},"doi":"10.1007/s10455-007-9093-5","journal":"Annals of Global Analysis and Geometry","publisher":"Springer Nature","title":"3-Quasi-Sasakian manifolds"}
+{
+  "retracted": false,
+  "timestamp": 1237852800000,
+  "updates": [
+    {
+      "timestamp": 1495936779922,
+      "identifier": {
+        "doi": "10.1007/s10455-009-9162-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10455-007-9093-5"
+  },
+  "journal": "Annals of Global Analysis and Geometry",
+  "publisher": "Springer Nature",
+  "title": "3-Quasi-Sasakian manifolds"
+}

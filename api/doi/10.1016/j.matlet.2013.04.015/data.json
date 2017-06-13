@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476489600000,"doi":"10.1016/j.matlet.2016.05.187","type":"err"},"doi":"10.1016/j.matlet.2013.04.015","journal":"Materials Letters","publisher":"Elsevier BV","title":"Retraction notice to Direct-chill casting of wrought Al alloy under electromagnetic and ultrasonic combined fields [Materials Letters 105 (2013) 213–215]"}
+{
+  "retracted": false,
+  "timestamp": 1476489600000,
+  "updates": [
+    {
+      "timestamp": 1495720877842,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2016.05.187"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matlet.2013.04.015"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to Direct-chill casting of wrought Al alloy under electromagnetic and ultrasonic combined fields [Materials Letters 105 (2013) 213–215]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1162857600000,"doi":"10.1073/pnas.0608997103","type":"correction"},"doi":"10.1073/pnas.0607098103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wada et al., A molecular neuroethological approach for identifying and characterizing a cascade of behaviorally regulated genes"}
+{
+  "retracted": false,
+  "timestamp": 1162857600000,
+  "updates": [
+    {
+      "timestamp": 1495910459312,
+      "identifier": {
+        "doi": "10.1073/pnas.0608997103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0607098103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wada et al., A molecular neuroethological approach for identifying and characterizing a cascade of behaviorally regulated genes"
+}

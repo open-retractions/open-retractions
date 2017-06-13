@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390348800000,"doi":"10.1063/1.4863688","type":"correction"},"doi":"10.1063/1.4840136","journal":"Applied Physics Reviews","publisher":"AIP Publishing","title":"Publishers Note: “Recent progress in III-V based ferromagnetic semiconductors: Band structure, Fermi level, and tunneling transport” [Appl. Phys. Rev. 1, 011102 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1390348800000,
+  "updates": [
+    {
+      "timestamp": 1496021065840,
+      "identifier": {
+        "doi": "10.1063/1.4863688"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4840136"
+  },
+  "journal": "Applied Physics Reviews",
+  "publisher": "AIP Publishing",
+  "title": "Publishers Note: “Recent progress in III-V based ferromagnetic           semiconductors: Band structure, Fermi level, and tunneling transport” [Appl. Phys. Rev. 1,           011102 (2014)]"
+}

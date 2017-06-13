@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231804800000,"doi":"10.1212/01.wnl.0000344239.19790.54","type":"correction"},"doi":"10.1212/01.wnl.0000277698.33743.8b","journal":"Neurology","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Lamotrigine extended-release as adjunctive therapy for partial seizures"}
+{
+  "retracted": false,
+  "timestamp": 1231804800000,
+  "updates": [
+    {
+      "timestamp": 1495910979215,
+      "identifier": {
+        "doi": "10.1212/01.wnl.0000344239.19790.54"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1212/01.wnl.0000277698.33743.8b"
+  },
+  "journal": "Neurology",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Lamotrigine extended-release as adjunctive therapy for partial seizures"
+}

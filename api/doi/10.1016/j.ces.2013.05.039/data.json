@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379635200000,"doi":"10.1016/j.ces.2013.06.042","type":"err"},"doi":"10.1016/j.ces.2013.05.039","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Erratum to “Predicting fluid penetration during slot die coating onto porous substrates” [Chem. Eng. Sci. 99 (2013) 67–75]"}
+{
+  "retracted": false,
+  "timestamp": 1379635200000,
+  "updates": [
+    {
+      "timestamp": 1496033938842,
+      "identifier": {
+        "doi": "10.1016/j.ces.2013.06.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2013.05.039"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Predicting fluid penetration during slot die coating onto porous substrates” [Chem. Eng. Sci. 99 (2013) 67–75]"
+}

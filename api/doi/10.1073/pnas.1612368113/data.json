@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478563200000,"doi":"10.1073/pnas.1616695113","type":"correction"},"doi":"10.1073/pnas.1612368113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Yu et al., Saliva protein biomarkers to detect oral squamous cell carcinoma in a high-risk population in Taiwan"}
+{
+  "retracted": false,
+  "timestamp": 1478563200000,
+  "updates": [
+    {
+      "timestamp": 1495651421411,
+      "identifier": {
+        "doi": "10.1073/pnas.1616695113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1612368113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Yu et al., Saliva protein biomarkers to detect oral squamous cell carcinoma in a high-risk population in Taiwan"
+}

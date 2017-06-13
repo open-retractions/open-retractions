@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447545600000,"doi":"10.1016/j.compstruct.2015.07.006","type":"err"},"doi":"10.1016/j.compstruct.2015.02.055","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to “An enriched shell element formulation for efficient modeling of multiple delamination propagation in laminates” [Compos Struct 2015;126:196–206]"}
+{
+  "retracted": false,
+  "timestamp": 1447545600000,
+  "updates": [
+    {
+      "timestamp": 1496019709499,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2015.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2015.02.055"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An enriched shell element formulation for efficient modeling of multiple delamination propagation in laminates” [Compos Struct 2015;126:196–206]"
+}

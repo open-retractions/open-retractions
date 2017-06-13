@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1007/s00203-016-1292-7","type":"correction"},"doi":"10.1007/s00203-015-1184-2","journal":"Archives of Microbiology","publisher":"Springer Nature","title":"Erratum to: Paracoccus gahaiensis sp. nov. isolated from sediment of Gahai Lake, Qinghai-Tibetan Plateau, China"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495644565078,
+      "identifier": {
+        "doi": "10.1007/s00203-016-1292-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00203-015-1184-2"
+  },
+  "journal": "Archives of Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Paracoccus gahaiensis sp. nov. isolated from sediment of Gahai Lake, Qinghai-Tibetan Plateau, China"
+}

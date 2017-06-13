@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.epsl.2014.11.039","type":"err"},"doi":"10.1016/j.epsl.2014.08.033","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to ‘Optimizing multi-station earthquake template matching through re-examination of the Youngstown, Ohio, sequence’ [Earth Planet. Sci. Lett. 405 (2014) 274–280]"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496027090580,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2014.11.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2014.08.033"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Optimizing multi-station earthquake template matching through re-examination of the Youngstown, Ohio, sequence’ [Earth Planet. Sci. Lett. 405 (2014) 274–280]"
+}

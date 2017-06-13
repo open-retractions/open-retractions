@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jngse.2016.10.049","type":"erratum"},"doi":"10.1016/j.jngse.2016.01.020","journal":"Journal of Natural Gas Science and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Development of a downhole incharge inflow control valve in intelligent wells” [J. Nat. Gas Sci. Eng. 29 (2016) 559–569]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495651709693,
+      "identifier": {
+        "doi": "10.1016/j.jngse.2016.10.049"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jngse.2016.01.020"
+  },
+  "journal": "Journal of Natural Gas Science and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a downhole incharge inflow control valve in intelligent wells” [J. Nat. Gas Sci. Eng. 29 (2016) 559–569]"
+}

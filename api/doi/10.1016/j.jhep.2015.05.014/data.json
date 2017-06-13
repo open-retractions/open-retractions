@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.jhep.2015.08.016","type":"err"},"doi":"10.1016/j.jhep.2015.05.014","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Sarcopenia in non-alcoholic fatty liver disease: Targeting the real culprit?” [J Hepatol 63 (2015) 309–311]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496030239663,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2015.08.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2015.05.014"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sarcopenia in non-alcoholic fatty liver disease: Targeting the real culprit?” [J Hepatol 63 (2015) 309–311]"
+}

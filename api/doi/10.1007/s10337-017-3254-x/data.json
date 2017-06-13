@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1007/s10337-017-3279-1","type":"correction"},"doi":"10.1007/s10337-017-3254-x","journal":"Chromatographia","publisher":"Springer Nature","title":"Erratum to: A Simple Method for the Determination of 8-Oxoguanosine, 8-Oxo-2′-Deoxyguanosine and 8-Iso-Prostaglandin F2α in Human Urine by UHPLC–MS/MS"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495724841668,
+      "identifier": {
+        "doi": "10.1007/s10337-017-3279-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10337-017-3254-x"
+  },
+  "journal": "Chromatographia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Simple Method for the Determination of 8-Oxoguanosine, 8-Oxo-2′-Deoxyguanosine and 8-Iso-Prostaglandin F2α in Human Urine by UHPLC–MS/MS"
+}

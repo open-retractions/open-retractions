@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.commatsci.2015.08.026","type":"err"},"doi":"10.1016/j.commatsci.2010.08.012","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “Torsional behaviour of the ship hull composite model” [Comput. Mater. Sci. 50 (4) (2011) 1381–1386]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496024892349,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.08.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2010.08.012"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Torsional behaviour of the ship hull composite model” [Comput. Mater. Sci. 50 (4) (2011) 1381–1386]"
+}

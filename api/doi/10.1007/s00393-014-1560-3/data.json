@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428537600000,"doi":"10.1007/s00393-015-1593-2","type":"correction"},"doi":"10.1007/s00393-014-1560-3","journal":"Zeitschrift für Rheumatologie","publisher":"Springer Nature","title":"Erratum zu: Rezidivierende Polychondritis. Primär- und Verlaufsdiagnostik mittels 18F-FDG-PET/CT"}
+{
+  "retracted": false,
+  "timestamp": 1428537600000,
+  "updates": [
+    {
+      "timestamp": 1496055606281,
+      "identifier": {
+        "doi": "10.1007/s00393-015-1593-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00393-014-1560-3"
+  },
+  "journal": "Zeitschrift für Rheumatologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Rezidivierende Polychondritis. Primär- und Verlaufsdiagnostik mittels 18F-FDG-PET/CT"
+}

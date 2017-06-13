@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450656000000,"doi":"10.1016/j.jtbi.2015.10.001","type":"err"},"doi":"10.1016/j.jtbi.2015.03.018","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"A sampling formula for ecological communities with multiple dispersal syndromes"}
+{
+  "retracted": false,
+  "timestamp": 1450656000000,
+  "updates": [
+    {
+      "timestamp": 1496041014065,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2015.03.018"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "A sampling formula for ecological communities with multiple dispersal syndromes"
+}

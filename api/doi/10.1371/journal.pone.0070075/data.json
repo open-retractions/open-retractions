@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375401600000,"doi":"10.1371/annotation/746a9036-0e54-4a9a-ab16-adb108a3a227","type":"correction"},"doi":"10.1371/journal.pone.0070075","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Sequence Analysis of the Genome of Piscine Orthoreovirus (PRV) Associated with Heart and Skeletal Muscle Inflammation (HSMI) in Atlantic Salmon (Salmo salar)"}
+{
+  "retracted": false,
+  "timestamp": 1375401600000,
+  "updates": [
+    {
+      "timestamp": 1496038510457,
+      "identifier": {
+        "doi": "10.1371/annotation/746a9036-0e54-4a9a-ab16-adb108a3a227"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070075"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Sequence Analysis of the Genome of Piscine Orthoreovirus (PRV) Associated with Heart and Skeletal Muscle Inflammation (HSMI) in Atlantic Salmon (Salmo salar)"
+}

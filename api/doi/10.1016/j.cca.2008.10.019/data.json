@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1016/j.cca.2014.06.008","type":"err"},"doi":"10.1016/j.cca.2008.10.019","journal":"Clinica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Serum soluble transferrin receptor concentrations are increased in central obesity. Results from a screening programme for hereditary hemochromatosis in men with hyperferritinemia” [Clin Chim Acta 400 (2009) 111–116]"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496046251339,
+      "identifier": {
+        "doi": "10.1016/j.cca.2014.06.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cca.2008.10.019"
+  },
+  "journal": "Clinica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Serum soluble transferrin receptor concentrations are increased in central obesity. Results from a screening programme for hereditary hemochromatosis in men with hyperferritinemia” [Clin Chim Acta 400 (2009) 111–116]"
+}

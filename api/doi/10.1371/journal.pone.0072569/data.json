@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384128000000,"doi":"10.1371/annotation/e9f85804-f0d5-41c8-8b0b-afcd9fe69fd6","type":"correction"},"doi":"10.1371/journal.pone.0072569","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Receptor-Bound Guanylyl Cyclase DAF-11 Is the Mediator of Hydrogen Peroxide-Induced Cgmp Increase in Caenorhabditis elegans"}
+{
+  "retracted": false,
+  "timestamp": 1384128000000,
+  "updates": [
+    {
+      "timestamp": 1495991558092,
+      "identifier": {
+        "doi": "10.1371/annotation/e9f85804-f0d5-41c8-8b0b-afcd9fe69fd6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072569"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Receptor-Bound Guanylyl Cyclase DAF-11 Is the Mediator of Hydrogen Peroxide-Induced Cgmp Increase in Caenorhabditis elegans"
+}

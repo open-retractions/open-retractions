@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1358121600000,"doi":"10.1016/j.ccr.2012.11.004","type":"err"},"doi":"10.1016/s1535-6108(03)00030-8","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Ras Modulates Myc Activity to Repress Thrombospondin-1 Expression and Increase Tumor Angiogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1358121600000,
+  "updates": [
+    {
+      "timestamp": 1495973753648,
+      "identifier": {
+        "doi": "10.1016/j.ccr.2012.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s1535-6108(03)00030-8"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Ras Modulates Myc Activity to Repress Thrombospondin-1 Expression and Increase Tumor Angiogenesis"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1391472000000,"update":{"timestamp":null,"doi":null,"pmid":25941397,"type":"retraction"},"doi":"10.1073/pnas.1317350111","journal":"Proceedings of the National Academy of Sciences of the United States of America","publisher":null,"title":"Dengue virus envelope protein domain I/II hinge determines long-lived serotype-specific dengue immunity."}
+{
+  "retracted": false,
+  "timestamp": 1398124800000,
+  "updates": [
+    {
+      "timestamp": 1496028591446,
+      "identifier": {
+        "doi": "10.1073/pnas.1405351111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1317350111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Messer et al., Dengue virus envelope protein domain I/II hinge determines long-lived serotype-specific dengue immunity"
+}

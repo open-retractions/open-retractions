@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460937600000,"doi":"10.1080/14427591.2016.1173633","type":"correction"},"doi":"10.1080/14427591.2016.1151457","journal":"Journal of Occupational Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1460937600000,
+  "updates": [
+    {
+      "timestamp": 1495667398674,
+      "identifier": {
+        "doi": "10.1080/14427591.2016.1173633"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14427591.2016.1151457"
+  },
+  "journal": "Journal of Occupational Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

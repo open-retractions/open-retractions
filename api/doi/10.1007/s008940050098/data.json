@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":922665600000,"doi":"10.1007/s008940100004","type":"correction"},"doi":"10.1007/s008940050098","journal":"Journal of Molecular Modeling","publisher":"Springer Nature","title":"Erratum to: Molecular Mechanics: The Cross-conjugated Carbonyl Group in Heterocyclic Compounds. 1. Parameterisation (MM2) of the >C=O Bond"}
+{
+  "retracted": false,
+  "timestamp": 922665600000,
+  "updates": [
+    {
+      "timestamp": 1495650749171,
+      "identifier": {
+        "doi": "10.1007/s008940100004"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s008940050098"
+  },
+  "journal": "Journal of Molecular Modeling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular Mechanics: The Cross-conjugated Carbonyl Group in Heterocyclic Compounds. 1. Parameterisation (MM2) of the >C=O Bond"
+}

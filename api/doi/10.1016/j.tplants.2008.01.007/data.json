@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.tplants.2014.01.012","type":"err"},"doi":"10.1016/j.tplants.2008.01.007","journal":"Trends in Plant Science","publisher":"Elsevier BV","title":"Erratum to: Brachypodium distachyon: making hay with a wild grass"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496019154397,
+      "identifier": {
+        "doi": "10.1016/j.tplants.2014.01.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tplants.2008.01.007"
+  },
+  "journal": "Trends in Plant Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Brachypodium distachyon: making hay with a wild grass"
+}

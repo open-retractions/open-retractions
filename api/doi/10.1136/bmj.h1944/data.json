@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429660800000,"doi":"10.1136/bmj.h2173","type":"correction"},"doi":"10.1136/bmj.h1944","journal":"BMJ","publisher":"BMJ","title":"A young soccer player with sudden pain after kicking the ball"}
+{
+  "retracted": false,
+  "timestamp": 1429660800000,
+  "updates": [
+    {
+      "timestamp": 1496059576342,
+      "identifier": {
+        "doi": "10.1136/bmj.h2173"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h1944"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "A young soccer player with sudden pain after kicking the ball"
+}

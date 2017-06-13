@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354060800000,"doi":"10.1038/srep00909","type":"correction"},"doi":"10.1038/srep00569","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: ERRATUM: Molecular dynamics simulations of Ago silencing complexes reveal a large repertoire of admissible 'seed-less' targets"}
+{
+  "retracted": false,
+  "timestamp": 1354060800000,
+  "updates": [
+    {
+      "timestamp": 1495984257740,
+      "identifier": {
+        "doi": "10.1038/srep00909"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep00569"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: ERRATUM: Molecular dynamics simulations of Ago silencing complexes reveal a large repertoire of admissible 'seed-less' targets"
+}

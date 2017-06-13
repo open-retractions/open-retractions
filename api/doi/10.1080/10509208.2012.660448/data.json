@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1080/10509208.2014.912064","type":"correction"},"doi":"10.1080/10509208.2012.660448","journal":"Quarterly Review of Film and Video","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038070126,
+      "identifier": {
+        "doi": "10.1080/10509208.2014.912064"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10509208.2012.660448"
+  },
+  "journal": "Quarterly Review of Film and Video",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

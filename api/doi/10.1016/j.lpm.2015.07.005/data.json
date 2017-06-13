@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.lpm.2015.09.002","type":"err"},"doi":"10.1016/j.lpm.2015.07.005","journal":"La Presse Médicale","publisher":"Elsevier BV","title":"Erratum à l’article : « Durée optimale du traitement anticoagulant au décours d’une embolie pulmonaire » [Press Med 44 (2015) 779–90]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496036185552,
+      "identifier": {
+        "doi": "10.1016/j.lpm.2015.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lpm.2015.07.005"
+  },
+  "journal": "La Presse Médicale",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à l’article : « Durée optimale du traitement anticoagulant au décours d’une embolie pulmonaire » [Press Med 44 (2015) 779–90]"
+}

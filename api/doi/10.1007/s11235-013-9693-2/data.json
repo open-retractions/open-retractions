@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377907200000,"doi":"10.1007/s11235-013-9861-4","type":"correction"},"doi":"10.1007/s11235-013-9693-2","journal":"Telecommunication Systems","publisher":"Springer Nature","title":"Erratum to: Joint subcarrier and power allocation for downlink cellular OFDMA systems by intercell interference limitation"}
+{
+  "retracted": false,
+  "timestamp": 1377907200000,
+  "updates": [
+    {
+      "timestamp": 1496043013699,
+      "identifier": {
+        "doi": "10.1007/s11235-013-9861-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11235-013-9693-2"
+  },
+  "journal": "Telecommunication Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Joint subcarrier and power allocation for downlink cellular OFDMA systems by intercell interference limitation"
+}

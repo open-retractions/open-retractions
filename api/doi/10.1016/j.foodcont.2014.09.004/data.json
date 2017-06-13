@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.foodcont.2016.08.012","type":"erratum"},"doi":"10.1016/j.foodcont.2014.09.004","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Assessment of grape cluster yield components based on 3D descriptors using stereo vision” [Food Control 50 (April 2015) 273–282]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495738025355,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2016.08.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2014.09.004"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessment of grape cluster yield components based on 3D descriptors using stereo vision” [Food Control 50 (April 2015) 273–282]"
+}

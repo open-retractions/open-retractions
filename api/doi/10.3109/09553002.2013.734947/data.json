@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433721600000,"doi":"10.3109/09553002.2015.1047990","type":"correction"},"doi":"10.3109/09553002.2013.734947","journal":"International Journal of Radiation Biology","publisher":"Informa UK Limited","title":"Compromised hematopoiesis and increased DNA damage following non-lethal ionizing radiation of a human hematopoietic system reconstituted in immunodeficient mice"}
+{
+  "retracted": false,
+  "timestamp": 1433721600000,
+  "updates": [
+    {
+      "timestamp": 1496004979091,
+      "identifier": {
+        "doi": "10.3109/09553002.2015.1047990"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/09553002.2013.734947"
+  },
+  "journal": "International Journal of Radiation Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Compromised hematopoiesis and increased DNA damage following non-lethal ionizing radiation of a human hematopoietic system reconstituted in immunodeficient mice"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.geomphys.2013.10.006","type":"err"},"doi":"10.1016/j.geomphys.2008.01.006","journal":"Journal of Geometry and Physics","publisher":"Elsevier BV","title":"Corrigendum to “Singular unitarity in “quantization commutes with reduction””"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495996969216,
+      "identifier": {
+        "doi": "10.1016/j.geomphys.2013.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geomphys.2008.01.006"
+  },
+  "journal": "Journal of Geometry and Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Singular unitarity in “quantization commutes with reduction””"
+}

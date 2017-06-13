@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jsbmb.2015.04.013","type":"err"},"doi":"10.1016/j.jsbmb.2015.01.017","journal":"The Journal of Steroid Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “Vitamin D for the treatment of respiratory diseases: Is it the end or just the beginning?” [J. Steroid Biochem. Mol. Biol. 148 (2015) 326–337]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496058777420,
+      "identifier": {
+        "doi": "10.1016/j.jsbmb.2015.04.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsbmb.2015.01.017"
+  },
+  "journal": "The Journal of Steroid Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Vitamin D for the treatment of respiratory diseases: Is it the end or just the beginning?” [J. Steroid Biochem. Mol. Biol. 148 (2015) 326–337]"
+}

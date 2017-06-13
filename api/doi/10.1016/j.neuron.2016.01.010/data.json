@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462320000000,"doi":"10.1016/j.neuron.2016.03.035","type":"err"},"doi":"10.1016/j.neuron.2016.01.010","journal":"Neuron","publisher":"Elsevier BV","title":"Inhibitory Synapses Are Repeatedly Assembled and Removed at Persistent Sites In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1462320000000,
+  "updates": [
+    {
+      "timestamp": 1495674004292,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.03.035"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2016.01.010"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Inhibitory Synapses Are Repeatedly Assembled and Removed at Persistent Sites In Vivo"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1136/jmedgenet-2014-102732corr1","type":"correction"},"doi":"10.1136/jmedgenet-2014-102732","journal":"Journal of Medical Genetics","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496036313576,
+      "identifier": {
+        "doi": "10.1136/jmedgenet-2014-102732corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/jmedgenet-2014-102732"
+  },
+  "journal": "Journal of Medical Genetics",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

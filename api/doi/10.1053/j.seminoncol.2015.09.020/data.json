@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1053/j.seminoncol.2016.06.010","type":"err"},"doi":"10.1053/j.seminoncol.2015.09.020","journal":"Seminars in Oncology","publisher":"Elsevier BV","title":"Functional crosstalk between WNT signaling and tyrosine kinase signaling in cancer"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495641364620,
+      "identifier": {
+        "doi": "10.1053/j.seminoncol.2016.06.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1053/j.seminoncol.2015.09.020"
+  },
+  "journal": "Seminars in Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Functional crosstalk between WNT signaling and tyrosine kinase signaling in cancer"
+}

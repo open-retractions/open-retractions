@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.cct.2016.09.008","type":"err"},"doi":"10.1016/j.cct.2016.06.002","journal":"Contemporary Clinical Trials","publisher":"Elsevier BV","title":"Corrigendum to “Interim methadone and patient navigation in jail: Rationale and design of a randomized clinical trial.” [Contemp. Clin. Trials 49 (2016): 21–28]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495647288041,
+      "identifier": {
+        "doi": "10.1016/j.cct.2016.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cct.2016.06.002"
+  },
+  "journal": "Contemporary Clinical Trials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interim methadone and patient navigation in jail: Rationale and design of a randomized clinical trial.” [Contemp. Clin. Trials 49 (2016): 21–28]"
+}

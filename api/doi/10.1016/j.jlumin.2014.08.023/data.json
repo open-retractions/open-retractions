@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jlumin.2014.12.023","type":"err"},"doi":"10.1016/j.jlumin.2014.08.023","journal":"Journal of Luminescence","publisher":"Elsevier BV","title":"Erratum to The electronic structure and photoluminescence properties of BiOCl:Eu3+ from first-principles calculations [J. Lumin. 156 (2014) 205–211]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496034455060,
+      "identifier": {
+        "doi": "10.1016/j.jlumin.2014.12.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jlumin.2014.08.023"
+  },
+  "journal": "Journal of Luminescence",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to The electronic structure and photoluminescence properties of BiOCl:Eu3+ from first-principles calculations [J. Lumin. 156 (2014) 205–211]"
+}

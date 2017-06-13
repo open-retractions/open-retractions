@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426550400000,"doi":"10.1063/1.4915140","type":"correction"},"doi":"10.1063/1.4913572","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: “A stochastic perturbation method to generate inflow turbulence in large-eddy simulation models: Application to neutrally stratified atmospheric boundary layers” [Phys. Fluids 27, 035102 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1426550400000,
+  "updates": [
+    {
+      "timestamp": 1496050482538,
+      "identifier": {
+        "doi": "10.1063/1.4915140"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4913572"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A stochastic perturbation method to generate inflow turbulence in large-eddy simulation models: Application to neutrally stratified atmospheric boundary layers” [Phys. Fluids 27, 035102 (2015)]"
+}

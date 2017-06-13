@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387497600000,"doi":"10.3109/01443615.2014.859943","type":"correction"},"doi":"10.1080/01443610220141272","journal":"Journal of Obstetrics and Gynaecology","publisher":"Informa Healthcare","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1387497600000,
+  "updates": [
+    {
+      "timestamp": 1496006279293,
+      "identifier": {
+        "doi": "10.3109/01443615.2014.859943"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01443610220141272"
+  },
+  "journal": "Journal of Obstetrics and Gynaecology",
+  "publisher": "Informa Healthcare",
+  "title": "CORRIGENDUM"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363046400000,"doi":"10.1063/1.4795084","type":"correction"},"doi":"10.1063/1.4748378","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Mean-field theory of the phase diagram of ultrasoft, oppositely charged polyions in solution” [J. Chem. Phys. 137, 094905 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1363046400000,
+  "updates": [
+    {
+      "timestamp": 1496004420438,
+      "identifier": {
+        "doi": "10.1063/1.4795084"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4748378"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Mean-field theory of the phase diagram of ultrasoft, oppositely charged polyions in solution” [J. Chem. Phys. 137, 094905 (2012)]"
+}

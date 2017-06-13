@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1080/00071668.2017.1283836","type":"correction"},"doi":"10.1080/00071668.2014.924093","journal":"British Poultry Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495731130682,
+      "identifier": {
+        "doi": "10.1080/00071668.2017.1283836"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00071668.2014.924093"
+  },
+  "journal": "British Poultry Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.trc.2014.03.013","type":"err"},"doi":"10.1016/j.trc.2013.05.007","journal":"Transportation Research Part C: Emerging Technologies","publisher":"Elsevier BV","title":"Erratum to “Supporting the design of railway systems by means of a Sobol variance-based sensitivity analysis” [Transp. Res. – Part C 34 (2013) 38–54]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496035003003,
+      "identifier": {
+        "doi": "10.1016/j.trc.2014.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.trc.2013.05.007"
+  },
+  "journal": "Transportation Research Part C: Emerging Technologies",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Supporting the design of railway systems by means of a Sobol variance-based sensitivity analysis” [Transp. Res. – Part C 34 (2013) 38–54]"
+}

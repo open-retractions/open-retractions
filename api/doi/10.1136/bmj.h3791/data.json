@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439856000000,"doi":"10.1136/bmj.h4505","type":"correction"},"doi":"10.1136/bmj.h3791","journal":"BMJ","publisher":"BMJ","title":"Involving patients in enrolment decisions for acute myocardial infarction trials"}
+{
+  "retracted": false,
+  "timestamp": 1439856000000,
+  "updates": [
+    {
+      "timestamp": 1496022290583,
+      "identifier": {
+        "doi": "10.1136/bmj.h4505"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h3791"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Involving patients in enrolment decisions for acute myocardial infarction trials"
+}

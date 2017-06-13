@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474848000000,"doi":"10.1186/s12911-016-0364-6","type":"correction"},"doi":"10.1186/s12911-016-0352-x","journal":"BMC Medical Informatics and Decision Making","publisher":"Springer Nature","title":"Erratum to: Prescription reporting with immediate medication utilization mapping (PRIMUM): development of an alert to improve narcotic prescribing"}
+{
+  "retracted": false,
+  "timestamp": 1474848000000,
+  "updates": [
+    {
+      "timestamp": 1495643116256,
+      "identifier": {
+        "doi": "10.1186/s12911-016-0364-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12911-016-0352-x"
+  },
+  "journal": "BMC Medical Informatics and Decision Making",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prescription reporting with immediate medication utilization mapping (PRIMUM): development of an alert to improve narcotic prescribing"
+}

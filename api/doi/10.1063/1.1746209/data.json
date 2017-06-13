@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-557625600000,"doi":"10.1063/1.1746235","type":"erratum"},"doi":"10.1063/1.1746209","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: Oscilloscope (New Instruments)"}
+{
+  "retracted": false,
+  "timestamp": -557625600000,
+  "updates": [
+    {
+      "timestamp": 1495920842053,
+      "identifier": {
+        "doi": "10.1063/1.1746235"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1746209"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Oscilloscope (New Instruments)"
+}

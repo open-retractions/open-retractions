@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1233014400000,"doi":"10.1073/pnas.0900490106","type":"correction"},"doi":"10.1073/pnas.0812065106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Schupp et al., Retinol saturase promotes adipogenesis and is downregulated in obesity"}
+{
+  "retracted": false,
+  "timestamp": 1233014400000,
+  "updates": [
+    {
+      "timestamp": 1495921491722,
+      "identifier": {
+        "doi": "10.1073/pnas.0900490106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0812065106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Schupp et al., Retinol saturase promotes adipogenesis and is downregulated in obesity"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.rse.2014.09.014","type":"err"},"doi":"10.1016/j.rse.2012.10.025","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Corrigendum to “Urban growth of the Washington, D.C.–Baltimore, MD metropolitan region from 1984 to 2010 by annual, Landsat-based estimates of impervious cover” [Remote Sensing of Environment 129 (2013) 42–53]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496013651316,
+      "identifier": {
+        "doi": "10.1016/j.rse.2014.09.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2012.10.025"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Urban growth of the Washington, D.C.–Baltimore, MD metropolitan region from 1984 to 2010 by annual, Landsat-based estimates of impervious cover” [Remote Sensing of Environment 129 (2013) 42–53]"
+}

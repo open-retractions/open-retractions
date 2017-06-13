@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.bbamem.2013.10.013","type":"err"},"doi":"10.1016/j.bbamem.2012.05.026","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"Corrigendum to “Gap junction-mediated electrical transmission: Regulatory mechanisms and plasticity” [Biochim. Biophys. Acta 1828 (2013) 134–146]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496056500337,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2013.10.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2012.05.026"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gap junction-mediated electrical transmission: Regulatory mechanisms and plasticity” [Biochim. Biophys. Acta 1828 (2013) 134–146]"
+}

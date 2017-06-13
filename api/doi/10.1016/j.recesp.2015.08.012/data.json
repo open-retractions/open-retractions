@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.recesp.2016.01.014","type":"err"},"doi":"10.1016/j.recesp.2015.08.012","journal":"Revista Española de Cardiología","publisher":"Elsevier BV","title":"Corrección en el artículo de Cano et al. «Registro Español de Marcapasos. XII Informe Oficial de la Sección de Estimulación Cardiaca de la Sociedad Española de Cardiología (2014)», Rev Esp Cardiol. 2015;68:1138-53.e1-e8"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495651402062,
+      "identifier": {
+        "doi": "10.1016/j.recesp.2016.01.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.recesp.2015.08.012"
+  },
+  "journal": "Revista Española de Cardiología",
+  "publisher": "Elsevier BV",
+  "title": "Corrección en el artículo de Cano et al. «Registro Español de Marcapasos. XII Informe Oficial de la Sección de Estimulación Cardiaca de la Sociedad Española de Cardiología (2014)», Rev Esp Cardiol. 2015;68:1138-53.e1-e8"
+}

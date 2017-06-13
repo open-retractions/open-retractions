@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1053/j.jrn.2016.09.005","type":"err"},"doi":"10.1053/j.jrn.2016.02.005","journal":"Journal of Renal Nutrition","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495649017021,
+      "identifier": {
+        "doi": "10.1053/j.jrn.2016.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1053/j.jrn.2016.02.005"
+  },
+  "journal": "Journal of Renal Nutrition",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

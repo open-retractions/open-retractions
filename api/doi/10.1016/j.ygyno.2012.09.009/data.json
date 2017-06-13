@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.ygyno.2013.10.017","type":"err"},"doi":"10.1016/j.ygyno.2012.09.009","journal":"Gynecologic Oncology","publisher":"Elsevier BV","title":"Corrigendum to: Loss of function germline mutations in RAD51D in women with ovarian carcinoma [Gynecol Oncol 127: 552–555, 2012]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495990841971,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2013.10.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2012.09.009"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Loss of function germline mutations in RAD51D in women with ovarian carcinoma [Gynecol Oncol 127: 552–555, 2012]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472169600000,"doi":"10.1038/srep30103","type":"correction"},"doi":"10.1038/srep25491","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Characterization of anti-leukemia components from Indigo naturalis using comprehensive two-dimensional K562/cell membrane chromatography and in silico target identification"}
+{
+  "retracted": false,
+  "timestamp": 1472169600000,
+  "updates": [
+    {
+      "timestamp": 1495739449902,
+      "identifier": {
+        "doi": "10.1038/srep30103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep25491"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Characterization of anti-leukemia components from Indigo naturalis using comprehensive two-dimensional K562/cell membrane chromatography and in silico target identification"
+}

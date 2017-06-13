@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s00330-014-3228-4","type":"correction"},"doi":"10.1007/s00330-014-3132-y","journal":"European Radiology","publisher":"Springer Nature","title":"Erratum to: Underestimation rate of lobular intraepithelial neoplasia in vacuum-assisted breast biopsy"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496042034011,
+      "identifier": {
+        "doi": "10.1007/s00330-014-3228-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00330-014-3132-y"
+  },
+  "journal": "European Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Underestimation rate of lobular intraepithelial neoplasia in vacuum-assisted breast biopsy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.1080/0950236x.2015.1040286","type":"correction"},"doi":"10.1080/0950236x.2014.955817","journal":"Textual Practice","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1495996251861,
+      "identifier": {
+        "doi": "10.1080/0950236x.2015.1040286"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0950236x.2014.955817"
+  },
+  "journal": "Textual Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.micinf.2014.08.019","type":"erratum"},"doi":"10.1016/j.micinf.2011.07.012","journal":"Microbes and Infection","publisher":"Elsevier BV","title":"‘Corrigendum to “Control of host inflammatory responsiveness by indigenous microbiota reveals an adaptive component of the innate immune system” [Microbes Infect 13 (2011) 1121–32]’"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496005212987,
+      "identifier": {
+        "doi": "10.1016/j.micinf.2014.08.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micinf.2011.07.012"
+  },
+  "journal": "Microbes and Infection",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “Control of host inflammatory responsiveness by indigenous microbiota reveals an adaptive component of the innate immune system” [Microbes Infect 13 (2011) 1121–32]’"
+}

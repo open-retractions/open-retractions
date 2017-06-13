@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412467200000,"doi":"10.1007/s11011-014-9620-6","type":"correction"},"doi":"10.1007/s11011-014-9610-8","journal":"Metabolic Brain Disease","publisher":"Springer Nature","title":"Erratum to: TNFR1 absence protects against memory deficit induced by sepsis possibly through over-expression of hippocampal BDNF"}
+{
+  "retracted": false,
+  "timestamp": 1412467200000,
+  "updates": [
+    {
+      "timestamp": 1496012164975,
+      "identifier": {
+        "doi": "10.1007/s11011-014-9620-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11011-014-9610-8"
+  },
+  "journal": "Metabolic Brain Disease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: TNFR1 absence protects against memory deficit induced by sepsis possibly through over-expression of hippocampal BDNF"
+}

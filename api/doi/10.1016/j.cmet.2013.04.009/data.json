@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1016/j.cmet.2014.04.013","type":"err"},"doi":"10.1016/j.cmet.2013.04.009","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Adiponectin Regulates Bone Mass via Opposite Central and Peripheral Mechanisms through FoxO1"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496036921900,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2014.04.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2013.04.009"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Adiponectin Regulates Bone Mass via Opposite Central and Peripheral Mechanisms through FoxO1"
+}

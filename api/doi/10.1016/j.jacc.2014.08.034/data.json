@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1016/j.jacc.2014.12.007","type":"err"},"doi":"10.1016/j.jacc.2014.08.034","journal":"Journal of the American College of Cardiology","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496039053630,
+      "identifier": {
+        "doi": "10.1016/j.jacc.2014.12.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jacc.2014.08.034"
+  },
+  "journal": "Journal of the American College of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

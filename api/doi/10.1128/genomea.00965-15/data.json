@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1128/genomea.01639-15","type":"correction"},"doi":"10.1128/genomea.00965-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Correction for Weigand et al., Complete Genome Sequences of TwoBordetella hinziiStrains Isolated from Humans"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1496060229764,
+      "identifier": {
+        "doi": "10.1128/genomea.01639-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00965-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Weigand et al., Complete Genome Sequences of TwoBordetella hinziiStrains Isolated from Humans"
+}

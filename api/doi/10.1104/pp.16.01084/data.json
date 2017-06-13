@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1104/pp.17.00104","type":"correction"},"doi":"10.1104/pp.16.01084","journal":"Plant Physiology","publisher":"American Society of Plant Biologists (ASPB)","title":"CORRECTION"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495726159631,
+      "identifier": {
+        "doi": "10.1104/pp.17.00104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1104/pp.16.01084"
+  },
+  "journal": "Plant Physiology",
+  "publisher": "American Society of Plant Biologists (ASPB)",
+  "title": "CORRECTION"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1371/annotation/04c791d5-a71c-493d-b94a-a57b158c5538","type":"correction"},"doi":"10.1371/journal.pone.0056387","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Calreticulin Induces Dilated Cardiomyopathy"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495995762943,
+      "identifier": {
+        "doi": "10.1371/annotation/04c791d5-a71c-493d-b94a-a57b158c5538"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0056387"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Calreticulin Induces Dilated Cardiomyopathy"
+}

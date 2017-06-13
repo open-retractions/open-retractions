@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1232409600000,"doi":"10.1371/annotation/1074cd39-708b-45ef-943a-e9d1c5bbdedd","type":"correction"},"doi":"10.1371/journal.pone.0003151","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Predominant Role for Parenchymal c-Jun Amino Terminal Kinase (JNK) in the Regulation of Systemic Insulin Sensitivity"}
+{
+  "retracted": false,
+  "timestamp": 1232409600000,
+  "updates": [
+    {
+      "timestamp": 1496025195708,
+      "identifier": {
+        "doi": "10.1371/annotation/1074cd39-708b-45ef-943a-e9d1c5bbdedd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003151"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Predominant Role for Parenchymal c-Jun Amino Terminal Kinase (JNK) in the Regulation of Systemic Insulin Sensitivity"
+}

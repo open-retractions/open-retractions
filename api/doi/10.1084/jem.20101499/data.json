@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1302480000000,"doi":"10.1084/jem.201014992084c","type":"correction"},"doi":"10.1084/jem.20101499","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Human B1 cells in umbilical cord and adult peripheral blood express the novel phenotype CD20+CD27+CD43+CD70−"}
+{
+  "retracted": false,
+  "timestamp": 1302480000000,
+  "updates": [
+    {
+      "timestamp": 1495946748919,
+      "identifier": {
+        "doi": "10.1084/jem.201014992084c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20101499"
+  },
+  "publisher": "Rockefeller University Press",
+  "title": "Human B1 cells in umbilical cord and adult peripheral blood express the novel phenotype CD20+CD27+CD43+CD70−"
+}

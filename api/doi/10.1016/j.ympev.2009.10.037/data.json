@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.ympev.2016.11.011","type":"erratum"},"doi":"10.1016/j.ympev.2009.10.037","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “Evolution and taxonomy of the wild species of the genus Ovis (Mammalia, Artiodactyla, Bovidae)” [Mol. Phylogenet. Evol. 54(2) (2010) 315–326]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495661584783,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2016.11.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2009.10.037"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evolution and taxonomy of the wild species of the genus  Ovis  (Mammalia, Artiodactyla, Bovidae)” [Mol. Phylogenet. Evol. 54(2) (2010) 315–326]"
+}

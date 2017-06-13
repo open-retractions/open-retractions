@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.hrthm.2014.09.052","type":"err"},"doi":"10.1016/j.hrthm.2012.10.028","journal":"Heart Rhythm","publisher":"Elsevier BV","title":"Corrigendum to “Influence of cycle length variations on antitachycardia pacing effectiveness among ICD patients”. HeartRhythm. 2013 Feb;10(2):207-13."}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496008323898,
+      "identifier": {
+        "doi": "10.1016/j.hrthm.2014.09.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hrthm.2012.10.028"
+  },
+  "journal": "Heart Rhythm",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of cycle length variations on antitachycardia pacing effectiveness among ICD patients”. HeartRhythm. 2013 Feb;10(2):207-13."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381363200000,"doi":"10.1371/annotation/6168e62e-6d5b-47a4-bf92-bae95d09d92b","type":"correction"},"doi":"10.1371/journal.pone.0046713","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Unique C2V3 Sequence in HIV-1 Envelope Obtained from Broadly Neutralizing Plasma of a Slow Progressing Patient Conferred Enhanced Virus Neutralization"}
+{
+  "retracted": false,
+  "timestamp": 1381363200000,
+  "updates": [
+    {
+      "timestamp": 1496052580149,
+      "identifier": {
+        "doi": "10.1371/annotation/6168e62e-6d5b-47a4-bf92-bae95d09d92b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0046713"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Unique C2V3 Sequence in HIV-1 Envelope Obtained from Broadly Neutralizing Plasma of a Slow Progressing Patient Conferred Enhanced Virus Neutralization"
+}

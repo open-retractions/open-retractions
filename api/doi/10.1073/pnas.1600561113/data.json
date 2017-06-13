@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472515200000,"doi":"10.1073/pnas.1612785113","type":"correction"},"doi":"10.1073/pnas.1600561113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chesnokova et al., Growth hormone is permissive for neoplastic colon growth"}
+{
+  "retracted": false,
+  "timestamp": 1472515200000,
+  "updates": [
+    {
+      "timestamp": 1495738544614,
+      "identifier": {
+        "doi": "10.1073/pnas.1612785113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1600561113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chesnokova et al., Growth hormone is permissive for neoplastic colon growth"
+}

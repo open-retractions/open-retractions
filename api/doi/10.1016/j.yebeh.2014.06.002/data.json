@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.yebeh.2014.10.015","type":"err"},"doi":"10.1016/j.yebeh.2014.06.002","journal":"Epilepsy & Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Psychiatric outcome of epilepsy surgery in patients with psychosis and temporal lobe drug-resistant epilepsy: A prospective case series” [Epilepsy Behav 37 (2014) 165–170]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495995088963,
+      "identifier": {
+        "doi": "10.1016/j.yebeh.2014.10.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yebeh.2014.06.002"
+  },
+  "journal": "Epilepsy & Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Psychiatric outcome of epilepsy surgery in patients with psychosis and temporal lobe drug-resistant epilepsy: A prospective case series” [Epilepsy Behav 37 (2014) 165–170]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.exger.2013.02.019","type":"err"},"doi":"10.1016/j.exger.2012.12.002","journal":"Experimental Gerontology","publisher":"Elsevier BV","title":"Corrigendum to “Autophagy induction extends lifespan and reduces lipids content in response to frataxin silencing in C. elegans” [Exp. Gerontol. 48 (2013) 191–201]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496004652557,
+      "identifier": {
+        "doi": "10.1016/j.exger.2013.02.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exger.2012.12.002"
+  },
+  "journal": "Experimental Gerontology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Autophagy induction extends lifespan and reduces lipids content in response to frataxin silencing in C. elegans” [Exp. Gerontol. 48 (2013) 191–201]"
+}

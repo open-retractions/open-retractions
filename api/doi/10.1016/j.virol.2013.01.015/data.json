@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.virol.2013.08.007","type":"err"},"doi":"10.1016/j.virol.2013.01.015","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “The modulation of hepatitis C virus 1a replication by PKR is dependent on NF-kB mediated interferon beta response in Huh7.5.1 cells” [Virology 438 (2013) 28–36]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496052012988,
+      "identifier": {
+        "doi": "10.1016/j.virol.2013.08.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2013.01.015"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The modulation of hepatitis C virus 1a replication by PKR is dependent on NF-kB mediated interferon beta response in Huh7.5.1 cells” [Virology 438 (2013) 28–36]"
+}

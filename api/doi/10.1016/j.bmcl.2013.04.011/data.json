@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1016/j.bmcl.2013.06.018","type":"err"},"doi":"10.1016/j.bmcl.2013.04.011","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Anti-adipogenic activity of compounds isolated from Idesia polycarpa on 3T3-L1 cells” [Bioorg. Med. Chem. Lett. 23 (2013) 3170–3174]"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496029633103,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2013.06.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2013.04.011"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Anti-adipogenic activity of compounds isolated from Idesia polycarpa on 3T3-L1 cells” [Bioorg. Med. Chem. Lett. 23 (2013) 3170–3174]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381276800000,"doi":"10.1371/annotation/d884b668-04f7-4ae6-96a3-a199df5b43be","type":"correction"},"doi":"10.1371/journal.pone.0058721","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: RASopathic Skin Eruptions during Vemurafenib Therapy"}
+{
+  "retracted": false,
+  "timestamp": 1381276800000,
+  "updates": [
+    {
+      "timestamp": 1496054748346,
+      "identifier": {
+        "doi": "10.1371/annotation/d884b668-04f7-4ae6-96a3-a199df5b43be"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0058721"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: RASopathic Skin Eruptions during Vemurafenib Therapy"
+}

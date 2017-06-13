@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1241222400000,"doi":"10.1007/bf03024519","type":"correction"},"doi":"10.1007/bf03025286","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: Constructions Using Conics"}
+{
+  "retracted": false,
+  "timestamp": 1241222400000,
+  "updates": [
+    {
+      "timestamp": 1495912347854,
+      "identifier": {
+        "doi": "10.1007/bf03024519"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03025286"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Constructions Using Conics"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1206403200000,"doi":"10.1007/s00464-008-9893-0","type":"correction"},"doi":"10.1007/s00464-008-9766-6","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Noninvasive management of obstructing ureteral stones using electromagnetic extracorporeal shock wave lithotripsy"}
+{
+  "retracted": false,
+  "timestamp": 1206403200000,
+  "updates": [
+    {
+      "timestamp": 1495840874366,
+      "identifier": {
+        "doi": "10.1007/s00464-008-9893-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-008-9766-6"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Noninvasive management of obstructing ureteral stones using electromagnetic extracorporeal shock wave lithotripsy"
+}

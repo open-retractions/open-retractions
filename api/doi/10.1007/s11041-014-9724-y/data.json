@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412380800000,"doi":"10.1007/s11041-014-9758-1","type":"correction"},"doi":"10.1007/s11041-014-9724-y","journal":"Metal Science and Heat Treatment","publisher":"Springer Nature","title":"Erratum to: Estimation of Mechanical Properties of Stainless Steel AISI 410 by Small-Punch Testing (Erickson Test)"}
+{
+  "retracted": false,
+  "timestamp": 1412380800000,
+  "updates": [
+    {
+      "timestamp": 1496011855422,
+      "identifier": {
+        "doi": "10.1007/s11041-014-9758-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11041-014-9724-y"
+  },
+  "journal": "Metal Science and Heat Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimation of Mechanical Properties of Stainless Steel AISI 410 by Small-Punch Testing (Erickson Test)"
+}

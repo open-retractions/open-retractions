@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.patcog.2014.08.005","type":"err"},"doi":"10.1016/j.patcog.2010.11.017","journal":"Pattern Recognition","publisher":"Elsevier BV","title":"Retraction notice to “A framework with modified fast FCM for brain MR images segmentation” [Pattern Recognit. 44/5 (2011) 999–1013]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496005586767,
+      "identifier": {
+        "doi": "10.1016/j.patcog.2014.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patcog.2010.11.017"
+  },
+  "journal": "Pattern Recognition",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “A framework with modified fast FCM for brain MR images segmentation” [Pattern Recognit. 44/5 (2011) 999–1013]"
+}

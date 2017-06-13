@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456963200000,"doi":"10.1007/s00580-016-2245-x","type":"correction"},"doi":"10.1007/s00580-016-2236-y","journal":"Comparative Clinical Pathology","publisher":"Springer Nature","title":"Erratum to: Postpartum pathology in Yankasa ewes experimentally infected with Trypanosoma evansi during pregnancy"}
+{
+  "retracted": false,
+  "timestamp": 1456963200000,
+  "updates": [
+    {
+      "timestamp": 1495650248275,
+      "identifier": {
+        "doi": "10.1007/s00580-016-2245-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00580-016-2236-y"
+  },
+  "journal": "Comparative Clinical Pathology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Postpartum pathology in Yankasa ewes experimentally infected with Trypanosoma evansi during pregnancy"
+}

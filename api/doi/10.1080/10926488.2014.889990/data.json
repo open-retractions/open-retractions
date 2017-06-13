@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1080/10926488.2014.935131","type":"correction"},"doi":"10.1080/10926488.2014.889990","journal":"Metaphor and Symbol","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496050764954,
+      "identifier": {
+        "doi": "10.1080/10926488.2014.935131"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10926488.2014.889990"
+  },
+  "journal": "Metaphor and Symbol",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

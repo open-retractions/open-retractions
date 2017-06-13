@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1038/srep12656","type":"correction"},"doi":"10.1038/srep11380","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Identification of the gene defect responsible for severe hypercholesterolaemia using whole-exome sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019917499,
+      "identifier": {
+        "doi": "10.1038/srep12656"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep11380"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Identification of the gene defect responsible for severe hypercholesterolaemia using whole-exome sequencing"
+}

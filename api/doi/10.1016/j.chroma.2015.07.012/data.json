@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449187200000,"doi":"10.1016/j.chroma.2015.10.074","type":"err"},"doi":"10.1016/j.chroma.2015.07.012","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Corrigendum to “Analysis of multi-site drug–protein interactions by high-performance affinity chromatography: Binding by glimepiride to normal or glycated human serum albumin” [J. Chromatogr. A 1408 (2015) 133–144]"}
+{
+  "retracted": false,
+  "timestamp": 1449187200000,
+  "updates": [
+    {
+      "timestamp": 1496042095452,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2015.10.074"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2015.07.012"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analysis of multi-site drug–protein interactions by high-performance affinity chromatography: Binding by glimepiride to normal or glycated human serum albumin” [J. Chromatogr. A 1408 (2015) 133–144]"
+}

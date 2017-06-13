@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419984000000,"doi":"10.1063/1.4905516","type":"correction"},"doi":"10.1063/1.3662430","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “The inner structure of collisionless magnetic reconnection: The electron-frame dissipation measure and Hall fields” [Phys. Plasmas 18, 122108 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1419984000000,
+  "updates": [
+    {
+      "timestamp": 1496033982029,
+      "identifier": {
+        "doi": "10.1063/1.4905516"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3662430"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The inner structure of collisionless magnetic reconnection: The electron-frame dissipation measure and Hall fields” [Phys. Plasmas 18, 122108 (2011)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382659200000,"doi":"10.1371/annotation/121b04a1-0cbb-4e24-8a63-fc9cdd31ec76","type":"correction"},"doi":"10.1371/journal.pone.0057329","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Klf4 Is a Transcriptional Regulator of Genes Critical for EMT, Including Jnk1 (Mapk8)"}
+{
+  "retracted": false,
+  "timestamp": 1382659200000,
+  "updates": [
+    {
+      "timestamp": 1495992351009,
+      "identifier": {
+        "doi": "10.1371/annotation/121b04a1-0cbb-4e24-8a63-fc9cdd31ec76"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0057329"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Klf4 Is a Transcriptional Regulator of Genes Critical for EMT, Including Jnk1 (Mapk8)"
+}

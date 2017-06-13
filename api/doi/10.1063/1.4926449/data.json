@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1063/1.4960384","type":"correction"},"doi":"10.1063/1.4926449","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Numerical investigation of fast-wave propagation and radio-frequency sheath interaction with a shaped tokamak wall” [Phys. Plasmas 22, 072504 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495733905821,
+      "identifier": {
+        "doi": "10.1063/1.4960384"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4926449"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Numerical investigation of fast-wave propagation and radio-frequency sheath interaction with a shaped tokamak wall” [Phys. Plasmas 22, 072504 (2015)]"
+}

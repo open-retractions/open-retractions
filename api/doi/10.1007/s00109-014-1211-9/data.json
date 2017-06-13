@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423872000000,"doi":"10.1007/s00109-015-1262-6","type":"correction"},"doi":"10.1007/s00109-014-1211-9","journal":"Journal of Molecular Medicine","publisher":"Springer Nature","title":"Erratum to: Angiotensin II stimulates canonical TGF-β signaling pathway through angiotensin type 1 receptor to induce granulation tissue contraction"}
+{
+  "retracted": false,
+  "timestamp": 1423872000000,
+  "updates": [
+    {
+      "timestamp": 1496043755613,
+      "identifier": {
+        "doi": "10.1007/s00109-015-1262-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00109-014-1211-9"
+  },
+  "journal": "Journal of Molecular Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Angiotensin II stimulates canonical TGF-β signaling pathway through angiotensin type 1 receptor to induce granulation tissue contraction"
+}

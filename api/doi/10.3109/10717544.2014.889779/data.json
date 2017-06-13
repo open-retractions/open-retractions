@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450915200000,"doi":"10.3109/10717544.2015.1129475","type":"correction"},"doi":"10.3109/10717544.2014.889779","journal":"Drug Delivery","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1450915200000,
+  "updates": [
+    {
+      "timestamp": 1496055835260,
+      "identifier": {
+        "doi": "10.3109/10717544.2015.1129475"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10717544.2014.889779"
+  },
+  "journal": "Drug Delivery",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

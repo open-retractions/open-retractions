@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330905600000,"doi":"10.1371/annotation/b9f2fdde-2923-4dfe-beff-b101d023f7b0","type":"correction"},"doi":"10.1371/journal.pmed.0020020","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Rethinking Immunity against Pneumococcal Disease"}
+{
+  "retracted": false,
+  "timestamp": 1330905600000,
+  "updates": [
+    {
+      "timestamp": 1496025198807,
+      "identifier": {
+        "doi": "10.1371/annotation/b9f2fdde-2923-4dfe-beff-b101d023f7b0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0020020"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rethinking Immunity against Pneumococcal Disease"
+}

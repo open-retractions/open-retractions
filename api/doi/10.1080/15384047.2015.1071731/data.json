@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471996800000,"doi":"10.1080/15384047.2016.1218721","type":"correction"},"doi":"10.1080/15384047.2015.1071731","journal":"Cancer Biology & Therapy","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1471996800000,
+  "updates": [
+    {
+      "timestamp": 1495740715519,
+      "identifier": {
+        "doi": "10.1080/15384047.2016.1218721"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15384047.2015.1071731"
+  },
+  "journal": "Cancer Biology & Therapy",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

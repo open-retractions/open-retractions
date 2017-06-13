@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468454400000,"doi":"10.1186/s12885-016-2404-0","type":"correction"},"doi":"10.1186/s12885-016-2367-1","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Methionine-restricted diet inhibits growth of MCF10AT1-derived mammary tumors by increasing cell cycle inhibitors in athymic nude mice"}
+{
+  "retracted": false,
+  "timestamp": 1468454400000,
+  "updates": [
+    {
+      "timestamp": 1495728515647,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2404-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-016-2367-1"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Methionine-restricted diet inhibits growth of MCF10AT1-derived mammary tumors by increasing cell cycle inhibitors in athymic nude mice"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":486432000000,"doi":"10.1007/bf01065660","type":"correction"},"doi":"10.1007/bf01060130","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Analytical approximations of sensitivities of steady-state predictions to errors in parameter estimation: II. Michaelis-Menten kinetics"}
+{
+  "retracted": false,
+  "timestamp": 486432000000,
+  "updates": [
+    {
+      "timestamp": 1495879840411,
+      "identifier": {
+        "doi": "10.1007/bf01065660"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01060130"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analytical approximations of sensitivities of steady-state predictions to errors in parameter estimation: II. Michaelis-Menten kinetics"
+}

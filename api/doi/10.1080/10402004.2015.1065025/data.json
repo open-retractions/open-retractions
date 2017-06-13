@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467763200000,"doi":"10.1080/10402004.2016.1206338","type":"correction"},"doi":"10.1080/10402004.2015.1065025","journal":"Tribology Transactions","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1467763200000,
+  "updates": [
+    {
+      "timestamp": 1495725072671,
+      "identifier": {
+        "doi": "10.1080/10402004.2016.1206338"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10402004.2015.1065025"
+  },
+  "journal": "Tribology Transactions",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

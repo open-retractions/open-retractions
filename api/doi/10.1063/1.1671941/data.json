@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":170812800000,"doi":"10.1063/1.431032","type":"erratum"},"doi":"10.1063/1.1671941","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Differential cross sections for the electron‐impact excitation of vibrational levels in molecules"}
+{
+  "retracted": false,
+  "timestamp": 170812800000,
+  "updates": [
+    {
+      "timestamp": 1495948191111,
+      "identifier": {
+        "doi": "10.1063/1.431032"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1671941"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Differential cross sections for the electron‐impact excitation of vibrational levels in molecules"
+}

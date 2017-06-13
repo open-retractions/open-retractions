@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1498867200000,"doi":"10.1016/j.chemosphere.2017.03.059","type":"erratum"},"doi":"10.1016/j.chemosphere.2016.12.009","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Assessing trace elements in striped dolphins from the Strait of Gibraltar: Clues to link the bioaccumulation in the westernmost Mediterranean Sea area and nearest Atlantic Ocean” [Chemosphere 170 (2017) 41–50]"}
+{
+  "retracted": false,
+  "timestamp": 1498867200000,
+  "updates": [
+    {
+      "timestamp": 1495730575007,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2017.03.059"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2016.12.009"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessing trace elements in striped dolphins from the Strait of Gibraltar: Clues to link the bioaccumulation in the westernmost Mediterranean Sea area and nearest Atlantic Ocean” [Chemosphere 170 (2017) 41–50]"
+}

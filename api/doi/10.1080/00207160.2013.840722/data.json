@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410825600000,"doi":"10.1080/00207160.2014.961314","type":"correction"},"doi":"10.1080/00207160.2013.840722","journal":"International Journal of Computer Mathematics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1410825600000,
+  "updates": [
+    {
+      "timestamp": 1495994065269,
+      "identifier": {
+        "doi": "10.1080/00207160.2014.961314"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00207160.2013.840722"
+  },
+  "journal": "International Journal of Computer Mathematics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

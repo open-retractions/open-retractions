@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1063/1.4842135","type":"correction"},"doi":"10.1063/1.4792599","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Epitaxial lead zirconate titanate on gallium nitride” [J. Appl. Phys. 113, 074107 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496005721942,
+      "identifier": {
+        "doi": "10.1063/1.4842135"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4792599"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Epitaxial lead zirconate titanate on gallium nitride” [J. Appl. Phys. 113, 074107 (2013)]"
+}

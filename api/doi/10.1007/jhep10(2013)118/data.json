@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416268800000,"doi":"10.1007/jhep11(2014)092","type":"correction"},"doi":"10.1007/jhep10(2013)118","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Testable two-loop radiative neutrino mass model based on an LLQd c Qd c effective operator"}
+{
+  "retracted": false,
+  "timestamp": 1416268800000,
+  "updates": [
+    {
+      "timestamp": 1496026550055,
+      "identifier": {
+        "doi": "10.1007/jhep11(2014)092"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep10(2013)118"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Testable two-loop radiative neutrino mass model based on an LLQd c Qd c effective operator"
+}

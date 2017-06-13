@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1186/s13388-015-0020-1","type":"correction"},"doi":"10.1186/s13388-015-0016-x","journal":"Security Informatics","publisher":"Springer Nature","title":"Erratum to: Factors influencing network risk judgments: a conceptual inquiry and exploratory analysis"}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1495998300427,
+      "identifier": {
+        "doi": "10.1186/s13388-015-0020-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13388-015-0016-x"
+  },
+  "journal": "Security Informatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Factors influencing network risk judgments: a conceptual inquiry and exploratory analysis"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1230768000000,"update":{"timestamp":null,"doi":null,"pmid":23077468,"type":"retraction"},"doi":"10.1371/journal.pone.0004168","journal":"PloS one","publisher":null,"title":"Predicting the herd immunity threshold during an outbreak: a recursive approach."}
+{
+  "retracted": false,
+  "timestamp": 1235433600000,
+  "updates": [
+    {
+      "timestamp": 1496025195763,
+      "identifier": {
+        "doi": "10.1371/annotation/01641ef8-cbe2-4ca7-900a-e1d12bd8557a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004168"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Predicting the Herd Immunity Threshold during an Outbreak: A Recursive Approach"
+}

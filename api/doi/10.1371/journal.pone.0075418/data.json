@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394150400000,"doi":"10.1371/journal.pone.0091311","type":"correction"},"doi":"10.1371/journal.pone.0075418","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: AMP Deaminase 3 Deficiency Enhanced 5′-AMP Induction of Hypometabolism"}
+{
+  "retracted": false,
+  "timestamp": 1394150400000,
+  "updates": [
+    {
+      "timestamp": 1496023955127,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0091311"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075418"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: AMP Deaminase 3 Deficiency Enhanced 5′-AMP Induction of Hypometabolism"
+}

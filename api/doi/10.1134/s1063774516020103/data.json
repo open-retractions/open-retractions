@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469836800000,"doi":"10.1134/s1063774516040301","type":"correction"},"doi":"10.1134/s1063774516020103","journal":"Crystallography Reports","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Point defects and dichroism in langasite and langatate crystals”"}
+{
+  "retracted": false,
+  "timestamp": 1469836800000,
+  "updates": [
+    {
+      "timestamp": 1495730211119,
+      "identifier": {
+        "doi": "10.1134/s1063774516040301"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063774516020103"
+  },
+  "journal": "Crystallography Reports",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Point defects and dichroism in langasite and langatate crystals”"
+}

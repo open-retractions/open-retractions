@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.jad.2016.01.001","type":"err"},"doi":"10.1016/j.jad.2015.08.006","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Corrigendum to ''Anxiety symptoms are linked to new-onset suicidal ideation after six months of follow-up in outpatients with major depressive disorder'' [J. Affect. Disord. 187 (2015) 183–187]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1496059170827,
+      "identifier": {
+        "doi": "10.1016/j.jad.2016.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2015.08.006"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ''Anxiety symptoms are linked to new-onset suicidal ideation after six months of follow-up in outpatients with major depressive disorder'' [J. Affect. Disord. 187 (2015) 183–187]"
+}

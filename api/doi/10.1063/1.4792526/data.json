@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1063/1.4870403","type":"correction"},"doi":"10.1063/1.4792526","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Effects of holmium substitution on multiferroic properties in Tb0.67Ho0.33MnO3” [Appl. Phys. Lett. 102, 062908 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496030214959,
+      "identifier": {
+        "doi": "10.1063/1.4870403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4792526"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effects of holmium substitution on multiferroic properties in Tb0.67Ho0.33MnO3” [Appl. Phys. Lett. 102, 062908 (2013)]"
+}

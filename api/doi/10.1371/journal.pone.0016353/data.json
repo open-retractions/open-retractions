@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304035200000,"doi":"10.1371/annotation/a42e114f-a708-4423-8a3e-a1d8919b9b60","type":"correction"},"doi":"10.1371/journal.pone.0016353","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Successful Protein Extraction from Over-Fixed and Long-Term Stored Formalin-Fixed Tissues"}
+{
+  "retracted": false,
+  "timestamp": 1304035200000,
+  "updates": [
+    {
+      "timestamp": 1495929064321,
+      "identifier": {
+        "doi": "10.1371/annotation/a42e114f-a708-4423-8a3e-a1d8919b9b60"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0016353"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Successful Protein Extraction from Over-Fixed and Long-Term Stored Formalin-Fixed Tissues"
+}

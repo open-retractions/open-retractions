@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.electstud.2014.06.007","type":"err"},"doi":"10.1016/j.electstud.2013.09.005","journal":"Electoral Studies","publisher":"Elsevier BV","title":"Corrigendum to “Survey questions about party competence: Insights from cognitive interviews” [Elect. Stud. 34 (2014) 280–290]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496049050422,
+      "identifier": {
+        "doi": "10.1016/j.electstud.2014.06.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electstud.2013.09.005"
+  },
+  "journal": "Electoral Studies",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Survey questions about party competence: Insights from cognitive interviews” [Elect. Stud. 34 (2014) 280–290]"
+}

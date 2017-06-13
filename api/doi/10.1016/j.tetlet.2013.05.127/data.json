@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381276800000,"doi":"10.1016/j.tetlet.2013.08.023","type":"err"},"doi":"10.1016/j.tetlet.2013.05.127","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Nardokanshone A, a new type of sesquieterpenoid–chalcone hybrid from Nardostachys chinensis” [Tetrahedron Lett. 54 (2013) 4365–4368]"}
+{
+  "retracted": false,
+  "timestamp": 1381276800000,
+  "updates": [
+    {
+      "timestamp": 1496039752300,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.08.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2013.05.127"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nardokanshone A, a new type of sesquieterpenoid–chalcone hybrid from Nardostachys chinensis” [Tetrahedron Lett. 54 (2013) 4365–4368]"
+}

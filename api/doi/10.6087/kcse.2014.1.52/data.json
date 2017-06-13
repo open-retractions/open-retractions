@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1410393600000,"doi":"10.6087/kcse.41","type":"correction"},"doi":"10.6087/kcse.2014.1.52","journal":"Science Editing","publisher":"Korean Council of Science Editors","title":"Correction of mistyped country name in the article"}
+{
+  "retracted": false,
+  "timestamp": 1410393600000,
+  "updates": [
+    {
+      "timestamp": 1496048034660,
+      "identifier": {
+        "doi": "10.6087/kcse.41"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.6087/kcse.2014.1.52"
+  },
+  "publisher": "Korean Council of Science Editors",
+  "title": "Correction of mistyped country name in the article"
+}

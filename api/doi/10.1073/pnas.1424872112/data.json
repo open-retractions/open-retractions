@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425427200000,"doi":"10.1073/pnas.1503606112","type":"correction"},"doi":"10.1073/pnas.1424872112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Torella et al., Efficient solar-to-fuels production from a hybrid microbial–water-splitting catalyst system"}
+{
+  "retracted": false,
+  "timestamp": 1425427200000,
+  "updates": [
+    {
+      "timestamp": 1496044531596,
+      "identifier": {
+        "doi": "10.1073/pnas.1503606112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1424872112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Torella et al., Efficient solar-to-fuels production from a hybrid microbial–water-splitting catalyst system"
+}

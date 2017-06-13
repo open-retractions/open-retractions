@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433721600000,"doi":"10.1016/j.ccell.2015.05.001","type":"err"},"doi":"10.1016/j.ccr.2013.06.005","journal":"Cancer Cell","publisher":"Elsevier BV","title":"A Senescence-Inflammatory Switch from Cancer-Inhibitory to Cancer-Promoting Mechanism"}
+{
+  "retracted": false,
+  "timestamp": 1433721600000,
+  "updates": [
+    {
+      "timestamp": 1496004984036,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2013.06.005"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Senescence-Inflammatory Switch from Cancer-Inhibitory to Cancer-Promoting Mechanism"
+}

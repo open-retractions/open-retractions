@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.cie.2013.08.025","type":"err"},"doi":"10.1016/j.cie.2006.10.003","journal":"Computers & Industrial Engineering","publisher":"Elsevier BV","title":"Erratum to “Finding the most efficient DMUs in DEA: An improved integrated model” [Comput. Indus. Eng. 52 (2007) 71–77]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496049227013,
+      "identifier": {
+        "doi": "10.1016/j.cie.2013.08.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cie.2006.10.003"
+  },
+  "journal": "Computers & Industrial Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Finding the most efficient DMUs in DEA: An improved integrated model” [Comput. Indus. Eng. 52 (2007) 71–77]"
+}

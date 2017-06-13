@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1063/1.4828724","type":"correction"},"doi":"10.1063/1.4773066","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Electron affinities and ionisation potentials for atoms via ‘benchmark’ tdDFT calculations with and without exchange kernels” [J. Chem. Phys. 138, 014109 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495994639406,
+      "identifier": {
+        "doi": "10.1063/1.4828724"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4773066"
+  },
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Electron affinities and ionisation potentials for atoms via ‘benchmark’ tdDFT calculations with and without exchange kernels” [J. Chem. Phys. 138, 014109 (2013)]"
+}

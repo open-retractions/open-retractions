@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.phrs.2014.07.002","type":"err"},"doi":"10.1016/j.phrs.2014.06.003","journal":"Pharmacological Research","publisher":"Elsevier BV","title":"Erratum to “Protection afforded by pre- or post-treatment with 4-phenylbutyrate against liver injury induced by acetaminophen overdose in mice” [Pharmacol. Res. 87 (2014) 26–41]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495997730226,
+      "identifier": {
+        "doi": "10.1016/j.phrs.2014.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phrs.2014.06.003"
+  },
+  "journal": "Pharmacological Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Protection afforded by pre- or post-treatment with 4-phenylbutyrate against liver injury induced by acetaminophen overdose in mice” [Pharmacol. Res. 87 (2014) 26–41]"
+}

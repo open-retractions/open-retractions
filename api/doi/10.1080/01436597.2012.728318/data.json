@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410307200000,"doi":"10.1080/01436597.2012.745338","type":"correction"},"doi":"10.1080/01436597.2012.728318","journal":"Third World Quarterly","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1410307200000,
+  "updates": [
+    {
+      "timestamp": 1495932059519,
+      "identifier": {
+        "doi": "10.1080/01436597.2012.745338"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01436597.2012.728318"
+  },
+  "journal": "Third World Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

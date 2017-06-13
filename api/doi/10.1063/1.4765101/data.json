@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356652800000,"doi":"10.1063/1.4773471","type":"correction"},"doi":"10.1063/1.4765101","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Looking deeper into the structure of mixed electric double layers near the point of zero charge” [J. Chem. Phys. 137, 174707 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1356652800000,
+  "updates": [
+    {
+      "timestamp": 1495973265715,
+      "identifier": {
+        "doi": "10.1063/1.4773471"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4765101"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Looking deeper into the structure of mixed electric double layers near the point of zero charge” [J. Chem. Phys. 137, 174707 (2012)]"
+}

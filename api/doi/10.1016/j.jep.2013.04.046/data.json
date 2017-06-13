@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377475200000,"doi":"10.1016/j.jep.2013.06.032","type":"err"},"doi":"10.1016/j.jep.2013.04.046","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Myelophil attenuates brain oxidative damage by modulating the hypothalamus–pituitary–adrenal (HPA) axis in a chronic cold-stress mouse model” [J. Ethnopharmol. 148 (2) (2013) 505–514]"}
+{
+  "retracted": false,
+  "timestamp": 1377475200000,
+  "updates": [
+    {
+      "timestamp": 1496030292811,
+      "identifier": {
+        "doi": "10.1016/j.jep.2013.06.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2013.04.046"
+  },
+  "journal": "Journal of Ethnopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Myelophil attenuates brain oxidative damage by modulating the hypothalamus–pituitary–adrenal (HPA) axis in a chronic cold-stress mouse model” [J. Ethnopharmol. 148 (2) (2013) 505–514]"
+}

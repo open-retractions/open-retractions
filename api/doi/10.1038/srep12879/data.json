@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442793600000,"doi":"10.1038/srep14158","type":"correction"},"doi":"10.1038/srep12879","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Novel microscopy-based screening method reveals regulators of contact-dependent intercellular transfer"}
+{
+  "retracted": false,
+  "timestamp": 1442793600000,
+  "updates": [
+    {
+      "timestamp": 1496031733110,
+      "identifier": {
+        "doi": "10.1038/srep14158"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep12879"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Novel microscopy-based screening method reveals regulators of contact-dependent intercellular transfer"
+}

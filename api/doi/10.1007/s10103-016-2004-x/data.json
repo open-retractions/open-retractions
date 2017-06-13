@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1007/s10103-016-2035-3","type":"correction"},"doi":"10.1007/s10103-016-2004-x","journal":"Lasers in Medical Science","publisher":"Springer Nature","title":"Erratum to: Picosecond pulsed infrared laser tuned to amide I band dissociates polyglutamine fibrils in cells"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495736597081,
+      "identifier": {
+        "doi": "10.1007/s10103-016-2035-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10103-016-2004-x"
+  },
+  "journal": "Lasers in Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Picosecond pulsed infrared laser tuned to amide I band dissociates polyglutamine fibrils in cells"
+}

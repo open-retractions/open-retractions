@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.phytochem.2013.10.009","type":"err"},"doi":"10.1016/j.phytochem.2013.07.019","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Phenylphenalenones and oxabenzochrysenones from the Australian plant Haemodorum simulans” [Phytochemistry 95 (2013) 351–359]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495994493407,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2013.10.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2013.07.019"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Phenylphenalenones and oxabenzochrysenones from the Australian plant Haemodorum simulans” [Phytochemistry 95 (2013) 351–359]"
+}

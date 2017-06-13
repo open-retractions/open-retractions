@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383004800000,"doi":"10.1136/bmj.g1201","type":"correction"},"doi":"10.1136/bmj.f6263","journal":"BMJ","publisher":"BMJ","title":"Andrew Theodossi"}
+{
+  "retracted": false,
+  "timestamp": 1383004800000,
+  "updates": [
+    {
+      "timestamp": 1496014942748,
+      "identifier": {
+        "doi": "10.1136/bmj.g1201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f6263"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Andrew Theodossi"
+}

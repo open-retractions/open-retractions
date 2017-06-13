@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.fsi.2014.08.031","type":"erratum"},"doi":"10.1016/j.fsi.2014.07.001","journal":"Fish & Shellfish Immunology","publisher":"Elsevier BV","title":"Corrigendum to “Effect of guava leaves on growth and the non-specific immune response of Penaeus monodon” [Fish Shellfish Immunol 40 (2014) 190–196]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496004522788,
+      "identifier": {
+        "doi": "10.1016/j.fsi.2014.08.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsi.2014.07.001"
+  },
+  "journal": "Fish & Shellfish Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of guava leaves on growth and the non-specific immune response of Penaeus monodon” [Fish Shellfish Immunol 40 (2014) 190–196]"
+}

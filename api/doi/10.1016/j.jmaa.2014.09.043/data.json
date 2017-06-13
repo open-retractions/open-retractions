@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jmaa.2015.07.067","type":"erratum"},"doi":"10.1016/j.jmaa.2014.09.043","journal":"Journal of Mathematical Analysis and Applications","publisher":"Elsevier BV","title":"Retraction notice to “Spectral mapping theorem for generalized Kato spectrum” [J. Math. Anal. Appl. 423 (2015) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496022999977,
+      "identifier": {
+        "doi": "10.1016/j.jmaa.2015.07.067"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmaa.2014.09.043"
+  },
+  "journal": "Journal of Mathematical Analysis and Applications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Spectral mapping theorem for generalized Kato spectrum” [J. Math. Anal. Appl. 423 (2015) 1–9]"
+}

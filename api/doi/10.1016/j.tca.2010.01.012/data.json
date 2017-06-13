@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431216000000,"doi":"10.1016/j.tca.2015.03.025","type":"err"},"doi":"10.1016/j.tca.2010.01.012","journal":"Thermochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Study of interactions of l-histidine/l-glutamic acid/l-tryptophan/glycylglycine with KCl/KNO3 at different temperatures: 298.15, 303.15, 308.15, 313.15, 318.15, 323.15K” [Thermochim. Acta 501 (2010) 72–77]"}
+{
+  "retracted": false,
+  "timestamp": 1431216000000,
+  "updates": [
+    {
+      "timestamp": 1496055908094,
+      "identifier": {
+        "doi": "10.1016/j.tca.2015.03.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tca.2010.01.012"
+  },
+  "journal": "Thermochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Study of interactions of l-histidine/l-glutamic acid/l-tryptophan/glycylglycine with KCl/KNO3 at different temperatures: 298.15, 303.15, 308.15, 313.15, 318.15, 323.15K” [Thermochim. Acta 501 (2010) 72–77]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1371/annotation/f92c4ed2-b4f7-47aa-97b6-75bce39dcb0e","type":"correction"},"doi":"10.1371/journal.pone.0081992","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Genomic DNA Enrichment Using Sequence Capture Microarrays: a Novel Approach to Discover Sequence Nucleotide Polymorphisms (SNP) in Brassica napus L"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496005346129,
+      "identifier": {
+        "doi": "10.1371/annotation/f92c4ed2-b4f7-47aa-97b6-75bce39dcb0e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0081992"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genomic DNA Enrichment Using Sequence Capture Microarrays: a Novel Approach to Discover Sequence Nucleotide Polymorphisms (SNP) in Brassica napus L"
+}

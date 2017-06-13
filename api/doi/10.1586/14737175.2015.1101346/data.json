@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1586/14737175.2016.1126039","type":"correction"},"doi":"10.1586/14737175.2015.1101346","journal":"Expert Review of Neurotherapeutics","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496044968148,
+      "identifier": {
+        "doi": "10.1586/14737175.2016.1126039"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/14737175.2015.1101346"
+  },
+  "journal": "Expert Review of Neurotherapeutics",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

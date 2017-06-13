@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383177600000,"doi":"10.1063/1.4826698","type":"correction"},"doi":"10.1063/1.4798286","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Spin polarized carrier injection from full Heusler alloy Co2MnSi into superconduting NbN,” [Appl. Phys. Lett. 102, 112409 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1383177600000,
+  "updates": [
+    {
+      "timestamp": 1495994268891,
+      "identifier": {
+        "doi": "10.1063/1.4826698"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4798286"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Spin polarized carrier injection from full Heusler alloy Co2MnSi into superconduting NbN,” [Appl. Phys. Lett. 102, 112409 (2013)]"
+}

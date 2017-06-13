@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243382400000,"doi":"10.1371/annotation/4145c2b9-dca1-4eef-996a-8e79de4dc1f5","type":"correction"},"doi":"10.1371/journal.pone.0004691","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Aedes albopictus Mosquito: The Main Vector of the 2007 Chikungunya Outbreak in Gabon"}
+{
+  "retracted": false,
+  "timestamp": 1243382400000,
+  "updates": [
+    {
+      "timestamp": 1496025195241,
+      "identifier": {
+        "doi": "10.1371/annotation/4145c2b9-dca1-4eef-996a-8e79de4dc1f5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004691"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Aedes albopictus Mosquito: The Main Vector of the 2007 Chikungunya Outbreak in Gabon"
+}

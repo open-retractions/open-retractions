@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.aquaculture.2014.11.020","type":"err"},"doi":"10.1016/j.aquaculture.2013.09.021","journal":"Aquaculture","publisher":"Elsevier BV","title":"Corrigendum to “In vitro and in vivo evaluation of quinine in gilthead sea bream, Sparus aurata naturally infected with the ciliate Cryptocaryon irritans” [Aquaculture 416–417 (2013) 185–191]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049244888,
+      "identifier": {
+        "doi": "10.1016/j.aquaculture.2014.11.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquaculture.2013.09.021"
+  },
+  "journal": "Aquaculture",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “In vitro and in vivo evaluation of quinine in gilthead sea bream, Sparus aurata naturally infected with the ciliate Cryptocaryon irritans” [Aquaculture 416–417 (2013) 185–191]"
+}

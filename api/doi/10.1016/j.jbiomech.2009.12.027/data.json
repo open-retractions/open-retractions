@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1275004800000,"update":{"timestamp":null,"doi":null,"pmid":25977972,"type":"retraction"},"doi":"10.1016/j.jbiomech.2009.12.027","journal":"Journal of biomechanics","publisher":null,"title":"Modelling subcortical bone in finite element analyses: A validation and sensitivity study in the macaque mandible."}
+{
+  "retracted": false,
+  "timestamp": 1428883200000,
+  "updates": [
+    {
+      "timestamp": 1496053018837,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2015.02.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2009.12.027"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Modelling subcortical bone in finite element analyses: A validation and sensitivity study in the macaque mandible” [J. Biomech. 43 (2010) 1603–1611]"
+}

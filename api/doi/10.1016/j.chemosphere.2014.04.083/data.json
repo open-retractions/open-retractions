@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.chemosphere.2014.07.014","type":"err"},"doi":"10.1016/j.chemosphere.2014.04.083","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to: “Trace metals and persistent organic pollutants in sediments from river-reservoir systems in Democratic Republic of Congo (DRC): Spatial distribution and potential ecotoxicological effects” [Chemosphere 111 (2014) 485–492]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1495997466157,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2014.07.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2014.04.083"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Trace metals and persistent organic pollutants in sediments from river-reservoir systems in Democratic Republic of Congo (DRC): Spatial distribution and potential ecotoxicological effects” [Chemosphere 111 (2014) 485–492]"
+}

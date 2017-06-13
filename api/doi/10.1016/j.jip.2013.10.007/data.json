@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jip.2014.01.004","type":"err"},"doi":"10.1016/j.jip.2013.10.007","journal":"Journal of Invertebrate Pathology","publisher":"Elsevier BV","title":"Corrigendum for “Molecular differentiation of recently described Neozygites osornensis (Neozygitales: Neozygitaceae) from two morphologically similar species” [J. Invertebr. Pathol. 115 (2014) 92–94]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496016052031,
+      "identifier": {
+        "doi": "10.1016/j.jip.2014.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jip.2013.10.007"
+  },
+  "journal": "Journal of Invertebrate Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum for “Molecular differentiation of recently described Neozygites osornensis (Neozygitales: Neozygitaceae) from two morphologically similar species” [J. Invertebr. Pathol. 115 (2014) 92–94]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1265673600000,"doi":"10.1073/pnas.1001159107","type":"correction"},"doi":"10.1073/pnas.0912599106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Malovannaya et al., Streamlined analysis schema for high-throughput identification of endogenous protein complexes"}
+{
+  "retracted": false,
+  "timestamp": 1265673600000,
+  "updates": [
+    {
+      "timestamp": 1495824967776,
+      "identifier": {
+        "doi": "10.1073/pnas.1001159107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0912599106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Malovannaya et al., Streamlined analysis schema for high-throughput identification of endogenous protein complexes"
+}

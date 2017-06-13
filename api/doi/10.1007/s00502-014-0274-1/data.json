@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422316800000,"doi":"10.1007/s00502-015-0285-6","type":"correction"},"doi":"10.1007/s00502-014-0274-1","journal":"e & i Elektrotechnik und Informationstechnik","publisher":"Springer Nature","title":"Erratum to: Investigation of inverter-based losses and magnet-temperatures of a 1 MVA permanent magnet synchronous generator via a 25 kVA physical model"}
+{
+  "retracted": false,
+  "timestamp": 1422316800000,
+  "updates": [
+    {
+      "timestamp": 1496039559798,
+      "identifier": {
+        "doi": "10.1007/s00502-015-0285-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00502-014-0274-1"
+  },
+  "journal": "e & i Elektrotechnik und Informationstechnik",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Investigation of inverter-based losses and magnet-temperatures of a 1 MVA permanent magnet synchronous generator via a 25 kVA physical model"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.canlet.2015.07.033","type":"erratum"},"doi":"10.1016/j.canlet.2015.03.034","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “Induction of hyaluronan production by oncogenic KSHV and the contribution to viral pathogenesis in AIDS patients” [Cancer Lett. 2015 Jul 1;362(2):158–66]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496025603784,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2015.07.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2015.03.034"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Induction of hyaluronan production by oncogenic KSHV and the contribution to viral pathogenesis in AIDS patients” [Cancer Lett. 2015 Jul 1;362(2):158–66]"
+}

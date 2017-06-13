@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1199145600000,"update":{"timestamp":null,"doi":null,"pmid":24558652,"type":"retraction"},"doi":"10.1016/j.molimm.2007.05.011","journal":"Molecular immunology","publisher":null,"title":"The mouse complement regulator CD59b is significantly expressed only in testis and plays roles in sperm acrosome activation and motility."}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496009529317,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2007.05.011"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The mouse complement regulator CD59b is significantly expressed only in testis and plays roles in sperm acrosome activation and motility” [Mol. Immunol. 45 (2008) 534–542]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1494806400000,"doi":"10.1016/j.mce.2017.03.030","type":"erratum"},"doi":"10.1016/j.mce.2016.12.006","journal":"Molecular and Cellular Endocrinology","publisher":"Elsevier BV","title":"Corrigendum to “Leydig progenitor cells in fetal testis” [Mol. Cell. Endocrinol. 445 (2017) 55–64]"}
+{
+  "retracted": false,
+  "timestamp": 1494806400000,
+  "updates": [
+    {
+      "timestamp": 1495735228352,
+      "identifier": {
+        "doi": "10.1016/j.mce.2017.03.030"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mce.2016.12.006"
+  },
+  "journal": "Molecular and Cellular Endocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Leydig progenitor cells in fetal testis” [Mol. Cell. Endocrinol. 445 (2017) 55–64]"
+}

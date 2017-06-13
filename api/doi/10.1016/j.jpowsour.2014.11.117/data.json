@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jpowsour.2015.02.129","type":"err"},"doi":"10.1016/j.jpowsour.2014.11.117","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Facile one-pot synthesis of platinum nanoparticles decorated nitrogen-doped graphene with high electrocatalytic performance for oxygen reduction and anodic fuels oxidation” [J. Power Sources 277 (2015) 268–276]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496050119439,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2015.02.129"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.11.117"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Facile one-pot synthesis of platinum nanoparticles decorated nitrogen-doped graphene with high electrocatalytic performance for oxygen reduction and anodic fuels oxidation” [J. Power Sources 277 (2015) 268–276]"
+}

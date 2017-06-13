@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473292800000,"doi":"10.1063/1.4962569","type":"correction"},"doi":"10.1063/1.4947544","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Proton acceleration by single-cycle laser pulses offers a novel monoenergetic and stable operating regime” [Phys. Plasmas 23, 043112 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1473292800000,
+  "updates": [
+    {
+      "timestamp": 1495638285401,
+      "identifier": {
+        "doi": "10.1063/1.4962569"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4947544"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Proton acceleration by single-cycle laser pulses offers a novel monoenergetic and stable operating regime” [Phys. Plasmas 23, 043112 (2016)]"
+}

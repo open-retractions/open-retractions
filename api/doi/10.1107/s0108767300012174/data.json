@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351728000000,"doi":"10.1107/s0108767312038305","type":"correction"},"doi":"10.1107/s0108767300012174","journal":"Acta Crystallographica Section A Foundations of Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"A probabilistic approach to space-group determination from powder diffraction data. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1351728000000,
+  "updates": [
+    {
+      "timestamp": 1495951314965,
+      "identifier": {
+        "doi": "10.1107/s0108767312038305"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108767300012174"
+  },
+  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "A probabilistic approach to space-group determination from powder diffraction data. Corrigendum"
+}

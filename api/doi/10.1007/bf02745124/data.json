@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208131200000,"doi":"10.1007/bf02725464","type":"correction"},"doi":"10.1007/bf02745124","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Pulsar restlessness as induced by an external source"}
+{
+  "retracted": false,
+  "timestamp": 1208131200000,
+  "updates": [
+    {
+      "timestamp": 1495844965442,
+      "identifier": {
+        "doi": "10.1007/bf02725464"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02745124"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pulsar restlessness as induced by an external source"
+}

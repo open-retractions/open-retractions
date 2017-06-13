@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.joca.2015.04.017","type":"err"},"doi":"10.1016/j.joca.2014.11.015","journal":"Osteoarthritis and Cartilage","publisher":"Elsevier BV","title":"Corrigendum to “A radiographic analysis of alignment of the lower extremities – initiation and progression of varus-type knee osteoarthritis” [Osteoarthr Cartil 23 (2015) 217–23]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1495998571610,
+      "identifier": {
+        "doi": "10.1016/j.joca.2015.04.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joca.2014.11.015"
+  },
+  "journal": "Osteoarthritis and Cartilage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A radiographic analysis of alignment of the lower extremities – initiation and progression of varus-type knee osteoarthritis” [Osteoarthr Cartil 23 (2015) 217–23]"
+}

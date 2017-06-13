@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.knee.2015.02.006","type":"err"},"doi":"10.1016/j.knee.2014.04.011","journal":"The Knee","publisher":"Elsevier BV","title":"Corrigendum to “Partial harvesting technique in anterior cruciate ligament reconstruction with autologous semitendinosus tendon to prevent a postoperative decrease in deep knee flexion torque” [The Knee 21 (2014) 936–943]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496048010248,
+      "identifier": {
+        "doi": "10.1016/j.knee.2015.02.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.knee.2014.04.011"
+  },
+  "journal": "The Knee",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Partial harvesting technique in anterior cruciate ligament reconstruction with autologous semitendinosus tendon to prevent a postoperative decrease in deep knee flexion torque” [The Knee 21 (2014) 936–943]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.chemolab.2013.10.007","type":"err"},"doi":"10.1016/j.chemolab.2013.06.007","journal":"Chemometrics and Intelligent Laboratory Systems","publisher":"Elsevier BV","title":"Erratum to “Method and model comparison by sum of ranking differences in cases of repeated observations (ties)” [Chemom. Intell. Lab. Syst. 127 (2013) 139–146]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1495999878718,
+      "identifier": {
+        "doi": "10.1016/j.chemolab.2013.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemolab.2013.06.007"
+  },
+  "journal": "Chemometrics and Intelligent Laboratory Systems",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Method and model comparison by sum of ranking differences in cases of repeated observations (ties)” [Chemom. Intell. Lab. Syst. 127 (2013) 139–146]"
+}

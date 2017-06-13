@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.joca.2014.08.003","type":"err"},"doi":"10.1016/j.joca.2014.01.009","journal":"Osteoarthritis and Cartilage","publisher":"Elsevier BV","title":"Corrigendum to “Development of a novel antibody to Calcitonin Gene-Related Peptide for the treatment of osteoarthritis-related pain” [Osteoarthritis Cartilage 22 (2014) 578–585]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496003981958,
+      "identifier": {
+        "doi": "10.1016/j.joca.2014.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joca.2014.01.009"
+  },
+  "journal": "Osteoarthritis and Cartilage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a novel antibody to Calcitonin Gene-Related Peptide for the treatment of osteoarthritis-related pain” [Osteoarthritis Cartilage 22 (2014) 578–585]"
+}

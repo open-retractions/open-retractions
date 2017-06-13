@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360886400000,"doi":"10.1016/j.amc.2013.01.025","type":"err"},"doi":"10.1016/j.amc.2012.11.040","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Corrigendum on ‘‘Positive integer powers and inverse for one type of even order symmetric pentadiagonal matrices’’ [Applied Mathematics and Computation 219 (2012) 5241–5248]"}
+{
+  "retracted": false,
+  "timestamp": 1360886400000,
+  "updates": [
+    {
+      "timestamp": 1495996116027,
+      "identifier": {
+        "doi": "10.1016/j.amc.2013.01.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2012.11.040"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum on ‘‘Positive integer powers and inverse for one type of even order symmetric pentadiagonal matrices’’ [Applied Mathematics and Computation 219 (2012) 5241–5248]"
+}

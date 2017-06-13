@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389139200000,"doi":"10.1371/annotation/7d397301-705d-46bb-92cc-ce725975273a","type":"correction"},"doi":"10.1371/journal.pone.0052517","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Multi-Platform Analysis of MicroRNA Expression Measurements in RNA from Fresh Frozen and FFPE Tissues"}
+{
+  "retracted": false,
+  "timestamp": 1389139200000,
+  "updates": [
+    {
+      "timestamp": 1496011083362,
+      "identifier": {
+        "doi": "10.1371/annotation/7d397301-705d-46bb-92cc-ce725975273a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0052517"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Multi-Platform Analysis of MicroRNA Expression Measurements in RNA from Fresh Frozen and FFPE Tissues"
+}

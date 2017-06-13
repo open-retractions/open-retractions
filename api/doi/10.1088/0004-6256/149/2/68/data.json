@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.3847/0004-6256/151/3/86","type":"correction"},"doi":"10.1088/0004-6256/149/2/68","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “RESULTS OF A SEARCH FORγDOR ANDδSCT STARS WITH THEKEPLERSPACECRAFT” (2015, AJ, 149, 68)"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495648730081,
+      "identifier": {
+        "doi": "10.3847/0004-6256/151/3/86"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/149/2/68"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “RESULTS OF A SEARCH FORγDOR ANDδSCT STARS WITH THEKEPLERSPACECRAFT” (2015, AJ, 149, 68)"
+}

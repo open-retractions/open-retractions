@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306108800000,"doi":"10.1371/annotation/5c0706a8-a9c2-452a-b061-a7c60dbc0499","type":"correction"},"doi":"10.1371/journal.pgen.1000451","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Dissection of Caenorhabditis elegans CLK-2/TEL2 Cell Cycle Defects during Embryogenesis and Germline Development"}
+{
+  "retracted": false,
+  "timestamp": 1306108800000,
+  "updates": [
+    {
+      "timestamp": 1495958433696,
+      "identifier": {
+        "doi": "10.1371/annotation/5c0706a8-a9c2-452a-b061-a7c60dbc0499"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000451"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Dissection of Caenorhabditis elegans CLK-2/TEL2 Cell Cycle Defects during Embryogenesis and Germline Development"
+}

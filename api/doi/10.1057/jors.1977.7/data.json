@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":220924800000,"doi":"10.1057/jors.1977.123","type":"correction"},"doi":"10.1057/jors.1977.7","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Lead Time Demand Distributions"}
+{
+  "retracted": false,
+  "timestamp": 220924800000,
+  "updates": [
+    {
+      "timestamp": 1495887732404,
+      "identifier": {
+        "doi": "10.1057/jors.1977.123"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1977.7"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Lead Time Demand Distributions"
+}

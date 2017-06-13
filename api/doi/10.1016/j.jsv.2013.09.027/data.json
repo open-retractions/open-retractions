@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396224000000,"doi":"10.1016/j.jsv.2013.11.028","type":"err"},"doi":"10.1016/j.jsv.2013.09.027","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to: “Singular spectrum analysis for enhancing the sensitivity in structural damage detection”"}
+{
+  "retracted": false,
+  "timestamp": 1396224000000,
+  "updates": [
+    {
+      "timestamp": 1496005872706,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2013.11.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2013.09.027"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Singular spectrum analysis for enhancing the sensitivity in structural damage detection”"
+}

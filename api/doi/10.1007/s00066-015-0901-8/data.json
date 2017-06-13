@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446768000000,"doi":"10.1007/s00066-015-0920-5","type":"correction"},"doi":"10.1007/s00066-015-0901-8","journal":"Strahlentherapie und Onkologie","publisher":"Springer Nature","title":"Erratum to: Tomotherapy PET-guided dose escalation – A dosimetric feasibility study for patients with malignant pleural mesothelioma"}
+{
+  "retracted": false,
+  "timestamp": 1446768000000,
+  "updates": [
+    {
+      "timestamp": 1496044178507,
+      "identifier": {
+        "doi": "10.1007/s00066-015-0920-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00066-015-0901-8"
+  },
+  "journal": "Strahlentherapie und Onkologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tomotherapy PET-guided dose escalation – A dosimetric feasibility study for patients with malignant pleural mesothelioma"
+}

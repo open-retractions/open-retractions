@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416355200000,"doi":"10.1016/j.neuron.2014.11.003","type":"err"},"doi":"10.1016/j.neuron.2014.10.009","journal":"Neuron","publisher":"Elsevier BV","title":"The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones"}
+{
+  "retracted": false,
+  "timestamp": 1416355200000,
+  "updates": [
+    {
+      "timestamp": 1496023398544,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.10.009"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "The Morphological and Molecular Nature of Synaptic Vesicle Priming at Presynaptic Active Zones"
+}

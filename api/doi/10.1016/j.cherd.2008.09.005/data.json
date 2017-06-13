@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.cherd.2014.10.017","type":"err"},"doi":"10.1016/j.cherd.2008.09.005","journal":"Chemical Engineering Research and Design","publisher":"Elsevier BV","title":"Retraction notice to “Mass-transfer characteristics by surface aeration of large paddle impeller: Application to a polymerization reactor with liquid level change” [Chem. Eng. Res. Des. 86 (2008) 1345–1349]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496021718882,
+      "identifier": {
+        "doi": "10.1016/j.cherd.2014.10.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cherd.2008.09.005"
+  },
+  "journal": "Chemical Engineering Research and Design",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Mass-transfer characteristics by surface aeration of large paddle impeller: Application to a polymerization reactor with liquid level change” [Chem. Eng. Res. Des. 86 (2008) 1345–1349]"
+}

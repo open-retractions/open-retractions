@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.ecoenv.2016.09.005","type":"err"},"doi":"10.1016/j.ecoenv.2016.06.007","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Corrigendum to “Identification of a group of XTHs genes responding to heavy metal mercury, salinity and drought stresses in Medicago truncatula” [Ecotoxicol. Environ. Saf. 132 (2016) 153–163]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495639409875,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2016.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2016.06.007"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of a group of XTHs genes responding to heavy metal mercury, salinity and drought stresses in Medicago truncatula” [Ecotoxicol. Environ. Saf. 132 (2016) 153–163]"
+}

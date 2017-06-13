@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208131200000,"doi":"10.1007/bf02782602","type":"correction"},"doi":"10.1007/bf02746010","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Very large sized double-core events by extensive air showers of (1014÷1015) eV"}
+{
+  "retracted": false,
+  "timestamp": 1208131200000,
+  "updates": [
+    {
+      "timestamp": 1495839320002,
+      "identifier": {
+        "doi": "10.1007/bf02782602"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02746010"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Very large sized double-core events by extensive air showers of (1014÷1015) eV"
+}

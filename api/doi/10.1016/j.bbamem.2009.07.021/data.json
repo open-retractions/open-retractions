@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.bbamem.2016.01.015","type":"erratum"},"doi":"10.1016/j.bbamem.2009.07.021","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"Corrigendum to “Interactions between the human sweet-sensing T1R2-T1R3 receptor and sweeteners detected by saturation transfer difference NMR spectroscopy” [Biochim. Biophys. Acta (1798/2) (2010) 82–86]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495639354103,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2016.01.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2009.07.021"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interactions between the human sweet-sensing T1R2-T1R3 receptor and sweeteners detected by saturation transfer difference NMR spectroscopy” [Biochim. Biophys. Acta (1798/2) (2010) 82–86]"
+}

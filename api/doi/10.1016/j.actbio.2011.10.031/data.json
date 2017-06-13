@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.actbio.2016.07.039","type":"erratum"},"doi":"10.1016/j.actbio.2011.10.031","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “Magnesium alloys as body implants: Fracture mechanism under dynamic and static loadings in a physiological environment” [Acta Biomater. 8 (2012) 916–923]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495732463392,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2016.07.039"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2011.10.031"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Magnesium alloys as body implants: Fracture mechanism under dynamic and static loadings in a physiological environment” [Acta Biomater. 8 (2012) 916–923]"
+}

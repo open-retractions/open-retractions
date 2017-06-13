@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bcp.2014.08.021","type":"err"},"doi":"10.1016/j.bcp.2013.07.005","journal":"Biochemical Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Nicorandil ameliorates mitochondrial dysfunction in doxorubicin-induced heart failure in rats: Possible mechanism of cardioprotection” [Biochem. Pharmacol. 86 (2013) 1301–1310]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496007074378,
+      "identifier": {
+        "doi": "10.1016/j.bcp.2014.08.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcp.2013.07.005"
+  },
+  "journal": "Biochemical Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nicorandil ameliorates mitochondrial dysfunction in doxorubicin-induced heart failure in rats: Possible mechanism of cardioprotection” [Biochem. Pharmacol. 86 (2013) 1301–1310]"
+}

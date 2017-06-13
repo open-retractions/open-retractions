@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.1063/1.4932680","type":"erratum"},"doi":"10.1063/1.4931110","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Autodetachment spectroscopy of the aluminum oxide anion dipole bound state” [J. Chem. Phys. 143, 114311 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496034571057,
+      "identifier": {
+        "doi": "10.1063/1.4932680"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4931110"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Autodetachment spectroscopy of the aluminum oxide anion dipole bound state” [J. Chem. Phys. 143, 114311 (2015)]"
+}

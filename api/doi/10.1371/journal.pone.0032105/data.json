@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339545600000,"doi":"10.1371/annotation/4e852b7d-735e-436f-bc66-3c31706b5f26","type":"correction"},"doi":"10.1371/journal.pone.0032105","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Genetic Diversity in New Members of the Reticulocyte Binding Protein Family in Thai Plasmodium vivax Isolates"}
+{
+  "retracted": false,
+  "timestamp": 1339545600000,
+  "updates": [
+    {
+      "timestamp": 1496021221737,
+      "identifier": {
+        "doi": "10.1371/annotation/4e852b7d-735e-436f-bc66-3c31706b5f26"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032105"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genetic Diversity in New Members of the Reticulocyte Binding Protein Family in Thai Plasmodium vivax Isolates"
+}

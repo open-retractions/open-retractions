@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367280000000,"doi":"10.1073/pnas.1316459110","type":"correction"},"doi":"10.1073/pnas.1222706110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Imperi et al., Repurposing the antimycotic drug flucytosine for suppression of Pseudomonas aeruginosa pathogenicity"}
+{
+  "retracted": false,
+  "timestamp": 1367280000000,
+  "updates": [
+    {
+      "timestamp": 1496048377459,
+      "identifier": {
+        "doi": "10.1073/pnas.1316459110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1222706110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Imperi et al., Repurposing the antimycotic drug flucytosine for suppression of Pseudomonas aeruginosa pathogenicity"
+}

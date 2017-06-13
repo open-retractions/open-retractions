@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1080/13696815.2016.1157326","type":"correction"},"doi":"10.1080/13696815.2016.1146129","journal":"Journal of African Cultural Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649573055,
+      "identifier": {
+        "doi": "10.1080/13696815.2016.1157326"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13696815.2016.1146129"
+  },
+  "journal": "Journal of African Cultural Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

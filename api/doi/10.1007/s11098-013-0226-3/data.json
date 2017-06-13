@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393545600000,"doi":"10.1007/s11098-014-0294-z","type":"correction"},"doi":"10.1007/s11098-013-0226-3","journal":"Philosophical Studies","publisher":"Springer Nature","title":"Erratum to: Thought experiments and the problem of deviant realizations"}
+{
+  "retracted": false,
+  "timestamp": 1393545600000,
+  "updates": [
+    {
+      "timestamp": 1496021338144,
+      "identifier": {
+        "doi": "10.1007/s11098-014-0294-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11098-013-0226-3"
+  },
+  "journal": "Philosophical Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thought experiments and the problem of deviant realizations"
+}

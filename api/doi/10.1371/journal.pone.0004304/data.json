@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1236124800000,"doi":"10.1371/annotation/ce274a43-a284-4839-9791-59e4b2563c9c","type":"correction"},"doi":"10.1371/journal.pone.0004304","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Role for the Juxtamembrane Cytoplasm in the Molecular Dynamics of Focal Adhesions"}
+{
+  "retracted": false,
+  "timestamp": 1236124800000,
+  "updates": [
+    {
+      "timestamp": 1496025199091,
+      "identifier": {
+        "doi": "10.1371/annotation/ce274a43-a284-4839-9791-59e4b2563c9c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004304"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Role for the Juxtamembrane Cytoplasm in the Molecular Dynamics of Focal Adhesions"
+}

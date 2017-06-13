@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426204800000,"doi":"10.1007/s10668-015-9652-z","type":"correction"},"doi":"10.1007/s10668-015-9639-9","journal":"Environment, Development and Sustainability","publisher":"Springer Nature","title":"Erratum to: Editorial"}
+{
+  "retracted": false,
+  "timestamp": 1426204800000,
+  "updates": [
+    {
+      "timestamp": 1496050357523,
+      "identifier": {
+        "doi": "10.1007/s10668-015-9652-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10668-015-9639-9"
+  },
+  "journal": "Environment, Development and Sustainability",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Editorial"
+}

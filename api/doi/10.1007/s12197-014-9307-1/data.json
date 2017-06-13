@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1007/s12197-015-9335-5","type":"correction"},"doi":"10.1007/s12197-014-9307-1","journal":"Journal of Economics and Finance","publisher":"Springer Nature","title":"Erratum to: The role of circuit breakers in the oil futures market"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496024323910,
+      "identifier": {
+        "doi": "10.1007/s12197-015-9335-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12197-014-9307-1"
+  },
+  "journal": "Journal of Economics and Finance",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The role of circuit breakers in the oil futures market"
+}

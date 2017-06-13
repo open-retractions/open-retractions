@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298592000000,"doi":"10.1007/s13205-011-0002-z","type":"correction"},"doi":"10.1007/s13205-010-0001-5","journal":"3 Biotech","publisher":"Springer Nature","title":"Erratum to: Development of ITS sequence-based markers to distinguish Berberis aristata DC. from B. lycium Royle and B. asiatica Roxb."}
+{
+  "retracted": false,
+  "timestamp": 1298592000000,
+  "updates": [
+    {
+      "timestamp": 1495937923756,
+      "identifier": {
+        "doi": "10.1007/s13205-011-0002-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13205-010-0001-5"
+  },
+  "journal": "3 Biotech",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development of ITS sequence-based markers to distinguish Berberis aristata DC. from B. lycium Royle and B. asiatica Roxb."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361923200000,"doi":"10.1371/annotation/30da0688-60ec-4fc3-beb0-72a343a7a9be","type":"correction"},"doi":"10.1371/journal.pgen.1003287","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Duplicate Abalone Egg Coat Proteins Bind Sperm Lysin Similarly, but Evolve Oppositely, Consistent with Molecular Mimicry at Fertilization"}
+{
+  "retracted": false,
+  "timestamp": 1361923200000,
+  "updates": [
+    {
+      "timestamp": 1496002816275,
+      "identifier": {
+        "doi": "10.1371/annotation/30da0688-60ec-4fc3-beb0-72a343a7a9be"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003287"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Duplicate Abalone Egg Coat Proteins Bind Sperm Lysin Similarly, but Evolve Oppositely, Consistent with Molecular Mimicry at Fertilization"
+}

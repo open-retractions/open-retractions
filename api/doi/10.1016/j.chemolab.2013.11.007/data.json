@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1016/j.chemolab.2015.02.012","type":"err"},"doi":"10.1016/j.chemolab.2013.11.007","journal":"Chemometrics and Intelligent Laboratory Systems","publisher":"Elsevier BV","title":"Retraction notice to “Optimization of fluidized bed spray granulation process based on a multiphase hybrid model” [CHEMOLAB 131C (2014) 7–15]"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496054460891,
+      "identifier": {
+        "doi": "10.1016/j.chemolab.2015.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemolab.2013.11.007"
+  },
+  "journal": "Chemometrics and Intelligent Laboratory Systems",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Optimization of fluidized bed spray granulation process based on a multiphase hybrid model” [CHEMOLAB 131C (2014) 7–15]"
+}

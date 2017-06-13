@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":170812800000,"doi":"10.1063/1.431036","type":"erratum"},"doi":"10.1063/1.1682563","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Effective pair potentials for the noninteracting spin‐1/2 Fermi gas"}
+{
+  "retracted": false,
+  "timestamp": 170812800000,
+  "updates": [
+    {
+      "timestamp": 1495896790610,
+      "identifier": {
+        "doi": "10.1063/1.431036"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1682563"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Effective pair potentials for the noninteracting spin‐1/2 Fermi gas"
+}

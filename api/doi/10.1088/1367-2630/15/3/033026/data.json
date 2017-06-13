@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1088/1367-2630/18/8/089503","type":"correction"},"doi":"10.1088/1367-2630/15/3/033026","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: Dual electromagnetism: helicity, spin, momentum, and angular momentum (2013New J. Phys.15033026)"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495736218101,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/8/089503"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/15/3/033026"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Dual electromagnetism: helicity, spin, momentum, and angular momentum (2013New J. Phys.15033026)"
+}

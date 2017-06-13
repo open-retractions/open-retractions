@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.actamat.2013.12.023","type":"err"},"doi":"10.1016/j.actamat.2013.01.024","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Stochastic failure of isotropic, brittle materials with uniform porosity” [Acta Mater. 61 (2013) 2853–2862]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496015126622,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2013.12.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2013.01.024"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stochastic failure of isotropic, brittle materials with uniform porosity” [Acta Mater. 61 (2013) 2853–2862]"
+}

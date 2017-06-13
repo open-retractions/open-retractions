@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.bbi.2014.09.007","type":"err"},"doi":"10.1016/j.bbi.2014.01.019","journal":"Brain, Behavior, and Immunity","publisher":"Elsevier BV","title":"Corrigendum to “Minocycline rescues decrease in neurogenesis, increase in microglia cytokines and deficits in sensorimotor gating in an animal model of schizophrenia” [Brain Behav. Immun. 38 (2014) 175–184]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496006454094,
+      "identifier": {
+        "doi": "10.1016/j.bbi.2014.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbi.2014.01.019"
+  },
+  "journal": "Brain, Behavior, and Immunity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Minocycline rescues decrease in neurogenesis, increase in microglia cytokines and deficits in sensorimotor gating in an animal model of schizophrenia” [Brain Behav. Immun. 38 (2014) 175–184]"
+}

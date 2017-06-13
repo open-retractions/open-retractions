@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465344000000,"doi":"10.1063/1.4953362","type":"correction"},"doi":"10.1063/1.2039088","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “The polymerization of actin: Structural changes from small-angle neutron scattering” [J. Chem. Phys. 123, 154904 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1465344000000,
+  "updates": [
+    {
+      "timestamp": 1495719136614,
+      "identifier": {
+        "doi": "10.1063/1.4953362"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2039088"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The polymerization of actin: Structural changes from small-angle neutron scattering” [J. Chem. Phys. 123, 154904 (2005)]"
+}

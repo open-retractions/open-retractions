@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447200000000,"doi":"10.1007/s00216-015-9143-y","type":"correction"},"doi":"10.1007/s00216-014-8394-3","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Methods for characterization of organic compounds in atmospheric aerosol particles"}
+{
+  "retracted": false,
+  "timestamp": 1447200000000,
+  "updates": [
+    {
+      "timestamp": 1496044886597,
+      "identifier": {
+        "doi": "10.1007/s00216-015-9143-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-014-8394-3"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Methods for characterization of organic compounds in atmospheric aerosol particles"
+}

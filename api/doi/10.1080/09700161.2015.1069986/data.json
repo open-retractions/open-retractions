@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445472000000,"doi":"10.1080/09700161.2015.1107271","type":"correction"},"doi":"10.1080/09700161.2015.1069986","journal":"Strategic Analysis","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1445472000000,
+  "updates": [
+    {
+      "timestamp": 1496039750669,
+      "identifier": {
+        "doi": "10.1080/09700161.2015.1107271"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09700161.2015.1069986"
+  },
+  "journal": "Strategic Analysis",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

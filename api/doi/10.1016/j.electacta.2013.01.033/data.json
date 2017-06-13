@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397088000000,"doi":"10.1016/j.electacta.2014.03.003","type":"erratum"},"doi":"10.1016/j.electacta.2013.01.033","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of poly(5-hydroxytryptamine)-modified glassy carbon electrode and applications to sensing of norepinephrine and uric acid in preparations and human urines” [Electrochim. Acta 92 (2013) 341-348]"}
+{
+  "retracted": false,
+  "timestamp": 1397088000000,
+  "updates": [
+    {
+      "timestamp": 1496030245362,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2014.03.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2013.01.033"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of poly(5-hydroxytryptamine)-modified glassy carbon electrode and applications to sensing of norepinephrine and uric acid in preparations and human urines” [Electrochim. Acta 92 (2013) 341-348]"
+}

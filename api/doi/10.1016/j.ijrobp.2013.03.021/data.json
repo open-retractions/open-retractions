@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ijrobp.2014.02.019","type":"err"},"doi":"10.1016/j.ijrobp.2013.03.021","journal":"International Journal of Radiation Oncology*Biology*Physics","publisher":"Elsevier BV","title":"Erratum to: Hennequin C, Bossard N, Servagi-Vernat, et al. Ten-year survival results of a randomized trial on irradiation of internal mammary nodes after mastectomy. Int J Radiat Oncol Biol Phys 2013;86:860-866."}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496050464040,
+      "identifier": {
+        "doi": "10.1016/j.ijrobp.2014.02.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijrobp.2013.03.021"
+  },
+  "journal": "International Journal of Radiation Oncology*Biology*Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Hennequin C, Bossard N, Servagi-Vernat, et al. Ten-year survival results of a randomized trial on irradiation of internal mammary nodes after mastectomy. Int J Radiat Oncol Biol Phys 2013;86:860-866."
+}

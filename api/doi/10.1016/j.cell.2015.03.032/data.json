@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487808000000,"doi":"10.1016/j.cell.2016.12.041","type":"erratum"},"doi":"10.1016/j.cell.2015.03.032","journal":"Cell","publisher":"Elsevier BV","title":"Widespread Proteome Remodeling and Aggregation in Aging C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1487808000000,
+  "updates": [
+    {
+      "timestamp": 1495723765188,
+      "identifier": {
+        "doi": "10.1016/j.cell.2016.12.041"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.03.032"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Widespread Proteome Remodeling and Aggregation in Aging C. elegans"
+}

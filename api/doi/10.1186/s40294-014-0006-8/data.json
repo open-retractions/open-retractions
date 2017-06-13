@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1186/s40294-016-0021-z","type":"correction"},"doi":"10.1186/s40294-014-0006-8","journal":"Complex Adaptive Systems Modeling","publisher":"Springer Nature","title":"Erratum to: Optimal surveillance network design: a value of information model"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495721600830,
+      "identifier": {
+        "doi": "10.1186/s40294-016-0021-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40294-014-0006-8"
+  },
+  "journal": "Complex Adaptive Systems Modeling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optimal surveillance network design: a value of information model"
+}

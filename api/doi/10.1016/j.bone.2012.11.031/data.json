@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.bone.2013.05.007","type":"err"},"doi":"10.1016/j.bone.2012.11.031","journal":"Bone","publisher":"Elsevier BV","title":"Corrigendum to “Exercise and bone mineral density in men: A meta-analysis of randomized controlled trials” [Bone 53 (2013) 103–111]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496017652892,
+      "identifier": {
+        "doi": "10.1016/j.bone.2013.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2012.11.031"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exercise and bone mineral density in men: A meta-analysis of randomized controlled trials” [Bone 53 (2013) 103–111]"
+}

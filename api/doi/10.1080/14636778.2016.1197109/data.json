@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478649600000,"doi":"10.1080/14636778.2016.1254385","type":"correction"},"doi":"10.1080/14636778.2016.1197109","journal":"New Genetics and Society","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1478649600000,
+  "updates": [
+    {
+      "timestamp": 1495656120888,
+      "identifier": {
+        "doi": "10.1080/14636778.2016.1254385"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14636778.2016.1197109"
+  },
+  "journal": "New Genetics and Society",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

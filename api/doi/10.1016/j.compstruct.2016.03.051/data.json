@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1016/j.compstruct.2016.12.017","type":"erratum"},"doi":"10.1016/j.compstruct.2016.03.051","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to: ‘Design of composite laminated plates for maximum buckling load with stiffness and elastic modulus constraints’ [Compos. Struct. 148 (2016) 27–38]"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1495668271130,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2016.12.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2016.03.051"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: ‘Design of composite laminated plates for maximum buckling load with stiffness and elastic modulus constraints’ [Compos. Struct. 148 (2016) 27–38]"
+}

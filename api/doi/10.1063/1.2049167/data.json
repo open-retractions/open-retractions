@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391040000000,"doi":"10.1063/1.4863717","type":"correction"},"doi":"10.1063/1.2049167","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Tetrads in geometrodynamics” [J. Math. Phys. 46, 102502 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1391040000000,
+  "updates": [
+    {
+      "timestamp": 1496015702584,
+      "identifier": {
+        "doi": "10.1063/1.4863717"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2049167"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Tetrads in geometrodynamics” [J. Math. Phys. 46, 102502 (2005)]"
+}

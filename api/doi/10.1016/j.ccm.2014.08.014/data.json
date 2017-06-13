@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.ccm.2014.12.001","type":"err"},"doi":"10.1016/j.ccm.2014.08.014","journal":"Clinics in Chest Medicine","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496043124851,
+      "identifier": {
+        "doi": "10.1016/j.ccm.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccm.2014.08.014"
+  },
+  "journal": "Clinics in Chest Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

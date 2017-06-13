@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1038/srep33618","type":"correction"},"doi":"10.1038/srep29962","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Predictability of Precipitation Over the Conterminous U.S. Based on the CMIP5 Multi-Model Ensemble"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640274117,
+      "identifier": {
+        "doi": "10.1038/srep33618"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep29962"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Predictability of Precipitation Over the Conterminous U.S. Based on the CMIP5 Multi-Model Ensemble"
+}

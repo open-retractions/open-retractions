@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1134/s1234567816050165","type":"correction"},"doi":"10.1134/s002209301603008x","journal":"Journal of Evolutionary Biochemistry and Physiology","publisher":"Pleiades Publishing Ltd","title":"Erratum: “Comparative analysis of immune responses in Colorado potato beetle larvae during development of mycoses caused by Metarhizium robertsii, M. brunneum, and M. pemphigi”"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495663404160,
+      "identifier": {
+        "doi": "10.1134/s1234567816050165"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s002209301603008x"
+  },
+  "journal": "Journal of Evolutionary Biochemistry and Physiology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum: “Comparative analysis of immune responses in Colorado potato beetle larvae during development of mycoses caused by Metarhizium robertsii, M. brunneum, and M. pemphigi”"
+}

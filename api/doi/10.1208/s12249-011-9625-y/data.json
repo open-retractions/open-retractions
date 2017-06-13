@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468454400000,"doi":"10.1208/s12249-016-0585-0","type":"correction"},"doi":"10.1208/s12249-011-9625-y","journal":"AAPS PharmSciTech","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Injectability Evaluation: an Open Issue"}
+{
+  "retracted": false,
+  "timestamp": 1468454400000,
+  "updates": [
+    {
+      "timestamp": 1495728652379,
+      "identifier": {
+        "doi": "10.1208/s12249-016-0585-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12249-011-9625-y"
+  },
+  "journal": "AAPS PharmSciTech",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Injectability Evaluation: an Open Issue"
+}

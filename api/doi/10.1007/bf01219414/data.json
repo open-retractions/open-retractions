@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-226195200000,"doi":"10.1007/bf01217565","type":"correction"},"doi":"10.1007/bf01219414","journal":"Microchimica Acta","publisher":"Springer Nature","title":"Erratum to: Sensitive new test for formaldehyde and pyruvaldehyde with 2-hydroxycarbazole"}
+{
+  "retracted": false,
+  "timestamp": -226195200000,
+  "updates": [
+    {
+      "timestamp": 1495922675701,
+      "identifier": {
+        "doi": "10.1007/bf01217565"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01219414"
+  },
+  "journal": "Microchimica Acta",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sensitive new test for formaldehyde and pyruvaldehyde with 2-hydroxycarbazole"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457395200000,"doi":"10.1007/s00535-016-1186-0","type":"correction"},"doi":"10.1007/s00535-015-1046-3","journal":"Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Predictive value of serum HER2 ECD in patients with HER2-positive advanced gastric cancer treated with trastuzumab plus chemotherapy"}
+{
+  "retracted": false,
+  "timestamp": 1457395200000,
+  "updates": [
+    {
+      "timestamp": 1495652272244,
+      "identifier": {
+        "doi": "10.1007/s00535-016-1186-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00535-015-1046-3"
+  },
+  "journal": "Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Predictive value of serum HER2 ECD in patients with HER2-positive advanced gastric cancer treated with trastuzumab plus chemotherapy"
+}

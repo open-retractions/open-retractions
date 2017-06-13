@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1007/s10681-015-1527-8","type":"correction"},"doi":"10.1007/s10681-015-1481-5","journal":"Euphytica","publisher":"Springer Nature","title":"Erratum to: Mining for low-nitrogen tolerance genes by integrating meta-analysis and large-scale gene expression data from maize"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496019197530,
+      "identifier": {
+        "doi": "10.1007/s10681-015-1527-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10681-015-1481-5"
+  },
+  "journal": "Euphytica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mining for low-nitrogen tolerance genes by integrating meta-analysis and large-scale gene expression data from maize"
+}

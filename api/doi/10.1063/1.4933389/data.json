@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463011200000,"doi":"10.1063/1.4949480","type":"correction"},"doi":"10.1063/1.4933389","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Concepts of magnetic filter fields in powerful negative ion sources for fusion” [Rev. Sci. Instrum. 87, 02B315 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1463011200000,
+  "updates": [
+    {
+      "timestamp": 1495676301041,
+      "identifier": {
+        "doi": "10.1063/1.4949480"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4933389"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Concepts of magnetic filter fields in powerful negative ion sources for fusion” [Rev. Sci. Instrum. 87, 02B315 (2016)]"
+}

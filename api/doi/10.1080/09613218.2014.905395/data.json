@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405296000000,"doi":"10.1080/09613218.2014.941575","type":"correction"},"doi":"10.1080/09613218.2014.905395","journal":"Building Research & Information","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1405296000000,
+  "updates": [
+    {
+      "timestamp": 1495994099078,
+      "identifier": {
+        "doi": "10.1080/09613218.2014.941575"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09613218.2014.905395"
+  },
+  "journal": "Building Research & Information",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

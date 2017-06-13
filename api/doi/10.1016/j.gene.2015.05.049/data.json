@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1441065600000,"update":{"timestamp":null,"doi":null,"pmid":27049671,"type":"retraction"},"doi":"10.1016/j.gene.2015.05.049","journal":"Gene","publisher":null,"title":"The identification of loci for polydactyly in chickens using a genome-wide association study."}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495661596017,
+      "identifier": {
+        "doi": "10.1016/j.gene.2016.03.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2015.05.049"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The identification of loci for polydactyly in chickens using a genome-wide association study” [GENE 568/2 (2015) 176–180]"
+}

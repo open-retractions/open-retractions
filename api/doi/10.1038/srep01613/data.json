@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437436800000,"doi":"10.1038/srep09794","type":"correction"},"doi":"10.1038/srep01613","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: From link-prediction in brain connectomes and protein interactomes to the local-community-paradigm in complex networks"}
+{
+  "retracted": false,
+  "timestamp": 1437436800000,
+  "updates": [
+    {
+      "timestamp": 1496016995072,
+      "identifier": {
+        "doi": "10.1038/srep09794"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep01613"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: From link-prediction in brain connectomes and protein interactomes to the local-community-paradigm in complex networks"
+}

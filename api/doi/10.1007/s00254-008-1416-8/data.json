@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1227657600000,"doi":"10.1007/s00254-008-1647-8","type":"correction"},"doi":"10.1007/s00254-008-1416-8","journal":"Environmental Geology","publisher":"Springer Nature","title":"Erratum to: Modeling of an MTBE plume at Pascoag, Rhode Island"}
+{
+  "retracted": false,
+  "timestamp": 1227657600000,
+  "updates": [
+    {
+      "timestamp": 1495946915699,
+      "identifier": {
+        "doi": "10.1007/s00254-008-1647-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00254-008-1416-8"
+  },
+  "journal": "Environmental Geology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Modeling of an MTBE plume at Pascoag, Rhode Island"
+}

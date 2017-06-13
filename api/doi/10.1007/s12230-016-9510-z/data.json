@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1007/s12230-016-9520-x","type":"correction"},"doi":"10.1007/s12230-016-9510-z","journal":"American Journal of Potato Research","publisher":"Springer Nature","title":"Erratum to: Nutritional and Structural Response of Potato Plants to Reduced Nitrogen Supply in Nutrient Solution"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495670309899,
+      "identifier": {
+        "doi": "10.1007/s12230-016-9520-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12230-016-9510-z"
+  },
+  "journal": "American Journal of Potato Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nutritional and Structural Response of Potato Plants to Reduced Nitrogen Supply in Nutrient Solution"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406505600000,"doi":"10.1016/j.canlet.2013.09.027","type":"err"},"doi":"10.1016/j.canlet.2011.08.022","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “Chk2-mediated G2/M cell cycle arrest maintains radiation resistance in malignant meningioma cells” [Cancer Lett. 313 (1) (2011) 64–75]"}
+{
+  "retracted": false,
+  "timestamp": 1406505600000,
+  "updates": [
+    {
+      "timestamp": 1495996931120,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2013.09.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2011.08.022"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Chk2-mediated G2/M cell cycle arrest maintains radiation resistance in malignant meningioma cells” [Cancer Lett. 313 (1) (2011) 64–75]"
+}

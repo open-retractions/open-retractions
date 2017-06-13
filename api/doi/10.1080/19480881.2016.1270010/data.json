@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487894400000,"doi":"10.1080/19480881.2017.1297058","type":"correction"},"doi":"10.1080/19480881.2016.1270010","journal":"Journal of the Indian Ocean Region","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487894400000,
+  "updates": [
+    {
+      "timestamp": 1495723398326,
+      "identifier": {
+        "doi": "10.1080/19480881.2017.1297058"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19480881.2016.1270010"
+  },
+  "journal": "Journal of the Indian Ocean Region",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

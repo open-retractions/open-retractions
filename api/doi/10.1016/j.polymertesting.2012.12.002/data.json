@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.polymertesting.2013.02.003","type":"err"},"doi":"10.1016/j.polymertesting.2012.12.002","journal":"Polymer Testing","publisher":"Elsevier BV","title":"Corrigendum to ‘Tensile properties of semi-crystalline thermoplastic polymers: Effects of temperature and strain rates’ [Polymer Testing 32/2 (2013) 413–425]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496000610077,
+      "identifier": {
+        "doi": "10.1016/j.polymertesting.2013.02.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.polymertesting.2012.12.002"
+  },
+  "journal": "Polymer Testing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Tensile properties of semi-crystalline thermoplastic polymers: Effects of temperature and strain rates’ [Polymer Testing 32/2 (2013) 413–425]"
+}

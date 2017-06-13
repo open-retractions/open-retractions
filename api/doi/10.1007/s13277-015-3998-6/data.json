@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446163200000,"doi":"10.1007/s13277-015-4210-8","type":"correction"},"doi":"10.1007/s13277-015-3998-6","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Overexpression of long non-coding RNA HOTAIR leads to chemoresistance by activating the Wnt/β-catenin pathway in human ovarian cancer"}
+{
+  "retracted": false,
+  "timestamp": 1446163200000,
+  "updates": [
+    {
+      "timestamp": 1497112951649,
+      "identifier": {
+        "doi": "10.1007/s13277-015-4210-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-3998-6"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Overexpression of long non-coding RNA HOTAIR leads to chemoresistance by activating the Wnt/β-catenin pathway in human ovarian cancer"
+}

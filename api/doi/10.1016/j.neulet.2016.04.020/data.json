@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469664000000,"doi":"10.1016/j.neulet.2016.05.023","type":"err"},"doi":"10.1016/j.neulet.2016.04.020","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Common variant in PTK2B is associated with late-onset Alzheimer’s disease: A replication study and meta-analyses” [Neurosci. Lett. 621 (2016) 83–87]"}
+{
+  "retracted": false,
+  "timestamp": 1469664000000,
+  "updates": [
+    {
+      "timestamp": 1495715447150,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2016.05.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2016.04.020"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Common variant in PTK2B is associated with late-onset Alzheimer’s disease: A replication study and meta-analyses” [Neurosci. Lett. 621 (2016) 83–87]"
+}

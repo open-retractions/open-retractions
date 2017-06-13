@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490054400000,"doi":"10.1073/pnas.1702625114","type":"correction"},"doi":"10.1073/pnas.1610197114","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Koizumi et al., Quantifying antiviral activity optimizes drug combinations against hepatitis C virus infection"}
+{
+  "retracted": false,
+  "timestamp": 1490054400000,
+  "updates": [
+    {
+      "timestamp": 1495726945064,
+      "identifier": {
+        "doi": "10.1073/pnas.1702625114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1610197114"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Koizumi et al., Quantifying antiviral activity optimizes drug combinations against hepatitis C virus infection"
+}

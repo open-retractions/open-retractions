@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412899200000,"doi":"10.1134/s0036024414140015","type":"correction"},"doi":"10.1134/s0036024414070140","journal":"Russian Journal of Physical Chemistry A","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Heteroatom effects in XC5H5C Arduengo-type carbenes (X = CH, N, P, and As) in singlet and triplet states”"}
+{
+  "retracted": false,
+  "timestamp": 1412899200000,
+  "updates": [
+    {
+      "timestamp": 1496013204791,
+      "identifier": {
+        "doi": "10.1134/s0036024414140015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0036024414070140"
+  },
+  "journal": "Russian Journal of Physical Chemistry A",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Heteroatom effects in XC5H5C Arduengo-type carbenes (X = CH, N, P, and As) in singlet and triplet states”"
+}

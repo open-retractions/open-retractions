@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1371/journal.pgen.1005270","type":"correction"},"doi":"10.1371/journal.pgen.1005190","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Essential Role of the ESX-5 Secretion System in Outer Membrane Permeability of Pathogenic Mycobacteria"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496003036162,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1005270"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1005190"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Essential Role of the ESX-5 Secretion System in Outer Membrane Permeability of Pathogenic Mycobacteria"
+}

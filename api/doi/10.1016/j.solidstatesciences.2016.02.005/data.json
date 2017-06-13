@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.solidstatesciences.2017.02.004","type":"erratum"},"doi":"10.1016/j.solidstatesciences.2016.02.005","journal":"Solid State Sciences","publisher":"Elsevier BV","title":"Corrigendum to ‘The crystal structures of m,o-Ce3Pt4Sn6 and Ce1-xPt6Al13+2x’ [Solid State Sci. 55 (2016) 48–57]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495723393631,
+      "identifier": {
+        "doi": "10.1016/j.solidstatesciences.2017.02.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solidstatesciences.2016.02.005"
+  },
+  "journal": "Solid State Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘The crystal structures of m,o-Ce3Pt4Sn6 and Ce1-xPt6Al13+2x’ [Solid State Sci. 55 (2016) 48–57]"
+}

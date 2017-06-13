@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1016/j.cell.2015.05.020","type":"err"},"doi":"10.1016/j.cell.2013.05.001","journal":"Cell","publisher":"Elsevier BV","title":"Induction of Pluripotency in Mouse Somatic Cells with Lineage Specifiers"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1495998392920,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.05.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.05.001"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Induction of Pluripotency in Mouse Somatic Cells with Lineage Specifiers"
+}

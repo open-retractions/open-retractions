@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.wndm.2014.08.001","type":"err"},"doi":"10.1016/j.wndm.2014.02.001","journal":"Wound Medicine","publisher":"Elsevier BV","title":"Corrigendum to “The Too Few Toes principle: A formula for limb-sparing low-level amputation planning” [Wound Med. 4 (2014) 37–41]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1495999599947,
+      "identifier": {
+        "doi": "10.1016/j.wndm.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wndm.2014.02.001"
+  },
+  "journal": "Wound Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Too Few Toes principle: A formula for limb-sparing low-level amputation planning” [Wound Med. 4 (2014) 37–41]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.biocel.2013.05.014","type":"err"},"doi":"10.1016/j.biocel.2013.01.019","journal":"The International Journal of Biochemistry & Cell Biology","publisher":"Elsevier BV","title":"Corrrigendum to “2-Deoxyglucose treatment complements the cisplatin- or BH3-onlymimetic-induced suppression of neuroblastoma cell growth” [Int. J. Biochem. Cell Biol. 45 (2013) 944–951]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496017649476,
+      "identifier": {
+        "doi": "10.1016/j.biocel.2013.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocel.2013.01.019"
+  },
+  "journal": "The International Journal of Biochemistry & Cell Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrrigendum to “2-Deoxyglucose treatment complements the cisplatin- or BH3-onlymimetic-induced suppression of neuroblastoma cell growth” [Int. J. Biochem. Cell Biol. 45 (2013) 944–951]"
+}

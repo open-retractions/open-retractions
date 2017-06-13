@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.annepidem.2014.12.004","type":"err"},"doi":"10.1016/j.annepidem.2014.06.100","journal":"Annals of Epidemiology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496038199527,
+      "identifier": {
+        "doi": "10.1016/j.annepidem.2014.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.annepidem.2014.06.100"
+  },
+  "journal": "Annals of Epidemiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

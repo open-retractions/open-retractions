@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403654400000,"doi":"10.1063/1.4883655","type":"correction"},"doi":"10.1063/1.4878120","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “The fundamental gap for a class of Schrödinger operators on path and hypercube graphs” [J. Math. Phys. 55, 052104 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1403654400000,
+  "updates": [
+    {
+      "timestamp": 1496048796421,
+      "identifier": {
+        "doi": "10.1063/1.4883655"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4878120"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “The fundamental gap for a class of Schrödinger operators on path and hypercube graphs” [J. Math. Phys. 55, 052104 (2014)]"
+}

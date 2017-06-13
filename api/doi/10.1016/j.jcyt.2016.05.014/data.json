@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jcyt.2016.10.015","type":"err"},"doi":"10.1016/j.jcyt.2016.05.014","journal":"Cytotherapy","publisher":"Elsevier BV","title":"Erratum to “Tumor antigen-specific T cells for immune monitoring of dendritic cell-treated glioblastoma patients”"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495656419594,
+      "identifier": {
+        "doi": "10.1016/j.jcyt.2016.10.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcyt.2016.05.014"
+  },
+  "journal": "Cytotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Tumor antigen-specific T cells for immune monitoring of dendritic cell-treated glioblastoma patients”"
+}

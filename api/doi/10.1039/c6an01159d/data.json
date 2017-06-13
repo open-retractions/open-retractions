@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1039/c6an90098d","type":"correction"},"doi":"10.1039/c6an01159d","journal":"The Analyst","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: In solution SERS sensing using mesoporous silica-coated gold nanorods"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495658266569,
+      "identifier": {
+        "doi": "10.1039/c6an90098d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6an01159d"
+  },
+  "journal": "The Analyst",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: In solution SERS sensing using mesoporous silica-coated gold nanorods"
+}

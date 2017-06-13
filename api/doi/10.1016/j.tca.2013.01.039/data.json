@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376956800000,"doi":"10.1016/j.tca.2013.05.040","type":"err"},"doi":"10.1016/j.tca.2013.01.039","journal":"Thermochimica Acta","publisher":"Elsevier BV","title":"Erratum and comments on “Lattice energies and polarizabilities of lanthanide gallium garnets (Ln3Ga5O12)” [Thermochim. Acta 557 (2013) 20–23]"}
+{
+  "retracted": false,
+  "timestamp": 1376956800000,
+  "updates": [
+    {
+      "timestamp": 1496028385000,
+      "identifier": {
+        "doi": "10.1016/j.tca.2013.05.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tca.2013.01.039"
+  },
+  "journal": "Thermochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Erratum and comments on “Lattice energies and polarizabilities of lanthanide gallium garnets (Ln3Ga5O12)” [Thermochim. Acta 557 (2013) 20–23]"
+}

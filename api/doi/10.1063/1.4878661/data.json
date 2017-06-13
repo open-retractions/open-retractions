@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404345600000,"doi":"10.1063/1.4886975","type":"correction"},"doi":"10.1063/1.4878661","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Chemical and electronic passivation of 4H-SiC surface by hydrogen-nitrogen mixed plasma” [Appl. Phys. Lett. 104, 202101 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1404345600000,
+  "updates": [
+    {
+      "timestamp": 1496051211131,
+      "identifier": {
+        "doi": "10.1063/1.4886975"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4878661"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Chemical and electronic passivation of 4H-SiC surface by hydrogen-nitrogen mixed plasma” [Appl. Phys. Lett. 104, 202101 (2014)]"
+}

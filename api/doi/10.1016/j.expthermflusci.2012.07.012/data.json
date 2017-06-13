@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.expthermflusci.2014.02.020","type":"err"},"doi":"10.1016/j.expthermflusci.2012.07.012","journal":"Experimental Thermal and Fluid Science","publisher":"Elsevier BV","title":"Erratum to “Convective vaporization in micro-fin tubes of different geometries” [Exp. Therm. Fluid Sci. 44 (2013) 398–408]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496027479785,
+      "identifier": {
+        "doi": "10.1016/j.expthermflusci.2014.02.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expthermflusci.2012.07.012"
+  },
+  "journal": "Experimental Thermal and Fluid Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Convective vaporization in micro-fin tubes of different geometries” [Exp. Therm. Fluid Sci. 44 (2013) 398–408]"
+}

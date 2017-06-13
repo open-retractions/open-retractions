@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479859200000,"doi":"10.1016/j.neuron.2016.11.009","type":"erratum"},"doi":"10.1016/j.neuron.2016.10.037","journal":"Neuron","publisher":"Elsevier BV","title":"Enabling an Open Data Ecosystem for the Neurosciences"}
+{
+  "retracted": false,
+  "timestamp": 1479859200000,
+  "updates": [
+    {
+      "timestamp": 1495658399410,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.11.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2016.10.037"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Enabling an Open Data Ecosystem for the Neurosciences"
+}

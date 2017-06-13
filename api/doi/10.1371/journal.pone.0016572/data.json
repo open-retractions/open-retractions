@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300665600000,"doi":"10.1371/annotation/893f09fd-ab24-4119-93f4-44a03a3342f9","type":"correction"},"doi":"10.1371/journal.pone.0016572","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: HPRT Deficiency Coordinately Dysregulates Canonical Wnt and Presenilin-1 Signaling: A Neuro-Developmental Regulatory Role for a Housekeeping Gene?"}
+{
+  "retracted": false,
+  "timestamp": 1300665600000,
+  "updates": [
+    {
+      "timestamp": 1495945840912,
+      "identifier": {
+        "doi": "10.1371/annotation/893f09fd-ab24-4119-93f4-44a03a3342f9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0016572"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: HPRT Deficiency Coordinately Dysregulates Canonical Wnt and Presenilin-1 Signaling: A Neuro-Developmental Regulatory Role for a Housekeeping Gene?"
+}

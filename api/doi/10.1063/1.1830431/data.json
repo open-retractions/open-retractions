@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1122854400000,"doi":"10.1063/1.1994853","type":"erratum"},"doi":"10.1063/1.1830431","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Heat flow in proteins: Computation of thermal transport coefficients” [J. Chem. Phys. 122, 054902 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1122854400000,
+  "updates": [
+    {
+      "timestamp": 1495953577756,
+      "identifier": {
+        "doi": "10.1063/1.1994853"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1830431"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Heat flow in proteins: Computation of thermal transport coefficients” [J. Chem. Phys. 122, 054902 (2005)]"
+}

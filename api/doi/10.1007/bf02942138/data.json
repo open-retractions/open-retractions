@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225843200000,"doi":"10.1007/bf02944736","type":"correction"},"doi":"10.1007/bf02942138","journal":"Irish Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to: Observations on Road Traffic Accidents in the Republic of Ireland"}
+{
+  "retracted": false,
+  "timestamp": 1225843200000,
+  "updates": [
+    {
+      "timestamp": 1495888523461,
+      "identifier": {
+        "doi": "10.1007/bf02944736"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02942138"
+  },
+  "journal": "Irish Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Observations on Road Traffic Accidents in the Republic of Ireland"
+}

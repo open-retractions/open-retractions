@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398038400000,"doi":"10.1007/s00464-001-0043-1","type":"correction"},"doi":"10.1007/s004640000311","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: Evaluation of operative cholangiography in 2043 patients undergoing laparoscopic cholecystectomy: a case for the selective operative cholangiogram"}
+{
+  "retracted": false,
+  "timestamp": 1398038400000,
+  "updates": [
+    {
+      "timestamp": 1495944369820,
+      "identifier": {
+        "doi": "10.1007/s00464-001-0043-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s004640000311"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evaluation of operative cholangiography in 2043 patients undergoing laparoscopic cholecystectomy: a case for the selective operative cholangiogram"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":589075200000,"doi":"10.1007/bf02712161","type":"correction"},"doi":"10.1007/bf02903098","journal":"Journal of Biosciences","publisher":"Springer Nature","title":"Erratum to: Isolation, purification and partial characterisation of prealbumin from cerebrospinal fluid"}
+{
+  "retracted": false,
+  "timestamp": 589075200000,
+  "updates": [
+    {
+      "timestamp": 1495988699985,
+      "identifier": {
+        "doi": "10.1007/bf02712161"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02903098"
+  },
+  "journal": "Journal of Biosciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isolation, purification and partial characterisation of prealbumin from cerebrospinal fluid"
+}

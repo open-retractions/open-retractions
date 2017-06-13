@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1186/s12943-016-0499-1","type":"correction"},"doi":"10.1186/1476-4598-13-199","journal":"Molecular Cancer","publisher":"Springer Nature","title":"Erratum to: ‘Expression of granzyme B sensitizes ALK+ ALCL tumour cells to apoptosis-inducing drugs’"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649411419,
+      "identifier": {
+        "doi": "10.1186/s12943-016-0499-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1476-4598-13-199"
+  },
+  "journal": "Molecular Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Expression of granzyme B sensitizes ALK+ ALCL tumour cells to apoptosis-inducing drugs’"
+}

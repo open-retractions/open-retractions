@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375056000000,"doi":"10.1371/annotation/59a7568c-915d-4d9c-b912-f93af72acdcb","type":"correction"},"doi":"10.1371/journal.pone.0067728","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Effect of Licochalcone A on Growth and Properties of Streptococcus suis"}
+{
+  "retracted": false,
+  "timestamp": 1375056000000,
+  "updates": [
+    {
+      "timestamp": 1496036849179,
+      "identifier": {
+        "doi": "10.1371/annotation/59a7568c-915d-4d9c-b912-f93af72acdcb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0067728"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effect of Licochalcone A on Growth and Properties of Streptococcus suis"
+}

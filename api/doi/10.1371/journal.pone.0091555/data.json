@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414713600000,"doi":"10.1371/journal.pone.0112519","type":"correction"},"doi":"10.1371/journal.pone.0091555","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: ABCB1 1199G>A Genetic Polymorphism (Rs2229109) Influences the Intracellular Accumulation of Tacrolimus in HEK293 and K562 Recombinant Cell Lines"}
+{
+  "retracted": false,
+  "timestamp": 1414713600000,
+  "updates": [
+    {
+      "timestamp": 1496018243585,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0112519"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0091555"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ABCB1 1199G>A Genetic Polymorphism (Rs2229109) Influences the Intracellular Accumulation of Tacrolimus in HEK293 and K562 Recombinant Cell Lines"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1240963200000,"doi":"10.1136/bmj.b1766","type":"correction"},"doi":"10.1136/bmj.b1618","journal":"BMJ","publisher":"BMJ","title":"FDA puts restrictions on an institutional review board after secret investigation"}
+{
+  "retracted": false,
+  "timestamp": 1240963200000,
+  "updates": [
+    {
+      "timestamp": 1495947893613,
+      "identifier": {
+        "doi": "10.1136/bmj.b1766"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.b1618"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "FDA puts restrictions on an institutional review board after secret investigation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471478400000,"doi":"10.1039/c6ra90074g","type":"correction"},"doi":"10.1039/c6ra00294c","journal":"RSC Adv.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Solid phase synthesis of TyrT, a thymine–tyrosine conjugate with poly(A) RNA-binding ability"}
+{
+  "retracted": false,
+  "timestamp": 1471478400000,
+  "updates": [
+    {
+      "timestamp": 1495739064888,
+      "identifier": {
+        "doi": "10.1039/c6ra90074g"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6ra00294c"
+  },
+  "journal": "RSC Adv.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Solid phase synthesis of TyrT, a thymine–tyrosine conjugate with poly(A) RNA-binding ability"
+}

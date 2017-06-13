@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1441065600000,"update":{"timestamp":null,"doi":null,"pmid":27614133,"type":"retraction"},"doi":"10.1016/j.jim.2015.05.003","journal":"Journal of immunological methods","publisher":null,"title":"A neutralizing scFv antibody against infectious bursal disease virus screened by flow cytometry."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495638552926,
+      "identifier": {
+        "doi": "10.1016/j.jim.2016.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jim.2015.05.003"
+  },
+  "journal": "Journal of Immunological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to \"A neutralizing scFv antibody against infectious bursal disease virus screened by flow cytometry\" [JIM 424 (2015) 80 - 84]"
+}

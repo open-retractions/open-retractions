@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1317168000000,"doi":"10.1371/annotation/d9496d01-8c5d-4d24-8287-94449ada5064","type":"correction"},"doi":"10.1371/journal.pone.0015710","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Multiplexed Echo Planar Imaging for Sub-Second Whole Brain FMRI and Fast Diffusion Imaging"}
+{
+  "retracted": false,
+  "timestamp": 1317168000000,
+  "updates": [
+    {
+      "timestamp": 1495812361454,
+      "identifier": {
+        "doi": "10.1371/annotation/d9496d01-8c5d-4d24-8287-94449ada5064"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0015710"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Multiplexed Echo Planar Imaging for Sub-Second Whole Brain FMRI and Fast Diffusion Imaging"
+}

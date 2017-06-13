@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":717897600000,"doi":"10.1128/mcb.12.10.4806","type":"correction"},"doi":"10.1128/mcb.8.11.4991","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"GAL11 protein, an auxiliary transcription activator for genes encoding galactose-metabolizing enzymes in Saccharomyces cerevisiae.:"}
+{
+  "retracted": false,
+  "timestamp": 717897600000,
+  "updates": [
+    {
+      "timestamp": 1496035224153,
+      "identifier": {
+        "doi": "10.1128/mcb.12.10.4806"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.8.11.4991"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "GAL11 protein, an auxiliary transcription activator for genes encoding galactose-metabolizing enzymes in Saccharomyces cerevisiae.:"
+}

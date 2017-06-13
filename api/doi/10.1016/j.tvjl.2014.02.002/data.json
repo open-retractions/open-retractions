@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.tvjl.2014.05.019","type":"err"},"doi":"10.1016/j.tvjl.2014.02.002","journal":"The Veterinary Journal","publisher":"Elsevier BV","title":"Corrigendum to “Clinical, virological, immunological and pathological evaluation of four porcine circovirus type 2 vaccines” [The Veterinary Journal 200 (2014) 65–70]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496043430349,
+      "identifier": {
+        "doi": "10.1016/j.tvjl.2014.05.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tvjl.2014.02.002"
+  },
+  "journal": "The Veterinary Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Clinical, virological, immunological and pathological evaluation of four porcine circovirus type 2 vaccines” [The Veterinary Journal 200 (2014) 65–70]"
+}

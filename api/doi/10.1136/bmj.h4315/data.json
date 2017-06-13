@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1136/bmj.h4507","type":"correction"},"doi":"10.1136/bmj.h4315","journal":"BMJ","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496025376765,
+      "identifier": {
+        "doi": "10.1136/bmj.h4507"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h4315"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

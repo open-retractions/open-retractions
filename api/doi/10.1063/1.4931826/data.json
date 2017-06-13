@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480896000000,"doi":"10.1063/1.4971862","type":"erratum"},"doi":"10.1063/1.4931826","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Effect of mobile ions on the electric field needed to orient charged diblock copolymer thin films” [J. Chem. Phys. 143, 134902 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1480896000000,
+  "updates": [
+    {
+      "timestamp": 1495663567278,
+      "identifier": {
+        "doi": "10.1063/1.4971862"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4931826"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effect of mobile ions on the electric field needed to orient charged diblock copolymer thin films” [J. Chem. Phys. 143, 134902 (2015)]"
+}

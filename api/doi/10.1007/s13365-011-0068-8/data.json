@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338508800000,"doi":"10.1007/s13365-012-0113-2","type":"correction"},"doi":"10.1007/s13365-011-0068-8","journal":"Journal of NeuroVirology","publisher":"Springer Nature","title":"Erratum to: Failure to clear intra-monocyte HIV infection linked to persistent neuropsychological testing impairment after first-line combined antiretroviral therapy"}
+{
+  "retracted": false,
+  "timestamp": 1338508800000,
+  "updates": [
+    {
+      "timestamp": 1495909988499,
+      "identifier": {
+        "doi": "10.1007/s13365-012-0113-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13365-011-0068-8"
+  },
+  "journal": "Journal of NeuroVirology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Failure to clear intra-monocyte HIV infection linked to persistent neuropsychological testing impairment after first-line combined antiretroviral therapy"
+}

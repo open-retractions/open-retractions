@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.ijcard.2014.01.107","type":"err"},"doi":"10.1016/j.ijcard.2011.10.057","journal":"International Journal of Cardiology","publisher":"Elsevier BV","title":"Corrigendum to “Overexpression of cAMP-response element modulator causes abnormal growth and development of the atrial myocardium resulting in a substrate for sustained atrial fibrillation in mice” Int J Cardiol 166 (2013), 366–74"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496016054209,
+      "identifier": {
+        "doi": "10.1016/j.ijcard.2014.01.107"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijcard.2011.10.057"
+  },
+  "journal": "International Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Overexpression of cAMP-response element modulator causes abnormal growth and development of the atrial myocardium resulting in a substrate for sustained atrial fibrillation in mice” Int J Cardiol 166 (2013), 366–74"
+}

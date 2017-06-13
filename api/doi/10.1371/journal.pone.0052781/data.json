@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365552000000,"doi":"10.1371/annotation/98d7baf8-0e73-42d0-adbc-2eeb6a3c1b3c","type":"correction"},"doi":"10.1371/journal.pone.0052781","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Bambi and Sp8 Expression Mark Digit Tips and Their Absence Shows That Chick Wing Digits 2 and 3 Are Truncated"}
+{
+  "retracted": false,
+  "timestamp": 1365552000000,
+  "updates": [
+    {
+      "timestamp": 1496011444814,
+      "identifier": {
+        "doi": "10.1371/annotation/98d7baf8-0e73-42d0-adbc-2eeb6a3c1b3c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0052781"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bambi and Sp8 Expression Mark Digit Tips and Their Absence Shows That Chick Wing Digits 2 and 3 Are Truncated"
+}

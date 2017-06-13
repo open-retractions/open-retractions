@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.exer.2016.03.022","type":"erratum"},"doi":"10.1016/j.exer.2015.10.002","journal":"Experimental Eye Research","publisher":"Elsevier BV","title":"Corrigendum to “In memoriam” [Exp. Eye Res. 140 (2015) iii–iv]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495668802648,
+      "identifier": {
+        "doi": "10.1016/j.exer.2016.03.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exer.2015.10.002"
+  },
+  "journal": "Experimental Eye Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “In memoriam” [Exp. Eye Res. 140 (2015) iii–iv]"
+}

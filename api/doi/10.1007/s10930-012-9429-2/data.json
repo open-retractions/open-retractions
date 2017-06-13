@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434844800000,"doi":"10.1007/s10930-015-9617-y","type":"correction"},"doi":"10.1007/s10930-012-9429-2","journal":"The Protein Journal","publisher":"Springer Nature","title":"Erratum to: Insufficient (Sub-native) Helix Content in Soluble/Solid Aggregates of Recombinant and Engineered Forms of IL-2 Throws Light on How Aggregated IL-2 is Biologically Active"}
+{
+  "retracted": false,
+  "timestamp": 1434844800000,
+  "updates": [
+    {
+      "timestamp": 1496009435551,
+      "identifier": {
+        "doi": "10.1007/s10930-015-9617-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10930-012-9429-2"
+  },
+  "journal": "The Protein Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Insufficient (Sub-native) Helix Content in Soluble/Solid Aggregates of Recombinant and Engineered Forms of IL-2 Throws Light on How Aggregated IL-2 is Biologically Active"
+}

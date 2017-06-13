@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1098/rspb.2013.2972","type":"correction"},"doi":"10.1098/rspb.2013.1243","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Adaptive radiation of chemosymbiotic deep-sea mussels"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1496004035402,
+      "identifier": {
+        "doi": "10.1098/rspb.2013.2972"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2013.1243"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Adaptive radiation of chemosymbiotic deep-sea mussels"
+}

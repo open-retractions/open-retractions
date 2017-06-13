@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487030400000,"doi":"10.3847/1538-4357/836/1/147","type":"correction"},"doi":"10.1088/0004-637x/812/1/34","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “The Next Generation Virgo Cluster Survey. X. Properties of Ultra-compact Dwarfs in the M87, M49, and M60 Regions” (2015, APJ, 812, 34)"}
+{
+  "retracted": false,
+  "timestamp": 1487030400000,
+  "updates": [
+    {
+      "timestamp": 1495720504325,
+      "identifier": {
+        "doi": "10.3847/1538-4357/836/1/147"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/812/1/34"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “The Next Generation Virgo Cluster Survey. X. Properties of Ultra-compact Dwarfs in the M87, M49, and M60 Regions” (2015, APJ, 812, 34)"
+}

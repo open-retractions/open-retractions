@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1007/s12012-015-9340-0","type":"correction"},"doi":"10.1007/s12012-015-9312-4","journal":"Cardiovascular Toxicology","publisher":"Springer Nature","title":"Erratum to: Synchronization in the Heart Rate and the Vasomotion in Rat Aorta: Effect of Arsenic Trioxide"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496035052070,
+      "identifier": {
+        "doi": "10.1007/s12012-015-9340-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12012-015-9312-4"
+  },
+  "journal": "Cardiovascular Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Synchronization in the Heart Rate and the Vasomotion in Rat Aorta: Effect of Arsenic Trioxide"
+}

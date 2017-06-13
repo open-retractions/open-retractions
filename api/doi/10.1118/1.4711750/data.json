@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371168000000,"doi":"10.1118/1.4811149","type":"erratum"},"doi":"10.1118/1.4711750","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “A simplified approach to characterizing a kilovoltage source spectrum for accurate dose computation” [Med. Phys. 39(6), 3041-3050 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1371168000000,
+  "updates": [
+    {
+      "timestamp": 1496025793541,
+      "identifier": {
+        "doi": "10.1118/1.4811149"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4711750"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “A simplified approach to characterizing a kilovoltage source spectrum for accurate dose computation” [Med. Phys. 39(6), 3041-3050 (2012)]"
+}

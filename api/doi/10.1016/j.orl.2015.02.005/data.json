@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.orl.2015.05.008","type":"erratum"},"doi":"10.1016/j.orl.2015.02.005","journal":"Operations Research Letters","publisher":"Elsevier BV","title":"Corrigendum to “A two-variable linear program solves the standard linear–quadratic formulation of the fractionation problem in cancer radiotherapy” [Oper. Res. Lett. 43(3) (2015) 254–258]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496006910872,
+      "identifier": {
+        "doi": "10.1016/j.orl.2015.05.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.orl.2015.02.005"
+  },
+  "journal": "Operations Research Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A two-variable linear program solves the standard linear–quadratic formulation of the fractionation problem in cancer radiotherapy” [Oper. Res. Lett. 43(3) (2015) 254–258]"
+}

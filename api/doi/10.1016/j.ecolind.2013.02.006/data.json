@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ecolind.2013.05.005","type":"err"},"doi":"10.1016/j.ecolind.2013.02.006","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Corrigendum to “A fisheries acoustic multi-frequency indicator to inform on large scale spatial patterns of aquatic pelagic ecosystems” [Ecol. Indic. 30 (2013) 72–79]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496021885378,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2013.05.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2013.02.006"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A fisheries acoustic multi-frequency indicator to inform on large scale spatial patterns of aquatic pelagic ecosystems” [Ecol. Indic. 30 (2013) 72–79]"
+}

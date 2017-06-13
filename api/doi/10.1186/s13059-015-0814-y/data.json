@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1186/s13059-016-0887-2","type":"correction"},"doi":"10.1186/s13059-015-0814-y","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Understanding Brassicaceae evolution through ancestral genome reconstruction"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495662184679,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0887-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-015-0814-y"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Understanding Brassicaceae evolution through ancestral genome reconstruction"
+}

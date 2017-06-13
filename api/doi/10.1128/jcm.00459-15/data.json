@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1128/jcm.00850-16","type":"correction"},"doi":"10.1128/jcm.00459-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Guembe et al., Cultures of Needleless Connectors Are Useful for Ruling Out Central Venous Catheter Colonization"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495722583035,
+      "identifier": {
+        "doi": "10.1128/jcm.00850-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.00459-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Guembe et al., Cultures of Needleless Connectors Are Useful for Ruling Out Central Venous Catheter Colonization"
+}

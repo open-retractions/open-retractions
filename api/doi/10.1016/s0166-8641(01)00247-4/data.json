@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1016/j.topol.2016.12.016","type":"erratum"},"doi":"10.1016/s0166-8641(01)00247-4","journal":"Topology and its Applications","publisher":"Elsevier BV","title":"Retraction notice to “The topological fundamental group and generalized covering spaces” [Topol. Appl. 124 (3) (2002) 355–371]"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1495670573521,
+      "identifier": {
+        "doi": "10.1016/j.topol.2016.12.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0166-8641(01)00247-4"
+  },
+  "journal": "Topology and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The topological fundamental group and generalized covering spaces” [Topol. Appl. 124 (3) (2002) 355–371]"
+}

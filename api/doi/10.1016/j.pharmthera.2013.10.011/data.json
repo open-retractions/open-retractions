@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.pharmthera.2014.04.002","type":"err"},"doi":"10.1016/j.pharmthera.2013.10.011","journal":"Pharmacology & Therapeutics","publisher":"Elsevier BV","title":"Corrigendum to “The biology of Nociceptin/Orphanin FQ (N/OFQ) related to obesity, stress, anxiety, mood, and drug dependence” [Pharmacology & Therapeutics 141 (2014) 283–299]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496035332048,
+      "identifier": {
+        "doi": "10.1016/j.pharmthera.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pharmthera.2013.10.011"
+  },
+  "journal": "Pharmacology & Therapeutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The biology of Nociceptin/Orphanin FQ (N/OFQ) related to obesity, stress, anxiety, mood, and drug dependence” [Pharmacology & Therapeutics 141 (2014) 283–299]"
+}

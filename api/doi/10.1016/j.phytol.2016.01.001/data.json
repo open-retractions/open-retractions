@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.phytol.2016.04.001","type":"err"},"doi":"10.1016/j.phytol.2016.01.001","journal":"Phytochemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Flavonoids and bis-coumarin from the tubers of Apios taiwanianus” [Phytochem. Lett. 15 (2016) 164–167]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495666797776,
+      "identifier": {
+        "doi": "10.1016/j.phytol.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytol.2016.01.001"
+  },
+  "journal": "Phytochemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Flavonoids and bis-coumarin from the tubers of Apios taiwanianus” [Phytochem. Lett. 15 (2016) 164–167]"
+}

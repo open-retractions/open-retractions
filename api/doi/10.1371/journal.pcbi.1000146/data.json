@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219276800000,"doi":"10.1371/annotation/be4eb7dd-4092-49c1-a619-e8eeba40ed67","type":"correction"},"doi":"10.1371/journal.pcbi.1000146","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Classifying RNA-Binding Proteins Based on Electrostatic Properties"}
+{
+  "retracted": false,
+  "timestamp": 1219276800000,
+  "updates": [
+    {
+      "timestamp": 1496025195720,
+      "identifier": {
+        "doi": "10.1371/annotation/be4eb7dd-4092-49c1-a619-e8eeba40ed67"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000146"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Classifying RNA-Binding Proteins Based on Electrostatic Properties"
+}

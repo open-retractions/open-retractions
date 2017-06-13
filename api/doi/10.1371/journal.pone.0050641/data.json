@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378252800000,"doi":"10.1371/annotation/79d26ad0-169f-4440-8bee-4f483550112b","type":"correction"},"doi":"10.1371/journal.pone.0050641","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Hydrogen Sulfide Suppresses Outward Rectifier Potassium Currents in Human Pluripotent Stem Cell-Derived Cardiomyocytes"}
+{
+  "retracted": false,
+  "timestamp": 1378252800000,
+  "updates": [
+    {
+      "timestamp": 1496044356953,
+      "identifier": {
+        "doi": "10.1371/annotation/79d26ad0-169f-4440-8bee-4f483550112b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050641"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hydrogen Sulfide Suppresses Outward Rectifier Potassium Currents in Human Pluripotent Stem Cell-Derived Cardiomyocytes"
+}

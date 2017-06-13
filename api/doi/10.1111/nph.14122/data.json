@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485475200000,"doi":"10.1111/nph.14467","type":"correction"},"doi":"10.1111/nph.14122","journal":"New Phytologist","publisher":"Wiley-Blackwell","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485475200000,
+  "updates": [
+    {
+      "timestamp": 1495679288142,
+      "identifier": {
+        "doi": "10.1111/nph.14467"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/nph.14122"
+  },
+  "journal": "New Phytologist",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum"
+}

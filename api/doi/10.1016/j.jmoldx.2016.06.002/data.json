@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jmoldx.2016.09.004","type":"err"},"doi":"10.1016/j.jmoldx.2016.06.002","journal":"The Journal of Molecular Diagnostics","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495641098048,
+      "identifier": {
+        "doi": "10.1016/j.jmoldx.2016.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmoldx.2016.06.002"
+  },
+  "journal": "The Journal of Molecular Diagnostics",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465171200000,"doi":"10.1007/s10518-016-9940-5","type":"correction"},"doi":"10.1007/s10518-016-9875-x","journal":"Bulletin of Earthquake Engineering","publisher":"Springer Nature","title":"Erratum to: Partially non-ergodic region specific GMPE for Europe and Middle-East"}
+{
+  "retracted": false,
+  "timestamp": 1465171200000,
+  "updates": [
+    {
+      "timestamp": 1495718387860,
+      "identifier": {
+        "doi": "10.1007/s10518-016-9940-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10518-016-9875-x"
+  },
+  "journal": "Bulletin of Earthquake Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Partially non-ergodic region specific GMPE for Europe and Middle-East"
+}

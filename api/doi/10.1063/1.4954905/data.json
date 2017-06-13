@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1063/1.4967771","type":"correction"},"doi":"10.1063/1.4954905","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Publisher's Note: “The role of zonal flows in the saturation of multi-scale gyrokinetic turbulence” [Phys. Plasmas 23, 062518 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495661780173,
+      "identifier": {
+        "doi": "10.1063/1.4967771"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4954905"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “The role of zonal flows in the saturation of multi-scale gyrokinetic turbulence” [Phys. Plasmas 23, 062518 (2016)]"
+}

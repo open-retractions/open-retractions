@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1232409600000,"doi":"10.1007/bf02532098","type":"correction"},"doi":"10.1007/bf02526938","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: Communication on Laplace’s equation"}
+{
+  "retracted": false,
+  "timestamp": 1232409600000,
+  "updates": [
+    {
+      "timestamp": 1495919009190,
+      "identifier": {
+        "doi": "10.1007/bf02532098"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02526938"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Communication on Laplace’s equation"
+}

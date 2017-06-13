@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475625600000,"doi":"10.1007/s00129-016-3964-4","type":"correction"},"doi":"10.1007/s00129-016-3907-0","journal":"Der Gynäkologe","publisher":"Springer Nature","title":"Erratum zu: Krebsfrüherkennung des Zervix- und des Mammakarzinoms"}
+{
+  "retracted": false,
+  "timestamp": 1475625600000,
+  "updates": [
+    {
+      "timestamp": 1495645830716,
+      "identifier": {
+        "doi": "10.1007/s00129-016-3964-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00129-016-3907-0"
+  },
+  "journal": "Der Gynäkologe",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Krebsfrüherkennung des Zervix- und des Mammakarzinoms"
+}

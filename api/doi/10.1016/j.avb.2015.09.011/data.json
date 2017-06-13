@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.avb.2016.03.007","type":"err"},"doi":"10.1016/j.avb.2015.09.011","journal":"Aggression and Violent Behavior","publisher":"Elsevier BV","title":"Corrigendum to “A systematic review and meta-analysis on the effectiveness of CBT informed anger management” [Aggression Viol. Behav. 25 (2015) 280–292]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495656621558,
+      "identifier": {
+        "doi": "10.1016/j.avb.2016.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.avb.2015.09.011"
+  },
+  "journal": "Aggression and Violent Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A systematic review and meta-analysis on the effectiveness of CBT informed anger management” [Aggression Viol. Behav. 25 (2015) 280–292]"
+}

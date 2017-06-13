@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.crme.2014.10.001","type":"err"},"doi":"10.1016/j.crme.2014.08.002","journal":"Comptes Rendus Mécanique","publisher":"Elsevier BV","title":"Corrigendum to “Refined theory of bi-layer beams for a transversely isotropic body” [C. R. Mecanique 343 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496021368216,
+      "identifier": {
+        "doi": "10.1016/j.crme.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.crme.2014.08.002"
+  },
+  "journal": "Comptes Rendus Mécanique",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Refined theory of bi-layer beams for a transversely isotropic body” [C. R. Mecanique 343 (2015)]"
+}

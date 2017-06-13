@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.knosys.2015.09.031","type":"err"},"doi":"10.1016/j.knosys.2014.12.023","journal":"Knowledge-Based Systems","publisher":"Elsevier BV","title":"Corrigendum to “Coverage-based resampling: Building robust consolidated decision trees” [Knowledge-Based Systems 79(2015)51–67]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496039388937,
+      "identifier": {
+        "doi": "10.1016/j.knosys.2015.09.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.knosys.2014.12.023"
+  },
+  "journal": "Knowledge-Based Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Coverage-based resampling: Building robust consolidated decision trees” [Knowledge-Based Systems 79(2015)51–67]"
+}

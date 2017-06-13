@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388966400000,"doi":"10.1371/annotation/d86135c4-7a99-43fb-a3ea-445a9e671c51","type":"correction"},"doi":"10.1371/journal.pone.0079121","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Characteristics of the Naked Mole Rat μ-Opioid Receptor"}
+{
+  "retracted": false,
+  "timestamp": 1388966400000,
+  "updates": [
+    {
+      "timestamp": 1496008449765,
+      "identifier": {
+        "doi": "10.1371/annotation/d86135c4-7a99-43fb-a3ea-445a9e671c51"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0079121"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Characteristics of the Naked Mole Rat μ-Opioid Receptor"
+}

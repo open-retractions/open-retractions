@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440979200000,"doi":"10.1063/1.4928403","type":"correction"},"doi":"10.1063/1.4919381","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Non-resonant below-bandgap two-photon absorption in quantum dot solar cells” [Appl. Phys. Lett. 106, 171101 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1440979200000,
+  "updates": [
+    {
+      "timestamp": 1496026350505,
+      "identifier": {
+        "doi": "10.1063/1.4928403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4919381"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Non-resonant below-bandgap two-photon absorption in quantum dot solar cells” [Appl. Phys. Lett. 106, 171101 (2015)]"
+}

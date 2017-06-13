@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1007/s11277-015-2453-8","type":"correction"},"doi":"10.1007/s11277-015-2344-z","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: Enhanced Secure Mutual Authentication and Key Agreement Scheme Preserving User Anonymity in Global Mobile Networks"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496047790420,
+      "identifier": {
+        "doi": "10.1007/s11277-015-2453-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-015-2344-z"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Enhanced Secure Mutual Authentication and Key Agreement Scheme Preserving User Anonymity in Global Mobile Networks"
+}

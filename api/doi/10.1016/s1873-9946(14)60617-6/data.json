@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.crohns.2014.08.001","type":"err"},"doi":"10.1016/s1873-9946(14)60617-6","journal":"Journal of Crohn's and Colitis","publisher":"Oxford University Press (OUP)","title":"Corrigendum to “Efficacy of continued vedolizumab therapy in patients with Crohn's disease who did not respond to vedolizumab induction therapy at week 6” [J Crohns Colitis 8S1 (2014) P497 S274-5]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496003419615,
+      "identifier": {
+        "doi": "10.1016/j.crohns.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s1873-9946(14)60617-6"
+  },
+  "journal": "Journal of Crohn's and Colitis",
+  "publisher": "Oxford University Press (OUP)",
+  "title": "Corrigendum to “Efficacy of continued vedolizumab therapy in patients with Crohn's disease who did not respond to vedolizumab induction therapy at week 6” [J Crohns Colitis 8S1 (2014) P497 S274-5]"
+}

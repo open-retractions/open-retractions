@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464912000000,"doi":"10.1371/journal.pone.0157255","type":"correction"},"doi":"10.1371/journal.pone.0150182","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Reproducibility of Fluorescent Expression from Engineered Biological Constructs in E. coli"}
+{
+  "retracted": false,
+  "timestamp": 1464912000000,
+  "updates": [
+    {
+      "timestamp": 1495718066645,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0157255"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0150182"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Reproducibility of Fluorescent Expression from Engineered Biological Constructs in E. coli"
+}

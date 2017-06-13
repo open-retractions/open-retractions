@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439424000000,"doi":"10.1016/j.cell.2015.07.039","type":"err"},"doi":"10.1016/j.cell.2012.04.024","journal":"Cell","publisher":"Elsevier BV","title":"The Life History of 21 Breast Cancers"}
+{
+  "retracted": false,
+  "timestamp": 1439424000000,
+  "updates": [
+    {
+      "timestamp": 1496023257231,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.07.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.04.024"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "The Life History of 21 Breast Cancers"
+}

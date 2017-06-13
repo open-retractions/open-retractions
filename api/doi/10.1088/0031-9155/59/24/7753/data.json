@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431043200000,"doi":"10.1088/0031-9155/60/10/4225","type":"correction"},"doi":"10.1088/0031-9155/59/24/7753","journal":"Physics in Medicine and Biology","publisher":"IOP Publishing","title":"Corrigendum: Accuracy of positioning and irradiation targeting for multiple targets in intracranial image-guided radiation therapy: a phantom study (Phys. Med. Biol. 59 7753)"}
+{
+  "retracted": false,
+  "timestamp": 1431043200000,
+  "updates": [
+    {
+      "timestamp": 1495995307335,
+      "identifier": {
+        "doi": "10.1088/0031-9155/60/10/4225"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0031-9155/59/24/7753"
+  },
+  "journal": "Physics in Medicine and Biology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Accuracy of positioning and irradiation targeting for multiple targets in intracranial image-guided radiation therapy: a phantom study (Phys. Med. Biol. 59 7753)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1073/pnas.1606259113","type":"correction"},"doi":"10.1073/pnas.1507647113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Buhrman et al., Quantum communication complexity advantage implies violation of a Bell inequality"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495676912100,
+      "identifier": {
+        "doi": "10.1073/pnas.1606259113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1507647113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Buhrman et al., Quantum communication complexity advantage implies violation of a Bell inequality"
+}

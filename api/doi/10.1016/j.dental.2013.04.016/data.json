@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.dental.2016.07.001","type":"err"},"doi":"10.1016/j.dental.2013.04.016","journal":"Dental Materials","publisher":"Elsevier BV","title":"Corrigendum to ‘Physical properties and depth of cure of a new short fiber reinforced composite’ [Dent Mater 29 (8) (2013) 835–841]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495726651557,
+      "identifier": {
+        "doi": "10.1016/j.dental.2016.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dental.2013.04.016"
+  },
+  "journal": "Dental Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Physical properties and depth of cure of a new short fiber reinforced composite’ [Dent Mater 29 (8) (2013) 835–841]"
+}

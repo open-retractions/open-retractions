@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458518400000,"doi":"10.3847/0004-637x/820/1/81","type":"correction"},"doi":"10.1088/0004-637x/814/1/23","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “HIGH-RESOLUTION IR ABSORPTION SPECTROSCOPY OF POLYCYCLIC AROMATIC HYDROCARBONS: THE REALM OF ANHARMONICITY” (2015, ApJ, 814, 23)"}
+{
+  "retracted": false,
+  "timestamp": 1458518400000,
+  "updates": [
+    {
+      "timestamp": 1495657333581,
+      "identifier": {
+        "doi": "10.3847/0004-637x/820/1/81"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/814/1/23"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “HIGH-RESOLUTION IR ABSORPTION SPECTROSCOPY OF POLYCYCLIC AROMATIC HYDROCARBONS: THE REALM OF ANHARMONICITY” (2015, ApJ, 814, 23)"
+}

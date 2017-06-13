@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.clinbiomech.2016.04.012","type":"err"},"doi":"10.1016/j.clinbiomech.2015.12.013","journal":"Clinical Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “The influence of footwear on functional outcome after total ankle replacement, ankle arthrodesis, and tibiotalocalcaneal arthrodesis” [Clin. Biomech. 32 (2016) 34–39]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495672271395,
+      "identifier": {
+        "doi": "10.1016/j.clinbiomech.2016.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinbiomech.2015.12.013"
+  },
+  "journal": "Clinical Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The influence of footwear on functional outcome after total ankle replacement, ankle arthrodesis, and tibiotalocalcaneal arthrodesis” [Clin. Biomech. 32 (2016) 34–39]"
+}

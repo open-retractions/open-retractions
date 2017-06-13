@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1371/annotation/6f86410c-63c3-4fcd-b1cb-9fd8d2ea95d0","type":"correction"},"doi":"10.1371/journal.pone.0076366","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: REEPs Are Membrane Shaping Adapter Proteins That Modulate Specific G Protein-Coupled Receptor Trafficking by Affecting ER Cargo Capacity"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496005695374,
+      "identifier": {
+        "doi": "10.1371/annotation/6f86410c-63c3-4fcd-b1cb-9fd8d2ea95d0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0076366"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: REEPs Are Membrane Shaping Adapter Proteins That Modulate Specific G Protein-Coupled Receptor Trafficking by Affecting ER Cargo Capacity"
+}

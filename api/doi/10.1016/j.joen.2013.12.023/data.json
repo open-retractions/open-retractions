@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.joen.2017.02.011","type":"erratum"},"doi":"10.1016/j.joen.2013.12.023","journal":"Journal of Endodontics","publisher":"Elsevier BV","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495731818135,
+      "identifier": {
+        "doi": "10.1016/j.joen.2017.02.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joen.2013.12.023"
+  },
+  "journal": "Journal of Endodontics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum"
+}

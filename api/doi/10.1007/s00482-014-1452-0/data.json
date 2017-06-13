@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1007/s00482-015-0012-6","type":"correction"},"doi":"10.1007/s00482-014-1452-0","journal":"Der Schmerz","publisher":"Springer Nature","title":"Erratum zu: Langzeittherapie mit Opioiden bei chronischem nicht-tumorbedingtem Schmerz"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496002508828,
+      "identifier": {
+        "doi": "10.1007/s00482-015-0012-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00482-014-1452-0"
+  },
+  "journal": "Der Schmerz",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Langzeittherapie mit Opioiden bei chronischem nicht-tumorbedingtem Schmerz"
+}

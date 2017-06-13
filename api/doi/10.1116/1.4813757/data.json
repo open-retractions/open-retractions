@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1116/1.4819876","type":"correction"},"doi":"10.1116/1.4813757","journal":"Journal of Vacuum Science & Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena","publisher":"American Vacuum Society","title":"Erratum: “Resonant coupling for contactless measurement of carrier lifetime” [J. Vac. Sci. Technol. B 31, 04D113 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1496045322865,
+      "identifier": {
+        "doi": "10.1116/1.4819876"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1116/1.4813757"
+  },
+  "journal": "Journal of Vacuum Science & Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena",
+  "publisher": "American Vacuum Society",
+  "title": "Erratum: “Resonant coupling for contactless measurement of carrier lifetime” [J. Vac. Sci. Technol. B 31, 04D113 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386892800000,"doi":"10.1371/annotation/7aa1688c-56c8-46ca-82ea-f86697f3c4fe","type":"correction"},"doi":"10.1371/journal.pone.0059388","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Acinetobacter baumannii Utilizes a Type VI Secretion System for Bacterial Competition"}
+{
+  "retracted": false,
+  "timestamp": 1386892800000,
+  "updates": [
+    {
+      "timestamp": 1496004994684,
+      "identifier": {
+        "doi": "10.1371/annotation/7aa1688c-56c8-46ca-82ea-f86697f3c4fe"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059388"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Acinetobacter baumannii Utilizes a Type VI Secretion System for Bacterial Competition"
+}

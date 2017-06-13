@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352332800000,"doi":"10.1371/annotation/6bc54ac4-3639-447d-92bc-dad0ddb24c1e","type":"correction"},"doi":"10.1371/journal.pone.0048281","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Reproducibility of Frankfort Horizontal Plane on 3D Multi-Planar Reconstructed MR Images"}
+{
+  "retracted": false,
+  "timestamp": 1352332800000,
+  "updates": [
+    {
+      "timestamp": 1495974635902,
+      "identifier": {
+        "doi": "10.1371/annotation/6bc54ac4-3639-447d-92bc-dad0ddb24c1e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0048281"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Reproducibility of Frankfort Horizontal Plane on 3D Multi-Planar Reconstructed MR Images"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.phytochem.2013.12.012","type":"err"},"doi":"10.1016/j.phytochem.2012.09.006","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Glycosylceramides from marine green microalga Tetraselmis sp.” [Phytochemistry 85 (2013) 107–114]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496013011443,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2013.12.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2012.09.006"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Glycosylceramides from marine green microalga Tetraselmis sp.” [Phytochemistry 85 (2013) 107–114]"
+}

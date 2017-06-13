@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1354838400000,"update":{"timestamp":null,"doi":null,"pmid":28159760,"type":"retraction"},"doi":"10.1074/jbc.M112.387738","journal":"The Journal of biological chemistry","publisher":null,"title":"NAD(P)H:quinone oxidoreductase 1 (NQO1) competes with 20S proteasome for binding with C/EBPα leading to its stabilization and protection against radiation-induced myeloproliferative disease."}
+{
+  "retracted": false,
+  "timestamp": 1486080000000,
+  "updates": [
+    {
+      "timestamp": 1495680923185,
+      "identifier": {
+        "doi": "10.1074/jbc.a117.387738"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m112.387738"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "NAD(P)H:quinone oxidoreductase 1 (NQO1) competes with 20S proteasome for binding with C/EBPα leading to its stabilization and protection against radiation-induced myeloproliferative disease."
+}

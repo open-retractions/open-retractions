@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1323734400000,"doi":"10.1371/annotation/1935b388-2831-4fb1-b8f2-914ab91c1ddc","type":"correction"},"doi":"10.1371/journal.pone.0027418","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identifying and Characterizing Nodes Important to Community Structure Using the Spectrum of the Graph"}
+{
+  "retracted": false,
+  "timestamp": 1323734400000,
+  "updates": [
+    {
+      "timestamp": 1497218577413,
+      "identifier": {
+        "doi": "10.1371/annotation/1935b388-2831-4fb1-b8f2-914ab91c1ddc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027418"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identifying and Characterizing Nodes Important to Community Structure Using the Spectrum of the Graph"
+}

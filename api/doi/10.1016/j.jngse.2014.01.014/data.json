@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jngse.2014.05.016","type":"err"},"doi":"10.1016/j.jngse.2014.01.014","journal":"Journal of Natural Gas Science and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Estimation of total organic carbon in shales through color manifestations” [J. Natural Gas Sci. Eng. 18 (2014) 53–57]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496047622817,
+      "identifier": {
+        "doi": "10.1016/j.jngse.2014.05.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jngse.2014.01.014"
+  },
+  "journal": "Journal of Natural Gas Science and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Estimation of total organic carbon in shales through color manifestations” [J. Natural Gas Sci. Eng. 18 (2014) 53–57]"
+}

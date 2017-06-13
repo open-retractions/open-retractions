@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1016/j.neuron.2014.06.011","type":"err"},"doi":"10.1016/j.neuron.2009.11.004","journal":"Neuron","publisher":"Elsevier BV","title":"Representation of Concurrent Stimuli by Population Activity in Visual Cortex"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050951812,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2009.11.004"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Representation of Concurrent Stimuli by Population Activity in Visual Cortex"
+}

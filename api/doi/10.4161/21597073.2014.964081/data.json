@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434672000000,"doi":"10.1080/21597081.2015.1053355","type":"correction"},"doi":"10.4161/21597073.2014.964081","journal":"Bacteriophage","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1434672000000,
+  "updates": [
+    {
+      "timestamp": 1496008984385,
+      "identifier": {
+        "doi": "10.1080/21597081.2015.1053355"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/21597073.2014.964081"
+  },
+  "journal": "Bacteriophage",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

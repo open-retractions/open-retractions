@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.conengprac.2014.02.009","type":"err"},"doi":"10.1016/j.conengprac.2013.11.001","journal":"Control Engineering Practice","publisher":"Elsevier BV","title":"Corrigendum to “A hybrid algorithm to tune power oscillation dampers for FACTS devices” [Control Eng. Pract. 24 (2014) 25–32]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496021897953,
+      "identifier": {
+        "doi": "10.1016/j.conengprac.2014.02.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.conengprac.2013.11.001"
+  },
+  "journal": "Control Engineering Practice",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A hybrid algorithm to tune power oscillation dampers for FACTS devices” [Control Eng. Pract. 24 (2014) 25–32]"
+}

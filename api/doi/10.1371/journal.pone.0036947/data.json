@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1345766400000,"doi":"10.1371/annotation/139857f3-5a05-4a23-9bfe-a77aafbce54d","type":"correction"},"doi":"10.1371/journal.pone.0036947","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inferring Carbon Sources from Gene Expression Profiles Using Metabolic Flux Models"}
+{
+  "retracted": false,
+  "timestamp": 1345766400000,
+  "updates": [
+    {
+      "timestamp": 1495948656114,
+      "identifier": {
+        "doi": "10.1371/annotation/139857f3-5a05-4a23-9bfe-a77aafbce54d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0036947"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inferring Carbon Sources from Gene Expression Profiles Using Metabolic Flux Models"
+}

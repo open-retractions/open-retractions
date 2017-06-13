@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481328000000,"doi":"10.1007/s10875-016-0362-6","type":"correction"},"doi":"10.1007/s10875-016-0338-6","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: Familial Chronic Granulomatous Disease Affecting Three Siblings and Causing Recurrent Tuberculosis"}
+{
+  "retracted": false,
+  "timestamp": 1481328000000,
+  "updates": [
+    {
+      "timestamp": 1495666189644,
+      "identifier": {
+        "doi": "10.1007/s10875-016-0362-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-016-0338-6"
+  },
+  "journal": "Journal of Clinical Immunology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Familial Chronic Granulomatous Disease Affecting Three Siblings and Causing Recurrent Tuberculosis"
+}

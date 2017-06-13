@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.envres.2015.09.021","type":"err"},"doi":"10.1016/j.envres.2015.06.030","journal":"Environmental Research","publisher":"Elsevier BV","title":"Corrigendum to “Non-Cancer Mortality in Workers in the Meat and Delicatessen Departments of Supermarkets (1950–2006)” [Environ Res 2015; 142: 155–160]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496033765582,
+      "identifier": {
+        "doi": "10.1016/j.envres.2015.09.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2015.06.030"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Non-Cancer Mortality in Workers in the Meat and Delicatessen Departments of Supermarkets (1950–2006)” [Environ Res 2015; 142: 155–160]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414886400000,"doi":"10.1007/s40618-014-0188-0","type":"correction"},"doi":"10.1007/s40618-014-0137-y","journal":"Journal of Endocrinological Investigation","publisher":"Springer Nature","title":"Erratum to: GLP-1: benefits beyond pancreas"}
+{
+  "retracted": false,
+  "timestamp": 1414886400000,
+  "updates": [
+    {
+      "timestamp": 1496018484231,
+      "identifier": {
+        "doi": "10.1007/s40618-014-0188-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40618-014-0137-y"
+  },
+  "journal": "Journal of Endocrinological Investigation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: GLP-1: benefits beyond pancreas"
+}

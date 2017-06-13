@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.neures.2015.09.007","type":"err"},"doi":"10.1016/j.neures.2015.08.003","journal":"Neuroscience Research","publisher":"Elsevier BV","title":"Corrigendum to “Early weaning influences short-term synaptic plasticity in the medial prefrontal–anterior basolateral amygdala pathway” [Neurosci. Res. 103 (2016) 48–53]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496039380835,
+      "identifier": {
+        "doi": "10.1016/j.neures.2015.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neures.2015.08.003"
+  },
+  "journal": "Neuroscience Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Early weaning influences short-term synaptic plasticity in the medial prefrontal–anterior basolateral amygdala pathway” [Neurosci. Res. 103 (2016) 48–53]"
+}

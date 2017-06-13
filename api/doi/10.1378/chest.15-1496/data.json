@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.chest.2016.03.014","type":"err"},"doi":"10.1378/chest.15-1496","journal":"Chest","publisher":"Elsevier BV","title":"Correction to reference in: Treatment of Unexplained Chronic Cough: CHEST Guideline and Expert Panel Report"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495673498131,
+      "identifier": {
+        "doi": "10.1016/j.chest.2016.03.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1378/chest.15-1496"
+  },
+  "journal": "Chest",
+  "publisher": "Elsevier BV",
+  "title": "Correction to reference in: Treatment of Unexplained Chronic Cough: CHEST Guideline and Expert Panel Report"
+}

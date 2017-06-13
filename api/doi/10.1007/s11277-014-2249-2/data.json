@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426636800000,"doi":"10.1007/s11277-015-2526-8","type":"correction"},"doi":"10.1007/s11277-014-2249-2","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: A New Meta-heuristic Algorithm for Maximizing Lifetime of Wireless Sensor Networks"}
+{
+  "retracted": false,
+  "timestamp": 1426636800000,
+  "updates": [
+    {
+      "timestamp": 1496051635887,
+      "identifier": {
+        "doi": "10.1007/s11277-015-2526-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-014-2249-2"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A New Meta-heuristic Algorithm for Maximizing Lifetime of Wireless Sensor Networks"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1080/10618562.2016.1269840","type":"correction"},"doi":"10.1080/10618562.2016.1227070","journal":"International Journal of Computational Fluid Dynamics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495664757090,
+      "identifier": {
+        "doi": "10.1080/10618562.2016.1269840"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10618562.2016.1227070"
+  },
+  "journal": "International Journal of Computational Fluid Dynamics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

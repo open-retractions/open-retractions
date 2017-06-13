@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447718400000,"doi":"10.1063/1.4932535","type":"correction"},"doi":"10.1063/1.4930833","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Electrical spin injection in modulation-doped GaAs from an in situ grown Fe/MgO layer” [Appl. Phys. Lett. 107, 102407 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1447718400000,
+  "updates": [
+    {
+      "timestamp": 1496046632749,
+      "identifier": {
+        "doi": "10.1063/1.4932535"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4930833"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Electrical spin injection in modulation-doped GaAs from an in situ grown Fe/MgO layer” [Appl. Phys. Lett. 107, 102407 (2015)]"
+}

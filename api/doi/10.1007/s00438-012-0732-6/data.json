@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428537600000,"doi":"10.1007/s00438-015-1030-x","type":"correction"},"doi":"10.1007/s00438-012-0732-6","journal":"Molecular Genetics and Genomics","publisher":"Springer Nature","title":"Erratum to: Maternal inheritance of mitochondrial genomes and complex inheritance of chloroplast genomes in Actinidia Lind.: evidences from interspecific crosses"}
+{
+  "retracted": false,
+  "timestamp": 1428537600000,
+  "updates": [
+    {
+      "timestamp": 1496056121667,
+      "identifier": {
+        "doi": "10.1007/s00438-015-1030-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00438-012-0732-6"
+  },
+  "journal": "Molecular Genetics and Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Maternal inheritance of mitochondrial genomes and complex inheritance of chloroplast genomes in Actinidia Lind.: evidences from interspecific crosses"
+}

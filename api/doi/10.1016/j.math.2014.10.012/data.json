@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.math.2016.03.008","type":"err"},"doi":"10.1016/j.math.2014.10.012","journal":"Manual Therapy","publisher":"Elsevier BV","title":"Corrigendum to ‘Implementation fidelity of physiotherapist-delivered group education and exercise interventions to promote self-management in people with osteoarthritis and chronic low back pain: A rapid review Part II*’ [Manual Therapy 20/2 (2014) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495658296094,
+      "identifier": {
+        "doi": "10.1016/j.math.2016.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.math.2014.10.012"
+  },
+  "journal": "Manual Therapy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Implementation fidelity of physiotherapist-delivered group education and exercise interventions to promote self-management in people with osteoarthritis and chronic low back pain: A rapid review Part II*’ [Manual Therapy 20/2 (2014) 1–8]"
+}

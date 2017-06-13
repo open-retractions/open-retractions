@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.rmed.2013.06.017","type":"err"},"doi":"10.1016/j.rmed.2009.02.016","journal":"Respiratory Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Endothelin receptor blockade in the management of pulmonary arterial hypertension: Selective and dual antagonism” [Respir Med 103 (2009) 951–962]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496031024541,
+      "identifier": {
+        "doi": "10.1016/j.rmed.2013.06.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmed.2009.02.016"
+  },
+  "journal": "Respiratory Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Endothelin receptor blockade in the management of pulmonary arterial hypertension: Selective and dual antagonism” [Respir Med 103 (2009) 951–962]"
+}

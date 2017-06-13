@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1007/s10692-016-9708-3","type":"correction"},"doi":"10.1007/s10692-013-9469-1","journal":"Fibre Chemistry","publisher":"Springer Nature","title":"Erratum to: Mathematical Modeling of the Productivity of Spinning Pumps Used to Form Aramid Fibers"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495655645546,
+      "identifier": {
+        "doi": "10.1007/s10692-016-9708-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10692-013-9469-1"
+  },
+  "journal": "Fibre Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mathematical Modeling of the Productivity of Spinning Pumps Used to Form Aramid Fibers"
+}

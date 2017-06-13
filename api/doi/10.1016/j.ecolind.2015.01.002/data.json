@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.ecolind.2015.02.029","type":"err"},"doi":"10.1016/j.ecolind.2015.01.002","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Corrigendum to “Monetary valuation of road noise. Residential property prices as an indicator of the acoustic climate quality” [Ecol. Indic. 52 (2015) 472–479]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496049279906,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2015.02.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2015.01.002"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Monetary valuation of road noise. Residential property prices as an indicator of the acoustic climate quality” [Ecol. Indic. 52 (2015) 472–479]"
+}

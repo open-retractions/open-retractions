@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486598400000,"doi":"10.1007/s10549-017-4116-9","type":"correction"},"doi":"10.1007/s10549-016-4089-0","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Radiation therapy targets and the risk of breast cancer-related lymphedema: a systematic review and network meta-analysis"}
+{
+  "retracted": false,
+  "timestamp": 1486598400000,
+  "updates": [
+    {
+      "timestamp": 1495719427427,
+      "identifier": {
+        "doi": "10.1007/s10549-017-4116-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-016-4089-0"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiation therapy targets and the risk of breast cancer-related lymphedema: a systematic review and network meta-analysis"
+}

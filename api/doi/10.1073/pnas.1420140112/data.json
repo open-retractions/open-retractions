@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1073/pnas.1503616112","type":"correction"},"doi":"10.1073/pnas.1420140112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Midde et al., Multimodular biosensors reveal a novel platform for activation of G proteins by growth factor receptors"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496048376040,
+      "identifier": {
+        "doi": "10.1073/pnas.1503616112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1420140112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Midde et al., Multimodular biosensors reveal a novel platform for activation of G proteins by growth factor receptors"
+}

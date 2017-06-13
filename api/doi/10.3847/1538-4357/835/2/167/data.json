@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490572800000,"doi":"10.3847/1538-4357/aa64db","type":"correction"},"doi":"10.3847/1538-4357/835/2/167","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “Bayesian Mass Estimates of the Milky Way: Including Measurement Uncertainties with Hierarchical Bayes” (2017, ApJ, 835, 167)"}
+{
+  "retracted": false,
+  "timestamp": 1490572800000,
+  "updates": [
+    {
+      "timestamp": 1495729463489,
+      "identifier": {
+        "doi": "10.3847/1538-4357/aa64db"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/1538-4357/835/2/167"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “Bayesian Mass Estimates of the Milky Way: Including Measurement Uncertainties with Hierarchical Bayes” (2017, ApJ, 835, 167)"
+}

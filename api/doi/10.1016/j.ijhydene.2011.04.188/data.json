@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378771200000,"doi":"10.1016/j.ijhydene.2013.07.008","type":"err"},"doi":"10.1016/j.ijhydene.2011.04.188","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Biohydrogen and biomethane from water hyacinth (Eichhornia crassipes) fermentation: Effects of substrate concentration and incubation temperature” [Int J Hydrogen Energy 36 (2011) 14195–14203]"}
+{
+  "retracted": false,
+  "timestamp": 1378771200000,
+  "updates": [
+    {
+      "timestamp": 1496037071554,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2013.07.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2011.04.188"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Biohydrogen and biomethane from water hyacinth (Eichhornia crassipes) fermentation: Effects of substrate concentration and incubation temperature” [Int J Hydrogen Energy 36 (2011) 14195–14203]"
+}

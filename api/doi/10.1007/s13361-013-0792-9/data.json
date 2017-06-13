@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1007/s13361-014-0879-y","type":"correction"},"doi":"10.1007/s13361-013-0792-9","journal":"Journal of The American Society for Mass Spectrometry","publisher":"Springer Nature","title":"Erratum to: Thermal Proton Transfer Reactions in Ultraviolet Matrix-Assisted Laser Desorption/Ionization"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496029795907,
+      "identifier": {
+        "doi": "10.1007/s13361-014-0879-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13361-013-0792-9"
+  },
+  "journal": "Journal of The American Society for Mass Spectrometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermal Proton Transfer Reactions in Ultraviolet Matrix-Assisted Laser Desorption/Ionization"
+}

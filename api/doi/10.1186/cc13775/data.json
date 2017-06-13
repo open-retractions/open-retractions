@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1186/s13054-016-1206-8","type":"correction"},"doi":"10.1186/cc13775","journal":"Critical Care","publisher":"Springer Nature","title":"Erratum to: Ventilator-associated pneumonia in the ICU"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1495640699854,
+      "identifier": {
+        "doi": "10.1186/s13054-016-1206-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/cc13775"
+  },
+  "journal": "Critical Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ventilator-associated pneumonia in the ICU"
+}

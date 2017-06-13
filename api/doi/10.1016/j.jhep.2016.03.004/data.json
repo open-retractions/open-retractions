@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jhep.2016.06.016","type":"err"},"doi":"10.1016/j.jhep.2016.03.004","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Exosomes in liver pathology”"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495730158656,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2016.06.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2016.03.004"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exosomes in liver pathology”"
+}

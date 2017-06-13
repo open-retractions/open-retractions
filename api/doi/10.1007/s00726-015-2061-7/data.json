@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1007/s00726-015-2115-x","type":"correction"},"doi":"10.1007/s00726-015-2061-7","journal":"Amino Acids","publisher":"Springer Nature","title":"Erratum to: ω-Amidase: an underappreciated, but important enzyme in l-glutamine and l-asparagine metabolism; relevance to sulfur and nitrogen metabolism, tumor biology and hyperammonemic diseases"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496041354778,
+      "identifier": {
+        "doi": "10.1007/s00726-015-2115-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00726-015-2061-7"
+  },
+  "journal": "Amino Acids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ω-Amidase: an underappreciated, but important enzyme in l-glutamine and l-asparagine metabolism; relevance to sulfur and nitrogen metabolism, tumor biology and hyperammonemic diseases"
+}

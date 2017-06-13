@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.xphs.2016.09.012","type":"err"},"doi":"10.1016/j.xphs.2016.03.014","journal":"Journal of Pharmaceutical Sciences","publisher":"Elsevier BV","title":"Erratum to “Survival of the Fittest: Time-To-Event Modelling of Crystallisation of Amorphous Poorly Soluble Drugs”"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495648070022,
+      "identifier": {
+        "doi": "10.1016/j.xphs.2016.09.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.xphs.2016.03.014"
+  },
+  "journal": "Journal of Pharmaceutical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Survival of the Fittest: Time-To-Event Modelling of Crystallisation of Amorphous Poorly Soluble Drugs”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.actbio.2013.08.008","type":"err"},"doi":"10.1016/j.actbio.2013.04.007","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to: Effect of nanostructure on osteoinduction of porous biphasic calcium phosphate ceramics. Acta Biomaterialia 8 (2012) 3794–3804"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496044410027,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2013.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2013.04.007"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Effect of nanostructure on osteoinduction of porous biphasic calcium phosphate ceramics. Acta Biomaterialia 8 (2012) 3794–3804"
+}

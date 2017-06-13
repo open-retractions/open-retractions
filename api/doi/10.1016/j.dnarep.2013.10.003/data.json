@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.dnarep.2014.11.003","type":"err"},"doi":"10.1016/j.dnarep.2013.10.003","journal":"DNA Repair","publisher":"Elsevier BV","title":"Corrigendum to “The conserved Fanconi anemia nuclease Fan1 and the SUMO E3 ligase Pli1 act in two novel Pso2-independent pathways of DNA interstrand crosslink repair in yeast” [DNA Repair 12 (December (12)) (2013) 1011–1023]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496023646961,
+      "identifier": {
+        "doi": "10.1016/j.dnarep.2014.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dnarep.2013.10.003"
+  },
+  "journal": "DNA Repair",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The conserved Fanconi anemia nuclease Fan1 and the SUMO E3 ligase Pli1 act in two novel Pso2-independent pathways of DNA interstrand crosslink repair in yeast” [DNA Repair 12 (December (12)) (2013) 1011–1023]"
+}

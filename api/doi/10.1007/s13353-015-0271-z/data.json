@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456876800000,"doi":"10.1007/s13353-016-0342-9","type":"correction"},"doi":"10.1007/s13353-015-0271-z","journal":"Journal of Applied Genetics","publisher":"Springer Nature","title":"Erratum to: Structural characteristics of ScBx genes controlling the biosynthesis of hydroxamic acids in rye (Secale cereale L.)"}
+{
+  "retracted": false,
+  "timestamp": 1456876800000,
+  "updates": [
+    {
+      "timestamp": 1495649548533,
+      "identifier": {
+        "doi": "10.1007/s13353-016-0342-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13353-015-0271-z"
+  },
+  "journal": "Journal of Applied Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Structural characteristics of ScBx genes controlling the biosynthesis of hydroxamic acids in rye (Secale cereale L.)"
+}

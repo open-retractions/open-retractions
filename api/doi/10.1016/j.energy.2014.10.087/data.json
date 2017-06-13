@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.energy.2015.01.001","type":"erratum"},"doi":"10.1016/j.energy.2014.10.087","journal":"Energy","publisher":"Elsevier BV","title":"Corrigendum to “Performance estimation of photovoltaic–thermoelectric hybrid systems” [Energy 78 (2014) 895–903]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496038962097,
+      "identifier": {
+        "doi": "10.1016/j.energy.2015.01.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.energy.2014.10.087"
+  },
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance estimation of photovoltaic–thermoelectric hybrid systems” [Energy 78 (2014) 895–903]"
+}

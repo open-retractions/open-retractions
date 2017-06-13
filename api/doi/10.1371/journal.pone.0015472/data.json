@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1309478400000,"doi":"10.1371/annotation/d598d976-2604-429b-a76f-14aeca628a8e","type":"correction"},"doi":"10.1371/journal.pone.0015472","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Statistical Metamodeling for Revealing Synergistic Antimicrobial Interactions"}
+{
+  "retracted": false,
+  "timestamp": 1309478400000,
+  "updates": [
+    {
+      "timestamp": 1495968141625,
+      "identifier": {
+        "doi": "10.1371/annotation/d598d976-2604-429b-a76f-14aeca628a8e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0015472"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Statistical Metamodeling for Revealing Synergistic Antimicrobial Interactions"
+}

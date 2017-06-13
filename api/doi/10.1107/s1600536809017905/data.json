@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464307200000,"doi":"10.1107/s2056989016008252","type":"correction"},"doi":"10.1107/s1600536809017905","journal":"Acta Crystallographica Section E Crystallographic Communications","publisher":"International Union of Crystallography (IUCr)","title":"Capecitabine from X-ray powder synchrotron data. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464307200000,
+  "updates": [
+    {
+      "timestamp": 1495680751472,
+      "identifier": {
+        "doi": "10.1107/s2056989016008252"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536809017905"
+  },
+  "journal": "Acta Crystallographica Section E Crystallographic Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Capecitabine from X-ray powder synchrotron data. Corrigendum"
+}

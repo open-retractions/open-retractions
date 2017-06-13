@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.icarus.2013.07.015","type":"err"},"doi":"10.1016/j.icarus.2013.05.033","journal":"Icarus","publisher":"Elsevier BV","title":"Corrigendum to “Titan’s surface and atmosphere from Cassini/VIMS data with updated methane opacity” [Icarus 226 (2013) 470–486]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496037062389,
+      "identifier": {
+        "doi": "10.1016/j.icarus.2013.07.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.icarus.2013.05.033"
+  },
+  "journal": "Icarus",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Titan’s surface and atmosphere from Cassini/VIMS data with updated methane opacity” [Icarus 226 (2013) 470–486]"
+}

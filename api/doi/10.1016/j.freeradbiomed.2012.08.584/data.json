@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.freeradbiomed.2014.09.018","type":"err"},"doi":"10.1016/j.freeradbiomed.2012.08.584","journal":"Free Radical Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “NAD(P)H:quinone oxidoreductase 1 protects bladder epithelium against painful bladder syndrome in mice” [Free Radic. Biol. Med. 53 (2012) 1886–1893]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496018100667,
+      "identifier": {
+        "doi": "10.1016/j.freeradbiomed.2014.09.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.freeradbiomed.2012.08.584"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “NAD(P)H:quinone oxidoreductase 1 protects bladder epithelium against painful bladder syndrome in mice” [Free Radic. Biol. Med. 53 (2012) 1886–1893]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jradnu.2016.09.005","type":"err"},"doi":"10.1016/j.jradnu.2016.04.011","journal":"Journal of Radiology Nursing","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495662821751,
+      "identifier": {
+        "doi": "10.1016/j.jradnu.2016.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jradnu.2016.04.011"
+  },
+  "journal": "Journal of Radiology Nursing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

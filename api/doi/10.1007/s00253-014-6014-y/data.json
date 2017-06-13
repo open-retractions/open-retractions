@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410998400000,"doi":"10.1007/s00253-014-6068-x","type":"correction"},"doi":"10.1007/s00253-014-6014-y","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: CO2/HCO3 − perturbations of simulated large scale gradients in a scale-down device cause fast transcriptional responses in Corynebacterium glutamicum"}
+{
+  "retracted": false,
+  "timestamp": 1410998400000,
+  "updates": [
+    {
+      "timestamp": 1496006799961,
+      "identifier": {
+        "doi": "10.1007/s00253-014-6068-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-014-6014-y"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CO2/HCO3 − perturbations of simulated large scale gradients in a scale-down device cause fast transcriptional responses in Corynebacterium glutamicum"
+}

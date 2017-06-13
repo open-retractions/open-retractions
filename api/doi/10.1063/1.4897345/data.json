@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415750400000,"doi":"10.1063/1.4901731","type":"correction"},"doi":"10.1063/1.4897345","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Height control of self-assembled quantum dots by strain engineering during capping” [Appl. Phys. Lett. 105, 143104 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1415750400000,
+  "updates": [
+    {
+      "timestamp": 1496020892006,
+      "identifier": {
+        "doi": "10.1063/1.4901731"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4897345"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Height control of self-assembled quantum dots by strain engineering during capping” [Appl. Phys. Lett. 105, 143104 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.hydromet.2015.08.013","type":"err"},"doi":"10.1016/j.hydromet.2011.06.008","journal":"Hydrometallurgy","publisher":"Elsevier BV","title":"Corrigendum to “Effects of initial Fe2+ concentration and pulp density on the bioleaching of Cu from enargite by Acidianus brierleyi” [J. Hydrometall. 109/1–2 (2011) 153–160]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496024858516,
+      "identifier": {
+        "doi": "10.1016/j.hydromet.2015.08.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hydromet.2011.06.008"
+  },
+  "journal": "Hydrometallurgy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of initial Fe2+ concentration and pulp density on the bioleaching of Cu from enargite by Acidianus brierleyi” [J. Hydrometall. 109/1–2 (2011) 153–160]"
+}

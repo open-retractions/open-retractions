@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418256000000,"doi":"10.1007/s13398-014-0208-0","type":"correction"},"doi":"10.1007/s13398-014-0199-x","journal":"Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas","publisher":"Springer Nature","title":"Erratum to: The number of twists with large torsion of an elliptic curve"}
+{
+  "retracted": false,
+  "timestamp": 1418256000000,
+  "updates": [
+    {
+      "timestamp": 1496029631840,
+      "identifier": {
+        "doi": "10.1007/s13398-014-0208-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13398-014-0199-x"
+  },
+  "journal": "Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The number of twists with large torsion of an elliptic curve"
+}

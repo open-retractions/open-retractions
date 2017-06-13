@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.rppnen.2016.01.001","type":"err"},"doi":"10.1016/j.rppnen.2015.10.003","journal":"Revista Portuguesa de Pneumologia (English Edition)","publisher":"Elsevier BV","title":"Erratum to “Greek Gods and Portuguese Pneumology: implementing HERMES”"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495641716394,
+      "identifier": {
+        "doi": "10.1016/j.rppnen.2016.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rppnen.2015.10.003"
+  },
+  "journal": "Revista Portuguesa de Pneumologia (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Greek Gods and Portuguese Pneumology: implementing HERMES”"
+}

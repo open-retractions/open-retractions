@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1080/09614524.2017.1283785","type":"correction"},"doi":"10.1080/09614524.2017.1257566","journal":"Development in Practice","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495733010451,
+      "identifier": {
+        "doi": "10.1080/09614524.2017.1283785"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09614524.2017.1257566"
+  },
+  "journal": "Development in Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

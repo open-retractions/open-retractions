@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433376000000,"doi":"10.1016/j.vaccine.2015.04.075","type":"err"},"doi":"10.1016/j.vaccine.2015.02.007","journal":"Vaccine","publisher":"Elsevier BV","title":"Erratum to “Comparative evaluation of the protective efficacy of two formulations of a recombinant Chlamydia abortus subunit candidate vaccine in a mouse model” [Vaccine 33 (2015) 1865–1872]"}
+{
+  "retracted": false,
+  "timestamp": 1433376000000,
+  "updates": [
+    {
+      "timestamp": 1495996260898,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2015.04.075"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2015.02.007"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Comparative evaluation of the protective efficacy of two formulations of a recombinant Chlamydia abortus subunit candidate vaccine in a mouse model” [Vaccine 33 (2015) 1865–1872]"
+}

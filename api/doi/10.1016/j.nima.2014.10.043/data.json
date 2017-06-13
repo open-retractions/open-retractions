@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.nima.2016.03.040","type":"erratum"},"doi":"10.1016/j.nima.2014.10.043","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to: Cryogenic Dark Matter Search detector fabrication process and recent improvements [Nucl. Instrum. Methods Phys. Res. Sect. A 772 (2015) 14–25]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495652036915,
+      "identifier": {
+        "doi": "10.1016/j.nima.2016.03.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2014.10.043"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Cryogenic Dark Matter Search detector fabrication process and recent improvements [Nucl. Instrum. Methods Phys. Res. Sect. A 772 (2015) 14–25]"
+}

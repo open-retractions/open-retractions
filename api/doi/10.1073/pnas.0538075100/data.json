@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1047945600000,"doi":"10.1073/pnas.1216273109","type":"correction"},"doi":"10.1073/pnas.0538075100","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Beltran et al., Transcriptional network controlled by the trithorax-group gene ash2 in Drosophila melanogaster"}
+{
+  "retracted": false,
+  "timestamp": 1047945600000,
+  "updates": [
+    {
+      "timestamp": 1495929392269,
+      "identifier": {
+        "doi": "10.1073/pnas.1216273109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0538075100"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Beltran et al., Transcriptional network controlled by the trithorax-group gene ash2 in Drosophila melanogaster"
+}

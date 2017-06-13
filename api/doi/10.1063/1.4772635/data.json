@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368576000000,"doi":"10.1063/1.4807019","type":"correction"},"doi":"10.1063/1.4772635","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Mapping microwave field distributions via the spin Hall effect” [Appl. Phys. Lett. 101, 252406 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1368576000000,
+  "updates": [
+    {
+      "timestamp": 1496019993102,
+      "identifier": {
+        "doi": "10.1063/1.4807019"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4772635"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Mapping microwave field distributions via the spin Hall effect” [Appl. Phys. Lett. 101, 252406 (2012)]"
+}

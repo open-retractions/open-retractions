@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414627200000,"doi":"10.1007/s10765-014-1777-z","type":"correction"},"doi":"10.1007/s10765-012-1290-1","journal":"International Journal of Thermophysics","publisher":"Springer Nature","title":"Erratum to: On the Correlation Properties of Thermal Noise in Fluids"}
+{
+  "retracted": false,
+  "timestamp": 1414627200000,
+  "updates": [
+    {
+      "timestamp": 1496017210690,
+      "identifier": {
+        "doi": "10.1007/s10765-014-1777-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10765-012-1290-1"
+  },
+  "journal": "International Journal of Thermophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the Correlation Properties of Thermal Noise in Fluids"
+}

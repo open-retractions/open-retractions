@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393027200000,"doi":"10.1016/j.apcata.2013.12.009","type":"err"},"doi":"10.1016/j.apcata.2012.09.032","journal":"Applied Catalysis A: General","publisher":"Elsevier BV","title":"Corrigendum to “Reducibility of alumina-supported cobalt Fischer–Tropsch catalysts: Effects of noble metal type, distribution, retention, chemical state, bonding, and influence on cobalt crystallite size” [Appl. Catal. A 449 (2012) 69–80]"}
+{
+  "retracted": false,
+  "timestamp": 1393027200000,
+  "updates": [
+    {
+      "timestamp": 1496016337451,
+      "identifier": {
+        "doi": "10.1016/j.apcata.2013.12.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apcata.2012.09.032"
+  },
+  "journal": "Applied Catalysis A: General",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reducibility of alumina-supported cobalt Fischer–Tropsch catalysts: Effects of noble metal type, distribution, retention, chemical state, bonding, and influence on cobalt crystallite size” [Appl. Catal. A 449 (2012) 69–80]"
+}

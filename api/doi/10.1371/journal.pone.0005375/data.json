@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1244160000000,"doi":"10.1371/annotation/512cb17b-934c-4a06-9dbb-114d43052a2b","type":"correction"},"doi":"10.1371/journal.pone.0005375","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Influence of Clinical Information in the Histopathologic Diagnosis of Melanocytic Skin Neoplasms"}
+{
+  "retracted": false,
+  "timestamp": 1244160000000,
+  "updates": [
+    {
+      "timestamp": 1496025196283,
+      "identifier": {
+        "doi": "10.1371/annotation/512cb17b-934c-4a06-9dbb-114d43052a2b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005375"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Influence of Clinical Information in the Histopathologic Diagnosis of Melanocytic Skin Neoplasms"
+}

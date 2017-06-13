@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485993600000,"doi":"10.1007/s10529-017-2288-3","type":"correction"},"doi":"10.1007/s10529-016-2279-9","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Pharmacological and pharmacokinetic properties of lanthipeptides undergoing clinical studies"}
+{
+  "retracted": false,
+  "timestamp": 1485993600000,
+  "updates": [
+    {
+      "timestamp": 1495716166062,
+      "identifier": {
+        "doi": "10.1007/s10529-017-2288-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-016-2279-9"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pharmacological and pharmacokinetic properties of lanthipeptides undergoing clinical studies"
+}

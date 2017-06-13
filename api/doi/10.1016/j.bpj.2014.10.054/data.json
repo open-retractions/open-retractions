@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1418688000000,"update":{"timestamp":null,"doi":null,"pmid":26848493,"type":"retraction"},"doi":"10.1016/j.bpj.2014.10.054","journal":"Biophysical journal","publisher":null,"title":"Oxidative stress and ca(2+) release events in mouse cardiomyocytes."}
+{
+  "retracted": false,
+  "timestamp": 1446508800000,
+  "updates": [
+    {
+      "timestamp": 1496043473039,
+      "identifier": {
+        "doi": "10.1016/j.bpj.2015.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpj.2014.10.054"
+  },
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Retraction"
+}

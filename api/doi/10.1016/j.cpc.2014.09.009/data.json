@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.cpc.2014.12.008","type":"err"},"doi":"10.1016/j.cpc.2014.09.009","journal":"Computer Physics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Development of vector following mesh generator for analysis of two dimensional tokamak plasma transport” [Comput. Phys. Comm. 186 (2015) 31–38]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496034455918,
+      "identifier": {
+        "doi": "10.1016/j.cpc.2014.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpc.2014.09.009"
+  },
+  "journal": "Computer Physics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of vector following mesh generator for analysis of two dimensional tokamak plasma transport” [Comput. Phys. Comm. 186 (2015) 31–38]"
+}

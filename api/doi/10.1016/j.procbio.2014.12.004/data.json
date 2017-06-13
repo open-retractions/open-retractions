@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.procbio.2015.03.002","type":"err"},"doi":"10.1016/j.procbio.2014.12.004","journal":"Process Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Development of a feeding strategy for high cell and PHA density fed-batch fermentation of Ralstonia eutropha H16 from organic acids and their salts” [Process Biochem. 50 (2 (February)) (2015) 165–172]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496055451103,
+      "identifier": {
+        "doi": "10.1016/j.procbio.2015.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.procbio.2014.12.004"
+  },
+  "journal": "Process Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a feeding strategy for high cell and PHA density fed-batch fermentation of Ralstonia eutropha H16 from organic acids and their salts” [Process Biochem. 50 (2 (February)) (2015) 165–172]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1136/ebmed-2014-110140corr1","type":"correction"},"doi":"10.1136/ebmed-2014-110140","journal":"Evidence Based Medicine","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495998564756,
+      "identifier": {
+        "doi": "10.1136/ebmed-2014-110140corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/ebmed-2014-110140"
+  },
+  "journal": "Evidence Based Medicine",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

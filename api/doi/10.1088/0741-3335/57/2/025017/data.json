@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428624000000,"doi":"10.1088/0741-3335/57/6/069501","type":"correction"},"doi":"10.1088/0741-3335/57/2/025017","journal":"Plasma Physics and Controlled Fusion","publisher":"IOP Publishing","title":"Corrigendum: Direct path from microscopic mechanics to Debye shielding, Landau damping, and wave-particle interaction (2015 Plasma Phys. Control. Fusion 57 025017)"}
+{
+  "retracted": false,
+  "timestamp": 1428624000000,
+  "updates": [
+    {
+      "timestamp": 1496056731056,
+      "identifier": {
+        "doi": "10.1088/0741-3335/57/6/069501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0741-3335/57/2/025017"
+  },
+  "journal": "Plasma Physics and Controlled Fusion",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Direct path from microscopic mechanics to Debye shielding, Landau damping, and wave-particle interaction (2015 Plasma Phys. Control. Fusion 57 025017)"
+}

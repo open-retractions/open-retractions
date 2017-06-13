@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463097600000,"doi":"10.1074/jbc.a115.696831","type":"correction"},"doi":"10.1074/jbc.m115.696831","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"The tumor-suppressive small GTPase DiRas1 binds the noncanonical guanine nucleotide exchange factor SmgGDS and antagonizes SmgGDS interactions with oncogenic small GTPases."}
+{
+  "retracted": false,
+  "timestamp": 1463097600000,
+  "updates": [
+    {
+      "timestamp": 1495676427025,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.696831"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.696831"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "The tumor-suppressive small GTPase DiRas1 binds the noncanonical guanine nucleotide exchange factor SmgGDS and antagonizes SmgGDS interactions with oncogenic small GTPases."
+}

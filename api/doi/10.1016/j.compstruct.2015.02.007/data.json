@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.compstruct.2015.04.042","type":"err"},"doi":"10.1016/j.compstruct.2015.02.007","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to “Multi-scale modeling of the macroscopic, elastic mismatch and thermal misfit stresses in metal matrix composites” [Compos Struct 2015;125:176–87]"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1495999798777,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2015.04.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2015.02.007"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-scale modeling of the macroscopic, elastic mismatch and thermal misfit stresses in metal matrix composites” [Compos Struct 2015;125:176–87]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471564800000,"doi":"10.1038/srep30527","type":"correction"},"doi":"10.1038/srep17217","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: A new live-cell reporter strategy to simultaneously monitor mitochondrial biogenesis and morphology"}
+{
+  "retracted": false,
+  "timestamp": 1471564800000,
+  "updates": [
+    {
+      "timestamp": 1495737061328,
+      "identifier": {
+        "doi": "10.1038/srep30527"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17217"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: A new live-cell reporter strategy to simultaneously monitor mitochondrial biogenesis and morphology"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.watres.2013.11.020","type":"erratum"},"doi":"10.1016/j.watres.2013.02.032","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Roles of ionic strength and biofilm roughness on adhesion kinetics of Escherichia coli onto groundwater biofilm grown on PVC surfaces” [Water Res. 47 (7) (May 2013) 2531–2542]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496001952152,
+      "identifier": {
+        "doi": "10.1016/j.watres.2013.11.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2013.02.032"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Roles of ionic strength and biofilm roughness on adhesion kinetics of Escherichia coli onto groundwater biofilm grown on PVC surfaces” [Water Res. 47 (7) (May 2013) 2531–2542]"
+}

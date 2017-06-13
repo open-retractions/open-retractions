@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363996800000,"doi":"10.1007/s11060-013-1118-2","type":"correction"},"doi":"10.1007/s11060-012-0964-7","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Phase I trial of verubulin (MPC-6827) plus carboplatin in patients with relapsed glioblastoma multiforme"}
+{
+  "retracted": false,
+  "timestamp": 1363996800000,
+  "updates": [
+    {
+      "timestamp": 1496001659106,
+      "identifier": {
+        "doi": "10.1007/s11060-013-1118-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-012-0964-7"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phase I trial of verubulin (MPC-6827) plus carboplatin in patients with relapsed glioblastoma multiforme"
+}

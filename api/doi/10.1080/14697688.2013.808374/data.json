@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403481600000,"doi":"10.1080/14697688.2014.931719","type":"correction"},"doi":"10.1080/14697688.2013.808374","journal":"Quantitative Finance","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1403481600000,
+  "updates": [
+    {
+      "timestamp": 1496048040829,
+      "identifier": {
+        "doi": "10.1080/14697688.2014.931719"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14697688.2013.808374"
+  },
+  "journal": "Quantitative Finance",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

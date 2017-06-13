@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ejor.2013.05.027","type":"err"},"doi":"10.1016/j.ejor.2007.04.009","journal":"European Journal of Operational Research","publisher":"Elsevier BV","title":"Corrigendum to ‘A single period inventory model with imperfect production and stochastic demand under chance and imprecise constraints’ [Eur. J. Oper. Res. 188 (2008) 121–139]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496023075181,
+      "identifier": {
+        "doi": "10.1016/j.ejor.2013.05.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejor.2007.04.009"
+  },
+  "journal": "European Journal of Operational Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A single period inventory model with imperfect production and stochastic demand under chance and imprecise constraints’ [Eur. J. Oper. Res. 188 (2008) 121–139]"
+}

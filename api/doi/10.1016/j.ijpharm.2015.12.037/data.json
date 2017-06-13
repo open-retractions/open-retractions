@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.1016/j.ijpharm.2016.04.012","type":"err"},"doi":"10.1016/j.ijpharm.2015.12.037","journal":"International Journal of Pharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to “Topical delivery of aqueous micellar Resolvin E1 analog (RX-10045)” [Int. J. Pharm. 498 (2016) 326–334]"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495723098444,
+      "identifier": {
+        "doi": "10.1016/j.ijpharm.2016.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpharm.2015.12.037"
+  },
+  "journal": "International Journal of Pharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Topical delivery of aqueous micellar Resolvin E1 analog (RX-10045)” [Int. J. Pharm. 498 (2016) 326–334]"
+}

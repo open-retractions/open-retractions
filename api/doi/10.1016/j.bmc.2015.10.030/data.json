@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1016/j.bmc.2015.11.019","type":"err"},"doi":"10.1016/j.bmc.2015.10.030","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Inhibition of human topoisomerase I and II and anti-proliferative effects on MCF-7 cells by new titanocene complexes” [Bioorg. Med. Chem. 23 (2015) 7302–7312]"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496047883828,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2015.10.030"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inhibition of human topoisomerase I and II and anti-proliferative effects on MCF-7 cells by new titanocene complexes” [Bioorg. Med. Chem. 23 (2015) 7302–7312]"
+}

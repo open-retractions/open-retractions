@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483056000000,"doi":"10.1016/j.jpowsour.2016.10.095","type":"err"},"doi":"10.1016/j.jpowsour.2014.05.006","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “The use of well-aligned composite nanorod arrays as anode material for lithium rechargeable batteries” [J. Power Sources 266 (2014) 353–364]"}
+{
+  "retracted": false,
+  "timestamp": 1483056000000,
+  "updates": [
+    {
+      "timestamp": 1495653407594,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2016.10.095"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.05.006"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The use of well-aligned composite nanorod arrays as anode material for lithium rechargeable batteries” [J. Power Sources 266 (2014) 353–364]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360195200000,"doi":"10.1371/annotation/1c64490e-a511-4843-8061-8e7312c69568","type":"correction"},"doi":"10.1371/journal.pgen.1003058","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: RHOA Is a Modulator of the Cholesterol-Lowering Effects of Statin"}
+{
+  "retracted": false,
+  "timestamp": 1360195200000,
+  "updates": [
+    {
+      "timestamp": 1496000083916,
+      "identifier": {
+        "doi": "10.1371/annotation/1c64490e-a511-4843-8061-8e7312c69568"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003058"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: RHOA Is a Modulator of the Cholesterol-Lowering Effects of Statin"
+}

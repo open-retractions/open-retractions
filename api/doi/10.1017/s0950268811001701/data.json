@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1331769600000,"doi":"10.1017/s0950268812000301","type":"correction"},"doi":"10.1017/s0950268811001701","journal":"Epidemiology and Infection","publisher":"Cambridge University Press (CUP)","title":"A large outbreak of scombroid fish poisoning associated with eating yellowfin tuna (Thunnus albacares) at a military mass catering in Dakar, Senegal – ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1331769600000,
+  "updates": [
+    {
+      "timestamp": 1495871692625,
+      "identifier": {
+        "doi": "10.1017/s0950268812000301"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0950268811001701"
+  },
+  "journal": "Epidemiology and Infection",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "A large outbreak of scombroid fish poisoning associated with eating yellowfin tuna (Thunnus albacares) at a military mass catering in Dakar, Senegal – ERRATUM"
+}

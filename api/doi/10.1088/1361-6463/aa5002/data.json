@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486339200000,"doi":"10.1088/1361-6463/aa56e9","type":"correction"},"doi":"10.1088/1361-6463/aa5002","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Corrigendum: The electrical stability of In-doped ZnO thin films deposited by RF sputtering (2017 J. Phys. D: Appl. Phys. 50 045102)"}
+{
+  "retracted": false,
+  "timestamp": 1486339200000,
+  "updates": [
+    {
+      "timestamp": 1495717081811,
+      "identifier": {
+        "doi": "10.1088/1361-6463/aa56e9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1361-6463/aa5002"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: The electrical stability of In-doped ZnO thin films deposited by RF sputtering (2017 J. Phys. D: Appl. Phys. 50 045102)"
+}

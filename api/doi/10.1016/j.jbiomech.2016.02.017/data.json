@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473120000000,"doi":"10.1016/j.jbiomech.2016.07.027","type":"erratum"},"doi":"10.1016/j.jbiomech.2016.02.017","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “The linear and rotational motions of the fission yeast nucleus are governed by the stochastic dynamics of spatially distributed microtubules” [J. Biomech. 49/7 (2016) 1034–1041]"}
+{
+  "retracted": false,
+  "timestamp": 1473120000000,
+  "updates": [
+    {
+      "timestamp": 1495734900286,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2016.07.027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2016.02.017"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The linear and rotational motions of the fission yeast nucleus are governed by the stochastic dynamics of spatially distributed microtubules” [J. Biomech. 49/7 (2016) 1034–1041]"
+}

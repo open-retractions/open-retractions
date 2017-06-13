@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1172707200000,"doi":"10.1161/strokeaha.106.010101","type":"correction"},"doi":"10.1161/01.str.0000257310.08310.0f","journal":"Stroke","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1172707200000,
+  "updates": [
+    {
+      "timestamp": 1495993494869,
+      "identifier": {
+        "doi": "10.1161/strokeaha.106.010101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1161/01.str.0000257310.08310.0f"
+  },
+  "journal": "Stroke",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Correction"
+}

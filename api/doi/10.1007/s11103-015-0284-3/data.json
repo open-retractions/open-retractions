@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1007/s11103-015-0332-z","type":"correction"},"doi":"10.1007/s11103-015-0284-3","journal":"Plant Molecular Biology","publisher":"Springer Nature","title":"Erratum to: The activity of the artemisinic aldehyde Δ11(13) reductase promoter is important for artemisinin yield in different chemotypes of Artemisia annua L."}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1496001451859,
+      "identifier": {
+        "doi": "10.1007/s11103-015-0332-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11103-015-0284-3"
+  },
+  "journal": "Plant Molecular Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The activity of the artemisinic aldehyde Δ11(13) reductase promoter is important for artemisinin yield in different chemotypes of Artemisia annua L."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.cviu.2014.12.003","type":"err"},"doi":"10.1016/j.cviu.2012.10.013","journal":"Computer Vision and Image Understanding","publisher":"Elsevier BV","title":"Corrigendum to “Mathematical morphology on hypergraphs, application to similarity and positive kernel” [Comput. Vis. Image Understanding 117 (2013) 342–354]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496033837066,
+      "identifier": {
+        "doi": "10.1016/j.cviu.2014.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cviu.2012.10.013"
+  },
+  "journal": "Computer Vision and Image Understanding",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mathematical morphology on hypergraphs, application to similarity and positive kernel” [Comput. Vis. Image Understanding 117 (2013) 342–354]"
+}

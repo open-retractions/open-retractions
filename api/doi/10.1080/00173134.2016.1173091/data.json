@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473206400000,"doi":"10.1080/00173134.2016.1208445","type":"correction"},"doi":"10.1080/00173134.2016.1173091","journal":"Grana","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1473206400000,
+  "updates": [
+    {
+      "timestamp": 1495639108840,
+      "identifier": {
+        "doi": "10.1080/00173134.2016.1208445"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00173134.2016.1173091"
+  },
+  "journal": "Grana",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

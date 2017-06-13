@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416873600000,"doi":"10.1007/s00284-014-0730-5","type":"correction"},"doi":"10.1007/s00284-014-0669-6","journal":"Current Microbiology","publisher":"Springer Nature","title":"Erratum to: Acinetobacter refrigeratoris sp. nov., Isolated from a Domestic Refrigerator"}
+{
+  "retracted": false,
+  "timestamp": 1416873600000,
+  "updates": [
+    {
+      "timestamp": 1496025744013,
+      "identifier": {
+        "doi": "10.1007/s00284-014-0730-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00284-014-0669-6"
+  },
+  "journal": "Current Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Acinetobacter refrigeratoris sp. nov., Isolated from a Domestic Refrigerator"
+}

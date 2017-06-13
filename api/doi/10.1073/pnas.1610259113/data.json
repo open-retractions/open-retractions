@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474329600000,"doi":"10.1073/pnas.1613505113","type":"correction"},"doi":"10.1073/pnas.1610259113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Miyoshi et al., Erasure of DNA methylation, genomic imprints, and epimutations in a primordial germ-cell model derived from mouse pluripotent stem cells"}
+{
+  "retracted": false,
+  "timestamp": 1474329600000,
+  "updates": [
+    {
+      "timestamp": 1495639349164,
+      "identifier": {
+        "doi": "10.1073/pnas.1613505113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1610259113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Miyoshi et al., Erasure of DNA methylation, genomic imprints, and epimutations in a primordial germ-cell model derived from mouse pluripotent stem cells"
+}

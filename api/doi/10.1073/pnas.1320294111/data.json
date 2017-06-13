@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.1073/pnas.1401725111","type":"correction"},"doi":"10.1073/pnas.1320294111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lin et al., IRAK-1 bypasses priming and directly links TLRs to rapid NLRP3 inflammasome activation"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1496016893689,
+      "identifier": {
+        "doi": "10.1073/pnas.1401725111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1320294111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lin et al., IRAK-1 bypasses priming and directly links TLRs to rapid NLRP3 inflammasome activation"
+}

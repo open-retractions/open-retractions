@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483660800000,"doi":"10.1134/s0006297916130137","type":"correction"},"doi":"10.1134/s0006297915130088","journal":"Biochemistry (Moscow)","publisher":"Pleiades Publishing Ltd","title":"Erratum: “Regulation of zygotic genome and cellular pluripotency”"}
+{
+  "retracted": false,
+  "timestamp": 1483660800000,
+  "updates": [
+    {
+      "timestamp": 1495670534831,
+      "identifier": {
+        "doi": "10.1134/s0006297916130137"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0006297915130088"
+  },
+  "journal": "Biochemistry (Moscow)",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum: “Regulation of zygotic genome and cellular pluripotency”"
+}

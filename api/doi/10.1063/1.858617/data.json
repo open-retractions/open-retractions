@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":765158400000,"doi":"10.1063/1.868449","type":"erratum"},"doi":"10.1063/1.858617","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: ‘‘A large eddy simulation scheme for turbulent reacting flows’’ [Phys. Fluids A 5, 1282 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 765158400000,
+  "updates": [
+    {
+      "timestamp": 1495866560876,
+      "identifier": {
+        "doi": "10.1063/1.868449"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.858617"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘A large eddy simulation scheme for turbulent reacting flows’’           [Phys. Fluids A 5, 1282 (1993)]"
+}

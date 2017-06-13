@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1016/j.tetlet.2016.01.050","type":"err"},"doi":"10.1016/j.tetlet.2015.12.050","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “One-pot synthesis of benzoylacetonitriles through sequential Pd-catalyzed carbonylation and decarboxylation” [Tetrahedron Lett. 57 (2016) 239–242]"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495637969520,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2016.01.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2015.12.050"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “One-pot synthesis of benzoylacetonitriles through sequential Pd-catalyzed carbonylation and decarboxylation” [Tetrahedron Lett. 57 (2016) 239–242]"
+}

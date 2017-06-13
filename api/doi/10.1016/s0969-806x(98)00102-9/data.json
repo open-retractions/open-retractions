@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.radphyschem.2015.09.004","type":"err"},"doi":"10.1016/s0969-806x(98)00102-9","journal":"Radiation Physics and Chemistry","publisher":"Elsevier BV","title":"Corrigendum to ‘An algorithm for depth–dose curves of electrons fitted to Monte Carlo data’ [Radiat. Phys. Chem. 53/3 (1998) 205–215]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496038093436,
+      "identifier": {
+        "doi": "10.1016/j.radphyschem.2015.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0969-806x(98)00102-9"
+  },
+  "journal": "Radiation Physics and Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘An algorithm for depth–dose curves of electrons fitted to Monte Carlo data’ [Radiat. Phys. Chem. 53/3 (1998) 205–215]"
+}

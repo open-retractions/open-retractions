@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.clsr.2014.04.004","type":"err"},"doi":"10.1016/j.clsr.2006.07.009","journal":"Computer Law & Security Review","publisher":"Elsevier BV","title":"Retraction notice to “The Pirate Bay deep-sixed” [2006] 22 CLSR 392–401"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496054454923,
+      "identifier": {
+        "doi": "10.1016/j.clsr.2014.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clsr.2006.07.009"
+  },
+  "journal": "Computer Law & Security Review",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The Pirate Bay deep-sixed” [2006] 22 CLSR 392–401"
+}

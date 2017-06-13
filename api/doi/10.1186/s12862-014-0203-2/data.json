@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453248000000,"doi":"10.1186/s12862-016-0585-4","type":"correction"},"doi":"10.1186/s12862-014-0203-2","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: genetic structure of fragmented southern populations of African Cape buffalo (Syncerus caffer caffer)"}
+{
+  "retracted": false,
+  "timestamp": 1453248000000,
+  "updates": [
+    {
+      "timestamp": 1495638123546,
+      "identifier": {
+        "doi": "10.1186/s12862-016-0585-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12862-014-0203-2"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: genetic structure of fragmented southern populations of African Cape buffalo (Syncerus caffer caffer)"
+}

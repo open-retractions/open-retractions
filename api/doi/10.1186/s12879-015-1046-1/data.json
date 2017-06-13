@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466985600000,"doi":"10.1186/s12879-016-1619-7","type":"correction"},"doi":"10.1186/s12879-015-1046-1","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: ‘Effectiveness of a training program in compliance with recommendations for venous lines care’"}
+{
+  "retracted": false,
+  "timestamp": 1466985600000,
+  "updates": [
+    {
+      "timestamp": 1495722897340,
+      "identifier": {
+        "doi": "10.1186/s12879-016-1619-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-015-1046-1"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Effectiveness of a training program in compliance with recommendations for venous lines care’"
+}

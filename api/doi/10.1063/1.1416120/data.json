@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1014940800000,"doi":"10.1063/1.1448910","type":"erratum"},"doi":"10.1063/1.1416120","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Stability, resolution and tip–tip imaging by a dual-probe scanning tunneling microscope” [Rev. Sci. Instrum. 72, 4388 (2001)]"}
+{
+  "retracted": false,
+  "timestamp": 1014940800000,
+  "updates": [
+    {
+      "timestamp": 1495867734699,
+      "identifier": {
+        "doi": "10.1063/1.1448910"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1416120"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Stability, resolution and tip–tip imaging by a dual-probe scanning tunneling microscope” [Rev. Sci. Instrum. 72, 4388 (2001)]"
+}

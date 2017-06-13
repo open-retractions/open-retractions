@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.surfcoat.2014.02.006","type":"err"},"doi":"10.1016/j.surfcoat.2013.03.036","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Reactive structural materials consolidated by cold spray: Al–CuO thermite” [Surf. Coat. Technol. 226 (2013) 60–67]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496019247680,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2014.02.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2013.03.036"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reactive structural materials consolidated by cold spray: Al–CuO thermite” [Surf. Coat. Technol. 226 (2013) 60–67]"
+}

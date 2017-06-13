@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.1245/s10434-016-5161-z","type":"correction"},"doi":"10.1245/s10434-016-5103-9","journal":"Annals of Surgical Oncology","publisher":"Springer Nature","title":"Erratum to: Health-Related Quality of Life for Patients Who have In-Transit Melanoma Metastases Treated with Isolated Limb Perfusion"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495649218774,
+      "identifier": {
+        "doi": "10.1245/s10434-016-5161-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1245/s10434-016-5103-9"
+  },
+  "journal": "Annals of Surgical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Health-Related Quality of Life for Patients Who have In-Transit Melanoma Metastases Treated with Isolated Limb Perfusion"
+}

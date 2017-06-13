@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1007/s11252-017-0646-5","type":"correction"},"doi":"10.1007/s11252-016-0633-2","journal":"Urban Ecosystems","publisher":"Springer Nature","title":"Erratum to: Predicting tree species richness in urban forests"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678272663,
+      "identifier": {
+        "doi": "10.1007/s11252-017-0646-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11252-016-0633-2"
+  },
+  "journal": "Urban Ecosystems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Predicting tree species richness in urban forests"
+}

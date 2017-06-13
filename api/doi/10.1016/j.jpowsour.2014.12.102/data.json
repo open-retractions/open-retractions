@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jpowsour.2015.02.128","type":"err"},"doi":"10.1016/j.jpowsour.2014.12.102","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Three-dimensional, sulfur-incorporated graphene aerogels for the enhanced performances of pseudocapacitive electrodes” [J. Power Sources 278 (2015) 484–489]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496047945553,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2015.02.128"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.12.102"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Three-dimensional, sulfur-incorporated graphene aerogels for the enhanced performances of pseudocapacitive electrodes” [J. Power Sources 278 (2015) 484–489]"
+}

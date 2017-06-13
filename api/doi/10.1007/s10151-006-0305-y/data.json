@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243900800000,"doi":"10.1007/s10151-006-0317-7","type":"correction"},"doi":"10.1007/s10151-006-0305-y","journal":"Techniques in Coloproctology","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1243900800000,
+  "updates": [
+    {
+      "timestamp": 1495926915930,
+      "identifier": {
+        "doi": "10.1007/s10151-006-0317-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10151-006-0305-y"
+  },
+  "journal": "Techniques in Coloproctology",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

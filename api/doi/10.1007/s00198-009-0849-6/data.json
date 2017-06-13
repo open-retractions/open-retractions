@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1238112000000,"doi":"10.1007/s00198-009-0921-2","type":"correction"},"doi":"10.1007/s00198-009-0849-6","journal":"Osteoporosis International","publisher":"Springer Nature","title":"Use of anti-depressants and the risk of fracture of the hip or femur"}
+{
+  "retracted": false,
+  "timestamp": 1238112000000,
+  "updates": [
+    {
+      "timestamp": 1495937601100,
+      "identifier": {
+        "doi": "10.1007/s00198-009-0921-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00198-009-0849-6"
+  },
+  "journal": "Osteoporosis International",
+  "publisher": "Springer Nature",
+  "title": "Use of anti-depressants and the risk of fracture of the hip or femur"
+}

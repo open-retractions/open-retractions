@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.aap.2016.04.008","type":"err"},"doi":"10.1016/j.aap.2015.12.028","journal":"Accident Analysis & Prevention","publisher":"Elsevier BV","title":"Corrigendum to “Driver views on speed and enforcement” [Accid. Anal. Prev. 89 (April) (2016) 9–21]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495672041651,
+      "identifier": {
+        "doi": "10.1016/j.aap.2016.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aap.2015.12.028"
+  },
+  "journal": "Accident Analysis & Prevention",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Driver views on speed and enforcement” [Accid. Anal. Prev. 89 (April) (2016) 9–21]"
+}

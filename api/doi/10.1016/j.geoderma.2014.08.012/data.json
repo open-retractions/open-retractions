@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.geoderma.2016.09.014","type":"erratum"},"doi":"10.1016/j.geoderma.2014.08.012","journal":"Geoderma","publisher":"Elsevier BV","title":"Corrigendum to “Universal soil shrinkage curve equation” [Geoderma 237–238 78–87]"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495641664335,
+      "identifier": {
+        "doi": "10.1016/j.geoderma.2016.09.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geoderma.2014.08.012"
+  },
+  "journal": "Geoderma",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Universal soil shrinkage curve equation” [Geoderma 237–238 78–87]"
+}

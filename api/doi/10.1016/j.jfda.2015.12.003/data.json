@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.jfda.2016.05.001","type":"err"},"doi":"10.1016/j.jfda.2015.12.003","journal":"Journal of Food and Drug Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Characterizing diversity based on nutritional and bioactive compositions of yam germplasm (Dioscorea spp.) commonly cultivated in China” [J Food Drug Anal 24 (2016) 367–375]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495680533312,
+      "identifier": {
+        "doi": "10.1016/j.jfda.2016.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfda.2015.12.003"
+  },
+  "journal": "Journal of Food and Drug Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterizing diversity based on nutritional and bioactive compositions of yam germplasm (Dioscorea spp.) commonly cultivated in China” [J Food Drug Anal 24 (2016) 367–375]"
+}

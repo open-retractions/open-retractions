@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1080/10610154.2016.1204817","type":"correction"},"doi":"10.1080/10610154.2015.1161422","journal":"Sociological Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639316689,
+      "identifier": {
+        "doi": "10.1080/10610154.2016.1204817"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10610154.2015.1161422"
+  },
+  "journal": "Sociological Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

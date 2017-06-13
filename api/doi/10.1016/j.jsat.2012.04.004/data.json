@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jsat.2014.10.006","type":"err"},"doi":"10.1016/j.jsat.2012.04.004","journal":"Journal of Substance Abuse Treatment","publisher":"Elsevier BV","title":"Erratum to “Stimulant Abuser Groups to Engage in 12-Step: A Multisite Trial in the National Institute on Drug Abuse Clinical Trials Network” Journal of Substance Abuse Treatment 44; 103–114"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496021660531,
+      "identifier": {
+        "doi": "10.1016/j.jsat.2014.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsat.2012.04.004"
+  },
+  "journal": "Journal of Substance Abuse Treatment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Stimulant Abuser Groups to Engage in 12-Step: A Multisite Trial in the National Institute on Drug Abuse Clinical Trials Network” Journal of Substance Abuse Treatment 44; 103–114"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1322611200000,"doi":"10.1371/annotation/8fedd9bb-d84e-4d7b-bc71-3321e652198d","type":"correction"},"doi":"10.1371/journal.pone.0025593","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The dpsA Gene of Streptomyces coelicolor: Induction of Expression from a Single Promoter in Response to Environmental Stress or during Development"}
+{
+  "retracted": false,
+  "timestamp": 1322611200000,
+  "updates": [
+    {
+      "timestamp": 1495845425923,
+      "identifier": {
+        "doi": "10.1371/annotation/8fedd9bb-d84e-4d7b-bc71-3321e652198d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0025593"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The dpsA Gene of Streptomyces coelicolor: Induction of Expression from a Single Promoter in Response to Environmental Stress or during Development"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426550400000,"doi":"10.1016/j.neulet.2015.01.061","type":"err"},"doi":"10.1016/j.neulet.2014.12.062","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to ‘Preconditioning effect of (S)-3,5-dihydroxyphenylglycine on ischemic injury in middle cerebral artery occluded Sprague–Dawley rats” [Neurosci. Lett. 588 (2015) 137–141]"}
+{
+  "retracted": false,
+  "timestamp": 1426550400000,
+  "updates": [
+    {
+      "timestamp": 1496039491779,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2015.01.061"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2014.12.062"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Preconditioning effect of (S)-3,5-dihydroxyphenylglycine on ischemic injury in middle cerebral artery occluded Sprague–Dawley rats” [Neurosci. Lett. 588 (2015) 137–141]"
+}

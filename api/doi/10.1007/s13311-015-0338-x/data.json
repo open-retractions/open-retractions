@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426118400000,"doi":"10.1007/s13311-015-0351-0","type":"correction"},"doi":"10.1007/s13311-015-0338-x","journal":"Neurotherapeutics","publisher":"Springer Nature","title":"Erratum to: TDP-43 Proteinopathy and ALS: Insights into Disease Mechanisms and Therapeutic Targets"}
+{
+  "retracted": false,
+  "timestamp": 1426118400000,
+  "updates": [
+    {
+      "timestamp": 1496050212689,
+      "identifier": {
+        "doi": "10.1007/s13311-015-0351-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13311-015-0338-x"
+  },
+  "journal": "Neurotherapeutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: TDP-43 Proteinopathy and ALS: Insights into Disease Mechanisms and Therapeutic Targets"
+}

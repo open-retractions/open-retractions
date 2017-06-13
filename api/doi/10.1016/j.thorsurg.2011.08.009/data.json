@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.thorsurg.2015.04.013","type":"err"},"doi":"10.1016/j.thorsurg.2011.08.009","journal":"Thoracic Surgery Clinics","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496017327326,
+      "identifier": {
+        "doi": "10.1016/j.thorsurg.2015.04.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.thorsurg.2011.08.009"
+  },
+  "journal": "Thoracic Surgery Clinics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

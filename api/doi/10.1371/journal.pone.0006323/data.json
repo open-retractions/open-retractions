@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1255046400000,"doi":"10.1371/annotation/8d1d51b9-81be-4351-ba45-27e3afdea13a","type":"correction"},"doi":"10.1371/journal.pone.0006323","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mapping Accuracy of Short Reads from Massively Parallel Sequencing and the Implications for Quantitative Expression Profiling"}
+{
+  "retracted": false,
+  "timestamp": 1255046400000,
+  "updates": [
+    {
+      "timestamp": 1496025195473,
+      "identifier": {
+        "doi": "10.1371/annotation/8d1d51b9-81be-4351-ba45-27e3afdea13a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0006323"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mapping Accuracy of Short Reads from Massively Parallel Sequencing and the Implications for Quantitative Expression Profiling"
+}

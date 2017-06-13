@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.jhep.2013.09.017","type":"err"},"doi":"10.1016/j.jhep.2013.05.031","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to: “Challenges in cancer vaccine development for hepatocellular carcinoma” [J Hepatol 2013;59:897–903]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496054758028,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2013.09.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2013.05.031"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Challenges in cancer vaccine development for hepatocellular carcinoma” [J Hepatol 2013;59:897–903]"
+}

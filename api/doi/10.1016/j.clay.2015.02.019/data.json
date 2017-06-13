@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.clay.2015.05.014","type":"err"},"doi":"10.1016/j.clay.2015.02.019","journal":"Applied Clay Science","publisher":"Elsevier BV","title":"Corrigendum to “Estimation of the heat of reaction in traditional ceramic compositions” [Appl. Clay Sci. 108 (2015) 28–39]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496002829717,
+      "identifier": {
+        "doi": "10.1016/j.clay.2015.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clay.2015.02.019"
+  },
+  "journal": "Applied Clay Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Estimation of the heat of reaction in traditional ceramic compositions” [Appl. Clay Sci. 108 (2015) 28–39]"
+}

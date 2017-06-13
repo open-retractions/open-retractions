@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.biocel.2014.09.020","type":"err"},"doi":"10.1016/j.biocel.2013.08.008","journal":"The International Journal of Biochemistry & Cell Biology","publisher":"Elsevier BV","title":"Corrigendum to “RNA binding proteins in the regulation of heart development” [Int. J. Biochem. Cell Biol. 45 (2013) 2467–2478]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496009200160,
+      "identifier": {
+        "doi": "10.1016/j.biocel.2014.09.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocel.2013.08.008"
+  },
+  "journal": "The International Journal of Biochemistry & Cell Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “RNA binding proteins in the regulation of heart development” [Int. J. Biochem. Cell Biol. 45 (2013) 2467–2478]"
+}

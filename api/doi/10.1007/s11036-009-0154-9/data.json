@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1246060800000,"doi":"10.1007/s11036-009-0182-5","type":"correction"},"doi":"10.1007/s11036-009-0154-9","journal":"Mobile Networks and Applications","publisher":"Springer Nature","title":"RoboComm Editorial"}
+{
+  "retracted": false,
+  "timestamp": 1246060800000,
+  "updates": [
+    {
+      "timestamp": 1495959448812,
+      "identifier": {
+        "doi": "10.1007/s11036-009-0182-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11036-009-0154-9"
+  },
+  "journal": "Mobile Networks and Applications",
+  "publisher": "Springer Nature",
+  "title": "RoboComm Editorial"
+}

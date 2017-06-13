@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1007/s10517-016-3568-y","type":"correction"},"doi":"10.1007/s10517-016-3512-1","journal":"Bulletin of Experimental Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: Pulsed Dendritic Cells for the Therapy of Experimental Glioma"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495658687823,
+      "identifier": {
+        "doi": "10.1007/s10517-016-3568-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10517-016-3512-1"
+  },
+  "journal": "Bulletin of Experimental Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pulsed Dendritic Cells for the Therapy of Experimental Glioma"
+}

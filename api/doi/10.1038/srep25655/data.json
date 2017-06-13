@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478044800000,"doi":"10.1038/srep35094","type":"correction"},"doi":"10.1038/srep25655","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: High-energy side-peak emission of exciton-polariton condensates in high density regime"}
+{
+  "retracted": false,
+  "timestamp": 1478044800000,
+  "updates": [
+    {
+      "timestamp": 1495653537568,
+      "identifier": {
+        "doi": "10.1038/srep35094"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep25655"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: High-energy side-peak emission of exciton-polariton condensates in high density regime"
+}

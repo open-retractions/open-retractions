@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1321833600000,"doi":"10.1186/1471-2407-11-488","type":"correction"},"doi":"10.1186/1471-2407-6-241","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to:Prognostic significance of fascin expression in advanced colorectal cancer: an immunohistochemical study of colorectal adenomas and adenocarcinomas"}
+{
+  "retracted": false,
+  "timestamp": 1321833600000,
+  "updates": [
+    {
+      "timestamp": 1495828938579,
+      "identifier": {
+        "doi": "10.1186/1471-2407-11-488"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2407-6-241"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to:Prognostic significance of fascin expression in advanced colorectal cancer: an immunohistochemical study of colorectal adenomas and adenocarcinomas"
+}

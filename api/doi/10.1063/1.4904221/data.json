@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1063/1.4905867","type":"correction"},"doi":"10.1063/1.4904221","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Terahertz quantum well photodetectors with reflection-grating couplers” [Appl. Phys. Lett. 105, 231123 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496037541626,
+      "identifier": {
+        "doi": "10.1063/1.4905867"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4904221"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Terahertz quantum well photodetectors with reflection-grating couplers” [Appl. Phys. Lett. 105, 231123 (2014)]"
+}

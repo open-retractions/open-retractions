@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379980800000,"doi":"10.1371/annotation/ea0f1c59-8ed0-4870-9dab-7afd2ca63328","type":"correction"},"doi":"10.1371/journal.pone.0073763","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Actin Cytoskeleton Regulates Hippo Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1379980800000,
+  "updates": [
+    {
+      "timestamp": 1496052946155,
+      "identifier": {
+        "doi": "10.1371/annotation/ea0f1c59-8ed0-4870-9dab-7afd2ca63328"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073763"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Actin Cytoskeleton Regulates Hippo Signaling"
+}

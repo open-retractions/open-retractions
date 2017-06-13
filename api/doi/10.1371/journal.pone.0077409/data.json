@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1371/annotation/750f93e7-3fee-4ae0-81e4-058787a9e9a1","type":"correction"},"doi":"10.1371/journal.pone.0077409","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Effect of Immune Reconstitution on the Incidence of HIV-Related Hodgkin Lymphoma"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1495991431910,
+      "identifier": {
+        "doi": "10.1371/annotation/750f93e7-3fee-4ae0-81e4-058787a9e9a1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0077409"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effect of Immune Reconstitution on the Incidence of HIV-Related Hodgkin Lymphoma"
+}

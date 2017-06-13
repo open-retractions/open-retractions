@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461628800000,"doi":"10.1007/jhep04(2016)161","type":"correction"},"doi":"10.1007/jhep01(2014)106","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Gauge invariant Barr-Zee type contributions to fermionic EDMs in the two-Higgs doublet models"}
+{
+  "retracted": false,
+  "timestamp": 1461628800000,
+  "updates": [
+    {
+      "timestamp": 1495664999890,
+      "identifier": {
+        "doi": "10.1007/jhep04(2016)161"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep01(2014)106"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gauge invariant Barr-Zee type contributions to fermionic EDMs in the two-Higgs doublet models"
+}

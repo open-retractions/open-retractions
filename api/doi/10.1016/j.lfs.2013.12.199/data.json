@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416787200000,"doi":"10.1016/j.lfs.2014.10.018","type":"err"},"doi":"10.1016/j.lfs.2013.12.199","journal":"Life Sciences","publisher":"Elsevier BV","title":"Erratum to “miRNA-1 regulates endothelin-1 in diabetes” [Life Sci. 98 (2014) 18–23]"}
+{
+  "retracted": false,
+  "timestamp": 1416787200000,
+  "updates": [
+    {
+      "timestamp": 1496035729038,
+      "identifier": {
+        "doi": "10.1016/j.lfs.2014.10.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lfs.2013.12.199"
+  },
+  "journal": "Life Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “miRNA-1 regulates endothelin-1 in diabetes” [Life Sci. 98 (2014) 18–23]"
+}

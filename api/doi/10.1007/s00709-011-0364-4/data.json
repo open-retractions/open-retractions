@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1328313600000,"doi":"10.1007/s00709-012-0376-8","type":"correction"},"doi":"10.1007/s00709-011-0364-4","journal":"Protoplasma","publisher":"Springer Nature","title":"Erratum to: Probing and tracking organelles in living plant cells"}
+{
+  "retracted": false,
+  "timestamp": 1328313600000,
+  "updates": [
+    {
+      "timestamp": 1495867785989,
+      "identifier": {
+        "doi": "10.1007/s00709-012-0376-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00709-011-0364-4"
+  },
+  "journal": "Protoplasma",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Probing and tracking organelles in living plant cells"
+}

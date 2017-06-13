@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.mcn.2015.04.004","type":"err"},"doi":"10.1016/j.mcn.2014.08.006","journal":"Molecular and Cellular Neuroscience","publisher":"Elsevier BV","title":"Erratum to “Neuroproteomics in the auditory brainstem: Candidate proteins for ultrafast and precise information processing” [Mol. Cell. Neurosci. (64), pages 9–23]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495996261616,
+      "identifier": {
+        "doi": "10.1016/j.mcn.2015.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mcn.2014.08.006"
+  },
+  "journal": "Molecular and Cellular Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Neuroproteomics in the auditory brainstem: Candidate proteins for ultrafast and precise information processing” [Mol. Cell. Neurosci. (64), pages 9–23]"
+}

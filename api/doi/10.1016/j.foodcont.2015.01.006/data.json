@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.foodcont.2015.11.022","type":"err"},"doi":"10.1016/j.foodcont.2015.01.006","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Efficacy of acidic and alkaline electrolyzed water for inactivating Escherichia coli O104:H4, Listeria monocytogenes, Campylobacter jejuni, Aeromonas hydrophila, and Vibrio parahaemolyticus in cell suspensions” [Food Control 53 (July 2015) 117–123]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496048771255,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2015.11.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2015.01.006"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficacy of acidic and alkaline electrolyzed water for inactivating Escherichia coli O104:H4, Listeria monocytogenes, Campylobacter jejuni, Aeromonas hydrophila, and Vibrio parahaemolyticus in cell suspensions” [Food Control 53 (July 2015) 117–123]"
+}

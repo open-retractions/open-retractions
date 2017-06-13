@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1080/01445340.2014.931082","type":"correction"},"doi":"10.1080/01445340.2014.916086","journal":"History and Philosophy of Logic","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496047512244,
+      "identifier": {
+        "doi": "10.1080/01445340.2014.931082"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01445340.2014.916086"
+  },
+  "journal": "History and Philosophy of Logic",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

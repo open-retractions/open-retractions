@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1128/jvi.00587-16","type":"correction"},"doi":"10.1128/jvi.02665-13","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Shin et al., Histone Deacetylase Classes I and II Regulate Kaposi's Sarcoma-Associated Herpesvirus Reactivation"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495716479654,
+      "identifier": {
+        "doi": "10.1128/jvi.00587-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.02665-13"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Shin et al., Histone Deacetylase Classes I and II Regulate Kaposi's Sarcoma-Associated Herpesvirus Reactivation"
+}

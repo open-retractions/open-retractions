@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.resmic.2013.10.007","type":"err"},"doi":"10.1016/j.resmic.2013.08.005","journal":"Research in Microbiology","publisher":"Elsevier BV","title":"Erratum to “Activity and bacterial diversity of snow around Russian Antarctic stations” [Res. Microbiol. 164 (9) (2013) 949–958]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495990917137,
+      "identifier": {
+        "doi": "10.1016/j.resmic.2013.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resmic.2013.08.005"
+  },
+  "journal": "Research in Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Activity and bacterial diversity of snow around Russian Antarctic stations” [Res. Microbiol. 164 (9) (2013) 949–958]"
+}

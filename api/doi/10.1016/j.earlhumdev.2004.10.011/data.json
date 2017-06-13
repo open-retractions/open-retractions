@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.earlhumdev.2015.09.002","type":"err"},"doi":"10.1016/j.earlhumdev.2004.10.011","journal":"Early Human Development","publisher":"Elsevier BV","title":"Corrigendum to “magnetic resonance imaging in neonatal encephalopathy” [Early Hum. Dev. 81 (1) (2005 Jan) 13–25]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496038346121,
+      "identifier": {
+        "doi": "10.1016/j.earlhumdev.2015.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.earlhumdev.2004.10.011"
+  },
+  "journal": "Early Human Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “magnetic resonance imaging in neonatal encephalopathy” [Early Hum. Dev. 81 (1) (2005 Jan) 13–25]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415923200000,"doi":"10.1116/1.4901410","type":"correction"},"doi":"10.1116/1.4895964","journal":"Biointerphases","publisher":"American Vacuum Society","title":"Erratum: “Plasmon resonance based analysis of a single protein conjugated Au nanoshell” [Biointerphases 9, 031017 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1415923200000,
+  "updates": [
+    {
+      "timestamp": 1496021594726,
+      "identifier": {
+        "doi": "10.1116/1.4901410"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1116/1.4895964"
+  },
+  "journal": "Biointerphases",
+  "publisher": "American Vacuum Society",
+  "title": "Erratum: “Plasmon resonance based analysis of a single protein conjugated Au nanoshell” [Biointerphases 9, 031017 (2014)]"
+}

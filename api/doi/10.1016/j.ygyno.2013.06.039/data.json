@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ygyno.2013.08.010","type":"err"},"doi":"10.1016/j.ygyno.2013.06.039","journal":"Gynecologic Oncology","publisher":"Elsevier BV","title":"Erratum to “HPV vaccination in women treated for CIN2/3: It's still all about prevention” [Gynecol Oncol 130 (2013) 255–256]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496040450714,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2013.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2013.06.039"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “HPV vaccination in women treated for CIN2/3: It's still all about prevention” [Gynecol Oncol 130 (2013) 255–256]"
+}

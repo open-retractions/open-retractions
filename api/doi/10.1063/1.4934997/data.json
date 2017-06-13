@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457308800000,"doi":"10.1063/1.4943574","type":"correction"},"doi":"10.1063/1.4934997","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Equilibrium simulation of trp-cage in the presence of protein crowders” [J. Chem. Phys. 143, 175102 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1457308800000,
+  "updates": [
+    {
+      "timestamp": 1495651737974,
+      "identifier": {
+        "doi": "10.1063/1.4943574"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4934997"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Equilibrium simulation of trp-cage in the presence of protein crowders” [J. Chem. Phys. 143, 175102 (2015)]"
+}

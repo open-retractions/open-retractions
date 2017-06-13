@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484784000000,"doi":"10.1080/07357907.2016.1275814","type":"correction"},"doi":"10.3109/07357907.2015.1088948","journal":"Cancer Investigation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484784000000,
+  "updates": [
+    {
+      "timestamp": 1495677294434,
+      "identifier": {
+        "doi": "10.1080/07357907.2016.1275814"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/07357907.2015.1088948"
+  },
+  "journal": "Cancer Investigation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

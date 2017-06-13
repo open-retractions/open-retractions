@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454371200000,"doi":"10.1073/pnas.1600151113","type":"correction"},"doi":"10.1073/pnas.1519556112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ling et al., Extremely high genetic diversity in a single tumor points to prevalence of non-Darwinian cell evolution"}
+{
+  "retracted": false,
+  "timestamp": 1454371200000,
+  "updates": [
+    {
+      "timestamp": 1495639577645,
+      "identifier": {
+        "doi": "10.1073/pnas.1600151113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1519556112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ling et al., Extremely high genetic diversity in a single tumor points to prevalence of non-Darwinian cell evolution"
+}

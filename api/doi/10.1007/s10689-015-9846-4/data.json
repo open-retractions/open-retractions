@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448323200000,"doi":"10.1007/s10689-015-9848-2","type":"correction"},"doi":"10.1007/s10689-015-9846-4","journal":"Familial Cancer","publisher":"Springer Nature","title":"Erratum to: Methylation of the miR-126 gene associated with glioma progression"}
+{
+  "retracted": false,
+  "timestamp": 1448323200000,
+  "updates": [
+    {
+      "timestamp": 1496048239422,
+      "identifier": {
+        "doi": "10.1007/s10689-015-9848-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10689-015-9846-4"
+  },
+  "journal": "Familial Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Methylation of the miR-126 gene associated with glioma progression"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407715200000,"doi":"10.1063/1.4892945","type":"correction"},"doi":"10.1063/1.4885104","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Modeling carbon nanotube growth on the catalyst-substrate surface subjected to reactive plasma” [Phys. Plasmas 21, 063512 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1407715200000,
+  "updates": [
+    {
+      "timestamp": 1495999625766,
+      "identifier": {
+        "doi": "10.1063/1.4892945"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4885104"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Modeling carbon nanotube growth on the catalyst-substrate surface subjected to reactive plasma” [Phys. Plasmas 21, 063512 (2014)]"
+}

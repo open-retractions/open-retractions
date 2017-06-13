@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1233792000000,"doi":"10.1371/annotation/363b6074-caec-4238-b88f-acbf45de498f","type":"correction"},"doi":"10.1371/journal.pcbi.0030099","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Frequent Gain and Loss of Functional Transcription Factor Binding Sites"}
+{
+  "retracted": false,
+  "timestamp": 1233792000000,
+  "updates": [
+    {
+      "timestamp": 1496023937023,
+      "identifier": {
+        "doi": "10.1371/annotation/363b6074-caec-4238-b88f-acbf45de498f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0030099"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Frequent Gain and Loss of Functional Transcription Factor Binding Sites"
+}

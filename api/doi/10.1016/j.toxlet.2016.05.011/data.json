@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1016/j.toxlet.2016.07.024","type":"erratum"},"doi":"10.1016/j.toxlet.2016.05.011","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “ In vitro cytotoxicity of Nicotiana gossei leaves, used in the Australian Aboriginal smokeless tobacco known as pituri or mingkulpa” [Toxicol. Lett. 254 (2016) 45–51]"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495735524499,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2016.07.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2016.05.011"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ In vitro  cytotoxicity of  Nicotiana gossei  leaves, used in the Australian Aboriginal smokeless tobacco known as pituri or mingkulpa” [Toxicol. Lett. 254 (2016) 45–51]"
+}

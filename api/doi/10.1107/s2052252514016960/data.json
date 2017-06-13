@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1107/s205225251501492x","type":"correction"},"doi":"10.1107/s2052252514016960","journal":"IUCrJ","publisher":"International Union of Crystallography (IUCr)","title":"Room-temperature serial crystallography using a kinetically optimized microfluidic device for protein crystallization and on-chip X-ray diffraction. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496023490178,
+      "identifier": {
+        "doi": "10.1107/s205225251501492x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s2052252514016960"
+  },
+  "journal": "IUCrJ",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Room-temperature serial crystallography using a kinetically optimized microfluidic device for protein crystallization and on-chip X-ray diffraction. Corrigendum"
+}

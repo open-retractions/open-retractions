@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1241136000000,"doi":"10.1007/s00445-008-0244-8","type":"correction"},"doi":"10.1007/s00445-008-0234-x","journal":"Bulletin of Volcanology","publisher":"Springer Nature","title":"Erratum to Compositional variations and magma mixing in the 1991 eruptions of Hudson volcano, Chile"}
+{
+  "retracted": false,
+  "timestamp": 1241136000000,
+  "updates": [
+    {
+      "timestamp": 1495881068962,
+      "identifier": {
+        "doi": "10.1007/s00445-008-0244-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00445-008-0234-x"
+  },
+  "journal": "Bulletin of Volcanology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Compositional variations and magma mixing in the 1991 eruptions of Hudson volcano, Chile"
+}

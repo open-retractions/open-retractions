@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.2337/dc17-er04","type":"correction"},"doi":"10.2337/dc13-0739","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Erratum. Cardiometabolic Risk in a Rural Ugandan Population. Diabetes Care 2013;36;e143"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495679963788,
+      "identifier": {
+        "doi": "10.2337/dc17-er04"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc13-0739"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Erratum. Cardiometabolic Risk in a Rural Ugandan Population. Diabetes Care 2013;36;e143"
+}

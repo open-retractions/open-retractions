@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.asoc.2014.02.004","type":"err"},"doi":"10.1016/j.asoc.2013.10.021","journal":"Applied Soft Computing","publisher":"Elsevier BV","title":"Erratum to “Moving object detection using Markov Random Field and Distributed Differential Evolution” [Appl. Soft Comput. 15 (2014) 121–136]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496018881788,
+      "identifier": {
+        "doi": "10.1016/j.asoc.2014.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asoc.2013.10.021"
+  },
+  "journal": "Applied Soft Computing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Moving object detection using Markov Random Field and Distributed Differential Evolution” [Appl. Soft Comput. 15 (2014) 121–136]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jviromet.2016.12.005","type":"erratum"},"doi":"10.1016/j.jviromet.2016.08.010","journal":"Journal of Virological Methods","publisher":"Elsevier BV","title":"Erratum to ‘Generation and validation of new quantitative real time PCR assays to detect Elephant Endotheliotropic herpesviruses 1A, 1B, and 4’ [J. Virol. Methods 237 (2016) 138–142]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495668785519,
+      "identifier": {
+        "doi": "10.1016/j.jviromet.2016.12.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jviromet.2016.08.010"
+  },
+  "journal": "Journal of Virological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Generation and validation of new quantitative real time PCR assays to detect Elephant Endotheliotropic herpesviruses 1A, 1B, and 4’ [J. Virol. Methods 237 (2016) 138–142]"
+}

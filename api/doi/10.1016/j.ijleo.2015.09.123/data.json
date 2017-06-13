@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ijleo.2015.11.131","type":"err"},"doi":"10.1016/j.ijleo.2015.09.123","journal":"Optik - International Journal for Light and Electron Optics","publisher":"Elsevier BV","title":"Corrigendum to “Influence of the charge carrier mobility on the dynamic behavior and performance of the single-layer OLED” [Optik 126 (2015) 5237–5240]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496048569321,
+      "identifier": {
+        "doi": "10.1016/j.ijleo.2015.11.131"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijleo.2015.09.123"
+  },
+  "journal": "Optik - International Journal for Light and Electron Optics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of the charge carrier mobility on the dynamic behavior and performance of the single-layer OLED” [Optik 126 (2015) 5237–5240]"
+}

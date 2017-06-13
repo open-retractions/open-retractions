@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439337600000,"doi":"10.1179/2055556315z.00000000033","type":"correction"},"doi":"10.1179/2055556315z.00000000016","journal":"PaleoAmerica","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1439337600000,
+  "updates": [
+    {
+      "timestamp": 1496022845582,
+      "identifier": {
+        "doi": "10.1179/2055556315z.00000000033"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/2055556315z.00000000016"
+  },
+  "journal": "PaleoAmerica",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

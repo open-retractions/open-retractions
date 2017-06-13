@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473120000000,"doi":"10.1016/j.jbiomech.2016.08.001","type":"erratum"},"doi":"10.1016/j.jbiomech.2015.12.047","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Correlations between measures of dynamic balance in individuals with post-stroke hemiparesis” [J. Biomech. 49 (2016) 396–400]"}
+{
+  "retracted": false,
+  "timestamp": 1473120000000,
+  "updates": [
+    {
+      "timestamp": 1495735945420,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2016.08.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2015.12.047"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Correlations between measures of dynamic balance in individuals with post-stroke hemiparesis” [J. Biomech. 49 (2016) 396–400]"
+}

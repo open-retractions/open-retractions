@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473206400000,"doi":"10.1088/0957-4484/27/41/419501","type":"correction"},"doi":"10.1088/0957-4484/27/27/275205","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: 1D versus 3D quantum confinement in 1–5 nm ZnO nanoparticle agglomerations for application in charge-trapping memory devices (2016 Nanotechnology 27 275205)"}
+{
+  "retracted": false,
+  "timestamp": 1473206400000,
+  "updates": [
+    {
+      "timestamp": 1495637432068,
+      "identifier": {
+        "doi": "10.1088/0957-4484/27/41/419501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/27/27/275205"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: 1D versus 3D quantum confinement in 1–5 nm ZnO nanoparticle agglomerations for application in charge-trapping memory devices (2016 Nanotechnology 27 275205)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.jamda.2014.04.019","type":"erratum"},"doi":"10.1016/j.jamda.2013.11.017","journal":"Journal of the American Medical Directors Association","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496040730870,
+      "identifier": {
+        "doi": "10.1016/j.jamda.2014.04.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jamda.2013.11.017"
+  },
+  "journal": "Journal of the American Medical Directors Association",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

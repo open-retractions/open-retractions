@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374710400000,"doi":"10.1016/j.celrep.2013.07.006","type":"err"},"doi":"10.1016/j.celrep.2013.05.036","journal":"Cell Reports","publisher":"Elsevier BV","title":"An iPSC Line from Human Pancreatic Ductal Adenocarcinoma Undergoes Early to Invasive Stages of Pancreatic Cancer Progression"}
+{
+  "retracted": false,
+  "timestamp": 1374710400000,
+  "updates": [
+    {
+      "timestamp": 1496032984329,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.05.036"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "An iPSC Line from Human Pancreatic Ductal Adenocarcinoma Undergoes Early to Invasive Stages of Pancreatic Cancer Progression"
+}

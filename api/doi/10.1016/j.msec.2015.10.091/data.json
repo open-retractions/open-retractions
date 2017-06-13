@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.msec.2016.09.053","type":"erratum"},"doi":"10.1016/j.msec.2015.10.091","journal":"Materials Science and Engineering: C","publisher":"Elsevier BV","title":"Corrigendum to “Development of new radiopaque glass fiber posts” [Mater. Sci. Eng. C 2016; 59(1), 855–862]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495646820261,
+      "identifier": {
+        "doi": "10.1016/j.msec.2016.09.053"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msec.2015.10.091"
+  },
+  "journal": "Materials Science and Engineering: C",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of new radiopaque glass fiber posts” [Mater. Sci. Eng. C 2016; 59(1), 855–862]"
+}

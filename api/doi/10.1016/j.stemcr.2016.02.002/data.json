@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460419200000,"doi":"10.1016/j.stemcr.2016.03.010","type":"erratum"},"doi":"10.1016/j.stemcr.2016.02.002","journal":"Stem Cell Reports","publisher":"Elsevier BV","title":"Activation of GLP-1 Receptor Promotes Bone Marrow Stromal Cell Osteogenic Differentiation through β-Catenin"}
+{
+  "retracted": false,
+  "timestamp": 1460419200000,
+  "updates": [
+    {
+      "timestamp": 1496660672897,
+      "identifier": {
+        "doi": "10.1016/j.stemcr.2016.03.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stemcr.2016.02.002"
+  },
+  "journal": "Stem Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Activation of GLP-1 Receptor Promotes Bone Marrow Stromal Cell Osteogenic Differentiation through β-Catenin"
+}

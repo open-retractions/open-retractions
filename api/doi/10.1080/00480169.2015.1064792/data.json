@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442448000000,"doi":"10.1080/00480169.2015.1082530","type":"correction"},"doi":"10.1080/00480169.2015.1064792","journal":"New Zealand Veterinary Journal","publisher":"Informa UK Limited","title":"Re:Theileria orientalis: a review"}
+{
+  "retracted": false,
+  "timestamp": 1442448000000,
+  "updates": [
+    {
+      "timestamp": 1496031255748,
+      "identifier": {
+        "doi": "10.1080/00480169.2015.1082530"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00480169.2015.1064792"
+  },
+  "journal": "New Zealand Veterinary Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Re:Theileria orientalis: a review"
+}

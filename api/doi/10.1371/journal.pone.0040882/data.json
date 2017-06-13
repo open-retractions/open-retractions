@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349654400000,"doi":"10.1371/annotation/ff089043-990a-48c2-a90f-15606c11cc98","type":"correction"},"doi":"10.1371/journal.pone.0040882","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Comparison of the Predicted Population Coverage of Tuberculosis Vaccine Candidates Ag85B-ESAT-6, Ag85B-TB10.4, and Mtb72f via a Bioinformatics Approach"}
+{
+  "retracted": false,
+  "timestamp": 1349654400000,
+  "updates": [
+    {
+      "timestamp": 1496015683415,
+      "identifier": {
+        "doi": "10.1371/annotation/ff089043-990a-48c2-a90f-15606c11cc98"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0040882"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comparison of the Predicted Population Coverage of Tuberculosis Vaccine Candidates Ag85B-ESAT-6, Ag85B-TB10.4, and Mtb72f via a Bioinformatics Approach"
+}

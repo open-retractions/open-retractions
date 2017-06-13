@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371513600000,"doi":"10.1371/annotation/e33f9763-3385-42c7-b31e-d433dc8e499a","type":"correction"},"doi":"10.1371/journal.pone.0057800","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Deep Sequencing Approach to Uncover the miRNOME in the Human Heart"}
+{
+  "retracted": false,
+  "timestamp": 1371513600000,
+  "updates": [
+    {
+      "timestamp": 1496023932998,
+      "identifier": {
+        "doi": "10.1371/annotation/e33f9763-3385-42c7-b31e-d433dc8e499a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0057800"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Deep Sequencing Approach to Uncover the miRNOME in the Human Heart"
+}

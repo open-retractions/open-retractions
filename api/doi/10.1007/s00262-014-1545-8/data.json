@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1007/s00262-014-1611-2","type":"correction"},"doi":"10.1007/s00262-014-1545-8","journal":"Cancer Immunology, Immunotherapy","publisher":"Springer Nature","title":"Erratum to: Immunological and biological changes during ipilimumab treatment and their potential correlation with clinical response and survival in patients with advanced melanoma"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496008184421,
+      "identifier": {
+        "doi": "10.1007/s00262-014-1611-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00262-014-1545-8"
+  },
+  "journal": "Cancer Immunology, Immunotherapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Immunological and biological changes during ipilimumab treatment and their potential correlation with clinical response and survival in patients with advanced melanoma"
+}

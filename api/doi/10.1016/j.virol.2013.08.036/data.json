@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.virol.2013.11.028","type":"err"},"doi":"10.1016/j.virol.2013.08.036","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Gene expression profile regulated by the HPV16 E7 oncoprotein and estradiol in cervical tissue” [Virology 447 (2013) 155–165]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496004692725,
+      "identifier": {
+        "doi": "10.1016/j.virol.2013.11.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2013.08.036"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gene expression profile regulated by the HPV16 E7 oncoprotein and estradiol in cervical tissue” [Virology 447 (2013) 155–165]"
+}

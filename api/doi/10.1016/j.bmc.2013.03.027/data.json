@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.bmc.2013.09.005","type":"err"},"doi":"10.1016/j.bmc.2013.03.027","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Geranylated flavonoids displaying SARS-CoV papain-like protease inhibition from the fruits of Paulownia tomentosa” [Bioorg. Med. Chem. 21 (2013) 3051–3057]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496051521300,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2013.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2013.03.027"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geranylated flavonoids displaying SARS-CoV papain-like protease inhibition from the fruits of Paulownia tomentosa” [Bioorg. Med. Chem. 21 (2013) 3051–3057]"
+}

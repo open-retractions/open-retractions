@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426636800000,"doi":"10.1007/s11749-015-0437-3","type":"correction"},"doi":"10.1007/s11749-014-0403-5","journal":"TEST","publisher":"Springer Nature","title":"Erratum to: Estimating extreme quantiles under random truncation"}
+{
+  "retracted": false,
+  "timestamp": 1426636800000,
+  "updates": [
+    {
+      "timestamp": 1496051646963,
+      "identifier": {
+        "doi": "10.1007/s11749-015-0437-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11749-014-0403-5"
+  },
+  "journal": "TEST",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimating extreme quantiles under random truncation"
+}

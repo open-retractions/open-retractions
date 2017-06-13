@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bbrep.2015.12.005","type":"erratum"},"doi":"10.1016/j.bbrep.2015.10.012","journal":"Biochemistry and Biophysics Reports","publisher":"Elsevier BV","title":"Corrigendum to: ‘‘Salbutamol inhibits ubiquitin-mediated survival motor neuron protein degradation in spinal muscular atrophy cells’’ [Biochem. Biophys. Rep. 4 (2015) 351–356]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496054169998,
+      "identifier": {
+        "doi": "10.1016/j.bbrep.2015.12.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrep.2015.10.012"
+  },
+  "journal": "Biochemistry and Biophysics Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: ‘‘Salbutamol inhibits ubiquitin-mediated survival motor neuron protein degradation in spinal muscular atrophy cells’’ [Biochem. Biophys. Rep. 4 (2015) 351–356]"
+}

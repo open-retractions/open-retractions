@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.pss.2014.12.021","type":"err"},"doi":"10.1016/j.pss.2010.07.027","journal":"Planetary and Space Science","publisher":"Elsevier BV","title":"Corrigendum to “The Sunlit lunar atmosphere: A Comprehensive study by CHACE on the Moon Impact Probe of Chandrayaan-1” [Planet. Space Sci. 58 (2010) 1567–1577]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496037611167,
+      "identifier": {
+        "doi": "10.1016/j.pss.2014.12.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pss.2010.07.027"
+  },
+  "journal": "Planetary and Space Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Sunlit lunar atmosphere: A Comprehensive study by CHACE on the Moon Impact Probe of Chandrayaan-1” [Planet. Space Sci. 58 (2010) 1567–1577]"
+}

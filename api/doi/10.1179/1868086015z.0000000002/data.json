@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1179/1868086015z.00000000011","type":"correction"},"doi":"10.1179/1868086015z.0000000002","journal":"Journal of Paper Conservation","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496034570778,
+      "identifier": {
+        "doi": "10.1179/1868086015z.00000000011"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1868086015z.0000000002"
+  },
+  "journal": "Journal of Paper Conservation",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

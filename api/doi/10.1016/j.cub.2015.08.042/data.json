@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452470400000,"doi":"10.1016/j.cub.2015.12.007","type":"erratum"},"doi":"10.1016/j.cub.2015.08.042","journal":"Current Biology","publisher":"Elsevier BV","title":"A Hardwired Circuit Supplemented with Endocannabinoids Encodes Behavioral Choice in Zebrafish"}
+{
+  "retracted": false,
+  "timestamp": 1452470400000,
+  "updates": [
+    {
+      "timestamp": 1496059487652,
+      "identifier": {
+        "doi": "10.1016/j.cub.2015.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2015.08.042"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "A Hardwired Circuit Supplemented with Endocannabinoids Encodes Behavioral Choice in Zebrafish"
+}

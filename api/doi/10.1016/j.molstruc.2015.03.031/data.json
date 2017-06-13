@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457136000000,"doi":"10.1016/j.molstruc.2015.11.028","type":"erratum"},"doi":"10.1016/j.molstruc.2015.03.031","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Conformations of the semifluorinated n-alkane H-(CF 2 ) 8 -H investigated using Fourier transform microwave spectroscopy and quantum chemical calculations” [J. Mol. Struct. 1093 (2015) 77–81]"}
+{
+  "retracted": false,
+  "timestamp": 1457136000000,
+  "updates": [
+    {
+      "timestamp": 1496051485788,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2015.11.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2015.03.031"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conformations of the semifluorinated n-alkane H-(CF 2 ) 8 -H investigated using Fourier transform microwave spectroscopy and quantum chemical calculations” [J. Mol. Struct. 1093 (2015) 77–81]"
+}

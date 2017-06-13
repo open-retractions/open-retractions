@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400112000000,"doi":"10.1016/j.ygcen.2014.01.014","type":"err"},"doi":"10.1016/j.ygcen.2012.07.023","journal":"General and Comparative Endocrinology","publisher":"Elsevier BV","title":"Corrigendum to “Identification of mRNAs coding for mammalian-type melanin-concentrating hormone and its receptors in the scalloped hammerhead shark Sphyrna lewini” [Gen. Comp. Endocrinol. 179 (2012) 78–87]"}
+{
+  "retracted": false,
+  "timestamp": 1400112000000,
+  "updates": [
+    {
+      "timestamp": 1496017809363,
+      "identifier": {
+        "doi": "10.1016/j.ygcen.2014.01.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygcen.2012.07.023"
+  },
+  "journal": "General and Comparative Endocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of mRNAs coding for mammalian-type melanin-concentrating hormone and its receptors in the scalloped hammerhead shark Sphyrna lewini” [Gen. Comp. Endocrinol. 179 (2012) 78–87]"
+}

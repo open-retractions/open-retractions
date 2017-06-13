@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200960000000,"doi":"10.1007/bf02789608","type":"correction"},"doi":"10.1007/bf02789548","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: A generalized critical-distance model for heavy-ion fusion"}
+{
+  "retracted": false,
+  "timestamp": 1200960000000,
+  "updates": [
+    {
+      "timestamp": 1495820045220,
+      "identifier": {
+        "doi": "10.1007/bf02789608"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02789548"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A generalized critical-distance model for heavy-ion fusion"
+}

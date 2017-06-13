@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":339206400000,"doi":"10.1007/bf01059551","type":"correction"},"doi":"10.1007/bf01059452","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: A pharmacokinetic model-independent approach for estimating dose required to give desired steady-state trough concentrations of drug in plasma"}
+{
+  "retracted": false,
+  "timestamp": 339206400000,
+  "updates": [
+    {
+      "timestamp": 1495879847668,
+      "identifier": {
+        "doi": "10.1007/bf01059551"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01059452"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A pharmacokinetic model-independent approach for estimating dose required to give desired steady-state trough concentrations of drug in plasma"
+}

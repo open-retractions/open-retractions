@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1241568000000,"doi":"10.1007/s11517-009-0491-7","type":"correction"},"doi":"10.1007/s11517-009-0473-9","journal":"Medical & Biological Engineering & Computing","publisher":"Springer Nature","title":"Model-based assessment of dynamic arterial blood volume flow from ultrasound measurements"}
+{
+  "retracted": false,
+  "timestamp": 1241568000000,
+  "updates": [
+    {
+      "timestamp": 1495948929776,
+      "identifier": {
+        "doi": "10.1007/s11517-009-0491-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11517-009-0473-9"
+  },
+  "journal": "Medical & Biological Engineering & Computing",
+  "publisher": "Springer Nature",
+  "title": "Model-based assessment of dynamic arterial blood volume flow from ultrasound measurements"
+}

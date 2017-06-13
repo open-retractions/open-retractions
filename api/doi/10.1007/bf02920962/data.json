@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":78796800000,"doi":"10.1007/bf02935862","type":"correction"},"doi":"10.1007/bf02920962","journal":"Biologia Plantarum","publisher":"Springer Nature","title":"Erratum to: A Nicotinamide Adenine Dinucleotide Phosphate Phosphatase from Chlorella"}
+{
+  "retracted": false,
+  "timestamp": 78796800000,
+  "updates": [
+    {
+      "timestamp": 1495882975717,
+      "identifier": {
+        "doi": "10.1007/bf02935862"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02920962"
+  },
+  "journal": "Biologia Plantarum",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Nicotinamide Adenine Dinucleotide Phosphate Phosphatase from Chlorella"
+}

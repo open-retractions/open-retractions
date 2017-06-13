@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462579200000,"doi":"10.1007/s11182-016-0753-4","type":"correction"},"doi":"10.1007/s11182-015-0587-5","journal":"Russian Physics Journal","publisher":"Springer Nature","title":"Erratum to: Shape Memory Effect and Superelasticity in [001] Single Crystals of Fe–Ni–Co–Al–Nb(B) Ferromagnetic Alloy"}
+{
+  "retracted": false,
+  "timestamp": 1462579200000,
+  "updates": [
+    {
+      "timestamp": 1495674004543,
+      "identifier": {
+        "doi": "10.1007/s11182-016-0753-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11182-015-0587-5"
+  },
+  "journal": "Russian Physics Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Shape Memory Effect and Superelasticity in [001] Single Crystals of Fe–Ni–Co–Al–Nb(B) Ferromagnetic Alloy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467417600000,"doi":"10.1007/s00170-016-9122-2","type":"correction"},"doi":"10.1007/bf01192281","journal":"The International Journal of Advanced Manufacturing Technology","publisher":"Springer Nature","title":"Erratum to: Rapid prototyping assisted surgery planning"}
+{
+  "retracted": false,
+  "timestamp": 1467417600000,
+  "updates": [
+    {
+      "timestamp": 1495724211521,
+      "identifier": {
+        "doi": "10.1007/s00170-016-9122-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01192281"
+  },
+  "journal": "The International Journal of Advanced Manufacturing Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rapid prototyping assisted surgery planning"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403136000000,"doi":"10.3343/alm.2014.34.4.336","type":"correction"},"doi":"10.3343/alm.2014.34.1.43","journal":"Annals of Laboratory Medicine","publisher":"Korean Society for Laboratory Medicine (KAMJE)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1403136000000,
+  "updates": [
+    {
+      "timestamp": 1496048168557,
+      "identifier": {
+        "doi": "10.3343/alm.2014.34.4.336"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3343/alm.2014.34.1.43"
+  },
+  "journal": "Annals of Laboratory Medicine",
+  "publisher": "Korean Society for Laboratory Medicine (KAMJE)",
+  "title": "Erratum"
+}

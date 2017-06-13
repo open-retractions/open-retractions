@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.foodchem.2016.04.062","type":"err"},"doi":"10.1016/j.foodchem.2016.03.012","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Inhibitory effects of chickpea and Tribulus terrestris on lipase, α-amylase and α-glucosidase” [Food Chem. 205 (2016) 163–169]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495670000731,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.04.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2016.03.012"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inhibitory effects of chickpea and Tribulus terrestris on lipase, α-amylase and α-glucosidase” [Food Chem. 205 (2016) 163–169]"
+}

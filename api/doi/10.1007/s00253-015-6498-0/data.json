@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428969600000,"doi":"10.1007/s00253-015-6569-2","type":"correction"},"doi":"10.1007/s00253-015-6498-0","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Lactic acid bacteria—20 years exploring their potential as live vectors for mucosal vaccination"}
+{
+  "retracted": false,
+  "timestamp": 1428969600000,
+  "updates": [
+    {
+      "timestamp": 1496057240395,
+      "identifier": {
+        "doi": "10.1007/s00253-015-6569-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-015-6498-0"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lactic acid bacteria—20 years exploring their potential as live vectors for mucosal vaccination"
+}

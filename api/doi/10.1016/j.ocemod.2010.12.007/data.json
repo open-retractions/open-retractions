@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.ocemod.2013.04.007","type":"err"},"doi":"10.1016/j.ocemod.2010.12.007","journal":"Ocean Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Geostrophic balance preserving interpolation in mesh adaptive linearised shallow-water ocean modelling” [Ocean Model. 37 (2011) 35–48]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496018176042,
+      "identifier": {
+        "doi": "10.1016/j.ocemod.2013.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ocemod.2010.12.007"
+  },
+  "journal": "Ocean Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geostrophic balance preserving interpolation in mesh adaptive linearised shallow-water ocean modelling” [Ocean Model. 37 (2011) 35–48]"
+}

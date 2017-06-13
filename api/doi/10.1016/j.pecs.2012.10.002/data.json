@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.pecs.2013.09.001","type":"err"},"doi":"10.1016/j.pecs.2012.10.002","journal":"Progress in Energy and Combustion Science","publisher":"Elsevier BV","title":"Corrigendum to “Combustion performance and emission reduction characteristics of automotive DME engine system” [Prog Energy Combust Sci 39 (1) (2013) 147–168]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496048485630,
+      "identifier": {
+        "doi": "10.1016/j.pecs.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pecs.2012.10.002"
+  },
+  "journal": "Progress in Energy and Combustion Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Combustion performance and emission reduction characteristics of automotive DME engine system” [Prog Energy Combust Sci 39 (1) (2013) 147–168]"
+}

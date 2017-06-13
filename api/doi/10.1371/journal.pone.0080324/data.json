@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390435200000,"doi":"10.1371/annotation/4bb2348f-d05c-499b-80b8-58cbb0d038a0","type":"correction"},"doi":"10.1371/journal.pone.0080324","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Information Transmission in a Neuron-Astrocyte Coupled Model"}
+{
+  "retracted": false,
+  "timestamp": 1390435200000,
+  "updates": [
+    {
+      "timestamp": 1496014166876,
+      "identifier": {
+        "doi": "10.1371/annotation/4bb2348f-d05c-499b-80b8-58cbb0d038a0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0080324"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Information Transmission in a Neuron-Astrocyte Coupled Model"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475798400000,"doi":"10.1186/s12879-016-1903-6","type":"correction"},"doi":"10.1186/s12879-016-1827-1","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Risk of cardiovascular events among patients with HIV treated with atazanavircontaining regimens: a retrospective cohort study"}
+{
+  "retracted": false,
+  "timestamp": 1475798400000,
+  "updates": [
+    {
+      "timestamp": 1495646952045,
+      "identifier": {
+        "doi": "10.1186/s12879-016-1903-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-016-1827-1"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Risk of cardiovascular events among patients with HIV treated with atazanavircontaining regimens: a retrospective cohort study"
+}

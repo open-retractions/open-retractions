@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":670464000000,"doi":"10.1073/pnas.88.7.2966","type":"correction"},"doi":"10.1073/pnas.87.23.9265","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"An antifreeze glycopeptide gene from the antarctic cod Notothenia coriiceps neglecta encodes a polyprotein of high peptide copy number."}
+{
+  "retracted": false,
+  "timestamp": 670464000000,
+  "updates": [
+    {
+      "timestamp": 1495825806181,
+      "identifier": {
+        "doi": "10.1073/pnas.88.7.2966"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.87.23.9265"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "An antifreeze glycopeptide gene from the antarctic cod Notothenia coriiceps neglecta encodes a polyprotein of high peptide copy number."
+}

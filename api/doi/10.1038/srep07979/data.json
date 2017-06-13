@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1038/srep09630","type":"correction"},"doi":"10.1038/srep07979","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: CORRIGENDUM: The Evidence of Glioblastoma Heterogeneity"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1496000626008,
+      "identifier": {
+        "doi": "10.1038/srep09630"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep07979"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: CORRIGENDUM: The Evidence of Glioblastoma Heterogeneity"
+}

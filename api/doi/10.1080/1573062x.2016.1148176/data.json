@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1080/1573062x.2016.1163794","type":"correction"},"doi":"10.1080/1573062x.2016.1148176","journal":"Urban Water Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655005523,
+      "identifier": {
+        "doi": "10.1080/1573062x.2016.1163794"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1573062x.2016.1148176"
+  },
+  "journal": "Urban Water Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

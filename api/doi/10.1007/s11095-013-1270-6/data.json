@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489017600000,"doi":"10.1007/s11095-017-2125-3","type":"correction"},"doi":"10.1007/s11095-013-1270-6","journal":"Pharmaceutical Research","publisher":"Springer Nature","title":"Erratum to: Effect of Crystallinity on Electrostatic Charging in DryPowder Inhaler Formulations"}
+{
+  "retracted": false,
+  "timestamp": 1489017600000,
+  "updates": [
+    {
+      "timestamp": 1495727795453,
+      "identifier": {
+        "doi": "10.1007/s11095-017-2125-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11095-013-1270-6"
+  },
+  "journal": "Pharmaceutical Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of Crystallinity on Electrostatic Charging in DryPowder Inhaler Formulations"
+}

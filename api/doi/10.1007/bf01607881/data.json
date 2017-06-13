@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":754704000000,"doi":"10.1007/bf01608541","type":"correction"},"doi":"10.1007/bf01607881","journal":"Journal of VLSI signal processing systems for signal, image and video technology","publisher":"Springer Nature","title":"Erratum to: High level synthesis and generation FPGAs with the BEDROC system"}
+{
+  "retracted": false,
+  "timestamp": 754704000000,
+  "updates": [
+    {
+      "timestamp": 1495938491439,
+      "identifier": {
+        "doi": "10.1007/bf01608541"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01607881"
+  },
+  "journal": "Journal of VLSI signal processing systems for signal, image and video technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High level synthesis and generation FPGAs with the BEDROC system"
+}

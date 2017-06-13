@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.bbmt.2016.07.017","type":"err"},"doi":"10.1016/j.bbmt.2016.03.016","journal":"Biology of Blood and Marrow Transplantation","publisher":"Elsevier BV","title":"Erratum to: “Metabolic Syndrome after Hematopoietic Cell Transplantation: At the Intersection of Treatment Toxicity and Immune Dysfunction” [Biol Blood Marrow Transplant 2016;22:1159-1166]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495735440760,
+      "identifier": {
+        "doi": "10.1016/j.bbmt.2016.07.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbmt.2016.03.016"
+  },
+  "journal": "Biology of Blood and Marrow Transplantation",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Metabolic Syndrome after Hematopoietic Cell Transplantation: At the Intersection of Treatment Toxicity and Immune Dysfunction” [Biol Blood Marrow Transplant 2016;22:1159-1166]"
+}

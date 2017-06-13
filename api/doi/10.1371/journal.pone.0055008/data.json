@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381363200000,"doi":"10.1371/annotation/9a8447a4-bffe-445f-b323-7e200896aea9","type":"correction"},"doi":"10.1371/journal.pone.0055008","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: MiR-30a-5p Antisense Oligonucleotide Suppresses Glioma Cell Growth by Targeting SEPT7"}
+{
+  "retracted": false,
+  "timestamp": 1381363200000,
+  "updates": [
+    {
+      "timestamp": 1496053049163,
+      "identifier": {
+        "doi": "10.1371/annotation/9a8447a4-bffe-445f-b323-7e200896aea9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055008"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: MiR-30a-5p Antisense Oligonucleotide Suppresses Glioma Cell Growth by Targeting SEPT7"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435190400000,"doi":"10.2514/1.j054540","type":"correction"},"doi":"10.2514/1.j052088","journal":"AIAA Journal","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"New Look at Unsteady Supersonic Potential Flow Aerodynamics and Piston Theory"}
+{
+  "retracted": false,
+  "timestamp": 1435190400000,
+  "updates": [
+    {
+      "timestamp": 1496011520860,
+      "identifier": {
+        "doi": "10.2514/1.j054540"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.j052088"
+  },
+  "journal": "AIAA Journal",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "New Look at Unsteady Supersonic Potential Flow Aerodynamics and Piston Theory"
+}

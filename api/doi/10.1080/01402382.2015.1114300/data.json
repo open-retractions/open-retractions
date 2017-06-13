@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450915200000,"doi":"10.1080/01402382.2016.1127608","type":"correction"},"doi":"10.1080/01402382.2015.1114300","journal":"West European Politics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1450915200000,
+  "updates": [
+    {
+      "timestamp": 1496056264981,
+      "identifier": {
+        "doi": "10.1080/01402382.2016.1127608"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01402382.2015.1114300"
+  },
+  "journal": "West European Politics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

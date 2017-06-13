@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.ecss.2013.10.003","type":"err"},"doi":"10.1016/j.ecss.2013.01.018","journal":"Estuarine, Coastal and Shelf Science","publisher":"Elsevier BV","title":"Corrigendum to “Predicting estuarine use patterns of juvenile fish with Generalized Linear Models” [Est. Coast. Shelf Sci. 120 (2013) 64–74]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496053951700,
+      "identifier": {
+        "doi": "10.1016/j.ecss.2013.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecss.2013.01.018"
+  },
+  "journal": "Estuarine, Coastal and Shelf Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Predicting estuarine use patterns of juvenile fish with Generalized Linear Models” [Est. Coast. Shelf Sci. 120 (2013) 64–74]"
+}

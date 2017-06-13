@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431734400000,"doi":"10.1007/s00208-015-1227-7","type":"correction"},"doi":"10.1007/s00208-009-0428-3","journal":"Mathematische Annalen","publisher":"Springer Nature","title":"Erratum to: The Dirichlet problem associated to the relativistic heat equation"}
+{
+  "retracted": false,
+  "timestamp": 1431734400000,
+  "updates": [
+    {
+      "timestamp": 1495996714143,
+      "identifier": {
+        "doi": "10.1007/s00208-015-1227-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00208-009-0428-3"
+  },
+  "journal": "Mathematische Annalen",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Dirichlet problem associated to the relativistic heat equation"
+}

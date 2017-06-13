@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378944000000,"doi":"10.1371/annotation/8ce51727-91b0-463f-9b4c-768aab0a230a","type":"correction"},"doi":"10.1371/journal.pone.0043080","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Comparative Genomics Analysis of Mycobacterium ulcerans for the Identification of Putative Essential Genes and Therapeutic Candidates"}
+{
+  "retracted": false,
+  "timestamp": 1378944000000,
+  "updates": [
+    {
+      "timestamp": 1496047217531,
+      "identifier": {
+        "doi": "10.1371/annotation/8ce51727-91b0-463f-9b4c-768aab0a230a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0043080"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comparative Genomics Analysis of Mycobacterium ulcerans for the Identification of Putative Essential Genes and Therapeutic Candidates"
+}

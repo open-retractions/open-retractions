@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jqsrt.2014.03.002","type":"err"},"doi":"10.1016/j.jqsrt.2014.01.003","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Corrigendum to “Quantitative evaluation of uncertainties in satellite retrieval of dust-like aerosols induced by spherical assumption” [J. Quant. Spectrosc. Radiat. Transf. 136 (2014) 45–57]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496027125514,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2014.01.003"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantitative evaluation of uncertainties in satellite retrieval of dust-like aerosols induced by spherical assumption” [J. Quant. Spectrosc. Radiat. Transf. 136 (2014) 45–57]"
+}

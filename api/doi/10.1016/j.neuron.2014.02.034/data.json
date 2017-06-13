@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396396800000,"doi":"10.1016/j.neuron.2014.03.024","type":"erratum"},"doi":"10.1016/j.neuron.2014.02.034","journal":"Neuron","publisher":"Elsevier BV","title":"Time and Again"}
+{
+  "retracted": false,
+  "timestamp": 1396396800000,
+  "updates": [
+    {
+      "timestamp": 1496030382868,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.03.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.02.034"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Time and Again"
+}

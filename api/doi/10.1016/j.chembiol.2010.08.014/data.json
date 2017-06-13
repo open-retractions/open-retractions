@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369267200000,"doi":"10.1016/j.chembiol.2013.05.003","type":"err"},"doi":"10.1016/j.chembiol.2010.08.014","journal":"Chemistry & Biology","publisher":"Elsevier BV","title":"Identification and Evaluation of Small Molecule Pan-Caspase Inhibitors in Huntington’s Disease Models"}
+{
+  "retracted": false,
+  "timestamp": 1369267200000,
+  "updates": [
+    {
+      "timestamp": 1496021088596,
+      "identifier": {
+        "doi": "10.1016/j.chembiol.2013.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chembiol.2010.08.014"
+  },
+  "journal": "Chemistry & Biology",
+  "publisher": "Elsevier BV",
+  "title": "Identification and Evaluation of Small Molecule Pan-Caspase Inhibitors in Huntington’s Disease Models"
+}

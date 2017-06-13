@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1186/s12864-015-1337-3","type":"correction"},"doi":"10.1186/1471-2164-15-213","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum: Secretome weaponries of Cochliobolus lunatus interacting with potato leaf at different temperature regimes reveal a CL[xxxx]LHM - motif"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495996960195,
+      "identifier": {
+        "doi": "10.1186/s12864-015-1337-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2164-15-213"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Secretome weaponries of Cochliobolus lunatus interacting with potato leaf at different temperature regimes reveal a CL[xxxx]LHM - motif"
+}

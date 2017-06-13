@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445385600000,"doi":"10.1002/sim.6773","type":"correction"},"doi":"10.1002/sim.6577","journal":"Statistics in Medicine","publisher":"Wiley-Blackwell","title":"Correction - A statistical model for measurement error that incorporates variation over time in the target measure, with application to nutritional epidemiology"}
+{
+  "retracted": false,
+  "timestamp": 1445385600000,
+  "updates": [
+    {
+      "timestamp": 1496039673084,
+      "identifier": {
+        "doi": "10.1002/sim.6773"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1002/sim.6577"
+  },
+  "journal": "Statistics in Medicine",
+  "publisher": "Wiley-Blackwell",
+  "title": "Correction - A statistical model for measurement error that incorporates variation over time in the target measure, with application to nutritional epidemiology"
+}

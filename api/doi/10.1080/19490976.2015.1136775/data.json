@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460592000000,"doi":"10.1080/19490976.2016.1173498","type":"correction"},"doi":"10.1080/19490976.2015.1136775","journal":"Gut Microbes","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1460592000000,
+  "updates": [
+    {
+      "timestamp": 1495666723947,
+      "identifier": {
+        "doi": "10.1080/19490976.2016.1173498"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19490976.2015.1136775"
+  },
+  "journal": "Gut Microbes",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

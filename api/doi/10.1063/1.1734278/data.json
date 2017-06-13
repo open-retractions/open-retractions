@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-181526400000,"doi":"10.1063/1.1725449","type":"erratum"},"doi":"10.1063/1.1734278","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Magnetic Susceptibility of Partially Oxidized Copper Films at 25°C"}
+{
+  "retracted": false,
+  "timestamp": -181526400000,
+  "updates": [
+    {
+      "timestamp": 1495915340307,
+      "identifier": {
+        "doi": "10.1063/1.1725449"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1734278"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Magnetic Susceptibility of Partially Oxidized Copper Films at 25°C"
+}

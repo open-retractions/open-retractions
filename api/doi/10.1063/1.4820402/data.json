@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381449600000,"doi":"10.1063/1.4824740","type":"correction"},"doi":"10.1063/1.4820402","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Interplay between crystallization and glass transition in binary Lennard-Jones mixtures” [J. Chem. Phys. 139, 104501 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1381449600000,
+  "updates": [
+    {
+      "timestamp": 1496053507275,
+      "identifier": {
+        "doi": "10.1063/1.4824740"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820402"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Interplay between crystallization and glass transition in binary Lennard-Jones mixtures” [J. Chem. Phys. 139, 104501 (2013)]"
+}

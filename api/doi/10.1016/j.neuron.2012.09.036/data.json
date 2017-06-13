@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1358899200000,"doi":"10.1016/j.neuron.2013.01.004","type":"err"},"doi":"10.1016/j.neuron.2012.09.036","journal":"Neuron","publisher":"Elsevier BV","title":"Hippocampal Pyramidal Neurons Comprise Two Distinct Cell Types that Are Countermodulated by Metabotropic Receptors"}
+{
+  "retracted": false,
+  "timestamp": 1358899200000,
+  "updates": [
+    {
+      "timestamp": 1495987134258,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.09.036"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Hippocampal Pyramidal Neurons Comprise Two Distinct Cell Types that Are Countermodulated by Metabotropic Receptors"
+}

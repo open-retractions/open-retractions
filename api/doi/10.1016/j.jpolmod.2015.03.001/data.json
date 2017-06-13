@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jpolmod.2015.04.003","type":"err"},"doi":"10.1016/j.jpolmod.2015.03.001","journal":"Journal of Policy Modeling","publisher":"Elsevier BV","title":"Erratum to “Fiscal decentralization and China's regional infant mortality” [J. Policy Model. 37 (2015) 175–188]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495998969201,
+      "identifier": {
+        "doi": "10.1016/j.jpolmod.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpolmod.2015.03.001"
+  },
+  "journal": "Journal of Policy Modeling",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Fiscal decentralization and China's regional infant mortality” [J. Policy Model. 37 (2015) 175–188]"
+}

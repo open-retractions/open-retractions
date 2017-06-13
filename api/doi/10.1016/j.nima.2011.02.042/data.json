@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1016/j.nima.2014.07.050","type":"erratum"},"doi":"10.1016/j.nima.2011.02.042","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to “Cosmic ray tests of a GEM-based TPC prototype operated in Ar–CF4–isobutane gas mixtures” [Nuclear Instruments and Methods in Physics Research A 641 (2011) 37–47]"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1495998816271,
+      "identifier": {
+        "doi": "10.1016/j.nima.2014.07.050"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2011.02.042"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cosmic ray tests of a GEM-based TPC prototype operated in Ar–CF4–isobutane gas mixtures” [Nuclear Instruments and Methods in Physics Research A 641 (2011) 37–47]"
+}

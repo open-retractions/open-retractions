@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474329600000,"doi":"10.1016/j.celrep.2016.08.070","type":"erratum"},"doi":"10.1016/j.celrep.2015.12.096","journal":"Cell Reports","publisher":"Elsevier BV","title":"The Histone Chaperone FACT Contributes to DNA Replication-Coupled Nucleosome Assembly"}
+{
+  "retracted": false,
+  "timestamp": 1474329600000,
+  "updates": [
+    {
+      "timestamp": 1495641319958,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.08.070"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.12.096"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "The Histone Chaperone FACT Contributes to DNA Replication-Coupled Nucleosome Assembly"
+}

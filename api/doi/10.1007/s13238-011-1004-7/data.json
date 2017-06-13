@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1302048000000,"doi":"10.1007/s13238-011-1030-5","type":"correction"},"doi":"10.1007/s13238-011-1004-7","journal":"Protein & Cell","publisher":"Springer Nature","title":"Erratum to: Small GTPases and cilia"}
+{
+  "retracted": false,
+  "timestamp": 1302048000000,
+  "updates": [
+    {
+      "timestamp": 1495947946254,
+      "identifier": {
+        "doi": "10.1007/s13238-011-1030-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13238-011-1004-7"
+  },
+  "journal": "Protein & Cell",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Small GTPases and cilia"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377820800000,"doi":"10.1063/1.4819725","type":"correction"},"doi":"10.1063/1.4794280","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “On Lie systems and Kummer–Schwarz equations” [J. Math. Phys. 54, 033505 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1377820800000,
+  "updates": [
+    {
+      "timestamp": 1496043737485,
+      "identifier": {
+        "doi": "10.1063/1.4819725"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4794280"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On Lie systems and Kummer–Schwarz equations” [J. Math. Phys. 54, 033505 (2013)]"
+}

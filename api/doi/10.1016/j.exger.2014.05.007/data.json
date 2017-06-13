@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.exger.2016.09.014","type":"err"},"doi":"10.1016/j.exger.2014.05.007","journal":"Experimental Gerontology","publisher":"Elsevier BV","title":"Corrigendum to “Beta-caryophyllene modulates expression of stress response genes and mediates longevity in Caenorhabditis elegans” [Exp. Gerontol. 57 (2014) 81–95]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495644804295,
+      "identifier": {
+        "doi": "10.1016/j.exger.2016.09.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exger.2014.05.007"
+  },
+  "journal": "Experimental Gerontology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Beta-caryophyllene modulates expression of stress response genes and mediates longevity in Caenorhabditis elegans” [Exp. Gerontol. 57 (2014) 81–95]"
+}

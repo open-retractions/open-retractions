@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392854400000,"doi":"10.1007/s11244-014-0240-5","type":"correction"},"doi":"10.1007/s11244-013-0232-x","journal":"Topics in Catalysis","publisher":"Springer Nature","title":"Erratum to: Heterogeneous Catalytic Hydrogenation of Ethyl Acetate to Produce Ethanol"}
+{
+  "retracted": false,
+  "timestamp": 1392854400000,
+  "updates": [
+    {
+      "timestamp": 1496019863496,
+      "identifier": {
+        "doi": "10.1007/s11244-014-0240-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11244-013-0232-x"
+  },
+  "journal": "Topics in Catalysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Heterogeneous Catalytic Hydrogenation of Ethyl Acetate to Produce Ethanol"
+}

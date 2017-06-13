@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.bbamem.2014.01.012","type":"erratum"},"doi":"10.1016/j.bbamem.2013.09.012","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"A thermodynamic approach to alamethicin pore formation"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496013421887,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2014.01.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2013.09.012"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "A thermodynamic approach to alamethicin pore formation"
+}

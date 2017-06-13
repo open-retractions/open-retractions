@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327104000000,"doi":"10.1016/j.tet.2011.11.044","type":"err"},"doi":"10.1016/s0040-4020(99)00560-8","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to: a computational study of proton and electron affinities"}
+{
+  "retracted": false,
+  "timestamp": 1327104000000,
+  "updates": [
+    {
+      "timestamp": 1495847025355,
+      "identifier": {
+        "doi": "10.1016/j.tet.2011.11.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0040-4020(99)00560-8"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: a computational study of proton and electron affinities"
+}

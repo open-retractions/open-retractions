@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1186/s13019-015-0279-9","type":"correction"},"doi":"10.1186/s13019-014-0137-1","journal":"Journal of Cardiothoracic Surgery","publisher":"Springer Nature","title":"Erratum: Ventriculo-atrial defect after bioprosthetic aortic valve replacement"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496002368718,
+      "identifier": {
+        "doi": "10.1186/s13019-015-0279-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13019-014-0137-1"
+  },
+  "journal": "Journal of Cardiothoracic Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Ventriculo-atrial defect after bioprosthetic aortic valve replacement"
+}

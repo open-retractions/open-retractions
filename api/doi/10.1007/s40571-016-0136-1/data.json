@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1007/s40571-016-0146-z","type":"correction"},"doi":"10.1007/s40571-016-0136-1","journal":"Computational Particle Mechanics","publisher":"Springer Nature","title":"Erratum to: Comparing and contrasting size-based particle segregation models"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661004763,
+      "identifier": {
+        "doi": "10.1007/s40571-016-0146-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40571-016-0136-1"
+  },
+  "journal": "Computational Particle Mechanics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparing and contrasting size-based particle segregation models"
+}

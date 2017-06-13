@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368748800000,"doi":"10.1371/annotation/c08da7e7-60fe-4f7d-a457-299bf9f24148","type":"correction"},"doi":"10.1371/journal.pone.0046450","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Statistical Framework for Accurate Taxonomic Assignment of Metagenomic Sequencing Reads"}
+{
+  "retracted": false,
+  "timestamp": 1368748800000,
+  "updates": [
+    {
+      "timestamp": 1496020406287,
+      "identifier": {
+        "doi": "10.1371/annotation/c08da7e7-60fe-4f7d-a457-299bf9f24148"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0046450"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Statistical Framework for Accurate Taxonomic Assignment of Metagenomic Sequencing Reads"
+}

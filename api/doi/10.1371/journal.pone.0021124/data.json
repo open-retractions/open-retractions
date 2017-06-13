@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320710400000,"doi":"10.1371/annotation/77daccf9-9976-4d0e-b666-35a900cb2d17","type":"correction"},"doi":"10.1371/journal.pone.0021124","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Dipoid-Specific Genome Stability Genes of S. cerevisiae: Genomic Screen Reveals Haploidization as an Escape from Persisting DNA Rearrangement Stress"}
+{
+  "retracted": false,
+  "timestamp": 1320710400000,
+  "updates": [
+    {
+      "timestamp": 1495832683047,
+      "identifier": {
+        "doi": "10.1371/annotation/77daccf9-9976-4d0e-b666-35a900cb2d17"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0021124"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Dipoid-Specific Genome Stability Genes of S. cerevisiae: Genomic Screen Reveals Haploidization as an Escape from Persisting DNA Rearrangement Stress"
+}

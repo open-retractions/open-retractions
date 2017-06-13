@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1314576000000,"doi":"10.1371/annotation/0b9bab0d-1d20-46ad-b318-d2229cde0f6f","type":"correction"},"doi":"10.1371/journal.pbio.1001122","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Sucrose Utilization in Budding Yeast as a Model for the Origin of Undifferentiated Multicellularity"}
+{
+  "retracted": false,
+  "timestamp": 1314576000000,
+  "updates": [
+    {
+      "timestamp": 1495801141087,
+      "identifier": {
+        "doi": "10.1371/annotation/0b9bab0d-1d20-46ad-b318-d2229cde0f6f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1001122"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Sucrose Utilization in Budding Yeast as a Model for the Origin of Undifferentiated Multicellularity"
+}

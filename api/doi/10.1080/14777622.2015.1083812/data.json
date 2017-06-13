@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1080/14777622.2016.1131061","type":"correction"},"doi":"10.1080/14777622.2015.1083812","journal":"Astropolitics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655038413,
+      "identifier": {
+        "doi": "10.1080/14777622.2016.1131061"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14777622.2015.1083812"
+  },
+  "journal": "Astropolitics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

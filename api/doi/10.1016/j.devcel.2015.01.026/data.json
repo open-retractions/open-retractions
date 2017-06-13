@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430697600000,"doi":"10.1016/j.devcel.2015.04.002","type":"err"},"doi":"10.1016/j.devcel.2015.01.026","journal":"Developmental Cell","publisher":"Elsevier BV","title":"TSC1 Activates TGF-β-Smad2/3 Signaling in Growth Arrest and Epithelial-to-Mesenchymal Transition"}
+{
+  "retracted": false,
+  "timestamp": 1430697600000,
+  "updates": [
+    {
+      "timestamp": 1495997681357,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2015.01.026"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "TSC1 Activates TGF-β-Smad2/3 Signaling in Growth Arrest and Epithelial-to-Mesenchymal Transition"
+}

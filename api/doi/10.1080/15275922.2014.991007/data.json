@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433894400000,"doi":"10.1080/15275922.2015.1040694","type":"correction"},"doi":"10.1080/15275922.2014.991007","journal":"Environmental Forensics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1433894400000,
+  "updates": [
+    {
+      "timestamp": 1496006499818,
+      "identifier": {
+        "doi": "10.1080/15275922.2015.1040694"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15275922.2014.991007"
+  },
+  "journal": "Environmental Forensics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

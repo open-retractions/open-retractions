@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459555200000,"doi":"10.1007/s10915-016-0192-y","type":"correction"},"doi":"10.1007/s10915-016-0171-3","journal":"Journal of Scientific Computing","publisher":"Springer Nature","title":"Erratum to: Fast Computing of Conformal Mapping and Its Inverse of Bounded Multiply Connected Regions onto Second, Third and Fourth Categories of Koebe’s Canonical Slit Regions"}
+{
+  "retracted": false,
+  "timestamp": 1459555200000,
+  "updates": [
+    {
+      "timestamp": 1495658531332,
+      "identifier": {
+        "doi": "10.1007/s10915-016-0192-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10915-016-0171-3"
+  },
+  "journal": "Journal of Scientific Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fast Computing of Conformal Mapping and Its Inverse of Bounded Multiply Connected Regions onto Second, Third and Fourth Categories of Koebe’s Canonical Slit Regions"
+}

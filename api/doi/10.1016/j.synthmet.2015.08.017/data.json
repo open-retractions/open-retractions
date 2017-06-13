@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.synthmet.2016.03.036","type":"erratum"},"doi":"10.1016/j.synthmet.2015.08.017","journal":"Synthetic Metals","publisher":"Elsevier BV","title":"Corrigendum to “Ag/CNT nanocomposites and their single- and double-layer electromagnetic wave absorption properties” [Synth. Met. 209 (2015) 383–388]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495673650872,
+      "identifier": {
+        "doi": "10.1016/j.synthmet.2016.03.036"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.synthmet.2015.08.017"
+  },
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ag/CNT nanocomposites and their single- and double-layer electromagnetic wave absorption properties” [Synth. Met. 209 (2015) 383–388]"
+}

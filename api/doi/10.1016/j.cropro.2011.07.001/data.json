@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.cropro.2013.12.001","type":"err"},"doi":"10.1016/j.cropro.2011.07.001","journal":"Crop Protection","publisher":"Elsevier BV","title":"Corrigendum to “Diclofop resistance in sterile wild oat (Avena sterilis L.) in wheat fields in Greece and its management by other post-emergence herbicides” [Crop Prot. 30 (2011) 1449–1454]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496006528892,
+      "identifier": {
+        "doi": "10.1016/j.cropro.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cropro.2011.07.001"
+  },
+  "journal": "Crop Protection",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Diclofop resistance in sterile wild oat (Avena sterilis L.) in wheat fields in Greece and its management by other post-emergence herbicides” [Crop Prot. 30 (2011) 1449–1454]"
+}

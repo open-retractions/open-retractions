@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1007/s11837-016-1990-2","type":"correction"},"doi":"10.1007/s11837-016-1890-5","journal":"JOM","publisher":"Springer Nature","title":"Erratum to: Modeling the Microstructure Evolution During Additive Manufacturing of Ti6Al4V: A Comparison Between Electron Beam Melting and Selective Laser Melting"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495721608805,
+      "identifier": {
+        "doi": "10.1007/s11837-016-1990-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11837-016-1890-5"
+  },
+  "journal": "JOM",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Modeling the Microstructure Evolution During Additive Manufacturing of Ti6Al4V: A Comparison Between Electron Beam Melting and Selective Laser Melting"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1275696000000,"doi":"10.1007/s00125-010-1769-x","type":"correction"},"doi":"10.1007/s00125-009-1642-y","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Dimorphic histopathology of long-standing childhood-onset diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1275696000000,
+  "updates": [
+    {
+      "timestamp": 1495847985031,
+      "identifier": {
+        "doi": "10.1007/s00125-010-1769-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-009-1642-y"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dimorphic histopathology of long-standing childhood-onset diabetes"
+}

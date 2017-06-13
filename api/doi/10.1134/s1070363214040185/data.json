@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415923200000,"doi":"10.1134/s1070363214100387","type":"correction"},"doi":"10.1134/s1070363214040185","journal":"Russian Journal of General Chemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Nucleophilic Substitution in 4-Bromo-5-nitrophthalodinitrile: XI. Preparation, Properties, and Prediction of Mesomorphism in Mixed-Substituted Phthalocyanines Containing Aryloxy and Benzotriazole Fragments”"}
+{
+  "retracted": false,
+  "timestamp": 1415923200000,
+  "updates": [
+    {
+      "timestamp": 1496021433665,
+      "identifier": {
+        "doi": "10.1134/s1070363214100387"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1070363214040185"
+  },
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Nucleophilic Substitution in 4-Bromo-5-nitrophthalodinitrile: XI. Preparation, Properties, and Prediction of Mesomorphism in Mixed-Substituted Phthalocyanines Containing Aryloxy and Benzotriazole Fragments”"
+}

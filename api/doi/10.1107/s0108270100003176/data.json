@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1308096000000,"doi":"10.1107/s0108270111014077","type":"correction"},"doi":"10.1107/s0108270100003176","journal":"Acta Crystallographica Section C Crystal Structure Communications","publisher":"International Union of Crystallography (IUCr)","title":"Bis(2,4-pentanedionato)cobalt(II)"}
+{
+  "retracted": false,
+  "timestamp": 1308096000000,
+  "updates": [
+    {
+      "timestamp": 1495954750848,
+      "identifier": {
+        "doi": "10.1107/s0108270111014077"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108270100003176"
+  },
+  "journal": "Acta Crystallographica Section C Crystal Structure Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Bis(2,4-pentanedionato)cobalt(II)"
+}

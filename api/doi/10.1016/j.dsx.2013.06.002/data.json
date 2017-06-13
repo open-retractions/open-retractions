@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.dsx.2013.08.004","type":"err"},"doi":"10.1016/j.dsx.2013.06.002","journal":"Diabetes & Metabolic Syndrome: Clinical Research & Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Gender differences in prediabetes and insulin resistance among 1356 obese children in Northern California” [Diabetes Metab. Syndrome: Clin. Res. Rev. 7 (2013) 161–165]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496044519377,
+      "identifier": {
+        "doi": "10.1016/j.dsx.2013.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsx.2013.06.002"
+  },
+  "journal": "Diabetes & Metabolic Syndrome: Clinical Research & Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gender differences in prediabetes and insulin resistance among 1356 obese children in Northern California” [Diabetes Metab. Syndrome: Clin. Res. Rev. 7 (2013) 161–165]"
+}

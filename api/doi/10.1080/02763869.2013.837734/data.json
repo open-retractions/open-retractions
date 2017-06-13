@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392336000000,"doi":"10.1080/02763869.2014.881658","type":"correction"},"doi":"10.1080/02763869.2013.837734","journal":"Medical Reference Services Quarterly","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1392336000000,
+  "updates": [
+    {
+      "timestamp": 1496019072588,
+      "identifier": {
+        "doi": "10.1080/02763869.2014.881658"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02763869.2013.837734"
+  },
+  "journal": "Medical Reference Services Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

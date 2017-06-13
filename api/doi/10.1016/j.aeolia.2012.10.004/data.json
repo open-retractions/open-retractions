@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.aeolia.2014.04.001","type":"err"},"doi":"10.1016/j.aeolia.2012.10.004","journal":"Aeolian Research","publisher":"Elsevier BV","title":"Corrigendum to “Arsenic concentrations in dust emissions from wind erosion and off-road vehicles in the Nellis Dunes Recreational Area, Nevada USA” [Aeolian Res. 5 (2012) 77–89]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496036920588,
+      "identifier": {
+        "doi": "10.1016/j.aeolia.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aeolia.2012.10.004"
+  },
+  "journal": "Aeolian Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Arsenic concentrations in dust emissions from wind erosion and off-road vehicles in the Nellis Dunes Recreational Area, Nevada USA” [Aeolian Res. 5 (2012) 77–89]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456963200000,"doi":"10.1038/npjpcrm.2016.12","type":"correction"},"doi":"10.1038/npjpcrm.2015.81","journal":"npj Primary Care Respiratory Medicine","publisher":"Springer Nature","title":"Erratum: Combating cough"}
+{
+  "retracted": false,
+  "timestamp": 1456963200000,
+  "updates": [
+    {
+      "timestamp": 1495650392149,
+      "identifier": {
+        "doi": "10.1038/npjpcrm.2016.12"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/npjpcrm.2015.81"
+  },
+  "journal": "npj Primary Care Respiratory Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Combating cough"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1007/s00210-014-1049-2","type":"correction"},"doi":"10.1007/s00210-014-1039-4","journal":"Naunyn-Schmiedeberg's Archives of Pharmacology","publisher":"Springer Nature","title":"Erratum to: Rat β3-adrenoceptor protein expression: antibody validation and distribution in rat gastrointestinal and urogenital tissues"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496008077082,
+      "identifier": {
+        "doi": "10.1007/s00210-014-1049-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00210-014-1039-4"
+  },
+  "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rat β3-adrenoceptor protein expression: antibody validation and distribution in rat gastrointestinal and urogenital tissues"
+}

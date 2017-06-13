@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433980800000,"doi":"10.1016/j.nima.2015.03.026","type":"err"},"doi":"10.1016/j.nima.2012.09.019","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to “Simplification of the DREAM collaboration׳s ‘Q/S method’ in dual readout calorimetry analysis”"}
+{
+  "retracted": false,
+  "timestamp": 1433980800000,
+  "updates": [
+    {
+      "timestamp": 1497296415632,
+      "identifier": {
+        "doi": "10.1016/j.nima.2015.03.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2012.09.019"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simplification of the DREAM collaboration׳s ‘Q/S method’ in dual readout calorimetry analysis”"
+}

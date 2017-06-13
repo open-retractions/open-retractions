@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482364800000,"doi":"10.1038/srep39364","type":"correction"},"doi":"10.1038/srep35458","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Changes in Central Asia’s Water Tower: Past, Present and Future"}
+{
+  "retracted": false,
+  "timestamp": 1482364800000,
+  "updates": [
+    {
+      "timestamp": 1495664888336,
+      "identifier": {
+        "doi": "10.1038/srep39364"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep35458"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Changes in Central Asia’s Water Tower: Past, Present and Future"
+}

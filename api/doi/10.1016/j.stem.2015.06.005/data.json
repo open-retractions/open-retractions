@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438819200000,"doi":"10.1016/j.stem.2015.07.015","type":"erratum"},"doi":"10.1016/j.stem.2015.06.005","journal":"Cell Stem Cell","publisher":"Elsevier BV","title":"CRISPR-Cas9-Mediated Genetic Screening in Mice with Haploid Embryonic Stem Cells Carrying a Guide RNA Library"}
+{
+  "retracted": false,
+  "timestamp": 1438819200000,
+  "updates": [
+    {
+      "timestamp": 1496020612168,
+      "identifier": {
+        "doi": "10.1016/j.stem.2015.07.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stem.2015.06.005"
+  },
+  "journal": "Cell Stem Cell",
+  "publisher": "Elsevier BV",
+  "title": "CRISPR-Cas9-Mediated Genetic Screening in Mice with Haploid Embryonic Stem Cells Carrying a Guide RNA Library"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425945600000,"doi":"10.14366/usg.14062","type":"correction"},"doi":"10.14366/usg.14062","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Photoacoustic imaging platforms for multimodal imaging"}
+{
+  "retracted": false,
+  "timestamp": 1425945600000,
+  "updates": [
+    {
+      "timestamp": 1496044121274,
+      "identifier": {
+        "doi": "10.14366/usg.14062"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.14062"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Photoacoustic imaging platforms for multimodal imaging"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1136/annrheumdis-2012-202106corr1","type":"correction"},"doi":"10.1136/annrheumdis-2012-202106","journal":"Annals of the Rheumatic Diseases","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496000970982,
+      "identifier": {
+        "doi": "10.1136/annrheumdis-2012-202106corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/annrheumdis-2012-202106"
+  },
+  "journal": "Annals of the Rheumatic Diseases",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

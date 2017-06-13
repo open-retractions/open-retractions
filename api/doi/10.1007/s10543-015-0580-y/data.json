@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448582400000,"doi":"10.1007/s10543-015-0591-8","type":"correction"},"doi":"10.1007/s10543-015-0580-y","journal":"BIT Numerical Mathematics","publisher":"Springer Nature","title":"Erratum to: A note on the motion representation and configuration update in time stepping schemes for the constrained rigid body"}
+{
+  "retracted": false,
+  "timestamp": 1448582400000,
+  "updates": [
+    {
+      "timestamp": 1496049176336,
+      "identifier": {
+        "doi": "10.1007/s10543-015-0591-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10543-015-0580-y"
+  },
+  "journal": "BIT Numerical Mathematics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A note on the motion representation and configuration update in time stepping schemes for the constrained rigid body"
+}

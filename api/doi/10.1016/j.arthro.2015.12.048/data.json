@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.arthro.2016.09.011","type":"err"},"doi":"10.1016/j.arthro.2015.12.048","journal":"Arthroscopy: The Journal of Arthroscopic & Related Surgery","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495653549191,
+      "identifier": {
+        "doi": "10.1016/j.arthro.2016.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.arthro.2015.12.048"
+  },
+  "journal": "Arthroscopy: The Journal of Arthroscopic & Related Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

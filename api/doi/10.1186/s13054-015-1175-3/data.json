@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453680000000,"doi":"10.1186/s13054-016-1203-y","type":"correction"},"doi":"10.1186/s13054-015-1175-3","journal":"Critical Care","publisher":"Springer Nature","title":"Erratum to: A commentary on the 2015 Canadian Clinical Practice Guidelines in glutamine supplementation to parenteral nutrition"}
+{
+  "retracted": false,
+  "timestamp": 1453680000000,
+  "updates": [
+    {
+      "timestamp": 1495639304554,
+      "identifier": {
+        "doi": "10.1186/s13054-016-1203-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13054-015-1175-3"
+  },
+  "journal": "Critical Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A commentary on the 2015 Canadian Clinical Practice Guidelines in glutamine supplementation to parenteral nutrition"
+}

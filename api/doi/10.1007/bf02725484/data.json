@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200960000000,"doi":"10.1007/bf02721274","type":"correction"},"doi":"10.1007/bf02725484","journal":"Il Nuovo Cimento B","publisher":"Springer Nature","title":"Erratum to: Entropy of biocompounds in the solid phase"}
+{
+  "retracted": false,
+  "timestamp": 1200960000000,
+  "updates": [
+    {
+      "timestamp": 1495820038702,
+      "identifier": {
+        "doi": "10.1007/bf02721274"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02725484"
+  },
+  "journal": "Il Nuovo Cimento B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Entropy of biocompounds in the solid phase"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410220800000,"doi":"10.1017/s0360966900031121","type":"correction"},"doi":"10.1017/s0360966900030735","journal":"Horizons","publisher":"Cambridge University Press (CUP)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1410220800000,
+  "updates": [
+    {
+      "timestamp": 1495512050813,
+      "identifier": {
+        "doi": "10.1017/s0360966900031121"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0360966900030735"
+  },
+  "journal": "Horizons",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Erratum"
+}

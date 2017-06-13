@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426636800000,"doi":"10.1063/1.4913728","type":"correction"},"doi":"10.1063/1.4748184","journal":"Journal of Physical and Chemical Reference Data","publisher":"AIP Publishing","title":"Erratum: “Values of the Krichevskii parameter, AKr, of aqueous nonelectrolytes evaluated from relevant experimental data” [J. Phys. Chem. Ref. Data 41, 033104 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1426636800000,
+  "updates": [
+    {
+      "timestamp": 1496051857425,
+      "identifier": {
+        "doi": "10.1063/1.4913728"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4748184"
+  },
+  "journal": "Journal of Physical and Chemical Reference Data",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Values of the Krichevskii parameter, AKr, of aqueous nonelectrolytes evaluated from relevant experimental data” [J. Phys. Chem. Ref. Data 41, 033104 (2012)]"
+}

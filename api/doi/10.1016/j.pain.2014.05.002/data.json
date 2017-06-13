@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.pain.2014.07.013","type":"err"},"doi":"10.1016/j.pain.2014.05.002","journal":"Pain","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Corrigendum to: “Shared genetic factors underlie the chronic pain syndromes” [PAIN® 2014;155(8):1562–68]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495995460978,
+      "identifier": {
+        "doi": "10.1016/j.pain.2014.07.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pain.2014.05.002"
+  },
+  "journal": "Pain",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Corrigendum to: “Shared genetic factors underlie the chronic pain syndromes” [PAIN® 2014;155(8):1562–68]"
+}

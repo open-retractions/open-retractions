@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452297600000,"doi":"10.1007/s13277-015-4658-6","type":"correction"},"doi":"10.1007/s13277-015-3539-3","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Promyelocytic leukemia protein enhances apoptosis of gastric cancer cells through Yes-associated protein"}
+{
+  "retracted": false,
+  "timestamp": 1452297600000,
+  "updates": [
+    {
+      "timestamp": 1496059171625,
+      "identifier": {
+        "doi": "10.1007/s13277-015-4658-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-3539-3"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Promyelocytic leukemia protein enhances apoptosis of gastric cancer cells through Yes-associated protein"
+}

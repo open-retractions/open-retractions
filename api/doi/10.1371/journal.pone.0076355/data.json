@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383091200000,"doi":"10.1371/annotation/cb60d973-58aa-45e0-bbb3-1c7f5a42a8d2","type":"correction"},"doi":"10.1371/journal.pone.0076355","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Crystal Structure of the Human Short Coiled Coil Protein and Insights into SCOC-FEZ1 Complex Formation"}
+{
+  "retracted": false,
+  "timestamp": 1383091200000,
+  "updates": [
+    {
+      "timestamp": 1495993950606,
+      "identifier": {
+        "doi": "10.1371/annotation/cb60d973-58aa-45e0-bbb3-1c7f5a42a8d2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0076355"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Crystal Structure of the Human Short Coiled Coil Protein and Insights into SCOC-FEZ1 Complex Formation"
+}

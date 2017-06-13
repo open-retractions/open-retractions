@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489363200000,"doi":"10.1186/s12864-017-3611-z","type":"correction"},"doi":"10.1186/s12864-015-1925-2","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Bimodal dynamics of primary metabolism-related responses in tolerant potato-Potato virus Y interaction"}
+{
+  "retracted": false,
+  "timestamp": 1489363200000,
+  "updates": [
+    {
+      "timestamp": 1495728581820,
+      "identifier": {
+        "doi": "10.1186/s12864-017-3611-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-015-1925-2"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bimodal dynamics of primary metabolism-related responses in tolerant potato-Potato virus Y interaction"
+}

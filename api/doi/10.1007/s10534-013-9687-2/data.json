@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1007/s10534-014-9818-4","type":"correction"},"doi":"10.1007/s10534-013-9687-2","journal":"BioMetals","publisher":"Springer Nature","title":"Erratum to: The lipidome of the photosynthetic bacterium Rhodobacter sphaeroides R26 is affected by cobalt and chromate ions stress"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496037129039,
+      "identifier": {
+        "doi": "10.1007/s10534-014-9818-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10534-013-9687-2"
+  },
+  "journal": "BioMetals",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The lipidome of the photosynthetic bacterium Rhodobacter sphaeroides R26 is affected by cobalt and chromate ions stress"
+}

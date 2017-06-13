@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1016/j.jneuroim.2016.05.001","type":"err"},"doi":"10.1016/j.jneuroim.2015.07.007","journal":"Journal of Neuroimmunology","publisher":"Elsevier BV","title":"Corrigendum to “Antibodies to dendritic neuronal surface antigens in opsoclonus myoclonus ataxia syndrome” [J. Neuroimmunol. 286 (2015) 86–92]"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495718226585,
+      "identifier": {
+        "doi": "10.1016/j.jneuroim.2016.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneuroim.2015.07.007"
+  },
+  "journal": "Journal of Neuroimmunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Antibodies to dendritic neuronal surface antigens in opsoclonus myoclonus ataxia syndrome” [J. Neuroimmunol. 286 (2015) 86–92]"
+}

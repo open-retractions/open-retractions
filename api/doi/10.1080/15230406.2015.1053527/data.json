@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439164800000,"doi":"10.1080/15230406.2015.1064631","type":"correction"},"doi":"10.1080/15230406.2015.1053527","journal":"Cartography and Geographic Information Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1439164800000,
+  "updates": [
+    {
+      "timestamp": 1496021598351,
+      "identifier": {
+        "doi": "10.1080/15230406.2015.1064631"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15230406.2015.1053527"
+  },
+  "journal": "Cartography and Geographic Information Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

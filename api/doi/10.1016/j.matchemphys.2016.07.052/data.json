@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.matchemphys.2016.12.043","type":"erratum"},"doi":"10.1016/j.matchemphys.2016.07.052","journal":"Materials Chemistry and Physics","publisher":"Elsevier BV","title":"Corrigendum to “Bulk monocrystal growth, optical, dielectric, third order nonlinear, thermal and mechanical studies on HCl added l-alanine: An organic NLO material” [Mater. Chem. Phys. 184 (2016) 12–22]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495678338634,
+      "identifier": {
+        "doi": "10.1016/j.matchemphys.2016.12.043"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matchemphys.2016.07.052"
+  },
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bulk monocrystal growth, optical, dielectric, third order nonlinear, thermal and mechanical studies on HCl added l-alanine: An organic NLO material” [Mater. Chem. Phys. 184 (2016) 12–22]"
+}

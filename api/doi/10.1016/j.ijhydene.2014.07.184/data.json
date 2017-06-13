@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428278400000,"doi":"10.1016/j.ijhydene.2015.02.017","type":"err"},"doi":"10.1016/j.ijhydene.2014.07.184","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Enhanced performance of solid oxide fuel cells by introducing a transition layer between nanostructured cathode and electrolyte” [Int J Hydrogen Energy 40 (2015) 501–508]"}
+{
+  "retracted": false,
+  "timestamp": 1428278400000,
+  "updates": [
+    {
+      "timestamp": 1496046357886,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2015.02.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2014.07.184"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enhanced performance of solid oxide fuel cells by introducing a transition layer between nanostructured cathode and electrolyte” [Int J Hydrogen Energy 40 (2015) 501–508]"
+}

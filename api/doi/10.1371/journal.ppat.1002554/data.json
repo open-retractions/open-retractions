@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332892800000,"doi":"10.1371/annotation/ef70d427-0816-4a63-aeaf-874b734793b0","type":"correction"},"doi":"10.1371/journal.ppat.1002554","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: A Putative Homologue of CDC20/CDH1 in the Malaria Parasite Is Essential for Male Gamete Development"}
+{
+  "retracted": false,
+  "timestamp": 1332892800000,
+  "updates": [
+    {
+      "timestamp": 1495888296430,
+      "identifier": {
+        "doi": "10.1371/annotation/ef70d427-0816-4a63-aeaf-874b734793b0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002554"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Putative Homologue of CDC20/CDH1 in the Malaria Parasite Is Essential for Male Gamete Development"
+}

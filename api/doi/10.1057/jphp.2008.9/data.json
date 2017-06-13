@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1254700800000,"doi":"10.1057/jphp.2009.29","type":"correction"},"doi":"10.1057/jphp.2008.9","journal":"Journal of Public Health Policy","publisher":"Springer Nature","title":"Erratum: State Sales Tax Rates for Soft Drinks and Snacks Sold through Grocery Stores and Vending Machines, 2007"}
+{
+  "retracted": false,
+  "timestamp": 1254700800000,
+  "updates": [
+    {
+      "timestamp": 1495973329069,
+      "identifier": {
+        "doi": "10.1057/jphp.2009.29"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jphp.2008.9"
+  },
+  "journal": "Journal of Public Health Policy",
+  "publisher": "Springer Nature",
+  "title": "Erratum: State Sales Tax Rates for Soft Drinks and Snacks Sold through Grocery Stores and Vending Machines, 2007"
+}

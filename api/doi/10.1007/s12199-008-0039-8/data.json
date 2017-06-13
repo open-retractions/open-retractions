@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1238803200000,"doi":"10.1007/s12199-009-0084-y","type":"correction"},"doi":"10.1007/s12199-008-0039-8","journal":"Environmental Health and Preventive Medicine","publisher":"Springer Nature","title":"Hiroshima survivors exposed to very low doses of A-bomb primary radiation showed a high risk for cancers"}
+{
+  "retracted": false,
+  "timestamp": 1238803200000,
+  "updates": [
+    {
+      "timestamp": 1495926265637,
+      "identifier": {
+        "doi": "10.1007/s12199-009-0084-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12199-008-0039-8"
+  },
+  "journal": "Environmental Health and Preventive Medicine",
+  "publisher": "Springer Nature",
+  "title": "Hiroshima survivors exposed to very low doses of A-bomb primary radiation showed a high risk for cancers"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.watres.2013.06.046","type":"err"},"doi":"10.1016/j.watres.2012.06.023","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Temporal flux and spatial dynamics of nutrients, fecal indicators, and zoonotic pathogens in anaerobic swine manure lagoon water” [Water Res. 46 (16) (2012) 4949–4960]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496032731552,
+      "identifier": {
+        "doi": "10.1016/j.watres.2013.06.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2012.06.023"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Temporal flux and spatial dynamics of nutrients, fecal indicators, and zoonotic pathogens in anaerobic swine manure lagoon water” [Water Res. 46 (16) (2012) 4949–4960]"
+}

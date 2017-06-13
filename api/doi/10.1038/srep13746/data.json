@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1038/srep18522","type":"correction"},"doi":"10.1038/srep13746","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Revealing the nanoparticles aspect ratio in the glass-metal nanocomposites irradiated with femtosecond laser"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640246605,
+      "identifier": {
+        "doi": "10.1038/srep18522"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep13746"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Revealing the nanoparticles aspect ratio in the glass-metal nanocomposites irradiated with femtosecond laser"
+}

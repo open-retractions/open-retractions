@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229904000000,"doi":"10.1084/jem.20081623120508c","type":"correction"},"doi":"10.1084/jem.20081623","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Altered kinetics of nonhomologous end joining and class switch recombination in ligase IV–deficient B cells"}
+{
+  "retracted": false,
+  "timestamp": 1229904000000,
+  "updates": [
+    {
+      "timestamp": 1495895168241,
+      "identifier": {
+        "doi": "10.1084/jem.20081623120508c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20081623"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Altered kinetics of nonhomologous end joining and class switch recombination in ligase IV–deficient B cells"
+}

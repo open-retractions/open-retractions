@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1136/bcr-2016-215914corr1","type":"correction"},"doi":"10.1136/bcr-2016-215914","journal":"BMJ Case Reports","publisher":"BMJ","title":"Correction:Aortic valve replacement for Libman-Sacks endocarditis"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495660274659,
+      "identifier": {
+        "doi": "10.1136/bcr-2016-215914corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bcr-2016-215914"
+  },
+  "journal": "BMJ Case Reports",
+  "publisher": "BMJ",
+  "title": "Correction:Aortic valve replacement for Libman-Sacks endocarditis"
+}

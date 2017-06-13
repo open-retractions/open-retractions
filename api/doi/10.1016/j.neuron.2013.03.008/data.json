@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365552000000,"doi":"10.1016/j.neuron.2013.03.015","type":"err"},"doi":"10.1016/j.neuron.2013.03.008","journal":"Neuron","publisher":"Elsevier BV","title":"Neuronal Morphology Goes Digital: A Research Hub for Cellular and System Neuroscience"}
+{
+  "retracted": false,
+  "timestamp": 1365552000000,
+  "updates": [
+    {
+      "timestamp": 1496012698739,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.03.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.03.008"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Neuronal Morphology Goes Digital: A Research Hub for Cellular and System Neuroscience"
+}

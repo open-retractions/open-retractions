@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1136/bjsports-2013-092329corr1","type":"correction"},"doi":"10.1136/bjsports-2013-092329","journal":"British Journal of Sports Medicine","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1491905464769,
+      "identifier": {
+        "doi": "10.1136/bjsports-2013-092329corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bjsports-2013-092329"
+  },
+  "journal": "British Journal of Sports Medicine",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

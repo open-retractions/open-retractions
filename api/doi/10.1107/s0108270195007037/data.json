@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":987292800000,"doi":"10.1107/s010827010002045x","type":"correction"},"doi":"10.1107/s0108270195007037","journal":"Acta Crystallographica Section C Crystal Structure Communications","publisher":"International Union of Crystallography (IUCr)","title":"Tricoccin R2. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 987292800000,
+  "updates": [
+    {
+      "timestamp": 1495878265234,
+      "identifier": {
+        "doi": "10.1107/s010827010002045x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108270195007037"
+  },
+  "journal": "Acta Crystallographica Section C Crystal Structure Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Tricoccin R2. Erratum"
+}

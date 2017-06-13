@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1120521600000,"doi":"10.1073/pnas.0504548102","type":"correction"},"doi":"10.1073/pnas.0403572101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"errata for Davis et al., Recombinant NY-ESO-1 protein with ISCOMATRIX adjuvant induces broad integrated antibody and CD4+ and CD8+ T cell responses in humans, PNAS 2004 101:10697-10702"}
+{
+  "retracted": false,
+  "timestamp": 1120521600000,
+  "updates": [
+    {
+      "timestamp": 1495945671828,
+      "identifier": {
+        "doi": "10.1073/pnas.0504548102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0403572101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "errata for Davis et al., Recombinant NY-ESO-1 protein with ISCOMATRIX adjuvant induces broad integrated antibody and CD4+ and CD8+ T cell responses in humans, PNAS 2004 101:10697-10702"
+}

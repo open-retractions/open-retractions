@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469059200000,"doi":"10.1371/journal.pone.0160081","type":"correction"},"doi":"10.1371/journal.pone.0151561","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A First Insight into the Genome of the Filter-Feeder Mussel Mytilus galloprovincialis"}
+{
+  "retracted": false,
+  "timestamp": 1469059200000,
+  "updates": [
+    {
+      "timestamp": 1495727564995,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0160081"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0151561"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A First Insight into the Genome of the Filter-Feeder Mussel Mytilus galloprovincialis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226016000000,"doi":"10.1007/bf02523949","type":"correction"},"doi":"10.1007/bf02522151","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum au Bulletin Géodésique # 114 du 1er Décembre 1974"}
+{
+  "retracted": false,
+  "timestamp": 1226016000000,
+  "updates": [
+    {
+      "timestamp": 1495914172567,
+      "identifier": {
+        "doi": "10.1007/bf02523949"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02522151"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum au Bulletin Géodésique # 114 du 1er Décembre 1974"
+}

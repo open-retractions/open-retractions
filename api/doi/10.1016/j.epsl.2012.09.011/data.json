@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.epsl.2014.01.051","type":"err"},"doi":"10.1016/j.epsl.2012.09.011","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Jarosite dissolution rates and maximum lifetimes in high salinity brines: Implications for Earth and Mars” [Earth Planet. Sci. Lett. 357–358 (2012) 327–336]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496017915004,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2014.01.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2012.09.011"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Jarosite dissolution rates and maximum lifetimes in high salinity brines: Implications for Earth and Mars” [Earth Planet. Sci. Lett. 357–358 (2012) 327–336]"
+}

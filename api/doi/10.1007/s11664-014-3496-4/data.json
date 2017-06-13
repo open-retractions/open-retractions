@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424217600000,"doi":"10.1007/s11664-015-3690-z","type":"correction"},"doi":"10.1007/s11664-014-3496-4","journal":"Journal of Electronic Materials","publisher":"Springer Nature","title":"Erratum to: Structural and Thermoelectric Properties of Nanocrystalline Bismuth Telluride Thin Films Under Compressive and Tensile Strain"}
+{
+  "retracted": false,
+  "timestamp": 1424217600000,
+  "updates": [
+    {
+      "timestamp": 1496044518214,
+      "identifier": {
+        "doi": "10.1007/s11664-015-3690-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11664-014-3496-4"
+  },
+  "journal": "Journal of Electronic Materials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Structural and Thermoelectric Properties of Nanocrystalline Bismuth Telluride Thin Films Under Compressive and Tensile Strain"
+}

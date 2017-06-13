@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438128000000,"doi":"10.1016/j.msea.2015.06.073","type":"err"},"doi":"10.1016/j.msea.2010.04.021","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to “Environmental resistance and mechanical performance of basalt and glass fibers” [Mater. Sci. & Eng. A, 527, 4708–4715]"}
+{
+  "retracted": false,
+  "timestamp": 1438128000000,
+  "updates": [
+    {
+      "timestamp": 1496010287401,
+      "identifier": {
+        "doi": "10.1016/j.msea.2015.06.073"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2010.04.021"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Environmental resistance and mechanical performance of basalt and glass fibers” [Mater. Sci. & Eng. A, 527, 4708–4715]"
+}

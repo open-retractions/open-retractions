@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448841600000,"doi":"10.1016/j.vetpar.2015.10.008","type":"err"},"doi":"10.1016/j.vetpar.2013.11.014","journal":"Veterinary Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “Longitudinal prevalence, oocyst shedding and molecular characterisation of Cryptosporidium species in sheep across four states in Australia” [Vet. Parasitol. 200 (2014) 50–58]"}
+{
+  "retracted": false,
+  "timestamp": 1448841600000,
+  "updates": [
+    {
+      "timestamp": 1496042419671,
+      "identifier": {
+        "doi": "10.1016/j.vetpar.2015.10.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetpar.2013.11.014"
+  },
+  "journal": "Veterinary Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Longitudinal prevalence, oocyst shedding and molecular characterisation of Cryptosporidium species in sheep across four states in Australia” [Vet. Parasitol. 200 (2014) 50–58]"
+}

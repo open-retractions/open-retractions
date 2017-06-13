@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.jcrysgro.2015.05.001","type":"err"},"doi":"10.1016/j.jcrysgro.2014.07.025","journal":"Journal of Crystal Growth","publisher":"Elsevier BV","title":"Corrigendum to “MOCVD-grown compressively strained C-doped InxGa1−xAs1−ySby with high-In/Sb content for very low turn-on-voltage InP-based DHBTs” [J. Cryst. Growth 404 (2014) 172–176]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1496001534046,
+      "identifier": {
+        "doi": "10.1016/j.jcrysgro.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrysgro.2014.07.025"
+  },
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MOCVD-grown compressively strained C-doped InxGa1−xAs1−ySby with high-In/Sb content for very low turn-on-voltage InP-based DHBTs” [J. Cryst. Growth 404 (2014) 172–176]"
+}

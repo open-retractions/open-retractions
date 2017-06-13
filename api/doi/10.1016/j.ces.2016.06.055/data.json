@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493251200000,"doi":"10.1016/j.ces.2016.12.042","type":"erratum"},"doi":"10.1016/j.ces.2016.06.055","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to ‘Electropolymerized polyaniline: A promising hole selective contact in organic photoelectrochemical cells’ [Chem. Eng. Sci. 154 (2016) 143–149]"}
+{
+  "retracted": false,
+  "timestamp": 1493251200000,
+  "updates": [
+    {
+      "timestamp": 1495668908576,
+      "identifier": {
+        "doi": "10.1016/j.ces.2016.12.042"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2016.06.055"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Electropolymerized polyaniline: A promising hole selective contact in organic photoelectrochemical cells’ [Chem. Eng. Sci. 154 (2016) 143–149]"
+}

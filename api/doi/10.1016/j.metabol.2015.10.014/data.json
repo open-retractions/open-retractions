@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.metabol.2016.05.014","type":"err"},"doi":"10.1016/j.metabol.2015.10.014","journal":"Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Metformin-associated lactic acidosis: Current perspectives on causes and risk” [Metabolism 65 (2016) 20–29]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495721263326,
+      "identifier": {
+        "doi": "10.1016/j.metabol.2016.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.metabol.2015.10.014"
+  },
+  "journal": "Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Metformin-associated lactic acidosis: Current perspectives on causes and risk” [Metabolism 65 (2016) 20–29]"
+}

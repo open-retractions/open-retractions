@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446422400000,"doi":"10.1136/bmj.h5866","type":"correction"},"doi":"10.1136/bmj.h5660","journal":"BMJ","publisher":"BMJ","title":"Diabetic ketoacidosis in adults"}
+{
+  "retracted": false,
+  "timestamp": 1446422400000,
+  "updates": [
+    {
+      "timestamp": 1496043094665,
+      "identifier": {
+        "doi": "10.1136/bmj.h5866"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h5660"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Diabetic ketoacidosis in adults"
+}

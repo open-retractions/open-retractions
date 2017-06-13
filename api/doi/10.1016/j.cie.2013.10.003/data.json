@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.cie.2013.11.010","type":"err"},"doi":"10.1016/j.cie.2013.10.003","journal":"Computers & Industrial Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Development of a module based service family design for mass customization of airline sector using the coalition game” [Comput. Ind. Eng. 66 (4) (2013) 827–833]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496002425640,
+      "identifier": {
+        "doi": "10.1016/j.cie.2013.11.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cie.2013.10.003"
+  },
+  "journal": "Computers & Industrial Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a module based service family design for mass customization of airline sector using the coalition game” [Comput. Ind. Eng. 66 (4) (2013) 827–833]"
+}

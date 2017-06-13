@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1001721600000,"doi":"10.1007/s005310100220","type":"correction"},"doi":"10.1007/s005310000098","journal":"International Journal of Earth Sciences","publisher":"Springer Nature","title":"Erratum to: Stratigraphic and metamorphic inversions in the central Menderes Massif: a new structural model"}
+{
+  "retracted": false,
+  "timestamp": 1001721600000,
+  "updates": [
+    {
+      "timestamp": 1495949313827,
+      "identifier": {
+        "doi": "10.1007/s005310100220"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s005310000098"
+  },
+  "journal": "International Journal of Earth Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Stratigraphic and metamorphic inversions in the central Menderes Massif: a new structural model"
+}

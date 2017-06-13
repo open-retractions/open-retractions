@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1016/j.jenvman.2014.12.029","type":"err"},"doi":"10.1016/j.jenvman.2010.11.016","journal":"Journal of Environmental Management","publisher":"Elsevier BV","title":"Corrigendum to “Assessing effects of aerobic and anaerobic conditions on phosphorus sorption and retention capacity of water treatment residuals” [J. Environ. Manag. 92 (2011) 960–966]"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496036614301,
+      "identifier": {
+        "doi": "10.1016/j.jenvman.2014.12.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jenvman.2010.11.016"
+  },
+  "journal": "Journal of Environmental Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessing effects of aerobic and anaerobic conditions on phosphorus sorption and retention capacity of water treatment residuals” [J. Environ. Manag. 92 (2011) 960–966]"
+}

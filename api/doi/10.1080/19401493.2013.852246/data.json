@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389052800000,"doi":"10.1080/19401493.2013.877561","type":"correction"},"doi":"10.1080/19401493.2013.852246","journal":"Journal of Building Performance Simulation","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1389052800000,
+  "updates": [
+    {
+      "timestamp": 1496008530118,
+      "identifier": {
+        "doi": "10.1080/19401493.2013.877561"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19401493.2013.852246"
+  },
+  "journal": "Journal of Building Performance Simulation",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

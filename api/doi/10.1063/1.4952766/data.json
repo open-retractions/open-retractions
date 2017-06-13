@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465516800000,"doi":"10.1063/1.4953887","type":"correction"},"doi":"10.1063/1.4952766","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Investigation of transferred-electron oscillations in diamond” [Appl. Phys. Lett. 108, 212104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1465516800000,
+  "updates": [
+    {
+      "timestamp": 1495681029106,
+      "identifier": {
+        "doi": "10.1063/1.4953887"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4952766"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Investigation of transferred-electron oscillations in diamond” [Appl. Phys. Lett. 108, 212104 (2016)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.cjca.2015.06.014","type":"err"},"doi":"10.1016/j.cjca.2014.10.022","journal":"Canadian Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496026139091,
+      "identifier": {
+        "doi": "10.1016/j.cjca.2015.06.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cjca.2014.10.022"
+  },
+  "journal": "Canadian Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

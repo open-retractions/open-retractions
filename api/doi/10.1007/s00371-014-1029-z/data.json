@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481846400000,"doi":"10.1007/s00371-016-1336-7","type":"correction"},"doi":"10.1007/s00371-014-1029-z","journal":"The Visual Computer","publisher":"Springer Nature","title":"Erratum to: Multi-camera systems use for dental arch shape measurement"}
+{
+  "retracted": false,
+  "timestamp": 1481846400000,
+  "updates": [
+    {
+      "timestamp": 1495667671108,
+      "identifier": {
+        "doi": "10.1007/s00371-016-1336-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00371-014-1029-z"
+  },
+  "journal": "The Visual Computer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Multi-camera systems use for dental arch shape measurement"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370390400000,"doi":"10.1121/1.4802636","type":"correction"},"doi":"10.1121/1.3699217","journal":"The Journal of the Acoustical Society of America","publisher":"Acoustical Society of America (ASA)","title":"Erratum: A model for the vertical sound speed and absorption profiles in Titan's atmosphere based on Cassini-Huygens data [J. Acoust. Soc. Am. 131(5), 3671–3679 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1370390400000,
+  "updates": [
+    {
+      "timestamp": 1496023862476,
+      "identifier": {
+        "doi": "10.1121/1.4802636"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1121/1.3699217"
+  },
+  "journal": "The Journal of the Acoustical Society of America",
+  "publisher": "Acoustical Society of America (ASA)",
+  "title": "Erratum: A model for the vertical sound speed and absorption profiles in Titan's atmosphere based on Cassini-Huygens data [J. Acoust. Soc. Am. 131(5), 3671–3679 (2012)]"
+}

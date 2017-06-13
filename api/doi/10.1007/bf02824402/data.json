@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1210896000000,"doi":"10.1007/bf02824430","type":"correction"},"doi":"10.1007/bf02824402","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Quenching of radiofrequency induced side bands in Mössbauer spectra"}
+{
+  "retracted": false,
+  "timestamp": 1210896000000,
+  "updates": [
+    {
+      "timestamp": 1495855643921,
+      "identifier": {
+        "doi": "10.1007/bf02824430"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02824402"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quenching of radiofrequency induced side bands in Mössbauer spectra"
+}

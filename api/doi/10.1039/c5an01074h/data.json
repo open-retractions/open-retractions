@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441238400000,"doi":"10.1039/c5an90071a","type":"correction"},"doi":"10.1039/c5an01074h","journal":"The Analyst","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Towards high-throughput microfluidic Raman-activated cell sorting"}
+{
+  "retracted": false,
+  "timestamp": 1441238400000,
+  "updates": [
+    {
+      "timestamp": 1496027166023,
+      "identifier": {
+        "doi": "10.1039/c5an90071a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5an01074h"
+  },
+  "journal": "The Analyst",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Towards high-throughput microfluidic Raman-activated cell sorting"
+}

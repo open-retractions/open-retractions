@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470268800000,"doi":"10.1039/c6cc90360f","type":"correction"},"doi":"10.1039/c5cc05743d","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A narrow amide I vibrational band observed by sum frequency generation spectroscopy reveals highly ordered structures of a biofilm protein at the air/water interface"}
+{
+  "retracted": false,
+  "timestamp": 1470268800000,
+  "updates": [
+    {
+      "timestamp": 1495734978534,
+      "identifier": {
+        "doi": "10.1039/c6cc90360f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cc05743d"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A narrow amide I vibrational band observed by sum frequency generation spectroscopy reveals highly ordered structures of a biofilm protein at the air/water interface"
+}

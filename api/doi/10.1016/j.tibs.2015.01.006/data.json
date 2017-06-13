@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.tibs.2015.12.005","type":"err"},"doi":"10.1016/j.tibs.2015.01.006","journal":"Trends in Biochemical Sciences","publisher":"Elsevier BV","title":"Correction to: ‘Activation-induced cytidine deaminase and active cytidine demethylation’"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495638578037,
+      "identifier": {
+        "doi": "10.1016/j.tibs.2015.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tibs.2015.01.006"
+  },
+  "journal": "Trends in Biochemical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Correction to: ‘Activation-induced cytidine deaminase and active cytidine demethylation’"
+}

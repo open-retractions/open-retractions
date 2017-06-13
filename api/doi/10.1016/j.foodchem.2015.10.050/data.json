@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.foodchem.2016.02.023","type":"err"},"doi":"10.1016/j.foodchem.2015.10.050","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Bioactive properties of honey with propolis” [Food Chem. 196 (2016) 1215–1223]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495643083981,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.02.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.10.050"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bioactive properties of honey with propolis” [Food Chem. 196 (2016) 1215–1223]"
+}

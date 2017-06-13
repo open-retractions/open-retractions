@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1213660800000,"doi":"10.1186/1472-6882-8-31","type":"correction"},"doi":"10.1186/1472-6882-5-12","journal":"BMC Complementary and Alternative Medicine","publisher":"Springer Nature","title":"Erratum to: A systematic review of how homeopathy is represented in conventional and CAM peer reviewed journals"}
+{
+  "retracted": false,
+  "timestamp": 1213660800000,
+  "updates": [
+    {
+      "timestamp": 1495861400293,
+      "identifier": {
+        "doi": "10.1186/1472-6882-8-31"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1472-6882-5-12"
+  },
+  "journal": "BMC Complementary and Alternative Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A systematic review of how homeopathy is represented in conventional and CAM peer reviewed journals"
+}

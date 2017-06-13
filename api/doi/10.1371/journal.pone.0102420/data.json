@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408924800000,"doi":"10.1371/journal.pone.0107080","type":"correction"},"doi":"10.1371/journal.pone.0102420","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Anti-Diabetic Drug Metformin Reduces BACE1 Protein Level by Interfering with the MID1 Complex"}
+{
+  "retracted": false,
+  "timestamp": 1408924800000,
+  "updates": [
+    {
+      "timestamp": 1496002734649,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0107080"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0102420"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Anti-Diabetic Drug Metformin Reduces BACE1 Protein Level by Interfering with the MID1 Complex"
+}

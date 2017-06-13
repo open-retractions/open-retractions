@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433548800000,"doi":"10.1098/rsif.2015.0374","type":"correction"},"doi":"10.1098/rsif.2013.1018","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Circadian clocks optimally adapt to sunlight for reliable synchronization"}
+{
+  "retracted": false,
+  "timestamp": 1433548800000,
+  "updates": [
+    {
+      "timestamp": 1496001236841,
+      "identifier": {
+        "doi": "10.1098/rsif.2015.0374"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2013.1018"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Circadian clocks optimally adapt to sunlight for reliable synchronization"
+}

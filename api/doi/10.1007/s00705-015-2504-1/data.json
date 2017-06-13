@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459555200000,"doi":"10.1007/s00705-016-2837-4","type":"correction"},"doi":"10.1007/s00705-015-2504-1","journal":"Archives of Virology","publisher":"Springer Nature","title":"Erratum to: Serial passage in ducks of a low-pathogenic avian influenza virus isolated from a chicken reveals a high mutation rate in the hemagglutinin that is likely due to selection in the host"}
+{
+  "retracted": false,
+  "timestamp": 1459555200000,
+  "updates": [
+    {
+      "timestamp": 1495661543139,
+      "identifier": {
+        "doi": "10.1007/s00705-016-2837-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00705-015-2504-1"
+  },
+  "journal": "Archives of Virology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Serial passage in ducks of a low-pathogenic avian influenza virus isolated from a chicken reveals a high mutation rate in the hemagglutinin that is likely due to selection in the host"
+}

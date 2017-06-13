@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1016/j.msea.2015.12.062","type":"erratum"},"doi":"10.1016/j.msea.2014.12.012","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to ‘Plastic deformation and microstructural evolution during the shock consolidation of ultrafine copper powders’ [Mater. Sci. Eng. A 625 (2015) 230–244]"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1496056553902,
+      "identifier": {
+        "doi": "10.1016/j.msea.2015.12.062"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2014.12.012"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Plastic deformation and microstructural evolution during the shock consolidation of ultrafine copper powders’ [Mater. Sci. Eng. A 625 (2015) 230–244]"
+}

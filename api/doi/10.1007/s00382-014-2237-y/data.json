@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410220800000,"doi":"10.1007/s00382-014-2298-y","type":"correction"},"doi":"10.1007/s00382-014-2237-y","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: Contrasting interannual and multidecadal NAO variability"}
+{
+  "retracted": false,
+  "timestamp": 1410220800000,
+  "updates": [
+    {
+      "timestamp": 1496005286926,
+      "identifier": {
+        "doi": "10.1007/s00382-014-2298-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-014-2237-y"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Contrasting interannual and multidecadal NAO variability"
+}

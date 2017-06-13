@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473033600000,"doi":"10.1186/s12879-016-1795-5","type":"correction"},"doi":"10.1186/s12879-014-0691-0","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum To: Accounting for Behavioral Responses during a Flu Epidemic Using Home Television Viewing"}
+{
+  "retracted": false,
+  "timestamp": 1473033600000,
+  "updates": [
+    {
+      "timestamp": 1495637420927,
+      "identifier": {
+        "doi": "10.1186/s12879-016-1795-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-014-0691-0"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum To: Accounting for Behavioral Responses during a Flu Epidemic Using Home Television Viewing"
+}

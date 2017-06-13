@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.visres.2015.01.004","type":"err"},"doi":"10.1016/j.visres.2014.06.013","journal":"Vision Research","publisher":"Elsevier BV","title":"Corrigendum to “On the reduced influence of contour on saccade metrics and its competition with stimulus size” [Vision Res. 101 (2014) 158–166]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496038116135,
+      "identifier": {
+        "doi": "10.1016/j.visres.2015.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.visres.2014.06.013"
+  },
+  "journal": "Vision Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the reduced influence of contour on saccade metrics and its competition with stimulus size” [Vision Res. 101 (2014) 158–166]"
+}

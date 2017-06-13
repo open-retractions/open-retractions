@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398124800000,"doi":"10.1080/07075332.2014.906942","type":"correction"},"doi":"10.1080/07075332.2013.871320","journal":"The International History Review","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1398124800000,
+  "updates": [
+    {
+      "timestamp": 1496032836275,
+      "identifier": {
+        "doi": "10.1080/07075332.2014.906942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07075332.2013.871320"
+  },
+  "journal": "The International History Review",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

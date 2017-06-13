@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484438400000,"doi":"10.1016/j.ab.2016.09.023","type":"err"},"doi":"10.1016/j.ab.2008.03.001","journal":"Analytical Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Cell-free protein synthesis system from Escherichia coli cells cultured at decreased temperatures improves productivity by decreasing DNA template degradation’’ [Anal. Biochem. 377 (2008) 156–161]"}
+{
+  "retracted": false,
+  "timestamp": 1484438400000,
+  "updates": [
+    {
+      "timestamp": 1495653583200,
+      "identifier": {
+        "doi": "10.1016/j.ab.2016.09.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ab.2008.03.001"
+  },
+  "journal": "Analytical Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Cell-free protein synthesis system from Escherichia coli cells cultured at decreased temperatures improves productivity by decreasing DNA template degradation’’ [Anal. Biochem. 377 (2008) 156–161]"
+}

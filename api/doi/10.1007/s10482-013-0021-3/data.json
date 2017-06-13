@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391299200000,"doi":"10.1007/s10482-014-0116-5","type":"correction"},"doi":"10.1007/s10482-013-0021-3","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Streptomyces polyrhachii sp. nov., a novel actinomycete isolated from an edible Chinese black ant (Polyrhachis vicina Roger)"}
+{
+  "retracted": false,
+  "timestamp": 1391299200000,
+  "updates": [
+    {
+      "timestamp": 1496015700587,
+      "identifier": {
+        "doi": "10.1007/s10482-014-0116-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-013-0021-3"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Streptomyces polyrhachii sp. nov., a novel actinomycete isolated from an edible Chinese black ant (Polyrhachis vicina Roger)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372723200000,"doi":"10.1073/pnas.1315914110","type":"correction"},"doi":"10.1073/pnas.1309171110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wang et al., Identification of a small molecule with activity against drug-resistant and persistent tuberculosis"}
+{
+  "retracted": false,
+  "timestamp": 1372723200000,
+  "updates": [
+    {
+      "timestamp": 1496045386708,
+      "identifier": {
+        "doi": "10.1073/pnas.1315914110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1309171110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wang et al., Identification of a small molecule with activity against drug-resistant and persistent tuberculosis"
+}

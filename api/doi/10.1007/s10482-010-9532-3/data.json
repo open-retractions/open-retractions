@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s10482-014-0199-z","type":"correction"},"doi":"10.1007/s10482-010-9532-3","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Different mosquito species host Wickerhamomyces anomalus (Pichia anomala): perspectives on vector-borne diseases symbiotic control"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496042013628,
+      "identifier": {
+        "doi": "10.1007/s10482-014-0199-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-010-9532-3"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Different mosquito species host Wickerhamomyces anomalus (Pichia anomala): perspectives on vector-borne diseases symbiotic control"
+}

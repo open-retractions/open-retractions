@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483056000000,"doi":"10.1111/mec.13924","type":"correction"},"doi":"10.1111/mec.13614","journal":"Molecular Ecology","publisher":"Wiley-Blackwell","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1483056000000,
+  "updates": [
+    {
+      "timestamp": 1495670409918,
+      "identifier": {
+        "doi": "10.1111/mec.13924"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/mec.13614"
+  },
+  "journal": "Molecular Ecology",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum"
+}

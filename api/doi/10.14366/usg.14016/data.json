@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.14366/usg.14016","type":"correction"},"doi":"10.14366/usg.14016","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Ultrasonographic findings of type IIIa biliary atresia"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496044795598,
+      "identifier": {
+        "doi": "10.14366/usg.14016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.14016"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Ultrasonographic findings of type IIIa biliary atresia"
+}

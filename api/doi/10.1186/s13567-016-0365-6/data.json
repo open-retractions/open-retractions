@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474416000000,"doi":"10.1186/s13567-016-0382-5","type":"correction"},"doi":"10.1186/s13567-016-0365-6","journal":"Veterinary Research","publisher":"Springer Nature","title":"Erratum to: Maternally-derived antibodies do not prevent transmission of swine influenza A virus between pigs"}
+{
+  "retracted": false,
+  "timestamp": 1474416000000,
+  "updates": [
+    {
+      "timestamp": 1495640996331,
+      "identifier": {
+        "doi": "10.1186/s13567-016-0382-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13567-016-0365-6"
+  },
+  "journal": "Veterinary Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Maternally-derived antibodies do not prevent transmission of swine influenza A virus between pigs"
+}

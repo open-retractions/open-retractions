@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395619200000,"doi":"10.1080/10357718.2014.891194","type":"correction"},"doi":"10.1080/10357718.2013.877814","journal":"Australian Journal of International Affairs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395619200000,
+  "updates": [
+    {
+      "timestamp": 1496019513952,
+      "identifier": {
+        "doi": "10.1080/10357718.2014.891194"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10357718.2013.877814"
+  },
+  "journal": "Australian Journal of International Affairs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

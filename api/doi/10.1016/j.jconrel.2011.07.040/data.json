@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398643200000,"doi":"10.1016/j.jconrel.2014.02.017","type":"err"},"doi":"10.1016/j.jconrel.2011.07.040","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Thermo-targeted drug delivery of geldanamycin with diblock elastin-based biopolymers” [J. Control. Release 155 (2011) 175–183]"}
+{
+  "retracted": false,
+  "timestamp": 1398643200000,
+  "updates": [
+    {
+      "timestamp": 1496021109572,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2014.02.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2011.07.040"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thermo-targeted drug delivery of geldanamycin with diblock elastin-based biopolymers” [J. Control. Release 155 (2011) 175–183]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1268697600000,"doi":"10.1073/pnas.1002801107","type":"correction"},"doi":"10.1073/pnas.0914266107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lindqvist et al., Complete mitochondrial genome of a Pleistocene jawbone unveils the origin of polar bear"}
+{
+  "retracted": false,
+  "timestamp": 1268697600000,
+  "updates": [
+    {
+      "timestamp": 1495827771825,
+      "identifier": {
+        "doi": "10.1073/pnas.1002801107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0914266107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lindqvist et al., Complete mitochondrial genome of a Pleistocene jawbone unveils the origin of polar bear"
+}

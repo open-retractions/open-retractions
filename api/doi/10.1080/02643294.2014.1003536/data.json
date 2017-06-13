@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423785600000,"doi":"10.1080/02643294.2015.1019230","type":"correction"},"doi":"10.1080/02643294.2014.1003536","journal":"Cognitive Neuropsychology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1423785600000,
+  "updates": [
+    {
+      "timestamp": 1496040832975,
+      "identifier": {
+        "doi": "10.1080/02643294.2015.1019230"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02643294.2014.1003536"
+  },
+  "journal": "Cognitive Neuropsychology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

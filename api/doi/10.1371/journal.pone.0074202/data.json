@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384387200000,"doi":"10.1371/annotation/f5e4554b-18cc-46ef-ac39-73ac4d6750ae","type":"correction"},"doi":"10.1371/journal.pone.0074202","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Telomere Reprogramming and Maintenance in Porcine iPS Cells"}
+{
+  "retracted": false,
+  "timestamp": 1384387200000,
+  "updates": [
+    {
+      "timestamp": 1495997146938,
+      "identifier": {
+        "doi": "10.1371/annotation/f5e4554b-18cc-46ef-ac39-73ac4d6750ae"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074202"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Telomere Reprogramming and Maintenance in Porcine iPS Cells"
+}

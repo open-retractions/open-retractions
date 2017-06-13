@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439510400000,"doi":"10.1038/srep12253","type":"correction"},"doi":"10.1038/srep09176","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Structural conservation among the rhodopsin-like and other G protein-coupled receptors"}
+{
+  "retracted": false,
+  "timestamp": 1439510400000,
+  "updates": [
+    {
+      "timestamp": 1496023483937,
+      "identifier": {
+        "doi": "10.1038/srep12253"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09176"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Structural conservation among the rhodopsin-like and other G protein-coupled receptors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351296000000,"doi":"10.1007/bf03258531","type":"correction"},"doi":"10.2165/00002018-199207040-00004","journal":"Drug Safety","publisher":"Springer Nature","title":"Erratum to: Renal Effects of Peptic Ulcer Therapy"}
+{
+  "retracted": false,
+  "timestamp": 1351296000000,
+  "updates": [
+    {
+      "timestamp": 1495642988975,
+      "identifier": {
+        "doi": "10.1007/bf03258531"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2165/00002018-199207040-00004"
+  },
+  "journal": "Drug Safety",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Renal Effects of Peptic Ulcer Therapy"
+}

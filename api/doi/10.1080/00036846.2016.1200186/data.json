@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472515200000,"doi":"10.1080/00036846.2016.1226062","type":"correction"},"doi":"10.1080/00036846.2016.1200186","journal":"Applied Economics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472515200000,
+  "updates": [
+    {
+      "timestamp": 1495741589704,
+      "identifier": {
+        "doi": "10.1080/00036846.2016.1226062"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00036846.2016.1200186"
+  },
+  "journal": "Applied Economics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

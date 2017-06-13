@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s13300-014-0069-8","type":"correction"},"doi":"10.1007/s13300-014-0062-2","journal":"Diabetes Therapy","publisher":"Springer Nature","title":"Erratum to: Efficacy of Liraglutide in a Real-Life Cohort"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496041890386,
+      "identifier": {
+        "doi": "10.1007/s13300-014-0069-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13300-014-0062-2"
+  },
+  "journal": "Diabetes Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Efficacy of Liraglutide in a Real-Life Cohort"
+}

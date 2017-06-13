@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1016/j.bbr.2016.04.021","type":"err"},"doi":"10.1016/j.bbr.2015.09.023","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “EphB2 reverse signaling regulates learned opiate tolerance via hippocampal function” [Behav. Brain Res. 300 (2016) 85–96]"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495672070862,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2016.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2015.09.023"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “EphB2 reverse signaling regulates learned opiate tolerance via hippocampal function” [Behav. Brain Res. 300 (2016) 85–96]"
+}

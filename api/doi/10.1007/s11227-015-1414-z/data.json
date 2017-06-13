@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1007/s11227-016-1699-6","type":"correction"},"doi":"10.1007/s11227-015-1414-z","journal":"The Journal of Supercomputing","publisher":"Springer Nature","title":"Erratum to: Large-scale image colorization based on divide-and-conquer support vector machines"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495655633449,
+      "identifier": {
+        "doi": "10.1007/s11227-016-1699-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11227-015-1414-z"
+  },
+  "journal": "The Journal of Supercomputing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Large-scale image colorization based on divide-and-conquer support vector machines"
+}

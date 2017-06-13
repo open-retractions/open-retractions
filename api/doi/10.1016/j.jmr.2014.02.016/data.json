@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.jmr.2014.07.008","type":"err"},"doi":"10.1016/j.jmr.2014.02.016","journal":"Journal of Magnetic Resonance","publisher":"Elsevier BV","title":"Corrigendum to “Proton-detected 2D radio frequency driven recoupling solid-state NMR studies on micelle-associated cytochrome-b5” [J. Magnet. Reson. 242 (2014) 169–179]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1495997637761,
+      "identifier": {
+        "doi": "10.1016/j.jmr.2014.07.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmr.2014.02.016"
+  },
+  "journal": "Journal of Magnetic Resonance",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Proton-detected 2D radio frequency driven recoupling solid-state NMR studies on micelle-associated cytochrome-b5” [J. Magnet. Reson. 242 (2014) 169–179]"
+}

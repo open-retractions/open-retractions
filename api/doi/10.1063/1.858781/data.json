@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":823132800000,"doi":"10.1063/1.869132","type":"erratum"},"doi":"10.1063/1.858781","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: ‘‘End effects for the falling cylinder viscometer’’ [Phys. Fluids A 5, 25 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 823132800000,
+  "updates": [
+    {
+      "timestamp": 1495839223344,
+      "identifier": {
+        "doi": "10.1063/1.869132"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.858781"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘End effects for the falling cylinder viscometer’’ [Phys. Fluids A             5, 25 (1993)]"
+}

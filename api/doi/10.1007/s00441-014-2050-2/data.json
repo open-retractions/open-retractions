@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426118400000,"doi":"10.1007/s00441-015-2160-5","type":"correction"},"doi":"10.1007/s00441-014-2050-2","journal":"Cell and Tissue Research","publisher":"Springer Nature","title":"Erratum to: The guanine nucleotide exchange factor Vav3 regulates differentiation of progenitor cells in the developing mouse retina"}
+{
+  "retracted": false,
+  "timestamp": 1426118400000,
+  "updates": [
+    {
+      "timestamp": 1496049988566,
+      "identifier": {
+        "doi": "10.1007/s00441-015-2160-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00441-014-2050-2"
+  },
+  "journal": "Cell and Tissue Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The guanine nucleotide exchange factor Vav3 regulates differentiation of progenitor cells in the developing mouse retina"
+}

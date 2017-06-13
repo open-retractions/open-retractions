@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1038/srep12118","type":"correction"},"doi":"10.1038/srep02481","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: H+-type and OH−-type biological protonic semiconductors and complementary devices"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496016157921,
+      "identifier": {
+        "doi": "10.1038/srep12118"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep02481"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: H+-type and OH−-type biological protonic semiconductors and complementary devices"
+}

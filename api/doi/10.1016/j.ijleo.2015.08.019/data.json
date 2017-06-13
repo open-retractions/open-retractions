@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ijleo.2015.10.101","type":"err"},"doi":"10.1016/j.ijleo.2015.08.019","journal":"Optik - International Journal for Light and Electron Optics","publisher":"Elsevier BV","title":"Corrigendum to: “New soliton solutions to the (3+1)-dimensional Jimbo–Miwa equation” [Optik 126 (23) (2015) 4718–4722]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496043368755,
+      "identifier": {
+        "doi": "10.1016/j.ijleo.2015.10.101"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijleo.2015.08.019"
+  },
+  "journal": "Optik - International Journal for Light and Electron Optics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “New soliton solutions to the (3+1)-dimensional Jimbo–Miwa equation” [Optik 126 (23) (2015) 4718–4722]"
+}

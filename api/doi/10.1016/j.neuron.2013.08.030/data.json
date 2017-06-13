@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387324800000,"doi":"10.1016/j.neuron.2013.12.008","type":"err"},"doi":"10.1016/j.neuron.2013.08.030","journal":"Neuron","publisher":"Elsevier BV","title":"Dissociable Effects of Dopamine and Serotonin on Reversal Learning"}
+{
+  "retracted": false,
+  "timestamp": 1387324800000,
+  "updates": [
+    {
+      "timestamp": 1496005548522,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.08.030"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Dissociable Effects of Dopamine and Serotonin on Reversal Learning"
+}

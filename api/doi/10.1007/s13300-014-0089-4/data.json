@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1007/s13300-015-0095-1","type":"correction"},"doi":"10.1007/s13300-014-0089-4","journal":"Diabetes Therapy","publisher":"Springer Nature","title":"Erratum to: Sodium Glucose Co-Transporter-2 (SGLT2) Inhibitors: A Review of Their Basic and Clinical Pharmacology"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496037143824,
+      "identifier": {
+        "doi": "10.1007/s13300-015-0095-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13300-014-0089-4"
+  },
+  "journal": "Diabetes Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sodium Glucose Co-Transporter-2 (SGLT2) Inhibitors: A Review of Their Basic and Clinical Pharmacology"
+}

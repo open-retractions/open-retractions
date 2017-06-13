@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444780800000,"doi":"10.1007/s11604-015-0483-5","type":"correction"},"doi":"10.1007/s11604-015-0478-2","journal":"Japanese Journal of Radiology","publisher":"Springer Nature","title":"Erratum to: Evaluation of the quality of CT images acquired with the single energy metal artifact reduction (SEMAR) algorithm in patients with hip and dental prostheses and aneurysm embolization coils"}
+{
+  "retracted": false,
+  "timestamp": 1444780800000,
+  "updates": [
+    {
+      "timestamp": 1496037495714,
+      "identifier": {
+        "doi": "10.1007/s11604-015-0483-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11604-015-0478-2"
+  },
+  "journal": "Japanese Journal of Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evaluation of the quality of CT images acquired with the single energy metal artifact reduction (SEMAR) algorithm in patients with hip and dental prostheses and aneurysm embolization coils"
+}

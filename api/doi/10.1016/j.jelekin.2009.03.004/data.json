@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jelekin.2016.08.013","type":"erratum"},"doi":"10.1016/j.jelekin.2009.03.004","journal":"Journal of Electromyography and Kinesiology","publisher":"Elsevier BV","title":"Corrigendum to “Identification procedure in a model of single fibre action potential – Part I: Estimation of fibre diameter and radial distance” [J. Electromyogr. Kinesiol. 20(2) (2010) 264–273]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495638717553,
+      "identifier": {
+        "doi": "10.1016/j.jelekin.2016.08.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jelekin.2009.03.004"
+  },
+  "journal": "Journal of Electromyography and Kinesiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification procedure in a model of single fibre action potential – Part I: Estimation of fibre diameter and radial distance” [J. Electromyogr. Kinesiol. 20(2) (2010) 264–273]"
+}

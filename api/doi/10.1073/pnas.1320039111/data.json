@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401753600000,"doi":"10.1073/pnas.1408022111","type":"correction"},"doi":"10.1073/pnas.1320039111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for van Staalduinen et al., Crystal structure of PhnZ in complex with substrate reveals a di-iron oxygenase mechanism for catabolism of organophosphonates"}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496040104979,
+      "identifier": {
+        "doi": "10.1073/pnas.1408022111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1320039111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for van Staalduinen et al., Crystal structure of PhnZ in complex with substrate reveals a di-iron oxygenase mechanism for catabolism of organophosphonates"
+}

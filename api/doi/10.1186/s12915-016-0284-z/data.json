@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1186/s12915-016-0302-1","type":"correction"},"doi":"10.1186/s12915-016-0284-z","journal":"BMC Biology","publisher":"Springer Nature","title":"Erratum to: On the reversibility of parasitism: adaptation to a free-living lifestyle via gene acquisitions in the diplomonad Trepomonas sp. PC1"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639209204,
+      "identifier": {
+        "doi": "10.1186/s12915-016-0302-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12915-016-0284-z"
+  },
+  "journal": "BMC Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the reversibility of parasitism: adaptation to a free-living lifestyle via gene acquisitions in the diplomonad Trepomonas sp. PC1"
+}

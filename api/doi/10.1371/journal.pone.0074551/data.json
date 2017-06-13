@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384819200000,"doi":"10.1371/annotation/d333f74d-496e-48e7-ac30-6dcfdbd7a25b","type":"correction"},"doi":"10.1371/journal.pone.0074551","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: HIV-1 Tat Protein Induces the Production of IDO in Human Monocyte Derived-Dendritic Cells through a Direct Mechanism: Effect on T Cells Proliferation"}
+{
+  "retracted": false,
+  "timestamp": 1384819200000,
+  "updates": [
+    {
+      "timestamp": 1495999353906,
+      "identifier": {
+        "doi": "10.1371/annotation/d333f74d-496e-48e7-ac30-6dcfdbd7a25b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074551"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: HIV-1 Tat Protein Induces the Production of IDO in Human Monocyte Derived-Dendritic Cells through a Direct Mechanism: Effect on T Cells Proliferation"
+}

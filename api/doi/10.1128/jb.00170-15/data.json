@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1128/jb.00480-16","type":"correction"},"doi":"10.1128/jb.00170-15","journal":"Journal of Bacteriology","publisher":"American Society for Microbiology","title":"Correction for de la Mora et al., Structural Characterization of the Fla2 Flagellum of Rhodobacter sphaeroides"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495729728982,
+      "identifier": {
+        "doi": "10.1128/jb.00480-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jb.00170-15"
+  },
+  "journal": "Journal of Bacteriology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for de la Mora et al., Structural Characterization of the Fla2 Flagellum of Rhodobacter sphaeroides"
+}

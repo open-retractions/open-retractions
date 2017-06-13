@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1268092800000,"doi":"10.1371/annotation/eadee58d-56c0-4399-b007-d80cc71e3f8a","type":"correction"},"doi":"10.1371/journal.pone.0009294","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Restricted Genetic Diversity of HIV-1 Subtype C Envelope Glycoprotein from Perinatally Infected Zambian Infants"}
+{
+  "retracted": false,
+  "timestamp": 1268092800000,
+  "updates": [
+    {
+      "timestamp": 1491880238031,
+      "identifier": {
+        "doi": "10.1371/annotation/eadee58d-56c0-4399-b007-d80cc71e3f8a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0009294"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Restricted Genetic Diversity of HIV-1 Subtype C Envelope Glycoprotein from Perinatally Infected Zambian Infants"
+}

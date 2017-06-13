@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.pan.2013.11.003","type":"err"},"doi":"10.1016/j.pan.2013.02.004","journal":"Pancreatology","publisher":"Elsevier BV","title":"Corrigendum to “The efficiency of continuous regional intra-arterial infusion in the treatment of infected pancreatic necrosis”(Pancreatology. 2013 May–Jun; 13(2): 212–5. doi:10.1016/j.pan.2013.02.004 [2013])"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495999648867,
+      "identifier": {
+        "doi": "10.1016/j.pan.2013.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pan.2013.02.004"
+  },
+  "journal": "Pancreatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The efficiency of continuous regional intra-arterial infusion in the treatment of infected pancreatic necrosis”(Pancreatology. 2013 May–Jun; 13(2): 212–5. doi:10.1016/j.pan.2013.02.004 [2013])"
+}

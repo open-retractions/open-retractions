@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1232928000000,"doi":"10.1371/annotation/98c3dca8-871e-475e-aaed-c10af4dcf35c","type":"correction"},"doi":"10.1371/journal.pone.0003525","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Specificity and Polymorphism of the MHC Class I Prevents the Global Adaptation of HIV-1 to the Monomorphic Proteasome and TAP"}
+{
+  "retracted": false,
+  "timestamp": 1232928000000,
+  "updates": [
+    {
+      "timestamp": 1496025196779,
+      "identifier": {
+        "doi": "10.1371/annotation/98c3dca8-871e-475e-aaed-c10af4dcf35c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003525"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Specificity and Polymorphism of the MHC Class I Prevents the Global Adaptation of HIV-1 to the Monomorphic Proteasome and TAP"
+}

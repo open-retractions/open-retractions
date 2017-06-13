@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441497600000,"doi":"10.1016/j.disc.2015.04.010","type":"err"},"doi":"10.1016/j.disc.2013.06.012","journal":"Discrete Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “A Cheeger inequality of a distance regular graph using Green’s function” [Discrete Mathematics 313(20) (2013) 2337–2347]"}
+{
+  "retracted": false,
+  "timestamp": 1441497600000,
+  "updates": [
+    {
+      "timestamp": 1496000128247,
+      "identifier": {
+        "doi": "10.1016/j.disc.2015.04.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.disc.2013.06.012"
+  },
+  "journal": "Discrete Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A Cheeger inequality of a distance regular graph using Green’s function” [Discrete Mathematics 313(20) (2013) 2337–2347]"
+}

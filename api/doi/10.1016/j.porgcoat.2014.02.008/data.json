@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.porgcoat.2015.01.016","type":"err"},"doi":"10.1016/j.porgcoat.2014.02.008","journal":"Progress in Organic Coatings","publisher":"Elsevier BV","title":"Corrigendum to: Analysis of the non-ideal capacitive behavior for high impedance organic coatings [Prog. Org. Coat. 77 (2014) 2045–2053]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496042771743,
+      "identifier": {
+        "doi": "10.1016/j.porgcoat.2015.01.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.porgcoat.2014.02.008"
+  },
+  "journal": "Progress in Organic Coatings",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Analysis of the non-ideal capacitive behavior for high impedance organic coatings [Prog. Org. Coat. 77 (2014) 2045–2053]"
+}

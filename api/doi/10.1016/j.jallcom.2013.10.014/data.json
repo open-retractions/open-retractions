@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395705600000,"doi":"10.1016/j.jallcom.2013.12.213","type":"err"},"doi":"10.1016/j.jallcom.2013.10.014","journal":"Journal of Alloys and Compounds","publisher":"Elsevier BV","title":"Corrigendum to “One dimensional CuO nanocrystals synthesis by electrical explosion: A study on structural, optical and electronic properties” [J. Alloys Comp. 586 (2014) 360–367]"}
+{
+  "retracted": false,
+  "timestamp": 1395705600000,
+  "updates": [
+    {
+      "timestamp": 1496014249613,
+      "identifier": {
+        "doi": "10.1016/j.jallcom.2013.12.213"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jallcom.2013.10.014"
+  },
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “One dimensional CuO nanocrystals synthesis by electrical explosion: A study on structural, optical and electronic properties” [J. Alloys Comp. 586 (2014) 360–367]"
+}

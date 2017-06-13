@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394323200000,"doi":"10.1007/s10878-014-9724-2","type":"correction"},"doi":"10.1007/s10878-014-9714-4","journal":"Journal of Combinatorial Optimization","publisher":"Springer Nature","title":"Erratum to: $$L(p, q)$$ L ( p , q ) -labeling and integer tension of a graph embedded on torus"}
+{
+  "retracted": false,
+  "timestamp": 1394323200000,
+  "updates": [
+    {
+      "timestamp": 1496024057300,
+      "identifier": {
+        "doi": "10.1007/s10878-014-9724-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10878-014-9714-4"
+  },
+  "journal": "Journal of Combinatorial Optimization",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: $$L(p, q)$$ L ( p , q ) -labeling and integer tension of a graph embedded on torus"
+}

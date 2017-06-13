@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.robot.2016.05.002","type":"err"},"doi":"10.1016/j.robot.2014.09.021","journal":"Robotics and Autonomous Systems","publisher":"Elsevier BV","title":"Corrigendum to “Robotic learning of haptic adjectives through physical interaction” [Robot. Auton. Syst. 63 (P3) (2015) 279–292]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495718073862,
+      "identifier": {
+        "doi": "10.1016/j.robot.2016.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.robot.2014.09.021"
+  },
+  "journal": "Robotics and Autonomous Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Robotic learning of haptic adjectives through physical interaction” [Robot. Auton. Syst. 63 (P3) (2015) 279–292]"
+}

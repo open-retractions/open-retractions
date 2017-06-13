@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1186/s13036-015-0013-0","type":"correction"},"doi":"10.1186/s13036-015-0006-z","journal":"Journal of Biological Engineering","publisher":"Springer Nature","title":"Erratum to: No training required: experimental tests support homology-based DNA assembly as a best practice in synthetic biology"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1496058416564,
+      "identifier": {
+        "doi": "10.1186/s13036-015-0013-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13036-015-0006-z"
+  },
+  "journal": "Journal of Biological Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: No training required: experimental tests support homology-based DNA assembly as a best practice in synthetic biology"
+}

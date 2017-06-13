@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417046400000,"doi":"10.1016/j.jhydrol.2014.07.032","type":"err"},"doi":"10.1016/j.jhydrol.2014.06.023","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Use of Fuzzy rainfall–runoff predictions for claypan watersheds with conservation buffers in Northeast Missouri” [J. Hydrol. 517 (2014) 1008–1018]"}
+{
+  "retracted": false,
+  "timestamp": 1417046400000,
+  "updates": [
+    {
+      "timestamp": 1495995784987,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2014.07.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2014.06.023"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Use of Fuzzy rainfall–runoff predictions for claypan watersheds with conservation buffers in Northeast Missouri” [J. Hydrol. 517 (2014) 1008–1018]"
+}

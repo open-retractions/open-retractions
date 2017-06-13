@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.compbiomed.2013.06.006","type":"err"},"doi":"10.1016/j.compbiomed.2011.12.003","journal":"Computers in Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Real-time recognition of patient intentions from sequences of pressure maps using artificial neural networks” [Computers in Biology and Medicine 42 (2012) 364–375]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496025384689,
+      "identifier": {
+        "doi": "10.1016/j.compbiomed.2013.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compbiomed.2011.12.003"
+  },
+  "journal": "Computers in Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Real-time recognition of patient intentions from sequences of pressure maps using artificial neural networks” [Computers in Biology and Medicine 42 (2012) 364–375]"
+}

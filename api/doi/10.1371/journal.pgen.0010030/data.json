@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1135900800000,"doi":"10.1371/journal.pgen.0010081","type":"correction"},"doi":"10.1371/journal.pgen.0010030","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Uncoupling of Longevity and Telomere Length in C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1135900800000,
+  "updates": [
+    {
+      "timestamp": 1495979763363,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.0010081"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.0010030"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Uncoupling of Longevity and Telomere Length in C. elegans"
+}

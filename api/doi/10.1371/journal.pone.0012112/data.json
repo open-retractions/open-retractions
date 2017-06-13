@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1284681600000,"doi":"10.1371/annotation/12224797-353c-4e9c-92f3-a0de9b527415","type":"correction"},"doi":"10.1371/journal.pone.0012112","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Rad21-Cohesin Haploinsufficiency Impedes DNA Repair and Enhances Gastrointestinal Radiosensitivity in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1284681600000,
+  "updates": [
+    {
+      "timestamp": 1495872404204,
+      "identifier": {
+        "doi": "10.1371/annotation/12224797-353c-4e9c-92f3-a0de9b527415"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0012112"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rad21-Cohesin Haploinsufficiency Impedes DNA Repair and Enhances Gastrointestinal Radiosensitivity in Mice"
+}

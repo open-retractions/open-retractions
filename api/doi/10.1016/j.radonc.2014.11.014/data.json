@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.radonc.2015.07.001","type":"err"},"doi":"10.1016/j.radonc.2014.11.014","journal":"Radiotherapy and Oncology","publisher":"Elsevier BV","title":"Corrigendum to “Accelerated partial irradiation for breast cancer: Systematic review and meta-analysis of 8653 women in eight randomized trials” [Radiother. Oncol. 114 (2015) 42–49]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496015730737,
+      "identifier": {
+        "doi": "10.1016/j.radonc.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.radonc.2014.11.014"
+  },
+  "journal": "Radiotherapy and Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Accelerated partial irradiation for breast cancer: Systematic review and meta-analysis of 8653 women in eight randomized trials” [Radiother. Oncol. 114 (2015) 42–49]"
+}

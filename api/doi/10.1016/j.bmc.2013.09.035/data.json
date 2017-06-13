@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.bmc.2014.03.039","type":"erratum"},"doi":"10.1016/j.bmc.2013.09.035","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Actions of the Klenow fragment of DNA polymerase I and some DNA glycosylases on chemically stable analogues of N7-methyl-2′-deoxyguanosine” [Bioorg. Med. Chem. Lett. 21 (2013) 6886–6892]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496033824314,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2014.03.039"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2013.09.035"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Actions of the Klenow fragment of DNA polymerase I and some DNA glycosylases on chemically stable analogues of N7-methyl-2′-deoxyguanosine” [Bioorg. Med. Chem. Lett. 21 (2013) 6886–6892]"
+}

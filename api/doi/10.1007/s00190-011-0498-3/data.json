@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1328659200000,"doi":"10.1007/s00190-012-0541-z","type":"correction"},"doi":"10.1007/s00190-011-0498-3","journal":"Journal of Geodesy","publisher":"Springer Nature","title":"Erratum to: Mission design, operation and exploitation of the Gravity field and steady-state Ocean Circulation Explorer (GOCE) mission"}
+{
+  "retracted": false,
+  "timestamp": 1328659200000,
+  "updates": [
+    {
+      "timestamp": 1495868992344,
+      "identifier": {
+        "doi": "10.1007/s00190-012-0541-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00190-011-0498-3"
+  },
+  "journal": "Journal of Geodesy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mission design, operation and exploitation of the Gravity field and steady-state Ocean Circulation Explorer (GOCE) mission"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bbr.2016.01.003","type":"erratum"},"doi":"10.1016/j.bbr.2015.07.041","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Erratum to “The neuroergonomic evaluation of human machine interface design in air traffic control using behavioral and EEG/ERP measures” [Behav. Brain Res. 294 (2015) 246–253]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495638389394,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2016.01.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2015.07.041"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The neuroergonomic evaluation of human machine interface design in air traffic control using behavioral and EEG/ERP measures” [Behav. Brain Res. 294 (2015) 246–253]"
+}

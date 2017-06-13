@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383177600000,"doi":"10.1063/1.4827997","type":"correction"},"doi":"10.1063/1.4821068","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Atomic-scale planarization of 4H-SiC (0001) by combination of thermal oxidation and abrasive polishing” [Appl. Phys. Lett. 103, 111603 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1383177600000,
+  "updates": [
+    {
+      "timestamp": 1495994268740,
+      "identifier": {
+        "doi": "10.1063/1.4827997"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4821068"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Atomic-scale planarization of 4H-SiC (0001) by combination of thermal oxidation and abrasive polishing” [Appl. Phys. Lett. 103, 111603 (2013)]"
+}

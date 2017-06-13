@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448582400000,"doi":"10.1007/s00508-015-0893-5","type":"correction"},"doi":"10.1007/s00508-015-0842-3","journal":"Wiener klinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Iron metabolism and iron supplementation in cancer patients"}
+{
+  "retracted": false,
+  "timestamp": 1448582400000,
+  "updates": [
+    {
+      "timestamp": 1496049231647,
+      "identifier": {
+        "doi": "10.1007/s00508-015-0893-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00508-015-0842-3"
+  },
+  "journal": "Wiener klinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Iron metabolism and iron supplementation in cancer patients"
+}

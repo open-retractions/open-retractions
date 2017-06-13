@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.ibmb.2015.07.007","type":"err"},"doi":"10.1016/j.ibmb.2015.04.006","journal":"Insect Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “Effect of host plant and immune challenge on the levels of chemosensory and odorant-binding proteins in caterpillar salivary glands” [Insect Biochem. Mol. Biol. 61 (2015) 34–45]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496017783572,
+      "identifier": {
+        "doi": "10.1016/j.ibmb.2015.07.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ibmb.2015.04.006"
+  },
+  "journal": "Insect Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of host plant and immune challenge on the levels of chemosensory and odorant-binding proteins in caterpillar salivary glands” [Insect Biochem. Mol. Biol. 61 (2015) 34–45]"
+}

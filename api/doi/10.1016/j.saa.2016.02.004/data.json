@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1462406400000,"update":{"timestamp":null,"doi":null,"pmid":27576589,"type":"retraction"},"doi":"10.1016/j.saa.2016.02.004","journal":"Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy","publisher":null,"title":"Diagnosis of cervical cancer cell taken from scanning electron and atomic force microscope images of the same patients using discrete wavelet entropy energy and Jensen Shannon, Hellinger, Triangle Measure classifier."}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495741276376,
+      "identifier": {
+        "doi": "10.1016/j.saa.2016.06.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.saa.2016.02.004"
+  },
+  "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Diagnosis of cervical cancer cell taken from scanning electron and atomic force microscope images of the same patients using discrete wavelet entropy energy and Jensen Shannon, Hellinger, Triangle Measure classifier” [SAA 160 (2016) 39–49]"
+}

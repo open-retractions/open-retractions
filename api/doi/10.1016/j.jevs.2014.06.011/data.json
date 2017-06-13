@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jevs.2014.10.001","type":"err"},"doi":"10.1016/j.jevs.2014.06.011","journal":"Journal of Equine Veterinary Science","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496015707890,
+      "identifier": {
+        "doi": "10.1016/j.jevs.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jevs.2014.06.011"
+  },
+  "journal": "Journal of Equine Veterinary Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.firesaf.2013.10.001","type":"err"},"doi":"10.1016/j.firesaf.2013.02.005","journal":"Fire Safety Journal","publisher":"Elsevier BV","title":"Erratum to “Hybrid fire testing for assessing performance of structures in fire – methodology” [Fire Saf. J. 58 (May 2013) 170–179]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496055568242,
+      "identifier": {
+        "doi": "10.1016/j.firesaf.2013.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.firesaf.2013.02.005"
+  },
+  "journal": "Fire Safety Journal",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hybrid fire testing for assessing performance of structures in fire – methodology” [Fire Saf. J. 58 (May 2013) 170–179]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.socnet.2016.05.001","type":"err"},"doi":"10.1016/j.socnet.2016.03.001","journal":"Social Networks","publisher":"Elsevier BV","title":"Corrigendum to “The evolution of global trade and impacts on countries’ carbon trade balances” [Soc. Netw. 46 (2016) 87–100]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495715556557,
+      "identifier": {
+        "doi": "10.1016/j.socnet.2016.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.socnet.2016.03.001"
+  },
+  "journal": "Social Networks",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The evolution of global trade and impacts on countries’ carbon trade balances” [Soc. Netw. 46 (2016) 87–100]"
+}

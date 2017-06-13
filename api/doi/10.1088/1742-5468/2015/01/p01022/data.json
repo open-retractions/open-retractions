@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467244800000,"doi":"10.1088/1742-5468/2016/06/069904","type":"correction"},"doi":"10.1088/1742-5468/2015/01/p01022","journal":"Journal of Statistical Mechanics: Theory and Experiment","publisher":"IOP Publishing","title":"Erratum: Quasispecies dynamics on a network of interacting genotypes and idiotypes: formulation of the model (2015J. Stat. Mech. P01022)"}
+{
+  "retracted": false,
+  "timestamp": 1467244800000,
+  "updates": [
+    {
+      "timestamp": 1495723812018,
+      "identifier": {
+        "doi": "10.1088/1742-5468/2016/06/069904"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1742-5468/2015/01/p01022"
+  },
+  "journal": "Journal of Statistical Mechanics: Theory and Experiment",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Quasispecies dynamics on a network of interacting genotypes and idiotypes: formulation of the model (2015J. Stat. Mech. P01022)"
+}

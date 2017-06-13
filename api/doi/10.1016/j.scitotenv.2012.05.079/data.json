@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.scitotenv.2014.01.021","type":"err"},"doi":"10.1016/j.scitotenv.2012.05.079","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Impacts of flow regulation on freshwater pearl mussel (Margaritifera margaritifera) habitat in a Scottish montane river” [Sci. Total Environ. 432 (2012) 318–328]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496014031122,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.01.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2012.05.079"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impacts of flow regulation on freshwater pearl mussel (Margaritifera margaritifera) habitat in a Scottish montane river” [Sci. Total Environ. 432 (2012) 318–328]"
+}

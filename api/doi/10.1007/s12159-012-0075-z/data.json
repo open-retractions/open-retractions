@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1007/s12159-012-0079-8","type":"correction"},"doi":"10.1007/s12159-012-0075-z","journal":"Logistics Research","publisher":"Springer Nature","title":"Erratum to: Foreword of the special issue co-editors"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495905675725,
+      "identifier": {
+        "doi": "10.1007/s12159-012-0079-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12159-012-0075-z"
+  },
+  "journal": "Logistics Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Foreword of the special issue co-editors"
+}

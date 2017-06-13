@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1039/c6ra90092e","type":"correction"},"doi":"10.1039/c6ra18224k","journal":"RSC Adv.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: SPECT imaging of cytochrome c in pressure overload mice hearts"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640092240,
+      "identifier": {
+        "doi": "10.1039/c6ra90092e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6ra18224k"
+  },
+  "journal": "RSC Adv.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: SPECT imaging of cytochrome c in pressure overload mice hearts"
+}

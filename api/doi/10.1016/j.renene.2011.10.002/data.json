@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.renene.2014.10.060","type":"err"},"doi":"10.1016/j.renene.2011.10.002","journal":"Renewable Energy","publisher":"Elsevier BV","title":"Corrigendum to “Numerical benchmarking study of a selection of wave energy converters” [Renew Energy 41 (2012) 44–63]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496836940975,
+      "identifier": {
+        "doi": "10.1016/j.renene.2014.10.060"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.renene.2011.10.002"
+  },
+  "journal": "Renewable Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Numerical benchmarking study of a selection of wave energy converters” [Renew Energy 41 (2012) 44–63]"
+}

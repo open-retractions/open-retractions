@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1128/aem.01181-16","type":"correction"},"doi":"10.1128/aem.04023-14","journal":"Applied and Environmental Microbiology","publisher":"American Society for Microbiology","title":"Erratum for Jiang et al., Multigene Editing in the Escherichia coli Genome via the CRISPR-Cas9 System"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495717060507,
+      "identifier": {
+        "doi": "10.1128/aem.01181-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aem.04023-14"
+  },
+  "journal": "Applied and Environmental Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Jiang et al., Multigene Editing in the Escherichia coli Genome via the CRISPR-Cas9 System"
+}

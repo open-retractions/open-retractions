@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":47174400000,"doi":"10.3758/bf03212817","type":"correction"},"doi":"10.3758/bf03213026","journal":"Perception & Psychophysics","publisher":"Springer Nature","title":"Erratum to: Theoretical analysis of an alphabetic confusion matrix."}
+{
+  "retracted": false,
+  "timestamp": 47174400000,
+  "updates": [
+    {
+      "timestamp": 1495922696342,
+      "identifier": {
+        "doi": "10.3758/bf03212817"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/bf03213026"
+  },
+  "journal": "Perception & Psychophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Theoretical analysis of an alphabetic confusion matrix."
+}

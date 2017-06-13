@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348531200000,"doi":"10.1073/pnas.1310560110","type":"correction"},"doi":"10.1073/pnas.1205102109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Rousseaux et al., Progressive dopaminergic cell loss with unilateral-to-bilateral progression in a genetic model of Parkinson disease"}
+{
+  "retracted": false,
+  "timestamp": 1348531200000,
+  "updates": [
+    {
+      "timestamp": 1496026096225,
+      "identifier": {
+        "doi": "10.1073/pnas.1310560110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1205102109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Rousseaux et al., Progressive dopaminergic cell loss with unilateral-to-bilateral progression in a genetic model of Parkinson disease"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375401600000,"doi":"10.1371/annotation/792f2983-0889-432a-b047-e1c9577dcc7e","type":"correction"},"doi":"10.1371/journal.pone.0070551","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Discrimination Power of Structural SuperIndices"}
+{
+  "retracted": false,
+  "timestamp": 1375401600000,
+  "updates": [
+    {
+      "timestamp": 1496037389201,
+      "identifier": {
+        "doi": "10.1371/annotation/792f2983-0889-432a-b047-e1c9577dcc7e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070551"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Discrimination Power of Structural SuperIndices"
+}

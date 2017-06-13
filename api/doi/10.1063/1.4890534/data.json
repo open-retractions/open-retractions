@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428019200000,"doi":"10.1063/1.4916900","type":"correction"},"doi":"10.1063/1.4890534","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Publisher’s Note: “Monte-Carlo simulation of noise in hard X-ray Transmission Crystal Spectrometers: Identification of contributors to the background noise and shielding optimization” [Rev. Sci. Instrum. 85, 11D615 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1428019200000,
+  "updates": [
+    {
+      "timestamp": 1496055015854,
+      "identifier": {
+        "doi": "10.1063/1.4916900"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4890534"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Monte-Carlo simulation of noise in hard X-ray Transmission Crystal Spectrometers: Identification of contributors to the background noise and shielding optimization” [Rev. Sci. Instrum. 85, 11D615 (2014)]"
+}

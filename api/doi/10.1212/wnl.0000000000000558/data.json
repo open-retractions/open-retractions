@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409616000000,"doi":"10.1212/wnl.0000000000000807","type":"correction"},"doi":"10.1212/wnl.0000000000000558","journal":"Neurology","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Higher glucose levels associated with lower memory and reduced hippocampal microstructure"}
+{
+  "retracted": false,
+  "timestamp": 1409616000000,
+  "updates": [
+    {
+      "timestamp": 1496004255815,
+      "identifier": {
+        "doi": "10.1212/wnl.0000000000000807"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1212/wnl.0000000000000558"
+  },
+  "journal": "Neurology",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Higher glucose levels associated with lower memory and reduced hippocampal microstructure"
+}

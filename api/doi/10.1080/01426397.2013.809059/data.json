@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1080/01426397.2014.953765","type":"correction"},"doi":"10.1080/01426397.2013.809059","journal":"Landscape Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496004277301,
+      "identifier": {
+        "doi": "10.1080/01426397.2014.953765"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01426397.2013.809059"
+  },
+  "journal": "Landscape Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

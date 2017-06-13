@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.jom.2016.01.002","type":"err"},"doi":"10.1016/j.jom.2015.07.006","journal":"Journal of Operations Management","publisher":"Elsevier BV","title":"Erratum to ‘Inventory record inaccuracy: Causes and labor effects’"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495655540899,
+      "identifier": {
+        "doi": "10.1016/j.jom.2016.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jom.2015.07.006"
+  },
+  "journal": "Journal of Operations Management",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Inventory record inaccuracy: Causes and labor effects’"
+}

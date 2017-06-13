@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.apmr.2013.12.004","type":"err"},"doi":"10.1016/j.apmr.2013.08.180","journal":"Archives of Physical Medicine and Rehabilitation","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496010270966,
+      "identifier": {
+        "doi": "10.1016/j.apmr.2013.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apmr.2013.08.180"
+  },
+  "journal": "Archives of Physical Medicine and Rehabilitation",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

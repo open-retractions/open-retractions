@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412035200000,"doi":"10.1007/s11033-014-3778-1","type":"correction"},"doi":"10.1007/s11033-014-3666-8","journal":"Molecular Biology Reports","publisher":"Springer Nature","title":"Erratum to: Molecular characterization, expression profiles of the ovine FSHR gene and its association with litter size"}
+{
+  "retracted": false,
+  "timestamp": 1412035200000,
+  "updates": [
+    {
+      "timestamp": 1496009650892,
+      "identifier": {
+        "doi": "10.1007/s11033-014-3778-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11033-014-3666-8"
+  },
+  "journal": "Molecular Biology Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular characterization, expression profiles of the ovine FSHR gene and its association with litter size"
+}

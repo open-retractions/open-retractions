@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.jmmm.2015.09.041","type":"err"},"doi":"10.1016/j.jmmm.2014.08.012","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Retraction notice to “Temperature-dependent dynamic mechanical properties of magnetorheological elastomers under magnetic field” [MAGMA 374C (2014) 283–288]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496031848166,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2015.09.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2014.08.012"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Temperature-dependent dynamic mechanical properties of magnetorheological elastomers under magnetic field” [MAGMA 374C (2014) 283–288]"
+}

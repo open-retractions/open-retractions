@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1333065600000,"doi":"10.5230/jgc.2012.12.1.53","type":"erratum"},"doi":"10.5230/jgc.2011.11.3.162","journal":"Journal of Gastric Cancer","publisher":"The Korean Gastric Cancer Association (KAMJE)","title":"Erratum to: Clinical Outcomes of Gastrectomy after Incomplete EMR/ESD"}
+{
+  "retracted": false,
+  "timestamp": 1333065600000,
+  "updates": [
+    {
+      "timestamp": 1495889666292,
+      "identifier": {
+        "doi": "10.5230/jgc.2012.12.1.53"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.5230/jgc.2011.11.3.162"
+  },
+  "publisher": "The Korean Gastric Cancer Association (KAMJE)",
+  "title": "Erratum to: Clinical Outcomes of Gastrectomy after Incomplete EMR/ESD"
+}

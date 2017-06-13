@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1063/1.4907623","type":"correction"},"doi":"10.1063/1.4850655","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Periodic boundary conditions for QM/MM calculations: Ewald summation for extended Gaussian basis sets” [J. Chem. Phys. 139, 244108 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496041867788,
+      "identifier": {
+        "doi": "10.1063/1.4907623"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4850655"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Periodic boundary conditions for QM/MM calculations: Ewald summation for extended Gaussian basis sets” [J. Chem. Phys. 139, 244108 (2013)]"
+}

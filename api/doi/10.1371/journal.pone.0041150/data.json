@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349222400000,"doi":"10.1371/annotation/36af97b5-137b-4629-946b-748b63438b03","type":"correction"},"doi":"10.1371/journal.pone.0041150","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: RNA-Seq Analysis of the Sclerotinia homoeocarpa – Creeping Bentgrass Pathosystem"}
+{
+  "retracted": false,
+  "timestamp": 1349222400000,
+  "updates": [
+    {
+      "timestamp": 1495959580813,
+      "identifier": {
+        "doi": "10.1371/annotation/36af97b5-137b-4629-946b-748b63438b03"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041150"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: RNA-Seq Analysis of the Sclerotinia homoeocarpa – Creeping Bentgrass Pathosystem"
+}

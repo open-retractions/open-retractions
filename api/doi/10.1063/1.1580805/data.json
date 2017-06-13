@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1190937600000,"doi":"10.1063/1.2784121","type":"erratum"},"doi":"10.1063/1.1580805","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Variational formulation for the electrostatic potential in dielectric continua” [J.Chem.Phys. 119, 1365 (2003)]."}
+{
+  "retracted": false,
+  "timestamp": 1190937600000,
+  "updates": [
+    {
+      "timestamp": 1495989174489,
+      "identifier": {
+        "doi": "10.1063/1.2784121"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1580805"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Variational formulation for the electrostatic potential in dielectric continua” [J.Chem.Phys. 119, 1365 (2003)]."
+}

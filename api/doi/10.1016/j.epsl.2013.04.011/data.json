@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.epsl.2013.08.053","type":"err"},"doi":"10.1016/j.epsl.2013.04.011","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Effect of water in depleted mantle on post-spinel transition and implication for 660 km seismic discontinuity” [Earth Planet. Sci. Lett. 371–372 (2013) 103–111]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496050639073,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2013.08.053"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2013.04.011"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of water in depleted mantle on post-spinel transition and implication for 660 km seismic discontinuity” [Earth Planet. Sci. Lett. 371–372 (2013) 103–111]"
+}

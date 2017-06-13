@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435017600000,"doi":"10.1017/s0263523200006686","type":"correction"},"doi":"10.1017/s0263523200006492","journal":"Hegel Bulletin","publisher":"Cambridge University Press (CUP)","title":"Short Book Notes: Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1435017600000,
+  "updates": [
+    {
+      "timestamp": 1495733713266,
+      "identifier": {
+        "doi": "10.1017/s0263523200006686"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0263523200006492"
+  },
+  "journal": "Hegel Bulletin",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Short Book Notes: Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466985600000,"doi":"10.1186/s12974-016-0639-y","type":"correction"},"doi":"10.1186/s12974-016-0583-x","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Inhibition of myeloperoxidase oxidant production by N-acetyl lysyltyrosylcysteine amide reduces brain damage in a murine model of stroke"}
+{
+  "retracted": false,
+  "timestamp": 1466985600000,
+  "updates": [
+    {
+      "timestamp": 1495722912540,
+      "identifier": {
+        "doi": "10.1186/s12974-016-0639-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12974-016-0583-x"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inhibition of myeloperoxidase oxidant production by N-acetyl lysyltyrosylcysteine amide reduces brain damage in a murine model of stroke"
+}

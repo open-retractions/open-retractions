@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1290124800000,"doi":"10.1186/1471-244x-10-93","type":"correction"},"doi":"10.1186/1471-244x-10-17","journal":"BMC Psychiatry","publisher":"Springer Nature","title":"Erratum to: Model-based parametric study of frontostriatal abnormalities in schizophrenia patients"}
+{
+  "retracted": false,
+  "timestamp": 1290124800000,
+  "updates": [
+    {
+      "timestamp": 1495907995431,
+      "identifier": {
+        "doi": "10.1186/1471-244x-10-93"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-244x-10-17"
+  },
+  "journal": "BMC Psychiatry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Model-based parametric study of frontostriatal abnormalities in schizophrenia patients"
+}

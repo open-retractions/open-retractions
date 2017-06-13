@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1135900800000,"doi":"10.1371/journal.pcbi.0020028","type":"correction"},"doi":"10.1371/journal.pcbi.0010079","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: New Maximum Likelihood Estimators for Eukaryotic Intron Evolution"}
+{
+  "retracted": false,
+  "timestamp": 1135900800000,
+  "updates": [
+    {
+      "timestamp": 1495989764413,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0020028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0010079"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: New Maximum Likelihood Estimators for Eukaryotic Intron Evolution"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.optom.2014.09.004","type":"err"},"doi":"10.1016/j.optom.2013.12.007","journal":"Journal of Optometry","publisher":"Elsevier BV","title":"Erratum to: “Under-correction of Human Myopia – Is It Myopigenic?: A Retrospective Analysis of Clinical Refraction Data” [J Optom 7(3) (2014) 147–152]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496010273607,
+      "identifier": {
+        "doi": "10.1016/j.optom.2014.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optom.2013.12.007"
+  },
+  "journal": "Journal of Optometry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Under-correction of Human Myopia – Is It Myopigenic?: A Retrospective Analysis of Clinical Refraction Data” [J Optom 7(3) (2014) 147–152]"
+}

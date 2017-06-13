@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399593600000,"doi":"10.1007/s00170-014-5893-5","type":"correction"},"doi":"10.1007/s00170-014-5665-2","journal":"The International Journal of Advanced Manufacturing Technology","publisher":"Springer Nature","title":"Erratum to: Efficient force prediction for incremental sheet forming and experimental validation"}
+{
+  "retracted": false,
+  "timestamp": 1399593600000,
+  "updates": [
+    {
+      "timestamp": 1496037221879,
+      "identifier": {
+        "doi": "10.1007/s00170-014-5893-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00170-014-5665-2"
+  },
+  "journal": "The International Journal of Advanced Manufacturing Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Efficient force prediction for incremental sheet forming and experimental validation"
+}

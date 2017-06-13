@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485820800000,"doi":"10.1186/s12875-016-0572-2","type":"correction"},"doi":"10.1186/s12875-016-0495-y","journal":"BMC Family Practice","publisher":"Springer Nature","title":"Erratum to: Typologies in GPs’ referral practice"}
+{
+  "retracted": false,
+  "timestamp": 1485820800000,
+  "updates": [
+    {
+      "timestamp": 1495679874577,
+      "identifier": {
+        "doi": "10.1186/s12875-016-0572-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12875-016-0495-y"
+  },
+  "journal": "BMC Family Practice",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Typologies in GPs’ referral practice"
+}

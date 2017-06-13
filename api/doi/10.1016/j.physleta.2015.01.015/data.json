@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488067200000,"doi":"10.1016/j.physleta.2016.11.019","type":"erratum"},"doi":"10.1016/j.physleta.2015.01.015","journal":"Physics Letters A","publisher":"Elsevier BV","title":"Corrigendum to “Absolutely continuous invariant measure of a map from grazing-impact oscillators” [Phys. Lett. A 379 (2015) 901–906]"}
+{
+  "retracted": false,
+  "timestamp": 1488067200000,
+  "updates": [
+    {
+      "timestamp": 1495672660479,
+      "identifier": {
+        "doi": "10.1016/j.physleta.2016.11.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physleta.2015.01.015"
+  },
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Absolutely continuous invariant measure of a map from grazing-impact oscillators” [Phys. Lett. A 379 (2015) 901–906]"
+}

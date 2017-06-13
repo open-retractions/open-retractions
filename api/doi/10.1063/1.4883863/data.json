@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435017600000,"doi":"10.1063/1.4922895","type":"correction"},"doi":"10.1063/1.4883863","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Effect of deposition temperature on electron-beam evaporated polycrystalline silicon thin-film and crystallized by diode laser” [Appl. Phys. Lett. 104, 242102 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1435017600000,
+  "updates": [
+    {
+      "timestamp": 1496010167554,
+      "identifier": {
+        "doi": "10.1063/1.4922895"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4883863"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Effect of deposition temperature on electron-beam evaporated polycrystalline silicon thin-film and crystallized by diode laser” [Appl. Phys. Lett. 104, 242102 (2014)]"
+}

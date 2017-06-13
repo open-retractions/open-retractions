@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.foodhyd.2015.05.005","type":"err"},"doi":"10.1016/j.foodhyd.2013.07.025","journal":"Food Hydrocolloids","publisher":"Elsevier BV","title":"Corrigendum to “The physicochemical stability and in vitro bioaccessibility of beta-carotene in oil-in-water sodium caseinate emulsions” [Food Hydrocoll 35 (March 2014) 19–27]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496002860129,
+      "identifier": {
+        "doi": "10.1016/j.foodhyd.2015.05.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodhyd.2013.07.025"
+  },
+  "journal": "Food Hydrocolloids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The physicochemical stability and in vitro bioaccessibility of beta-carotene in oil-in-water sodium caseinate emulsions” [Food Hydrocoll 35 (March 2014) 19–27]"
+}

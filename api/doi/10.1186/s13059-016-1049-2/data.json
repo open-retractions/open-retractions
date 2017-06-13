@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484697600000,"doi":"10.1186/s13059-017-1155-9","type":"correction"},"doi":"10.1186/s13059-016-1049-2","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: The whole genome sequence of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), reveals insights into the biology and adaptive evolution of a highly invasive pest species"}
+{
+  "retracted": false,
+  "timestamp": 1484697600000,
+  "updates": [
+    {
+      "timestamp": 1495671272011,
+      "identifier": {
+        "doi": "10.1186/s13059-017-1155-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-1049-2"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The whole genome sequence of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), reveals insights into the biology and adaptive evolution of a highly invasive pest species"
+}

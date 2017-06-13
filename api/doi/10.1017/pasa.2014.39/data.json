@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422835200000,"doi":"10.1017/pasa.2014.45","type":"correction"},"doi":"10.1017/pasa.2014.39","journal":"Publications of the Astronomical Society of Australia","publisher":"Cambridge University Press (CUP)","title":"A Subsystem Test Bed for Chinese Spectral Radioheliograph – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1422835200000,
+  "updates": [
+    {
+      "timestamp": 1496041985246,
+      "identifier": {
+        "doi": "10.1017/pasa.2014.45"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/pasa.2014.39"
+  },
+  "journal": "Publications of the Astronomical Society of Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "A Subsystem Test Bed for Chinese Spectral Radioheliograph – CORRIGENDUM"
+}

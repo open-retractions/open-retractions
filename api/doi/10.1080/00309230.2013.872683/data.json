@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406764800000,"doi":"10.1080/00309230.2014.944352","type":"correction"},"doi":"10.1080/00309230.2013.872683","journal":"Paedagogica Historica","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1406764800000,
+  "updates": [
+    {
+      "timestamp": 1496054950567,
+      "identifier": {
+        "doi": "10.1080/00309230.2014.944352"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00309230.2013.872683"
+  },
+  "journal": "Paedagogica Historica",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

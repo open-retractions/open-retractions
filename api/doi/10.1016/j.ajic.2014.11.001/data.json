@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.ajic.2015.02.021","type":"erratum"},"doi":"10.1016/j.ajic.2014.11.001","journal":"American Journal of Infection Control","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496050013081,
+      "identifier": {
+        "doi": "10.1016/j.ajic.2015.02.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajic.2014.11.001"
+  },
+  "journal": "American Journal of Infection Control",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

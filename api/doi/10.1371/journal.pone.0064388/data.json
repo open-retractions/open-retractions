@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372809600000,"doi":"10.1371/annotation/1ba8c49a-f6cb-4565-8a36-7d7c429ea670","type":"correction"},"doi":"10.1371/journal.pone.0064388","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: In Vitro Analysis of Breast Cancer Cell Line Tumourspheres and Primary Human Breast Epithelia Mammospheres Demonstrates Inter- and Intrasphere Heterogeneity"}
+{
+  "retracted": false,
+  "timestamp": 1372809600000,
+  "updates": [
+    {
+      "timestamp": 1496038584372,
+      "identifier": {
+        "doi": "10.1371/annotation/1ba8c49a-f6cb-4565-8a36-7d7c429ea670"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0064388"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: In Vitro Analysis of Breast Cancer Cell Line Tumourspheres and Primary Human Breast Epithelia Mammospheres Demonstrates Inter- and Intrasphere Heterogeneity"
+}

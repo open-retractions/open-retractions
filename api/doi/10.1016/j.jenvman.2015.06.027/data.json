@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.jenvman.2015.07.050","type":"erratum"},"doi":"10.1016/j.jenvman.2015.06.027","journal":"Journal of Environmental Management","publisher":"Elsevier BV","title":"Corrigendum to “Development of a loop-mediated isothermal amplification method for the rapid detection of the dioxin-degrading bacterium Ochrobactrum antropi in soil” [J. Environ. Manag. 161 (2015) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496021057543,
+      "identifier": {
+        "doi": "10.1016/j.jenvman.2015.07.050"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jenvman.2015.06.027"
+  },
+  "journal": "Journal of Environmental Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of a loop-mediated isothermal amplification method for the rapid detection of the dioxin-degrading bacterium Ochrobactrum antropi in soil” [J. Environ. Manag. 161 (2015) 1–8]"
+}

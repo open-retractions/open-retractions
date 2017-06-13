@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.gene.2015.12.062","type":"err"},"doi":"10.1016/j.gene.2015.07.078","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to succinic semialdehyde dehydrogenase deficiency of four Chinese patients and prenatal diagnosis for three fetuses [Gene 574(2015) 41–47]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1496060271380,
+      "identifier": {
+        "doi": "10.1016/j.gene.2015.12.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2015.07.078"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to succinic semialdehyde dehydrogenase deficiency of four Chinese patients and prenatal diagnosis for three fetuses [Gene 574(2015) 41–47]"
+}

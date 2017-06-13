@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1128/jvi.00992-16","type":"correction"},"doi":"10.1128/jvi.00475-16","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Erratum for Metrick and Heldwein, Novel Structure and Unexpected RNA-Binding Ability of the C-Terminal Domain of Herpes Simplex Virus 1 Tegument Protein UL21"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495727887773,
+      "identifier": {
+        "doi": "10.1128/jvi.00992-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.00475-16"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Metrick and Heldwein, Novel Structure and Unexpected RNA-Binding Ability of the C-Terminal Domain of Herpes Simplex Virus 1 Tegument Protein UL21"
+}

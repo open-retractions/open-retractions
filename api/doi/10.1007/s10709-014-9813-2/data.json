@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1007/s10709-015-9857-y","type":"correction"},"doi":"10.1007/s10709-014-9813-2","journal":"Genetica","publisher":"Springer Nature","title":"Erratum to: Identification and chromosome mapping of repetitive elements in the Astyanax scabripinnis (Teleostei: Characidae) species complex"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1496015848418,
+      "identifier": {
+        "doi": "10.1007/s10709-015-9857-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10709-014-9813-2"
+  },
+  "journal": "Genetica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification and chromosome mapping of repetitive elements in the Astyanax scabripinnis (Teleostei: Characidae) species complex"
+}

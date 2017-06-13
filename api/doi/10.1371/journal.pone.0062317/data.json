@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1371/annotation/1506bbde-ee47-49eb-a31e-6c7ff5fff0f9","type":"correction"},"doi":"10.1371/journal.pone.0062317","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Extensive Microsatellite Variation in Rice Induced by Introgression from Wild Rice (Zizania latifolia Griseb.)"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496047678814,
+      "identifier": {
+        "doi": "10.1371/annotation/1506bbde-ee47-49eb-a31e-6c7ff5fff0f9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0062317"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Extensive Microsatellite Variation in Rice Induced by Introgression from Wild Rice (Zizania latifolia Griseb.)"
+}

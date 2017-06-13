@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.eururo.2015.01.021","type":"err"},"doi":"10.1016/j.eururo.2013.05.024","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum to “Incidence of Prostate Cancer After Termination of Screening in a Population-based Randomised Screening Trial” [Eur Urol 2013;64:703–9]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496042027638,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2015.01.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2013.05.024"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Incidence of Prostate Cancer After Termination of Screening in a Population-based Randomised Screening Trial” [Eur Urol 2013;64:703–9]"
+}

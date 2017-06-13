@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.fob.2014.11.007","type":"err"},"doi":"10.1016/j.fob.2013.11.001","journal":"FEBS Open Bio","publisher":"Wiley-Blackwell","title":"Corrigendum to “The ALS/FTLD-related RNA-binding proteins TDP-43 and FUS have common downstream RNA targets in cortical neurons” [FEBS Open Bio 4 (2014) 1-10]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496024383010,
+      "identifier": {
+        "doi": "10.1016/j.fob.2014.11.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fob.2013.11.001"
+  },
+  "journal": "FEBS Open Bio",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “The ALS/FTLD-related RNA-binding proteins TDP-43 and FUS have common downstream RNA targets in cortical neurons” [FEBS Open Bio 4 (2014) 1-10]"
+}

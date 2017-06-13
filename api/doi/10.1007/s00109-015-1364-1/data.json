@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455926400000,"doi":"10.1007/s00109-016-1394-3","type":"correction"},"doi":"10.1007/s00109-015-1364-1","journal":"Journal of Molecular Medicine","publisher":"Springer Nature","title":"Erratum to: A flow cytometry-based reporter assay identifies macrolide antibiotics as nonsense mutation read-through agents"}
+{
+  "retracted": false,
+  "timestamp": 1455926400000,
+  "updates": [
+    {
+      "timestamp": 1495645475173,
+      "identifier": {
+        "doi": "10.1007/s00109-016-1394-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00109-015-1364-1"
+  },
+  "journal": "Journal of Molecular Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A flow cytometry-based reporter assay identifies macrolide antibiotics as nonsense mutation read-through agents"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.jde.2014.07.005","type":"err"},"doi":"10.1016/j.jde.2013.01.020","journal":"Journal of Differential Equations","publisher":"Elsevier BV","title":"Erratum to “Existence of self-similar profile for a kinetic annihilation model” [J. Differential Equations 254 (7) (2013) 3023–3080]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496055114817,
+      "identifier": {
+        "doi": "10.1016/j.jde.2014.07.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jde.2013.01.020"
+  },
+  "journal": "Journal of Differential Equations",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Existence of self-similar profile for a kinetic annihilation model” [J. Differential Equations 254 (7) (2013) 3023–3080]"
+}

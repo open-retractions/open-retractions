@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1007/s11764-016-0586-8","type":"correction"},"doi":"10.1007/s11764-016-0578-8","journal":"Journal of Cancer Survivorship","publisher":"Springer Nature","title":"Erratum to: Return to work among self-employed cancer survivors"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495667220223,
+      "identifier": {
+        "doi": "10.1007/s11764-016-0586-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11764-016-0578-8"
+  },
+  "journal": "Journal of Cancer Survivorship",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Return to work among self-employed cancer survivors"
+}

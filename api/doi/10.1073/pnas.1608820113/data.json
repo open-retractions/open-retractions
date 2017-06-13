@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484006400000,"doi":"10.1073/pnas.1620047114","type":"correction"},"doi":"10.1073/pnas.1608820113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lever et al., Architecture of a minimal signaling pathway explains the T-cell response to a 1 million-fold variation in antigen affinity and dose"}
+{
+  "retracted": false,
+  "timestamp": 1484006400000,
+  "updates": [
+    {
+      "timestamp": 1495672233012,
+      "identifier": {
+        "doi": "10.1073/pnas.1620047114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1608820113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lever et al., Architecture of a minimal signaling pathway explains the T-cell response to a 1 million-fold variation in antigen affinity and dose"
+}

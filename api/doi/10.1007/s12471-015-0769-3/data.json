@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1007/s12471-016-0807-9","type":"correction"},"doi":"10.1007/s12471-015-0769-3","journal":"Netherlands Heart Journal","publisher":"Springer Nature","title":"Erratum to: Echocardiography and cardiac resynchronization therapy, friends or foes?"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645619441,
+      "identifier": {
+        "doi": "10.1007/s12471-016-0807-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12471-015-0769-3"
+  },
+  "journal": "Netherlands Heart Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Echocardiography and cardiac resynchronization therapy, friends or foes?"
+}

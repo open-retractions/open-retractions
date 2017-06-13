@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.bulcan.2017.02.001","type":"erratum"},"doi":"10.1016/j.bulcan.2016.11.003","journal":"Bulletin du Cancer","publisher":"Elsevier BV","title":"Erratum à l’article : « La fréquence des cancers en 2016 et leur évolution » [Bull. Cancer 104 (2017) 20–29]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495728767699,
+      "identifier": {
+        "doi": "10.1016/j.bulcan.2017.02.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bulcan.2016.11.003"
+  },
+  "journal": "Bulletin du Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à l’article : « La fréquence des cancers en 2016 et leur évolution » [Bull. Cancer 104 (2017) 20–29]"
+}

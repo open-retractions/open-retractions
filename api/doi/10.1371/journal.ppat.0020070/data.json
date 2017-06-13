@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1156464000000,"doi":"10.1371/journal.ppat.0020088","type":"correction"},"doi":"10.1371/journal.ppat.0020070","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: DC-SIGN on B Lymphocytes Is Required for Transmission of HIV-1 to T Lymphocytes"}
+{
+  "retracted": false,
+  "timestamp": 1156464000000,
+  "updates": [
+    {
+      "timestamp": 1495862835999,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.0020088"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.0020070"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: DC-SIGN on B Lymphocytes Is Required for Transmission of HIV-1 to T Lymphocytes"
+}

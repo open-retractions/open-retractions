@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427587200000,"doi":"10.1007/s00184-015-0539-7","type":"correction"},"doi":"10.1007/s00184-014-0520-x","journal":"Metrika","publisher":"Springer Nature","title":"Erratum to: Improving the EBLUPs of balanced mixed-effects models"}
+{
+  "retracted": false,
+  "timestamp": 1427587200000,
+  "updates": [
+    {
+      "timestamp": 1496053700507,
+      "identifier": {
+        "doi": "10.1007/s00184-015-0539-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00184-014-0520-x"
+  },
+  "journal": "Metrika",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Improving the EBLUPs of balanced mixed-effects models"
+}

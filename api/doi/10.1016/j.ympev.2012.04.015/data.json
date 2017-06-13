@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ympev.2014.04.001","type":"err"},"doi":"10.1016/j.ympev.2012.04.015","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “Molecular and morphological phylogeny of hooded shrimps, genera Betaeus and Betaeopsis (Decapoda, Alpheidae): Testing the Center of Origin biogeographic model and evolution of life history traits [Mol. Phylogenet. Evol. 64 (3) (2012) 401–415]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496031175861,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2012.04.015"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular and morphological phylogeny of hooded shrimps, genera Betaeus and Betaeopsis (Decapoda, Alpheidae): Testing the Center of Origin biogeographic model and evolution of life history traits [Mol. Phylogenet. Evol. 64 (3) (2012) 401–415]"
+}

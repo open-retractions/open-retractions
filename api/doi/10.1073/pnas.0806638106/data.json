@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1234224000000,"doi":"10.1073/pnas.0905666106","type":"correction"},"doi":"10.1073/pnas.0806638106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jenouvrier et al., Demographic models and IPCC climate projections predict the decline of an emperor penguin population"}
+{
+  "retracted": false,
+  "timestamp": 1234224000000,
+  "updates": [
+    {
+      "timestamp": 1495930248787,
+      "identifier": {
+        "doi": "10.1073/pnas.0905666106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0806638106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jenouvrier et al., Demographic models and IPCC climate projections predict the decline of an emperor penguin population"
+}

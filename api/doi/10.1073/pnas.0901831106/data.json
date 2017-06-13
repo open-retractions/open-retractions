@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245715200000,"doi":"10.1073/pnas.0906701106","type":"correction"},"doi":"10.1073/pnas.0901831106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Deco et al., Key role of coupling, delay, and noise in resting brain fluctuations"}
+{
+  "retracted": false,
+  "timestamp": 1245715200000,
+  "updates": [
+    {
+      "timestamp": 1495930715333,
+      "identifier": {
+        "doi": "10.1073/pnas.0906701106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0901831106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Deco et al., Key role of coupling, delay, and noise in resting brain fluctuations"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1459468800000,"update":{"timestamp":null,"doi":null,"pmid":27173577,"type":"retraction"},"doi":"10.1016/j.foodchem.2015.10.016","journal":"Food chemistry","publisher":null,"title":"Vibrational spectroscopy used in milk products analysis: A review."}
+{
+  "retracted": false,
+  "timestamp": 1476489600000,
+  "updates": [
+    {
+      "timestamp": 1495674881300,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.04.131"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.10.016"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Vibrational spectroscopy used in milk products analysis: A review” [Food Chem. 196 (2016) 877–884]"
+}

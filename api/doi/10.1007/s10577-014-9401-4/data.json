@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1007/s10577-014-9408-x","type":"correction"},"doi":"10.1007/s10577-014-9401-4","journal":"Chromosome Research","publisher":"Springer Nature","title":"Erratum to: Tribe-specific satellite DNA in non-domestic Bovidae"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1496024344908,
+      "identifier": {
+        "doi": "10.1007/s10577-014-9408-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10577-014-9401-4"
+  },
+  "journal": "Chromosome Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tribe-specific satellite DNA in non-domestic Bovidae"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202428800000,"doi":"10.1007/bf02733219","type":"correction"},"doi":"10.1007/bf02828995","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Transfer of negative muons to gases dissolved in a hydrogen bubble chamber"}
+{
+  "retracted": false,
+  "timestamp": 1202428800000,
+  "updates": [
+    {
+      "timestamp": 1495830247143,
+      "identifier": {
+        "doi": "10.1007/bf02733219"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02828995"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transfer of negative muons to gases dissolved in a hydrogen bubble chamber"
+}

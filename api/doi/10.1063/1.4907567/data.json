@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1063/1.4921964","type":"correction"},"doi":"10.1063/1.4907567","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Tailoring the nonlinear frequency coupling between odd harmonics for the optimisation of charged particle dynamics in capacitively coupled oxygen plasmas” [Appl. Phys. Lett. 106, 054102 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496003012013,
+      "identifier": {
+        "doi": "10.1063/1.4921964"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4907567"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Tailoring the nonlinear frequency coupling between odd harmonics for the optimisation of charged particle dynamics in capacitively coupled oxygen plasmas” [Appl. Phys. Lett. 106, 054102 (2015)]"
+}

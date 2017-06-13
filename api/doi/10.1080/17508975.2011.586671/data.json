@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1080/17508975.2013.853408","type":"correction"},"doi":"10.1080/17508975.2011.586671","journal":"Intelligent Buildings International","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1495992550717,
+      "identifier": {
+        "doi": "10.1080/17508975.2013.853408"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17508975.2011.586671"
+  },
+  "journal": "Intelligent Buildings International",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

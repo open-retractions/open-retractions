@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jss.2013.11.011","type":"err"},"doi":"10.1016/j.jss.2013.03.061","journal":"Journal of Systems and Software","publisher":"Elsevier BV","title":"Corrigendum to: “SPAPE: A semantic-preserving amorphous procedure extraction method for near-miss clones”"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496000305206,
+      "identifier": {
+        "doi": "10.1016/j.jss.2013.11.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jss.2013.03.061"
+  },
+  "journal": "Journal of Systems and Software",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “SPAPE: A semantic-preserving amorphous procedure extraction method for near-miss clones”"
+}

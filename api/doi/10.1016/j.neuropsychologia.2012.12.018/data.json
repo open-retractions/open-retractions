@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.neuropsychologia.2013.05.019","type":"err"},"doi":"10.1016/j.neuropsychologia.2012.12.018","journal":"Neuropsychologia","publisher":"Elsevier BV","title":"Erratum to “Neural correlates of spontaneous deception: A functional near-infrared spectroscopy (fNIRS) study” [Neuropsychologia, 51(4), 704–712]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496024280105,
+      "identifier": {
+        "doi": "10.1016/j.neuropsychologia.2013.05.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuropsychologia.2012.12.018"
+  },
+  "journal": "Neuropsychologia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Neural correlates of spontaneous deception: A functional near-infrared spectroscopy (fNIRS) study” [Neuropsychologia, 51(4), 704–712]"
+}

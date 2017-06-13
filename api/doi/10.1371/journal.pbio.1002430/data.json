@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1371/journal.pbio.1002492","type":"correction"},"doi":"10.1371/journal.pbio.1002430","journal":"PLOS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Reinventing Biostatistics Education for Basic Scientists"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495718781779,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1002492"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1002430"
+  },
+  "journal": "PLOS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Reinventing Biostatistics Education for Basic Scientists"
+}

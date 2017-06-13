@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1278374400000,"doi":"10.1073/pnas.1103909108","type":"correction"},"doi":"10.1073/pnas.1003379107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kirkness et al., Genome sequences of the human body louse and its primary endosymbiont provide insights into the permanent parasitic lifestyle"}
+{
+  "retracted": false,
+  "timestamp": 1278374400000,
+  "updates": [
+    {
+      "timestamp": 1495944453999,
+      "identifier": {
+        "doi": "10.1073/pnas.1103909108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1003379107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kirkness et al., Genome sequences of the human body louse and its primary endosymbiont provide insights into the permanent parasitic lifestyle"
+}

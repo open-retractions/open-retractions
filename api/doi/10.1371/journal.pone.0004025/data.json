@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1233273600000,"doi":"10.1371/annotation/d1eb41bd-e84d-4d53-ba71-b651f1c3058d","type":"correction"},"doi":"10.1371/journal.pone.0004025","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Compositional Genome Contexts Affect Gene Expression Control in Sea Urchin Embryo"}
+{
+  "retracted": false,
+  "timestamp": 1233273600000,
+  "updates": [
+    {
+      "timestamp": 1496025199272,
+      "identifier": {
+        "doi": "10.1371/annotation/d1eb41bd-e84d-4d53-ba71-b651f1c3058d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004025"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Compositional Genome Contexts Affect Gene Expression Control in Sea Urchin Embryo"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.resp.2014.03.007","type":"err"},"doi":"10.1016/j.resp.2012.03.011","journal":"Respiratory Physiology & Neurobiology","publisher":"Elsevier BV","title":"Corrigendum to “Breathing during cardiac arrest following exercise: A new function of the respiratory system?” [Respir. Physiol. Neurobiol. 181 (2012) 220–227]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496029610207,
+      "identifier": {
+        "doi": "10.1016/j.resp.2014.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resp.2012.03.011"
+  },
+  "journal": "Respiratory Physiology & Neurobiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Breathing during cardiac arrest following exercise: A new function of the respiratory system?” [Respir. Physiol. Neurobiol. 181 (2012) 220–227]"
+}

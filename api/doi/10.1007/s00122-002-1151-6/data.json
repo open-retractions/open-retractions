@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1051056000000,"doi":"10.1007/s00122-003-1286-0","type":"correction"},"doi":"10.1007/s00122-002-1151-6","journal":"Theoretical and Applied Genetics","publisher":"Springer Nature","title":"AFLP genetic polymorphism in wild barley (Hordeum spontaneum) populations in Israel"}
+{
+  "retracted": false,
+  "timestamp": 1051056000000,
+  "updates": [
+    {
+      "timestamp": 1495653342315,
+      "identifier": {
+        "doi": "10.1007/s00122-003-1286-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00122-002-1151-6"
+  },
+  "journal": "Theoretical and Applied Genetics",
+  "publisher": "Springer Nature",
+  "title": "AFLP genetic polymorphism in wild barley (Hordeum spontaneum) populations in Israel"
+}

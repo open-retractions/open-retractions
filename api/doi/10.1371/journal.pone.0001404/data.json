@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208822400000,"doi":"10.1371/annotation/f45a5dc0-e317-4886-8c5b-1569c79a5f08","type":"correction"},"doi":"10.1371/journal.pone.0001404","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Genome-Wide Expression Analysis of a Spinal Muscular Atrophy Model: Towards Discovery of New Drug Targets"}
+{
+  "retracted": false,
+  "timestamp": 1208822400000,
+  "updates": [
+    {
+      "timestamp": 1496025197089,
+      "identifier": {
+        "doi": "10.1371/annotation/f45a5dc0-e317-4886-8c5b-1569c79a5f08"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0001404"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genome-Wide Expression Analysis of a Spinal Muscular Atrophy Model: Towards Discovery of New Drug Targets"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411084800000,"doi":"10.1080/09599916.2014.883218","type":"correction"},"doi":"10.1080/09599916.2013.870921","journal":"Journal of Property Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1411084800000,
+  "updates": [
+    {
+      "timestamp": 1496013158687,
+      "identifier": {
+        "doi": "10.1080/09599916.2014.883218"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09599916.2013.870921"
+  },
+  "journal": "Journal of Property Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

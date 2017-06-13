@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469491200000,"doi":"10.1016/j.bpj.2016.07.007","type":"erratum"},"doi":"10.1016/j.bpj.2015.11.028","journal":"Biophysical Journal","publisher":"Elsevier BV","title":"Optical Pushing: A Tool for Parallelized Biomolecule Manipulation"}
+{
+  "retracted": false,
+  "timestamp": 1469491200000,
+  "updates": [
+    {
+      "timestamp": 1495732034962,
+      "identifier": {
+        "doi": "10.1016/j.bpj.2016.07.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpj.2015.11.028"
+  },
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Optical Pushing: A Tool for Parallelized Biomolecule Manipulation"
+}

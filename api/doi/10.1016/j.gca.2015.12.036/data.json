@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.gca.2016.06.025","type":"err"},"doi":"10.1016/j.gca.2015.12.036","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Basin-scale controls on the molybdenum-isotope composition of seawater during Oceanic Anoxic Event 2 (Late Cretaceous)” [Geochim. Cosmochim. Acta 178 (2016) 291–306]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495732147482,
+      "identifier": {
+        "doi": "10.1016/j.gca.2016.06.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2015.12.036"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Basin-scale controls on the molybdenum-isotope composition of seawater during Oceanic Anoxic Event 2 (Late Cretaceous)” [Geochim. Cosmochim. Acta 178 (2016) 291–306]"
+}

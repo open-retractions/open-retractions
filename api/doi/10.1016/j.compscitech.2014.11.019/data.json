@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466121600000,"doi":"10.1016/j.compscitech.2016.04.031","type":"err"},"doi":"10.1016/j.compscitech.2014.11.019","journal":"Composites Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to “A displacement based model to determine the steady state creep strain rate of short fiber composites” [Compos. Sci. Technol. 107 (2015) 18–28]"}
+{
+  "retracted": false,
+  "timestamp": 1466121600000,
+  "updates": [
+    {
+      "timestamp": 1495676101453,
+      "identifier": {
+        "doi": "10.1016/j.compscitech.2016.04.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compscitech.2014.11.019"
+  },
+  "journal": "Composites Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A displacement based model to determine the steady state creep strain rate of short fiber composites” [Compos. Sci. Technol. 107 (2015) 18–28]"
+}

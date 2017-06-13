@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344556800000,"doi":"10.1371/annotation/ca21f359-8e8e-4c3d-8308-e0f20fc446bb","type":"correction"},"doi":"10.1371/journal.pone.0033338","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional and Molecular Characterization of Rod-like Cells from Retinal Stem Cells Derived from the Adult Ciliary Epithelium"}
+{
+  "retracted": false,
+  "timestamp": 1344556800000,
+  "updates": [
+    {
+      "timestamp": 1495926385995,
+      "identifier": {
+        "doi": "10.1371/annotation/ca21f359-8e8e-4c3d-8308-e0f20fc446bb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033338"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional and Molecular Characterization of Rod-like Cells from Retinal Stem Cells Derived from the Adult Ciliary Epithelium"
+}

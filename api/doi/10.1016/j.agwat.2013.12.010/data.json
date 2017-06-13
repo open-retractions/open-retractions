@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406764800000,"doi":"10.1016/j.agwat.2014.04.001","type":"err"},"doi":"10.1016/j.agwat.2013.12.010","journal":"Agricultural Water Management","publisher":"Elsevier BV","title":"Corrigendum to “Partitioning evapotranspiration, yield prediction and economic returns of maize under various irrigation management strategies” [Agric. Water Manage. 135 (2014) 27–39]"}
+{
+  "retracted": false,
+  "timestamp": 1406764800000,
+  "updates": [
+    {
+      "timestamp": 1496035697849,
+      "identifier": {
+        "doi": "10.1016/j.agwat.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agwat.2013.12.010"
+  },
+  "journal": "Agricultural Water Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Partitioning evapotranspiration, yield prediction and economic returns of maize under various irrigation management strategies” [Agric. Water Manage. 135 (2014) 27–39]"
+}

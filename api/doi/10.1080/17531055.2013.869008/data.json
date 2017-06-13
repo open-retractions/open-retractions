@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392768000000,"doi":"10.1080/17531055.2014.888179","type":"correction"},"doi":"10.1080/17531055.2013.869008","journal":"Journal of Eastern African Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1392768000000,
+  "updates": [
+    {
+      "timestamp": 1496014835470,
+      "identifier": {
+        "doi": "10.1080/17531055.2014.888179"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17531055.2013.869008"
+  },
+  "journal": "Journal of Eastern African Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410393600000,"doi":"10.1007/s00429-014-0884-8","type":"correction"},"doi":"10.1007/s00429-014-0806-9","journal":"Brain Structure and Function","publisher":"Springer Nature","title":"Erratum to: A new myeloarchitectonic map of the human neocortex based on data from the Vogt–Vogt school"}
+{
+  "retracted": false,
+  "timestamp": 1410393600000,
+  "updates": [
+    {
+      "timestamp": 1496005589294,
+      "identifier": {
+        "doi": "10.1007/s00429-014-0884-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00429-014-0806-9"
+  },
+  "journal": "Brain Structure and Function",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new myeloarchitectonic map of the human neocortex based on data from the Vogt–Vogt school"
+}

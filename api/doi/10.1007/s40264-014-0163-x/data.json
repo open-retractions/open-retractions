@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404345600000,"doi":"10.1007/s40264-014-0200-9","type":"correction"},"doi":"10.1007/s40264-014-0163-x","journal":"Drug Safety","publisher":"Springer Nature","title":"Erratum to: Association of Statin Use with Sleep Disturbances: Data Mining of a Spontaneous Reporting Database and a Prescription Database"}
+{
+  "retracted": false,
+  "timestamp": 1404345600000,
+  "updates": [
+    {
+      "timestamp": 1496050905173,
+      "identifier": {
+        "doi": "10.1007/s40264-014-0200-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40264-014-0163-x"
+  },
+  "journal": "Drug Safety",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Association of Statin Use with Sleep Disturbances: Data Mining of a Spontaneous Reporting Database and a Prescription Database"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":727056000000,"doi":"10.1073/pnas.90.2.781a","type":"correction"},"doi":"10.1073/pnas.89.12.5281","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"A molecular mechanism for pyrimidine and purine nucleotide control of aspartate transcarbamoylase"}
+{
+  "retracted": false,
+  "timestamp": 727056000000,
+  "updates": [
+    {
+      "timestamp": 1495847386958,
+      "identifier": {
+        "doi": "10.1073/pnas.90.2.781a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.89.12.5281"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "A molecular mechanism for pyrimidine and purine nucleotide control of aspartate transcarbamoylase"
+}

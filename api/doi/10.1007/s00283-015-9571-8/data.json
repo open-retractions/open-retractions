@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454457600000,"doi":"10.1007/s00283-015-9616-z","type":"correction"},"doi":"10.1007/s00283-015-9571-8","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: Math at the Met"}
+{
+  "retracted": false,
+  "timestamp": 1454457600000,
+  "updates": [
+    {
+      "timestamp": 1495642200616,
+      "identifier": {
+        "doi": "10.1007/s00283-015-9616-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00283-015-9571-8"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Math at the Met"
+}

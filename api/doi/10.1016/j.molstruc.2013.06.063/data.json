@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386201600000,"doi":"10.1016/j.molstruc.2013.09.015","type":"err"},"doi":"10.1016/j.molstruc.2013.06.063","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to ‘Porous silica supports for micro-Raman spectroscopic studies of individual living cells’ [J. Mol. Struct. 1050 (2013) 232–237]"}
+{
+  "retracted": false,
+  "timestamp": 1386201600000,
+  "updates": [
+    {
+      "timestamp": 1496053783216,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2013.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2013.06.063"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Porous silica supports for micro-Raman spectroscopic studies of individual living cells’ [J. Mol. Struct. 1050 (2013) 232–237]"
+}

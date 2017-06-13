@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.3109/09513590.2015.1128059","type":"correction"},"doi":"10.3109/09513590.2015.1104296","journal":"Gynecological Endocrinology","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496053539122,
+      "identifier": {
+        "doi": "10.3109/09513590.2015.1128059"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/09513590.2015.1104296"
+  },
+  "journal": "Gynecological Endocrinology",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

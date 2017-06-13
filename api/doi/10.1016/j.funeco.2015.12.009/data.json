@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.funeco.2016.05.002","type":"err"},"doi":"10.1016/j.funeco.2015.12.009","journal":"Fungal Ecology","publisher":"Elsevier BV","title":"Corrigendum to “A cost-effective and efficient strategy for illumina sequencing of fungal communities: A case study of beech endophytes identified elevation as main explanatory factor for diversity and community composition” [Fungal Ecol. 20 (2016) 175–185]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495671197344,
+      "identifier": {
+        "doi": "10.1016/j.funeco.2016.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.funeco.2015.12.009"
+  },
+  "journal": "Fungal Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A cost-effective and efficient strategy for illumina sequencing of fungal communities: A case study of beech endophytes identified elevation as main explanatory factor for diversity and community composition” [Fungal Ecol. 20 (2016) 175–185]"
+}

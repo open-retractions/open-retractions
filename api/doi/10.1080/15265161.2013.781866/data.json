@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404086400000,"doi":"10.1080/15265161.2014.927662","type":"correction"},"doi":"10.1080/15265161.2013.781866","journal":"The American Journal of Bioethics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1404086400000,
+  "updates": [
+    {
+      "timestamp": 1496050016419,
+      "identifier": {
+        "doi": "10.1080/15265161.2014.927662"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15265161.2013.781866"
+  },
+  "journal": "The American Journal of Bioethics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

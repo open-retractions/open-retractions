@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397952000000,"doi":"10.1007/s10334-014-0445-4","type":"correction"},"doi":"10.1007/s10334-012-0328-5","journal":"Magnetic Resonance Materials in Physics, Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: Quantitative accuracy of attenuation correction in the Philips Ingenuity TF whole-body PET/MR system: a direct comparison with transmission-based attenuation correction"}
+{
+  "retracted": false,
+  "timestamp": 1397952000000,
+  "updates": [
+    {
+      "timestamp": 1496034212080,
+      "identifier": {
+        "doi": "10.1007/s10334-014-0445-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10334-012-0328-5"
+  },
+  "journal": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantitative accuracy of attenuation correction in the Philips Ingenuity TF whole-body PET/MR system: a direct comparison with transmission-based attenuation correction"
+}

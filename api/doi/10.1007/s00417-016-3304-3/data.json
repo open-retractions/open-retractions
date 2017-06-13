@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1007/s00417-016-3320-3","type":"correction"},"doi":"10.1007/s00417-016-3304-3","journal":"Graefe's Archive for Clinical and Experimental Ophthalmology","publisher":"Springer Nature","title":"Erratum to: Effect of hole size on fluid dynamics of a posterior-chamber phakic intraocular lens with a central perforation by using computational fluid dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649355432,
+      "identifier": {
+        "doi": "10.1007/s00417-016-3320-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00417-016-3304-3"
+  },
+  "journal": "Graefe's Archive for Clinical and Experimental Ophthalmology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of hole size on fluid dynamics of a posterior-chamber phakic intraocular lens with a central perforation by using computational fluid dynamics"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424476800000,"doi":"10.1007/s15010-015-0739-0","type":"correction"},"doi":"10.1007/s15010-014-0700-7","journal":"Infection","publisher":"Springer Nature","title":"Erratum to: Characterization of the dengue outbreak in Nuevo Leon state, Mexico, 2010"}
+{
+  "retracted": false,
+  "timestamp": 1424476800000,
+  "updates": [
+    {
+      "timestamp": 1496045348565,
+      "identifier": {
+        "doi": "10.1007/s15010-015-0739-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s15010-014-0700-7"
+  },
+  "journal": "Infection",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Characterization of the dengue outbreak in Nuevo Leon state, Mexico, 2010"
+}

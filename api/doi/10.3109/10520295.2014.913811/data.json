@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429833600000,"doi":"10.3109/10520295.2015.1030921","type":"correction"},"doi":"10.3109/10520295.2014.913811","journal":"Biotechnic & Histochemistry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1429833600000,
+  "updates": [
+    {
+      "timestamp": 1496057344979,
+      "identifier": {
+        "doi": "10.3109/10520295.2015.1030921"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10520295.2014.913811"
+  },
+  "journal": "Biotechnic & Histochemistry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

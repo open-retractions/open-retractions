@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":960336000000,"doi":"10.1007/s003400000368","type":"correction"},"doi":"10.1007/s003400050783","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Atomic beam guide by a one-dimensionalmagneto-optical trap"}
+{
+  "retracted": false,
+  "timestamp": 960336000000,
+  "updates": [
+    {
+      "timestamp": 1496018026114,
+      "identifier": {
+        "doi": "10.1007/s003400000368"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s003400050783"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Atomic beam guide by a one-dimensionalmagneto-optical trap"
+}

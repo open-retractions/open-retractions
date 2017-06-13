@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461974400000,"doi":"10.1007/s00340-016-6420-1","type":"correction"},"doi":"10.1007/s00340-016-6324-0","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: The distribution mechanism of noise fluxes between three oscillating modes of a free-running class-A laser"}
+{
+  "retracted": false,
+  "timestamp": 1461974400000,
+  "updates": [
+    {
+      "timestamp": 1495670415492,
+      "identifier": {
+        "doi": "10.1007/s00340-016-6420-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-016-6324-0"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The distribution mechanism of noise fluxes between three oscillating modes of a free-running class-A laser"
+}

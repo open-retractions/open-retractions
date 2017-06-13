@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1128/genomea.00313-16","type":"correction"},"doi":"10.1128/genomea.00159-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Correction for Johnson et al., Complete Genome Sequences for 59BurkholderiaIsolates, Both Pathogenic and Near Neighbor"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495668170130,
+      "identifier": {
+        "doi": "10.1128/genomea.00313-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00159-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Johnson et al., Complete Genome Sequences for 59BurkholderiaIsolates, Both Pathogenic and Near Neighbor"
+}

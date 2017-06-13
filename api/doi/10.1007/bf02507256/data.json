@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":562723200000,"doi":"10.1007/bf02507909","type":"correction"},"doi":"10.1007/bf02507256","journal":"Il Nuovo Cimento C","publisher":"Springer Nature","title":"Erratum to: On a possible seasonal tidal influence of lunar cycles on precipitation data (Erratum)"}
+{
+  "retracted": false,
+  "timestamp": 562723200000,
+  "updates": [
+    {
+      "timestamp": 1495871096071,
+      "identifier": {
+        "doi": "10.1007/bf02507909"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02507256"
+  },
+  "journal": "Il Nuovo Cimento C",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On a possible seasonal tidal influence of lunar cycles on precipitation data (Erratum)"
+}

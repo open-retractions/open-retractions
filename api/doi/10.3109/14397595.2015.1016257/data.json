@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479081600000,"doi":"10.1080/14397595.2016.1251018","type":"correction"},"doi":"10.3109/14397595.2015.1016257","journal":"Modern Rheumatology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1479081600000,
+  "updates": [
+    {
+      "timestamp": 1495657161958,
+      "identifier": {
+        "doi": "10.1080/14397595.2016.1251018"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/14397595.2015.1016257"
+  },
+  "journal": "Modern Rheumatology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

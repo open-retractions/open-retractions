@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1041379200000,"doi":"10.1136/amiajnl-2013-m1135corr1","type":"correction"},"doi":"10.1197/jamia.m1135","journal":"Journal of the American Medical Informatics Association","publisher":"Oxford University Press (OUP)","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1041379200000,
+  "updates": [
+    {
+      "timestamp": 1496025038400,
+      "identifier": {
+        "doi": "10.1136/amiajnl-2013-m1135corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1197/jamia.m1135"
+  },
+  "journal": "Journal of the American Medical Informatics Association",
+  "publisher": "Oxford University Press (OUP)",
+  "title": "Correction"
+}

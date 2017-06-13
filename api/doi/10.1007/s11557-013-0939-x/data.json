@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390867200000,"doi":"10.1007/s11557-014-0962-6","type":"correction"},"doi":"10.1007/s11557-013-0939-x","journal":"Mycological Progress","publisher":"Springer Nature","title":"Erratum to: Mycena kentingensis, a new species of luminous mushroom in Taiwan, with reference to its culture method"}
+{
+  "retracted": false,
+  "timestamp": 1390867200000,
+  "updates": [
+    {
+      "timestamp": 1496014551032,
+      "identifier": {
+        "doi": "10.1007/s11557-014-0962-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11557-013-0939-x"
+  },
+  "journal": "Mycological Progress",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mycena kentingensis, a new species of luminous mushroom in Taiwan, with reference to its culture method"
+}

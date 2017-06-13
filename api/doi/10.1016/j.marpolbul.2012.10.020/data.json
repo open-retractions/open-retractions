@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1016/j.marpolbul.2014.05.016","type":"err"},"doi":"10.1016/j.marpolbul.2012.10.020","journal":"Marine Pollution Bulletin","publisher":"Elsevier BV","title":"Corrigendum to ‘Direct measurement of dissolved N2 and denitrification along a subtropical river-estuary gradient, China’ [Mar. Pollut. Bull. 66 (2013) 125–134]"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496039332442,
+      "identifier": {
+        "doi": "10.1016/j.marpolbul.2014.05.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marpolbul.2012.10.020"
+  },
+  "journal": "Marine Pollution Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Direct measurement of dissolved N2 and denitrification along a subtropical river-estuary gradient, China’ [Mar. Pollut. Bull. 66 (2013) 125–134]"
+}

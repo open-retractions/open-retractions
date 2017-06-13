@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461283200000,"doi":"10.1080/00036811.2016.1180789","type":"correction"},"doi":"10.1080/00036811.2016.1157586","journal":"Applicable Analysis","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1461283200000,
+  "updates": [
+    {
+      "timestamp": 1495664763367,
+      "identifier": {
+        "doi": "10.1080/00036811.2016.1180789"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00036811.2016.1157586"
+  },
+  "journal": "Applicable Analysis",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

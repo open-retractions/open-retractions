@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1111363200000,"doi":"10.1186/1472-6882-5-7","type":"correction"},"doi":"10.1186/1472-6882-4-13","journal":"BMC Complementary and Alternative Medicine","publisher":"Springer Nature","title":"Erratum to: Harpagophytum procumbens for osteoarthritis and low back pain: A systematic review"}
+{
+  "retracted": false,
+  "timestamp": 1111363200000,
+  "updates": [
+    {
+      "timestamp": 1495888170138,
+      "identifier": {
+        "doi": "10.1186/1472-6882-5-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1472-6882-4-13"
+  },
+  "journal": "BMC Complementary and Alternative Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Harpagophytum procumbens for osteoarthritis and low back pain: A systematic review"
+}

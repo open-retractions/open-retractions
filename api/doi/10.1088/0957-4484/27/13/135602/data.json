@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1088/0957-4484/27/26/269501","type":"correction"},"doi":"10.1088/0957-4484/27/13/135602","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: Self-induced growth of vertical GaN nanowires on silica (2015Nanotechnology27135602)"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495679330176,
+      "identifier": {
+        "doi": "10.1088/0957-4484/27/26/269501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/27/13/135602"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Self-induced growth of vertical GaN nanowires on silica (2015Nanotechnology27135602)"
+}

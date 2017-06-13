@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1063/1.4934928","type":"correction"},"doi":"10.1063/1.3651474","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Van der Waals effects in ab initio water at ambient and supercritical conditions” [J. Chem. Phys. 135, 154503 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496048847215,
+      "identifier": {
+        "doi": "10.1063/1.4934928"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3651474"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Van der Waals effects in ab initio water at ambient and supercritical conditions” [J. Chem. Phys. 135, 154503 (2011)]"
+}

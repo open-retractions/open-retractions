@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386547200000,"doi":"10.1371/annotation/34e8bb9b-68f4-4e96-947d-24a51f6c2665","type":"correction"},"doi":"10.1371/journal.pone.0075612","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Revolving Door Phenomenon Revisited: Time to Readmission in 17’415 Patients with 37’697 Hospitalisations at a German Psychiatric Hospital"}
+{
+  "retracted": false,
+  "timestamp": 1386547200000,
+  "updates": [
+    {
+      "timestamp": 1496004381764,
+      "identifier": {
+        "doi": "10.1371/annotation/34e8bb9b-68f4-4e96-947d-24a51f6c2665"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075612"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Revolving Door Phenomenon Revisited: Time to Readmission in 17’415 Patients with 37’697 Hospitalisations at a German Psychiatric Hospital"
+}

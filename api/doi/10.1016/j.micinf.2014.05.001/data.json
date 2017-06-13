@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.micinf.2014.08.018","type":"erratum"},"doi":"10.1016/j.micinf.2014.05.001","journal":"Microbes and Infection","publisher":"Elsevier BV","title":"‘Corrigendum to “A Salmonella enterica conjugative plasmid impairs autophagic flux in infected macrophages” [Microbes Infect 16 (2014) 553–61]’"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496005231942,
+      "identifier": {
+        "doi": "10.1016/j.micinf.2014.08.018"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micinf.2014.05.001"
+  },
+  "journal": "Microbes and Infection",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “A Salmonella enterica conjugative plasmid impairs autophagic flux in infected macrophages” [Microbes Infect 16 (2014) 553–61]’"
+}

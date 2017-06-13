@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245196800000,"doi":"10.1371/annotation/9ae032a2-c48d-46d9-9f8f-d3f401714e42","type":"correction"},"doi":"10.1371/journal.pone.0005391","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Peptide Bβ15-42 Preserves Endothelial Barrier Function in Shock"}
+{
+  "retracted": false,
+  "timestamp": 1245196800000,
+  "updates": [
+    {
+      "timestamp": 1496025195628,
+      "identifier": {
+        "doi": "10.1371/annotation/9ae032a2-c48d-46d9-9f8f-d3f401714e42"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005391"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Peptide Bβ15-42 Preserves Endothelial Barrier Function in Shock"
+}

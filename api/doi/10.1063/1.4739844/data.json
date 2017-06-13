@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357862400000,"doi":"10.1063/1.4776755","type":"correction"},"doi":"10.1063/1.4739844","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Nonadiabatic generation of coherent phonons” [J. Chem. Phys. 137, 22A527 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357862400000,
+  "updates": [
+    {
+      "timestamp": 1495984974652,
+      "identifier": {
+        "doi": "10.1063/1.4776755"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4739844"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Nonadiabatic generation of coherent phonons” [J. Chem. Phys. 137, 22A527 (2012)]"
+}

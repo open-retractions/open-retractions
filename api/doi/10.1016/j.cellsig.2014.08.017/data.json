@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.cellsig.2014.10.004","type":"err"},"doi":"10.1016/j.cellsig.2014.08.017","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to AHNAK: The giant jack of all trades [Cell. Signal. 26 (2014) 2683–2693.]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496015980191,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2014.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2014.08.017"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to AHNAK: The giant jack of all trades [Cell. Signal. 26 (2014) 2683–2693.]"
+}

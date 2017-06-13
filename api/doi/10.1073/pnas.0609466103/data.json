@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1168300800000,"doi":"10.1073/pnas.0610829104","type":"correction"},"doi":"10.1073/pnas.0609466103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Politz et al., MicroRNA-206 colocalizes with ribosome-rich regions in both the nucleolus and cytoplasm of rat myogenic cells"}
+{
+  "retracted": false,
+  "timestamp": 1168300800000,
+  "updates": [
+    {
+      "timestamp": 1495921936121,
+      "identifier": {
+        "doi": "10.1073/pnas.0610829104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0609466103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Politz et al., MicroRNA-206 colocalizes with ribosome-rich regions in both the nucleolus and cytoplasm of rat myogenic cells"
+}

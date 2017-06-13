@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1255910400000,"doi":"10.1371/annotation/526db6e9-0ba5-4ec6-a257-2befb76f34b7","type":"correction"},"doi":"10.1371/journal.pgen.1000527","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: A Network of Conserved Damage Survival Pathways Revealed by a Genomic RNAi Screen"}
+{
+  "retracted": false,
+  "timestamp": 1255910400000,
+  "updates": [
+    {
+      "timestamp": 1496023932387,
+      "identifier": {
+        "doi": "10.1371/annotation/526db6e9-0ba5-4ec6-a257-2befb76f34b7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000527"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Network of Conserved Damage Survival Pathways Revealed by a Genomic RNAi Screen"
+}

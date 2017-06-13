@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1158019200000,"doi":"10.1073/pnas.0606082103","type":"correction"},"doi":"10.1073/pnas.0600103103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Abu-Hamad et al., The expression level of the voltage-dependent anion channel controls life and death of the cell"}
+{
+  "retracted": false,
+  "timestamp": 1158019200000,
+  "updates": [
+    {
+      "timestamp": 1495863878584,
+      "identifier": {
+        "doi": "10.1073/pnas.0606082103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0600103103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Abu-Hamad et al., The expression level of the voltage-dependent anion channel controls life and death of the cell"
+}

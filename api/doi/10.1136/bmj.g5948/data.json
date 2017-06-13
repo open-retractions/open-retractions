@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414972800000,"doi":"10.1136/bmj.g6563","type":"correction"},"doi":"10.1136/bmj.g5948","journal":"BMJ","publisher":"BMJ","title":"Novel drugs and drug combinations for treating tuberculosis"}
+{
+  "retracted": false,
+  "timestamp": 1414972800000,
+  "updates": [
+    {
+      "timestamp": 1496018893023,
+      "identifier": {
+        "doi": "10.1136/bmj.g6563"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g5948"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Novel drugs and drug combinations for treating tuberculosis"
+}

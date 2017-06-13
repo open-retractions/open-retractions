@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1063/1.4936181","type":"correction"},"doi":"10.1063/1.4817547","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Nanoplasmonic distributed Bragg reflector resonators for monolithic integration on a complementary metal-oxide-semiconductor platform” [Appl. Phys. Lett. 103, 051107 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496048873529,
+      "identifier": {
+        "doi": "10.1063/1.4936181"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4817547"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Nanoplasmonic distributed Bragg reflector resonators for monolithic integration on a complementary metal-oxide-semiconductor platform” [Appl. Phys. Lett. 103, 051107 (2013)]"
+}

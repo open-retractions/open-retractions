@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1417478400000,"doi":"10.1134/s1063783414120361","type":"correction"},"doi":"10.1134/s1063783407110170","journal":"Physics of the Solid State","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Magnetic and electrical properties of the ZnGeAs2: Mn chalcopyrite”"}
+{
+  "retracted": false,
+  "timestamp": 1417478400000,
+  "updates": [
+    {
+      "timestamp": 1496026127378,
+      "identifier": {
+        "doi": "10.1134/s1063783414120361"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063783407110170"
+  },
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Magnetic and electrical properties of the ZnGeAs2: Mn chalcopyrite”"
+}

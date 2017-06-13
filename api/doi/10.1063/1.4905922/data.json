@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463616000000,"doi":"10.1063/1.4951680","type":"correction"},"doi":"10.1063/1.4905922","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Band gap estimation from temperature dependent Seebeck measurement—Deviations from the 2e|S|maxTmax relation” [Appl. Phys. Lett. 106, 022112 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1463616000000,
+  "updates": [
+    {
+      "timestamp": 1495678312233,
+      "identifier": {
+        "doi": "10.1063/1.4951680"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4905922"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Band gap estimation from temperature dependent Seebeck measurement—Deviations from the 2e|S|maxTmax relation” [Appl. Phys. Lett. 106, 022112 (2015)]"
+}

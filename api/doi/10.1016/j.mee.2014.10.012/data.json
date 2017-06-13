@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424390400000,"doi":"10.1016/j.mee.2014.12.005","type":"err"},"doi":"10.1016/j.mee.2014.10.012","journal":"Microelectronic Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Polymer filling ratio with various pressure variation rates in nanoimprint lithography” [Microelectron. Eng. 131 (2015) 24–28]"}
+{
+  "retracted": false,
+  "timestamp": 1424390400000,
+  "updates": [
+    {
+      "timestamp": 1496032882345,
+      "identifier": {
+        "doi": "10.1016/j.mee.2014.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mee.2014.10.012"
+  },
+  "journal": "Microelectronic Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Polymer filling ratio with various pressure variation rates in nanoimprint lithography” [Microelectron. Eng. 131 (2015) 24–28]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.1371/journal.pgen.1005205","type":"correction"},"doi":"10.1371/journal.pgen.1004974","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Drosophila TIM Binds Importin α1, and Acts as an Adapter to Transport PER to the Nucleus"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1495994814993,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1005205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1004974"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Drosophila TIM Binds Importin α1, and Acts as an Adapter to Transport PER to the Nucleus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471305600000,"doi":"10.1063/1.4961440","type":"correction"},"doi":"10.1063/1.4959254","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Determination of band offsets at GaN/single-layer MoS2 heterojunction” [Appl. Phys. Lett. 109, 032104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1471305600000,
+  "updates": [
+    {
+      "timestamp": 1495738681035,
+      "identifier": {
+        "doi": "10.1063/1.4961440"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4959254"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Determination of band offsets at GaN/single-layer MoS2 heterojunction” [Appl. Phys. Lett. 109, 032104 (2016)]"
+}

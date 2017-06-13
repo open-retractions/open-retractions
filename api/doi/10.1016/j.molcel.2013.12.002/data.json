@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392854400000,"doi":"10.1016/j.molcel.2014.02.008","type":"err"},"doi":"10.1016/j.molcel.2013.12.002","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Cyclin-Dependent Kinase 6 Is a Chromatin-Bound Cofactor for NF-κB-Dependent Gene Expression"}
+{
+  "retracted": false,
+  "timestamp": 1392854400000,
+  "updates": [
+    {
+      "timestamp": 1496020199571,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2014.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2013.12.002"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Cyclin-Dependent Kinase 6 Is a Chromatin-Bound Cofactor for NF-κB-Dependent Gene Expression"
+}

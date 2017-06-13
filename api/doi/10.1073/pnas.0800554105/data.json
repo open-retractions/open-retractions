@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202774400000,"doi":"10.1073/pnas.0803065105","type":"correction"},"doi":"10.1073/pnas.0800554105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Mossman, Profile of Hans Joachim Schellnhuber"}
+{
+  "retracted": false,
+  "timestamp": 1202774400000,
+  "updates": [
+    {
+      "timestamp": 1495858095545,
+      "identifier": {
+        "doi": "10.1073/pnas.0803065105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0800554105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Mossman, Profile of Hans Joachim Schellnhuber"
+}

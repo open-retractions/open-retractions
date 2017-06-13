@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361923200000,"doi":"10.1371/annotation/cb55d096-61f8-46de-b58f-81a872be6dd3","type":"correction"},"doi":"10.1371/journal.pone.0057326","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Genome Wide Mapping Reveals PDE4B as an IL-2 Induced STAT5 Target Gene in Activated Human PBMCs and Lymphoid Cancer Cells"}
+{
+  "retracted": false,
+  "timestamp": 1361923200000,
+  "updates": [
+    {
+      "timestamp": 1496002815973,
+      "identifier": {
+        "doi": "10.1371/annotation/cb55d096-61f8-46de-b58f-81a872be6dd3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0057326"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genome Wide Mapping Reveals PDE4B as an IL-2 Induced STAT5 Target Gene in Activated Human PBMCs and Lymphoid Cancer Cells"
+}

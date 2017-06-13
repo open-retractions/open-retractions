@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.bmcl.2013.09.044","type":"err"},"doi":"10.1016/j.bmcl.2013.06.014","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of (4-aminobutyloxy)quinolines as a novel class of antifungal agents” [Bioorg. Med. Chem. Lett. 23 (2013) 4641–4643]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496052821092,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2013.09.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2013.06.014"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of (4-aminobutyloxy)quinolines as a novel class of antifungal agents” [Bioorg. Med. Chem. Lett. 23 (2013) 4641–4643]"
+}

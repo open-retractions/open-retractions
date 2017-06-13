@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1007/s00425-016-2494-6","type":"correction"},"doi":"10.1007/s00425-015-2374-5","journal":"Planta","publisher":"Springer Nature","title":"Erratum to: Quantitative proteomics analysis reveals that S-nitrosoglutathione reductase (GSNOR) and nitric oxide signaling enhance poplar defense against chilling stress"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495655638799,
+      "identifier": {
+        "doi": "10.1007/s00425-016-2494-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00425-015-2374-5"
+  },
+  "journal": "Planta",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantitative proteomics analysis reveals that S-nitrosoglutathione reductase (GSNOR) and nitric oxide signaling enhance poplar defense against chilling stress"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1107/s1600577515007602","type":"correction"},"doi":"10.1107/s1600577514028161","journal":"Journal of Synchrotron Radiation","publisher":"International Union of Crystallography (IUCr)","title":"CDApps: integrated software for experimental planning and data processing at beamline B23, Diamond Light Source. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495996675056,
+      "identifier": {
+        "doi": "10.1107/s1600577515007602"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600577514028161"
+  },
+  "journal": "Journal of Synchrotron Radiation",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "CDApps: integrated software for experimental planning and data processing at beamline B23, Diamond Light Source. Corrigendum"
+}

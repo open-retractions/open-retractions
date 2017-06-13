@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448496000000,"doi":"10.1080/00221686.2015.1121596","type":"correction"},"doi":"10.1080/00221686.2015.1085919","journal":"Journal of Hydraulic Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1448496000000,
+  "updates": [
+    {
+      "timestamp": 1496049118798,
+      "identifier": {
+        "doi": "10.1080/00221686.2015.1121596"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00221686.2015.1085919"
+  },
+  "journal": "Journal of Hydraulic Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

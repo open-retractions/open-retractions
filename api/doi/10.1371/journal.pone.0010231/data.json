@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1272412800000,"doi":"10.1371/annotation/6082f3f8-2b92-42a2-8d6f-b9210d2f25bf","type":"correction"},"doi":"10.1371/journal.pone.0010231","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Cellular Senescence in Livers from Children with End Stage Liver Disease"}
+{
+  "retracted": false,
+  "timestamp": 1272412800000,
+  "updates": [
+    {
+      "timestamp": 1496025199120,
+      "identifier": {
+        "doi": "10.1371/annotation/6082f3f8-2b92-42a2-8d6f-b9210d2f25bf"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0010231"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cellular Senescence in Livers from Children with End Stage Liver Disease"
+}

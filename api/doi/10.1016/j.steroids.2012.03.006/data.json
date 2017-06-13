@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.steroids.2013.07.001","type":"err"},"doi":"10.1016/j.steroids.2012.03.006","journal":"Steroids","publisher":"Elsevier BV","title":"Corrigendum to “Isolation and identification of petromyzestrosterol, a polyhydroxysteroid from sexually mature male sea lampreys (Petromyzon marinus, L.)” [Steroids 77 (7) (2012) 806–810]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496034724387,
+      "identifier": {
+        "doi": "10.1016/j.steroids.2013.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.steroids.2012.03.006"
+  },
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Isolation and identification of petromyzestrosterol, a polyhydroxysteroid from sexually mature male sea lampreys (Petromyzon marinus, L.)” [Steroids 77 (7) (2012) 806–810]"
+}

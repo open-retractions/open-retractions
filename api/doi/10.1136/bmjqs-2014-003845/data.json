@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1136/bmjqs-2014-003845corr1","type":"correction"},"doi":"10.1136/bmjqs-2014-003845","journal":"BMJ Quality & Safety","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496037720766,
+      "identifier": {
+        "doi": "10.1136/bmjqs-2014-003845corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmjqs-2014-003845"
+  },
+  "journal": "BMJ Quality & Safety",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

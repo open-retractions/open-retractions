@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.carbon.2014.10.038","type":"erratum"},"doi":"10.1016/j.carbon.2014.06.060","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Atomic and electronic structure of tetrahedral amorphous carbon surfaces from density functional theory: Properties and simulation strategies” [Carbon 77 (2014) 1168–1182]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496010919688,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2014.10.038"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2014.06.060"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Atomic and electronic structure of tetrahedral amorphous carbon surfaces from density functional theory: Properties and simulation strategies” [Carbon 77 (2014) 1168–1182]"
+}

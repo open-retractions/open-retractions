@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1295049600000,"doi":"10.1107/s1600536810050282","type":"correction"},"doi":"10.1107/s1600536810026826","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"Methyl 3-(cyclopropylmethoxy)-4-hydroxybenzoate. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1295049600000,
+  "updates": [
+    {
+      "timestamp": 1495914559594,
+      "identifier": {
+        "doi": "10.1107/s1600536810050282"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536810026826"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Methyl 3-(cyclopropylmethoxy)-4-hydroxybenzoate. Corrigendum"
+}

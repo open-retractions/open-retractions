@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395964800000,"doi":"10.1007/s00424-014-1505-3","type":"correction"},"doi":"10.1007/s00424-011-1061-z","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Remodelling of human atrial K+ currents but not ion channel expression by chronic β-blockade"}
+{
+  "retracted": false,
+  "timestamp": 1395964800000,
+  "updates": [
+    {
+      "timestamp": 1496028606885,
+      "identifier": {
+        "doi": "10.1007/s00424-014-1505-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-011-1061-z"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Remodelling of human atrial K+ currents but not ion channel expression by chronic β-blockade"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1290124800000,"doi":"10.1371/annotation/841bfadf-85d1-4059-894f-2863d73fa963","type":"correction"},"doi":"10.1371/journal.pgen.1001184","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Four Novel Loci (19q13, 6q24, 12q24, and 5q14) Influence the Microcirculation In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1290124800000,
+  "updates": [
+    {
+      "timestamp": 1495907975133,
+      "identifier": {
+        "doi": "10.1371/annotation/841bfadf-85d1-4059-894f-2863d73fa963"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001184"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Four Novel Loci (19q13, 6q24, 12q24, and 5q14) Influence the Microcirculation In Vivo"
+}

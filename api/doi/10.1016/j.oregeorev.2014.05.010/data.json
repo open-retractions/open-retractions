@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.oregeorev.2015.02.005","type":"err"},"doi":"10.1016/j.oregeorev.2014.05.010","journal":"Ore Geology Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Geochemical distribution and supergene behavior of indium at the Pingüino epithermal polymetallic vein system, Patagonia, Argentina” [Ore Geol. Rev. 64 (2015) 747-755]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496044068393,
+      "identifier": {
+        "doi": "10.1016/j.oregeorev.2015.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oregeorev.2014.05.010"
+  },
+  "journal": "Ore Geology Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geochemical distribution and supergene behavior of indium at the Pingüino epithermal polymetallic vein system, Patagonia, Argentina” [Ore Geol. Rev. 64 (2015) 747-755]"
+}

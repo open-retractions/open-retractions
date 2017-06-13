@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1187049600000,"doi":"10.1073/pnas.0706112104","type":"correction"},"doi":"10.1073/pnas.0508785102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lee et al., Root functioning modifies seasonal climate"}
+{
+  "retracted": false,
+  "timestamp": 1187049600000,
+  "updates": [
+    {
+      "timestamp": 1495973515401,
+      "identifier": {
+        "doi": "10.1073/pnas.0706112104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0508785102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lee et al., Root functioning modifies seasonal climate"
+}

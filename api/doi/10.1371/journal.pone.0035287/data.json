@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341273600000,"doi":"10.1371/annotation/7f22fd68-23bf-4c4e-a091-a92090e9314b","type":"correction"},"doi":"10.1371/journal.pone.0035287","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Structure of Mutations and the Evolution of Cooperation"}
+{
+  "retracted": false,
+  "timestamp": 1341273600000,
+  "updates": [
+    {
+      "timestamp": 1495920973211,
+      "identifier": {
+        "doi": "10.1371/annotation/7f22fd68-23bf-4c4e-a091-a92090e9314b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035287"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Structure of Mutations and the Evolution of Cooperation"
+}

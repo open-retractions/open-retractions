@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.jmmm.2015.09.043","type":"err"},"doi":"10.1016/j.jmmm.2015.06.037","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Erratum to “Mirroring the dynamic magnetic behavior of magnetostrictive Co/(Ag,Cu,Ta) multilayers grown onto rigid and flexible substrates” [J. Magn. Magn. Mater. 393 (2015) 593–599]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496028361348,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2015.09.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2015.06.037"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Mirroring the dynamic magnetic behavior of magnetostrictive Co/(Ag,Cu,Ta) multilayers grown onto rigid and flexible substrates” [J. Magn. Magn. Mater. 393 (2015) 593–599]"
+}

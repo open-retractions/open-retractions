@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431561600000,"doi":"10.1007/s10291-015-0455-3","type":"correction"},"doi":"10.1007/s10291-013-0349-1","journal":"GPS Solutions","publisher":"Springer Nature","title":"Erratum to: Influence of different GPS receiver antenna calibration models on geodetic positioning"}
+{
+  "retracted": false,
+  "timestamp": 1431561600000,
+  "updates": [
+    {
+      "timestamp": 1495996181138,
+      "identifier": {
+        "doi": "10.1007/s10291-015-0455-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10291-013-0349-1"
+  },
+  "journal": "GPS Solutions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Influence of different GPS receiver antenna calibration models on geodetic positioning"
+}

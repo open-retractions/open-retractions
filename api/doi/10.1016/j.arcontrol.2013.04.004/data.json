@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.arcontrol.2014.09.009","type":"err"},"doi":"10.1016/j.arcontrol.2013.04.004","journal":"Annual Reviews in Control","publisher":"Elsevier BV","title":"Corrigendum to “Fault-tolerant control of systems with convex polytopic linear parameter varying model uncertainty using virtual-sensor-based controller reconfiguration” [Annu. Rev. Control 37 (2013) 146–153]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496011595303,
+      "identifier": {
+        "doi": "10.1016/j.arcontrol.2014.09.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.arcontrol.2013.04.004"
+  },
+  "journal": "Annual Reviews in Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fault-tolerant control of systems with convex polytopic linear parameter varying model uncertainty using virtual-sensor-based controller reconfiguration” [Annu. Rev. Control 37 (2013) 146–153]"
+}

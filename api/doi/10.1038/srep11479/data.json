@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438214400000,"doi":"10.1038/srep12588","type":"correction"},"doi":"10.1038/srep11479","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Single Fluorescence Channel-based Multiplex Detection of Avian Influenza Virus by Quantitative PCR with Intercalating Dye"}
+{
+  "retracted": false,
+  "timestamp": 1438214400000,
+  "updates": [
+    {
+      "timestamp": 1496019205223,
+      "identifier": {
+        "doi": "10.1038/srep12588"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep11479"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Single Fluorescence Channel-based Multiplex Detection of Avian Influenza Virus by Quantitative PCR with Intercalating Dye"
+}

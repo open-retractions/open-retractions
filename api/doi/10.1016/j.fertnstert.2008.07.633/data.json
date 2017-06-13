@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.fertnstert.2015.01.042","type":"err"},"doi":"10.1016/j.fertnstert.2008.07.633","journal":"Fertility and Sterility","publisher":"Elsevier BV","title":"Retraction notice to “Thalidomide treatment attenuates chemotherapy-induced gonadal toxicity”"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496047163667,
+      "identifier": {
+        "doi": "10.1016/j.fertnstert.2015.01.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fertnstert.2008.07.633"
+  },
+  "journal": "Fertility and Sterility",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Thalidomide treatment attenuates chemotherapy-induced gonadal toxicity”"
+}

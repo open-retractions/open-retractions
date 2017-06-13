@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429660800000,"doi":"10.1063/1.4919029","type":"correction"},"doi":"10.1063/1.4917076","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Solvation thermodynamics of amino acid side chains on a short peptide backbone” [J. Chem. Phys. 142, 144502 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1429660800000,
+  "updates": [
+    {
+      "timestamp": 1496046899639,
+      "identifier": {
+        "doi": "10.1063/1.4919029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4917076"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Solvation thermodynamics of amino acid side chains on a short peptide backbone” [J. Chem. Phys. 142, 144502 (2015)]"
+}

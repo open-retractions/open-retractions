@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.msec.2013.08.030","type":"err"},"doi":"10.1016/j.msec.2012.01.014","journal":"Materials Science and Engineering: C","publisher":"Elsevier BV","title":"Corrigendum to “Immobilization of cholesterol esterase in mesoporous silica materials and its hydrolytic activity toward diethyl phthalate” [Mater. Sci. Eng. C 32 (2012) 718–724]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496046400070,
+      "identifier": {
+        "doi": "10.1016/j.msec.2013.08.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msec.2012.01.014"
+  },
+  "journal": "Materials Science and Engineering: C",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Immobilization of cholesterol esterase in mesoporous silica materials and its hydrolytic activity toward diethyl phthalate” [Mater. Sci. Eng. C 32 (2012) 718–724]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1007/s12032-016-0812-2","type":"correction"},"doi":"10.1007/s12032-014-0341-9","journal":"Medical Oncology","publisher":"Springer Nature","title":"Erratum to: High Jagged1 expression is associated with poor outcome in primary glioblastoma"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495732139282,
+      "identifier": {
+        "doi": "10.1007/s12032-016-0812-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12032-014-0341-9"
+  },
+  "journal": "Medical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High Jagged1 expression is associated with poor outcome in primary glioblastoma"
+}

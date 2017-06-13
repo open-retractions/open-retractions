@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jembe.2015.08.012","type":"erratum"},"doi":"10.1016/j.jembe.2015.05.001","journal":"Journal of Experimental Marine Biology and Ecology","publisher":"Elsevier BV","title":"Corrigendum to “Transcriptional responses to phosphorus stress in the marine diatom, Chaetoceros affinis, reveal characteristic genes and expression patterns in phosphorus uptake and intracellular recycling” [J. Exp. Mar. Biol. Ecol. 470 September (2015) 43–54]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496025612843,
+      "identifier": {
+        "doi": "10.1016/j.jembe.2015.08.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jembe.2015.05.001"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Transcriptional responses to phosphorus stress in the marine diatom, Chaetoceros affinis, reveal characteristic genes and expression patterns in phosphorus uptake and intracellular recycling” [J. Exp. Mar. Biol. Ecol. 470 September (2015) 43–54]"
+}

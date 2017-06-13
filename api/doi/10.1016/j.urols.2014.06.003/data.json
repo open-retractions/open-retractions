@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.urols.2015.06.289","type":"err"},"doi":"10.1016/j.urols.2014.06.003","journal":"Urological Science","publisher":"Elsevier BV","title":"Corrigendum to “A pilot study of fesoterodine in the management of men with refractory overactive bladder symptoms after surgery for bladder outlet obstruction” [Urol Sci (2015) 38–40]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496014019872,
+      "identifier": {
+        "doi": "10.1016/j.urols.2015.06.289"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.urols.2014.06.003"
+  },
+  "journal": "Urological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A pilot study of fesoterodine in the management of men with refractory overactive bladder symptoms after surgery for bladder outlet obstruction” [Urol Sci (2015) 38–40]"
+}

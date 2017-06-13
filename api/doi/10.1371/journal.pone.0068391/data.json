@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390348800000,"doi":"10.1371/annotation/904d2af7-5732-402d-8d85-15128c83ea0f","type":"correction"},"doi":"10.1371/journal.pone.0068391","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Tagging of Genomic STAT3 and STAT1 with Fluorescent Proteins and Insertion of a Luciferase Reporter in the Cyclin D1 Gene Provides a Modified A549 Cell Line to Screen for Selective STAT3 Inhibitors"}
+{
+  "retracted": false,
+  "timestamp": 1390348800000,
+  "updates": [
+    {
+      "timestamp": 1496013855310,
+      "identifier": {
+        "doi": "10.1371/annotation/904d2af7-5732-402d-8d85-15128c83ea0f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0068391"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Tagging of Genomic STAT3 and STAT1 with Fluorescent Proteins and Insertion of a Luciferase Reporter in the Cyclin D1 Gene Provides a Modified A549 Cell Line to Screen for Selective STAT3 Inhibitors"
+}

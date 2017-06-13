@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jpsychires.2014.03.001","type":"err"},"doi":"10.1016/j.jpsychires.2011.11.003","journal":"Journal of Psychiatric Research","publisher":"Elsevier BV","title":"Corrigendum to “Depression beliefs, treatment preference, and outcomes in a randomized trial for major depressive disorder” [J Psychiatr Res 46 (2012) 375–381]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496027538306,
+      "identifier": {
+        "doi": "10.1016/j.jpsychires.2014.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpsychires.2011.11.003"
+  },
+  "journal": "Journal of Psychiatric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Depression beliefs, treatment preference, and outcomes in a randomized trial for major depressive disorder” [J Psychiatr Res 46 (2012) 375–381]"
+}

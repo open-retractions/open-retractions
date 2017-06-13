@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.dib.2015.09.031","type":"erratum"},"doi":"10.1016/j.dib.2015.02.005","journal":"Data in Brief","publisher":"Elsevier BV","title":"Corrigendum to “Data for proteomic analysis of murine cardiomyocytic HL-1 cells treated with siRNA against tissue factor” [Data Brief 3 (2015) 117–119]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496036436188,
+      "identifier": {
+        "doi": "10.1016/j.dib.2015.09.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dib.2015.02.005"
+  },
+  "journal": "Data in Brief",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Data for proteomic analysis of murine cardiomyocytic HL-1 cells treated with siRNA against tissue factor” [Data Brief 3 (2015) 117–119]"
+}

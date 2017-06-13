@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.bbi.2014.03.011","type":"err"},"doi":"10.1016/j.bbi.2013.09.014","journal":"Brain, Behavior, and Immunity","publisher":"Elsevier BV","title":"Erratum to “Inflammatory dietary pattern and risk of depression among women” [Brain Behav. Immun. 36 (2014) 46–53]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496028422693,
+      "identifier": {
+        "doi": "10.1016/j.bbi.2014.03.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbi.2013.09.014"
+  },
+  "journal": "Brain, Behavior, and Immunity",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Inflammatory dietary pattern and risk of depression among women” [Brain Behav. Immun. 36 (2014) 46–53]"
+}

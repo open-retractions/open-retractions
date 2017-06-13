@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1016/j.neulet.2014.05.009","type":"err"},"doi":"10.1016/j.neulet.2014.03.077","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Erratum to “The cannabinoid CB2 receptor agonist GW405833 does not ameliorate brain damage induced by hypoxia-ischemia in rats” [Neurosci. Lett. 569 (2014) 104–109]"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496037952246,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2014.05.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2014.03.077"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The cannabinoid CB2 receptor agonist GW405833 does not ameliorate brain damage induced by hypoxia-ischemia in rats” [Neurosci. Lett. 569 (2014) 104–109]"
+}

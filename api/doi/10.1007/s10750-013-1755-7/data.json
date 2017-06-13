@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1007/s10750-014-1847-z","type":"correction"},"doi":"10.1007/s10750-013-1755-7","journal":"Hydrobiologia","publisher":"Springer Nature","title":"Erratum to: The genetic legacy of lower sea levels: does the confluence of rivers during the last glacial maximum explain the contemporary distribution of a primary freshwater fish (Pseudobarbus burchelli, Cyprinidae) across isolated river systems?"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496026924147,
+      "identifier": {
+        "doi": "10.1007/s10750-014-1847-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10750-013-1755-7"
+  },
+  "journal": "Hydrobiologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The genetic legacy of lower sea levels: does the confluence of rivers during the last glacial maximum explain the contemporary distribution of a primary freshwater fish (Pseudobarbus burchelli, Cyprinidae) across isolated river systems?"
+}

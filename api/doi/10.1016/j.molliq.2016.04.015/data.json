@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.molliq.2016.07.124","type":"err"},"doi":"10.1016/j.molliq.2016.04.015","journal":"Journal of Molecular Liquids","publisher":"Elsevier BV","title":"Corrigendum to “Solubility of four novel Brønsted-acidic ionic liquids with 8-hydroxyquinoline cation in six alcohols” [J. Mol. Liq. 219 (2016) 923–929]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495740954183,
+      "identifier": {
+        "doi": "10.1016/j.molliq.2016.07.124"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molliq.2016.04.015"
+  },
+  "journal": "Journal of Molecular Liquids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Solubility of four novel Brønsted-acidic ionic liquids with 8-hydroxyquinoline cation in six alcohols” [J. Mol. Liq. 219 (2016) 923–929]"
+}

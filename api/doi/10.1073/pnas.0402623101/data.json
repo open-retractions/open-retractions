@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1093305600000,"doi":"10.1073/pnas.0404696101","type":"correction"},"doi":"10.1073/pnas.0402623101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Eker et al., Preferred peptide backbone conformations in the unfolded state revealed by the structure analysis of alanine-based (AXA) tripeptides in aqueous solution, PNAS 2004 101:10054-10059"}
+{
+  "retracted": false,
+  "timestamp": 1093305600000,
+  "updates": [
+    {
+      "timestamp": 1495853428063,
+      "identifier": {
+        "doi": "10.1073/pnas.0404696101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0402623101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Eker et al., Preferred peptide backbone conformations in the unfolded state revealed by the structure analysis of alanine-based (AXA) tripeptides in aqueous solution, PNAS 2004 101:10054-10059"
+}

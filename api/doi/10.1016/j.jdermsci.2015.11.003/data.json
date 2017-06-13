@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.jdermsci.2017.01.010","type":"erratum"},"doi":"10.1016/j.jdermsci.2015.11.003","journal":"Journal of Dermatological Science","publisher":"Elsevier BV","title":"Corrigendum to “IL-10-producing regulatory B cells are decreased in patients with psoriasis” [J. Dermatol. Sci. 81 (2016) 93–100]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495681172631,
+      "identifier": {
+        "doi": "10.1016/j.jdermsci.2017.01.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jdermsci.2015.11.003"
+  },
+  "journal": "Journal of Dermatological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “IL-10-producing regulatory B cells are decreased in patients with psoriasis” [J. Dermatol. Sci. 81 (2016) 93–100]"
+}

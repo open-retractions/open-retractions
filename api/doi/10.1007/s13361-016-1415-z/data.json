@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468972800000,"doi":"10.1007/s13361-016-1441-x","type":"correction"},"doi":"10.1007/s13361-016-1415-z","journal":"Journal of The American Society for Mass Spectrometry","publisher":"Springer Nature","title":"Erratum to: Gas Flow Dynamics in Inlet Capillaries: Evidence for non Laminar Conditions"}
+{
+  "retracted": false,
+  "timestamp": 1468972800000,
+  "updates": [
+    {
+      "timestamp": 1495730652581,
+      "identifier": {
+        "doi": "10.1007/s13361-016-1441-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13361-016-1415-z"
+  },
+  "journal": "Journal of The American Society for Mass Spectrometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gas Flow Dynamics in Inlet Capillaries: Evidence for non Laminar Conditions"
+}

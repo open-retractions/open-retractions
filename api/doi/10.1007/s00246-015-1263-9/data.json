@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1007/s00246-016-1539-8","type":"correction"},"doi":"10.1007/s00246-015-1263-9","journal":"Pediatric Cardiology","publisher":"Springer Nature","title":"Erratum to: A Literature Review of the Pharmacokinetics and Pharmacodynamics of Dobutamine in Neonates"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495662554997,
+      "identifier": {
+        "doi": "10.1007/s00246-016-1539-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00246-015-1263-9"
+  },
+  "journal": "Pediatric Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Literature Review of the Pharmacokinetics and Pharmacodynamics of Dobutamine in Neonates"
+}

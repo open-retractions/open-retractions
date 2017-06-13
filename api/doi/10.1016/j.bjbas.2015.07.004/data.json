@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bjbas.2016.04.001","type":"err"},"doi":"10.1016/j.bjbas.2015.07.004","journal":"Beni-Suef University Journal of Basic and Applied Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Biosynthesis of size controlled silver nanoparticles by Fusarium oxysporum, their antibacterial and antitumor activities” [BJBAS 4/3 (2015) 225–231]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495664914616,
+      "identifier": {
+        "doi": "10.1016/j.bjbas.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjbas.2015.07.004"
+  },
+  "journal": "Beni-Suef University Journal of Basic and Applied Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Biosynthesis of size controlled silver nanoparticles by Fusarium oxysporum, their antibacterial and antitumor activities” [BJBAS 4/3 (2015) 225–231]"
+}

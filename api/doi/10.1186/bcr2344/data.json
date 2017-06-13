@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1310428800000,"doi":"10.1186/bcr2909","type":"correction"},"doi":"10.1186/bcr2344","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: An integration of complementary strategies for gene-expression analysis to reveal novel therapeutic opportunities for breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1310428800000,
+  "updates": [
+    {
+      "timestamp": 1495966947731,
+      "identifier": {
+        "doi": "10.1186/bcr2909"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bcr2344"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An integration of complementary strategies for gene-expression analysis to reveal novel therapeutic opportunities for breast cancer"
+}

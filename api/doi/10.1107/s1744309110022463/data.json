@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1291161600000,"doi":"10.1107/s1744309110048116","type":"correction"},"doi":"10.1107/s1744309110022463","journal":"Acta Crystallographica Section F Structural Biology and Crystallization Communications","publisher":"International Union of Crystallography (IUCr)","title":"Crystallization and preliminary crystallographic analysis of the ADP-ribosyltransferase HopU1. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1291161600000,
+  "updates": [
+    {
+      "timestamp": 1495909699243,
+      "identifier": {
+        "doi": "10.1107/s1744309110048116"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1744309110022463"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology and Crystallization Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Crystallization and preliminary crystallographic analysis of the ADP-ribosyltransferase HopU1. Corrigendum"
+}

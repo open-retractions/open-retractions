@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357257600000,"doi":"10.1118/1.4769415","type":"erratum"},"doi":"10.1118/1.3679339","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Relationship between electron density and effective densities of body tissues for stopping, scattering, and nuclear interactions of proton and ion beams” [Med. Phys. 39, 1016-1020 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357257600000,
+  "updates": [
+    {
+      "timestamp": 1495983281813,
+      "identifier": {
+        "doi": "10.1118/1.4769415"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.3679339"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Relationship between electron density and effective densities of body tissues for stopping, scattering, and nuclear interactions of proton and ion beams” [Med. Phys. 39, 1016-1020 (2012)]"
+}

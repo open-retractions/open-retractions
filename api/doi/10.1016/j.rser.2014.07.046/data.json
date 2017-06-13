@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.rser.2016.07.004","type":"erratum"},"doi":"10.1016/j.rser.2014.07.046","journal":"Renewable and Sustainable Energy Reviews","publisher":"Elsevier BV","title":"Retraction notice to: “Photocatalytic CO2 transformation into fuel: A review on advances in photocatalyst and photoreactor”"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495734367699,
+      "identifier": {
+        "doi": "10.1016/j.rser.2016.07.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rser.2014.07.046"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “Photocatalytic CO2 transformation into fuel: A review on advances in photocatalyst and photoreactor”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1080/15470148.2016.1147305","type":"correction"},"doi":"10.1080/15470148.2015.1059783","journal":"Journal of Convention & Event Tourism","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495658342321,
+      "identifier": {
+        "doi": "10.1080/15470148.2016.1147305"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15470148.2015.1059783"
+  },
+  "journal": "Journal of Convention & Event Tourism",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

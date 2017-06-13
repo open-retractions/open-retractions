@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486944000000,"doi":"10.1007/s00294-017-0678-7","type":"correction"},"doi":"10.1007/s00294-016-0629-8","journal":"Current Genetics","publisher":"Springer Nature","title":"Erratum to: Development of a sufficient and effective procedure for transformation of an oleaginous yeast, Rhodosporidium toruloides DMKU3-TK16"}
+{
+  "retracted": false,
+  "timestamp": 1486944000000,
+  "updates": [
+    {
+      "timestamp": 1495720023420,
+      "identifier": {
+        "doi": "10.1007/s00294-017-0678-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00294-016-0629-8"
+  },
+  "journal": "Current Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development of a sufficient and effective procedure for transformation of an oleaginous yeast, Rhodosporidium toruloides DMKU3-TK16"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298592000000,"doi":"10.1371/annotation/65a80750-95f9-40a1-a509-64ee5febbaa3","type":"correction"},"doi":"10.1371/journal.pgen.1001309","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: [SWI+], the Prion Formed by the Chromatin Remodeling Factor Swi1, Is Highly Sensitive to Alterations in Hsp70 Chaperone System Activity"}
+{
+  "retracted": false,
+  "timestamp": 1298592000000,
+  "updates": [
+    {
+      "timestamp": 1495938538873,
+      "identifier": {
+        "doi": "10.1371/annotation/65a80750-95f9-40a1-a509-64ee5febbaa3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001309"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: [SWI+], the Prion Formed by the Chromatin Remodeling Factor Swi1, Is Highly Sensitive to Alterations in Hsp70 Chaperone System Activity"
+}

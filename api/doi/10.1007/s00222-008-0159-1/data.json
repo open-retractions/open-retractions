@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426550400000,"doi":"10.1007/s00222-015-0587-7","type":"correction"},"doi":"10.1007/s00222-008-0159-1","journal":"Inventiones mathematicae","publisher":"Springer Nature","title":"Erratum to: An exact sequence for contact- and symplectic homology"}
+{
+  "retracted": false,
+  "timestamp": 1426550400000,
+  "updates": [
+    {
+      "timestamp": 1496051317878,
+      "identifier": {
+        "doi": "10.1007/s00222-015-0587-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00222-008-0159-1"
+  },
+  "journal": "Inventiones mathematicae",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An exact sequence for contact- and symplectic homology"
+}

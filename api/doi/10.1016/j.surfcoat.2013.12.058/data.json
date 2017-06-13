@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422144000000,"doi":"10.1016/j.surfcoat.2014.12.006","type":"err"},"doi":"10.1016/j.surfcoat.2013.12.058","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Influence of encapsulation materials on the optical properties and conversion efficiency of heat-sealed flexible polymer solar cells” [Surf. Coat. Technol. (2014) 69–73]"}
+{
+  "retracted": false,
+  "timestamp": 1422144000000,
+  "updates": [
+    {
+      "timestamp": 1496032885968,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2014.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2013.12.058"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of encapsulation materials on the optical properties and conversion efficiency of heat-sealed flexible polymer solar cells” [Surf. Coat. Technol. (2014) 69–73]"
+}

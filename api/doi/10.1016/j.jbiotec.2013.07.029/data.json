@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1016/j.jbiotec.2016.01.034","type":"err"},"doi":"10.1016/j.jbiotec.2013.07.029","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “Computational design of short-chain dehydrogenase Gox2181 for altered coenzyme specificity” [J. Biotechnol. 167(2013) 386–392]"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495650030945,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2016.01.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2013.07.029"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Computational design of short-chain dehydrogenase Gox2181 for altered coenzyme specificity” [J. Biotechnol. 167(2013) 386–392]"
+}

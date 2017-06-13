@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436659200000,"doi":"10.1007/s11263-015-0837-6","type":"correction"},"doi":"10.1007/s11263-015-0810-4","journal":"International Journal of Computer Vision","publisher":"Springer Nature","title":"Erratum to: Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images"}
+{
+  "retracted": false,
+  "timestamp": 1436659200000,
+  "updates": [
+    {
+      "timestamp": 1496015005466,
+      "identifier": {
+        "doi": "10.1007/s11263-015-0837-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11263-015-0810-4"
+  },
+  "journal": "International Journal of Computer Vision",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images"
+}

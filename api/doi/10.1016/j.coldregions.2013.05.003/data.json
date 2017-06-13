@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.coldregions.2014.06.006","type":"err"},"doi":"10.1016/j.coldregions.2013.05.003","journal":"Cold Regions Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Numerical modelling of two-dimensional sea spray icing on vessel-mounted cylinders” [Cold Reg. Sci. Technol. 93(2013) 20–35]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496049928245,
+      "identifier": {
+        "doi": "10.1016/j.coldregions.2014.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coldregions.2013.05.003"
+  },
+  "journal": "Cold Regions Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Numerical modelling of two-dimensional sea spray icing on vessel-mounted cylinders” [Cold Reg. Sci. Technol. 93(2013) 20–35]"
+}

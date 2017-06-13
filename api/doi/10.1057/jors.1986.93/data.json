@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":517968000000,"doi":"10.1057/jors.1986.117","type":"correction"},"doi":"10.1057/jors.1986.93","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: The Traveling Salesman Problem: A Guided Tour of Combinatorial Optimization"}
+{
+  "retracted": false,
+  "timestamp": 517968000000,
+  "updates": [
+    {
+      "timestamp": 1495887692615,
+      "identifier": {
+        "doi": "10.1057/jors.1986.117"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1986.93"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The Traveling Salesman Problem: A Guided Tour of Combinatorial Optimization"
+}

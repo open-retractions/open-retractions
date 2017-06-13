@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1007/s40261-015-0353-z","type":"correction"},"doi":"10.1007/s40261-015-0341-3","journal":"Clinical Drug Investigation","publisher":"Springer Nature","title":"Erratum to: Phenylephrine Pharmacokinetics and First-Pass Metabolism: What Is an Ideal Pharmacokinetic Surrogate?"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1496041071201,
+      "identifier": {
+        "doi": "10.1007/s40261-015-0353-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40261-015-0341-3"
+  },
+  "journal": "Clinical Drug Investigation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phenylephrine Pharmacokinetics and First-Pass Metabolism: What Is an Ideal Pharmacokinetic Surrogate?"
+}

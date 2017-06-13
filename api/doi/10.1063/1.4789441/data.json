@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363046400000,"doi":"10.1063/1.4795238","type":"correction"},"doi":"10.1063/1.4789441","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Silicon nanocrystals embedded in silicon carbide: Investigation of charge carrier transport and recombination” [Appl. Phys. Lett. 102, 033507 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1363046400000,
+  "updates": [
+    {
+      "timestamp": 1496004420111,
+      "identifier": {
+        "doi": "10.1063/1.4795238"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4789441"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Silicon nanocrystals embedded in silicon carbide: Investigation of charge carrier transport and recombination” [Appl. Phys. Lett. 102, 033507 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.ifset.2015.09.007","type":"err"},"doi":"10.1016/j.ifset.2014.02.003","journal":"Innovative Food Science & Emerging Technologies","publisher":"Elsevier BV","title":"Corrigendum to “Food model exploration through evolutionary optimization coupled with visualization: Application to the prediction of a milk gel structure” [INNFOO/25 (2014) 67–77]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496034479632,
+      "identifier": {
+        "doi": "10.1016/j.ifset.2015.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ifset.2014.02.003"
+  },
+  "journal": "Innovative Food Science & Emerging Technologies",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Food model exploration through evolutionary optimization coupled with visualization: Application to the prediction of a milk gel structure” [INNFOO/25 (2014) 67–77]"
+}

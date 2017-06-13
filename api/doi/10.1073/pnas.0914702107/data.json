@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1272931200000,"doi":"10.1073/pnas.1007345107","type":"correction"},"doi":"10.1073/pnas.0914702107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhou et al., Anomalous expansion of the copper-apical-oxygen distance in superconducting cuprate bilayers"}
+{
+  "retracted": false,
+  "timestamp": 1272931200000,
+  "updates": [
+    {
+      "timestamp": 1495850059156,
+      "identifier": {
+        "doi": "10.1073/pnas.1007345107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0914702107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhou et al., Anomalous expansion of the copper-apical-oxygen distance in superconducting cuprate bilayers"
+}

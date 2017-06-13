@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1289088000000,"doi":"10.1063/1.3503653","type":"erratum"},"doi":"10.1063/1.3176514","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Long-range-corrected hybrid density functionals including random phase approximation correlation: Application to noncovalent interactions” [J. Chem. Phys. 131, 034110 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1289088000000,
+  "updates": [
+    {
+      "timestamp": 1495893987537,
+      "identifier": {
+        "doi": "10.1063/1.3503653"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3176514"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Long-range-corrected hybrid density functionals including random phase approximation correlation: Application to noncovalent interactions” [J. Chem. Phys. 131, 034110 (2009)]"
+}

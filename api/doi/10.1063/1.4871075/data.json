@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427068800000,"doi":"10.1063/1.4915629","type":"correction"},"doi":"10.1063/1.4871075","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “On the location and stability of charge in SiO2/SiNx dielectric double layers used for silicon surface passivation” [J. Appl. Phys. 115, 144105 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1427068800000,
+  "updates": [
+    {
+      "timestamp": 1496052569917,
+      "identifier": {
+        "doi": "10.1063/1.4915629"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4871075"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On the location and stability of charge in SiO2/SiNx dielectric double layers used for silicon surface passivation” [J. Appl. Phys. 115, 144105 (2014)]"
+}

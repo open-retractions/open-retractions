@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421193600000,"doi":"10.1007/s11306-015-0771-1","type":"correction"},"doi":"10.1007/s11306-014-0763-6","journal":"Metabolomics","publisher":"Springer Nature","title":"Erratum to: A new strategy for MS/MS data acquisition applying multiple data dependent experiments on Orbitrap mass spectrometers in non-targeted metabolomic applications"}
+{
+  "retracted": false,
+  "timestamp": 1421193600000,
+  "updates": [
+    {
+      "timestamp": 1496036265472,
+      "identifier": {
+        "doi": "10.1007/s11306-015-0771-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11306-014-0763-6"
+  },
+  "journal": "Metabolomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new strategy for MS/MS data acquisition applying multiple data dependent experiments on Orbitrap mass spectrometers in non-targeted metabolomic applications"
+}

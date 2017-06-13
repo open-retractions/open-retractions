@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.commatsci.2016.02.033","type":"erratum"},"doi":"10.1016/j.commatsci.2012.09.002","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Modeling ductile fracture using a simplified meshfree method” [Comput. Mater. Sci. 67 (2013) 296–302]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495668210641,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2016.02.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2012.09.002"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling ductile fracture using a simplified meshfree method” [Comput. Mater. Sci. 67 (2013) 296–302]"
+}

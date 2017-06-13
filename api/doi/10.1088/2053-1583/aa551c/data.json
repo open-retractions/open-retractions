@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489363200000,"doi":"10.1088/2053-1583/aa610b","type":"correction"},"doi":"10.1088/2053-1583/aa551c","journal":"2D Materials","publisher":"IOP Publishing","title":"Corrigendum: Effective elastic properties of two dimensional multiplanar hexagonal nanostructures (2017 2D Mater. 4 025006)"}
+{
+  "retracted": false,
+  "timestamp": 1489363200000,
+  "updates": [
+    {
+      "timestamp": 1495726281045,
+      "identifier": {
+        "doi": "10.1088/2053-1583/aa610b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2053-1583/aa551c"
+  },
+  "journal": "2D Materials",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Effective elastic properties of two dimensional multiplanar hexagonal nanostructures (2017 2D Mater. 4 025006)"
+}

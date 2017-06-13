@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.pharep.2016.12.008","type":"erratum"},"doi":"10.1016/j.pharep.2016.03.011","journal":"Pharmacological Reports","publisher":"Elsevier BV","title":"Corrigendum to “Influence of caffeine on the protective activity of gabapentin and topiramate in a mouse model of generalized tonic-clonic seizures” [Pharmacol. Rep. 68 (2016) 680–685]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495718127767,
+      "identifier": {
+        "doi": "10.1016/j.pharep.2016.12.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pharep.2016.03.011"
+  },
+  "journal": "Pharmacological Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of caffeine on the protective activity of gabapentin and topiramate in a mouse model of generalized tonic-clonic seizures” [Pharmacol. Rep. 68 (2016) 680–685]"
+}

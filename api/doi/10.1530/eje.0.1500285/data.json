@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1078099200000,"doi":"10.1530/eje.0.1500627e","type":"correction"},"doi":"10.1530/eje.0.1500285","journal":"European Journal of Endocrinology","publisher":"BioScientifica","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1078099200000,
+  "updates": [
+    {
+      "timestamp": 1495962108882,
+      "identifier": {
+        "doi": "10.1530/eje.0.1500627e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1530/eje.0.1500285"
+  },
+  "journal": "European Journal of Endocrinology",
+  "publisher": "BioScientifica",
+  "title": "Erratum"
+}

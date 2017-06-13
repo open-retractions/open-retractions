@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1016/j.fluid.2016.04.019","type":"err"},"doi":"10.1016/j.fluid.2015.08.011","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “Modeling derivative properties and binary mixtures with CO2 using the CPA and the quadrupolar CPA equations of state” [Fluid Phase Equilib. 408 (2016) 151–169]"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495672371752,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2016.04.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2015.08.011"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling derivative properties and binary mixtures with CO2 using the CPA and the quadrupolar CPA equations of state” [Fluid Phase Equilib. 408 (2016) 151–169]"
+}

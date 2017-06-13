@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1038/srep25322","type":"correction"},"doi":"10.1038/srep21111","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: A genome-wide association study identifies a genomic region for the polycerate phenotype in sheep (Ovis aries)"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495679411233,
+      "identifier": {
+        "doi": "10.1038/srep25322"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep21111"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: A genome-wide association study identifies a genomic region for the polycerate phenotype in sheep (Ovis aries)"
+}

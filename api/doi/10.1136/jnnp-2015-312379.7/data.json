@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1136/jnnp-2015-312379.7corr1","type":"correction"},"doi":"10.1136/jnnp-2015-312379.7","journal":"Journal of Neurology, Neurosurgery & Psychiatry","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495644685036,
+      "identifier": {
+        "doi": "10.1136/jnnp-2015-312379.7corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/jnnp-2015-312379.7"
+  },
+  "journal": "Journal of Neurology, Neurosurgery & Psychiatry",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

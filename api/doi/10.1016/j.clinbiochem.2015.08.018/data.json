@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.clinbiochem.2016.07.002","type":"err"},"doi":"10.1016/j.clinbiochem.2015.08.018","journal":"Clinical Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Higgins V, Chan MK, Nieuwesteeg M, Hoffman BR, Bromberg IL, Gornall D, Randell E, Adeli K. Transference of CALIPER pediatric reference intervals to biochemical assays on the Roche Cobas 6000 and the Roche Modular P.” [Clin. Biochem. 2016 49(1):139–49]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495729413900,
+      "identifier": {
+        "doi": "10.1016/j.clinbiochem.2016.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinbiochem.2015.08.018"
+  },
+  "journal": "Clinical Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Higgins V, Chan MK, Nieuwesteeg M, Hoffman BR, Bromberg IL, Gornall D, Randell E, Adeli K. Transference of CALIPER pediatric reference intervals to biochemical assays on the Roche Cobas 6000 and the Roche Modular P.” [Clin. Biochem. 2016 49(1):139–49]"
+}

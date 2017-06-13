@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1119916800000,"doi":"10.1073/pnas.0504209102","type":"correction"},"doi":"10.1073/pnas.0500831102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Espadaler et al., Detecting remotely related proteins by their interactions and sequence similarity, PNAS 2005 102:7151-7156"}
+{
+  "retracted": false,
+  "timestamp": 1119916800000,
+  "updates": [
+    {
+      "timestamp": 1495944177754,
+      "identifier": {
+        "doi": "10.1073/pnas.0504209102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0500831102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Espadaler et al., Detecting remotely related proteins by their interactions and sequence similarity, PNAS 2005 102:7151-7156"
+}

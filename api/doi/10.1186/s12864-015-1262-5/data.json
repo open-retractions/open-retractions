@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433548800000,"doi":"10.1186/s12864-015-1537-x","type":"correction"},"doi":"10.1186/s12864-015-1262-5","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum: Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer's disease donor as a model for investigating AD-associated gene regulatory networks"}
+{
+  "retracted": false,
+  "timestamp": 1433548800000,
+  "updates": [
+    {
+      "timestamp": 1496004477569,
+      "identifier": {
+        "doi": "10.1186/s12864-015-1537-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-015-1262-5"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer's disease donor as a model for investigating AD-associated gene regulatory networks"
+}

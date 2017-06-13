@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jcrc.2016.02.015","type":"err"},"doi":"10.1016/j.jcrc.2015.09.016","journal":"Journal of Critical Care","publisher":"Elsevier BV","title":"Corrigendum ‘Development of a fluid resuscitation protocol using inferior vena cava and lung ultrasound’ Journal of Critical Care 31(2016) 96–100"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495651924765,
+      "identifier": {
+        "doi": "10.1016/j.jcrc.2016.02.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrc.2015.09.016"
+  },
+  "journal": "Journal of Critical Care",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum ‘Development of a fluid resuscitation protocol using inferior vena cava and lung ultrasound’ Journal of Critical Care 31(2016) 96–100"
+}

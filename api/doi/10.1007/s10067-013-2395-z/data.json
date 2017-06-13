@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390867200000,"doi":"10.1007/s10067-014-2497-2","type":"correction"},"doi":"10.1007/s10067-013-2395-z","journal":"Clinical Rheumatology","publisher":"Springer Nature","title":"Erratum to: Health-related Internet use by lupus patients in southern Spain"}
+{
+  "retracted": false,
+  "timestamp": 1390867200000,
+  "updates": [
+    {
+      "timestamp": 1496014550852,
+      "identifier": {
+        "doi": "10.1007/s10067-014-2497-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10067-013-2395-z"
+  },
+  "journal": "Clinical Rheumatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Health-related Internet use by lupus patients in southern Spain"
+}

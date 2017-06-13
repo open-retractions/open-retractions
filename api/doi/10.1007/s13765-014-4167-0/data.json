@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408665600000,"doi":"10.1007/s13765-014-4575-1","type":"correction"},"doi":"10.1007/s13765-014-4167-0","journal":"Journal of the Korean Society for Applied Biological Chemistry","publisher":"Springer Nature","title":"Erratum to: Pinoresinol diglucoside is screened as a putative α-glucosidase inhibiting compound in Actinidia arguta leaves"}
+{
+  "retracted": false,
+  "timestamp": 1408665600000,
+  "updates": [
+    {
+      "timestamp": 1495996306614,
+      "identifier": {
+        "doi": "10.1007/s13765-014-4575-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13765-014-4167-0"
+  },
+  "journal": "Journal of the Korean Society for Applied Biological Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pinoresinol diglucoside is screened as a putative α-glucosidase inhibiting compound in Actinidia arguta leaves"
+}

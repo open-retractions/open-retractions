@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438214400000,"doi":"10.1038/srep12121","type":"correction"},"doi":"10.1038/srep10622","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Tumor Invasion Optimization by Mesenchymal-Amoeboid Heterogeneity"}
+{
+  "retracted": false,
+  "timestamp": 1438214400000,
+  "updates": [
+    {
+      "timestamp": 1496019168427,
+      "identifier": {
+        "doi": "10.1038/srep12121"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10622"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Tumor Invasion Optimization by Mesenchymal-Amoeboid Heterogeneity"
+}

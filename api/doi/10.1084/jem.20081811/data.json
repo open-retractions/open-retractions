@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1237161600000,"doi":"10.1084/jem.2008181120409c","type":"correction"},"doi":"10.1084/jem.20081811","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"CD4+regulatory T cells require CTLA-4 for the maintenance of systemic tolerance"}
+{
+  "retracted": false,
+  "timestamp": 1237161600000,
+  "updates": [
+    {
+      "timestamp": 1495898069592,
+      "identifier": {
+        "doi": "10.1084/jem.2008181120409c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20081811"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "CD4+regulatory T cells require CTLA-4 for the maintenance of systemic tolerance"
+}

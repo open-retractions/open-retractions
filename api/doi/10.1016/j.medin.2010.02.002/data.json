@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.medin.2015.04.001","type":"err"},"doi":"10.1016/j.medin.2010.02.002","journal":"Medicina Intensiva","publisher":"Elsevier BV","title":"Fe de errores de RETRATO* Registro de Trauma grave de la provincia de Toledo: visión general y mortalidad"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495998594611,
+      "identifier": {
+        "doi": "10.1016/j.medin.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.medin.2010.02.002"
+  },
+  "journal": "Medicina Intensiva",
+  "publisher": "Elsevier BV",
+  "title": "Fe de errores de RETRATO* Registro de Trauma grave de la provincia de Toledo: visión general y mortalidad"
+}

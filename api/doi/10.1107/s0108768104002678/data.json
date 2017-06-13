@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1091318400000,"doi":"10.1107/s010876810401287x","type":"correction"},"doi":"10.1107/s0108768104002678","journal":"Acta Crystallographica Section B Structural Science","publisher":"International Union of Crystallography (IUCr)","title":"New bond-valence parameters for lanthanides. Addendum"}
+{
+  "retracted": false,
+  "timestamp": 1091318400000,
+  "updates": [
+    {
+      "timestamp": 1495851929735,
+      "identifier": {
+        "doi": "10.1107/s010876810401287x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108768104002678"
+  },
+  "journal": "Acta Crystallographica Section B Structural Science",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "New bond-valence parameters for lanthanides. Addendum"
+}

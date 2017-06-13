@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1186/s13063-016-1276-6","type":"correction"},"doi":"10.1186/s13063-015-0948-y","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: ‘Recruitment challenges in clinical research including cancer patients and their caregivers. A randomized controlled trial study and lessons learned’"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495653018751,
+      "identifier": {
+        "doi": "10.1186/s13063-016-1276-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13063-015-0948-y"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Recruitment challenges in clinical research including cancer patients and their caregivers. A randomized controlled trial study and lessons learned’"
+}

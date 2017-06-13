@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439942400000,"doi":"10.1016/j.febslet.2015.07.001","type":"err"},"doi":"10.1016/j.febslet.2015.05.014","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Erratum to “Changing channels in pain and epilepsy: Exploiting ion channel gene therapy for disorders of neuronal hyperexcitability” [FEBS Lett. 589 (2015) 1620-1634]"}
+{
+  "retracted": false,
+  "timestamp": 1439942400000,
+  "updates": [
+    {
+      "timestamp": 1496017471197,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2015.05.014"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum to “Changing channels in pain and epilepsy: Exploiting ion channel gene therapy for disorders of neuronal hyperexcitability” [FEBS Lett. 589 (2015) 1620-1634]"
+}

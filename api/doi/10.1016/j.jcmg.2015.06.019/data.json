@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jcmg.2015.12.002","type":"erratum"},"doi":"10.1016/j.jcmg.2015.06.019","journal":"JACC: Cardiovascular Imaging","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641557015,
+      "identifier": {
+        "doi": "10.1016/j.jcmg.2015.12.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcmg.2015.06.019"
+  },
+  "journal": "JACC: Cardiovascular Imaging",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

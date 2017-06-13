@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1260489600000,"doi":"10.1371/annotation/4a24a185-3eff-454f-9061-af0bf22c83eb","type":"correction"},"doi":"10.1371/journal.pone.0007362","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Temporal-Difference Reinforcement Learning with Distributed Representations"}
+{
+  "retracted": false,
+  "timestamp": 1260489600000,
+  "updates": [
+    {
+      "timestamp": 1496023930272,
+      "identifier": {
+        "doi": "10.1371/annotation/4a24a185-3eff-454f-9061-af0bf22c83eb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0007362"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Temporal-Difference Reinforcement Learning with Distributed Representations"
+}

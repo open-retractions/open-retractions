@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402790400000,"doi":"10.1016/j.jhazmat.2014.05.019","type":"erratum"},"doi":"10.1016/j.jhazmat.2014.02.010","journal":"Journal of Hazardous Materials","publisher":"Elsevier BV","title":"Erratum to “Hydrothermal decomposition of liquid crystal in subcritical water” [J. Hazard. Mater. 271 (2014) 236–244]"}
+{
+  "retracted": false,
+  "timestamp": 1402790400000,
+  "updates": [
+    {
+      "timestamp": 1496042196641,
+      "identifier": {
+        "doi": "10.1016/j.jhazmat.2014.05.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhazmat.2014.02.010"
+  },
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hydrothermal decomposition of liquid crystal in subcritical water” [J. Hazard. Mater. 271 (2014) 236–244]"
+}

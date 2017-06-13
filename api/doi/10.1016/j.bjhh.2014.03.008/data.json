@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.bjhh.2014.06.003","type":"err"},"doi":"10.1016/j.bjhh.2014.03.008","journal":"Revista Brasileira de Hematologia e Hemoterapia","publisher":"Elsevier BV","title":"Erratum on “Risk factors associated with the occurrence of adverse events in plateletpheresis donation” [Rev Bras Hematol Hemoter. 2014;36(3):191–5]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496053094670,
+      "identifier": {
+        "doi": "10.1016/j.bjhh.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjhh.2014.03.008"
+  },
+  "journal": "Revista Brasileira de Hematologia e Hemoterapia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum on “Risk factors associated with the occurrence of adverse events in plateletpheresis donation” [Rev Bras Hematol Hemoter. 2014;36(3):191–5]"
+}

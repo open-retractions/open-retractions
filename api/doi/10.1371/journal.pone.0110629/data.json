@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419552000000,"doi":"10.1371/journal.pone.0116654","type":"correction"},"doi":"10.1371/journal.pone.0110629","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Real Time QRS Detection Based on M-ary Likelihood Ratio Test on the DFT Coefficients"}
+{
+  "retracted": false,
+  "timestamp": 1419552000000,
+  "updates": [
+    {
+      "timestamp": 1496033139765,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0116654"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0110629"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Real Time QRS Detection Based on M-ary Likelihood Ratio Test on the DFT Coefficients"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419984000000,"doi":"10.1007/s10072-014-2045-5","type":"correction"},"doi":"10.1007/s10072-013-1538-y","journal":"Neurological Sciences","publisher":"Springer Nature","title":"Erratum to: Validation of the Italian version of Parkinson’s Disease-Cognitive Rating Scale (PD-CRS)"}
+{
+  "retracted": false,
+  "timestamp": 1419984000000,
+  "updates": [
+    {
+      "timestamp": 1496033439958,
+      "identifier": {
+        "doi": "10.1007/s10072-014-2045-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10072-013-1538-y"
+  },
+  "journal": "Neurological Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Validation of the Italian version of Parkinson’s Disease-Cognitive Rating Scale (PD-CRS)"
+}

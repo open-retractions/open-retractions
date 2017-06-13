@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383177600000,"doi":"10.1063/1.4828456","type":"correction"},"doi":"10.1063/1.4793625","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Molecular dynamics simulations with replica-averaged structural restraints generate structural ensembles according to the maximum entropy principle” [J. Chem. Phys. 138, 094112 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1383177600000,
+  "updates": [
+    {
+      "timestamp": 1495994559543,
+      "identifier": {
+        "doi": "10.1063/1.4828456"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4793625"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Molecular dynamics simulations with replica-averaged structural restraints generate structural ensembles according to the maximum entropy principle” [J. Chem. Phys. 138, 094112 (2013)]"
+}

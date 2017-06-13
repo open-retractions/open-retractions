@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.ymgme.2015.01.008","type":"erratum"},"doi":"10.1016/j.ymgme.2012.12.008","journal":"Molecular Genetics and Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Risk factors for developing mineral bone disease in phenylketonuric patients” [Mol. Genet. Metab. 108 (2013) 149–154]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496043379183,
+      "identifier": {
+        "doi": "10.1016/j.ymgme.2015.01.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymgme.2012.12.008"
+  },
+  "journal": "Molecular Genetics and Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Risk factors for developing mineral bone disease in phenylketonuric patients” [Mol. Genet. Metab. 108 (2013) 149–154]"
+}

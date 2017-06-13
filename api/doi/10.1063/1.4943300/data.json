@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485820800000,"doi":"10.1063/1.4962985","type":"erratum"},"doi":"10.1063/1.4943300","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “The Cauchy principal value and the Hadamard finite part integral as values of absolutely convergent integrals” [J. Math. Phys. 57, 033502 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1485820800000,
+  "updates": [
+    {
+      "timestamp": 1495681842549,
+      "identifier": {
+        "doi": "10.1063/1.4962985"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4943300"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The Cauchy principal value and the Hadamard finite part integral as values of absolutely convergent integrals” [J. Math. Phys. 57, 033502 (2016)]"
+}

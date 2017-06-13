@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1197936000000,"doi":"10.1073/pnas.0706836104","type":"correction"},"doi":"10.1073/pnas.0610746104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Danelishvili et al., Identification of Mycobacterium avium pathogenicity island important for macrophage and amoeba infection"}
+{
+  "retracted": false,
+  "timestamp": 1197936000000,
+  "updates": [
+    {
+      "timestamp": 1495810291742,
+      "identifier": {
+        "doi": "10.1073/pnas.0706836104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0610746104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Danelishvili et al., Identification of Mycobacterium avium pathogenicity island important for macrophage and amoeba infection"
+}

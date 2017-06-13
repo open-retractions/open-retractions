@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s11432-014-5059-y","type":"correction"},"doi":"10.1007/s11432-013-4901-y","journal":"Science China Information Sciences","publisher":"Springer Nature","title":"Erratum to: A sequential GM-based PHD filter for a linear Gaussian system"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496017580655,
+      "identifier": {
+        "doi": "10.1007/s11432-014-5059-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11432-013-4901-y"
+  },
+  "journal": "Science China Information Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A sequential GM-based PHD filter for a linear Gaussian system"
+}

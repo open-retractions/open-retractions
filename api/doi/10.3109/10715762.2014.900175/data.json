@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.3109/10715762.2015.1126069","type":"correction"},"doi":"10.3109/10715762.2014.900175","journal":"Free Radical Research","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648013761,
+      "identifier": {
+        "doi": "10.3109/10715762.2015.1126069"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10715762.2014.900175"
+  },
+  "journal": "Free Radical Research",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

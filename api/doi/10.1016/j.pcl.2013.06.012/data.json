@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.pcl.2016.03.001","type":"err"},"doi":"10.1016/j.pcl.2013.06.012","journal":"Pediatric Clinics of North America","publisher":"Elsevier BV","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717662633,
+      "identifier": {
+        "doi": "10.1016/j.pcl.2016.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pcl.2013.06.012"
+  },
+  "journal": "Pediatric Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Errata"
+}

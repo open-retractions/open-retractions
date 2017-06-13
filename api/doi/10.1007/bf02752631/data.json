@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1212451200000,"doi":"10.1007/bf02812320","type":"correction"},"doi":"10.1007/bf02752631","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Magnetic quenching of orthopositronium in ice"}
+{
+  "retracted": false,
+  "timestamp": 1212451200000,
+  "updates": [
+    {
+      "timestamp": 1495859060865,
+      "identifier": {
+        "doi": "10.1007/bf02812320"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02752631"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Magnetic quenching of orthopositronium in ice"
+}

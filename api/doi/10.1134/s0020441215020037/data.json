@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433289600000,"doi":"10.1134/s0020441215030276","type":"correction"},"doi":"10.1134/s0020441215020037","journal":"Instruments and Experimental Techniques","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “An Optoacoustical gravitational antenna”"}
+{
+  "retracted": false,
+  "timestamp": 1433289600000,
+  "updates": [
+    {
+      "timestamp": 1496003373598,
+      "identifier": {
+        "doi": "10.1134/s0020441215030276"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0020441215020037"
+  },
+  "journal": "Instruments and Experimental Techniques",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “An Optoacoustical gravitational antenna”"
+}

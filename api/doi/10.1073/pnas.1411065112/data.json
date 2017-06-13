@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441670400000,"doi":"10.1073/pnas.1515026112","type":"correction"},"doi":"10.1073/pnas.1411065112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jiménez et al., Dynamics of gene circuits shapes evolvability"}
+{
+  "retracted": false,
+  "timestamp": 1441670400000,
+  "updates": [
+    {
+      "timestamp": 1496023133053,
+      "identifier": {
+        "doi": "10.1073/pnas.1515026112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1411065112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jiménez et al., Dynamics of gene circuits shapes evolvability"
+}

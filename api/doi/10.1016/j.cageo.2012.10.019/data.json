@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.cageo.2013.04.002","type":"err"},"doi":"10.1016/j.cageo.2012.10.019","journal":"Computers & Geosciences","publisher":"Elsevier BV","title":"Erratum to “Ultimate open pit stochastic optimization” [Comput. Geosci. 51 (2013) 238–246]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496025265081,
+      "identifier": {
+        "doi": "10.1016/j.cageo.2013.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cageo.2012.10.019"
+  },
+  "journal": "Computers & Geosciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Ultimate open pit stochastic optimization” [Comput. Geosci. 51 (2013) 238–246]"
+}

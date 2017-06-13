@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429747200000,"doi":"10.1080/2040610x.2015.1042213","type":"correction"},"doi":"10.1080/2040610x.2015.1026077","journal":"Comedy Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1429747200000,
+  "updates": [
+    {
+      "timestamp": 1495995423363,
+      "identifier": {
+        "doi": "10.1080/2040610x.2015.1042213"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/2040610x.2015.1026077"
+  },
+  "journal": "Comedy Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

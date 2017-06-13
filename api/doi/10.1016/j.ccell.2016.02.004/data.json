@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1016/j.ccell.2016.08.011","type":"err"},"doi":"10.1016/j.ccell.2016.02.004","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Facilitating T Cell Infiltration in Tumor Microenvironment Overcomes Resistance to PD-L1 Blockade"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639466830,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2016.08.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2016.02.004"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Facilitating T Cell Infiltration in Tumor Microenvironment Overcomes Resistance to PD-L1 Blockade"
+}

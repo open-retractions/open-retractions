@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1343865600000,"doi":"10.1371/annotation/f345da14-66b8-4e8b-b448-576dc29a03f5","type":"correction"},"doi":"10.1371/journal.pone.0041359","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Structure of an MmyB-Like Regulator from C. aurantiacus, Member of a New Transcription Factor Family Linked to Antibiotic Metabolism in Actinomycetes"}
+{
+  "retracted": false,
+  "timestamp": 1343865600000,
+  "updates": [
+    {
+      "timestamp": 1495940116137,
+      "identifier": {
+        "doi": "10.1371/annotation/f345da14-66b8-4e8b-b448-576dc29a03f5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041359"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Structure of an MmyB-Like Regulator from C. aurantiacus, Member of a New Transcription Factor Family Linked to Antibiotic Metabolism in Actinomycetes"
+}

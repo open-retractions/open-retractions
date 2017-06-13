@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461628800000,"doi":"10.1080/19420889.2016.1178031","type":"correction"},"doi":"10.1080/19420889.2015.1123356","journal":"Communicative & Integrative Biology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1461628800000,
+  "updates": [
+    {
+      "timestamp": 1495668956512,
+      "identifier": {
+        "doi": "10.1080/19420889.2016.1178031"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19420889.2015.1123356"
+  },
+  "journal": "Communicative & Integrative Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

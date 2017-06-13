@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442534400000,"doi":"10.1038/srep14020","type":"correction"},"doi":"10.1038/srep11833","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Functional BCL-2 regulatory genetic variants contribute to susceptibility of esophageal squamous cell carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1442534400000,
+  "updates": [
+    {
+      "timestamp": 1496031366345,
+      "identifier": {
+        "doi": "10.1038/srep14020"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep11833"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Functional BCL-2 regulatory genetic variants contribute to susceptibility of esophageal squamous cell carcinoma"
+}

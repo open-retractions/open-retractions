@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.eujim.2013.07.009","type":"err"},"doi":"10.1016/j.eujim.2013.02.003","journal":"European Journal of Integrative Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Personal budgets for patient centred care” [Eur. J. Integr. Med. 5 (3) (2013) 191–193]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496041969279,
+      "identifier": {
+        "doi": "10.1016/j.eujim.2013.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eujim.2013.02.003"
+  },
+  "journal": "European Journal of Integrative Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Personal budgets for patient centred care” [Eur. J. Integr. Med. 5 (3) (2013) 191–193]"
+}

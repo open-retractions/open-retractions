@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443571200000,"doi":"10.1063/1.4932101","type":"correction"},"doi":"10.1063/1.4892614","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Stochastic many-body perturbation theory for anharmonic molecular vibrations” [J. Chem. Phys. 141, 084105 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1443571200000,
+  "updates": [
+    {
+      "timestamp": 1496034047204,
+      "identifier": {
+        "doi": "10.1063/1.4932101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4892614"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Stochastic many-body perturbation theory for anharmonic molecular vibrations” [J. Chem. Phys. 141, 084105 (2014)]"
+}

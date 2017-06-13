@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488499200000,"doi":"10.1080/13545701.2017.1289693","type":"correction"},"doi":"10.1080/13545701.2015.1115531","journal":"Feminist Economics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1488499200000,
+  "updates": [
+    {
+      "timestamp": 1495726512271,
+      "identifier": {
+        "doi": "10.1080/13545701.2017.1289693"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13545701.2015.1115531"
+  },
+  "journal": "Feminist Economics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.dyepig.2014.01.016","type":"err"},"doi":"10.1016/j.dyepig.2013.08.024","journal":"Dyes and Pigments","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and characterization of solution processable 6,11-dialkynyl substituted indeno[1,2-b]anthracenes” [Dyes Pigments 100 (2014) 104–117]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496018011125,
+      "identifier": {
+        "doi": "10.1016/j.dyepig.2014.01.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dyepig.2013.08.024"
+  },
+  "journal": "Dyes and Pigments",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and characterization of solution processable 6,11-dialkynyl substituted indeno[1,2-b]anthracenes” [Dyes Pigments 100 (2014) 104–117]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231200000000,"doi":"10.1073/pnas.0900259106","type":"correction"},"doi":"10.1073/pnas.0806787106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for van Kasteren et al., Glyconanoparticles allow pre-symptomatic in vivo imaging of brain disease"}
+{
+  "retracted": false,
+  "timestamp": 1231200000000,
+  "updates": [
+    {
+      "timestamp": 1495921247872,
+      "identifier": {
+        "doi": "10.1073/pnas.0900259106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0806787106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for van Kasteren et al., Glyconanoparticles allow pre-symptomatic in vivo imaging of brain disease"
+}

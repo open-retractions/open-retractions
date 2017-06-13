@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.jcp.2014.07.041","type":"err"},"doi":"10.1016/j.jcp.2012.11.040","journal":"Journal of Computational Physics","publisher":"Elsevier BV","title":"Corrigendum to “Regularized inversion of microphysical atmospheric particle parameters: Theory and application” [J. Comput. Phys. 237 (2013) 79–94]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1495999102230,
+      "identifier": {
+        "doi": "10.1016/j.jcp.2014.07.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcp.2012.11.040"
+  },
+  "journal": "Journal of Computational Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Regularized inversion of microphysical atmospheric particle parameters: Theory and application” [J. Comput. Phys. 237 (2013) 79–94]"
+}

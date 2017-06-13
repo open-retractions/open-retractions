@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448582400000,"doi":"10.1007/s10509-015-2595-x","type":"correction"},"doi":"10.1007/s10509-014-1968-x","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Nonplanar solitons in a warm electronegative plasma with electron nonextensivity effects"}
+{
+  "retracted": false,
+  "timestamp": 1448582400000,
+  "updates": [
+    {
+      "timestamp": 1496049378010,
+      "identifier": {
+        "doi": "10.1007/s10509-015-2595-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-014-1968-x"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nonplanar solitons in a warm electronegative plasma with electron nonextensivity effects"
+}

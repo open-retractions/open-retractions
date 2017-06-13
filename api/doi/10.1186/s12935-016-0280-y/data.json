@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1186/s12935-016-0313-6","type":"correction"},"doi":"10.1186/s12935-016-0280-y","journal":"Cancer Cell International","publisher":"Springer Nature","title":"Erratum to: Inhibition of glycolytic enzyme hexokinase II (HK2) suppresses lung tumor growth"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495715397836,
+      "identifier": {
+        "doi": "10.1186/s12935-016-0313-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12935-016-0280-y"
+  },
+  "journal": "Cancer Cell International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inhibition of glycolytic enzyme hexokinase II (HK2) suppresses lung tumor growth"
+}

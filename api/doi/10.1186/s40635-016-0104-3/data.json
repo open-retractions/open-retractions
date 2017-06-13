@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484870400000,"doi":"10.1186/s40635-017-0119-4","type":"correction"},"doi":"10.1186/s40635-016-0104-3","journal":"Intensive Care Medicine Experimental","publisher":"Springer Nature","title":"Erratum to: Heparin-binding protein is important for vascular leak in sepsis"}
+{
+  "retracted": false,
+  "timestamp": 1484870400000,
+  "updates": [
+    {
+      "timestamp": 1495671403405,
+      "identifier": {
+        "doi": "10.1186/s40635-017-0119-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40635-016-0104-3"
+  },
+  "journal": "Intensive Care Medicine Experimental",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Heparin-binding protein is important for vascular leak in sepsis"
+}

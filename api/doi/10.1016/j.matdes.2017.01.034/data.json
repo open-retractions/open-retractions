@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493942400000,"doi":"10.1016/j.matdes.2017.02.051","type":"erratum"},"doi":"10.1016/j.matdes.2017.01.034","journal":"Materials & Design","publisher":"Elsevier BV","title":"Corrigendum to “Microstructure evolution and mechanical properties of friction stir welding super-austenitic stainless steel S32654” [Mater. Des. 118 (2017) 207-217]"}
+{
+  "retracted": false,
+  "timestamp": 1493942400000,
+  "updates": [
+    {
+      "timestamp": 1495723601190,
+      "identifier": {
+        "doi": "10.1016/j.matdes.2017.02.051"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matdes.2017.01.034"
+  },
+  "journal": "Materials & Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Microstructure evolution and mechanical properties of friction stir welding super-austenitic stainless steel S32654” [Mater. Des. 118 (2017) 207-217]"
+}

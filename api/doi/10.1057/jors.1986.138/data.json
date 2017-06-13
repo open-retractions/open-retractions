@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":533779200000,"doi":"10.1057/jors.1986.210","type":"correction"},"doi":"10.1057/jors.1986.138","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A Process for Determining Priorities and Weights for Large-Scale Linear Goal Programmes"}
+{
+  "retracted": false,
+  "timestamp": 533779200000,
+  "updates": [
+    {
+      "timestamp": 1495887694874,
+      "identifier": {
+        "doi": "10.1057/jors.1986.210"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1986.138"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A Process for Determining Priorities and Weights for Large-Scale Linear Goal Programmes"
+}

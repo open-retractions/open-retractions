@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442188800000,"doi":"10.1080/15290824.2015.1076229","type":"correction"},"doi":"10.1080/15290824.2014.995015","journal":"Journal of Dance Education","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1442188800000,
+  "updates": [
+    {
+      "timestamp": 1496030779012,
+      "identifier": {
+        "doi": "10.1080/15290824.2015.1076229"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15290824.2014.995015"
+  },
+  "journal": "Journal of Dance Education",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391040000000,"doi":"10.1016/j.fuel.2013.10.050","type":"err"},"doi":"10.1016/j.fuel.2013.02.033","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “Classification performance evaluation of floatex density separator for coal fines” [Fuel 108 (2013) 303–310]"}
+{
+  "retracted": false,
+  "timestamp": 1391040000000,
+  "updates": [
+    {
+      "timestamp": 1495994241827,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2013.10.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2013.02.033"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Classification performance evaluation of floatex density separator for coal fines” [Fuel 108 (2013) 303–310]"
+}

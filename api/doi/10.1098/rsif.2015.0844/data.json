@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1098/rsif.2016.0586","type":"correction"},"doi":"10.1098/rsif.2015.0844","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Physical limits on bacterial navigation in dynamic environments’"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495740591714,
+      "identifier": {
+        "doi": "10.1098/rsif.2016.0586"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2015.0844"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Physical limits on bacterial navigation in dynamic environments’"
+}

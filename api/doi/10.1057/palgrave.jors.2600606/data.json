@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":914371200000,"doi":"10.1057/palgrave.jors.2600684","type":"correction"},"doi":"10.1057/palgrave.jors.2600606","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 914371200000,
+  "updates": [
+    {
+      "timestamp": 1495886703626,
+      "identifier": {
+        "doi": "10.1057/palgrave.jors.2600684"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/palgrave.jors.2600606"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

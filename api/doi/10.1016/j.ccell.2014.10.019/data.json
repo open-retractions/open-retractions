@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421020800000,"doi":"10.1016/j.ccell.2014.12.007","type":"err"},"doi":"10.1016/j.ccell.2014.10.019","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Targeting Transcriptional Addictions in Small Cell Lung Cancer with a Covalent CDK7 Inhibitor"}
+{
+  "retracted": false,
+  "timestamp": 1421020800000,
+  "updates": [
+    {
+      "timestamp": 1496035088708,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2014.12.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2014.10.019"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Targeting Transcriptional Addictions in Small Cell Lung Cancer with a Covalent CDK7 Inhibitor"
+}

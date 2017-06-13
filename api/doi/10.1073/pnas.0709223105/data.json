@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1214870400000,"doi":"10.1073/pnas.0804020105","type":"correction"},"doi":"10.1073/pnas.0709223105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ameset al., Crystal structure and functional analysis of tetracenomycin ARO/CYC: Implications for cyclization specificity of aromatic polyketides"}
+{
+  "retracted": false,
+  "timestamp": 1214870400000,
+  "updates": [
+    {
+      "timestamp": 1495861393164,
+      "identifier": {
+        "doi": "10.1073/pnas.0804020105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0709223105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ameset al., Crystal structure and functional analysis of tetracenomycin ARO/CYC: Implications for cyclization specificity of aromatic polyketides"
+}

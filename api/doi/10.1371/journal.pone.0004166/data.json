@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1232928000000,"doi":"10.1371/annotation/c2f3e4e5-b6a0-4be8-9f8c-3d4e01933385","type":"correction"},"doi":"10.1371/journal.pone.0004166","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Relationship between Expression of the Family of M Proteins and Lipoteichoic Acid to Hydrophobicity and Biofilm Formation in Streptococcus pyogenes"}
+{
+  "retracted": false,
+  "timestamp": 1232928000000,
+  "updates": [
+    {
+      "timestamp": 1491880237715,
+      "identifier": {
+        "doi": "10.1371/annotation/c2f3e4e5-b6a0-4be8-9f8c-3d4e01933385"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004166"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Relationship between Expression of the Family of M Proteins and Lipoteichoic Acid to Hydrophobicity and Biofilm Formation in Streptococcus pyogenes"
+}

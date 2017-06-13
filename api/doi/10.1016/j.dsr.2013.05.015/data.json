@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.dsr.2014.08.007","type":"err"},"doi":"10.1016/j.dsr.2013.05.015","journal":"Deep Sea Research Part I: Oceanographic Research Papers","publisher":"Elsevier BV","title":"Corrigendum to “Multi-decadal projections of surface and interior pathways of the Fukushima cesium-137 radioactive plume” [Deep-Sea Res. I 80 (2013) 37–46]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496006561907,
+      "identifier": {
+        "doi": "10.1016/j.dsr.2014.08.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsr.2013.05.015"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-decadal projections of surface and interior pathways of the Fukushima cesium-137 radioactive plume” [Deep-Sea Res. I 80 (2013) 37–46]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1267488000000,"doi":"10.1073/pnas.1002462107","type":"correction"},"doi":"10.1073/pnas.0913697107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Miller et al., Cortical activity during motor execution, motor imagery, and imagery-based online feedback"}
+{
+  "retracted": false,
+  "timestamp": 1267488000000,
+  "updates": [
+    {
+      "timestamp": 1495828027250,
+      "identifier": {
+        "doi": "10.1073/pnas.1002462107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0913697107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Miller et al., Cortical activity during motor execution, motor imagery, and imagery-based online feedback"
+}

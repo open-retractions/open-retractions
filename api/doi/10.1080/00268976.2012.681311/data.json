@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418688000000,"doi":"10.1080/00268976.2014.957011","type":"correction"},"doi":"10.1080/00268976.2012.681311","journal":"Molecular Physics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1418688000000,
+  "updates": [
+    {
+      "timestamp": 1496004847220,
+      "identifier": {
+        "doi": "10.1080/00268976.2014.957011"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00268976.2012.681311"
+  },
+  "journal": "Molecular Physics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

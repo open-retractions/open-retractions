@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401062400000,"doi":"10.1007/bf02977142","type":"correction"},"doi":"10.1007/bf02964059","journal":"The Dublin Journal of Medical Science","publisher":"Springer Nature","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1401062400000,
+  "updates": [
+    {
+      "timestamp": 1496042845942,
+      "identifier": {
+        "doi": "10.1007/bf02977142"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02964059"
+  },
+  "journal": "The Dublin Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum"
+}

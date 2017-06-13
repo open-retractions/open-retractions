@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440806400000,"doi":"10.1007/s11065-015-9298-5","type":"correction"},"doi":"10.1007/s11065-015-9294-9","journal":"Neuropsychology Review","publisher":"Springer Nature","title":"Erratum to: Functional Magnetic Resonance Imaging Methods"}
+{
+  "retracted": false,
+  "timestamp": 1440806400000,
+  "updates": [
+    {
+      "timestamp": 1496025119529,
+      "identifier": {
+        "doi": "10.1007/s11065-015-9298-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11065-015-9294-9"
+  },
+  "journal": "Neuropsychology Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Functional Magnetic Resonance Imaging Methods"
+}

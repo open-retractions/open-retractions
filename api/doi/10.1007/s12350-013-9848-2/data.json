@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414108800000,"doi":"10.1007/s12350-014-9953-x","type":"correction"},"doi":"10.1007/s12350-013-9848-2","journal":"Journal of Nuclear Cardiology","publisher":"Springer Nature","title":"Erratum to: Isolated right ventricular cardiac sarcoidosis demonstrated by 18FDG positron emission tomography"}
+{
+  "retracted": false,
+  "timestamp": 1414108800000,
+  "updates": [
+    {
+      "timestamp": 1496016341340,
+      "identifier": {
+        "doi": "10.1007/s12350-014-9953-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12350-013-9848-2"
+  },
+  "journal": "Journal of Nuclear Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isolated right ventricular cardiac sarcoidosis demonstrated by 18FDG positron emission tomography"
+}

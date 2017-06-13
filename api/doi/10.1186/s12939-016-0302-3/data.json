@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460332800000,"doi":"10.1186/s12939-016-0355-3","type":"correction"},"doi":"10.1186/s12939-016-0302-3","journal":"International Journal for Equity in Health","publisher":"Springer Nature","title":"Erratum to: Inequity in waiting for cataract surgery - an analysis of data from the Swedish National Cataract Register"}
+{
+  "retracted": false,
+  "timestamp": 1460332800000,
+  "updates": [
+    {
+      "timestamp": 1495666547734,
+      "identifier": {
+        "doi": "10.1186/s12939-016-0355-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12939-016-0302-3"
+  },
+  "journal": "International Journal for Equity in Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inequity in waiting for cataract surgery - an analysis of data from the Swedish National Cataract Register"
+}

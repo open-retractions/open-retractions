@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483488000000,"doi":"10.3847/1538-4357/834/1/95","type":"correction"},"doi":"10.1088/0004-637x/784/1/38","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “SUPERDIFFUSION OF COSMIC RAYS: IMPLICATIONS FOR COSMIC RAY ACCELERATION” (2014, ApJ, 784, 38)"}
+{
+  "retracted": false,
+  "timestamp": 1483488000000,
+  "updates": [
+    {
+      "timestamp": 1495672386732,
+      "identifier": {
+        "doi": "10.3847/1538-4357/834/1/95"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/784/1/38"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “SUPERDIFFUSION OF COSMIC RAYS: IMPLICATIONS FOR COSMIC RAY ACCELERATION” (2014, ApJ, 784, 38)"
+}

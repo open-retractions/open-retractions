@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.amj.2016.04.009","type":"err"},"doi":"10.1016/j.amj.2015.12.008","journal":"Air Medical Journal","publisher":"Elsevier BV","title":"Erratum to “Interprofessional Flight Camp” [Air Medical Journal (2016) 70-72]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495716975446,
+      "identifier": {
+        "doi": "10.1016/j.amj.2016.04.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amj.2015.12.008"
+  },
+  "journal": "Air Medical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Interprofessional Flight Camp” [Air Medical Journal (2016) 70-72]"
+}

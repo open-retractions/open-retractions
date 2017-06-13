@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.foodchem.2015.11.123","type":"err"},"doi":"10.1016/j.foodchem.2015.03.050","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Simultaneous determination of synthetic colorants in yogurt by HPLC” [Food Chem. 183 (2015) 154–160]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1496051249521,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2015.11.123"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.03.050"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simultaneous determination of synthetic colorants in yogurt by HPLC” [Food Chem. 183 (2015) 154–160]"
+}

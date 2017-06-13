@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457136000000,"doi":"10.1016/j.saa.2015.11.013","type":"err"},"doi":"10.1016/j.saa.2015.09.021","journal":"Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy","publisher":"Elsevier BV","title":"Corrigendum to “A novel antiamoebic agent against Acanthamoeba sp.—A causative agent for eye keratitis infection” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 153 (2016) 714–721]"}
+{
+  "retracted": false,
+  "timestamp": 1457136000000,
+  "updates": [
+    {
+      "timestamp": 1496048966583,
+      "identifier": {
+        "doi": "10.1016/j.saa.2015.11.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.saa.2015.09.021"
+  },
+  "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel antiamoebic agent against Acanthamoeba sp.—A causative agent for eye keratitis infection” [Spectrochim. Acta A Mol. Biomol. Spectrosc. 153 (2016) 714–721]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.trc.2015.04.002","type":"err"},"doi":"10.1016/j.trc.2014.09.010","journal":"Transportation Research Part C: Emerging Technologies","publisher":"Elsevier BV","title":"Corrigendum to “Methodology for safety improvement programming using constrained network-level optimization” [Transportation Research Part C: Emerging Technologies 50 (2015) 106–116]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496056486421,
+      "identifier": {
+        "doi": "10.1016/j.trc.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.trc.2014.09.010"
+  },
+  "journal": "Transportation Research Part C: Emerging Technologies",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Methodology for safety improvement programming using constrained network-level optimization” [Transportation Research Part C: Emerging Technologies 50 (2015) 106–116]"
+}

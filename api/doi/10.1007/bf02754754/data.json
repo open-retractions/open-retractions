@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200700800000,"doi":"10.1007/bf02789649","type":"correction"},"doi":"10.1007/bf02754754","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: On the origin of magnetic fields in white dwarfs and neutron stars.—II"}
+{
+  "retracted": false,
+  "timestamp": 1200700800000,
+  "updates": [
+    {
+      "timestamp": 1495822414758,
+      "identifier": {
+        "doi": "10.1007/bf02789649"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02754754"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the origin of magnetic fields in white dwarfs and neutron stars.—II"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jmgm.2014.11.009","type":"err"},"doi":"10.1016/j.jmgm.2014.10.008","journal":"Journal of Molecular Graphics and Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Multi-generational pharmacophore modeling for ligands to the cholane steroid-recognition site in the β1 modulatory subunit of the BKCa channel” [J. Mol. Graph. Model. 54 (2014) 174–183]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496028138242,
+      "identifier": {
+        "doi": "10.1016/j.jmgm.2014.11.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmgm.2014.10.008"
+  },
+  "journal": "Journal of Molecular Graphics and Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-generational pharmacophore modeling for ligands to the cholane steroid-recognition site in the β1 modulatory subunit of the BKCa channel” [J. Mol. Graph. Model. 54 (2014) 174–183]"
+}

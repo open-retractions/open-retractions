@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.matcom.2014.07.002","type":"err"},"doi":"10.1016/j.matcom.2013.09.011","journal":"Mathematics and Computers in Simulation","publisher":"Elsevier BV","title":"Erratum to “Inference in stochastic frontier analysis with dependent error terms” [Math. Comp. Simul. 102C (2014) 131–143]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495995207702,
+      "identifier": {
+        "doi": "10.1016/j.matcom.2014.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matcom.2013.09.011"
+  },
+  "journal": "Mathematics and Computers in Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Inference in stochastic frontier analysis with dependent error terms” [Math. Comp. Simul. 102C (2014) 131–143]"
+}

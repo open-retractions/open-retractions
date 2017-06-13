@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1007/s00393-016-0214-z","type":"correction"},"doi":"10.1007/s00393-016-0122-2","journal":"Zeitschrift für Rheumatologie","publisher":"Springer Nature","title":"Erratum zu: Biologika"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647057671,
+      "identifier": {
+        "doi": "10.1007/s00393-016-0214-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00393-016-0122-2"
+  },
+  "journal": "Zeitschrift für Rheumatologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Biologika"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.mvr.2016.08.003","type":"erratum"},"doi":"10.1016/j.mvr.2013.04.006","journal":"Microvascular Research","publisher":"Elsevier BV","title":"Corrigendum to “Telmisartan inhibits AGE-induced podocyte damage and detachment” [Microvascular Research 88 (2013) 79–83]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495737427643,
+      "identifier": {
+        "doi": "10.1016/j.mvr.2016.08.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mvr.2013.04.006"
+  },
+  "journal": "Microvascular Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Telmisartan inhibits AGE-induced podocyte damage and detachment” [Microvascular Research 88 (2013) 79–83]"
+}

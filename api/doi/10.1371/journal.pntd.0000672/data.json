@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288137600000,"doi":"10.1371/annotation/03774b36-c453-404a-b295-7b91bfd9cebd","type":"correction"},"doi":"10.1371/journal.pntd.0000672","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: A Non Mouse-Adapted Dengue Virus Strain as a New Model of Severe Dengue Infection in AG129 Mice"}
+{
+  "retracted": false,
+  "timestamp": 1288137600000,
+  "updates": [
+    {
+      "timestamp": 1495900381863,
+      "identifier": {
+        "doi": "10.1371/annotation/03774b36-c453-404a-b295-7b91bfd9cebd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0000672"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Non Mouse-Adapted Dengue Virus Strain as a New Model of Severe Dengue Infection in AG129 Mice"
+}

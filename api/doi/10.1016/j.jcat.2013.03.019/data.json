@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jcat.2013.11.022","type":"err"},"doi":"10.1016/j.jcat.2013.03.019","journal":"Journal of Catalysis","publisher":"Elsevier BV","title":"Corrigendum to “Nano-crystallite oriented self-assembled ZSM-5 zeolite and its LDPE cracking properties: Effects of accessibility and strength of acid sites” [J. Catal. 302 (2013) 115–125]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496006573787,
+      "identifier": {
+        "doi": "10.1016/j.jcat.2013.11.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcat.2013.03.019"
+  },
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nano-crystallite oriented self-assembled ZSM-5 zeolite and its LDPE cracking properties: Effects of accessibility and strength of acid sites” [J. Catal. 302 (2013) 115–125]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1260230400000,"doi":"10.1098/rspa.2011.0157","type":"correction"},"doi":"10.1098/rspa.2009.0291","journal":"Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences","publisher":"The Royal Society","title":"Supporting electrolyte asymptotics and the electrochemical pickling of steel"}
+{
+  "retracted": false,
+  "timestamp": 1260230400000,
+  "updates": [
+    {
+      "timestamp": 1495954693737,
+      "identifier": {
+        "doi": "10.1098/rspa.2011.0157"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspa.2009.0291"
+  },
+  "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+  "publisher": "The Royal Society",
+  "title": "Supporting electrolyte asymptotics and the electrochemical pickling of steel"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400803200000,"doi":"10.1080/0305764x.2014.914798","type":"correction"},"doi":"10.1080/0305764x.2013.860083","journal":"Cambridge Journal of Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1400803200000,
+  "updates": [
+    {
+      "timestamp": 1496038748221,
+      "identifier": {
+        "doi": "10.1080/0305764x.2014.914798"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0305764x.2013.860083"
+  },
+  "journal": "Cambridge Journal of Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.cattod.2014.08.020","type":"erratum"},"doi":"10.1016/j.cattod.2013.08.008","journal":"Catalysis Today","publisher":"Elsevier BV","title":"Corrigendum to: CO-insertion mechanism based kinetic model of the Fischer–Tropsch synthesis reaction over Re-promoted Co catalyst"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496005605783,
+      "identifier": {
+        "doi": "10.1016/j.cattod.2014.08.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cattod.2013.08.008"
+  },
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: CO-insertion mechanism based kinetic model of the Fischer–Tropsch synthesis reaction over Re-promoted Co catalyst"
+}

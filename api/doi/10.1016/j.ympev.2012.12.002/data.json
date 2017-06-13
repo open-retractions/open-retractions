@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.ympev.2013.05.009","type":"err"},"doi":"10.1016/j.ympev.2012.12.002","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “Molecular phylogeny and historical biogeography of the Anatolian lizard Apathya (Squamata, Lacertidae)” [Mol. Phylogenet. Evol. 66 (2013) 992–1001]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496020534797,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2013.05.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2012.12.002"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular phylogeny and historical biogeography of the Anatolian lizard Apathya (Squamata, Lacertidae)” [Mol. Phylogenet. Evol. 66 (2013) 992–1001]"
+}

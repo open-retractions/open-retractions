@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410048000000,"doi":"10.1007/s40571-014-0029-0","type":"correction"},"doi":"10.1007/s40571-014-0027-2","journal":"Computational Particle Mechanics","publisher":"Springer Nature","title":"Erratum to: Least squares moving particle semi-implicit method"}
+{
+  "retracted": false,
+  "timestamp": 1410048000000,
+  "updates": [
+    {
+      "timestamp": 1496005146994,
+      "identifier": {
+        "doi": "10.1007/s40571-014-0029-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40571-014-0027-2"
+  },
+  "journal": "Computational Particle Mechanics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Least squares moving particle semi-implicit method"
+}

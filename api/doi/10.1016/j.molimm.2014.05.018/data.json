@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.molimm.2014.10.002","type":"err"},"doi":"10.1016/j.molimm.2014.05.018","journal":"Molecular Immunology","publisher":"Elsevier BV","title":"Erratum to “IL-10 production by B cells is differentially regulated by immune-mediated and infectious stimuli and requires p38 activation” [Mol. Immunol. 62 (2014) 266–276]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496016187584,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2014.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2014.05.018"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “IL-10 production by B cells is differentially regulated by immune-mediated and infectious stimuli and requires p38 activation” [Mol. Immunol. 62 (2014) 266–276]"
+}

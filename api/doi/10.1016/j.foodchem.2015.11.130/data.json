@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.foodchem.2016.02.083","type":"err"},"doi":"10.1016/j.foodchem.2015.11.130","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Validation of a mass spectrometry-based method for milk traces detection in baked food” [Food Chem. 199 (2016) 119–127]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495647110710,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.02.083"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.11.130"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Validation of a mass spectrometry-based method for milk traces detection in baked food” [Food Chem. 199 (2016) 119–127]"
+}

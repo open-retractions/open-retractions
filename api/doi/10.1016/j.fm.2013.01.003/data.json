@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.fm.2013.06.006","type":"err"},"doi":"10.1016/j.fm.2013.01.003","journal":"Food Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Inactivation strategy for Clostridium perfringens spores adhered to food contact surfaces” [Food Microbiol. 34 (2) (2013) 328–336]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496033702170,
+      "identifier": {
+        "doi": "10.1016/j.fm.2013.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fm.2013.01.003"
+  },
+  "journal": "Food Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inactivation strategy for Clostridium perfringens spores adhered to food contact surfaces” [Food Microbiol. 34 (2) (2013) 328–336]"
+}

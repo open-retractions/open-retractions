@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1271721600000,"doi":"10.1073/pnas.1006237107","type":"correction"},"doi":"10.1073/pnas.0914242107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kumar et al., Nuclear phosphoinositide 3-kinase   controls double-strand break DNA repair"}
+{
+  "retracted": false,
+  "timestamp": 1271721600000,
+  "updates": [
+    {
+      "timestamp": 1495839711133,
+      "identifier": {
+        "doi": "10.1073/pnas.1006237107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0914242107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kumar et al., Nuclear phosphoinositide 3-kinase   controls double-strand break DNA repair"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1371/annotation/f64311a8-b716-4cbb-8b59-32fd1d2188a7","type":"correction"},"doi":"10.1371/journal.pone.0031625","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Built-In Mechanism to Mitigate the Spread of Insect-Resistance and Herbicide-Tolerance Transgenes into Weedy Rice Populations"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495906953868,
+      "identifier": {
+        "doi": "10.1371/annotation/f64311a8-b716-4cbb-8b59-32fd1d2188a7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031625"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Built-In Mechanism to Mitigate the Spread of Insect-Resistance and Herbicide-Tolerance Transgenes into Weedy Rice Populations"
+}

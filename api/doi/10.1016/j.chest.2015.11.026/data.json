@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.chest.2016.08.1442","type":"erratum"},"doi":"10.1016/j.chest.2015.11.026","journal":"Chest","publisher":"Elsevier BV","title":"Correction to Grade in: Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495646561947,
+      "identifier": {
+        "doi": "10.1016/j.chest.2016.08.1442"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chest.2015.11.026"
+  },
+  "journal": "Chest",
+  "publisher": "Elsevier BV",
+  "title": "Correction to Grade in: Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435536000000,"doi":"10.1080/17451000.2015.1049837","type":"correction"},"doi":"10.1080/17451000.2015.1016971","journal":"Marine Biology Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1435536000000,
+  "updates": [
+    {
+      "timestamp": 1496012223684,
+      "identifier": {
+        "doi": "10.1080/17451000.2015.1049837"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17451000.2015.1016971"
+  },
+  "journal": "Marine Biology Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

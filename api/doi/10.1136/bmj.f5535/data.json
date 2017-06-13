@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379376000000,"doi":"10.1136/bmj.g1335","type":"correction"},"doi":"10.1136/bmj.f5535","journal":"BMJ","publisher":"BMJ","title":"Ensuring the integrity of clinical practice guidelines: a tool for protecting patients"}
+{
+  "retracted": false,
+  "timestamp": 1379376000000,
+  "updates": [
+    {
+      "timestamp": 1496016195423,
+      "identifier": {
+        "doi": "10.1136/bmj.g1335"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5535"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Ensuring the integrity of clinical practice guidelines: a tool for protecting patients"
+}

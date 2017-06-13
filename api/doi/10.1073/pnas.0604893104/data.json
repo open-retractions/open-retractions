@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1173139200000,"doi":"10.1073/pnas.0701154104","type":"correction"},"doi":"10.1073/pnas.0604893104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Amthor et al., Lack of myostatin results in excessive muscle growth but impaired force generation"}
+{
+  "retracted": false,
+  "timestamp": 1173139200000,
+  "updates": [
+    {
+      "timestamp": 1495933762309,
+      "identifier": {
+        "doi": "10.1073/pnas.0701154104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0604893104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Amthor et al., Lack of myostatin results in excessive muscle growth but impaired force generation"
+}

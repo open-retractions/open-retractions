@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460332800000,"doi":"10.3847/0004-637x/821/1/69","type":"correction"},"doi":"10.1088/0004-637x/757/1/69","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “PROGENITOR-EXPLOSION CONNECTION AND REMNANT BIRTH MASSES FOR NEUTRINO-DRIVEN SUPERNOVAE OF IRON-CORE PROGENITORS” (2012, ApJ, 757, 69)"}
+{
+  "retracted": false,
+  "timestamp": 1460332800000,
+  "updates": [
+    {
+      "timestamp": 1495665685334,
+      "identifier": {
+        "doi": "10.3847/0004-637x/821/1/69"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/757/1/69"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “PROGENITOR-EXPLOSION CONNECTION AND REMNANT BIRTH MASSES FOR NEUTRINO-DRIVEN SUPERNOVAE OF IRON-CORE PROGENITORS” (2012, ApJ, 757, 69)"
+}

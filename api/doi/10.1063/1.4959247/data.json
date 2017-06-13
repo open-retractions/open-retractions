@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471305600000,"doi":"10.1063/1.4961448","type":"correction"},"doi":"10.1063/1.4959247","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Equivalent circuit representation of hysteresis in solar cells that considers interface charge accumulation: Potential cause of hysteresis in perovskite solar cells” [Appl. Phys. Lett. 109, 033905 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1471305600000,
+  "updates": [
+    {
+      "timestamp": 1495738681018,
+      "identifier": {
+        "doi": "10.1063/1.4961448"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4959247"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Equivalent circuit representation of hysteresis in solar cells that considers interface charge accumulation: Potential cause of hysteresis in perovskite solar cells” [Appl. Phys. Lett. 109, 033905 (2016)]"
+}

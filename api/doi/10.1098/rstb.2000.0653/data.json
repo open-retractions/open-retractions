@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":970185600000,"doi":"10.1098/rstb.2008.3000","type":"correction"},"doi":"10.1098/rstb.2000.0653","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction for Peach and Marshall, The pit organs of elasmobranchs: a review"}
+{
+  "retracted": false,
+  "timestamp": 970185600000,
+  "updates": [
+    {
+      "timestamp": 1495974726012,
+      "identifier": {
+        "doi": "10.1098/rstb.2008.3000"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2000.0653"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction for Peach and Marshall, The pit organs of elasmobranchs: a review"
+}

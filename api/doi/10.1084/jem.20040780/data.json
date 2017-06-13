@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1108944000000,"doi":"10.1084/jem.20040780020805c","type":"correction"},"doi":"10.1084/jem.20040780","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1108944000000,
+  "updates": [
+    {
+      "timestamp": 1495921807299,
+      "identifier": {
+        "doi": "10.1084/jem.20040780020805c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20040780"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Erratum"
+}

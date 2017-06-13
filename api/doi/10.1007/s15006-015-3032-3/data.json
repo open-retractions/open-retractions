@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445472000000,"doi":"10.1007/s15006-015-3632-y","type":"correction"},"doi":"10.1007/s15006-015-3032-3","journal":"MMW - Fortschritte der Medizin","publisher":"Springer Nature","title":"Erratum zu: Harnwegsinfekt: Wann wird es kompliziert?"}
+{
+  "retracted": false,
+  "timestamp": 1445472000000,
+  "updates": [
+    {
+      "timestamp": 1496040556334,
+      "identifier": {
+        "doi": "10.1007/s15006-015-3632-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s15006-015-3032-3"
+  },
+  "journal": "MMW - Fortschritte der Medizin",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Harnwegsinfekt: Wann wird es kompliziert?"
+}

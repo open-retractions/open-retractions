@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.oregeorev.2016.10.009","type":"err"},"doi":"10.1016/j.oregeorev.2015.12.017","journal":"Ore Geology Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Gallium, germanium, indium and other trace and minor elements in sphalerite as a function of deposit type – A meta-analysis” [Ore Geol. Rev. 76 (2016) 52–78]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495649067131,
+      "identifier": {
+        "doi": "10.1016/j.oregeorev.2016.10.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oregeorev.2015.12.017"
+  },
+  "journal": "Ore Geology Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gallium, germanium, indium and other trace and minor elements in sphalerite as a function of deposit type – A meta-analysis” [Ore Geol. Rev. 76 (2016) 52–78]"
+}

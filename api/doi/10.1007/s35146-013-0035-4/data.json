@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365724800000,"doi":"10.1007/s35146-013-0107-5","type":"correction"},"doi":"10.1007/s35146-013-0035-4","journal":"MTZ - Motortechnische Zeitschrift","publisher":"Springer Nature","title":"Erratum to Superkondensatoren — Elektrochemische Doppelkondensatoren"}
+{
+  "retracted": false,
+  "timestamp": 1365724800000,
+  "updates": [
+    {
+      "timestamp": 1496029939545,
+      "identifier": {
+        "doi": "10.1007/s35146-013-0107-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s35146-013-0035-4"
+  },
+  "journal": "MTZ - Motortechnische Zeitschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Superkondensatoren — Elektrochemische Doppelkondensatoren"
+}

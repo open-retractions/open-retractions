@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1374710400000,"update":{"timestamp":null,"doi":null,"pmid":24137725,"type":"retraction"},"doi":"10.1016/j.molcel.2013.06.005","journal":"Molecular cell","publisher":null,"title":"Retracted: Histone H2B ubquitination regulates retinoic acid signaling through the cooperation of ASXL1 and BAP1."}
+{
+  "retracted": false,
+  "timestamp": 1377129600000,
+  "updates": [
+    {
+      "timestamp": 1496041172664,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2013.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2013.06.005"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: Histone H2B Ubquitination Regulates Retinoic Acid Signaling through the Cooperation of ASXL1 and BAP1"
+}

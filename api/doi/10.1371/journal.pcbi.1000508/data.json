@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1257292800000,"doi":"10.1371/annotation/5d07cf0b-75f8-4452-a932-46574f5faf3f","type":"correction"},"doi":"10.1371/journal.pcbi.1000508","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Brief Overview of Bioinformatics Activities in Singapore"}
+{
+  "retracted": false,
+  "timestamp": 1257292800000,
+  "updates": [
+    {
+      "timestamp": 1496025198919,
+      "identifier": {
+        "doi": "10.1371/annotation/5d07cf0b-75f8-4452-a932-46574f5faf3f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000508"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Brief Overview of Bioinformatics Activities in Singapore"
+}

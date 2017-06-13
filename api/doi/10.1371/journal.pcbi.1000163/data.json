@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1371/journal.pcbi.1004163","type":"correction"},"doi":"10.1371/journal.pcbi.1000163","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Contact-Inhibited Chemotaxis in De Novo and Sprouting Blood-Vessel Growth"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496057969240,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004163"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000163"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Contact-Inhibited Chemotaxis in De Novo and Sprouting Blood-Vessel Growth"
+}

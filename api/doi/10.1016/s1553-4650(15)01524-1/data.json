@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jmig.2015.11.001","type":"err"},"doi":"10.1016/s1553-4650(15)01524-1","journal":"Journal of Minimally Invasive Gynecology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496046909204,
+      "identifier": {
+        "doi": "10.1016/j.jmig.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s1553-4650(15)01524-1"
+  },
+  "journal": "Journal of Minimally Invasive Gynecology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

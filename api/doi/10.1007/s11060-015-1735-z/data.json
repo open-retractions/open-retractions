@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433289600000,"doi":"10.1007/s11060-015-1803-4","type":"correction"},"doi":"10.1007/s11060-015-1735-z","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Disseminated oligodendroglial-like leptomeningeal tumors: preliminary diagnostic and therapeutic results for a novel tumor entity"}
+{
+  "retracted": false,
+  "timestamp": 1433289600000,
+  "updates": [
+    {
+      "timestamp": 1496003512651,
+      "identifier": {
+        "doi": "10.1007/s11060-015-1803-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-015-1735-z"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Disseminated oligodendroglial-like leptomeningeal tumors: preliminary diagnostic and therapeutic results for a novel tumor entity"
+}

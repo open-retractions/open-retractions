@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.biosystemseng.2013.07.004","type":"err"},"doi":"10.1016/j.biosystemseng.2013.03.009","journal":"Biosystems Engineering","publisher":"Elsevier BV","title":"Erratum to “Citrus yield estimation based on images processed by an Android mobile phone” [Biosyst Eng 115 (2013) 162–170]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496036387382,
+      "identifier": {
+        "doi": "10.1016/j.biosystemseng.2013.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biosystemseng.2013.03.009"
+  },
+  "journal": "Biosystems Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Citrus yield estimation based on images processed by an Android mobile phone” [Biosyst Eng 115 (2013) 162–170]"
+}

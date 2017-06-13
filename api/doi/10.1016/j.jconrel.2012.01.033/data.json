@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403913600000,"doi":"10.1016/j.jconrel.2014.04.002","type":"err"},"doi":"10.1016/j.jconrel.2012.01.033","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “A low-invasive and effective transcutaneous immunization system using a novel dissolving microneedle array for soluble and particulate antigens” [J. Control. Release 161 (2012) 10−17]"}
+{
+  "retracted": false,
+  "timestamp": 1403913600000,
+  "updates": [
+    {
+      "timestamp": 1496029454851,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2012.01.033"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A low-invasive and effective transcutaneous immunization system using a novel dissolving microneedle array for soluble and particulate antigens” [J. Control. Release 161 (2012) 10−17]"
+}

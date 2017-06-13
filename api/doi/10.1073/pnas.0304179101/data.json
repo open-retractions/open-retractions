@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1078185600000,"doi":"10.1073/pnas.0400055101","type":"correction"},"doi":"10.1073/pnas.0304179101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lee et al., Organic light-emitting diodes formed by soft contact lamination, PNAS 2004 101:429-433"}
+{
+  "retracted": false,
+  "timestamp": 1078185600000,
+  "updates": [
+    {
+      "timestamp": 1495809116407,
+      "identifier": {
+        "doi": "10.1073/pnas.0400055101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0304179101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lee et al., Organic light-emitting diodes formed by soft contact lamination, PNAS 2004 101:429-433"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.bbagen.2013.06.027","type":"err"},"doi":"10.1016/j.bbagen.2013.04.009","journal":"Biochimica et Biophysica Acta (BBA) - General Subjects","publisher":"Elsevier BV","title":"Corrigendum to “Rejoining of cut wounds by engineered gelatin-keratin glue” [Biochim. Biophys. Acta, Gen. Subj. (2013) 4030–4039]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496029744867,
+      "identifier": {
+        "doi": "10.1016/j.bbagen.2013.06.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbagen.2013.04.009"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - General Subjects",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rejoining of cut wounds by engineered gelatin-keratin glue” [Biochim. Biophys. Acta, Gen. Subj. (2013) 4030–4039]"
+}

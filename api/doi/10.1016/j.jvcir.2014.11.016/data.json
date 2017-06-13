@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jvcir.2015.02.013","type":"err"},"doi":"10.1016/j.jvcir.2014.11.016","journal":"Journal of Visual Communication and Image Representation","publisher":"Elsevier BV","title":"Erratum to “Automatically classifying paintings with perceptual inspired descriptor” [J. Visual Commun. 26 (2015) 222–230]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049246261,
+      "identifier": {
+        "doi": "10.1016/j.jvcir.2015.02.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvcir.2014.11.016"
+  },
+  "journal": "Journal of Visual Communication and Image Representation",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Automatically classifying paintings with perceptual inspired descriptor” [J. Visual Commun. 26 (2015) 222–230]"
+}

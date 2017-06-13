@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397174400000,"doi":"10.1371/journal.pcbi.1003617","type":"correction"},"doi":"10.1371/journal.pcbi.1003171","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Task-Based Core-Periphery Organization of Human Brain Dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1397174400000,
+  "updates": [
+    {
+      "timestamp": 1496032213038,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003617"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003171"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Task-Based Core-Periphery Organization of Human Brain Dynamics"
+}

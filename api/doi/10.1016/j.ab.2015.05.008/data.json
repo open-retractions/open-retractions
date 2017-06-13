@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.ab.2016.11.002","type":"erratum"},"doi":"10.1016/j.ab.2015.05.008","journal":"Analytical Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “A continuous tyrosyl-tRNA synthetase assay that regenerates the tRNA substrate” [Anal. Biochem. 486 (2015) 86–95]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495661497549,
+      "identifier": {
+        "doi": "10.1016/j.ab.2016.11.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ab.2015.05.008"
+  },
+  "journal": "Analytical Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A continuous tyrosyl-tRNA synthetase assay that regenerates the tRNA substrate” [Anal. Biochem. 486 (2015) 86–95]"
+}

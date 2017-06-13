@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1136/bmj.h2851","type":"correction"},"doi":"10.1136/bmj.h2318","journal":"BMJ","publisher":"BMJ","title":"Identifying and managing common childhood language and speech impairments"}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1496001673933,
+      "identifier": {
+        "doi": "10.1136/bmj.h2851"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2318"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Identifying and managing common childhood language and speech impairments"
+}

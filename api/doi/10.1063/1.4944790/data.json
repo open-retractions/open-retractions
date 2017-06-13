@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472169600000,"doi":"10.1063/1.4961381","type":"correction"},"doi":"10.1063/1.4944790","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Intrinsic emittance reduction in transmission mode photocathodes” [Appl. Phys. Lett. 108, 124105 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1472169600000,
+  "updates": [
+    {
+      "timestamp": 1495741124718,
+      "identifier": {
+        "doi": "10.1063/1.4961381"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4944790"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Intrinsic emittance reduction in transmission mode photocathodes” [Appl. Phys. Lett. 108, 124105 (2016)]"
+}

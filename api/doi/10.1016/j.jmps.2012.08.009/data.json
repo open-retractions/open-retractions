@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jmps.2015.05.014","type":"err"},"doi":"10.1016/j.jmps.2012.08.009","journal":"Journal of the Mechanics and Physics of Solids","publisher":"Elsevier BV","title":"Corrigendum to “Structures undergoing discrete phase transformation”"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496006719316,
+      "identifier": {
+        "doi": "10.1016/j.jmps.2015.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmps.2012.08.009"
+  },
+  "journal": "Journal of the Mechanics and Physics of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structures undergoing discrete phase transformation”"
+}

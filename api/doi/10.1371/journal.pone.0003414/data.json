@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1225756800000,"doi":"10.1371/annotation/db7652dc-4328-48ea-9244-67e831ae0e0e","type":"correction"},"doi":"10.1371/journal.pone.0003414","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Discovery of a Distinct Superfamily of Kunitz-Type Toxin (KTT) from Tarantulas"}
+{
+  "retracted": false,
+  "timestamp": 1225756800000,
+  "updates": [
+    {
+      "timestamp": 1491880238021,
+      "identifier": {
+        "doi": "10.1371/annotation/db7652dc-4328-48ea-9244-67e831ae0e0e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003414"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Discovery of a Distinct Superfamily of Kunitz-Type Toxin (KTT) from Tarantulas"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.bbr.2013.08.019","type":"err"},"doi":"10.1016/j.bbr.2013.06.020","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Corrigendum to ‘Monogenic heritable autism gene neuroligin impacts Drosophila social behaviour’ [BBR 252C (2013) 450–457]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496041129784,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2013.08.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2013.06.020"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Monogenic heritable autism gene neuroligin impacts Drosophila social behaviour’ [BBR 252C (2013) 450–457]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.ejrad.2016.02.012","type":"err"},"doi":"10.1016/j.ejrad.2015.11.001","journal":"European Journal of Radiology","publisher":"Elsevier BV","title":"Corrigendum to “Performance and role of the breast lesion excision system (BLES) in small clusters of suspicious microcalcifications” [Eur. J. Radiol. 85 (2016) 143–149]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495645261278,
+      "identifier": {
+        "doi": "10.1016/j.ejrad.2016.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejrad.2015.11.001"
+  },
+  "journal": "European Journal of Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance and role of the breast lesion excision system (BLES) in small clusters of suspicious microcalcifications” [Eur. J. Radiol. 85 (2016) 143–149]"
+}

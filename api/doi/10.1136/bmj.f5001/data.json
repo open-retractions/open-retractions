@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377734400000,"doi":"10.1136/bmj.f6935","type":"correction"},"doi":"10.1136/bmj.f5001","journal":"BMJ","publisher":"BMJ","title":"Fruit consumption and risk of type 2 diabetes: results from three prospective longitudinal cohort studies"}
+{
+  "retracted": false,
+  "timestamp": 1377734400000,
+  "updates": [
+    {
+      "timestamp": 1496002468765,
+      "identifier": {
+        "doi": "10.1136/bmj.f6935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5001"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Fruit consumption and risk of type 2 diabetes: results from three prospective longitudinal cohort studies"
+}

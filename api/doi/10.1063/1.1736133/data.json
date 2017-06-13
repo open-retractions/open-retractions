@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-260409600000,"doi":"10.1063/1.1728338","type":"erratum"},"doi":"10.1063/1.1736133","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: A Theory for the Cathode Mechanism in Metal Vapor Arcs"}
+{
+  "retracted": false,
+  "timestamp": -260409600000,
+  "updates": [
+    {
+      "timestamp": 1495891085320,
+      "identifier": {
+        "doi": "10.1063/1.1728338"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1736133"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: A Theory for the Cathode Mechanism in Metal Vapor Arcs"
+}

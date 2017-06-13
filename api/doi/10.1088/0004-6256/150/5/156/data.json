@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.3847/0004-6256/151/2/47","type":"correction"},"doi":"10.1088/0004-6256/150/5/156","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “TWO SNe Ia AT REDSHIFT ∼2: IMPROVED CLASSIFICATION AND REDSHIFT DETERMINATION WITH MEDIUM-BAND INFRARED IMAGING” (2015, AJ, 150, 156)"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495642610065,
+      "identifier": {
+        "doi": "10.3847/0004-6256/151/2/47"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/150/5/156"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “TWO SNe Ia AT REDSHIFT ∼2: IMPROVED CLASSIFICATION AND REDSHIFT DETERMINATION WITH MEDIUM-BAND INFRARED IMAGING” (2015, AJ, 150, 156)"
+}

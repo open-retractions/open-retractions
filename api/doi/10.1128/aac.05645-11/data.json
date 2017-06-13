@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1128/aac.01322-15","type":"correction"},"doi":"10.1128/aac.05645-11","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Correction for Huang et al., NagZ-Dependent and NagZ-Independent Mechanisms for β-Lactamase Expression in Stenotrophomonas maltophilia"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496015855672,
+      "identifier": {
+        "doi": "10.1128/aac.01322-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.05645-11"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Huang et al., NagZ-Dependent and NagZ-Independent Mechanisms for β-Lactamase Expression in Stenotrophomonas maltophilia"
+}

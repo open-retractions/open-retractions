@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.apergo.2013.01.005","type":"err"},"doi":"10.1016/j.apergo.2012.08.002","journal":"Applied Ergonomics","publisher":"Elsevier BV","title":"Corrigendum to ‘Improving Multi-tasking Ability Through Action Videogames’ [JERG 44/2 (2013) 278–284]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1495989491061,
+      "identifier": {
+        "doi": "10.1016/j.apergo.2013.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apergo.2012.08.002"
+  },
+  "journal": "Applied Ergonomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Improving Multi-tasking Ability Through Action Videogames’ [JERG 44/2 (2013) 278–284]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1007/s004380000425","type":"correction"},"doi":"10.1007/s004380000290","journal":"Molecular and General Genetics MGG","publisher":"Springer Nature","title":"Erratum to Genes of Erwinia amylovora involved in yellow color formation and release of a low-molecular-weight compound during growth in the presence of copper ions"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1495948376959,
+      "identifier": {
+        "doi": "10.1007/s004380000425"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s004380000290"
+  },
+  "journal": "Molecular and General Genetics MGG",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Genes of Erwinia amylovora involved in yellow color formation and release of a low-molecular-weight compound during growth in the presence of copper ions"
+}

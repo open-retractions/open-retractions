@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350950400000,"doi":"10.1371/annotation/7fdd5c53-e8ab-40b5-b297-e82c06a06e70","type":"correction"},"doi":"10.1371/journal.pone.0042527","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Serotonin Potentiates Transforming Growth Factor-beta3 Induced Biomechanical Remodeling in Avian Embryonic Atrioventricular Valves"}
+{
+  "retracted": false,
+  "timestamp": 1350950400000,
+  "updates": [
+    {
+      "timestamp": 1495967873032,
+      "identifier": {
+        "doi": "10.1371/annotation/7fdd5c53-e8ab-40b5-b297-e82c06a06e70"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0042527"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Serotonin Potentiates Transforming Growth Factor-beta3 Induced Biomechanical Remodeling in Avian Embryonic Atrioventricular Valves"
+}

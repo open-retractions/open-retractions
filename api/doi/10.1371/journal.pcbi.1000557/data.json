@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1261526400000,"doi":"10.1371/annotation/d5844bf3-a6ed-4221-a7ba-02503405cd5e","type":"correction"},"doi":"10.1371/journal.pcbi.1000557","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Evolution of Resistance to Targeted Anti-Cancer Therapies during Continuous and Pulsed Administration Strategies"}
+{
+  "retracted": false,
+  "timestamp": 1261526400000,
+  "updates": [
+    {
+      "timestamp": 1496025196216,
+      "identifier": {
+        "doi": "10.1371/annotation/d5844bf3-a6ed-4221-a7ba-02503405cd5e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000557"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evolution of Resistance to Targeted Anti-Cancer Therapies during Continuous and Pulsed Administration Strategies"
+}

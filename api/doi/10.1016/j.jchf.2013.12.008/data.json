@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jchf.2014.07.001","type":"err"},"doi":"10.1016/j.jchf.2013.12.008","journal":"JACC: Heart Failure","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496012548914,
+      "identifier": {
+        "doi": "10.1016/j.jchf.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jchf.2013.12.008"
+  },
+  "journal": "JACC: Heart Failure",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1239062400000,"doi":"10.1186/1471-244x-9-14","type":"correction"},"doi":"10.1186/1471-244x-7-65","journal":"BMC Psychiatry","publisher":"Springer Nature","title":"Erratum to: Folate Augmentation of Treatment – Evaluation for Depression (FolATED): protocol of a randomised controlled trial"}
+{
+  "retracted": false,
+  "timestamp": 1239062400000,
+  "updates": [
+    {
+      "timestamp": 1495926515540,
+      "identifier": {
+        "doi": "10.1186/1471-244x-9-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-244x-7-65"
+  },
+  "journal": "BMC Psychiatry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Folate Augmentation of Treatment – Evaluation for Depression (FolATED): protocol of a randomised controlled trial"
+}

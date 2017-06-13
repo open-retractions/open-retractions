@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475452800000,"doi":"10.1186/s12891-016-1270-x","type":"correction"},"doi":"10.1186/s12891-016-1207-4","journal":"BMC Musculoskeletal Disorders","publisher":"Springer Nature","title":"Erratum to: Validity of data collected in BIOREG, the Austrian register for biological treatment in rheumatology: current practice of bDMARD therapy in rheumatoid arthritis in Austria"}
+{
+  "retracted": false,
+  "timestamp": 1475452800000,
+  "updates": [
+    {
+      "timestamp": 1495645005774,
+      "identifier": {
+        "doi": "10.1186/s12891-016-1270-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12891-016-1207-4"
+  },
+  "journal": "BMC Musculoskeletal Disorders",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Validity of data collected in BIOREG, the Austrian register for biological treatment in rheumatology: current practice of bDMARD therapy in rheumatoid arthritis in Austria"
+}

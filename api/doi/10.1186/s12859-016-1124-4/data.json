@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477872000000,"doi":"10.1186/s12859-016-1315-z","type":"correction"},"doi":"10.1186/s12859-016-1124-4","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Detection and sequence/structure mapping of biophysical constraints to protein variation in saturated mutational libraries and protein sequence alignments with a dedicated server"}
+{
+  "retracted": false,
+  "timestamp": 1477872000000,
+  "updates": [
+    {
+      "timestamp": 1495653018626,
+      "identifier": {
+        "doi": "10.1186/s12859-016-1315-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-016-1124-4"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Detection and sequence/structure mapping of biophysical constraints to protein variation in saturated mutational libraries and protein sequence alignments with a dedicated server"
+}

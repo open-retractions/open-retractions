@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.mimet.2016.08.011","type":"err"},"doi":"10.1016/j.mimet.2016.01.004","journal":"Journal of Microbiological Methods","publisher":"Elsevier BV","title":"Corrigendum to “sonicating multi-lumen sliced catheter tips after the roll-plate technique improves the detection of catheter colonization in adults” [J. Microbiol. Methods 122 (2016) 20–22]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495638749755,
+      "identifier": {
+        "doi": "10.1016/j.mimet.2016.08.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mimet.2016.01.004"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “sonicating multi-lumen sliced catheter tips after the roll-plate technique improves the detection of catheter colonization in adults” [J. Microbiol. Methods 122 (2016) 20–22]"
+}

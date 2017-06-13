@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.epsr.2015.03.020","type":"err"},"doi":"10.1016/j.epsr.2013.11.027","journal":"Electric Power Systems Research","publisher":"Elsevier BV","title":"Corrigendum to “A multi-level control architecture for master-slave organized microgrids with power electronic interfaces” [Electric Power Syst. Res. 109 (2014) 8–19]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496055411194,
+      "identifier": {
+        "doi": "10.1016/j.epsr.2015.03.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsr.2013.11.027"
+  },
+  "journal": "Electric Power Systems Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A multi-level control architecture for master-slave organized microgrids with power electronic interfaces” [Electric Power Syst. Res. 109 (2014) 8–19]"
+}

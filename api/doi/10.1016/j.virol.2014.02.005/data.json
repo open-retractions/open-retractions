@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.virol.2016.10.018","type":"erratum"},"doi":"10.1016/j.virol.2014.02.005","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to ‘Phagocytic cells contribute to the antibody-mediated elimination of pulmonary-infected SARS coronavirus’ [Virology (2014) 157–168]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495655088606,
+      "identifier": {
+        "doi": "10.1016/j.virol.2016.10.018"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2014.02.005"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Phagocytic cells contribute to the antibody-mediated elimination of pulmonary-infected SARS coronavirus’ [Virology (2014) 157–168]"
+}

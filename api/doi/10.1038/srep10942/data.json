@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1038/srep21230","type":"correction"},"doi":"10.1038/srep10942","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: The Serum Profile of Hypercytokinemia Factors Identified in H7N9-Infected Patients can Predict Fatal Outcomes"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495646910995,
+      "identifier": {
+        "doi": "10.1038/srep21230"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10942"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: The Serum Profile of Hypercytokinemia Factors Identified in H7N9-Infected Patients can Predict Fatal Outcomes"
+}

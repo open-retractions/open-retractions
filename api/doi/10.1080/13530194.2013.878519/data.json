@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405468800000,"doi":"10.1080/13530194.2014.924238","type":"correction"},"doi":"10.1080/13530194.2013.878519","journal":"British Journal of Middle Eastern Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1405468800000,
+  "updates": [
+    {
+      "timestamp": 1496053552891,
+      "identifier": {
+        "doi": "10.1080/13530194.2014.924238"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13530194.2013.878519"
+  },
+  "journal": "British Journal of Middle Eastern Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

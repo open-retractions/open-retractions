@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1128/aac.01094-16","type":"correction"},"doi":"10.1128/aac.03049-15","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Sasabe et al., Antitubercular Agent Delamanid and Metabolites as Substrates and Inhibitors of ABC and Solute Carrier Transporters"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495721861298,
+      "identifier": {
+        "doi": "10.1128/aac.01094-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.03049-15"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Sasabe et al., Antitubercular Agent Delamanid and Metabolites as Substrates and Inhibitors of ABC and Solute Carrier Transporters"
+}

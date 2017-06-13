@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226016000000,"doi":"10.1007/bf02527664","type":"correction"},"doi":"10.1007/bf02525782","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: The International conference on geodetical measuring technique and instruments held in Budapest Apr. 14th–20th 1966"}
+{
+  "retracted": false,
+  "timestamp": 1226016000000,
+  "updates": [
+    {
+      "timestamp": 1495919001473,
+      "identifier": {
+        "doi": "10.1007/bf02527664"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02525782"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The International conference on geodetical measuring technique and instruments held in Budapest Apr. 14th–20th 1966"
+}

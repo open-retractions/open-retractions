@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1179/1947461x15z.00000000066","type":"correction"},"doi":"10.1179/1947461x14z.00000000049","journal":"California Archaeology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1496001616038,
+      "identifier": {
+        "doi": "10.1179/1947461x15z.00000000066"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1947461x14z.00000000049"
+  },
+  "journal": "California Archaeology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

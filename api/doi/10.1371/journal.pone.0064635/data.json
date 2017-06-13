@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391126400000,"doi":"10.1371/annotation/b0f3fd01-7aad-498d-a104-d64d1f8deb29","type":"correction"},"doi":"10.1371/journal.pone.0064635","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: CD69 Is a TGF-β/1α,25-dihydroxyvitamin D3Target Gene in Monocytes"}
+{
+  "retracted": false,
+  "timestamp": 1391126400000,
+  "updates": [
+    {
+      "timestamp": 1496015318182,
+      "identifier": {
+        "doi": "10.1371/annotation/b0f3fd01-7aad-498d-a104-d64d1f8deb29"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0064635"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: CD69 Is a TGF-β/1α,25-dihydroxyvitamin D3Target Gene in Monocytes"
+}

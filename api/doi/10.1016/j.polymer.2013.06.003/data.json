@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384387200000,"doi":"10.1016/j.polymer.2013.10.002","type":"err"},"doi":"10.1016/j.polymer.2013.06.003","journal":"Polymer","publisher":"Elsevier BV","title":"Corrigendum to “Maleic anhydride functionalization of polypropylene with suppressed molecular weight reduction via solid-state shear pulverization” [Polymer 54 (16) (2013) 4143–4154]"}
+{
+  "retracted": false,
+  "timestamp": 1384387200000,
+  "updates": [
+    {
+      "timestamp": 1496056471789,
+      "identifier": {
+        "doi": "10.1016/j.polymer.2013.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.polymer.2013.06.003"
+  },
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Maleic anhydride functionalization of polypropylene with suppressed molecular weight reduction via solid-state shear pulverization” [Polymer 54 (16) (2013) 4143–4154]"
+}

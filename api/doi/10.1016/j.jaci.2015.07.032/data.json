@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jaci.2016.04.001","type":"erratum"},"doi":"10.1016/j.jaci.2015.07.032","journal":"Journal of Allergy and Clinical Immunology","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717781087,
+      "identifier": {
+        "doi": "10.1016/j.jaci.2016.04.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaci.2015.07.032"
+  },
+  "journal": "Journal of Allergy and Clinical Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

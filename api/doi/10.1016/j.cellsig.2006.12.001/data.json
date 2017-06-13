@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.cellsig.2015.11.015","type":"err"},"doi":"10.1016/j.cellsig.2006.12.001","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “Palmitoylation of the TPβ isoform of the human thromboxane A2 receptor. Modulation of G protein: Effector coupling and modes of receptor internalization.” [Cell Signal. 19(5) (2007) 1056–1070]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496056645090,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2015.11.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2006.12.001"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Palmitoylation of the TPβ isoform of the human thromboxane A2 receptor. Modulation of G protein: Effector coupling and modes of receptor internalization.” [Cell Signal. 19(5) (2007) 1056–1070]"
+}

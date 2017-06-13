@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1345680000000,"doi":"10.1371/annotation/eb15769c-aa54-4963-8a13-1dd7e8242319","type":"correction"},"doi":"10.1371/journal.pone.0035928","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Nucleosomes Correlate with In Vivo Progression Pattern of De Novo Methylation of p16 CpG Islands in Human Gastric Carcinogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1345680000000,
+  "updates": [
+    {
+      "timestamp": 1495948641539,
+      "identifier": {
+        "doi": "10.1371/annotation/eb15769c-aa54-4963-8a13-1dd7e8242319"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035928"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Nucleosomes Correlate with In Vivo Progression Pattern of De Novo Methylation of p16 CpG Islands in Human Gastric Carcinogenesis"
+}

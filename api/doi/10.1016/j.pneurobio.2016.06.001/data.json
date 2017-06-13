@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.pneurobio.2016.08.004","type":"err"},"doi":"10.1016/j.pneurobio.2016.06.001","journal":"Progress in Neurobiology","publisher":"Elsevier BV","title":"Erratum to “Calpains and neuronal damage in the ischemic brain: The swiss knife in synaptic injury” [Progress in Neurobiology 143 (2016) 1–35]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495638962724,
+      "identifier": {
+        "doi": "10.1016/j.pneurobio.2016.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pneurobio.2016.06.001"
+  },
+  "journal": "Progress in Neurobiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Calpains and neuronal damage in the ischemic brain: The swiss knife in synaptic injury” [Progress in Neurobiology 143 (2016) 1–35]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200960000000,"doi":"10.1007/bf02755110","type":"correction"},"doi":"10.1007/bf02721250","journal":"Il Nuovo Cimento B","publisher":"Springer Nature","title":"Erratum to: Radiative transfer for polarized radiation: Symmetry properties and geometrical interpretation"}
+{
+  "retracted": false,
+  "timestamp": 1200960000000,
+  "updates": [
+    {
+      "timestamp": 1495823101486,
+      "identifier": {
+        "doi": "10.1007/bf02755110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02721250"
+  },
+  "journal": "Il Nuovo Cimento B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiative transfer for polarized radiation: Symmetry properties and geometrical interpretation"
+}

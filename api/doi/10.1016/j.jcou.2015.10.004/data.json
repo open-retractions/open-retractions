@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.jcou.2015.11.007","type":"err"},"doi":"10.1016/j.jcou.2015.10.004","journal":"Journal of CO2 Utilization","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis of Cr-doped SrTiO3 photocatalyst and its application in visible-light-driven transformation of CO2 into CH4” [Journal of CO2 Utilization 12 (2015) 43–48]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496052610733,
+      "identifier": {
+        "doi": "10.1016/j.jcou.2015.11.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcou.2015.10.004"
+  },
+  "journal": "Journal of CO2 Utilization",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis of Cr-doped SrTiO3 photocatalyst and its application in visible-light-driven transformation of CO2 into CH4” [Journal of CO2 Utilization 12 (2015) 43–48]"
+}

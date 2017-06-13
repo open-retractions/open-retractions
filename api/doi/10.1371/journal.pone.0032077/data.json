@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339027200000,"doi":"10.1371/annotation/5c145402-1089-4764-a204-e620e15b0e5b","type":"correction"},"doi":"10.1371/journal.pone.0032077","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Exocyst Subunits Exo70 and Exo84 Cooperate with Small GTPases to Regulate Behavior and Endocytic Trafficking in C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1339027200000,
+  "updates": [
+    {
+      "timestamp": 1495912224825,
+      "identifier": {
+        "doi": "10.1371/annotation/5c145402-1089-4764-a204-e620e15b0e5b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032077"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Exocyst Subunits Exo70 and Exo84 Cooperate with Small GTPases to Regulate Behavior and Endocytic Trafficking in C. elegans"
+}

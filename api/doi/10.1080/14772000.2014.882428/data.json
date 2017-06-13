@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1080/14772000.2014.956554","type":"correction"},"doi":"10.1080/14772000.2014.882428","journal":"Systematics and Biodiversity","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496004830060,
+      "identifier": {
+        "doi": "10.1080/14772000.2014.956554"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14772000.2014.882428"
+  },
+  "journal": "Systematics and Biodiversity",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400284800000,"doi":"10.1007/s00289-014-1181-7","type":"correction"},"doi":"10.1007/s00289-014-1100-y","journal":"Polymer Bulletin","publisher":"Springer Nature","title":"Erratum to: Thermodynamic modeling of vapor–liquid equilibrium for binary polyethylene glycol/solvent solutions using cubic equations of state: optimization and comparison of CEoS models"}
+{
+  "retracted": false,
+  "timestamp": 1400284800000,
+  "updates": [
+    {
+      "timestamp": 1496039156859,
+      "identifier": {
+        "doi": "10.1007/s00289-014-1181-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00289-014-1100-y"
+  },
+  "journal": "Polymer Bulletin",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermodynamic modeling of vapor–liquid equilibrium for binary polyethylene glycol/solvent solutions using cubic equations of state: optimization and comparison of CEoS models"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449705600000,"doi":"10.1007/s12686-015-0507-6","type":"correction"},"doi":"10.1007/s12686-015-0451-5","journal":"Conservation Genetics Resources","publisher":"Springer Nature","title":"Erratum to: Development and characterization of 16 microsatellite markers for Micromeria (Lamiaceae) from Tenerife (Canary Islands, Spain) using 454 sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1449705600000,
+  "updates": [
+    {
+      "timestamp": 1496051371455,
+      "identifier": {
+        "doi": "10.1007/s12686-015-0507-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12686-015-0451-5"
+  },
+  "journal": "Conservation Genetics Resources",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development and characterization of 16 microsatellite markers for Micromeria (Lamiaceae) from Tenerife (Canary Islands, Spain) using 454 sequencing"
+}

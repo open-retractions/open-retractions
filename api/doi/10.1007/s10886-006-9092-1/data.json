@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1153267200000,"doi":"10.1007/s10886-006-9132-x","type":"correction"},"doi":"10.1007/s10886-006-9092-1","journal":"Journal of Chemical Ecology","publisher":"Springer Nature","title":"Pheromone-Induced Priming of a Defensive Response in Western Flower Thrips"}
+{
+  "retracted": false,
+  "timestamp": 1153267200000,
+  "updates": [
+    {
+      "timestamp": 1495857558965,
+      "identifier": {
+        "doi": "10.1007/s10886-006-9132-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10886-006-9092-1"
+  },
+  "journal": "Journal of Chemical Ecology",
+  "publisher": "Springer Nature",
+  "title": "Pheromone-Induced Priming of a Defensive Response in Western Flower Thrips"
+}

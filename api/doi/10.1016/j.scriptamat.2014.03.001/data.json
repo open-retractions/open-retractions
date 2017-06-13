@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.scriptamat.2014.07.001","type":"erratum"},"doi":"10.1016/j.scriptamat.2014.03.001","journal":"Scripta Materialia","publisher":"Elsevier BV","title":"Erratum to “Accurate electron channeling contrast analysis of dislocations in fine grained bulk materials” [Scripta Mater. 84–85 (2014) 11–14]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496053329216,
+      "identifier": {
+        "doi": "10.1016/j.scriptamat.2014.07.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scriptamat.2014.03.001"
+  },
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Accurate electron channeling contrast analysis of dislocations in fine grained bulk materials” [Scripta Mater. 84–85 (2014) 11–14]"
+}

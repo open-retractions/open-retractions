@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.bmc.2013.08.003","type":"err"},"doi":"10.1016/j.bmc.2013.01.025","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and evaluation of coumarin derivatives as potential dual-action HIV-1 protease and reverse transcriptase inhibitors” [Bioorg. Med. Chem. 21 (2013) 1964–1971]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496042001055,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2013.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2013.01.025"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and evaluation of coumarin derivatives as potential dual-action HIV-1 protease and reverse transcriptase inhibitors” [Bioorg. Med. Chem. 21 (2013) 1964–1971]"
+}

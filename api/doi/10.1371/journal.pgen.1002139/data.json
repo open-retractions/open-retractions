@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311206400000,"doi":"10.1371/annotation/5d0c3be4-6f34-420a-960f-0a880bbf6128","type":"correction"},"doi":"10.1371/journal.pgen.1002139","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Maps of Open Chromatin Guide the Functional Follow-Up of Genome-Wide Association Signals: Application to Hematological Traits"}
+{
+  "retracted": false,
+  "timestamp": 1311206400000,
+  "updates": [
+    {
+      "timestamp": 1495981102273,
+      "identifier": {
+        "doi": "10.1371/annotation/5d0c3be4-6f34-420a-960f-0a880bbf6128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1002139"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Maps of Open Chromatin Guide the Functional Follow-Up of Genome-Wide Association Signals: Application to Hematological Traits"
+}

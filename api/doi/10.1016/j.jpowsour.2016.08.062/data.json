@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jpowsour.2016.09.105","type":"err"},"doi":"10.1016/j.jpowsour.2016.08.062","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to ‘Low-cost Cr doped Pt3Ni alloy supported on carbon nanofibers composites counter electrode for efficient dye-sensitized solar cells’ [J. Power Sources 328 (2016) 543–550]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495642731653,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2016.09.105"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2016.08.062"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Low-cost Cr doped Pt3Ni alloy supported on carbon nanofibers composites counter electrode for efficient dye-sensitized solar cells’ [J. Power Sources 328 (2016) 543–550]"
+}

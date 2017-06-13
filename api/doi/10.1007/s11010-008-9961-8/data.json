@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395187200000,"doi":"10.1007/s11010-014-2010-x","type":"correction"},"doi":"10.1007/s11010-008-9961-8","journal":"Molecular and Cellular Biochemistry","publisher":"Springer Nature","title":"Erratum to: The effects of acute acetaminophen toxicity on hepatic mRNA expression of SOD, CAT, GSH-Px, and levels of peroxynitrite, nitric oxide, reduced glutathione, and malondialdehyde in rabbit"}
+{
+  "retracted": false,
+  "timestamp": 1395187200000,
+  "updates": [
+    {
+      "timestamp": 1496026470722,
+      "identifier": {
+        "doi": "10.1007/s11010-014-2010-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11010-008-9961-8"
+  },
+  "journal": "Molecular and Cellular Biochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The effects of acute acetaminophen toxicity on hepatic mRNA expression of SOD, CAT, GSH-Px, and levels of peroxynitrite, nitric oxide, reduced glutathione, and malondialdehyde in rabbit"
+}

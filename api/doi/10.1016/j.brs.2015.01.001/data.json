@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.brs.2016.03.008","type":"err"},"doi":"10.1016/j.brs.2015.01.001","journal":"Brain Stimulation","publisher":"Elsevier BV","title":"Corrigendum to “Transcranial Direct Current Stimulation in Epilepsy” Brain Stimulation [8 (2015) 455–464]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495655549304,
+      "identifier": {
+        "doi": "10.1016/j.brs.2016.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brs.2015.01.001"
+  },
+  "journal": "Brain Stimulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Transcranial Direct Current Stimulation in Epilepsy” Brain Stimulation [8 (2015) 455–464]"
+}

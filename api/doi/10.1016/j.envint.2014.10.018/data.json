@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.envint.2014.12.005","type":"err"},"doi":"10.1016/j.envint.2014.10.018","journal":"Environment International","publisher":"Elsevier BV","title":"Erratum to “Projecting future air pollution-related mortality under a changing climate: Progress, uncertainties and research needs” [Environment International 75 (2015): 21–32]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496032064081,
+      "identifier": {
+        "doi": "10.1016/j.envint.2014.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envint.2014.10.018"
+  },
+  "journal": "Environment International",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Projecting future air pollution-related mortality under a changing climate: Progress, uncertainties and research needs” [Environment International 75 (2015): 21–32]"
+}

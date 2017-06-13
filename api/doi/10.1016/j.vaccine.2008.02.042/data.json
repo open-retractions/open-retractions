@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388707200000,"doi":"10.1016/j.vaccine.2013.11.002","type":"err"},"doi":"10.1016/j.vaccine.2008.02.042","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of the immunogenicity and safety of measles vaccine administered alone or with live, attenuated Japanese encephalitis SA 14-14-2 vaccine in Philippine infants” [Vaccine 26 (2008) 2234–2241]"}
+{
+  "retracted": false,
+  "timestamp": 1388707200000,
+  "updates": [
+    {
+      "timestamp": 1495995222269,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2013.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2008.02.042"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of the immunogenicity and safety of measles vaccine administered alone or with live, attenuated Japanese encephalitis SA 14-14-2 vaccine in Philippine infants” [Vaccine 26 (2008) 2234–2241]"
+}

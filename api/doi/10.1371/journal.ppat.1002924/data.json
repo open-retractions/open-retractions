@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1371/journal.ppat.1005503","type":"correction"},"doi":"10.1371/journal.ppat.1002924","journal":"PLOS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Rhabdovirus Associated with Acute Hemorrhagic Fever in Central Africa"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495654471438,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.1005503"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002924"
+  },
+  "journal": "PLOS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Rhabdovirus Associated with Acute Hemorrhagic Fever in Central Africa"
+}

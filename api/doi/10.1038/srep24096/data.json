@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478044800000,"doi":"10.1038/srep35519","type":"correction"},"doi":"10.1038/srep24096","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: A Direct Method to Extract Transient Sub-Gap Density of State (DOS) Based on Dual Gate Pulse Spectroscopy"}
+{
+  "retracted": false,
+  "timestamp": 1478044800000,
+  "updates": [
+    {
+      "timestamp": 1495653540050,
+      "identifier": {
+        "doi": "10.1038/srep35519"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep24096"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: A Direct Method to Extract Transient Sub-Gap Density of State (DOS) Based on Dual Gate Pulse Spectroscopy"
+}

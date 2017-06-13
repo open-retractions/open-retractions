@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419033600000,"doi":"10.1016/j.ijcard.2014.08.120","type":"err"},"doi":"10.1016/j.ijcard.2008.10.013","journal":"International Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum to “Molecular mechanisms of irbesartan suppressing atherosclerosis in high cholesterol-diet apolipoprotein E knock-out mice” [Int J Cardiol 139 (2010) 113–22]"}
+{
+  "retracted": false,
+  "timestamp": 1419033600000,
+  "updates": [
+    {
+      "timestamp": 1496019788680,
+      "identifier": {
+        "doi": "10.1016/j.ijcard.2014.08.120"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijcard.2008.10.013"
+  },
+  "journal": "International Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Molecular mechanisms of irbesartan suppressing atherosclerosis in high cholesterol-diet apolipoprotein E knock-out mice” [Int J Cardiol 139 (2010) 113–22]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1128/mbio.01342-14","type":"correction"},"doi":"10.1128/mbio.00064-14","journal":"mBio","publisher":"American Society for Microbiology","title":"Causes for the Persistence of Impact Factor Mania"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496043630219,
+      "identifier": {
+        "doi": "10.1128/mbio.01342-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mbio.00064-14"
+  },
+  "journal": "mBio",
+  "publisher": "American Society for Microbiology",
+  "title": "Causes for the Persistence of Impact Factor Mania"
+}

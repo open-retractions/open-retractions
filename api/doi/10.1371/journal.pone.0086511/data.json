@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1371/journal.pone.0095814","type":"correction"},"doi":"10.1371/journal.pone.0086511","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Accurate Data Processing Improves the Reliability of Affymetrix Gene Expression Profiles from FFPE Samples"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496033348626,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0095814"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0086511"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Accurate Data Processing Improves the Reliability of Affymetrix Gene Expression Profiles from FFPE Samples"
+}

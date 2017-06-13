@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1057/jors.2015.12","type":"correction"},"doi":"10.1057/jors.2014.123","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: An adaptive guidance meta-heuristic for the vehicle routing problem with splits and clustered backhauls"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996664884,
+      "identifier": {
+        "doi": "10.1057/jors.2015.12"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.2014.123"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: An adaptive guidance meta-heuristic for the vehicle routing problem with splits and clustered backhauls"
+}

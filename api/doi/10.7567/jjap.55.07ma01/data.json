@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.7567/jjap.55.119204","type":"correction"},"doi":"10.7567/jjap.55.07ma01","journal":"Japanese Journal of Applied Physics","publisher":"Japan Society of Applied Physics","title":"Publisher’s Note: “Three-dimensional magnetic recording using ferromagnetic resonance”"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649583738,
+      "identifier": {
+        "doi": "10.7567/jjap.55.119204"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/jjap.55.07ma01"
+  },
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Publisher’s Note: “Three-dimensional magnetic recording using ferromagnetic resonance”"
+}

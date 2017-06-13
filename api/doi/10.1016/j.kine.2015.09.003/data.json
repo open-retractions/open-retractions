@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.kine.2016.02.001","type":"err"},"doi":"10.1016/j.kine.2015.09.003","journal":"Kinésithérapie, la Revue","publisher":"Elsevier BV","title":"Erratum à « Plainte contre un kinésithérapeute : l’analyse de la défense » [Kinesither. Rev. 15 (167) (2015) 10–13]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495648813287,
+      "identifier": {
+        "doi": "10.1016/j.kine.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.kine.2015.09.003"
+  },
+  "journal": "Kinésithérapie, la Revue",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Plainte contre un kinésithérapeute : l’analyse de la défense » [Kinesither. Rev. 15 (167) (2015) 10–13]"
+}

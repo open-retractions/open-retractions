@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479772800000,"doi":"10.1186/s13073-016-0377-x","type":"correction"},"doi":"10.1186/s13073-016-0344-6","journal":"Genome Medicine","publisher":"Springer Nature","title":"Erratum to: Illuminating uveitis: metagenomic deep sequencing identifies common and rare pathogens"}
+{
+  "retracted": false,
+  "timestamp": 1479772800000,
+  "updates": [
+    {
+      "timestamp": 1495660492150,
+      "identifier": {
+        "doi": "10.1186/s13073-016-0377-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13073-016-0344-6"
+  },
+  "journal": "Genome Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Illuminating uveitis: metagenomic deep sequencing identifies common and rare pathogens"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337731200000,"doi":"10.1371/annotation/12a8fc89-5f47-4bad-8863-863d99a0e52d","type":"correction"},"doi":"10.1371/journal.pone.0035155","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Compound A, a Dissociated Glucocorticoid Receptor Modulator, Inhibits T-bet (Th1) and Induces GATA-3 (Th2) Activity in Immune Cells"}
+{
+  "retracted": false,
+  "timestamp": 1337731200000,
+  "updates": [
+    {
+      "timestamp": 1495910688390,
+      "identifier": {
+        "doi": "10.1371/annotation/12a8fc89-5f47-4bad-8863-863d99a0e52d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035155"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Compound A, a Dissociated Glucocorticoid Receptor Modulator, Inhibits T-bet (Th1) and Induces GATA-3 (Th2) Activity in Immune Cells"
+}

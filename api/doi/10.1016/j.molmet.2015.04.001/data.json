@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.molmet.2015.06.005","type":"err"},"doi":"10.1016/j.molmet.2015.04.001","journal":"Molecular Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Obesity in a model of gpx4 haploinsufficiency uncovers a causal role for lipid-derived aldehydes in human metabolic disease and cardiomyopathy” [Mol Metab 4 (6) (2015) 493–506]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496009146014,
+      "identifier": {
+        "doi": "10.1016/j.molmet.2015.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molmet.2015.04.001"
+  },
+  "journal": "Molecular Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Obesity in a model of gpx4 haploinsufficiency uncovers a causal role for lipid-derived aldehydes in human metabolic disease and cardiomyopathy” [Mol Metab 4 (6) (2015) 493–506]"
+}

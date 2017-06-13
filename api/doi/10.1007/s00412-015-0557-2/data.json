@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1007/s00412-016-0575-8","type":"correction"},"doi":"10.1007/s00412-015-0557-2","journal":"Chromosoma","publisher":"Springer Nature","title":"Erratum to: Transitions between the Arabidopsis-type and the human-type telomere sequence in green algae (clade Caudivolvoxa, Chlamydomonadales)"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640141566,
+      "identifier": {
+        "doi": "10.1007/s00412-016-0575-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00412-015-0557-2"
+  },
+  "journal": "Chromosoma",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transitions between the Arabidopsis-type and the human-type telomere sequence in green algae (clade Caudivolvoxa, Chlamydomonadales)"
+}

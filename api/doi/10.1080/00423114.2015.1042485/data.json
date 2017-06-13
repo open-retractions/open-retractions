@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437696000000,"doi":"10.1080/00423114.2015.1066132","type":"correction"},"doi":"10.1080/00423114.2015.1042485","journal":"Vehicle System Dynamics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1437696000000,
+  "updates": [
+    {
+      "timestamp": 1496017527362,
+      "identifier": {
+        "doi": "10.1080/00423114.2015.1066132"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00423114.2015.1042485"
+  },
+  "journal": "Vehicle System Dynamics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

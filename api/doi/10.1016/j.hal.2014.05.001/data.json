@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.hal.2014.06.002","type":"err"},"doi":"10.1016/j.hal.2014.05.001","journal":"Harmful Algae","publisher":"Elsevier BV","title":"Erratum to “Validation of the detection of Alexandrium species using specific RNA probes tested in a microarray format: Calibration of signal using variability of RNA content with environmental conditions” [Harmful Algae 37 (2014) 17–27]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496045930982,
+      "identifier": {
+        "doi": "10.1016/j.hal.2014.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hal.2014.05.001"
+  },
+  "journal": "Harmful Algae",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Validation of the detection of Alexandrium species using specific RNA probes tested in a microarray format: Calibration of signal using variability of RNA content with environmental conditions” [Harmful Algae 37 (2014) 17–27]"
+}

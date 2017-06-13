@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1007/s00424-015-1761-x","type":"correction"},"doi":"10.1007/s00424-014-1464-8","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Exercise training in adverse cardiac remodeling"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496048386244,
+      "identifier": {
+        "doi": "10.1007/s00424-015-1761-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-014-1464-8"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exercise training in adverse cardiac remodeling"
+}

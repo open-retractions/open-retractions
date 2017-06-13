@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.asoc.2014.12.017","type":"err"},"doi":"10.1016/j.asoc.2014.08.043","journal":"Applied Soft Computing","publisher":"Elsevier BV","title":"Corrigendum to “A rapid structural damage detection method using integrated ANFIS and interval modeling technique” [Appl. Soft Comput. 25 (December) (2014) 473–484]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496330680117,
+      "identifier": {
+        "doi": "10.1016/j.asoc.2014.12.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asoc.2014.08.043"
+  },
+  "journal": "Applied Soft Computing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A rapid structural damage detection method using integrated ANFIS and interval modeling technique” [Appl. Soft Comput. 25 (December) (2014) 473–484]"
+}

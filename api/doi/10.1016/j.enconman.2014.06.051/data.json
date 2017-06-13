@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.enconman.2015.06.015","type":"err"},"doi":"10.1016/j.enconman.2014.06.051","journal":"Energy Conversion and Management","publisher":"Elsevier BV","title":"Corrigendum to “Applicability of dimethyl ether (DME) in a compression ignition engine as an alternative fuel” [Energy Convers. Manage. 86 (2014) 848–863]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496009930520,
+      "identifier": {
+        "doi": "10.1016/j.enconman.2015.06.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enconman.2014.06.051"
+  },
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Applicability of dimethyl ether (DME) in a compression ignition engine as an alternative fuel” [Energy Convers. Manage. 86 (2014) 848–863]"
+}

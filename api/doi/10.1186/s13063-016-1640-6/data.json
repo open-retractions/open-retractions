@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491350400000,"doi":"10.1186/s13063-017-1914-7","type":"correction"},"doi":"10.1186/s13063-016-1640-6","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: Measurement of HbA1c in multicentre diabetes trials – should blood samples be tested locally or sent to a central laboratory: an agreement analysis"}
+{
+  "retracted": false,
+  "timestamp": 1491350400000,
+  "updates": [
+    {
+      "timestamp": 1495736291637,
+      "identifier": {
+        "doi": "10.1186/s13063-017-1914-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13063-016-1640-6"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Measurement of HbA1c in multicentre diabetes trials – should blood samples be tested locally or sent to a central laboratory: an agreement analysis"
+}

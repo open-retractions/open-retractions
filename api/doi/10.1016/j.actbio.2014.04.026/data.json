@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436918400000,"doi":"10.1016/j.actbio.2015.04.028","type":"err"},"doi":"10.1016/j.actbio.2014.04.026","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “Post-transcriptional regulation in osteoblasts using localized delivery of miR-29a inhibitor from nanofibers to enhance extracellular matrix deposition” [Acta Biomater 10 (2014) 3571–3580]"}
+{
+  "retracted": false,
+  "timestamp": 1436918400000,
+  "updates": [
+    {
+      "timestamp": 1495997468792,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2015.04.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2014.04.026"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Post-transcriptional regulation in osteoblasts using localized delivery of miR-29a inhibitor from nanofibers to enhance extracellular matrix deposition” [Acta Biomater 10 (2014) 3571–3580]"
+}

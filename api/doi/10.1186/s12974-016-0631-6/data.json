@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1186/s12974-016-0668-6","type":"correction"},"doi":"10.1186/s12974-016-0631-6","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Pomalidomide mitigates neuronal loss, neuroinflammation, and behavioral impairments induced by traumatic brain injury in rat"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495742166648,
+      "identifier": {
+        "doi": "10.1186/s12974-016-0668-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12974-016-0631-6"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pomalidomide mitigates neuronal loss, neuroinflammation, and behavioral impairments induced by traumatic brain injury in rat"
+}

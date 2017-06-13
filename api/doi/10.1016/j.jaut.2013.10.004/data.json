@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jaut.2016.05.011","type":"erratum"},"doi":"10.1016/j.jaut.2013.10.004","journal":"Journal of Autoimmunity","publisher":"Elsevier BV","title":"Corrigendum to “Autoimmune/inflammatory syndrome induced by adjuvants (ASIA) 2013: Unveiling the pathogenic, clinical and diagnostic aspects” [J. Autoimmun. 47C (2013) 1–16]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495717918869,
+      "identifier": {
+        "doi": "10.1016/j.jaut.2016.05.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaut.2013.10.004"
+  },
+  "journal": "Journal of Autoimmunity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Autoimmune/inflammatory syndrome induced by adjuvants (ASIA) 2013: Unveiling the pathogenic, clinical and diagnostic aspects” [J. Autoimmun. 47C (2013) 1–16]"
+}

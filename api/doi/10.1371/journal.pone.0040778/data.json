@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349913600000,"doi":"10.1371/annotation/57bb672d-dd2f-4754-90ca-8575c1fd8903","type":"correction"},"doi":"10.1371/journal.pone.0040778","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Cross-Platform Comparison of Genome-Wide Expression Changes of Laser Microdissected Lung Tissue of C-Raf Transgenic Mice Using 3′IVT and Exon Array"}
+{
+  "retracted": false,
+  "timestamp": 1349913600000,
+  "updates": [
+    {
+      "timestamp": 1495962400982,
+      "identifier": {
+        "doi": "10.1371/annotation/57bb672d-dd2f-4754-90ca-8575c1fd8903"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0040778"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Cross-Platform Comparison of Genome-Wide Expression Changes of Laser Microdissected Lung Tissue of C-Raf Transgenic Mice Using 3′IVT and Exon Array"
+}

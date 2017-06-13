@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438041600000,"doi":"10.1007/s10598-015-9297-7","type":"correction"},"doi":"10.1007/s10598-015-9264-3","journal":"Computational Mathematics and Modeling","publisher":"Springer Nature","title":"Erratum to: A Mathematical Model of Microseismic Sounding"}
+{
+  "retracted": false,
+  "timestamp": 1438041600000,
+  "updates": [
+    {
+      "timestamp": 1496017831490,
+      "identifier": {
+        "doi": "10.1007/s10598-015-9297-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10598-015-9264-3"
+  },
+  "journal": "Computational Mathematics and Modeling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Mathematical Model of Microseismic Sounding"
+}

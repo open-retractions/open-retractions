@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1016/j.neuron.2016.02.029","type":"erratum"},"doi":"10.1016/j.neuron.2014.12.051","journal":"Neuron","publisher":"Elsevier BV","title":"Local Postsynaptic Voltage-Gated Sodium Channel Activation in Dendritic Spines of Olfactory Bulb Granule Cells"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495654307446,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.02.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.12.051"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Local Postsynaptic Voltage-Gated Sodium Channel Activation in Dendritic Spines of Olfactory Bulb Granule Cells"
+}

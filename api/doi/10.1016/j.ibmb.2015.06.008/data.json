@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.ibmb.2015.08.006","type":"err"},"doi":"10.1016/j.ibmb.2015.06.008","journal":"Insect Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “Towards understanding the molecular basis of cockroach tergal gland morphogenesis. A transcriptomic approach” [Insect Biochem. Mol. Biol. 63 (2015) 104–112]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496030269310,
+      "identifier": {
+        "doi": "10.1016/j.ibmb.2015.08.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ibmb.2015.06.008"
+  },
+  "journal": "Insect Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Towards understanding the molecular basis of cockroach tergal gland morphogenesis. A transcriptomic approach” [Insect Biochem. Mol. Biol. 63 (2015) 104–112]"
+}

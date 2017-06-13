@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479081600000,"doi":"10.1038/srep33107","type":"correction"},"doi":"10.1038/srep31224","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: MoS2 memristor with photoresistive switching"}
+{
+  "retracted": false,
+  "timestamp": 1479081600000,
+  "updates": [
+    {
+      "timestamp": 1495657096747,
+      "identifier": {
+        "doi": "10.1038/srep33107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31224"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: MoS2 memristor with photoresistive switching"
+}

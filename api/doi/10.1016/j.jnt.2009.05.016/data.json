@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jnt.2014.12.008","type":"err"},"doi":"10.1016/j.jnt.2009.05.016","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “The critical number of finite abelian groups” [J. Number Theory 129 (11) (2009) 2766–2777]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496048006009,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2014.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2009.05.016"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The critical number of finite abelian groups” [J. Number Theory 129 (11) (2009) 2766–2777]"
+}

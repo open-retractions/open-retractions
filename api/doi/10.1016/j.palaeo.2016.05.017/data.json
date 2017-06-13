@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.palaeo.2016.10.007","type":"err"},"doi":"10.1016/j.palaeo.2016.05.017","journal":"Palaeogeography, Palaeoclimatology, Palaeoecology","publisher":"Elsevier BV","title":"Corrigendum to “Micropaleontologic record of Pliocene and Quaternary paleoenvironments in the southern Albemarle Embayment, North Carolina, U.S.A.” [PALAEO: 457 (1 September 2016); pages 360-379]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495651543333,
+      "identifier": {
+        "doi": "10.1016/j.palaeo.2016.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.palaeo.2016.05.017"
+  },
+  "journal": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Micropaleontologic record of Pliocene and Quaternary paleoenvironments in the southern Albemarle Embayment, North Carolina, U.S.A.” [PALAEO: 457 (1 September 2016); pages 360-379]"
+}

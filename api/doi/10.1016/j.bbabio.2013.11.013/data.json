@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.bbabio.2014.01.006","type":"err"},"doi":"10.1016/j.bbabio.2013.11.013","journal":"Biochimica et Biophysica Acta (BBA) - Bioenergetics","publisher":"Elsevier BV","title":"Erratum to “The Saccharomyces cerevisiae gene YPR011c encodes a mitochondrial transporter of adenosine 5′-phosphosulfate and 3′-phospho-adenosine 5′-phosphosulfate” [Biochim. Biophys. Acta Bioenerg. (2014): 326, 334]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496013427174,
+      "identifier": {
+        "doi": "10.1016/j.bbabio.2014.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbabio.2013.11.013"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Bioenergetics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The Saccharomyces cerevisiae gene YPR011c encodes a mitochondrial transporter of adenosine 5′-phosphosulfate and 3′-phospho-adenosine 5′-phosphosulfate” [Biochim. Biophys. Acta Bioenerg. (2014): 326, 334]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483056000000,"doi":"10.1186/s12917-016-0787-4","type":"correction"},"doi":"10.1186/s12917-016-0718-4","journal":"BMC Veterinary Research","publisher":"Springer Nature","title":"Erratum to: treatment of 5 dogs with immune-mediated thrombocytopenia using romiplostim"}
+{
+  "retracted": false,
+  "timestamp": 1483056000000,
+  "updates": [
+    {
+      "timestamp": 1495670223812,
+      "identifier": {
+        "doi": "10.1186/s12917-016-0787-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12917-016-0718-4"
+  },
+  "journal": "BMC Veterinary Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: treatment of 5 dogs with immune-mediated thrombocytopenia using romiplostim"
+}

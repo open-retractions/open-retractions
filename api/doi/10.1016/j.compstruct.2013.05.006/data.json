@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.compstruct.2013.09.038","type":"err"},"doi":"10.1016/j.compstruct.2013.05.006","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to “Forced vibration analysis of functionally graded beams using nonlocal elasticity”"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495992661793,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2013.09.038"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2013.05.006"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Forced vibration analysis of functionally graded beams using nonlocal elasticity”"
+}

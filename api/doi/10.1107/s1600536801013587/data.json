@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1005782400000,"doi":"10.1107/s1600536801014441","type":"correction"},"doi":"10.1107/s1600536801013587","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"Hexamethylenediammonium hydrogenphosphite. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1005782400000,
+  "updates": [
+    {
+      "timestamp": 1495915398220,
+      "identifier": {
+        "doi": "10.1107/s1600536801014441"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536801013587"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Hexamethylenediammonium hydrogenphosphite. Erratum"
+}

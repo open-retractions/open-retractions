@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jcv.2013.09.008","type":"err"},"doi":"10.1016/j.jcv.2013.06.011","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Erratum to “Performance of hepatitis B surface antigen tests with the first WHO international hepatitis B virus genotype reference panel” [J. Clin. Virol. 58 (2013) 47–53]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496050872107,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2013.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2013.06.011"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Performance of hepatitis B surface antigen tests with the first WHO international hepatitis B virus genotype reference panel” [J. Clin. Virol. 58 (2013) 47–53]"
+}

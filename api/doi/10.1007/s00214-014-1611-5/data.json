@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1007/s00214-016-1841-9","type":"correction"},"doi":"10.1007/s00214-014-1611-5","journal":"Theoretical Chemistry Accounts","publisher":"Springer Nature","title":"Erratum to: Toward (car)borane-based molecular magnets"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495652973976,
+      "identifier": {
+        "doi": "10.1007/s00214-016-1841-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00214-014-1611-5"
+  },
+  "journal": "Theoretical Chemistry Accounts",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Toward (car)borane-based molecular magnets"
+}

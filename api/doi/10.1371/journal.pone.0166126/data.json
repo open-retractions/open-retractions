@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486598400000,"doi":"10.1371/journal.pone.0172249","type":"correction"},"doi":"10.1371/journal.pone.0166126","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Vidjil: A Web Platform for Analysis of High-Throughput Repertoire Sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1486598400000,
+  "updates": [
+    {
+      "timestamp": 1495719563979,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0172249"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0166126"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Vidjil: A Web Platform for Analysis of High-Throughput Repertoire Sequencing"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.psyneuen.2014.04.023","type":"err"},"doi":"10.1016/j.psyneuen.2012.08.003","journal":"Psychoneuroendocrinology","publisher":"Elsevier BV","title":"Corrigendum to “Annexin-A1 protein and its relationship to cortisol in human saliva” [Psychoneuroendocrinology 38 (5) (2013) 722–727]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496040546476,
+      "identifier": {
+        "doi": "10.1016/j.psyneuen.2014.04.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.psyneuen.2012.08.003"
+  },
+  "journal": "Psychoneuroendocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Annexin-A1 protein and its relationship to cortisol in human saliva” [Psychoneuroendocrinology 38 (5) (2013) 722–727]"
+}

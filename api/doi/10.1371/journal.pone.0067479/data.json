@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373328000000,"doi":"10.1371/annotation/f605bb2c-37b6-4fa7-a213-324df679c464","type":"correction"},"doi":"10.1371/journal.pone.0067479","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Two ENU-Induced Alleles of Atp2b2 Cause Deafness in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1373328000000,
+  "updates": [
+    {
+      "timestamp": 1496038577476,
+      "identifier": {
+        "doi": "10.1371/annotation/f605bb2c-37b6-4fa7-a213-324df679c464"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0067479"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Two ENU-Induced Alleles of Atp2b2 Cause Deafness in Mice"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440115200000,"doi":"10.1007/s00253-015-6932-3","type":"correction"},"doi":"10.1007/s00253-015-6785-9","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Development and performance assessment of a qualitative SYBR® green real-time PCR assay for the detection of Aspergillus versicolor in indoor air"}
+{
+  "retracted": false,
+  "timestamp": 1440115200000,
+  "updates": [
+    {
+      "timestamp": 1496022502521,
+      "identifier": {
+        "doi": "10.1007/s00253-015-6932-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-015-6785-9"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development and performance assessment of a qualitative SYBR® green real-time PCR assay for the detection of Aspergillus versicolor in indoor air"
+}

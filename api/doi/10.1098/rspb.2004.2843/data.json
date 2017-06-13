@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430956800000,"doi":"10.1098/rspb.2015.0522","type":"correction"},"doi":"10.1098/rspb.2004.2843","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to 'Sex-specific, counteracting responses to inbreeding in a bird'"}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1496054341905,
+      "identifier": {
+        "doi": "10.1098/rspb.2015.0522"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2004.2843"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to 'Sex-specific, counteracting responses to inbreeding in a bird'"
+}

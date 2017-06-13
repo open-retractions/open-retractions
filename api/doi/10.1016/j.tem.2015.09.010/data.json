@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.tem.2016.02.007","type":"err"},"doi":"10.1016/j.tem.2015.09.010","journal":"Trends in Endocrinology & Metabolism","publisher":"Elsevier BV","title":"Correction to ‘Obesity Impairs the Action of the Neuroendocrine Ghrelin System’"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1496138642979,
+      "identifier": {
+        "doi": "10.1016/j.tem.2016.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tem.2015.09.010"
+  },
+  "journal": "Trends in Endocrinology & Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Correction to ‘Obesity Impairs the Action of the Neuroendocrine Ghrelin System’"
+}

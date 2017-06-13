@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.ica.2015.04.001","type":"err"},"doi":"10.1016/j.ica.2014.11.041","journal":"Inorganica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Design, structural and spectroscopic elucidation and in vitro antimicrobial, anticancer, antileishmanial, urease inhibition activities and interaction with SS-DNA of newly synthesized amide based carboxylic acid” [Inorg. Chim. Acta 427 (2015) 178–187]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496057137623,
+      "identifier": {
+        "doi": "10.1016/j.ica.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ica.2014.11.041"
+  },
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design, structural and spectroscopic elucidation and in vitro antimicrobial, anticancer, antileishmanial, urease inhibition activities and interaction with SS-DNA of newly synthesized amide based carboxylic acid” [Inorg. Chim. Acta 427 (2015) 178–187]"
+}

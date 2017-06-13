@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.epsl.2014.02.023","type":"err"},"doi":"10.1016/j.epsl.2013.09.031","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “The fidelity of paleomagnetic records carried by magnetosome chains” [Earth Planet. Sci. Lett. 383 (2013) 82–91]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496017348860,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2014.02.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2013.09.031"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The fidelity of paleomagnetic records carried by magnetosome chains” [Earth Planet. Sci. Lett. 383 (2013) 82–91]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371513600000,"doi":"10.1371/annotation/207f3e91-451e-4508-afab-77f01dae3fe9","type":"correction"},"doi":"10.1371/journal.pone.0055095","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Overexpression of MyrAkt1 in Endothelial Cells Leads to Erythropoietin- and BMP4-Independent Splenic Erythropoiesis in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1371513600000,
+  "updates": [
+    {
+      "timestamp": 1496028720156,
+      "identifier": {
+        "doi": "10.1371/annotation/207f3e91-451e-4508-afab-77f01dae3fe9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055095"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Overexpression of MyrAkt1 in Endothelial Cells Leads to Erythropoietin- and BMP4-Independent Splenic Erythropoiesis in Mice"
+}

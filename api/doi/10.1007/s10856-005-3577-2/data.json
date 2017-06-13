@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1218758400000,"doi":"10.1007/s10856-008-3532-0","type":"correction"},"doi":"10.1007/s10856-005-3577-2","journal":"Journal of Materials Science: Materials in Medicine","publisher":"Springer Nature","title":"Dynamic study of calcium phosphate formation on porous HA/TCP ceramics"}
+{
+  "retracted": false,
+  "timestamp": 1218758400000,
+  "updates": [
+    {
+      "timestamp": 1495870036547,
+      "identifier": {
+        "doi": "10.1007/s10856-008-3532-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10856-005-3577-2"
+  },
+  "journal": "Journal of Materials Science: Materials in Medicine",
+  "publisher": "Springer Nature",
+  "title": "Dynamic study of calcium phosphate formation on porous HA/TCP ceramics"
+}

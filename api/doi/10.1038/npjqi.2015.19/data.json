@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1038/npjqi.2016.14","type":"correction"},"doi":"10.1038/npjqi.2015.19","journal":"npj Quantum Information","publisher":"Springer Nature","title":"Erratum: A silicon-based surface code quantum computer"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495667011784,
+      "identifier": {
+        "doi": "10.1038/npjqi.2016.14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/npjqi.2015.19"
+  },
+  "journal": "npj Quantum Information",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A silicon-based surface code quantum computer"
+}

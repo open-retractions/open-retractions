@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486512000000,"doi":"10.1016/j.neuron.2017.01.007","type":"erratum"},"doi":"10.1016/j.neuron.2008.12.012","journal":"Neuron","publisher":"Elsevier BV","title":"Memory without Feedback in a Neural Network"}
+{
+  "retracted": false,
+  "timestamp": 1486512000000,
+  "updates": [
+    {
+      "timestamp": 1495719231205,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2017.01.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2008.12.012"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Memory without Feedback in a Neural Network"
+}

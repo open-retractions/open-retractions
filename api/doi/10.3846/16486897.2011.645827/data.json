@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435190400000,"doi":"10.3846/16486897.2015.1038546","type":"correction"},"doi":"10.3846/16486897.2011.645827","journal":"Journal of Environmental Engineering and Landscape Management","publisher":"Vilnius Gediminas Technical University","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1435190400000,
+  "updates": [
+    {
+      "timestamp": 1496011542744,
+      "identifier": {
+        "doi": "10.3846/16486897.2015.1038546"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/16486897.2011.645827"
+  },
+  "journal": "Journal of Environmental Engineering and Landscape Management",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Corrigendum"
+}

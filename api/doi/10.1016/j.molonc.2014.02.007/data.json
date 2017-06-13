@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1016/j.molonc.2014.07.002","type":"err"},"doi":"10.1016/j.molonc.2014.02.007","journal":"Molecular Oncology","publisher":"Wiley-Blackwell","title":"Erratum to “Multi-level gene expression signatures, but not binary, outperform Ki67 for the long term prognostication of breast cancer patients” [MOLONC 8 (2014) 741-752]"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496053117033,
+      "identifier": {
+        "doi": "10.1016/j.molonc.2014.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molonc.2014.02.007"
+  },
+  "journal": "Molecular Oncology",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum to “Multi-level gene expression signatures, but not binary, outperform Ki67 for the long term prognostication of breast cancer patients” [MOLONC 8 (2014) 741-752]"
+}

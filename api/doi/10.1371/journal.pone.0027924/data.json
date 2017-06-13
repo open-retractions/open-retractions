@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1326240000000,"doi":"10.1371/annotation/bcc81b1a-608d-4814-b287-7a5ce3d7ee36","type":"correction"},"doi":"10.1371/journal.pone.0027924","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Rohlin Distance and the Evolution of Influenza A Virus: Weak Attractors and Precursors"}
+{
+  "retracted": false,
+  "timestamp": 1326240000000,
+  "updates": [
+    {
+      "timestamp": 1491952279528,
+      "identifier": {
+        "doi": "10.1371/annotation/bcc81b1a-608d-4814-b287-7a5ce3d7ee36"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027924"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rohlin Distance and the Evolution of Influenza A Virus: Weak Attractors and Precursors"
+}

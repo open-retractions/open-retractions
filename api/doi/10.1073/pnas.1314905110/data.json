@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390262400000,"doi":"10.1073/pnas.1323266111","type":"correction"},"doi":"10.1073/pnas.1314905110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhou et al., Structural insights into the histone H1-nucleosome complex"}
+{
+  "retracted": false,
+  "timestamp": 1390262400000,
+  "updates": [
+    {
+      "timestamp": 1496001743338,
+      "identifier": {
+        "doi": "10.1073/pnas.1323266111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1314905110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhou et al., Structural insights into the histone H1-nucleosome complex"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1371/journal.pcbi.1004769","type":"correction"},"doi":"10.1371/journal.pcbi.1003917","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Membrane Partitioning of Anionic, Ligand-Coated Nanoparticles Is Accompanied by Ligand Snorkeling, Local Disordering, and Cholesterol Depletion"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645855485,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004769"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003917"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Membrane Partitioning of Anionic, Ligand-Coated Nanoparticles Is Accompanied by Ligand Snorkeling, Local Disordering, and Cholesterol Depletion"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484438400000,"doi":"10.1016/j.neuroimage.2016.10.021","type":"erratum"},"doi":"10.1016/j.neuroimage.2016.05.023","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Untangling the relatedness among correlations, Part I: Nonparametric approaches to inter-subject correlation analysis at the group level” [Neuroimage (in press)]"}
+{
+  "retracted": false,
+  "timestamp": 1484438400000,
+  "updates": [
+    {
+      "timestamp": 1495652779861,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2016.10.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2016.05.023"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Untangling the relatedness among correlations, Part I: Nonparametric approaches to inter-subject correlation analysis at the group level” [Neuroimage (in press)]"
+}

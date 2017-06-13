@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1007/s12010-015-1835-4","type":"correction"},"doi":"10.1007/s12010-015-1507-4","journal":"Applied Biochemistry and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Nonclassically Secreted Proteins as Possible Antigens for Vaccine Development: A Reverse Vaccinology Approach"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496036737700,
+      "identifier": {
+        "doi": "10.1007/s12010-015-1835-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12010-015-1507-4"
+  },
+  "journal": "Applied Biochemistry and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nonclassically Secreted Proteins as Possible Antigens for Vaccine Development: A Reverse Vaccinology Approach"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401148800000,"doi":"10.1371/journal.pone.0098676","type":"correction"},"doi":"10.1371/journal.pone.0089244","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inferring the Temporal Order of Cancer Gene Mutations in Individual Tumor Samples"}
+{
+  "retracted": false,
+  "timestamp": 1401148800000,
+  "updates": [
+    {
+      "timestamp": 1496042214042,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0098676"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0089244"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inferring the Temporal Order of Cancer Gene Mutations in Individual Tumor Samples"
+}

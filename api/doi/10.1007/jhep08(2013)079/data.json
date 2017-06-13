@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1007/jhep01(2015)087","type":"correction"},"doi":"10.1007/jhep08(2013)079","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Higgs properties in a softly broken Inert Doublet Model"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496037936420,
+      "identifier": {
+        "doi": "10.1007/jhep01(2015)087"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep08(2013)079"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Higgs properties in a softly broken Inert Doublet Model"
+}

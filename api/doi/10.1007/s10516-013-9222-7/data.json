@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1007/s10516-014-9235-x","type":"correction"},"doi":"10.1007/s10516-013-9222-7","journal":"Axiomathes","publisher":"Springer Nature","title":"Erratum to: Frege’s Logicism and the Neo-Fregean Project"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038175314,
+      "identifier": {
+        "doi": "10.1007/s10516-014-9235-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10516-013-9222-7"
+  },
+  "journal": "Axiomathes",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Frege’s Logicism and the Neo-Fregean Project"
+}

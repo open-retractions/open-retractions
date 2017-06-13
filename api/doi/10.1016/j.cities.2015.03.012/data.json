@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.cities.2015.06.003","type":"err"},"doi":"10.1016/j.cities.2015.03.012","journal":"Cities","publisher":"Elsevier BV","title":"Corrigendum to ““Dynamic Busan”: Envisioning a global hub city in Korea” [Cities 46 (2015) 26–34]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496009245708,
+      "identifier": {
+        "doi": "10.1016/j.cities.2015.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cities.2015.03.012"
+  },
+  "journal": "Cities",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ““Dynamic Busan”: Envisioning a global hub city in Korea” [Cities 46 (2015) 26–34]"
+}

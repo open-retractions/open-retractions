@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430179200000,"doi":"10.1007/s11033-015-3879-5","type":"correction"},"doi":"10.1007/s11033-011-1314-0","journal":"Molecular Biology Reports","publisher":"Springer Nature","title":"Erratum to: A novel mutation (Cys308Phe) of the LDL receptor gene in families from the South-Eastern part of Poland"}
+{
+  "retracted": false,
+  "timestamp": 1430179200000,
+  "updates": [
+    {
+      "timestamp": 1495995977413,
+      "identifier": {
+        "doi": "10.1007/s11033-015-3879-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11033-011-1314-0"
+  },
+  "journal": "Molecular Biology Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A novel mutation (Cys308Phe) of the LDL receptor gene in families from the South-Eastern part of Poland"
+}

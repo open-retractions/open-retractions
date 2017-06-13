@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.3847/2041-8205/827/1/l20","type":"correction"},"doi":"10.1088/2041-8205/775/1/l15","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “BREAKING THE OBSCURING SCREEN: A RESOLVED MOLECULAR OUTFLOW IN A BURIED QSO” (2013, ApJL, 775, L15)"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495736400665,
+      "identifier": {
+        "doi": "10.3847/2041-8205/827/1/l20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2041-8205/775/1/l15"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “BREAKING THE OBSCURING SCREEN: A RESOLVED MOLECULAR OUTFLOW IN A BURIED QSO” (2013, ApJL, 775, L15)"
+}

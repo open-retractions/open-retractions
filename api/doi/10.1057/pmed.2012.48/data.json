@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372204800000,"doi":"10.1057/pmed.2013.11","type":"correction"},"doi":"10.1057/pmed.2012.48","journal":"postmedieval: a journal of medieval cultural studies","publisher":"Springer Nature","title":"Erratum: Medieval ecocriticism"}
+{
+  "retracted": false,
+  "timestamp": 1372204800000,
+  "updates": [
+    {
+      "timestamp": 1496028838270,
+      "identifier": {
+        "doi": "10.1057/pmed.2013.11"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/pmed.2012.48"
+  },
+  "journal": "postmedieval: a journal of medieval cultural studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Medieval ecocriticism"
+}

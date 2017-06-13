@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480032000000,"doi":"10.1016/j.compfluid.2016.10.028","type":"erratum"},"doi":"10.1016/j.compfluid.2016.05.030","journal":"Computers & Fluids","publisher":"Elsevier BV","title":"Corrigendum to From steady to unsteady laminar flow in model porous structures: an investigation of the first Hopf bifurcation Computers and Fluids 136 (2016) 67–82"}
+{
+  "retracted": false,
+  "timestamp": 1480032000000,
+  "updates": [
+    {
+      "timestamp": 1495654392980,
+      "identifier": {
+        "doi": "10.1016/j.compfluid.2016.10.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compfluid.2016.05.030"
+  },
+  "journal": "Computers & Fluids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to From steady to unsteady laminar flow in model porous structures: an investigation of the first Hopf bifurcation Computers and Fluids 136 (2016) 67–82"
+}

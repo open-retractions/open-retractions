@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1063/1.4824427","type":"correction"},"doi":"10.1063/1.4811366","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Catch bond-like kinetics of helix cracking: Network analysis by molecular dynamics and Milestoning” [J. Chem. Phys. 139, 121902 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496051111548,
+      "identifier": {
+        "doi": "10.1063/1.4824427"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4811366"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Catch bond-like kinetics of helix cracking: Network analysis by molecular dynamics and Milestoning” [J. Chem. Phys. 139, 121902 (2013)]"
+}

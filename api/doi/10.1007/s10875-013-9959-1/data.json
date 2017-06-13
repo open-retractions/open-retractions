@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1453161600000,"doi":"10.1007/s10875-016-0235-z","type":"correction"},"doi":"10.1007/s10875-013-9959-1","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: Intact IFN-γR1 Expression and Function Distinguishes Langerhans Cell Histiocytosis From Mendelian Susceptibility to Mycobacterial Disease"}
+{
+  "retracted": false,
+  "timestamp": 1453161600000,
+  "updates": [
+    {
+      "timestamp": 1495637655494,
+      "identifier": {
+        "doi": "10.1007/s10875-016-0235-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-013-9959-1"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intact IFN-γR1 Expression and Function Distinguishes Langerhans Cell Histiocytosis From Mendelian Susceptibility to Mycobacterial Disease"
+}

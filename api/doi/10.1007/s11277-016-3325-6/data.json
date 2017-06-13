@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464912000000,"doi":"10.1007/s11277-016-3369-7","type":"correction"},"doi":"10.1007/s11277-016-3325-6","journal":"Wireless Personal Communications","publisher":"Springer Nature","title":"Erratum to: Analysis of Full Volterra and Sparse Volterra Nonlinear Equalization for Downlink LTE System"}
+{
+  "retracted": false,
+  "timestamp": 1464912000000,
+  "updates": [
+    {
+      "timestamp": 1495717878630,
+      "identifier": {
+        "doi": "10.1007/s11277-016-3369-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11277-016-3325-6"
+  },
+  "journal": "Wireless Personal Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysis of Full Volterra and Sparse Volterra Nonlinear Equalization for Downlink LTE System"
+}

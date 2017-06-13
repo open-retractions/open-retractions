@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475625600000,"doi":"10.1016/j.molstruc.2016.05.070","type":"erratum"},"doi":"10.1016/j.molstruc.2016.03.084","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, crystal structures, molecular docking, and in vitro biological activities evaluation of transition metal complexes with 4-(3,4-dichlorophenyl) piperazine-1-carboxylic acid” [J. Mol. Struct. 1117 (2016) 293–299]"}
+{
+  "retracted": false,
+  "timestamp": 1475625600000,
+  "updates": [
+    {
+      "timestamp": 1495721552024,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2016.05.070"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2016.03.084"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, crystal structures, molecular docking, and in vitro biological activities evaluation of transition metal complexes with 4-(3,4-dichlorophenyl) piperazine-1-carboxylic acid” [J. Mol. Struct. 1117 (2016) 293–299]"
+}

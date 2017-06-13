@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.physe.2014.05.021","type":"err"},"doi":"10.1016/j.physe.2014.03.022","journal":"Physica E: Low-dimensional Systems and Nanostructures","publisher":"Elsevier BV","title":"Erratum to “Low-field carrier transport properties in biased bilayer graphene” [Physica E 61 (2014) 135–140]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495997942457,
+      "identifier": {
+        "doi": "10.1016/j.physe.2014.05.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physe.2014.03.022"
+  },
+  "journal": "Physica E: Low-dimensional Systems and Nanostructures",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Low-field carrier transport properties in biased bilayer graphene” [Physica E 61 (2014) 135–140]"
+}

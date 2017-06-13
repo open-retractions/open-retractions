@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.pnucene.2015.03.005","type":"err"},"doi":"10.1016/j.pnucene.2014.10.011","journal":"Progress in Nuclear Energy","publisher":"Elsevier BV","title":"Corrigendum to “Fuzzy logic-based safety design for high performance air compressors” [Prog. Nuclear Energy 80C (2014) 136–150]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496055463211,
+      "identifier": {
+        "doi": "10.1016/j.pnucene.2015.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnucene.2014.10.011"
+  },
+  "journal": "Progress in Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fuzzy logic-based safety design for high performance air compressors” [Prog. Nuclear Energy 80C (2014) 136–150]"
+}

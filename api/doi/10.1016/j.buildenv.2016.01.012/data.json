@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.buildenv.2016.02.017","type":"erratum"},"doi":"10.1016/j.buildenv.2016.01.012","journal":"Building and Environment","publisher":"Elsevier BV","title":"Corrigendum to “Indoor air pollutants in occupational buildings in a sub-tropical climate: Comparison among ventilation types” [Build. Environ. 98 (2016) 190–199]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495648941733,
+      "identifier": {
+        "doi": "10.1016/j.buildenv.2016.02.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.buildenv.2016.01.012"
+  },
+  "journal": "Building and Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Indoor air pollutants in occupational buildings in a sub-tropical climate: Comparison among ventilation types” [Build. Environ. 98 (2016) 190–199]"
+}

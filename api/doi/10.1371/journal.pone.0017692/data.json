@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300665600000,"doi":"10.1371/annotation/73d83e95-8f14-48ed-bb67-2310a33e4ecc","type":"correction"},"doi":"10.1371/journal.pone.0017692","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: High-Content, High-Throughput Analysis of Cell Cycle Perturbations Induced by the HSP90 Inhibitor XL888"}
+{
+  "retracted": false,
+  "timestamp": 1300665600000,
+  "updates": [
+    {
+      "timestamp": 1495943791308,
+      "identifier": {
+        "doi": "10.1371/annotation/73d83e95-8f14-48ed-bb67-2310a33e4ecc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017692"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: High-Content, High-Throughput Analysis of Cell Cycle Perturbations Induced by the HSP90 Inhibitor XL888"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423612800000,"doi":"10.1007/jhep02(2015)074","type":"correction"},"doi":"10.1007/jhep10(2014)086","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Improved measurements of the neutrino mixing angle θ 13 with the Double Chooz detector"}
+{
+  "retracted": false,
+  "timestamp": 1423612800000,
+  "updates": [
+    {
+      "timestamp": 1496045305976,
+      "identifier": {
+        "doi": "10.1007/jhep02(2015)074"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep10(2014)086"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Improved measurements of the neutrino mixing angle θ 13 with the Double Chooz detector"
+}

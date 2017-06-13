@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.apm.2013.07.042","type":"err"},"doi":"10.1016/j.apm.2012.10.048","journal":"Applied Mathematical Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Uncertain linguistic Bonferroni mean operators and their application to multiple attribute decision making” [Appl. Math. Model. 37 (2013) 5277–5285]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496044156740,
+      "identifier": {
+        "doi": "10.1016/j.apm.2013.07.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apm.2012.10.048"
+  },
+  "journal": "Applied Mathematical Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Uncertain linguistic Bonferroni mean operators and their application to multiple attribute decision making” [Appl. Math. Model. 37 (2013) 5277–5285]"
+}

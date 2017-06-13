@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1016/j.ijfoodmicro.2012.03.030","type":"err"},"doi":"10.1016/j.ijfoodmicro.2011.09.012","journal":"International Journal of Food Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Candida theae sp. nov., a new anamorphic beverage-associated member of the Lodderomyces clade” [Int. J. Food Microbiol. 153 (2012) 10–14]"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495893198712,
+      "identifier": {
+        "doi": "10.1016/j.ijfoodmicro.2012.03.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijfoodmicro.2011.09.012"
+  },
+  "journal": "International Journal of Food Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Candida theae sp. nov., a new anamorphic beverage-associated member of the Lodderomyces clade” [Int. J. Food Microbiol. 153 (2012) 10–14]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.jhep.2014.02.005","type":"err"},"doi":"10.1016/j.jhep.2013.07.004","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Temperature rise after peginterferon alfa-2a injection in patients with chronic hepatitis C is associated with virological response and is modulated by IL28B genotype” [J Hepatol 2013; 59:957–963]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496024562984,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2014.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2013.07.004"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Temperature rise after peginterferon alfa-2a injection in patients with chronic hepatitis C is associated with virological response and is modulated by IL28B genotype” [J Hepatol 2013; 59:957–963]"
+}

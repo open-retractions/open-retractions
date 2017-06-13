@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1080/13533312.2016.1153250","type":"correction"},"doi":"10.1080/13533312.2015.1123628","journal":"International Peacekeeping","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645878327,
+      "identifier": {
+        "doi": "10.1080/13533312.2016.1153250"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13533312.2015.1123628"
+  },
+  "journal": "International Peacekeeping",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

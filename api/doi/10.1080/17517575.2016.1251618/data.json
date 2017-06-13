@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486944000000,"doi":"10.1080/17517575.2017.1289597","type":"correction"},"doi":"10.1080/17517575.2016.1251618","journal":"Enterprise Information Systems","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1486944000000,
+  "updates": [
+    {
+      "timestamp": 1495719958908,
+      "identifier": {
+        "doi": "10.1080/17517575.2017.1289597"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17517575.2016.1251618"
+  },
+  "journal": "Enterprise Information Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

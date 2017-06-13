@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1334275200000,"doi":"10.1007/s13238-012-2038-1","type":"correction"},"doi":"10.1007/s13238-011-1090-6","journal":"Protein & Cell","publisher":"Springer Nature","title":"Erratum to: Crystal structure of human Gadd45γ reveals an active dimer"}
+{
+  "retracted": false,
+  "timestamp": 1334275200000,
+  "updates": [
+    {
+      "timestamp": 1495892561863,
+      "identifier": {
+        "doi": "10.1007/s13238-012-2038-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13238-011-1090-6"
+  },
+  "journal": "Protein & Cell",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Crystal structure of human Gadd45γ reveals an active dimer"
+}

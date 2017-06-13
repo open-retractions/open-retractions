@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391472000000,"doi":"10.1007/s12031-014-0245-3","type":"correction"},"doi":"10.1007/s12031-013-0185-3","journal":"Journal of Molecular Neuroscience","publisher":"Springer Nature","title":"Erratum to: The Contribution of Cdc2 in Rotenone-Induced G2/M Arrest and Caspase-3-Dependent Apoptosis"}
+{
+  "retracted": false,
+  "timestamp": 1391472000000,
+  "updates": [
+    {
+      "timestamp": 1496016122432,
+      "identifier": {
+        "doi": "10.1007/s12031-014-0245-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12031-013-0185-3"
+  },
+  "journal": "Journal of Molecular Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Contribution of Cdc2 in Rotenone-Induced G2/M Arrest and Caspase-3-Dependent Apoptosis"
+}

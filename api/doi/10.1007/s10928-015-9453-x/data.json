@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448236800000,"doi":"10.1007/s10928-015-9458-5","type":"correction"},"doi":"10.1007/s10928-015-9453-x","journal":"Journal of Pharmacokinetics and Pharmacodynamics","publisher":"Springer Nature","title":"Erratum to: Improvement in latent variable indirect response joint modeling of a continuous and a categorical clinical endpoint in rheumatoid arthritis"}
+{
+  "retracted": false,
+  "timestamp": 1448236800000,
+  "updates": [
+    {
+      "timestamp": 1496047707740,
+      "identifier": {
+        "doi": "10.1007/s10928-015-9458-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10928-015-9453-x"
+  },
+  "journal": "Journal of Pharmacokinetics and Pharmacodynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Improvement in latent variable indirect response joint modeling of a continuous and a categorical clinical endpoint in rheumatoid arthritis"
+}

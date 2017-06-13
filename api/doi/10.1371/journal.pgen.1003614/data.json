@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376265600000,"doi":"10.1371/annotation/c066bb84-13ea-4b36-a481-f149df8ce929","type":"correction"},"doi":"10.1371/journal.pgen.1003614","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: FGF Signalling Regulates Chromatin Organisation during Neural Differentiation via Mechanisms that Can Be Uncoupled from Transcription"}
+{
+  "retracted": false,
+  "timestamp": 1376265600000,
+  "updates": [
+    {
+      "timestamp": 1496043773255,
+      "identifier": {
+        "doi": "10.1371/annotation/c066bb84-13ea-4b36-a481-f149df8ce929"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003614"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: FGF Signalling Regulates Chromatin Organisation during Neural Differentiation via Mechanisms that Can Be Uncoupled from Transcription"
+}

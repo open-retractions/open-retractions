@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1138060800000,"doi":"10.1073/pnas.0511236103","type":"correction"},"doi":"10.1073/pnas.0506659103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Peloponese et al., Abnormal centrosome amplification in cells through the targeting of Ran-binding protein-1 by the human T cell leukemia virus type-1 Tax oncoprotein, PNAS 2005 102:18974-18979"}
+{
+  "retracted": false,
+  "timestamp": 1138060800000,
+  "updates": [
+    {
+      "timestamp": 1495981113707,
+      "identifier": {
+        "doi": "10.1073/pnas.0511236103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0506659103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Peloponese et al., Abnormal centrosome amplification in cells through the targeting of Ran-binding protein-1 by the human T cell leukemia virus type-1 Tax oncoprotein, PNAS 2005 102:18974-18979"
+}

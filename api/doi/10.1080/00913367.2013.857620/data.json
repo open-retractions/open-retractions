@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1080/00913367.2014.957589","type":"correction"},"doi":"10.1080/00913367.2013.857620","journal":"Journal of Advertising","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496010830919,
+      "identifier": {
+        "doi": "10.1080/00913367.2014.957589"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00913367.2013.857620"
+  },
+  "journal": "Journal of Advertising",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.trac.2015.11.008","type":"err"},"doi":"10.1016/j.trac.2012.01.004","journal":"TrAC Trends in Analytical Chemistry","publisher":"Elsevier BV","title":"Corrigendum to ‘Essential steps to providing reliable results using the Analytical Quality Assurance Cycle’ [Trends in Analytical Chemistry 35 (2012) 109–121]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496053468990,
+      "identifier": {
+        "doi": "10.1016/j.trac.2015.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.trac.2012.01.004"
+  },
+  "journal": "TrAC Trends in Analytical Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Essential steps to providing reliable results using the Analytical Quality Assurance Cycle’ [Trends in Analytical Chemistry 35 (2012) 109–121]"
+}

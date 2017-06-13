@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488240000000,"doi":"10.1007/s12192-017-0777-x","type":"correction"},"doi":"10.1007/s12192-016-0743-z","journal":"Cell Stress and Chaperones","publisher":"Springer Nature","title":"Erratum to: Encapsulated Hsp70 decreases endotoxin-induced production of ROS and TNFα in human phagocytes"}
+{
+  "retracted": false,
+  "timestamp": 1488240000000,
+  "updates": [
+    {
+      "timestamp": 1495724524180,
+      "identifier": {
+        "doi": "10.1007/s12192-017-0777-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12192-016-0743-z"
+  },
+  "journal": "Cell Stress and Chaperones",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Encapsulated Hsp70 decreases endotoxin-induced production of ROS and TNFα in human phagocytes"
+}

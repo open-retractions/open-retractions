@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.coldregions.2013.01.007","type":"err"},"doi":"10.1016/j.coldregions.2012.10.013","journal":"Cold Regions Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Bacterial community evidence for anaerobic degradation of petroleum hydrocarbons in cold climate groundwater” [Cold Reg. Sci. Technol., Volume 86 (2013) pp. 55–68]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495994755574,
+      "identifier": {
+        "doi": "10.1016/j.coldregions.2013.01.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coldregions.2012.10.013"
+  },
+  "journal": "Cold Regions Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bacterial community evidence for anaerobic degradation of petroleum hydrocarbons in cold climate groundwater” [Cold Reg. Sci. Technol., Volume 86 (2013) pp. 55–68]"
+}

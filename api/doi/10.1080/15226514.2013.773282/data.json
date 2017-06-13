@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394409600000,"doi":"10.1080/15226514.2014.898440","type":"correction"},"doi":"10.1080/15226514.2013.773282","journal":"International Journal of Phytoremediation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394409600000,
+  "updates": [
+    {
+      "timestamp": 1496023459913,
+      "identifier": {
+        "doi": "10.1080/15226514.2014.898440"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15226514.2013.773282"
+  },
+  "journal": "International Journal of Phytoremediation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

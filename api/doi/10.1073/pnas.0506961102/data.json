@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1142294400000,"doi":"10.1073/pnas.0600530103","type":"correction"},"doi":"10.1073/pnas.0506961102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Mello and Tu, An allosteric model for heterogeneous receptor complexes: Understanding bacterial chemotaxis responses to multiple stimuli"}
+{
+  "retracted": false,
+  "timestamp": 1142294400000,
+  "updates": [
+    {
+      "timestamp": 1495986665203,
+      "identifier": {
+        "doi": "10.1073/pnas.0600530103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0506961102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Mello and Tu, An allosteric model for heterogeneous receptor complexes: Understanding bacterial chemotaxis responses to multiple stimuli"
+}

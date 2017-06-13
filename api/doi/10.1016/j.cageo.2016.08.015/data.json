@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.cageo.2016.09.012","type":"erratum"},"doi":"10.1016/j.cageo.2016.08.015","journal":"Computers & Geosciences","publisher":"Elsevier BV","title":"Corrigendum to “PolarBRDF: A general purpose Python package for visualization and quantitative analysis of multi-angular remote sensing measurements [Comput. Geosci. 96 (2016) 173–180]”"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495649019989,
+      "identifier": {
+        "doi": "10.1016/j.cageo.2016.09.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cageo.2016.08.015"
+  },
+  "journal": "Computers & Geosciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PolarBRDF: A general purpose Python package for visualization and quantitative analysis of multi-angular remote sensing measurements [Comput. Geosci. 96 (2016) 173–180]”"
+}

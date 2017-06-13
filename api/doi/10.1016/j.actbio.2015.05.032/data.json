@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.actbio.2015.10.033","type":"erratum"},"doi":"10.1016/j.actbio.2015.05.032","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “Time-dependent bladder tissue regeneration using bilayer bladder acellular matrix graft-silk fibroin scaffolds in a rat bladder augmentation model” [Acta Biomater. 23 (2015) 91–102]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1496038888292,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2015.10.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2015.05.032"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Time-dependent bladder tissue regeneration using bilayer bladder acellular matrix graft-silk fibroin scaffolds in a rat bladder augmentation model” [Acta Biomater. 23 (2015) 91–102]"
+}

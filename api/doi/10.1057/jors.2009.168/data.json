@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1277251200000,"doi":"10.1057/jors.2010.92","type":"correction"},"doi":"10.1057/jors.2009.168","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A hybrid genetic algorithmic approach to the maximally diverse grouping problem"}
+{
+  "retracted": false,
+  "timestamp": 1277251200000,
+  "updates": [
+    {
+      "timestamp": 1495878924989,
+      "identifier": {
+        "doi": "10.1057/jors.2010.92"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.2009.168"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A hybrid genetic algorithmic approach to the maximally diverse grouping problem"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472774400000,"doi":"10.1038/srep32052","type":"correction"},"doi":"10.1038/srep21005","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Wharton’s jelly-derived mesenchymal stem cells combined with praziquantel as a potential therapy for Schistosoma mansoni-induced liver fibrosis"}
+{
+  "retracted": false,
+  "timestamp": 1472774400000,
+  "updates": [
+    {
+      "timestamp": 1495740917499,
+      "identifier": {
+        "doi": "10.1038/srep32052"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep21005"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Wharton’s jelly-derived mesenchymal stem cells combined with praziquantel as a potential therapy for Schistosoma mansoni-induced liver fibrosis"
+}

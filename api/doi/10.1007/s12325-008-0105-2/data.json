@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229990400000,"doi":"10.1007/s12325-008-0131-x","type":"correction"},"doi":"10.1007/s12325-008-0105-2","journal":"Advances in Therapy","publisher":"Springer Nature","title":"Erratum to: Tobramycin nebulizer solution in severe COPD patients colonized with Pseudomonas Aeruginosa: Effects on bronchial inflammation"}
+{
+  "retracted": false,
+  "timestamp": 1229990400000,
+  "updates": [
+    {
+      "timestamp": 1495895519841,
+      "identifier": {
+        "doi": "10.1007/s12325-008-0131-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12325-008-0105-2"
+  },
+  "journal": "Advances in Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tobramycin nebulizer solution in severe COPD patients colonized with Pseudomonas Aeruginosa: Effects on bronchial inflammation"
+}

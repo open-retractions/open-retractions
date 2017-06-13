@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424649600000,"doi":"10.1063/1.4913627","type":"correction"},"doi":"10.1063/1.4907697","journal":"AIP Advances","publisher":"AIP Publishing","title":"Erratum: “Phonon scattering limited performance of monolayer MoS2 and WSe2 n-MOSFET” [AIP Advances 5, 027101 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1424649600000,
+  "updates": [
+    {
+      "timestamp": 1496045832617,
+      "identifier": {
+        "doi": "10.1063/1.4913627"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4907697"
+  },
+  "journal": "AIP Advances",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Phonon scattering limited performance of monolayer MoS2 and WSe2 n-MOSFET” [AIP Advances 5, 027101 (2015)]"
+}

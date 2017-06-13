@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jcrc.2016.02.002","type":"err"},"doi":"10.1016/j.jcrc.2015.09.008","journal":"Journal of Critical Care","publisher":"Elsevier BV","title":"Corrigendum to Reply to: Prone position in nonintubated hypoxemic respiratory failure. New tool to avoid endotracheal intubation? [J Crit Care 30/6 (2015) Page 1416]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495648962433,
+      "identifier": {
+        "doi": "10.1016/j.jcrc.2016.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrc.2015.09.008"
+  },
+  "journal": "Journal of Critical Care",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Reply to: Prone position in nonintubated hypoxemic respiratory failure. New tool to avoid endotracheal intubation? [J Crit Care 30/6 (2015) Page 1416]"
+}

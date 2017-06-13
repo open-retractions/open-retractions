@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475020800000,"doi":"10.1007/s41061-016-0075-6","type":"correction"},"doi":"10.1007/s41061-016-0071-x","journal":"Topics in Current Chemistry","publisher":"Springer Nature","title":"Erratum to: Radiation Engineering of Multifunctional Nanogels"}
+{
+  "retracted": false,
+  "timestamp": 1475020800000,
+  "updates": [
+    {
+      "timestamp": 1495643649784,
+      "identifier": {
+        "doi": "10.1007/s41061-016-0075-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s41061-016-0071-x"
+  },
+  "journal": "Topics in Current Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiation Engineering of Multifunctional Nanogels"
+}

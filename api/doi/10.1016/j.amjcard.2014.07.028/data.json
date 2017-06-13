@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.amjcard.2015.06.002","type":"err"},"doi":"10.1016/j.amjcard.2014.07.028","journal":"The American Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum for Ward et al. Energy Drink–Induced Near-Fatal Ventricular Arrhythmia Prevented by an Intracardiac Defibrillator Decades After Operative “Repair” of Tetralogy of Fallot. Am J Cardiol 2014;114:1124–1125"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496014968972,
+      "identifier": {
+        "doi": "10.1016/j.amjcard.2015.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjcard.2014.07.028"
+  },
+  "journal": "The American Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for Ward et al. Energy Drink–Induced Near-Fatal Ventricular Arrhythmia Prevented by an Intracardiac Defibrillator Decades After Operative “Repair” of Tetralogy of Fallot. Am J Cardiol 2014;114:1124–1125"
+}

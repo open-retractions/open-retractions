@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383868800000,"doi":"10.1016/j.chroma.2013.09.001","type":"err"},"doi":"10.1016/j.chroma.2012.11.068","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Erratum to “Optimization of gradient reversed phase chromatographic peak capacity for low molecular weight solutes” [J. Chromatogr. A 1273 (2013) 57–65]"}
+{
+  "retracted": false,
+  "timestamp": 1383868800000,
+  "updates": [
+    {
+      "timestamp": 1496051317374,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2012.11.068"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Optimization of gradient reversed phase chromatographic peak capacity for low molecular weight solutes” [J. Chromatogr. A 1273 (2013) 57–65]"
+}

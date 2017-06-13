@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447891200000,"doi":"10.1186/s12974-015-0430-5","type":"correction"},"doi":"10.1186/1742-2094-11-104","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: A role for human brain pericytes in neuroinflammation"}
+{
+  "retracted": false,
+  "timestamp": 1447891200000,
+  "updates": [
+    {
+      "timestamp": 1496044352013,
+      "identifier": {
+        "doi": "10.1186/s12974-015-0430-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1742-2094-11-104"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A role for human brain pericytes in neuroinflammation"
+}

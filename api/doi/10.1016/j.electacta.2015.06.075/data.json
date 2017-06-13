@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441843200000,"doi":"10.1016/j.electacta.2015.08.118","type":"erratum"},"doi":"10.1016/j.electacta.2015.06.075","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “A novel sandwich-like Co3O4/TiO2 composite with greatly enhance electrochemical performance as anode for lithium ion batteries” [Electrochimica Acta 174 (2015) 985-991]"}
+{
+  "retracted": false,
+  "timestamp": 1441843200000,
+  "updates": [
+    {
+      "timestamp": 1496027231155,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2015.08.118"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2015.06.075"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel sandwich-like Co3O4/TiO2 composite with greatly enhance electrochemical performance as anode for lithium ion batteries” [Electrochimica Acta 174 (2015) 985-991]"
+}

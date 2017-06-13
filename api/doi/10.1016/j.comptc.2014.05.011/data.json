@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.comptc.2015.06.001","type":"err"},"doi":"10.1016/j.comptc.2014.05.011","journal":"Computational and Theoretical Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Possibility of distinguishing DNA bases and of tracking the keto–enol tautomerism by using high-order harmonic generation” [Comput. Theoret. Chem. 1043 (2014) 31–37]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496026239439,
+      "identifier": {
+        "doi": "10.1016/j.comptc.2015.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.comptc.2014.05.011"
+  },
+  "journal": "Computational and Theoretical Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Possibility of distinguishing DNA bases and of tracking the keto–enol tautomerism by using high-order harmonic generation” [Comput. Theoret. Chem. 1043 (2014) 31–37]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.procs.2016.05.115","type":"err"},"doi":"10.1016/j.procs.2016.05.116","journal":"Procedia Computer Science","publisher":"Elsevier BV","title":"2-Bit Branch Predictor Modeling Using Markov Model"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1495681774389,
+      "identifier": {
+        "doi": "10.1016/j.procs.2016.05.115"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.procs.2016.05.116"
+  },
+  "journal": "Procedia Computer Science",
+  "publisher": "Elsevier BV",
+  "title": "2-Bit Branch Predictor Modeling Using Markov Model"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382572800000,"doi":"10.1136/bmj.f6702","type":"correction"},"doi":"10.1136/bmj.f6314","journal":"BMJ","publisher":"BMJ","title":"Cerebral mass in HIV infection"}
+{
+  "retracted": false,
+  "timestamp": 1382572800000,
+  "updates": [
+    {
+      "timestamp": 1495995732554,
+      "identifier": {
+        "doi": "10.1136/bmj.f6702"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f6314"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Cerebral mass in HIV infection"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365120000000,"doi":"10.1371/annotation/2cdfa0af-64ff-4487-b1d8-34b56e63fe92","type":"correction"},"doi":"10.1371/journal.pone.0059710","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: In-Cell Protease Assay Systems Based on Trans-Localizing Molecular Beacon Proteins Using HCV Protease as a Model System"}
+{
+  "retracted": false,
+  "timestamp": 1365120000000,
+  "updates": [
+    {
+      "timestamp": 1496010536568,
+      "identifier": {
+        "doi": "10.1371/annotation/2cdfa0af-64ff-4487-b1d8-34b56e63fe92"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059710"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: In-Cell Protease Assay Systems Based on Trans-Localizing Molecular Beacon Proteins Using HCV Protease as a Model System"
+}

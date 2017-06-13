@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.psep.2015.12.003","type":"err"},"doi":"10.1016/j.psep.2015.02.011","journal":"Process Safety and Environmental Protection","publisher":"Elsevier BV","title":"Retraction notice to “Carbon dioxide (CO2) estimation from Kuwait's petroleum refineries” [Process Saf. Environ. Prot. 95 (2015) 38–50]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496056304835,
+      "identifier": {
+        "doi": "10.1016/j.psep.2015.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.psep.2015.02.011"
+  },
+  "journal": "Process Safety and Environmental Protection",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Carbon dioxide (CO2) estimation from Kuwait's petroleum refineries” [Process Saf. Environ. Prot. 95 (2015) 38–50]"
+}

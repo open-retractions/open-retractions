@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.abb.2016.08.011","type":"err"},"doi":"10.1016/j.abb.2016.05.005","journal":"Archives of Biochemistry and Biophysics","publisher":"Elsevier BV","title":"Corrigendum to “What is the concentration of hydrogen peroxide in blood and plasma?” [Arch. Biochem. Biophys. 603 (2016) 48–53]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495739803050,
+      "identifier": {
+        "doi": "10.1016/j.abb.2016.08.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.abb.2016.05.005"
+  },
+  "journal": "Archives of Biochemistry and Biophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “What is the concentration of hydrogen peroxide in blood and plasma?” [Arch. Biochem. Biophys. 603 (2016) 48–53]"
+}

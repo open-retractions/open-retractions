@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1007/s11018-016-1030-1","type":"correction"},"doi":"10.1007/s11018-016-0994-1","journal":"Measurement Techniques","publisher":"Springer Nature","title":"Erratum to: Adaptive Signal Processing Method for Speech Organ Diagnostics"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647712965,
+      "identifier": {
+        "doi": "10.1007/s11018-016-1030-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11018-016-0994-1"
+  },
+  "journal": "Measurement Techniques",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Adaptive Signal Processing Method for Speech Organ Diagnostics"
+}

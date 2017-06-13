@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474848000000,"doi":"10.1080/00665983.2017.1240974","type":"correction"},"doi":"10.1080/00665983.2016.1230436","journal":"Archaeological Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1474848000000,
+  "updates": [
+    {
+      "timestamp": 1495643158632,
+      "identifier": {
+        "doi": "10.1080/00665983.2017.1240974"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00665983.2016.1230436"
+  },
+  "journal": "Archaeological Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

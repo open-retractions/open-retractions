@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1145923200000,"doi":"10.1073/pnas.0602428103","type":"correction"},"doi":"10.1073/pnas.0510403103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Das et al., Structural basis for conformational plasticity of the Parkinson's disease-associated ubiquitin hydrolase UCH-L1"}
+{
+  "retracted": false,
+  "timestamp": 1145923200000,
+  "updates": [
+    {
+      "timestamp": 1495800957895,
+      "identifier": {
+        "doi": "10.1073/pnas.0602428103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0510403103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Das et al., Structural basis for conformational plasticity of the Parkinson's disease-associated ubiquitin hydrolase UCH-L1"
+}

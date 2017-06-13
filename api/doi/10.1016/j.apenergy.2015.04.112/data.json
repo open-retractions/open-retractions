@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463270400000,"doi":"10.1016/j.apenergy.2016.02.139","type":"erratum"},"doi":"10.1016/j.apenergy.2015.04.112","journal":"Applied Energy","publisher":"Elsevier BV","title":"Corrigendum to “Assessment of alternative fuel and powertrain transit bus options using real-world operations data: Life-cycle fuel and emissions modeling” [Appl. Energy 154 (2015) 143–159]"}
+{
+  "retracted": false,
+  "timestamp": 1463270400000,
+  "updates": [
+    {
+      "timestamp": 1495653776240,
+      "identifier": {
+        "doi": "10.1016/j.apenergy.2016.02.139"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apenergy.2015.04.112"
+  },
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessment of alternative fuel and powertrain transit bus options using real-world operations data: Life-cycle fuel and emissions modeling” [Appl. Energy 154 (2015) 143–159]"
+}

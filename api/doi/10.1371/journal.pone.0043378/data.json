@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352419200000,"doi":"10.1371/annotation/5f293018-48a3-40ae-96b7-04438d1d9cb9","type":"correction"},"doi":"10.1371/journal.pone.0043378","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Urinary Bisphenol A Concentration and Angiography-Defined Coronary Artery Stenosis"}
+{
+  "retracted": false,
+  "timestamp": 1352419200000,
+  "updates": [
+    {
+      "timestamp": 1495987344148,
+      "identifier": {
+        "doi": "10.1371/annotation/5f293018-48a3-40ae-96b7-04438d1d9cb9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0043378"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Urinary Bisphenol A Concentration and Angiography-Defined Coronary Artery Stenosis"
+}

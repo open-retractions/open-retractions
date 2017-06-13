@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.virol.2015.08.020","type":"err"},"doi":"10.1016/j.virol.2013.12.027","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Increased expression of cytokines, soluble cytokine receptors, soluble apoptosis ligand and apoptosis in dengue” [Virology 452–453 (2014) 42–51]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496030934977,
+      "identifier": {
+        "doi": "10.1016/j.virol.2015.08.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2013.12.027"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Increased expression of cytokines, soluble cytokine receptors, soluble apoptosis ligand and apoptosis in dengue” [Virology 452–453 (2014) 42–51]"
+}

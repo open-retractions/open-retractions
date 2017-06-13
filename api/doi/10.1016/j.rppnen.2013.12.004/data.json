@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.rppnen.2016.10.001","type":"err"},"doi":"10.1016/j.rppnen.2013.12.004","journal":"Revista Portuguesa de Pneumologia (English Edition)","publisher":"Elsevier BV","title":"Erratum to “BCGitis in children”"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495659739086,
+      "identifier": {
+        "doi": "10.1016/j.rppnen.2016.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rppnen.2013.12.004"
+  },
+  "journal": "Revista Portuguesa de Pneumologia (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “BCGitis in children”"
+}

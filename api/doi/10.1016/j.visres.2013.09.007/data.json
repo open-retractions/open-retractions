@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.visres.2014.01.006","type":"err"},"doi":"10.1016/j.visres.2013.09.007","journal":"Vision Research","publisher":"Elsevier BV","title":"Corrigendum to “The time course of estimating time-to-contact: Switching between sources of information” [Vis. Res. 92 (2013) 53–58]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496015512815,
+      "identifier": {
+        "doi": "10.1016/j.visres.2014.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.visres.2013.09.007"
+  },
+  "journal": "Vision Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The time course of estimating time-to-contact: Switching between sources of information” [Vis. Res. 92 (2013) 53–58]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408060800000,"doi":"10.1371/journal.pone.0105388","type":"correction"},"doi":"10.1371/journal.pone.0096341","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Large roads reduce bat activity across multiple species"}
+{
+  "retracted": false,
+  "timestamp": 1408060800000,
+  "updates": [
+    {
+      "timestamp": 1496001053338,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0105388"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0096341"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Large roads reduce bat activity across multiple species"
+}

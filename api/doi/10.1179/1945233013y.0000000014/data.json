@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408924800000,"doi":"10.1179/0197136014z.00000000036","type":"correction"},"doi":"10.1179/1945233013y.0000000014","journal":"Journal of the American Institute for Conservation","publisher":"Informa UK Limited","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1408924800000,
+  "updates": [
+    {
+      "timestamp": 1496002682167,
+      "identifier": {
+        "doi": "10.1179/0197136014z.00000000036"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1945233013y.0000000014"
+  },
+  "journal": "Journal of the American Institute for Conservation",
+  "publisher": "Informa UK Limited",
+  "title": "CORRIGENDUM"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350345600000,"doi":"10.1007/s40263-012-0011-4","type":"correction"},"doi":"10.1007/s40263-012-0003-4","journal":"CNS Drugs","publisher":"Springer Nature","title":"Erratum to: Effect of Aripiprazole on Verbal Memory and Fluency in Schizophrenic Patients"}
+{
+  "retracted": false,
+  "timestamp": 1350345600000,
+  "updates": [
+    {
+      "timestamp": 1495979192075,
+      "identifier": {
+        "doi": "10.1007/s40263-012-0011-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40263-012-0003-4"
+  },
+  "journal": "CNS Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of Aripiprazole on Verbal Memory and Fluency in Schizophrenic Patients"
+}

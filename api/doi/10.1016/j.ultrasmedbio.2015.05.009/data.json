@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ultrasmedbio.2015.09.015","type":"err"},"doi":"10.1016/j.ultrasmedbio.2015.05.009","journal":"Ultrasound in Medicine & Biology","publisher":"Elsevier BV","title":"Erratum to: “Trauma Ultrasound” in Ultrasound Med Biol 2015;41(10):2543–2561."}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049211589,
+      "identifier": {
+        "doi": "10.1016/j.ultrasmedbio.2015.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ultrasmedbio.2015.05.009"
+  },
+  "journal": "Ultrasound in Medicine & Biology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Trauma Ultrasound” in Ultrasound Med Biol 2015;41(10):2543–2561."
+}

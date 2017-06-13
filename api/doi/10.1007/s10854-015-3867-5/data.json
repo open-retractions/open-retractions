@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459123200000,"doi":"10.1007/s10854-016-4704-1","type":"correction"},"doi":"10.1007/s10854-015-3867-5","journal":"Journal of Materials Science: Materials in Electronics","publisher":"Springer Nature","title":"Erratum to: Optical and morphological properties of silicon dioxide thin films"}
+{
+  "retracted": false,
+  "timestamp": 1459123200000,
+  "updates": [
+    {
+      "timestamp": 1495659727867,
+      "identifier": {
+        "doi": "10.1007/s10854-016-4704-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10854-015-3867-5"
+  },
+  "journal": "Journal of Materials Science: Materials in Electronics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optical and morphological properties of silicon dioxide thin films"
+}

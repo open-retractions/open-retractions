@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452729600000,"doi":"10.1080/00087114.2016.1139895","type":"correction"},"doi":"10.1080/00087114.2015.1109940","journal":"Caryologia","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1452729600000,
+  "updates": [
+    {
+      "timestamp": 1496060134799,
+      "identifier": {
+        "doi": "10.1080/00087114.2016.1139895"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00087114.2015.1109940"
+  },
+  "journal": "Caryologia",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

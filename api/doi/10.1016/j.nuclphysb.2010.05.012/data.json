@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.nuclphysb.2014.11.025","type":"erratum"},"doi":"10.1016/j.nuclphysb.2010.05.012","journal":"Nuclear Physics B","publisher":"Elsevier BV","title":"Erratum to “Violation of Casimir scaling for static QCD potential at three-loop order” [Nucl. Phys. B 838 (2010) 28–46]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496027258680,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysb.2014.11.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysb.2010.05.012"
+  },
+  "journal": "Nuclear Physics B",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Violation of Casimir scaling for static QCD potential at three-loop order” [Nucl. Phys. B 838 (2010) 28–46]"
+}

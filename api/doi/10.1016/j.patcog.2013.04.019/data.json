@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.patcog.2014.01.001","type":"erratum"},"doi":"10.1016/j.patcog.2013.04.019","journal":"Pattern Recognition","publisher":"Elsevier BV","title":"Corrigendum to three papers that deal with “Anti”-Bayesian Pattern Recognition [Pattern Recognition]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496015914656,
+      "identifier": {
+        "doi": "10.1016/j.patcog.2014.01.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patcog.2013.04.019"
+  },
+  "journal": "Pattern Recognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to three papers that deal with “Anti”-Bayesian Pattern Recognition [Pattern Recognition]"
+}

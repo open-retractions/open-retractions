@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1007/s40262-016-0487-z","type":"correction"},"doi":"10.1007/s40262-016-0442-z","journal":"Clinical Pharmacokinetics","publisher":"Springer Nature","title":"Erratum to: Open Flow Microperfusion as a Dermal Pharmacokinetic Approach to Evaluate Topical Bioequivalence"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495660241616,
+      "identifier": {
+        "doi": "10.1007/s40262-016-0487-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40262-016-0442-z"
+  },
+  "journal": "Clinical Pharmacokinetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Open Flow Microperfusion as a Dermal Pharmacokinetic Approach to Evaluate Topical Bioequivalence"
+}

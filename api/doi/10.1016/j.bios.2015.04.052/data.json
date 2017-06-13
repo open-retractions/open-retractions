@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1016/j.bios.2016.05.011","type":"err"},"doi":"10.1016/j.bios.2015.04.052","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to “Mach–Zehnder interferometer (MZI) point-of-care system for rapid multiplexed detection of microRNAs in human urine specimens” [Biosens. Bioelectron. 71 (2015) 365–372]"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495677402161,
+      "identifier": {
+        "doi": "10.1016/j.bios.2016.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2015.04.052"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mach–Zehnder interferometer (MZI) point-of-care system for rapid multiplexed detection of microRNAs in human urine specimens” [Biosens. Bioelectron. 71 (2015) 365–372]"
+}

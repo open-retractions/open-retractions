@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.jmp.2014.05.001","type":"err"},"doi":"10.1016/j.jmp.2012.07.001","journal":"Journal of Mathematical Psychology","publisher":"Elsevier BV","title":"Corrigendum to “A tutorial explaining a machine vision model that emulates human performance when it recovers natural 3D scenes from 2D images” [J. Math. Psychol. 56 (2012) 217–231]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496042129845,
+      "identifier": {
+        "doi": "10.1016/j.jmp.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmp.2012.07.001"
+  },
+  "journal": "Journal of Mathematical Psychology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A tutorial explaining a machine vision model that emulates human performance when it recovers natural 3D scenes from 2D images” [J. Math. Psychol. 56 (2012) 217–231]"
+}

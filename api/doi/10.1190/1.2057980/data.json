@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1335484800000,"doi":"10.1190/1.2146078","type":"correction"},"doi":"10.1190/1.2057980","journal":"GEOPHYSICS","publisher":"Society of Exploration Geophysicists","title":"Delayed-shot 3D depth migration, GEOPHYSICS, 70, E21–E28"}
+{
+  "retracted": false,
+  "timestamp": 1335484800000,
+  "updates": [
+    {
+      "timestamp": 1496340295242,
+      "identifier": {
+        "doi": "10.1190/1.2146078"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1190/1.2057980"
+  },
+  "journal": "GEOPHYSICS",
+  "publisher": "Society of Exploration Geophysicists",
+  "title": "Delayed-shot 3D depth migration, GEOPHYSICS, 70, E21–E28"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1255392000000,"doi":"10.1073/pnas.0911892106","type":"correction"},"doi":"10.1073/pnas.0902085106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Marmottant et al., The role of fluctuations and stress on the effective viscosity of cell aggregates"}
+{
+  "retracted": false,
+  "timestamp": 1255392000000,
+  "updates": [
+    {
+      "timestamp": 1495986989552,
+      "identifier": {
+        "doi": "10.1073/pnas.0911892106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0902085106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Marmottant et al., The role of fluctuations and stress on the effective viscosity of cell aggregates"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.1080/03036758.2014.890013","type":"correction"},"doi":"10.1080/03036758.2013.863788","journal":"Journal of the Royal Society of New Zealand","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1496020325378,
+      "identifier": {
+        "doi": "10.1080/03036758.2014.890013"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03036758.2013.863788"
+  },
+  "journal": "Journal of the Royal Society of New Zealand",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

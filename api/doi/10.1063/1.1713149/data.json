@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-152668800000,"doi":"10.1063/1.1714253","type":"erratum"},"doi":"10.1063/1.1713149","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Errata: ``Self‐Diffusion in Pb at 300°C by an Absorption Tracer Technique''"}
+{
+  "retracted": false,
+  "timestamp": -152668800000,
+  "updates": [
+    {
+      "timestamp": 1495891111121,
+      "identifier": {
+        "doi": "10.1063/1.1714253"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1713149"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Errata: ``Self‐Diffusion in Pb at 300°C by an Absorption Tracer Technique''"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481587200000,"doi":"10.1186/s12871-016-0288-9","type":"correction"},"doi":"10.1186/s12871-015-0112-y","journal":"BMC Anesthesiology","publisher":"Springer Nature","title":"Erratum to: The effects of arginase inhibitor on lung oxidative stress and inflammation caused by pneumoperitoneum in rats"}
+{
+  "retracted": false,
+  "timestamp": 1481587200000,
+  "updates": [
+    {
+      "timestamp": 1495666643794,
+      "identifier": {
+        "doi": "10.1186/s12871-016-0288-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12871-015-0112-y"
+  },
+  "journal": "BMC Anesthesiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The effects of arginase inhibitor on lung oxidative stress and inflammation caused by pneumoperitoneum in rats"
+}

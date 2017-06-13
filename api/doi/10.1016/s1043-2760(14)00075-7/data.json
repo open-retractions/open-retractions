@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.tem.2014.06.004","type":"err"},"doi":"10.1016/s1043-2760(14)00075-7","journal":"Trends in Endocrinology & Metabolism","publisher":"Elsevier BV","title":"Erratum to Trends in Endocrinology&Metabolism 25/6 (June 2014), Contents page + Editorial Board"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496048850553,
+      "identifier": {
+        "doi": "10.1016/j.tem.2014.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s1043-2760(14)00075-7"
+  },
+  "journal": "Trends in Endocrinology & Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to Trends in Endocrinology&Metabolism 25/6 (June 2014), Contents page + Editorial Board"
+}

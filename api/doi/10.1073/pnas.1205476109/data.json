@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1073/pnas.1212269109","type":"correction"},"doi":"10.1073/pnas.1205476109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhou et al., Force-specific activation of Smad1/5 regulates vascular endothelial cell cycle progression in response to disturbed flow"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495925888824,
+      "identifier": {
+        "doi": "10.1073/pnas.1212269109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1205476109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhou et al., Force-specific activation of Smad1/5 regulates vascular endothelial cell cycle progression in response to disturbed flow"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462924800000,"doi":"10.1557/jmr.2016.192","type":"correction"},"doi":"10.1557/jmr.2016.156","journal":"Journal of Materials Research","publisher":"Cambridge University Press (CUP)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1462924800000,
+  "updates": [
+    {
+      "timestamp": 1495675759165,
+      "identifier": {
+        "doi": "10.1557/jmr.2016.192"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1557/jmr.2016.156"
+  },
+  "journal": "Journal of Materials Research",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Erratum"
+}

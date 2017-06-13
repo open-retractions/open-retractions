@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.cvsm.2014.07.002","type":"err"},"doi":"10.1016/j.cvsm.2012.07.004","journal":"Veterinary Clinics of North America: Small Animal Practice","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496003851302,
+      "identifier": {
+        "doi": "10.1016/j.cvsm.2014.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cvsm.2012.07.004"
+  },
+  "journal": "Veterinary Clinics of North America: Small Animal Practice",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jembe.2015.02.001","type":"err"},"doi":"10.1016/j.jembe.2010.12.003","journal":"Journal of Experimental Marine Biology and Ecology","publisher":"Elsevier BV","title":"Corrigendum to “Variation in penaeid shrimp growth rates along an estuarine salinity gradient: Implications for managing river diversions” [J. Exp. Mar. Biol. Ecol. 397 (2011) 196–207]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496043382164,
+      "identifier": {
+        "doi": "10.1016/j.jembe.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jembe.2010.12.003"
+  },
+  "journal": "Journal of Experimental Marine Biology and Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Variation in penaeid shrimp growth rates along an estuarine salinity gradient: Implications for managing river diversions” [J. Exp. Mar. Biol. Ecol. 397 (2011) 196–207]"
+}

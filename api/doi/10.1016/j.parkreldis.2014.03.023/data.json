@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.parkreldis.2015.03.002","type":"err"},"doi":"10.1016/j.parkreldis.2014.03.023","journal":"Parkinsonism & Related Disorders","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of brain iron content in idiopathic REM sleep behavior disorder using quantitative magnetic resonance imaging” [Parkinsonism Relat Disorder 20 (2014) 776–778]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496045557844,
+      "identifier": {
+        "doi": "10.1016/j.parkreldis.2015.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.parkreldis.2014.03.023"
+  },
+  "journal": "Parkinsonism & Related Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of brain iron content in idiopathic REM sleep behavior disorder using quantitative magnetic resonance imaging” [Parkinsonism Relat Disorder 20 (2014) 776–778]"
+}

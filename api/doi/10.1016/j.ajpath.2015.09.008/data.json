@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.ajpath.2016.02.019","type":"err"},"doi":"10.1016/j.ajpath.2015.09.008","journal":"The American Journal of Pathology","publisher":"Elsevier BV","title":"Corrections"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495681987376,
+      "identifier": {
+        "doi": "10.1016/j.ajpath.2016.02.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajpath.2015.09.008"
+  },
+  "journal": "The American Journal of Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrections"
+}

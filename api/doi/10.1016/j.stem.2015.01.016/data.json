@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425513600000,"doi":"10.1016/j.stem.2015.02.011","type":"erratum"},"doi":"10.1016/j.stem.2015.01.016","journal":"Cell Stem Cell","publisher":"Elsevier BV","title":"m6A RNA Methylation Is Regulated by MicroRNAs and Promotes Reprogramming to Pluripotency"}
+{
+  "retracted": false,
+  "timestamp": 1425513600000,
+  "updates": [
+    {
+      "timestamp": 1496048797747,
+      "identifier": {
+        "doi": "10.1016/j.stem.2015.02.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stem.2015.01.016"
+  },
+  "journal": "Cell Stem Cell",
+  "publisher": "Elsevier BV",
+  "title": "m6A RNA Methylation Is Regulated by MicroRNAs and Promotes Reprogramming to Pluripotency"
+}

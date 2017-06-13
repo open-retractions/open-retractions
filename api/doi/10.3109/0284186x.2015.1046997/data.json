@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.3109/0284186x.2015.1067477","type":"correction"},"doi":"10.3109/0284186x.2015.1046997","journal":"Acta Oncologica","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1495645581709,
+      "identifier": {
+        "doi": "10.3109/0284186x.2015.1067477"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/0284186x.2015.1046997"
+  },
+  "journal": "Acta Oncologica",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

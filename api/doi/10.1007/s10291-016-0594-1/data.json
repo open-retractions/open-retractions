@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1007/s10291-017-0600-2","type":"correction"},"doi":"10.1007/s10291-016-0594-1","journal":"GPS Solutions","publisher":"Springer Nature","title":"Erratum to: Reliable GPS + BDS RTK positioning with partial ambiguity resolution"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495718357169,
+      "identifier": {
+        "doi": "10.1007/s10291-017-0600-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10291-016-0594-1"
+  },
+  "journal": "GPS Solutions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reliable GPS + BDS RTK positioning with partial ambiguity resolution"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1158019200000,"doi":"10.1212/01.wnl.0000244478.20128.b8","type":"correction"},"doi":"10.1212/01.wnl.0000204235.81272.e2","journal":"Neurology","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Randomized controlled phase II trial of glatiramer acetate in ALS"}
+{
+  "retracted": false,
+  "timestamp": 1158019200000,
+  "updates": [
+    {
+      "timestamp": 1495865369544,
+      "identifier": {
+        "doi": "10.1212/01.wnl.0000244478.20128.b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1212/01.wnl.0000204235.81272.e2"
+  },
+  "journal": "Neurology",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Randomized controlled phase II trial of glatiramer acetate in ALS"
+}

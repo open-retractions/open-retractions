@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400112000000,"doi":"10.1016/j.jpowsour.2013.12.051","type":"err"},"doi":"10.1016/j.jpowsour.2013.07.024","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Electrodeposition of manganese oxide nanosheets on a continuous three-dimensional nickel porous scaffold for high performance electrochemical capacitors” [J. Power Sources 245 (2013) 1027–1034]"}
+{
+  "retracted": false,
+  "timestamp": 1400112000000,
+  "updates": [
+    {
+      "timestamp": 1496008150700,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.12.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.07.024"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electrodeposition of manganese oxide nanosheets on a continuous three-dimensional nickel porous scaffold for high performance electrochemical capacitors” [J. Power Sources 245 (2013) 1027–1034]"
+}

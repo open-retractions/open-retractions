@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1016/j.optcom.2016.06.019","type":"err"},"doi":"10.1016/j.optcom.2015.11.001","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Arrays of Gaussian vortex, Bessel and airy beams by computer-generated hologram”"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495737783683,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2016.06.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2015.11.001"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Arrays of Gaussian vortex, Bessel and airy beams by computer-generated hologram”"
+}

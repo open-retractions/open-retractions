@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1190073600000,"doi":"10.1073/pnas.0707795104","type":"correction"},"doi":"10.1073/pnas.0705824104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Bock-Axelsen et al., Genes overexpressed in different human solid cancers exhibit different tissue-specific expression profiles"}
+{
+  "retracted": false,
+  "timestamp": 1190073600000,
+  "updates": [
+    {
+      "timestamp": 1495985550177,
+      "identifier": {
+        "doi": "10.1073/pnas.0707795104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0705824104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Bock-Axelsen et al., Genes overexpressed in different human solid cancers exhibit different tissue-specific expression profiles"
+}

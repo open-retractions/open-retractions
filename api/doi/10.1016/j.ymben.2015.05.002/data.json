@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.ymben.2015.10.012","type":"erratum"},"doi":"10.1016/j.ymben.2015.05.002","journal":"Metabolic Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Simultaneous utilization of glucose and xylose via novel mechanisms in engineered Escherichia coli ” [Metab. Eng. 30C (2015) 141–148]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496044649035,
+      "identifier": {
+        "doi": "10.1016/j.ymben.2015.10.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymben.2015.05.002"
+  },
+  "journal": "Metabolic Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simultaneous utilization of glucose and xylose via novel mechanisms in engineered  Escherichia coli ” [Metab. Eng. 30C (2015) 141–148]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465516800000,"doi":"10.1080/15548627.2016.1181509","type":"correction"},"doi":"10.1080/15548627.2016.1143592","journal":"Autophagy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1465516800000,
+  "updates": [
+    {
+      "timestamp": 1495719676898,
+      "identifier": {
+        "doi": "10.1080/15548627.2016.1181509"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15548627.2016.1143592"
+  },
+  "journal": "Autophagy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

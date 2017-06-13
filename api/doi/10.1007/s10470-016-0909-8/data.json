@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486080000000,"doi":"10.1007/s10470-017-0929-z","type":"correction"},"doi":"10.1007/s10470-016-0909-8","journal":"Analog Integrated Circuits and Signal Processing","publisher":"Springer Nature","title":"Erratum to: Body-driven log/antilog PVT compensated analog computational block"}
+{
+  "retracted": false,
+  "timestamp": 1486080000000,
+  "updates": [
+    {
+      "timestamp": 1495680878772,
+      "identifier": {
+        "doi": "10.1007/s10470-017-0929-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10470-016-0909-8"
+  },
+  "journal": "Analog Integrated Circuits and Signal Processing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Body-driven log/antilog PVT compensated analog computational block"
+}

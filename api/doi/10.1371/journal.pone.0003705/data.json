@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351209600000,"doi":"10.1371/annotation/170470ba-f544-43dd-992e-52a06d3b41a4","type":"correction"},"doi":"10.1371/journal.pone.0003705","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Food Inequality Negatively Impacts Cardiac Health in Rabbits"}
+{
+  "retracted": false,
+  "timestamp": 1351209600000,
+  "updates": [
+    {
+      "timestamp": 1495976699419,
+      "identifier": {
+        "doi": "10.1371/annotation/170470ba-f544-43dd-992e-52a06d3b41a4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003705"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Food Inequality Negatively Impacts Cardiac Health in Rabbits"
+}

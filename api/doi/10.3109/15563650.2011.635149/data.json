@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419379200000,"doi":"10.3109/15563650.2014.993118","type":"correction"},"doi":"10.3109/15563650.2011.635149","journal":"Clinical Toxicology","publisher":"Informa UK Limited","title":"2010 Annual Report of the American Association of Poison Control Centers’ National Poison Data System (NPDS): 28th Annual Report"}
+{
+  "retracted": false,
+  "timestamp": 1419379200000,
+  "updates": [
+    {
+      "timestamp": 1496032933846,
+      "identifier": {
+        "doi": "10.3109/15563650.2014.993118"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15563650.2011.635149"
+  },
+  "journal": "Clinical Toxicology",
+  "publisher": "Informa UK Limited",
+  "title": "2010 Annual Report of the American Association of Poison Control Centers’ National Poison Data System (NPDS): 28th Annual Report"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.foodchem.2014.02.020","type":"err"},"doi":"10.1016/j.foodchem.2011.11.147","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Flavonoids isolated from Syzygium aqueum leaf extract as potential antihyperglycaemic agents” [Food Chem. 132 (2012) 1802–1807]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496020646205,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2014.02.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2011.11.147"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Flavonoids isolated from Syzygium aqueum leaf extract as potential antihyperglycaemic agents” [Food Chem. 132 (2012) 1802–1807]"
+}

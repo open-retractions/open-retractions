@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449532800000,"doi":"10.1080/18918131.2015.1115655","type":"correction"},"doi":"10.1080/18918131.2015.1000049","journal":"Nordic Journal of Human Rights","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1449532800000,
+  "updates": [
+    {
+      "timestamp": 1496051926512,
+      "identifier": {
+        "doi": "10.1080/18918131.2015.1115655"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/18918131.2015.1000049"
+  },
+  "journal": "Nordic Journal of Human Rights",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

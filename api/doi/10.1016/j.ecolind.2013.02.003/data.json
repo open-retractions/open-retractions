@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ecolind.2013.04.020","type":"err"},"doi":"10.1016/j.ecolind.2013.02.003","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Erratum to “A self-evaluation method to attribute sound bio-values based on in situ ecotoxicological monitoring” [Ecol. Indic. 30 (2013) 100–105]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496017561672,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2013.04.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2013.02.003"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A self-evaluation method to attribute sound bio-values based on in situ ecotoxicological monitoring” [Ecol. Indic. 30 (2013) 100–105]"
+}

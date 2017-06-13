@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478736000000,"doi":"10.1007/s10353-016-0445-x","type":"correction"},"doi":"10.1007/s10353-016-0437-x","journal":"European Surgery","publisher":"Springer Nature","title":"Erratum to: Surgical approach is superior to palliative treatment in oligometastatic lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1478736000000,
+  "updates": [
+    {
+      "timestamp": 1495656264603,
+      "identifier": {
+        "doi": "10.1007/s10353-016-0445-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10353-016-0437-x"
+  },
+  "journal": "European Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Surgical approach is superior to palliative treatment in oligometastatic lung cancer"
+}

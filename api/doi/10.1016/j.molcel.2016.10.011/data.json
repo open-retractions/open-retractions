@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.molcel.2016.11.028","type":"erratum"},"doi":"10.1016/j.molcel.2016.10.011","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Mre11 Is Essential for the Removal of Lethal Topoisomerase 2 Covalent Cleavage Complexes"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1497093757271,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.11.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.10.011"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Mre11 Is Essential for the Removal of Lethal Topoisomerase 2 Covalent Cleavage Complexes"
+}

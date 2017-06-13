@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":594345600000,"doi":"10.1063/1.342531","type":"erratum"},"doi":"10.1063/1.340374","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: ‘‘Tunneling process in AlAs/GaAs double quantum wells studied by photoluminescence’’ [J. Appl. Phys. 63, 5491 (1988)]"}
+{
+  "retracted": false,
+  "timestamp": 594345600000,
+  "updates": [
+    {
+      "timestamp": 1495839735987,
+      "identifier": {
+        "doi": "10.1063/1.342531"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.340374"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘Tunneling process in AlAs/GaAs double quantum wells studied by photoluminescence’’ [J. Appl. Phys. 63, 5491 (1988)]"
+}

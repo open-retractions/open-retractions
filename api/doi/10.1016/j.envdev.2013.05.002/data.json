@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.envdev.2013.08.007","type":"err"},"doi":"10.1016/j.envdev.2013.05.002","journal":"Environmental Development","publisher":"Elsevier BV","title":"Corrigendum to “Water hyacinth – Can its aggressive invasion be controlled?” [Environmental Development 7(July) 2013 139–154]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496043817463,
+      "identifier": {
+        "doi": "10.1016/j.envdev.2013.08.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envdev.2013.05.002"
+  },
+  "journal": "Environmental Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Water hyacinth – Can its aggressive invasion be controlled?” [Environmental Development 7(July) 2013 139–154]"
+}

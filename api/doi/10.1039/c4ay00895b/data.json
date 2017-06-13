@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438041600000,"doi":"10.1039/c5ay90054a","type":"correction"},"doi":"10.1039/c4ay00895b","journal":"Anal. Methods","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: HPLC separation of casein components on a diol-bonded silica column with MALDI TOF/TOF MS identification"}
+{
+  "retracted": false,
+  "timestamp": 1438041600000,
+  "updates": [
+    {
+      "timestamp": 1496018594304,
+      "identifier": {
+        "doi": "10.1039/c5ay90054a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4ay00895b"
+  },
+  "journal": "Anal. Methods",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: HPLC separation of casein components on a diol-bonded silica column with MALDI TOF/TOF MS identification"
+}

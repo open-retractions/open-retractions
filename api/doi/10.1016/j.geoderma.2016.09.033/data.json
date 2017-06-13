@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.geoderma.2017.02.011","type":"erratum"},"doi":"10.1016/j.geoderma.2016.09.033","journal":"Geoderma","publisher":"Elsevier BV","title":"Corrigendum to “Soil with high organic carbon concentration continues to sequester carbon with increasing carbon inputs” [Geoderma 285 (2017) 151–163]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495714962834,
+      "identifier": {
+        "doi": "10.1016/j.geoderma.2017.02.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geoderma.2016.09.033"
+  },
+  "journal": "Geoderma",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Soil with high organic carbon concentration continues to sequester carbon with increasing carbon inputs” [Geoderma 285 (2017) 151–163]"
+}

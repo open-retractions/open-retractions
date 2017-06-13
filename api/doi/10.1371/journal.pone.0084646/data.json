@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389830400000,"doi":"10.1371/annotation/4737b7e4-0d5e-4f86-b916-bda9b6cabd84","type":"correction"},"doi":"10.1371/journal.pone.0084646","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Using Expression Profiling to Understand the Effects of Chronic Cadmium Exposure on MCF-7 Breast Cancer Cells"}
+{
+  "retracted": false,
+  "timestamp": 1389830400000,
+  "updates": [
+    {
+      "timestamp": 1496013026427,
+      "identifier": {
+        "doi": "10.1371/annotation/4737b7e4-0d5e-4f86-b916-bda9b6cabd84"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0084646"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Using Expression Profiling to Understand the Effects of Chronic Cadmium Exposure on MCF-7 Breast Cancer Cells"
+}

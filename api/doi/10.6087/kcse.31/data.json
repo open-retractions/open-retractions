@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.6087/kcse.42","type":"correction"},"doi":"10.6087/kcse.31","journal":"Science Editing","publisher":"Korean Council of Science Editors","title":"Correction of the figure legend in the article"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1495995963874,
+      "identifier": {
+        "doi": "10.6087/kcse.42"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.6087/kcse.31"
+  },
+  "journal": "Science Editing",
+  "publisher": "Korean Council of Science Editors",
+  "title": "Correction of the figure legend in the article"
+}

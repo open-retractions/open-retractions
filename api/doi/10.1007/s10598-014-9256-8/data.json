@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432684800000,"doi":"10.1007/s10598-015-9284-z","type":"correction"},"doi":"10.1007/s10598-014-9256-8","journal":"Computational Mathematics and Modeling","publisher":"Springer Nature","title":"Erratum to: Some Optimal Control Problems Associated with Richardson’s Arms Race Model"}
+{
+  "retracted": false,
+  "timestamp": 1432684800000,
+  "updates": [
+    {
+      "timestamp": 1495999833945,
+      "identifier": {
+        "doi": "10.1007/s10598-015-9284-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10598-014-9256-8"
+  },
+  "journal": "Computational Mathematics and Modeling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Some Optimal Control Problems Associated with Richardson’s Arms Race Model"
+}

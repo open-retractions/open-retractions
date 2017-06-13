@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438041600000,"doi":"10.1016/j.celrep.2015.07.027","type":"err"},"doi":"10.1016/j.celrep.2015.06.006","journal":"Cell Reports","publisher":"Elsevier BV","title":"Suppression of PGC-1a Is Critical for Reprogramming Oxidative Metabolism in Renal Cell Carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1438041600000,
+  "updates": [
+    {
+      "timestamp": 1496018496999,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.07.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.06.006"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Suppression of PGC-1a Is Critical for Reprogramming Oxidative Metabolism in Renal Cell Carcinoma"
+}

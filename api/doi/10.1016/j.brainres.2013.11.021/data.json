@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401753600000,"doi":"10.1016/j.brainres.2014.04.030","type":"err"},"doi":"10.1016/j.brainres.2013.11.021","journal":"Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “Selective lesioning of nucleus incertus with corticotropin releasing factor-saporin conjugate” [Brain Res. 1543 (2014) 179–190]"}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496035924637,
+      "identifier": {
+        "doi": "10.1016/j.brainres.2014.04.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainres.2013.11.021"
+  },
+  "journal": "Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Selective lesioning of nucleus incertus with corticotropin releasing factor-saporin conjugate” [Brain Res. 1543 (2014) 179–190]"
+}

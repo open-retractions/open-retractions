@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1256601600000,"doi":"10.1371/annotation/80db4649-46c1-40af-851b-f01968eec5d7","type":"correction"},"doi":"10.1371/journal.pone.0007416","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Chimpanzees Help Each Other upon Request"}
+{
+  "retracted": false,
+  "timestamp": 1256601600000,
+  "updates": [
+    {
+      "timestamp": 1496025198993,
+      "identifier": {
+        "doi": "10.1371/annotation/80db4649-46c1-40af-851b-f01968eec5d7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0007416"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Chimpanzees Help Each Other upon Request"
+}

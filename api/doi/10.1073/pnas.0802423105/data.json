@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217289600000,"doi":"10.1073/pnas.0807700105","type":"correction"},"doi":"10.1073/pnas.0802423105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hashiguchi et al., Triggering receptor expressed on myeloid cell-like transcript 2 (TLT-2) is a counter-receptor for B7-H3 and enhances T cell responses"}
+{
+  "retracted": false,
+  "timestamp": 1217289600000,
+  "updates": [
+    {
+      "timestamp": 1495880554964,
+      "identifier": {
+        "doi": "10.1073/pnas.0807700105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0802423105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hashiguchi et al., Triggering receptor expressed on myeloid cell-like transcript 2 (TLT-2) is a counter-receptor for B7-H3 and enhances T cell responses"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.msec.2014.11.002","type":"err"},"doi":"10.1016/j.msec.2014.04.042","journal":"Materials Science and Engineering: C","publisher":"Elsevier BV","title":"Corrigendum to “Gold nanoparticles stimulate differentiation and mineralization of primary osteoblasts through the ERK/MAPK signaling pathway” [Mater. Sci. Eng. C (2014), vol. 42, pp. 70–77]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496042770393,
+      "identifier": {
+        "doi": "10.1016/j.msec.2014.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msec.2014.04.042"
+  },
+  "journal": "Materials Science and Engineering: C",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gold nanoparticles stimulate differentiation and mineralization of primary osteoblasts through the ERK/MAPK signaling pathway” [Mater. Sci. Eng. C (2014), vol. 42, pp. 70–77]"
+}

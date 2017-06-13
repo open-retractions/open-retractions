@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1016/j.matlet.2014.04.084","type":"err"},"doi":"10.1016/j.matlet.2013.03.114","journal":"Materials Letters","publisher":"Elsevier BV","title":"Corrigendum to “Bias deposition of nanoporous Cu thin films” [Mater. Lett. 102–103 (2013) 72–75]"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496035332685,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2014.04.084"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matlet.2013.03.114"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bias deposition of nanoporous Cu thin films” [Mater. Lett. 102–103 (2013) 72–75]"
+}

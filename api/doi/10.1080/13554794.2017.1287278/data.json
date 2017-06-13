@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491350400000,"doi":"10.1080/13554794.2017.1306073","type":"correction"},"doi":"10.1080/13554794.2017.1287278","journal":"Neurocase","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1491350400000,
+  "updates": [
+    {
+      "timestamp": 1495736201280,
+      "identifier": {
+        "doi": "10.1080/13554794.2017.1306073"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13554794.2017.1287278"
+  },
+  "journal": "Neurocase",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

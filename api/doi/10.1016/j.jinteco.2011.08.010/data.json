@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.jinteco.2012.08.001","type":"err"},"doi":"10.1016/j.jinteco.2011.08.010","journal":"Journal of International Economics","publisher":"Elsevier BV","title":"Corrigendum to “How wages and employment adjust to trade liberalization: Quasi-experimental evidence from Austria” [J. Int. Econ. (2012) 68–81]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495959518794,
+      "identifier": {
+        "doi": "10.1016/j.jinteco.2012.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jinteco.2011.08.010"
+  },
+  "journal": "Journal of International Economics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “How wages and employment adjust to trade liberalization: Quasi-experimental evidence from Austria” [J. Int. Econ. (2012) 68–81]"
+}

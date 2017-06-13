@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1016/j.cell.2015.06.052","type":"err"},"doi":"10.1016/j.cell.2014.08.029","journal":"Cell","publisher":"Elsevier BV","title":"Resetting Transcription Factor Control Circuitry toward Ground-State Pluripotency in Human"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015990532,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.06.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.08.029"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Resetting Transcription Factor Control Circuitry toward Ground-State Pluripotency in Human"
+}

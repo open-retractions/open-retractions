@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1007/s13361-015-1294-8","type":"correction"},"doi":"10.1007/s13361-011-0080-5","journal":"Journal of The American Society for Mass Spectrometry","publisher":"Springer Nature","title":"Erratum to: Sequence Elucidation of an Unknown Cyclic Peptide of High Doping Potential by ETD and CID Tandem Mass Spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496042123838,
+      "identifier": {
+        "doi": "10.1007/s13361-015-1294-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13361-011-0080-5"
+  },
+  "journal": "Journal of The American Society for Mass Spectrometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sequence Elucidation of an Unknown Cyclic Peptide of High Doping Potential by ETD and CID Tandem Mass Spectrometry"
+}

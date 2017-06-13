@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377561600000,"doi":"10.1073/pnas.1317787110","type":"correction"},"doi":"10.1073/pnas.1307376110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Volkenstein et al., Transient, afferent input-dependent, postnatal niche for neural progenitor cells in the cochlear nucleus"}
+{
+  "retracted": false,
+  "timestamp": 1377561600000,
+  "updates": [
+    {
+      "timestamp": 1496049720192,
+      "identifier": {
+        "doi": "10.1073/pnas.1317787110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1307376110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Volkenstein et al., Transient, afferent input-dependent, postnatal niche for neural progenitor cells in the cochlear nucleus"
+}

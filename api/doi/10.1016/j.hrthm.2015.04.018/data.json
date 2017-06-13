@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.hrthm.2016.08.034","type":"erratum"},"doi":"10.1016/j.hrthm.2015.04.018","journal":"Heart Rhythm","publisher":"Elsevier BV","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495742533606,
+      "identifier": {
+        "doi": "10.1016/j.hrthm.2016.08.034"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hrthm.2015.04.018"
+  },
+  "journal": "Heart Rhythm",
+  "publisher": "Elsevier BV",
+  "title": "ERRATUM"
+}

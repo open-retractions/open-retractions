@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.spa.2013.12.004","type":"err"},"doi":"10.1016/j.spa.2013.02.007","journal":"Stochastic Processes and their Applications","publisher":"Elsevier BV","title":"Corrigendum to “Stationarity of multivariate particle systems” [Stochastic Process. Appl. 123 (6) (2013) 2272–2285]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496005955675,
+      "identifier": {
+        "doi": "10.1016/j.spa.2013.12.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.spa.2013.02.007"
+  },
+  "journal": "Stochastic Processes and their Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stationarity of multivariate particle systems” [Stochastic Process. Appl. 123 (6) (2013) 2272–2285]"
+}

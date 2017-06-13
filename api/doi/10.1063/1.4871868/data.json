@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404345600000,"doi":"10.1063/1.4886976","type":"correction"},"doi":"10.1063/1.4871868","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Conditions for the coexistence of liquid-like and solid-like behaviors in viscoelastic liquids” [Appl. Phys. Lett. 104, 151905 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1404345600000,
+  "updates": [
+    {
+      "timestamp": 1496051211184,
+      "identifier": {
+        "doi": "10.1063/1.4886976"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4871868"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Conditions for the coexistence of liquid-like and solid-like behaviors in viscoelastic liquids” [Appl. Phys. Lett. 104, 151905 (2014)]"
+}

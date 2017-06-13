@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.fcr.2016.02.005","type":"err"},"doi":"10.1016/j.fcr.2015.05.025","journal":"Field Crops Research","publisher":"Elsevier BV","title":"Corrigendum to “Improving yield potential of tropical rice: Achieved levels and perspectives through improved ideotypes” [Field Crops Res. (2015) 43–59]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495645358607,
+      "identifier": {
+        "doi": "10.1016/j.fcr.2016.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fcr.2015.05.025"
+  },
+  "journal": "Field Crops Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Improving yield potential of tropical rice: Achieved levels and perspectives through improved ideotypes” [Field Crops Res. (2015) 43–59]"
+}

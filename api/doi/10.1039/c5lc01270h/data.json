@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461024000000,"doi":"10.1039/c6lc90045c","type":"correction"},"doi":"10.1039/c5lc01270h","journal":"Lab Chip","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: 3D printed nervous system on a chip"}
+{
+  "retracted": false,
+  "timestamp": 1461024000000,
+  "updates": [
+    {
+      "timestamp": 1495667458529,
+      "identifier": {
+        "doi": "10.1039/c6lc90045c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5lc01270h"
+  },
+  "journal": "Lab Chip",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: 3D printed nervous system on a chip"
+}

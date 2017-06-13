@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468195200000,"doi":"10.1080/19396368.2016.1204813","type":"correction"},"doi":"10.3109/19396368.2015.1112699","journal":"Systems Biology in Reproductive Medicine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1468195200000,
+  "updates": [
+    {
+      "timestamp": 1495727472663,
+      "identifier": {
+        "doi": "10.1080/19396368.2016.1204813"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/19396368.2015.1112699"
+  },
+  "journal": "Systems Biology in Reproductive Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.mehy.2015.06.004","type":"err"},"doi":"10.1016/j.mehy.2014.04.001","journal":"Medical Hypotheses","publisher":"Elsevier BV","title":"Corrigendum to “Percutaneous excretion of iron and ferritin (through Al-hijamah) as a novel treatment for iron overload in beta-thalassemia major, hemochromatosis and sideroblastic anemia” [Med. Hypotheses 83 (2014) 238–246]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496011413616,
+      "identifier": {
+        "doi": "10.1016/j.mehy.2015.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mehy.2014.04.001"
+  },
+  "journal": "Medical Hypotheses",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Percutaneous excretion of iron and ferritin (through Al-hijamah) as a novel treatment for iron overload in beta-thalassemia major, hemochromatosis and sideroblastic anemia” [Med. Hypotheses 83 (2014) 238–246]"
+}

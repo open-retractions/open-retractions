@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423958400000,"doi":"10.1016/j.memsci.2015.01.001","type":"err"},"doi":"10.1016/j.memsci.2014.10.045","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Highly permeable and mechanically robust silicon carbide hollow fiber membranes” [J. Membr. Sci. 475 (2015) 480–487]"}
+{
+  "retracted": false,
+  "timestamp": 1423958400000,
+  "updates": [
+    {
+      "timestamp": 1496041862361,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2014.10.045"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Highly permeable and mechanically robust silicon carbide hollow fiber membranes” [J. Membr. Sci. 475 (2015) 480–487]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1186/s12864-017-3651-4","type":"correction"},"doi":"10.1186/s12864-016-2828-6","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: InteGO2: a web tool for measuring and visualizing gene semantic similarities using Gene Ontology"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495732811811,
+      "identifier": {
+        "doi": "10.1186/s12864-017-3651-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2828-6"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: InteGO2: a web tool for measuring and visualizing gene semantic similarities using Gene Ontology"
+}

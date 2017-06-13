@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357862400000,"doi":"10.1063/1.4775732","type":"correction"},"doi":"10.1063/1.4737898","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Electrical and thermoelectric properties of single-wall carbon nanotube doped Bi2Te3” [Appl. Phys. Lett. 101, 031909 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357862400000,
+  "updates": [
+    {
+      "timestamp": 1495984976267,
+      "identifier": {
+        "doi": "10.1063/1.4775732"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4737898"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Electrical and thermoelectric properties of single-wall carbon nanotube doped Bi2Te3” [Appl. Phys. Lett. 101, 031909 (2012)]"
+}

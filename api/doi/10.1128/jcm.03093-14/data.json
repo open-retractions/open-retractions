@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1128/jcm.01033-16","type":"correction"},"doi":"10.1128/jcm.03093-14","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Alcalá et al., Comparison of GenomEra C. difficile and Xpert C. difficile as Confirmatory Tests in a Multistep Algorithm for Diagnosis of Clostridium difficile Infection"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495731648280,
+      "identifier": {
+        "doi": "10.1128/jcm.01033-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.03093-14"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Alcalá et al., Comparison of GenomEra C. difficile and Xpert C. difficile as Confirmatory Tests in a Multistep Algorithm for Diagnosis of Clostridium difficile Infection"
+}

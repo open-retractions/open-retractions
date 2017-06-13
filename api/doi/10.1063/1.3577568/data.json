@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1325635200000,"doi":"10.1063/1.3675852","type":"erratum"},"doi":"10.1063/1.3577568","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Alfvén cascades with downward frequency sweeping” [Phys. Plasmas 18, 040701 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1325635200000,
+  "updates": [
+    {
+      "timestamp": 1495860937399,
+      "identifier": {
+        "doi": "10.1063/1.3675852"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3577568"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Alfvén cascades with downward frequency sweeping” [Phys. Plasmas 18, 040701 (2011)]"
+}

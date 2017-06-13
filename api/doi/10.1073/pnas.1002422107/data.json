@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311033600000,"doi":"10.1073/pnas.1109536108","type":"correction"},"doi":"10.1073/pnas.1002422107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Silverman et al., Metabolic cycling in single yeast cells from unsynchronized steady-state populations limited on glucose or phosphate"}
+{
+  "retracted": false,
+  "timestamp": 1311033600000,
+  "updates": [
+    {
+      "timestamp": 1495968147310,
+      "identifier": {
+        "doi": "10.1073/pnas.1109536108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1002422107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Silverman et al., Metabolic cycling in single yeast cells from unsynchronized steady-state populations limited on glucose or phosphate"
+}

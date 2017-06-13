@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424390400000,"doi":"10.1586/14737159.2015.1020016","type":"correction"},"doi":"10.1586/14737159.2014.960516","journal":"Expert Review of Molecular Diagnostics","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1424390400000,
+  "updates": [
+    {
+      "timestamp": 1496045345742,
+      "identifier": {
+        "doi": "10.1586/14737159.2015.1020016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/14737159.2014.960516"
+  },
+  "journal": "Expert Review of Molecular Diagnostics",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

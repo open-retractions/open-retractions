@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ydbio.2014.04.022","type":"err"},"doi":"10.1016/j.ydbio.2014.02.025","journal":"Developmental Biology","publisher":"Elsevier BV","title":"Corrigendum to “prdm12b Specifies the p1 progenitor domain and reveals a role for V1 interneurons in swim movements” [Dev. Biol. 390 (2014) 247–260]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496037766076,
+      "identifier": {
+        "doi": "10.1016/j.ydbio.2014.04.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ydbio.2014.02.025"
+  },
+  "journal": "Developmental Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “prdm12b Specifies the p1 progenitor domain and reveals a role for V1 interneurons in swim movements” [Dev. Biol. 390 (2014) 247–260]"
+}

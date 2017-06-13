@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1371/annotation/0c3019ff-6d7b-444b-8eb5-9461f3dcd029","type":"correction"},"doi":"10.1371/journal.pone.0081258","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Saponin 1 Induces Apoptosis and Suppresses NF-κB-Mediated Survival Signaling in Glioblastoma Multiforme (GBM)"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496011985611,
+      "identifier": {
+        "doi": "10.1371/annotation/0c3019ff-6d7b-444b-8eb5-9461f3dcd029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0081258"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Saponin 1 Induces Apoptosis and Suppresses NF-κB-Mediated Survival Signaling in Glioblastoma Multiforme (GBM)"
+}

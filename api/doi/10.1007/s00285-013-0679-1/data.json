@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461110400000,"doi":"10.1007/s00285-016-1004-6","type":"correction"},"doi":"10.1007/s00285-013-0679-1","journal":"Journal of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Dynamics of stochastic epidemics on heterogeneous networks"}
+{
+  "retracted": false,
+  "timestamp": 1461110400000,
+  "updates": [
+    {
+      "timestamp": 1495667724594,
+      "identifier": {
+        "doi": "10.1007/s00285-016-1004-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00285-013-0679-1"
+  },
+  "journal": "Journal of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamics of stochastic epidemics on heterogeneous networks"
+}

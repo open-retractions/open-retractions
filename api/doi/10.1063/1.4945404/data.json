@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461283200000,"doi":"10.1063/1.4947573","type":"correction"},"doi":"10.1063/1.4945404","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Effect of interfacial excess oxygen on positive-bias temperature stress instability of self-aligned coplanar InGaZnO thin-film transistors” [Appl. Phys. Lett. 108, 141604 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1461283200000,
+  "updates": [
+    {
+      "timestamp": 1495664720100,
+      "identifier": {
+        "doi": "10.1063/1.4947573"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4945404"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Effect of interfacial excess oxygen on positive-bias temperature stress instability of self-aligned coplanar InGaZnO thin-film transistors” [Appl. Phys. Lett. 108, 141604 (2016)]"
+}

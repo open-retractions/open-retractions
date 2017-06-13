@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1294790400000,"doi":"10.1371/annotation/4ec9cbbd-7620-4449-8961-28213e9dadf4","type":"correction"},"doi":"10.1371/journal.pgen.1000927","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Epigenetic Regulation of a Murine Retrotransposon by a Dual Histone Modification Mark"}
+{
+  "retracted": false,
+  "timestamp": 1294790400000,
+  "updates": [
+    {
+      "timestamp": 1495918594934,
+      "identifier": {
+        "doi": "10.1371/annotation/4ec9cbbd-7620-4449-8961-28213e9dadf4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000927"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Epigenetic Regulation of a Murine Retrotransposon by a Dual Histone Modification Mark"
+}

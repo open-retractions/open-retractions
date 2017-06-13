@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.jmaa.2013.06.027","type":"err"},"doi":"10.1006/jmaa.2001.7656","journal":"Journal of Mathematical Analysis and Applications","publisher":"Elsevier BV","title":"Corrigendum to “About non-differentiable functions” [J. Math. Anal. Appl. 263 (2001) 721–737]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496031325674,
+      "identifier": {
+        "doi": "10.1016/j.jmaa.2013.06.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1006/jmaa.2001.7656"
+  },
+  "journal": "Journal of Mathematical Analysis and Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “About non-differentiable functions” [J. Math. Anal. Appl. 263 (2001) 721–737]"
+}

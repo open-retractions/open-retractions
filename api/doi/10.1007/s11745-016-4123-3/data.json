@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456963200000,"doi":"10.1007/s11745-016-4138-9","type":"correction"},"doi":"10.1007/s11745-016-4123-3","journal":"Lipids","publisher":"Springer Nature","title":"Erratum to: Vitamin D and Evening Primrose Oil Administration Improve Glycemia and Lipid Profiles in Women with Gestational Diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1456963200000,
+  "updates": [
+    {
+      "timestamp": 1495650269296,
+      "identifier": {
+        "doi": "10.1007/s11745-016-4138-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11745-016-4123-3"
+  },
+  "journal": "Lipids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Vitamin D and Evening Primrose Oil Administration Improve Glycemia and Lipid Profiles in Women with Gestational Diabetes"
+}

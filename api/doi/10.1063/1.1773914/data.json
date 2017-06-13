@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1107129600000,"doi":"10.1063/1.1856694","type":"erratum"},"doi":"10.1063/1.1773914","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Enhanced photoluminescence of InAs self-assembled quantum dots grown by molecular-beam epitaxy using a “nucleation-augmented” method” [Appl. Phys. Lett. 85, 567 (2004)]"}
+{
+  "retracted": false,
+  "timestamp": 1107129600000,
+  "updates": [
+    {
+      "timestamp": 1495879599031,
+      "identifier": {
+        "doi": "10.1063/1.1856694"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1773914"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Enhanced photoluminescence of InAs self-assembled quantum dots           grown by molecular-beam epitaxy using a “nucleation-augmented” method” [Appl. Phys. Lett. 85, 567           (2004)]"
+}

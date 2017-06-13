@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463184000000,"doi":"10.1007/s11015-016-0279-6","type":"correction"},"doi":"10.1007/s11015-016-0224-8","journal":"Metallurgist","publisher":"Springer Nature","title":"Erratum to: Study of the Resistance of Steels 18KhMFB and 18Kh3MFB to Hot Deformation"}
+{
+  "retracted": false,
+  "timestamp": 1463184000000,
+  "updates": [
+    {
+      "timestamp": 1495676642607,
+      "identifier": {
+        "doi": "10.1007/s11015-016-0279-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11015-016-0224-8"
+  },
+  "journal": "Metallurgist",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Study of the Resistance of Steels 18KhMFB and 18Kh3MFB to Hot Deformation"
+}

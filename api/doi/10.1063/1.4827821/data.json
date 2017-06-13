@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385078400000,"doi":"10.1063/1.4833028","type":"correction"},"doi":"10.1063/1.4827821","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Surface passivation of n-type c-Si wafers by a-Si/SiO2/SiNx stack with <1 cm/s effective surface recombination velocity” [Appl. Phys. Lett. 103, 183903 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1385078400000,
+  "updates": [
+    {
+      "timestamp": 1495999544903,
+      "identifier": {
+        "doi": "10.1063/1.4833028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4827821"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Surface passivation of n-type c-Si wafers by a-Si/SiO2/SiNx stack with <1 cm/s effective surface recombination velocity” [Appl. Phys. Lett. 103, 183903 (2013)]"
+}

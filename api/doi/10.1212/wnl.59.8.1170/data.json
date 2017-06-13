@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1077580800000,"doi":"10.1212/wnl.62.4.678-b","type":"correction"},"doi":"10.1212/wnl.59.8.1170","journal":"Neurology","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Molecular profiles of inflammatory myopathies"}
+{
+  "retracted": false,
+  "timestamp": 1077580800000,
+  "updates": [
+    {
+      "timestamp": 1495895303110,
+      "identifier": {
+        "doi": "10.1212/wnl.62.4.678-b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1212/wnl.59.8.1170"
+  },
+  "journal": "Neurology",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Molecular profiles of inflammatory myopathies"
+}

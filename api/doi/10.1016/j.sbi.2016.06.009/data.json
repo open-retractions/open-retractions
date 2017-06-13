@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.sbi.2016.07.018","type":"err"},"doi":"10.1016/j.sbi.2016.06.009","journal":"Current Opinion in Structural Biology","publisher":"Elsevier BV","title":"Corrigendum to “The intraflagellar transport machinery in ciliary signaling” [Curr Opin Struct Biol 2016, 41:98–108]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495739952431,
+      "identifier": {
+        "doi": "10.1016/j.sbi.2016.07.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sbi.2016.06.009"
+  },
+  "journal": "Current Opinion in Structural Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The intraflagellar transport machinery in ciliary signaling” [Curr Opin Struct Biol 2016, 41:98–108]"
+}

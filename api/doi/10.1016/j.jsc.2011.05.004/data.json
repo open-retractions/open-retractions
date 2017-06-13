@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1504224000000,"doi":"10.1016/j.jsc.2016.12.002","type":"erratum"},"doi":"10.1016/j.jsc.2011.05.004","journal":"Journal of Symbolic Computation","publisher":"Elsevier BV","title":"Corrigendum to “The F5 criterion revised” [J. Symb. Comput. 46 (2) (2011) 1017–1029]"}
+{
+  "retracted": false,
+  "timestamp": 1504224000000,
+  "updates": [
+    {
+      "timestamp": 1495676004137,
+      "identifier": {
+        "doi": "10.1016/j.jsc.2016.12.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsc.2011.05.004"
+  },
+  "journal": "Journal of Symbolic Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The F5 criterion revised” [J. Symb. Comput. 46 (2) (2011) 1017–1029]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.rppnen.2015.03.004","type":"err"},"doi":"10.1016/j.rppnen.2014.09.006","journal":"Revista Portuguesa de Pneumologia (English Edition)","publisher":"Elsevier BV","title":"Erratum to “The future of lung transplantation”"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495997199051,
+      "identifier": {
+        "doi": "10.1016/j.rppnen.2015.03.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rppnen.2014.09.006"
+  },
+  "journal": "Revista Portuguesa de Pneumologia (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The future of lung transplantation”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1186/s12862-015-0500-4","type":"correction"},"doi":"10.1186/s12862-015-0402-5","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: Sail or sink: novel behavioural adaptations on water in aerially dispersing species"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496038889642,
+      "identifier": {
+        "doi": "10.1186/s12862-015-0500-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12862-015-0402-5"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sail or sink: novel behavioural adaptations on water in aerially dispersing species"
+}

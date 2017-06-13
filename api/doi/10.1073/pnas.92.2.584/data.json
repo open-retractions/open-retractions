@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":797558400000,"doi":"10.1073/pnas.92.8.3632c","type":"correction"},"doi":"10.1073/pnas.92.2.584","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Effects of interferon   and major histocompatibility complex-encoded subunits on peptidase activities of human multicatalytic proteases"}
+{
+  "retracted": false,
+  "timestamp": 797558400000,
+  "updates": [
+    {
+      "timestamp": 1495825876073,
+      "identifier": {
+        "doi": "10.1073/pnas.92.8.3632c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.92.2.584"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Effects of interferon   and major histocompatibility complex-encoded subunits on peptidase activities of human multicatalytic proteases"
+}

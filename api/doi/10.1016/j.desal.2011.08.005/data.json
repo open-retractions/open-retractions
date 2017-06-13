@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.desal.2016.09.013","type":"erratum"},"doi":"10.1016/j.desal.2011.08.005","journal":"Desalination","publisher":"Elsevier BV","title":"Retraction notice to “A modeling approach based on the Maxwell-Stefan theory for pervaporation using home made nanopore NaA zeolite membranes” [DES 281C (2011) 298–305]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495642508148,
+      "identifier": {
+        "doi": "10.1016/j.desal.2016.09.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.desal.2011.08.005"
+  },
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “A modeling approach based on the Maxwell-Stefan theory for pervaporation using home made nanopore NaA zeolite membranes” [DES 281C (2011) 298–305]"
+}

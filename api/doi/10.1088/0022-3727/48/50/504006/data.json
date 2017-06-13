@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1088/0022-3727/49/11/119601","type":"correction"},"doi":"10.1088/0022-3727/48/50/504006","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Erratum: Crystal and magnetic structures of CaCu3Fe4O12and LaCu3Fe4O12: distinct charge transitions of unusual high valence Fe (2015J. Phys. D: Appl. Phys.48504006)"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645848141,
+      "identifier": {
+        "doi": "10.1088/0022-3727/49/11/119601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0022-3727/48/50/504006"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Crystal and magnetic structures of CaCu3Fe4O12and LaCu3Fe4O12: distinct charge transitions of unusual high valence Fe (2015J. Phys. D: Appl. Phys.48504006)"
+}

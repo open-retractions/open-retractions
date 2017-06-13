@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388707200000,"doi":"10.1371/annotation/171e70e3-58e6-4d14-a361-1bc3a9692d46","type":"correction"},"doi":"10.1371/journal.pone.0066301","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Cytochrome P450 3A1 Mediates 2,2′,4,4′-Tetrabromodiphenyl Ether-Induced Reduction of Spermatogenesis in Adult Rats"}
+{
+  "retracted": false,
+  "timestamp": 1388707200000,
+  "updates": [
+    {
+      "timestamp": 1496009462015,
+      "identifier": {
+        "doi": "10.1371/annotation/171e70e3-58e6-4d14-a361-1bc3a9692d46"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0066301"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cytochrome P450 3A1 Mediates 2,2′,4,4′-Tetrabromodiphenyl Ether-Induced Reduction of Spermatogenesis in Adult Rats"
+}

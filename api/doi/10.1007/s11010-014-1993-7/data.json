@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399593600000,"doi":"10.1007/s11010-014-2059-6","type":"correction"},"doi":"10.1007/s11010-014-1993-7","journal":"Molecular and Cellular Biochemistry","publisher":"Springer Nature","title":"Erratum to: MicroRNA-492 reverses high glucose-induced insulin resistance in HUVEC cells through targeting resistin"}
+{
+  "retracted": false,
+  "timestamp": 1399593600000,
+  "updates": [
+    {
+      "timestamp": 1496037309603,
+      "identifier": {
+        "doi": "10.1007/s11010-014-2059-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11010-014-1993-7"
+  },
+  "journal": "Molecular and Cellular Biochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: MicroRNA-492 reverses high glucose-induced insulin resistance in HUVEC cells through targeting resistin"
+}

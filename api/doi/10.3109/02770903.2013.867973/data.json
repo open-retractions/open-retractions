@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.3109/02770903.2014.913946","type":"correction"},"doi":"10.3109/02770903.2013.867973","journal":"Journal of Asthma","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496033605457,
+      "identifier": {
+        "doi": "10.3109/02770903.2014.913946"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/02770903.2013.867973"
+  },
+  "journal": "Journal of Asthma",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

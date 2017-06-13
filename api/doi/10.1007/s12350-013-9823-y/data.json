@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392768000000,"doi":"10.1007/s12350-014-9868-6","type":"correction"},"doi":"10.1007/s12350-013-9823-y","journal":"Journal of Nuclear Cardiology","publisher":"Springer Nature","title":"Erratum to: A comparison of coronary CTA and stress testing using high-efficiency SPECT MPI for the evaluation of chest pain in the emergency department"}
+{
+  "retracted": false,
+  "timestamp": 1392768000000,
+  "updates": [
+    {
+      "timestamp": 1496019673136,
+      "identifier": {
+        "doi": "10.1007/s12350-014-9868-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12350-013-9823-y"
+  },
+  "journal": "Journal of Nuclear Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A comparison of coronary CTA and stress testing using high-efficiency SPECT MPI for the evaluation of chest pain in the emergency department"
+}

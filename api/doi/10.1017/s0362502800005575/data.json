@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427328000000,"doi":"10.1017/s0362502800005794","type":"correction"},"doi":"10.1017/s0362502800005575","journal":"Early China","publisher":"Cambridge University Press (CUP)","title":"Errata in Early China 6"}
+{
+  "retracted": false,
+  "timestamp": 1427328000000,
+  "updates": [
+    {
+      "timestamp": 1495733672463,
+      "identifier": {
+        "doi": "10.1017/s0362502800005794"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0362502800005575"
+  },
+  "journal": "Early China",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Errata in Early China 6"
+}

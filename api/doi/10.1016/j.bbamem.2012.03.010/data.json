@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.bbamem.2013.03.001","type":"err"},"doi":"10.1016/j.bbamem.2012.03.010","journal":"Biochimica et Biophysica Acta (BBA) - Biomembranes","publisher":"Elsevier BV","title":"Corrigendum to “Molecular organization of bacterial membranes lipids in mixed systems — A comprehensive monolayer study combined with grazing incidence X-ray diffraction and Brewster angle microscopy experiments” [Biochim. Biophys. Acta 1818 (2012) 1745–1754]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496005155782,
+      "identifier": {
+        "doi": "10.1016/j.bbamem.2013.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamem.2012.03.010"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular organization of bacterial membranes lipids in mixed systems — A comprehensive monolayer study combined with grazing incidence X-ray diffraction and Brewster angle microscopy experiments” [Biochim. Biophys. Acta 1818 (2012) 1745–1754]"
+}

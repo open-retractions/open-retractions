@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405641600000,"doi":"10.1586/17469899.2014.938911","type":"correction"},"doi":"10.1586/17469899.2014.922874","journal":"Expert Review of Ophthalmology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1405641600000,
+  "updates": [
+    {
+      "timestamp": 1496053282844,
+      "identifier": {
+        "doi": "10.1586/17469899.2014.938911"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/17469899.2014.922874"
+  },
+  "journal": "Expert Review of Ophthalmology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

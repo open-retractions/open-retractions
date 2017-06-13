@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1007/s12010-014-0919-x","type":"correction"},"doi":"10.1007/s12010-012-9947-6","journal":"Applied Biochemistry and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Cloning, Expression, and Characterization of a Recombinant Esterase from Cold-Adapted Pseudomonas mandelii"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496032937213,
+      "identifier": {
+        "doi": "10.1007/s12010-014-0919-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12010-012-9947-6"
+  },
+  "journal": "Applied Biochemistry and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cloning, Expression, and Characterization of a Recombinant Esterase from Cold-Adapted Pseudomonas mandelii"
+}

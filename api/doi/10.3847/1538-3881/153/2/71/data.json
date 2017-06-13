@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491696000000,"doi":"10.3847/1538-3881/aa6680","type":"correction"},"doi":"10.3847/1538-3881/153/2/71","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"Erratum: “The Kepler Follow-up Observation Program. I. A Catalog of Companions to Kepler Stars from High-resolution Imaging” (2017, AJ, 153, 71)"}
+{
+  "retracted": false,
+  "timestamp": 1491696000000,
+  "updates": [
+    {
+      "timestamp": 1495738160323,
+      "identifier": {
+        "doi": "10.3847/1538-3881/aa6680"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/1538-3881/153/2/71"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “The Kepler Follow-up Observation Program. I. A Catalog of Companions to Kepler Stars from High-resolution Imaging” (2017, AJ, 153, 71)"
+}

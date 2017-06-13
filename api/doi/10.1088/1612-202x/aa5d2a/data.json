@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488240000000,"doi":"10.1088/1612-202x/aa60d3","type":"correction"},"doi":"10.1088/1612-202x/aa5d2a","journal":"Laser Physics Letters","publisher":"IOP Publishing","title":"Erratum: Estimation of teleported and gained parameters in a non-inertial frame (2017 Laser Phys. Lett. 14 045202)"}
+{
+  "retracted": false,
+  "timestamp": 1488240000000,
+  "updates": [
+    {
+      "timestamp": 1495724005653,
+      "identifier": {
+        "doi": "10.1088/1612-202x/aa60d3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1612-202x/aa5d2a"
+  },
+  "journal": "Laser Physics Letters",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Estimation of teleported and gained parameters in a non-inertial frame (2017 Laser Phys. Lett. 14 045202)"
+}

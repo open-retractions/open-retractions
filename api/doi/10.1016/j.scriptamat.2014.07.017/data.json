@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1016/j.scriptamat.2014.09.006","type":"err"},"doi":"10.1016/j.scriptamat.2014.07.017","journal":"Scripta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Computer simulation of the strong surface effects on deformation behaviors of metallic glass nanowires” [Scripta Mater. 90–91 (2014) 57–60]"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496007192857,
+      "identifier": {
+        "doi": "10.1016/j.scriptamat.2014.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scriptamat.2014.07.017"
+  },
+  "journal": "Scripta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Computer simulation of the strong surface effects on deformation behaviors of metallic glass nanowires” [Scripta Mater. 90–91 (2014) 57–60]"
+}

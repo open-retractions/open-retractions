@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306800000000,"doi":"10.1371/annotation/18c67950-0fcc-4ba8-aa59-5d6a3e060c68","type":"correction"},"doi":"10.1371/journal.pone.0019500","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Viable Hypomorphic Allele of the Essential IMP3 Gene Reveals Novel Protein Functions in Saccharomyces cerevisiae"}
+{
+  "retracted": false,
+  "timestamp": 1306800000000,
+  "updates": [
+    {
+      "timestamp": 1495959997536,
+      "identifier": {
+        "doi": "10.1371/annotation/18c67950-0fcc-4ba8-aa59-5d6a3e060c68"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0019500"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Viable Hypomorphic Allele of the Essential IMP3 Gene Reveals Novel Protein Functions in Saccharomyces cerevisiae"
+}

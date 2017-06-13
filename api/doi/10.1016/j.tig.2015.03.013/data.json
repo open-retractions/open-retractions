@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.tig.2015.07.004","type":"err"},"doi":"10.1016/j.tig.2015.03.013","journal":"Trends in Genetics","publisher":"Elsevier BV","title":"Erratum to: Somatic Mosaicism: Implications for Disease and Transmission Genetics"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496055516461,
+      "identifier": {
+        "doi": "10.1016/j.tig.2015.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tig.2015.03.013"
+  },
+  "journal": "Trends in Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Somatic Mosaicism: Implications for Disease and Transmission Genetics"
+}

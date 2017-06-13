@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484092800000,"doi":"10.1186/s12864-017-3482-3","type":"correction"},"doi":"10.1186/s12864-015-2296-4","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Power estimation and sample size determination for replication studies of genome-wide association studies"}
+{
+  "retracted": false,
+  "timestamp": 1484092800000,
+  "updates": [
+    {
+      "timestamp": 1495674808544,
+      "identifier": {
+        "doi": "10.1186/s12864-017-3482-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-015-2296-4"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Power estimation and sample size determination for replication studies of genome-wide association studies"
+}

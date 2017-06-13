@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":483753600000,"doi":"10.1128/mcb.5.5.1195-b","type":"correction"},"doi":"10.1128/mcb.5.3.510","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Family of Human α-Interferon-Like Sequences:"}
+{
+  "retracted": false,
+  "timestamp": 483753600000,
+  "updates": [
+    {
+      "timestamp": 1496034005722,
+      "identifier": {
+        "doi": "10.1128/mcb.5.5.1195-b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.5.3.510"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Family of Human α-Interferon-Like Sequences:"
+}

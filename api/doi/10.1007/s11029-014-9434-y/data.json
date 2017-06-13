@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1007/s11029-014-9456-5","type":"correction"},"doi":"10.1007/s11029-014-9434-y","journal":"Mechanics of Composite Materials","publisher":"Springer Nature","title":"Erratum to: Behavior of Insulated Carbon-FRP-Strengthened RC Beams Exposed to Fire"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496018981021,
+      "identifier": {
+        "doi": "10.1007/s11029-014-9456-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11029-014-9434-y"
+  },
+  "journal": "Mechanics of Composite Materials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Behavior of Insulated Carbon-FRP-Strengthened RC Beams Exposed to Fire"
+}

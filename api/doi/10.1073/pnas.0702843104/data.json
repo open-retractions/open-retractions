@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1194912000000,"doi":"10.1073/pnas.0802398105","type":"correction"},"doi":"10.1073/pnas.0702843104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for del Mercato et al., Charge transport and intrinsic fluorescence in amyloid-like fibrils"}
+{
+  "retracted": false,
+  "timestamp": 1194912000000,
+  "updates": [
+    {
+      "timestamp": 1495843691326,
+      "identifier": {
+        "doi": "10.1073/pnas.0802398105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0702843104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for del Mercato et al., Charge transport and intrinsic fluorescence in amyloid-like fibrils"
+}

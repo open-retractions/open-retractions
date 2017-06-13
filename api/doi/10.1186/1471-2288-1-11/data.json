@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1039651200000,"doi":"10.1186/1471-2288-2-16","type":"correction"},"doi":"10.1186/1471-2288-1-11","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: Sample size requirements for case-control study designs"}
+{
+  "retracted": false,
+  "timestamp": 1039651200000,
+  "updates": [
+    {
+      "timestamp": 1495942549076,
+      "identifier": {
+        "doi": "10.1186/1471-2288-2-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2288-1-11"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sample size requirements for case-control study designs"
+}

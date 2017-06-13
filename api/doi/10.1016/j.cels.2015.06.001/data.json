@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458691200000,"doi":"10.1016/j.cels.2016.03.007","type":"erratum"},"doi":"10.1016/j.cels.2015.06.001","journal":"Cell Systems","publisher":"Elsevier BV","title":"Programming a Human Commensal Bacterium, Bacteroides thetaiotaomicron , to Sense and Respond to Stimuli in the Murine Gut Microbiota"}
+{
+  "retracted": false,
+  "timestamp": 1458691200000,
+  "updates": [
+    {
+      "timestamp": 1495657685633,
+      "identifier": {
+        "doi": "10.1016/j.cels.2016.03.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cels.2015.06.001"
+  },
+  "journal": "Cell Systems",
+  "publisher": "Elsevier BV",
+  "title": "Programming a Human Commensal Bacterium,  Bacteroides thetaiotaomicron , to Sense and Respond to Stimuli in the Murine Gut Microbiota"
+}

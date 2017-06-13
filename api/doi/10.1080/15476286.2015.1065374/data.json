@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471392000000,"doi":"10.1080/15476286.2016.1220111","type":"correction"},"doi":"10.1080/15476286.2015.1065374","journal":"RNA Biology","publisher":"Informa UK Limited","title":"Publisher's note"}
+{
+  "retracted": false,
+  "timestamp": 1471392000000,
+  "updates": [
+    {
+      "timestamp": 1495738889003,
+      "identifier": {
+        "doi": "10.1080/15476286.2016.1220111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15476286.2015.1065374"
+  },
+  "journal": "RNA Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Publisher's note"
+}

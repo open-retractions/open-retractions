@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414108800000,"doi":"10.3758/s13414-014-0781-5","type":"correction"},"doi":"10.3758/s13414-014-0761-9","journal":"Attention, Perception, & Psychophysics","publisher":"Springer Nature","title":"Erratum to: Target grouping in visual search for multiple digits"}
+{
+  "retracted": false,
+  "timestamp": 1414108800000,
+  "updates": [
+    {
+      "timestamp": 1496016154961,
+      "identifier": {
+        "doi": "10.3758/s13414-014-0781-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/s13414-014-0761-9"
+  },
+  "journal": "Attention, Perception, & Psychophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Target grouping in visual search for multiple digits"
+}

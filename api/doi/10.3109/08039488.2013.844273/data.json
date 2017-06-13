@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466035200000,"doi":"10.1080/08039488.2016.1199504","type":"correction"},"doi":"10.3109/08039488.2013.844273","journal":"Nordic Journal of Psychiatry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1466035200000,
+  "updates": [
+    {
+      "timestamp": 1495721051737,
+      "identifier": {
+        "doi": "10.1080/08039488.2016.1199504"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/08039488.2013.844273"
+  },
+  "journal": "Nordic Journal of Psychiatry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1007/s00262-016-1903-9","type":"correction"},"doi":"10.1007/s00262-016-1885-7","journal":"Cancer Immunology, Immunotherapy","publisher":"Springer Nature","title":"Erratum to: NK cell-mediated antibody-dependent cellular cytotoxicity is enhanced by tamoxifen in HER2/neu non-amplified, but not HER2/neu-amplified, breast cancer cells"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495644772314,
+      "identifier": {
+        "doi": "10.1007/s00262-016-1903-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00262-016-1885-7"
+  },
+  "journal": "Cancer Immunology, Immunotherapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: NK cell-mediated antibody-dependent cellular cytotoxicity is enhanced by tamoxifen in HER2/neu non-amplified, but not HER2/neu-amplified, breast cancer cells"
+}

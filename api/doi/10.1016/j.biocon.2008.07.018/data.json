@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.biocon.2014.08.015","type":"err"},"doi":"10.1016/j.biocon.2008.07.018","journal":"Biological Conservation","publisher":"Elsevier BV","title":"Corrigendum to “Population genetic structure in polar bears (Ursus maritimus) from Hudson Bay, Canada: Implications of future climate change” [Biol. Conserv. 141(10) (2008) 2528–2539]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495994150572,
+      "identifier": {
+        "doi": "10.1016/j.biocon.2014.08.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocon.2008.07.018"
+  },
+  "journal": "Biological Conservation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Population genetic structure in polar bears (Ursus maritimus) from Hudson Bay, Canada: Implications of future climate change” [Biol. Conserv. 141(10) (2008) 2528–2539]"
+}

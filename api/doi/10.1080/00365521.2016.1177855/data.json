@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473120000000,"doi":"10.1080/00365521.2016.1229408","type":"correction"},"doi":"10.1080/00365521.2016.1177855","journal":"Scandinavian Journal of Gastroenterology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1473120000000,
+  "updates": [
+    {
+      "timestamp": 1495637841719,
+      "identifier": {
+        "doi": "10.1080/00365521.2016.1229408"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00365521.2016.1177855"
+  },
+  "journal": "Scandinavian Journal of Gastroenterology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

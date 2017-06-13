@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456185600000,"doi":"10.1186/s12916-016-0585-7","type":"correction"},"doi":"10.1186/s12916-016-0565-y","journal":"BMC Medicine","publisher":"Springer Nature","title":"Erratum to: Limited role of culture conversion for decision-making in individual patient care and for advancing novel regimens to confirmatory clinical trials"}
+{
+  "retracted": false,
+  "timestamp": 1456185600000,
+  "updates": [
+    {
+      "timestamp": 1495647046628,
+      "identifier": {
+        "doi": "10.1186/s12916-016-0585-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12916-016-0565-y"
+  },
+  "journal": "BMC Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Limited role of culture conversion for decision-making in individual patient care and for advancing novel regimens to confirmatory clinical trials"
+}

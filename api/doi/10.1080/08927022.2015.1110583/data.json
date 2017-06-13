@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479254400000,"doi":"10.1080/08927022.2016.1213050","type":"correction"},"doi":"10.1080/08927022.2015.1110583","journal":"Molecular Simulation","publisher":"Informa UK Limited","title":"Accelerating the weighted histogram analysis method by direct inversion in the iterative subspace"}
+{
+  "retracted": false,
+  "timestamp": 1479254400000,
+  "updates": [
+    {
+      "timestamp": 1495654806078,
+      "identifier": {
+        "doi": "10.1080/08927022.2016.1213050"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08927022.2015.1110583"
+  },
+  "journal": "Molecular Simulation",
+  "publisher": "Informa UK Limited",
+  "title": "Accelerating the weighted histogram analysis method by direct inversion in the iterative subspace"
+}

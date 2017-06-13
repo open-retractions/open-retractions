@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484265600000,"doi":"10.1017/jbr.2016.122","type":"correction"},"doi":"10.1017/jbr.2016.44","journal":"Journal of British Studies","publisher":"Cambridge University Press (CUP)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1484265600000,
+  "updates": [
+    {
+      "timestamp": 1495675866193,
+      "identifier": {
+        "doi": "10.1017/jbr.2016.122"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/jbr.2016.44"
+  },
+  "journal": "Journal of British Studies",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Erratum"
+}

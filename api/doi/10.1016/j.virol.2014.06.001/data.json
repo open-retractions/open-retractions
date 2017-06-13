@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.virol.2014.07.045","type":"err"},"doi":"10.1016/j.virol.2014.06.001","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Each of the eight simian hemorrhagic fever virus minor structural proteins is functionally important” [Virology 462–463 (2014) 351–362]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1495999351159,
+      "identifier": {
+        "doi": "10.1016/j.virol.2014.07.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2014.06.001"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Each of the eight simian hemorrhagic fever virus minor structural proteins is functionally important” [Virology 462–463 (2014) 351–362]"
+}

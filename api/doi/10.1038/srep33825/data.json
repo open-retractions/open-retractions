@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476403200000,"doi":"10.1038/srep35509","type":"correction"},"doi":"10.1038/srep33825","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: A miRNA-based signature predicts development of disease recurrence in HER2 positive breast cancer after adjuvant trastuzumab-based treatment"}
+{
+  "retracted": false,
+  "timestamp": 1476403200000,
+  "updates": [
+    {
+      "timestamp": 1495648734433,
+      "identifier": {
+        "doi": "10.1038/srep35509"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep33825"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: A miRNA-based signature predicts development of disease recurrence in HER2 positive breast cancer after adjuvant trastuzumab-based treatment"
+}

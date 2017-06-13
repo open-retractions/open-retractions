@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.energy.2016.07.104","type":"erratum"},"doi":"10.1016/j.energy.2015.05.019","journal":"Energy","publisher":"Elsevier BV","title":"Corrigendum to “Exploring the potential of petrographics in understanding coal pyrolysis” [Energy 87 (2015) 555–565]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495639530766,
+      "identifier": {
+        "doi": "10.1016/j.energy.2016.07.104"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.energy.2015.05.019"
+  },
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploring the potential of petrographics in understanding coal pyrolysis” [Energy 87 (2015) 555–565]"
+}

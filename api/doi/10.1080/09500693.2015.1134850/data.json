@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457308800000,"doi":"10.1080/09500693.2016.1159011","type":"correction"},"doi":"10.1080/09500693.2015.1134850","journal":"International Journal of Science Education","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1457308800000,
+  "updates": [
+    {
+      "timestamp": 1495651917929,
+      "identifier": {
+        "doi": "10.1080/09500693.2016.1159011"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09500693.2015.1134850"
+  },
+  "journal": "International Journal of Science Education",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

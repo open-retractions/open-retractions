@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404950400000,"doi":"10.1016/j.canlet.2014.02.021","type":"err"},"doi":"10.1016/j.canlet.2013.11.010","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “Development and characterization of a colon PDX model that reproduces drug responsiveness and the mutation profiles of its original tumor” [Cancer Lett. 345 (1) (2014) 56–64]"}
+{
+  "retracted": false,
+  "timestamp": 1404950400000,
+  "updates": [
+    {
+      "timestamp": 1496025104161,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2014.02.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2013.11.010"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development and characterization of a colon PDX model that reproduces drug responsiveness and the mutation profiles of its original tumor” [Cancer Lett. 345 (1) (2014) 56–64]"
+}

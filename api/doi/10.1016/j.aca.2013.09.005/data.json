@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392595200000,"doi":"10.1016/j.aca.2014.01.001","type":"err"},"doi":"10.1016/j.aca.2013.09.005","journal":"Analytica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Matrix enhancement effect: A blessing or a curse for gas chromatography? – A review’ [Anal. Chim. Acta 801 (2013) 14–21]"}
+{
+  "retracted": false,
+  "timestamp": 1392595200000,
+  "updates": [
+    {
+      "timestamp": 1496013117050,
+      "identifier": {
+        "doi": "10.1016/j.aca.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aca.2013.09.005"
+  },
+  "journal": "Analytica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Matrix enhancement effect: A blessing or a curse for gas chromatography? – A review’ [Anal. Chim. Acta 801 (2013) 14–21]"
+}

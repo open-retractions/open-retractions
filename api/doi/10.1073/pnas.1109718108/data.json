@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311033600000,"doi":"10.1073/pnas.1301683110","type":"correction"},"doi":"10.1073/pnas.1109718108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Li et al., D2 receptor overexpression in the striatum leads to a deficit in inhibitory transmission and dopamine sensitivity in mouse prefrontal cortex"}
+{
+  "retracted": false,
+  "timestamp": 1311033600000,
+  "updates": [
+    {
+      "timestamp": 1495995523760,
+      "identifier": {
+        "doi": "10.1073/pnas.1301683110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1109718108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Li et al., D2 receptor overexpression in the striatum leads to a deficit in inhibitory transmission and dopamine sensitivity in mouse prefrontal cortex"
+}

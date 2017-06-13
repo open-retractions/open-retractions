@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.sigpro.2013.06.022","type":"err"},"doi":"10.1016/j.sigpro.2011.09.035","journal":"Signal Processing","publisher":"Elsevier BV","title":"Corrigendum to “ISI sparse channel estimation based on SL0 and its application in ML sequence-by-sequence equalization” [Signal Processing 92 (2012) 1875–1885]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496030471275,
+      "identifier": {
+        "doi": "10.1016/j.sigpro.2013.06.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sigpro.2011.09.035"
+  },
+  "journal": "Signal Processing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ISI sparse channel estimation based on SL0 and its application in ML sequence-by-sequence equalization” [Signal Processing 92 (2012) 1875–1885]"
+}

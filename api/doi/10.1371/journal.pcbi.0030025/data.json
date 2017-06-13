@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1175212800000,"doi":"10.1371/journal.pcbi.0030070","type":"correction"},"doi":"10.1371/journal.pcbi.0030025","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Specificity and Evolvability in Eukaryotic Protein Interaction Networks"}
+{
+  "retracted": false,
+  "timestamp": 1175212800000,
+  "updates": [
+    {
+      "timestamp": 1495943219431,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0030070"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0030025"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Specificity and Evolvability in Eukaryotic Protein Interaction Networks"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1080/1350178x.2015.1083142","type":"correction"},"doi":"10.1080/1350178x.2015.1024880","journal":"Journal of Economic Methodology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496038249292,
+      "identifier": {
+        "doi": "10.1080/1350178x.2015.1083142"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1350178x.2015.1024880"
+  },
+  "journal": "Journal of Economic Methodology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

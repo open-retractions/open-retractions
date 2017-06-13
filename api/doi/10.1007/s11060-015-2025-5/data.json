@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457395200000,"doi":"10.1007/s11060-016-2100-6","type":"correction"},"doi":"10.1007/s11060-015-2025-5","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: The optimal regimen of bevacizumab for recurrent glioblastoma: does dose matter?"}
+{
+  "retracted": false,
+  "timestamp": 1457395200000,
+  "updates": [
+    {
+      "timestamp": 1495652256266,
+      "identifier": {
+        "doi": "10.1007/s11060-016-2100-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-015-2025-5"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The optimal regimen of bevacizumab for recurrent glioblastoma: does dose matter?"
+}

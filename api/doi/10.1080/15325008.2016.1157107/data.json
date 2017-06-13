@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472774400000,"doi":"10.1080/15325008.2016.1220040","type":"correction"},"doi":"10.1080/15325008.2016.1157107","journal":"Electric Power Components and Systems","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1472774400000,
+  "updates": [
+    {
+      "timestamp": 1495742144325,
+      "identifier": {
+        "doi": "10.1080/15325008.2016.1220040"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15325008.2016.1157107"
+  },
+  "journal": "Electric Power Components and Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

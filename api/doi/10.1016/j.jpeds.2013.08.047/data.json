@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jpeds.2015.01.022","type":"erratum"},"doi":"10.1016/j.jpeds.2013.08.047","journal":"The Journal of Pediatrics","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496052972322,
+      "identifier": {
+        "doi": "10.1016/j.jpeds.2015.01.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpeds.2013.08.047"
+  },
+  "journal": "The Journal of Pediatrics",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

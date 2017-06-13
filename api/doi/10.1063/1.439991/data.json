@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":354931200000,"doi":"10.1063/1.441772","type":"erratum"},"doi":"10.1063/1.439991","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: N2–N2 repulsive interactions obtained through a combining rule [J. Chem. Phys. 73, 5731 (1980)]"}
+{
+  "retracted": false,
+  "timestamp": 354931200000,
+  "updates": [
+    {
+      "timestamp": 1495896814447,
+      "identifier": {
+        "doi": "10.1063/1.441772"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.439991"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: N2–N2 repulsive interactions obtained through a combining rule [J. Chem. Phys. 73, 5731 (1980)]"
+}

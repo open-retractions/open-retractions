@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.foodcont.2014.04.032","type":"err"},"doi":"10.1016/j.foodcont.2014.03.001","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Differentiation of meat and bone meal from fishmeal by near infrared spectroscopy: Extension of scope to defatted samples” [Food Control 43C (2014) 155–162]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496038057247,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2014.04.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2014.03.001"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Differentiation of meat and bone meal from fishmeal by near infrared spectroscopy: Extension of scope to defatted samples” [Food Control 43C (2014) 155–162]"
+}

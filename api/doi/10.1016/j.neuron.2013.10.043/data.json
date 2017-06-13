@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397606400000,"doi":"10.1016/j.neuron.2014.04.012","type":"err"},"doi":"10.1016/j.neuron.2013.10.043","journal":"Neuron","publisher":"Elsevier BV","title":"Retinal Representation of the Elementary Visual Signal"}
+{
+  "retracted": false,
+  "timestamp": 1397606400000,
+  "updates": [
+    {
+      "timestamp": 1496033619224,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.10.043"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Retinal Representation of the Elementary Visual Signal"
+}

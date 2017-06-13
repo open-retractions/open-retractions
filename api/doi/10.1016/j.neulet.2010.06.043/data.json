@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421020800000,"doi":"10.1016/j.neulet.2014.11.022","type":"err"},"doi":"10.1016/j.neulet.2010.06.043","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Pinoresinol from the fruits of Forsythia koreana inhibits inflammatory responses in LPS-activated microglia” [Neuroscience Letters 480 (2010) 215–220]"}
+{
+  "retracted": false,
+  "timestamp": 1421020800000,
+  "updates": [
+    {
+      "timestamp": 1496023837542,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2014.11.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2010.06.043"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Pinoresinol from the fruits of Forsythia koreana inhibits inflammatory responses in LPS-activated microglia” [Neuroscience Letters 480 (2010) 215–220]"
+}

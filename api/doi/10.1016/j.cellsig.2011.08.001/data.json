@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.cellsig.2013.03.005","type":"err"},"doi":"10.1016/j.cellsig.2011.08.001","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to: “MMP-9 silencing regulates hTERT expression via β1 integrin-mediated FAK signaling and induces senescence in glioma xenograft cells” [Cell. Signal. 23 (2011) 2065–2075]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496006460680,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2013.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2011.08.001"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “MMP-9 silencing regulates hTERT expression via β1 integrin-mediated FAK signaling and induces senescence in glioma xenograft cells” [Cell. Signal. 23 (2011) 2065–2075]"
+}

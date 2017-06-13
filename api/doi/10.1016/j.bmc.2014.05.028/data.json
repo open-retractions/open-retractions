@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.bmc.2014.06.026","type":"err"},"doi":"10.1016/j.bmc.2014.05.028","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “4-Quinolone-3-carboxylic acids as cell-permeable inhibitors of protein tyrosine phosphatase 1B” [Bioorg. Med. Chem. 22 (2014) 3670–3683]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496049035627,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2014.06.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2014.05.028"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “4-Quinolone-3-carboxylic acids as cell-permeable inhibitors of protein tyrosine phosphatase 1B” [Bioorg. Med. Chem. 22 (2014) 3670–3683]"
+}

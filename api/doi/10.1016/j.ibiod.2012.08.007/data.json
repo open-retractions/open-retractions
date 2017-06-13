@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.ibiod.2014.01.013","type":"err"},"doi":"10.1016/j.ibiod.2012.08.007","journal":"International Biodeterioration & Biodegradation","publisher":"Elsevier BV","title":"Corrigendum to “The influence of modified polyhexamethylene guanidine PHMG on the biodegradation of polylactide” [Int. Biodeterior. Biodegrad. 84 (October 2013) 97–103]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496016005214,
+      "identifier": {
+        "doi": "10.1016/j.ibiod.2014.01.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ibiod.2012.08.007"
+  },
+  "journal": "International Biodeterioration & Biodegradation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The influence of modified polyhexamethylene guanidine PHMG on the biodegradation of polylactide” [Int. Biodeterior. Biodegrad. 84 (October 2013) 97–103]"
+}

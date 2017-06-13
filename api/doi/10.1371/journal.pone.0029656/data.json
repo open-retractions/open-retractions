@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1371/annotation/808bf191-73bc-4b7f-a0c3-7bbf18833a21","type":"correction"},"doi":"10.1371/journal.pone.0029656","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Institutionalizing Provider-Initiated HIV Testing and Counselling for Children: An Observational Case Study from Zambia"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495906951570,
+      "identifier": {
+        "doi": "10.1371/annotation/808bf191-73bc-4b7f-a0c3-7bbf18833a21"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029656"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Institutionalizing Provider-Initiated HIV Testing and Counselling for Children: An Observational Case Study from Zambia"
+}

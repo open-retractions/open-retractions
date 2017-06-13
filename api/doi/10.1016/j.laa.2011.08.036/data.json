@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.laa.2016.05.016","type":"erratum"},"doi":"10.1016/j.laa.2011.08.036","journal":"Linear Algebra and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Completely bounded norms of right module maps” [Linear Algebra Appl. 436 (5) (2012) 1406–1424]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495715556760,
+      "identifier": {
+        "doi": "10.1016/j.laa.2016.05.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.laa.2011.08.036"
+  },
+  "journal": "Linear Algebra and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Completely bounded norms of right module maps” [Linear Algebra Appl. 436 (5) (2012) 1406–1424]"
+}

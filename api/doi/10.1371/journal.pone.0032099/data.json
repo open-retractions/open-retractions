@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337299200000,"doi":"10.1371/annotation/a1d856e3-285c-4728-b817-c030fb5ec20b","type":"correction"},"doi":"10.1371/journal.pone.0032099","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Interaction between M-Like Protein and Macrophage Thioredoxin Facilitates Antiphagocytosis for Streptococcus equi ssp. zooepidemicus"}
+{
+  "retracted": false,
+  "timestamp": 1337299200000,
+  "updates": [
+    {
+      "timestamp": 1495910689694,
+      "identifier": {
+        "doi": "10.1371/annotation/a1d856e3-285c-4728-b817-c030fb5ec20b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032099"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Interaction between M-Like Protein and Macrophage Thioredoxin Facilitates Antiphagocytosis for Streptococcus equi ssp. zooepidemicus"
+}

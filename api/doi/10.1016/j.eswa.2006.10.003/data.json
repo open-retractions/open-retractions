@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387065600000,"doi":"10.1016/j.eswa.2013.07.042","type":"err"},"doi":"10.1016/j.eswa.2006.10.003","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Corrigendum to “Predicting service request in support centers based on nonlinear dynamics, ARMA modeling and neural networks” [Expert Systems with Applications 34/1 (2008) 665–672]"}
+{
+  "retracted": false,
+  "timestamp": 1387065600000,
+  "updates": [
+    {
+      "timestamp": 1496034776296,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2013.07.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2006.10.003"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Predicting service request in support centers based on nonlinear dynamics, ARMA modeling and neural networks” [Expert Systems with Applications 34/1 (2008) 665–672]"
+}

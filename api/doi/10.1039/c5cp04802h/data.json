@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1039/c6cp90030e","type":"correction"},"doi":"10.1039/c5cp04802h","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Effects of Ga–Te interface layer on the potential barrier height of CdTe/GaAs heterointerface"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640260751,
+      "identifier": {
+        "doi": "10.1039/c6cp90030e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cp04802h"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Effects of Ga–Te interface layer on the potential barrier height of CdTe/GaAs heterointerface"
+}

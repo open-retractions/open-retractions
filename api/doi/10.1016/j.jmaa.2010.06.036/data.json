@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jmaa.2014.09.079","type":"err"},"doi":"10.1016/j.jmaa.2010.06.036","journal":"Journal of Mathematical Analysis and Applications","publisher":"Elsevier BV","title":"Corrigendum to “The envelope theorem for multiobjective convex programming via contingent derivatives” [J. Math. Anal. Appl. 372 (1) (2010) 197–207]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496014118685,
+      "identifier": {
+        "doi": "10.1016/j.jmaa.2014.09.079"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmaa.2010.06.036"
+  },
+  "journal": "Journal of Mathematical Analysis and Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The envelope theorem for multiobjective convex programming via contingent derivatives” [J. Math. Anal. Appl. 372 (1) (2010) 197–207]"
+}

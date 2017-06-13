@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1189814400000,"doi":"10.1107/s1600536807041785","type":"correction"},"doi":"10.1107/s1600536807034733","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"(3S)-4-Phenyl-3-(phenylaminooxy)butan-2-one. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1189814400000,
+  "updates": [
+    {
+      "timestamp": 1495984440993,
+      "identifier": {
+        "doi": "10.1107/s1600536807041785"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536807034733"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "(3S)-4-Phenyl-3-(phenylaminooxy)butan-2-one. Corrigendum"
+}

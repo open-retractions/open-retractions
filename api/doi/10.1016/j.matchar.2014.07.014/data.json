@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.matchar.2015.07.008","type":"err"},"doi":"10.1016/j.matchar.2014.07.014","journal":"Materials Characterization","publisher":"Elsevier BV","title":"Corrigendum to: “Dual-phase glassy/nanoscale icosahedral phase materials in Cu–Zr–Ti–Pd system alloys”[Mater. Charact. 96 (2014) pp. 06–12]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496015823293,
+      "identifier": {
+        "doi": "10.1016/j.matchar.2015.07.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matchar.2014.07.014"
+  },
+  "journal": "Materials Characterization",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Dual-phase glassy/nanoscale icosahedral phase materials in Cu–Zr–Ti–Pd system alloys”[Mater. Charact. 96 (2014) pp. 06–12]"
+}

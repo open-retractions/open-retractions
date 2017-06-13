@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484956800000,"doi":"10.1007/s10955-017-1715-0","type":"correction"},"doi":"10.1007/s10955-009-9813-2","journal":"Journal of Statistical Physics","publisher":"Springer Nature","title":"Erratum to: The Tracy–Widom Law for Some Sparse Random Matrices"}
+{
+  "retracted": false,
+  "timestamp": 1484956800000,
+  "updates": [
+    {
+      "timestamp": 1495677782895,
+      "identifier": {
+        "doi": "10.1007/s10955-017-1715-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10955-009-9813-2"
+  },
+  "journal": "Journal of Statistical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Tracy–Widom Law for Some Sparse Random Matrices"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404518400000,"doi":"10.1016/j.colsurfa.2014.04.017","type":"err"},"doi":"10.1016/j.colsurfa.2013.12.009","journal":"Colloids and Surfaces A: Physicochemical and Engineering Aspects","publisher":"Elsevier BV","title":"Corrigendum to “Water transverse relaxation rates in aqueous dispersions of superparamagnetic iron oxide nanoclusters with diverse hydrophilic coating” [Colloids Surf. A: Physicochem. Eng. Asp. 443 (2014) 450–458]"}
+{
+  "retracted": false,
+  "timestamp": 1404518400000,
+  "updates": [
+    {
+      "timestamp": 1496035555742,
+      "identifier": {
+        "doi": "10.1016/j.colsurfa.2014.04.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.colsurfa.2013.12.009"
+  },
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Water transverse relaxation rates in aqueous dispersions of superparamagnetic iron oxide nanoclusters with diverse hydrophilic coating” [Colloids Surf. A: Physicochem. Eng. Asp. 443 (2014) 450–458]"
+}

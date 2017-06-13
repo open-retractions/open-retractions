@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.atherosclerosis.2016.05.010","type":"erratum"},"doi":"10.1016/j.atherosclerosis.2007.05.003","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Molecular diagnosis of hypobetalipoproteinemia: An ENID review” [Atherosclerosis 195 (2) (2007) 19–27]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495676373311,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2016.05.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2007.05.003"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular diagnosis of hypobetalipoproteinemia: An ENID review” [Atherosclerosis 195 (2) (2007) 19–27]"
+}

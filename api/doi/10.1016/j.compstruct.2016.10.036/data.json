@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1498867200000,"doi":"10.1016/j.compstruct.2017.03.006","type":"erratum"},"doi":"10.1016/j.compstruct.2016.10.036","journal":"Composite Structures","publisher":"Elsevier BV","title":"Erratum to ‘‘Damage modeling for carbon fiber/epoxy filament wound composite tubes under radial compression” [Compos Struct 160 (2017) 204–210]"}
+{
+  "retracted": false,
+  "timestamp": 1498867200000,
+  "updates": [
+    {
+      "timestamp": 1495729386524,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2017.03.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2016.10.036"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘‘Damage modeling for carbon fiber/epoxy filament wound composite tubes under radial compression” [Compos Struct 160 (2017) 204–210]"
+}

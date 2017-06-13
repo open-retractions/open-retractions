@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.jnt.2016.11.002","type":"erratum"},"doi":"10.1016/j.jnt.2015.06.012","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “Expansions of generalized Euler's constants into the series of polynomials in π−2 and into the formal enveloping series with rational coefficients only” [J. Number Theory 158 (2016) 365–396]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495665836143,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2016.11.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2015.06.012"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Expansions of generalized Euler's constants into the series of polynomials in π−2 and into the formal enveloping series with rational coefficients only” [J. Number Theory 158 (2016) 365–396]"
+}

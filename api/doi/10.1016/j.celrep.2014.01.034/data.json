@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471305600000,"doi":"10.1016/j.celrep.2016.07.072","type":"erratum"},"doi":"10.1016/j.celrep.2014.01.034","journal":"Cell Reports","publisher":"Elsevier BV","title":"RTEL1 Inhibits Trinucleotide Repeat Expansions and Fragility"}
+{
+  "retracted": false,
+  "timestamp": 1471305600000,
+  "updates": [
+    {
+      "timestamp": 1495736175448,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.07.072"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.01.034"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "RTEL1 Inhibits Trinucleotide Repeat Expansions and Fragility"
+}

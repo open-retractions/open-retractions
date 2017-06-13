@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.apergo.2016.03.012","type":"err"},"doi":"10.1016/j.apergo.2016.01.008","journal":"Applied Ergonomics","publisher":"Elsevier BV","title":"Corrigendum to “Working postures and physical activity among registered nurses” [Appl. Ergon. 54 (2016), 243–250]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495662608385,
+      "identifier": {
+        "doi": "10.1016/j.apergo.2016.03.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apergo.2016.01.008"
+  },
+  "journal": "Applied Ergonomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Working postures and physical activity among registered nurses” [Appl. Ergon. 54 (2016), 243–250]"
+}

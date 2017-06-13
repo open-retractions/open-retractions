@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1227139200000,"doi":"10.1057/bp.2008.28","type":"correction"},"doi":"10.1057/bp.2008.16","journal":"British Politics","publisher":"Springer Nature","title":"Erratum: The Politics of Anti-Social Behaviour"}
+{
+  "retracted": false,
+  "timestamp": 1227139200000,
+  "updates": [
+    {
+      "timestamp": 1495893847246,
+      "identifier": {
+        "doi": "10.1057/bp.2008.28"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/bp.2008.16"
+  },
+  "journal": "British Politics",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The Politics of Anti-Social Behaviour"
+}

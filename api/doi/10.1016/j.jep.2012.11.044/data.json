@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369008000000,"doi":"10.1016/j.jep.2013.03.021","type":"err"},"doi":"10.1016/j.jep.2012.11.044","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Indigo naturalis upregulates claudin-1 expression in human keratinocytes and psoriatic lesions”"}
+{
+  "retracted": false,
+  "timestamp": 1369008000000,
+  "updates": [
+    {
+      "timestamp": 1496006853884,
+      "identifier": {
+        "doi": "10.1016/j.jep.2013.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2012.11.044"
+  },
+  "journal": "Journal of Ethnopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Indigo naturalis upregulates claudin-1 expression in human keratinocytes and psoriatic lesions”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.asr.2015.10.013","type":"erratum"},"doi":"10.1016/j.asr.2015.04.005","journal":"Advances in Space Research","publisher":"Elsevier BV","title":"Corrigendum to “Dynamics of a flexible tethered satellite system utilising various materials for coplanar and non-coplanar models” [Adv. Space Res. 56 (2015) 648–663]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496040227635,
+      "identifier": {
+        "doi": "10.1016/j.asr.2015.10.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asr.2015.04.005"
+  },
+  "journal": "Advances in Space Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamics of a flexible tethered satellite system utilising various materials for coplanar and non-coplanar models” [Adv. Space Res. 56 (2015) 648–663]"
+}

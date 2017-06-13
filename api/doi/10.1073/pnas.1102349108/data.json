@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1323129600000,"doi":"10.1073/pnas.1119280109","type":"correction"},"doi":"10.1073/pnas.1102349108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kiyota et al., FGF2 gene transfer restores hippocampal functions in mouse models of Alzheimer's disease and has therapeutic implications for neurocognitive disorders"}
+{
+  "retracted": false,
+  "timestamp": 1323129600000,
+  "updates": [
+    {
+      "timestamp": 1495846824565,
+      "identifier": {
+        "doi": "10.1073/pnas.1119280109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1102349108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kiyota et al., FGF2 gene transfer restores hippocampal functions in mouse models of Alzheimer's disease and has therapeutic implications for neurocognitive disorders"
+}

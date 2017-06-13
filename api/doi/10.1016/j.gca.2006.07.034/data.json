@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1492214400000,"doi":"10.1016/j.gca.2017.01.039","type":"erratum"},"doi":"10.1016/j.gca.2006.07.034","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Dissociation constants and speciation in aqueous Li 2 SO 4 and K 2 SO 4 from measurements of electrical conductance to 673 K and 29 MPa” [Geochim. Cosmochim. Acta 70 (2006) 5169–5182]"}
+{
+  "retracted": false,
+  "timestamp": 1492214400000,
+  "updates": [
+    {
+      "timestamp": 1495723742505,
+      "identifier": {
+        "doi": "10.1016/j.gca.2017.01.039"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2006.07.034"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dissociation constants and speciation in aqueous Li 2 SO 4  and K 2 SO 4  from measurements of electrical conductance to 673  K and 29  MPa” [Geochim. Cosmochim. Acta 70 (2006) 5169–5182]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.scijus.2015.04.005","type":"err"},"doi":"10.1016/j.scijus.2014.04.006","journal":"Science & Justice","publisher":"Elsevier BV","title":"Retraction notice to A model study into the effects of light and temperature on the degradation of fingerprint constituents [Science and Justice, 54 (2014) 346 - 350]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495996457059,
+      "identifier": {
+        "doi": "10.1016/j.scijus.2015.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scijus.2014.04.006"
+  },
+  "journal": "Science & Justice",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to A model study into the effects of light and temperature on the degradation of fingerprint constituents [Science and Justice, 54 (2014) 346 - 350]"
+}

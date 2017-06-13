@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394668800000,"doi":"10.1007/s10654-014-9879-2","type":"correction"},"doi":"10.1007/s10654-013-9861-4","journal":"European Journal of Epidemiology","publisher":"Springer Nature","title":"Erratum to: The researcher and the consultant: a dialogue on null hypothesis significance testing"}
+{
+  "retracted": false,
+  "timestamp": 1394668800000,
+  "updates": [
+    {
+      "timestamp": 1496025117453,
+      "identifier": {
+        "doi": "10.1007/s10654-014-9879-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10654-013-9861-4"
+  },
+  "journal": "European Journal of Epidemiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The researcher and the consultant: a dialogue on null hypothesis significance testing"
+}

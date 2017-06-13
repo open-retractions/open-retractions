@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.ecolind.2014.01.032","type":"err"},"doi":"10.1016/j.ecolind.2013.12.010","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Erratum to “Evaluating the efficiency of environmental monitoring programs” [Ecol. Indic. 39 (2014) 94–101]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496020054110,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2014.01.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2013.12.010"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Evaluating the efficiency of environmental monitoring programs” [Ecol. Indic. 39 (2014) 94–101]"
+}

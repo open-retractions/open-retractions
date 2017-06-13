@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389571200000,"doi":"10.1371/annotation/a733d1cb-96c1-4125-8060-f3d9143e964b","type":"correction"},"doi":"10.1371/journal.pone.0084376","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Method to Couple Electrophysiological Measurements and Fluorescence Imaging of Suspended Lipid Membranes: The Example of T5 Bacteriophage DNA Ejection"}
+{
+  "retracted": false,
+  "timestamp": 1389571200000,
+  "updates": [
+    {
+      "timestamp": 1496012507143,
+      "identifier": {
+        "doi": "10.1371/annotation/a733d1cb-96c1-4125-8060-f3d9143e964b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0084376"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Method to Couple Electrophysiological Measurements and Fluorescence Imaging of Suspended Lipid Membranes: The Example of T5 Bacteriophage DNA Ejection"
+}

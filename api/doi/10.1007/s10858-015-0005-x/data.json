@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463961600000,"doi":"10.1007/s10858-016-0034-0","type":"correction"},"doi":"10.1007/s10858-015-0005-x","journal":"Journal of Biomolecular NMR","publisher":"Springer Nature","title":"Erratum to: Impact of nucleic acid self-alignment in a strong magnetic field on the interpretation of indirect spin–spin interactions"}
+{
+  "retracted": false,
+  "timestamp": 1463961600000,
+  "updates": [
+    {
+      "timestamp": 1495715331184,
+      "identifier": {
+        "doi": "10.1007/s10858-016-0034-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10858-015-0005-x"
+  },
+  "journal": "Journal of Biomolecular NMR",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Impact of nucleic acid self-alignment in a strong magnetic field on the interpretation of indirect spin–spin interactions"
+}

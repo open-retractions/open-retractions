@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jinf.2016.04.001","type":"err"},"doi":"10.1016/j.jinf.2016.01.007","journal":"Journal of Infection","publisher":"Elsevier BV","title":"Corrigendum to “The UK joint specialist societies guideline on the diagnosis and management of acute meningitis and meningococcal sepsis in immunocompetent Adults” [J Infect 72 (2016) 405–438]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495665816673,
+      "identifier": {
+        "doi": "10.1016/j.jinf.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jinf.2016.01.007"
+  },
+  "journal": "Journal of Infection",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The UK joint specialist societies guideline on the diagnosis and management of acute meningitis and meningococcal sepsis in immunocompetent Adults” [J Infect 72 (2016) 405–438]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1007/s00347-015-0145-0","type":"correction"},"doi":"10.1007/s00347-015-0116-5","journal":"Der Ophthalmologe","publisher":"Springer Nature","title":"Erratum zu: Abstract-Band DOG 2015"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496035007302,
+      "identifier": {
+        "doi": "10.1007/s00347-015-0145-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00347-015-0116-5"
+  },
+  "journal": "Der Ophthalmologe",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Abstract-Band DOG 2015"
+}

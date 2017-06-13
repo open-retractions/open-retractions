@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.surfcoat.2014.01.011","type":"err"},"doi":"10.1016/j.surfcoat.2003.10.156","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Deposition of boron nitride films by PVD methods: Transition from h-BN to c-BN” [Surf. Coat. Technol. 180–181(2004) 174–177]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496016107399,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2014.01.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2003.10.156"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Deposition of boron nitride films by PVD methods: Transition from h-BN to c-BN” [Surf. Coat. Technol. 180–181(2004) 174–177]"
+}

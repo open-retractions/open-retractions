@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1007/s11748-013-0281-x","type":"correction"},"doi":"10.1007/s11748-013-0276-7","journal":"General Thoracic and Cardiovascular Surgery","publisher":"Springer Nature","title":"Erratum to: Acute respiratory distress syndrome after pulmonary resection"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496035120673,
+      "identifier": {
+        "doi": "10.1007/s11748-013-0281-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11748-013-0276-7"
+  },
+  "journal": "General Thoracic and Cardiovascular Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Acute respiratory distress syndrome after pulmonary resection"
+}

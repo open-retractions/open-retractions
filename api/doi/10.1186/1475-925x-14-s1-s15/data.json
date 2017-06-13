@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467590400000,"doi":"10.1186/s12938-016-0199-5","type":"correction"},"doi":"10.1186/1475-925x-14-s1-s15","journal":"BioMedical Engineering OnLine","publisher":"Springer Nature","title":"Erratum to: A method of extending the depth of focus of the high-resolution X-ray imaging system employing optical lens and scintillator: a phantom study"}
+{
+  "retracted": false,
+  "timestamp": 1467590400000,
+  "updates": [
+    {
+      "timestamp": 1495724428456,
+      "identifier": {
+        "doi": "10.1186/s12938-016-0199-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1475-925x-14-s1-s15"
+  },
+  "journal": "BioMedical Engineering OnLine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A method of extending the depth of focus of the high-resolution X-ray imaging system employing optical lens and scintillator: a phantom study"
+}

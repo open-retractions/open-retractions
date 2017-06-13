@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.watres.2016.02.019","type":"erratum"},"doi":"10.1016/j.watres.2015.06.030","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Modeling the inactivation of ascaris eggs as a function of ammonia concentration and temperature” [Water Res. 83 (2015) 153–160]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495654282449,
+      "identifier": {
+        "doi": "10.1016/j.watres.2016.02.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2015.06.030"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling the inactivation of ascaris eggs as a function of ammonia concentration and temperature” [Water Res. 83 (2015) 153–160]"
+}

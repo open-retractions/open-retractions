@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1159228800000,"doi":"10.1073/pnas.0607163103","type":"correction"},"doi":"10.1073/pnas.0409079102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Legname et al., Strain-specified characteristics of mouse synthetic prions"}
+{
+  "retracted": false,
+  "timestamp": 1159228800000,
+  "updates": [
+    {
+      "timestamp": 1495865615731,
+      "identifier": {
+        "doi": "10.1073/pnas.0607163103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0409079102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Legname et al., Strain-specified characteristics of mouse synthetic prions"
+}

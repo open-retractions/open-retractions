@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384560000000,"doi":"10.1007/s11036-013-0486-3","type":"correction"},"doi":"10.1007/s11036-011-0328-0","journal":"Mobile Networks and Applications","publisher":"Springer Nature","title":"Erratum to: Trust-Based Routing Mechanism in MANET: Design and Implementation"}
+{
+  "retracted": false,
+  "timestamp": 1384560000000,
+  "updates": [
+    {
+      "timestamp": 1495997013759,
+      "identifier": {
+        "doi": "10.1007/s11036-013-0486-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11036-011-0328-0"
+  },
+  "journal": "Mobile Networks and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trust-Based Routing Mechanism in MANET: Design and Implementation"
+}

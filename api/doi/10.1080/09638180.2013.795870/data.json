@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372809600000,"doi":"10.1080/09638180.2013.816508","type":"correction"},"doi":"10.1080/09638180.2013.795870","journal":"European Accounting Review","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1372809600000,
+  "updates": [
+    {
+      "timestamp": 1496030546533,
+      "identifier": {
+        "doi": "10.1080/09638180.2013.816508"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09638180.2013.795870"
+  },
+  "journal": "European Accounting Review",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

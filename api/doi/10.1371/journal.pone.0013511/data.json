@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1295654400000,"doi":"10.1371/annotation/90e60d13-28ac-4eed-8104-893bead21eb7","type":"correction"},"doi":"10.1371/journal.pone.0013511","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Recombinant Vaccine Effectively Induces C5a-Specific Neutralizing Antibodies and Prevents Arthritis"}
+{
+  "retracted": false,
+  "timestamp": 1295654400000,
+  "updates": [
+    {
+      "timestamp": 1496025196420,
+      "identifier": {
+        "doi": "10.1371/annotation/90e60d13-28ac-4eed-8104-893bead21eb7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0013511"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Recombinant Vaccine Effectively Induces C5a-Specific Neutralizing Antibodies and Prevents Arthritis"
+}

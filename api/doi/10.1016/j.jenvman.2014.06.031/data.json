@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jenvman.2014.09.029","type":"err"},"doi":"10.1016/j.jenvman.2014.06.031","journal":"Journal of Environmental Management","publisher":"Elsevier BV","title":"Corrigendum: A revealed preference approach to valuing non-market recreational fishing losses from the Deepwater Horizon spill (J. Environ. Manag. 145, 2014, 199–209)"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496010938515,
+      "identifier": {
+        "doi": "10.1016/j.jenvman.2014.09.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jenvman.2014.06.031"
+  },
+  "journal": "Journal of Environmental Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum: A revealed preference approach to valuing non-market recreational fishing losses from the Deepwater Horizon spill (J. Environ. Manag. 145, 2014, 199–209)"
+}

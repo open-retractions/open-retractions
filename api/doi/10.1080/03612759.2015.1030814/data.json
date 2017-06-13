@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458172800000,"doi":"10.1080/03612759.2016.1151309","type":"correction"},"doi":"10.1080/03612759.2015.1030814","journal":"History: Reviews of New Books","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1458172800000,
+  "updates": [
+    {
+      "timestamp": 1495654363054,
+      "identifier": {
+        "doi": "10.1080/03612759.2016.1151309"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03612759.2015.1030814"
+  },
+  "journal": "History: Reviews of New Books",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

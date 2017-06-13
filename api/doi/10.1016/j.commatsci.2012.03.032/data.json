@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.commatsci.2015.08.023","type":"err"},"doi":"10.1016/j.commatsci.2012.03.032","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “Buckling behavior of the multiple delaminated composite plates under shear and axial compression” [Comput. Mater. Sci. 64 (2012) 173–178]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496024892331,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.08.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2012.03.032"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Buckling behavior of the multiple delaminated composite plates under shear and axial compression” [Comput. Mater. Sci. 64 (2012) 173–178]"
+}

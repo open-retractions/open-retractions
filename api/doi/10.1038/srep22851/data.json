@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1038/srep25861","type":"correction"},"doi":"10.1038/srep22851","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: An integrative approach to investigate the respective roles of single-nucleotide variants and copy-number variants in Attention-Deficit/Hyperactivity Disorder"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495715579143,
+      "identifier": {
+        "doi": "10.1038/srep25861"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep22851"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: An integrative approach to investigate the respective roles of single-nucleotide variants and copy-number variants in Attention-Deficit/Hyperactivity Disorder"
+}

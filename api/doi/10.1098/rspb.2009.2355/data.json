@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1275868800000,"doi":"10.1098/rspb.2011.0319","type":"correction"},"doi":"10.1098/rspb.2009.2355","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"The dynein-tubulin motor powers active oscillations and amplification in the hearing organ of the mosquito"}
+{
+  "retracted": false,
+  "timestamp": 1275868800000,
+  "updates": [
+    {
+      "timestamp": 1495937696755,
+      "identifier": {
+        "doi": "10.1098/rspb.2011.0319"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2009.2355"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "The dynein-tubulin motor powers active oscillations and amplification in the hearing organ of the mosquito"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jdeveco.2014.03.008","type":"err"},"doi":"10.1016/j.jdeveco.2011.04.003","journal":"Journal of Development Economics","publisher":"Elsevier BV","title":"Corrigendum to “Sudden stops, financial frictions, and labor market flows: Evidence from Latin America” [J. Dev. Econ. 97(2), (March 2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496033890402,
+      "identifier": {
+        "doi": "10.1016/j.jdeveco.2014.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jdeveco.2011.04.003"
+  },
+  "journal": "Journal of Development Economics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sudden stops, financial frictions, and labor market flows: Evidence from Latin America” [J. Dev. Econ. 97(2), (March 2012)]"
+}

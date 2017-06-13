@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.solener.2013.12.022","type":"err"},"doi":"10.1016/j.solener.2013.08.022","journal":"Solar Energy","publisher":"Elsevier BV","title":"Erratum to “Design and optimization of lab-scale sensible heat storage prototype for solar thermal power plant application” [Solar Energy 97 (2013) 217–229]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496011097895,
+      "identifier": {
+        "doi": "10.1016/j.solener.2013.12.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solener.2013.08.022"
+  },
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Design and optimization of lab-scale sensible heat storage prototype for solar thermal power plant application” [Solar Energy 97 (2013) 217–229]"
+}

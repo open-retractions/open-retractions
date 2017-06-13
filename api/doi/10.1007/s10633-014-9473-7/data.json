@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433894400000,"doi":"10.1007/s10633-015-9504-z","type":"correction"},"doi":"10.1007/s10633-014-9473-7","journal":"Documenta Ophthalmologica","publisher":"Springer Nature","title":"Erratum to: ISCEV Standard for full-field clinical electroretinography (2015 update)"}
+{
+  "retracted": false,
+  "timestamp": 1433894400000,
+  "updates": [
+    {
+      "timestamp": 1496005091309,
+      "identifier": {
+        "doi": "10.1007/s10633-015-9504-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10633-014-9473-7"
+  },
+  "journal": "Documenta Ophthalmologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ISCEV Standard for full-field clinical electroretinography (2015 update)"
+}

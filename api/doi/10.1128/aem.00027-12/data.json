@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1128/aem.03373-16","type":"correction"},"doi":"10.1128/aem.00027-12","journal":"Applied and Environmental Microbiology","publisher":"American Society for Microbiology","title":"Correction for Gibson et al., Removal and Transfer of Viruses on Food Contact Surfaces by Cleaning Cloths"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1495680130060,
+      "identifier": {
+        "doi": "10.1128/aem.03373-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aem.00027-12"
+  },
+  "journal": "Applied and Environmental Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Gibson et al., Removal and Transfer of Viruses on Food Contact Surfaces by Cleaning Cloths"
+}

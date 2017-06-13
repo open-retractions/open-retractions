@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1201564800000,"doi":"10.1371/journal.pmed.0050010","type":"correction"},"doi":"10.1371/journal.pmed.0030419","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Health Is Still Social: Contemporary Examples in the Age of the Genome"}
+{
+  "retracted": false,
+  "timestamp": 1201564800000,
+  "updates": [
+    {
+      "timestamp": 1495823745304,
+      "identifier": {
+        "doi": "10.1371/journal.pmed.0050010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0030419"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Health Is Still Social: Contemporary Examples in the Age of the Genome"
+}

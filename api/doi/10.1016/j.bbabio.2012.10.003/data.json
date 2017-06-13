@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.bbabio.2013.02.017","type":"err"},"doi":"10.1016/j.bbabio.2012.10.003","journal":"Biochimica et Biophysica Acta (BBA) - Bioenergetics","publisher":"Elsevier BV","title":"Corrigendum to “Turnstiles and bifurcators: The disequilibrium converting engines that put metabolism on the road” [Biochim. Biophys. Acta 1827 (2013) 62–78]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496005486993,
+      "identifier": {
+        "doi": "10.1016/j.bbabio.2013.02.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbabio.2012.10.003"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Bioenergetics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Turnstiles and bifurcators: The disequilibrium converting engines that put metabolism on the road” [Biochim. Biophys. Acta 1827 (2013) 62–78]"
+}

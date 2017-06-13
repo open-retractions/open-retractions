@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.automatica.2014.07.026","type":"err"},"doi":"10.1016/j.automatica.2012.11.041","journal":"Automatica","publisher":"Elsevier BV","title":"Erratum to “Consensus seeking over directed networks with limited information communication” [Automatica 49 (2) (2013) 610–618]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1495998883543,
+      "identifier": {
+        "doi": "10.1016/j.automatica.2014.07.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.automatica.2012.11.041"
+  },
+  "journal": "Automatica",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Consensus seeking over directed networks with limited information communication” [Automatica 49 (2) (2013) 610–618]"
+}

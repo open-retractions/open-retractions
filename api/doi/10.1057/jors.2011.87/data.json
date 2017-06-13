@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341187200000,"doi":"10.1057/jors.2012.78","type":"correction"},"doi":"10.1057/jors.2011.87","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Note on effects of joint replenishment and channel coordination for managing multiple deteriorating products in a supply chain"}
+{
+  "retracted": false,
+  "timestamp": 1341187200000,
+  "updates": [
+    {
+      "timestamp": 1495918418319,
+      "identifier": {
+        "doi": "10.1057/jors.2012.78"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.2011.87"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Note on effects of joint replenishment and channel coordination for managing multiple deteriorating products in a supply chain"
+}

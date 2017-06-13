@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1080/15438627.2015.1080897","type":"correction"},"doi":"10.1080/15438627.2015.1040918","journal":"Research in Sports Medicine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027559445,
+      "identifier": {
+        "doi": "10.1080/15438627.2015.1080897"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15438627.2015.1040918"
+  },
+  "journal": "Research in Sports Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

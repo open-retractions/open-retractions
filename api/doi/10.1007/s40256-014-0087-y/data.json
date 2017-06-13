@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420675200000,"doi":"10.1007/s40256-014-0103-2","type":"correction"},"doi":"10.1007/s40256-014-0087-y","journal":"American Journal of Cardiovascular Drugs","publisher":"Springer Nature","title":"Erratum to: Thiazide-Like/Calcium Channel Blocker Agents: A Major Combination for Hypertension Management"}
+{
+  "retracted": false,
+  "timestamp": 1420675200000,
+  "updates": [
+    {
+      "timestamp": 1496035092833,
+      "identifier": {
+        "doi": "10.1007/s40256-014-0103-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40256-014-0087-y"
+  },
+  "journal": "American Journal of Cardiovascular Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thiazide-Like/Calcium Channel Blocker Agents: A Major Combination for Hypertension Management"
+}

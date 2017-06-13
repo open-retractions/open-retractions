@@ -1,1 +1,18 @@
-{"retracted":true,"timestamp":1383264000000,"update":{"timestamp":null,"doi":null,"pmid":26334645,"type":"retraction"},"doi":"10.1371/journal.pgen.1003791","journal":"PLoS genetics","publisher":null,"title":"RNAi-dependent and independent control of LINE1 accumulation and mobility in mouse embryonic stem cells."}
+{
+  "retracted": false,
+  "timestamp": 1435536000000,
+  "updates": [
+    {
+      "timestamp": 1496012302766,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1005377"
+      },
+      "type": "expression-of-concern"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003791"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Expression of Concern: RNAi-Dependent and Independent Control of LINE1 Accumulation and Mobility in Mouse Embryonic Stem Cells"
+}

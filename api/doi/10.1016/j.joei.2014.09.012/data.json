@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.joei.2016.07.001","type":"err"},"doi":"10.1016/j.joei.2014.09.012","journal":"Journal of the Energy Institute","publisher":"Elsevier BV","title":"Retraction notice to “Numerical study the effect of downward and upward deflected membrane electrode assembly on species distribution in Polymer Electrolyte Membrane Fuel Cell with experimental validations” [J Energy Inst 88 (2015) 438–449]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495728718189,
+      "identifier": {
+        "doi": "10.1016/j.joei.2016.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joei.2014.09.012"
+  },
+  "journal": "Journal of the Energy Institute",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Numerical study the effect of downward and upward deflected membrane electrode assembly on species distribution in Polymer Electrolyte Membrane Fuel Cell with experimental validations” [J Energy Inst 88 (2015) 438–449]"
+}

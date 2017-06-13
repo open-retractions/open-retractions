@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.rpor.2015.06.006","type":"err"},"doi":"10.1016/j.rpor.2015.04.003","journal":"Reports of Practical Oncology & Radiotherapy","publisher":"Elsevier BV","title":"Corrigendum to “Uroncor consensus statement: Management of biochemical recurrence after radical radiotherapy for prostate cancer: From biochemical failure to castration resistance”. [Rep. Pract. Oncol. Radiother. 20 (2015) 259–272]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496016882750,
+      "identifier": {
+        "doi": "10.1016/j.rpor.2015.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rpor.2015.04.003"
+  },
+  "journal": "Reports of Practical Oncology & Radiotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Uroncor consensus statement: Management of biochemical recurrence after radical radiotherapy for prostate cancer: From biochemical failure to castration resistance”. [Rep. Pract. Oncol. Radiother. 20 (2015) 259–272]"
+}

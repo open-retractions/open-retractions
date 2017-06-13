@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1007/s10967-015-4539-x","type":"correction"},"doi":"10.1007/s10967-015-4395-8","journal":"Journal of Radioanalytical and Nuclear Chemistry","publisher":"Springer Nature","title":"Erratum to: Fission product analysis in HEU irradiated within a boron carbide capsule: comparison of detection methodology at PNNL and AWE"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496041388833,
+      "identifier": {
+        "doi": "10.1007/s10967-015-4539-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10967-015-4395-8"
+  },
+  "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fission product analysis in HEU irradiated within a boron carbide capsule: comparison of detection methodology at PNNL and AWE"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457395200000,"doi":"10.1016/j.cmet.2016.02.006","type":"erratum"},"doi":"10.1016/j.cmet.2015.01.007","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"MAFG Is a Transcriptional Repressor of Bile Acid Synthesis and Metabolism"}
+{
+  "retracted": false,
+  "timestamp": 1457395200000,
+  "updates": [
+    {
+      "timestamp": 1495652351350,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2016.02.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2015.01.007"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "MAFG Is a Transcriptional Repressor of Bile Acid Synthesis and Metabolism"
+}

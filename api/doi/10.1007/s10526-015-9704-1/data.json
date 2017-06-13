@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484179200000,"doi":"10.1007/s10526-017-9786-z","type":"correction"},"doi":"10.1007/s10526-015-9704-1","journal":"BioControl","publisher":"Springer Nature","title":"Erratum to: Regulation of the citrus nematode Tylenchulus semipenetrans by a Pasteuria sp. endoparasite in a naturally infested soil"}
+{
+  "retracted": false,
+  "timestamp": 1484179200000,
+  "updates": [
+    {
+      "timestamp": 1495675308077,
+      "identifier": {
+        "doi": "10.1007/s10526-017-9786-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10526-015-9704-1"
+  },
+  "journal": "BioControl",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Regulation of the citrus nematode Tylenchulus semipenetrans by a Pasteuria sp. endoparasite in a naturally infested soil"
+}

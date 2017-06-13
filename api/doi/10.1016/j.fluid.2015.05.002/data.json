@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1016/j.fluid.2015.11.001","type":"err"},"doi":"10.1016/j.fluid.2015.05.002","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “High-pressure vapor–liquid equilibria of the second generation biofuel blends (2-methylfuran + iso-octane) and (2-methyltetrahydrofuran + di-n-butyl ether): Experiments and PCP-SAFT modeling” [Fluid Phase Equilib. 400 (2015) 95–102]"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1496046665941,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2015.05.002"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “High-pressure vapor–liquid equilibria of the second generation biofuel blends (2-methylfuran + iso-octane) and (2-methyltetrahydrofuran + di-n-butyl ether): Experiments and PCP-SAFT modeling” [Fluid Phase Equilib. 400 (2015) 95–102]"
+}

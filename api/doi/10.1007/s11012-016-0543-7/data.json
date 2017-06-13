@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491350400000,"doi":"10.1007/s11012-017-0668-3","type":"correction"},"doi":"10.1007/s11012-016-0543-7","journal":"Meccanica","publisher":"Springer Nature","title":"Erratum to: The PELskin project—part III: a homogenized model of flows over and through dense poroelastic media"}
+{
+  "retracted": false,
+  "timestamp": 1491350400000,
+  "updates": [
+    {
+      "timestamp": 1495736362823,
+      "identifier": {
+        "doi": "10.1007/s11012-017-0668-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11012-016-0543-7"
+  },
+  "journal": "Meccanica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The PELskin project—part III: a homogenized model of flows over and through dense poroelastic media"
+}

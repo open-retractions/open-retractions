@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1080/09640568.2015.1105456","type":"correction"},"doi":"10.1080/09640568.2014.964850","journal":"Journal of Environmental Planning and Management","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496036777746,
+      "identifier": {
+        "doi": "10.1080/09640568.2015.1105456"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09640568.2014.964850"
+  },
+  "journal": "Journal of Environmental Planning and Management",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

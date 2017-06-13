@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327276800000,"doi":"10.1371/annotation/f7aebee7-7b7e-4a44-aa23-56e9a32f14f6","type":"correction"},"doi":"10.1371/journal.pone.0027910","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Phosphodiesterase-5 Inhibition Mimics Intermittent Reoxygenation and Improves Cardioprotection in the Hypoxic Myocardium"}
+{
+  "retracted": false,
+  "timestamp": 1327276800000,
+  "updates": [
+    {
+      "timestamp": 1495854356844,
+      "identifier": {
+        "doi": "10.1371/annotation/f7aebee7-7b7e-4a44-aa23-56e9a32f14f6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027910"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Phosphodiesterase-5 Inhibition Mimics Intermittent Reoxygenation and Improves Cardioprotection in the Hypoxic Myocardium"
+}

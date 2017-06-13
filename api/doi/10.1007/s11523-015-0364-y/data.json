@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1007/s11523-017-0475-8","type":"correction"},"doi":"10.1007/s11523-015-0364-y","journal":"Targeted Oncology","publisher":"Springer Nature","title":"Erratum to: A combination of the telomerase inhibitor, BIBR1532, and paclitaxel synergistically inhibit cell proliferation in breast cancer cell lines"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678293710,
+      "identifier": {
+        "doi": "10.1007/s11523-017-0475-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11523-015-0364-y"
+  },
+  "journal": "Targeted Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A combination of the telomerase inhibitor, BIBR1532, and paclitaxel synergistically inhibit cell proliferation in breast cancer cell lines"
+}

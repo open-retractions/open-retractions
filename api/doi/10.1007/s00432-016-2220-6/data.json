@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1007/s00432-016-2312-3","type":"correction"},"doi":"10.1007/s00432-016-2220-6","journal":"Journal of Cancer Research and Clinical Oncology","publisher":"Springer Nature","title":"Erratum to: Differential somatostatin and CXCR4 chemokine receptor expression in MALT-type lymphoma of gastric and extragastric origin"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495662562573,
+      "identifier": {
+        "doi": "10.1007/s00432-016-2312-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00432-016-2220-6"
+  },
+  "journal": "Journal of Cancer Research and Clinical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Differential somatostatin and CXCR4 chemokine receptor expression in MALT-type lymphoma of gastric and extragastric origin"
+}

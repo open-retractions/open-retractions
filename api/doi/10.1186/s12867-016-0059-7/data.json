@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1186/s12867-016-0062-z","type":"correction"},"doi":"10.1186/s12867-016-0059-7","journal":"BMC Molecular Biology","publisher":"Springer Nature","title":"Erratum to: Gene expression profiling of the venom gland from the Venezuelan mapanare (Bothrops colombiensis) using expressed sequence tags (ESTs)"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495715556352,
+      "identifier": {
+        "doi": "10.1186/s12867-016-0062-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12867-016-0059-7"
+  },
+  "journal": "BMC Molecular Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gene expression profiling of the venom gland from the Venezuelan mapanare (Bothrops colombiensis) using expressed sequence tags (ESTs)"
+}

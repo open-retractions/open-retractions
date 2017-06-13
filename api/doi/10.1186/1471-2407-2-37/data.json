@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1058918400000,"doi":"10.1186/1471-2407-3-20","type":"correction"},"doi":"10.1186/1471-2407-2-37","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Global and regional estimates of cancer mortality and incidence by site: II. results for the global burden of disease 2000"}
+{
+  "retracted": false,
+  "timestamp": 1058918400000,
+  "updates": [
+    {
+      "timestamp": 1495971263512,
+      "identifier": {
+        "doi": "10.1186/1471-2407-3-20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2407-2-37"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Global and regional estimates of cancer mortality and incidence by site: II. results for the global burden of disease 2000"
+}

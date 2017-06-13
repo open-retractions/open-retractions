@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446854400000,"doi":"10.3109/10826084.2014.970079","type":"correction"},"doi":"10.3109/10826084.2014.904119","journal":"Substance Use & Misuse","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1446854400000,
+  "updates": [
+    {
+      "timestamp": 1496044392674,
+      "identifier": {
+        "doi": "10.3109/10826084.2014.970079"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10826084.2014.904119"
+  },
+  "journal": "Substance Use & Misuse",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

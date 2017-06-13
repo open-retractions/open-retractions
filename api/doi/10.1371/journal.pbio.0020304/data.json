@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1163462400000,"doi":"10.1371/journal.pbio.0040385","type":"correction"},"doi":"10.1371/journal.pbio.0020304","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Preserving Genome Integrity: The DdrA Protein of Deinococcus radiodurans R1"}
+{
+  "retracted": false,
+  "timestamp": 1163462400000,
+  "updates": [
+    {
+      "timestamp": 1495877046014,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0040385"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0020304"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Preserving Genome Integrity: The DdrA Protein of Deinococcus radiodurans R1"
+}

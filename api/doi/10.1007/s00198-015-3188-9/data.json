@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442188800000,"doi":"10.1007/s00198-015-3237-4","type":"correction"},"doi":"10.1007/s00198-015-3188-9","journal":"Osteoporosis International","publisher":"Springer Nature","title":"Erratum to: Taxonomy of rare genetic metabolic bone disorders"}
+{
+  "retracted": false,
+  "timestamp": 1442188800000,
+  "updates": [
+    {
+      "timestamp": 1496030586594,
+      "identifier": {
+        "doi": "10.1007/s00198-015-3237-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00198-015-3188-9"
+  },
+  "journal": "Osteoporosis International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Taxonomy of rare genetic metabolic bone disorders"
+}

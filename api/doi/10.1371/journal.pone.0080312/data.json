@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387411200000,"doi":"10.1371/annotation/c8b2e360-b78a-4c2f-a1a3-c53325f18211","type":"correction"},"doi":"10.1371/journal.pone.0080312","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: An RNAi-Based Approach to Down-Regulate a Gene Family In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1387411200000,
+  "updates": [
+    {
+      "timestamp": 1496001736820,
+      "identifier": {
+        "doi": "10.1371/annotation/c8b2e360-b78a-4c2f-a1a3-c53325f18211"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0080312"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: An RNAi-Based Approach to Down-Regulate a Gene Family In Vivo"
+}

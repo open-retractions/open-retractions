@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.bone.2016.03.009","type":"err"},"doi":"10.1016/j.bone.2014.03.039","journal":"Bone","publisher":"Elsevier BV","title":"Corrigendum to “Trabecular microfractures in the femoral head with osteoporosis: Analysis of microcallus formations by synchrotron radiation micro CT” [Bone, volume 64 (2014) 82–87]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495717779094,
+      "identifier": {
+        "doi": "10.1016/j.bone.2016.03.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2014.03.039"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Trabecular microfractures in the femoral head with osteoporosis: Analysis of microcallus formations by synchrotron radiation micro CT” [Bone, volume 64 (2014) 82–87]"
+}

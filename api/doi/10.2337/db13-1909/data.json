@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.2337/db14-er06a","type":"correction"},"doi":"10.2337/db13-1909","journal":"Diabetes","publisher":"American Diabetes Association","title":"Incretin Therapy and Pancreatic Pathologies: Background Pathology Versus Drug-Induced Pathology in Rats. Diabetes 2014;63:1174-1178"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496040627275,
+      "identifier": {
+        "doi": "10.2337/db14-er06a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db13-1909"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Incretin Therapy and Pancreatic Pathologies: Background Pathology Versus Drug-Induced Pathology in Rats. Diabetes 2014;63:1174-1178"
+}

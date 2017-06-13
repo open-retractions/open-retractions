@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425427200000,"doi":"10.1038/srep08798","type":"correction"},"doi":"10.1038/srep07542","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: ERRATUM: Long-range magnetic interaction and frustration in double perovskites Sr2NiIrO6 and Sr2ZnIrO6"}
+{
+  "retracted": false,
+  "timestamp": 1425427200000,
+  "updates": [
+    {
+      "timestamp": 1496048437319,
+      "identifier": {
+        "doi": "10.1038/srep08798"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep07542"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: ERRATUM: Long-range magnetic interaction and frustration in double perovskites Sr2NiIrO6 and Sr2ZnIrO6"
+}

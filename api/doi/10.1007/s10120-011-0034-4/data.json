@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311292800000,"doi":"10.1007/s10120-011-0077-6","type":"correction"},"doi":"10.1007/s10120-011-0034-4","journal":"Gastric Cancer","publisher":"Springer Nature","title":"Erratum to: p53 codon 72 polymorphism in patients with gastric and colorectal cancer in a Korean population"}
+{
+  "retracted": false,
+  "timestamp": 1311292800000,
+  "updates": [
+    {
+      "timestamp": 1495979249390,
+      "identifier": {
+        "doi": "10.1007/s10120-011-0077-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10120-011-0034-4"
+  },
+  "journal": "Gastric Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: p53 codon 72 polymorphism in patients with gastric and colorectal cancer in a Korean population"
+}

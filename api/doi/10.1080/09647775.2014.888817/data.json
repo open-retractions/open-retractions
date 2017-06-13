@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396483200000,"doi":"10.1080/09647775.2014.904065","type":"correction"},"doi":"10.1080/09647775.2014.888817","journal":"Museum Management and Curatorship","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1396483200000,
+  "updates": [
+    {
+      "timestamp": 1496025369737,
+      "identifier": {
+        "doi": "10.1080/09647775.2014.904065"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09647775.2014.888817"
+  },
+  "journal": "Museum Management and Curatorship",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

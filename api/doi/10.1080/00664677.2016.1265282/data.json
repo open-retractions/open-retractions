@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484092800000,"doi":"10.1080/00664677.2017.1279112","type":"correction"},"doi":"10.1080/00664677.2016.1265282","journal":"Anthropological Forum","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484092800000,
+  "updates": [
+    {
+      "timestamp": 1495675272158,
+      "identifier": {
+        "doi": "10.1080/00664677.2017.1279112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00664677.2016.1265282"
+  },
+  "journal": "Anthropological Forum",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

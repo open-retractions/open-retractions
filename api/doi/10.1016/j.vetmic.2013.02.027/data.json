@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388102400000,"doi":"10.1016/j.vetmic.2013.09.012","type":"err"},"doi":"10.1016/j.vetmic.2013.02.027","journal":"Veterinary Microbiology","publisher":"Elsevier BV","title":"Corrigendum to ‘Is a diagnostic system based exclusively on agar gel immunodiffusion adequate for controlling the spread of equine infectious anaemia?’ [Vet. Microbiol. 165 (1–2) (2013) 123–134]"}
+{
+  "retracted": false,
+  "timestamp": 1388102400000,
+  "updates": [
+    {
+      "timestamp": 1496049012423,
+      "identifier": {
+        "doi": "10.1016/j.vetmic.2013.09.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetmic.2013.02.027"
+  },
+  "journal": "Veterinary Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Is a diagnostic system based exclusively on agar gel immunodiffusion adequate for controlling the spread of equine infectious anaemia?’ [Vet. Microbiol. 165 (1–2) (2013) 123–134]"
+}

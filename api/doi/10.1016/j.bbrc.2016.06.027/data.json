@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1016/j.bbrc.2016.09.031","type":"err"},"doi":"10.1016/j.bbrc.2016.06.027","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Knockdown expression of Syndecan in the fat body impacts nutrient metabolism and the organismal response to environmental stresses in Drosophila melanogaster” [Biochem. Biophys. Res. Commun. (2016) 103–108]"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495639526882,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2016.09.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2016.06.027"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Knockdown expression of Syndecan in the fat body impacts nutrient metabolism and the organismal response to environmental stresses in Drosophila melanogaster” [Biochem. Biophys. Res. Commun. (2016) 103–108]"
+}

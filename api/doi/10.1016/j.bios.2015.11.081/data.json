@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463270400000,"doi":"10.1016/j.bios.2015.12.059","type":"erratum"},"doi":"10.1016/j.bios.2015.11.081","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to: ‘‘Highly sensitive electrochemical immunosensor for IgG detection based on optimized rigid biocomposites’’ [Biosens. Bioelectron. 78 (2016) 505–512]"}
+{
+  "retracted": false,
+  "timestamp": 1463270400000,
+  "updates": [
+    {
+      "timestamp": 1496056628958,
+      "identifier": {
+        "doi": "10.1016/j.bios.2015.12.059"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2015.11.081"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: ‘‘Highly sensitive electrochemical immunosensor for IgG detection based on optimized rigid biocomposites’’ [Biosens. Bioelectron. 78 (2016) 505–512]"
+}

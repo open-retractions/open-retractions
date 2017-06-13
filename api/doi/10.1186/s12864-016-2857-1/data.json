@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477440000000,"doi":"10.1186/s12864-016-3181-5","type":"correction"},"doi":"10.1186/s12864-016-2857-1","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Comparative transcriptome analysis of basal and zygote-located tip regions of peanut ovaries provides insight into the mechanism of light regulation in peanut embryo and pod development"}
+{
+  "retracted": false,
+  "timestamp": 1477440000000,
+  "updates": [
+    {
+      "timestamp": 1495651775828,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3181-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2857-1"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparative transcriptome analysis of basal and zygote-located tip regions of peanut ovaries provides insight into the mechanism of light regulation in peanut embryo and pod development"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355443200000,"doi":"10.1038/srep01019","type":"correction"},"doi":"10.1038/srep00936","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: ERRATUM: Integrating next-generation sequencing and traditional tongue diagnosis to determine tongue coating microbiome"}
+{
+  "retracted": false,
+  "timestamp": 1355443200000,
+  "updates": [
+    {
+      "timestamp": 1495978683512,
+      "identifier": {
+        "doi": "10.1038/srep01019"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep00936"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: ERRATUM: Integrating next-generation sequencing and traditional tongue diagnosis to determine tongue coating microbiome"
+}

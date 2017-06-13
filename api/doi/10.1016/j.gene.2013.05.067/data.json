@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386633600000,"doi":"10.1016/j.gene.2013.09.061","type":"err"},"doi":"10.1016/j.gene.2013.05.067","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Major vault protein (MVP) gene polymorphisms and drug resistance in mesial temporal lobe epilepsy with hippocampal sclerosis” [Gene 526 (2013) 449–453]"}
+{
+  "retracted": false,
+  "timestamp": 1386633600000,
+  "updates": [
+    {
+      "timestamp": 1496048963057,
+      "identifier": {
+        "doi": "10.1016/j.gene.2013.09.061"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2013.05.067"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Major vault protein (MVP) gene polymorphisms and drug resistance in mesial temporal lobe epilepsy with hippocampal sclerosis” [Gene 526 (2013) 449–453]"
+}

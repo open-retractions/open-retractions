@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418860800000,"doi":"10.1016/j.jbiomech.2014.09.022","type":"err"},"doi":"10.1016/j.jbiomech.2013.12.032","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Quantifying lumbar–pelvis coordination during gait using a modified vector coding technique” [J. Biomech. 47(5) (2014) 1020–1026]"}
+{
+  "retracted": false,
+  "timestamp": 1418860800000,
+  "updates": [
+    {
+      "timestamp": 1496016195614,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2014.09.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2013.12.032"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantifying lumbar–pelvis coordination during gait using a modified vector coding technique” [J. Biomech. 47(5) (2014) 1020–1026]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355875200000,"doi":"10.1371/annotation/2c375f5c-78e4-4920-9498-014bf8d2aff3","type":"correction"},"doi":"10.1371/journal.pntd.0001885","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Procedure for Precise Quantification of Schistosoma japonicum Eggs in Bovine Feces"}
+{
+  "retracted": false,
+  "timestamp": 1355875200000,
+  "updates": [
+    {
+      "timestamp": 1495987344256,
+      "identifier": {
+        "doi": "10.1371/annotation/2c375f5c-78e4-4920-9498-014bf8d2aff3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0001885"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Procedure for Precise Quantification of Schistosoma japonicum Eggs in Bovine Feces"
+}

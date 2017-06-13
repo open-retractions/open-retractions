@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1186/s12885-016-2140-5","type":"correction"},"doi":"10.1186/s12885-016-2091-x","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Differences in TGF-β1 signaling and clinicopathologic characteristics of histologic subtypes of gastric cancer"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1495643893787,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2140-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-016-2091-x"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Differences in TGF-β1 signaling and clinicopathologic characteristics of histologic subtypes of gastric cancer"
+}

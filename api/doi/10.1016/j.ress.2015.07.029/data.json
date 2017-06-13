@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.ress.2015.12.014","type":"err"},"doi":"10.1016/j.ress.2015.07.029","journal":"Reliability Engineering & System Safety","publisher":"Elsevier BV","title":"Corrigendum to “Reliability modeling of safety-critical network communication in a digitalized nuclear power plant” [Reliab. Eng. Syst. Saf. 144 (2015) 285–295]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1496059994569,
+      "identifier": {
+        "doi": "10.1016/j.ress.2015.12.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ress.2015.07.029"
+  },
+  "journal": "Reliability Engineering & System Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reliability modeling of safety-critical network communication in a digitalized nuclear power plant” [Reliab. Eng. Syst. Saf. 144 (2015) 285–295]"
+}

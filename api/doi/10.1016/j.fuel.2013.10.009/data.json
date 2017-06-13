@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1016/j.fuel.2016.07.032","type":"erratum"},"doi":"10.1016/j.fuel.2013.10.009","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to ‘Ammonia yield from gasification of biomass and coal in fluidized bed reactor’ [Fuel 117 (2014) 917–925]"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495726534788,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2016.07.032"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2013.10.009"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Ammonia yield from gasification of biomass and coal in fluidized bed reactor’ [Fuel 117 (2014) 917–925]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431561600000,"doi":"10.1007/s10482-015-0474-7","type":"correction"},"doi":"10.1007/s10482-015-0424-4","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Tropicihabitans flavus gen. nov., sp. nov., a new member of the family Cellulomonadaceae"}
+{
+  "retracted": false,
+  "timestamp": 1431561600000,
+  "updates": [
+    {
+      "timestamp": 1495999932923,
+      "identifier": {
+        "doi": "10.1007/s10482-015-0474-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-015-0424-4"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tropicihabitans flavus gen. nov., sp. nov., a new member of the family Cellulomonadaceae"
+}

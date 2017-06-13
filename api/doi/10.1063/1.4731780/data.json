@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479427200000,"doi":"10.1063/1.4967827","type":"erratum"},"doi":"10.1063/1.4731780","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Magnetoelectric properties of flexible BiFeO3/Ni tapes” [Appl. Phys. Lett. 101, 012908 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1479427200000,
+  "updates": [
+    {
+      "timestamp": 1495657270079,
+      "identifier": {
+        "doi": "10.1063/1.4967827"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4731780"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Magnetoelectric properties of flexible BiFeO3/Ni tapes” [Appl. Phys. Lett. 101, 012908 (2012)]"
+}

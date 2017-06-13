@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490832000000,"doi":"10.1080/03017605.2017.1307012","type":"correction"},"doi":"10.1080/03017605.2016.1268455","journal":"Critique","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1490832000000,
+  "updates": [
+    {
+      "timestamp": 1495734134780,
+      "identifier": {
+        "doi": "10.1080/03017605.2017.1307012"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03017605.2016.1268455"
+  },
+  "journal": "Critique",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

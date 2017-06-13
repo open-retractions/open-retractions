@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1133395200000,"doi":"10.1140/epjc/s2005-02384-8","type":"correction"},"doi":"10.1140/epjc/s2004-01986-x","journal":"The European Physical Journal C","publisher":"Springer Nature","title":"Erratum to The total virtual photoabsorption cross section, deeply virtual Compton scattering and vector-meson production"}
+{
+  "retracted": false,
+  "timestamp": 1133395200000,
+  "updates": [
+    {
+      "timestamp": 1495965877986,
+      "identifier": {
+        "doi": "10.1140/epjc/s2005-02384-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjc/s2004-01986-x"
+  },
+  "journal": "The European Physical Journal C",
+  "publisher": "Springer Nature",
+  "title": "Erratum to The total virtual photoabsorption cross section, deeply virtual Compton scattering and vector-meson production"
+}

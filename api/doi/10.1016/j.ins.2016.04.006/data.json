@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1501545600000,"doi":"10.1016/j.ins.2017.02.047","type":"erratum"},"doi":"10.1016/j.ins.2016.04.006","journal":"Information Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Proportional hesitant fuzzy linguistic term set for multiple criteria group decision making”[Information Sciences 357 (2016) 61–87]"}
+{
+  "retracted": false,
+  "timestamp": 1501545600000,
+  "updates": [
+    {
+      "timestamp": 1495714478404,
+      "identifier": {
+        "doi": "10.1016/j.ins.2017.02.047"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ins.2016.04.006"
+  },
+  "journal": "Information Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Proportional hesitant fuzzy linguistic term set for multiple criteria group decision making”[Information Sciences 357 (2016) 61–87]"
+}

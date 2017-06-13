@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.geomphys.2015.05.010","type":"err"},"doi":"10.1016/s0393-0440(97)00018-1","journal":"Journal of Geometry and Physics","publisher":"Elsevier BV","title":"Corrigendum to “Compact symplectic manifolds of low cohomogeneity” [J. Geom. Phys. 25 (1998) 205–226]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496009706120,
+      "identifier": {
+        "doi": "10.1016/j.geomphys.2015.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0393-0440(97)00018-1"
+  },
+  "journal": "Journal of Geometry and Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Compact symplectic manifolds of low cohomogeneity” [J. Geom. Phys. 25 (1998) 205–226]"
+}

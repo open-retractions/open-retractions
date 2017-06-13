@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.anihpc.2016.06.001","type":"erratum"},"doi":"10.1016/j.anihpc.2015.08.003","journal":"Annales de l'Institut Henri Poincare (C) Non Linear Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Analysis of degenerate cross-diffusion population models with volume filling” [Ann. Inst. Henri Poincaré 34 (1) (2017) 1–29]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1496647384442,
+      "identifier": {
+        "doi": "10.1016/j.anihpc.2016.06.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anihpc.2015.08.003"
+  },
+  "journal": "Annales de l'Institut Henri Poincare (C) Non Linear Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analysis of degenerate cross-diffusion population models with volume filling” [Ann. Inst. Henri Poincaré 34 (1) (2017) 1–29]"
+}

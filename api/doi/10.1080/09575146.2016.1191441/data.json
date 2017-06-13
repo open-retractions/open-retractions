@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484524800000,"doi":"10.1080/09575146.2016.1278132","type":"correction"},"doi":"10.1080/09575146.2016.1191441","journal":"Early Years","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484524800000,
+  "updates": [
+    {
+      "timestamp": 1495671139326,
+      "identifier": {
+        "doi": "10.1080/09575146.2016.1278132"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09575146.2016.1191441"
+  },
+  "journal": "Early Years",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

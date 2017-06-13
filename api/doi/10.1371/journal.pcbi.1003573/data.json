@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407456000000,"doi":"10.1371/journal.pcbi.1003832","type":"correction"},"doi":"10.1371/journal.pcbi.1003573","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: The Self-Limiting Dynamics of TGF-β Signaling In Silico and In Vitro, with Negative Feedback through PPM1A Upregulation"}
+{
+  "retracted": false,
+  "timestamp": 1407456000000,
+  "updates": [
+    {
+      "timestamp": 1495999200053,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003832"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003573"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Self-Limiting Dynamics of TGF-β Signaling In Silico and In Vitro, with Negative Feedback through PPM1A Upregulation"
+}

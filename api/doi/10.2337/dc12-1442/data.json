@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.2337/dc13-er05","type":"correction"},"doi":"10.2337/dc12-1442","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"A systematic review and meta-analysis of the association between depression and insulin resistance. Diabetes Care 2013;36:480-489"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496014322836,
+      "identifier": {
+        "doi": "10.2337/dc13-er05"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc12-1442"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "A systematic review and meta-analysis of the association between depression and insulin resistance. Diabetes Care 2013;36:480-489"
+}

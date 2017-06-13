@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403049600000,"doi":"10.1080/09205071.2014.922448","type":"correction"},"doi":"10.1080/09205071.2013.809509","journal":"Journal of Electromagnetic Waves and Applications","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1403049600000,
+  "updates": [
+    {
+      "timestamp": 1496039114175,
+      "identifier": {
+        "doi": "10.1080/09205071.2014.922448"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09205071.2013.809509"
+  },
+  "journal": "Journal of Electromagnetic Waves and Applications",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.scitotenv.2015.04.063","type":"err"},"doi":"10.1016/j.scitotenv.2014.12.004","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Current irrigation practices in the central United States reduce drought and extreme heat impacts for maize and soybean, but not for wheat”[Sci. Total Environ. 508 (March 2015) 331–342]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1495995863088,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2015.04.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2014.12.004"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Current irrigation practices in the central United States reduce drought and extreme heat impacts for maize and soybean, but not for wheat”[Sci. Total Environ. 508 (March 2015) 331–342]"
+}

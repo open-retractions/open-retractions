@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.envsci.2013.11.002","type":"err"},"doi":"10.1016/j.envsci.2013.01.007","journal":"Environmental Science & Policy","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of hydrofluorosilicic acid and pharmaceutical sodium fluoride as fluoridating agents—A cost–benefit analysis” [Environ. Sci. Policy 29 (2013) 81–86]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496000352180,
+      "identifier": {
+        "doi": "10.1016/j.envsci.2013.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envsci.2013.01.007"
+  },
+  "journal": "Environmental Science & Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of hydrofluorosilicic acid and pharmaceutical sodium fluoride as fluoridating agents—A cost–benefit analysis” [Environ. Sci. Policy 29 (2013) 81–86]"
+}

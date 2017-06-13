@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485993600000,"doi":"10.1016/j.ajhg.2017.01.026","type":"erratum"},"doi":"10.1016/j.ajhg.2016.12.008","journal":"The American Journal of Human Genetics","publisher":"Elsevier BV","title":"The Genetic Architecture of Gene Expression in Peripheral Blood"}
+{
+  "retracted": false,
+  "timestamp": 1485993600000,
+  "updates": [
+    {
+      "timestamp": 1495680936408,
+      "identifier": {
+        "doi": "10.1016/j.ajhg.2017.01.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajhg.2016.12.008"
+  },
+  "journal": "The American Journal of Human Genetics",
+  "publisher": "Elsevier BV",
+  "title": "The Genetic Architecture of Gene Expression in Peripheral Blood"
+}

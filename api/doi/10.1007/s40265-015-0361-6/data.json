@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426291200000,"doi":"10.1007/s40265-015-0374-1","type":"correction"},"doi":"10.1007/s40265-015-0361-6","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Abacavir/Dolutegravir/Lamivudine Single-Tablet Regimen: A Review of Its Use in HIV-1 Infection"}
+{
+  "retracted": false,
+  "timestamp": 1426291200000,
+  "updates": [
+    {
+      "timestamp": 1496050846176,
+      "identifier": {
+        "doi": "10.1007/s40265-015-0374-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-015-0361-6"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Abacavir/Dolutegravir/Lamivudine Single-Tablet Regimen: A Review of Its Use in HIV-1 Infection"
+}

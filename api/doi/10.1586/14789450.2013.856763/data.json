@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421798400000,"doi":"10.1586/14789450.2015.1003759","type":"correction"},"doi":"10.1586/14789450.2013.856763","journal":"Expert Review of Proteomics","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1421798400000,
+  "updates": [
+    {
+      "timestamp": 1496038252266,
+      "identifier": {
+        "doi": "10.1586/14789450.2015.1003759"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/14789450.2013.856763"
+  },
+  "journal": "Expert Review of Proteomics",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

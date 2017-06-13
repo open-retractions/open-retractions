@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370217600000,"doi":"10.1063/1.4809589","type":"correction"},"doi":"10.1063/1.4799915","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Global permutationally invariant potential energy surface for ozone forming reaction” [J. Chem. Phys. 138, 164311 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1370217600000,
+  "updates": [
+    {
+      "timestamp": 1496023252449,
+      "identifier": {
+        "doi": "10.1063/1.4809589"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4799915"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Global permutationally invariant potential energy surface for ozone forming reaction” [J. Chem. Phys. 138, 164311 (2013)]"
+}

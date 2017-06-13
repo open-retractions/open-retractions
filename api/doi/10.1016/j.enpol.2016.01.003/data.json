@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.enpol.2016.03.004","type":"err"},"doi":"10.1016/j.enpol.2016.01.003","journal":"Energy Policy","publisher":"Elsevier BV","title":"Corrigendum to “The British public's perception of the UK smart metering initiative: Threats and opportunities” [Energy Policy 91 (2016) 87–97]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495652464864,
+      "identifier": {
+        "doi": "10.1016/j.enpol.2016.03.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enpol.2016.01.003"
+  },
+  "journal": "Energy Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The British public's perception of the UK smart metering initiative: Threats and opportunities” [Energy Policy 91 (2016) 87–97]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.engstruct.2015.12.031","type":"erratum"},"doi":"10.1016/j.engstruct.2013.11.002","journal":"Engineering Structures","publisher":"Elsevier BV","title":"Corrigendum to “Multi-performance seismic design through an enhanced first-storey isolation system” [Eng. Struct. 59 (2014) 495–506]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495642024103,
+      "identifier": {
+        "doi": "10.1016/j.engstruct.2015.12.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engstruct.2013.11.002"
+  },
+  "journal": "Engineering Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-performance seismic design through an enhanced first-storey isolation system” [Eng. Struct. 59 (2014) 495–506]"
+}

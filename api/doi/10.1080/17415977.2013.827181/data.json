@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411948800000,"doi":"10.1080/17415977.2014.962937","type":"correction"},"doi":"10.1080/17415977.2013.827181","journal":"Inverse Problems in Science and Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1411948800000,
+  "updates": [
+    {
+      "timestamp": 1496009609728,
+      "identifier": {
+        "doi": "10.1080/17415977.2014.962937"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17415977.2013.827181"
+  },
+  "journal": "Inverse Problems in Science and Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

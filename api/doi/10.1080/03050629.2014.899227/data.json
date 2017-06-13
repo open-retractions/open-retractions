@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405987200000,"doi":"10.1080/03050629.2014.939572","type":"correction"},"doi":"10.1080/03050629.2014.899227","journal":"International Interactions","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1405987200000,
+  "updates": [
+    {
+      "timestamp": 1496054814900,
+      "identifier": {
+        "doi": "10.1080/03050629.2014.939572"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03050629.2014.899227"
+  },
+  "journal": "International Interactions",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

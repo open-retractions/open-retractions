@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.solmat.2016.03.009","type":"err"},"doi":"10.1016/j.solmat.2015.12.023","journal":"Solar Energy Materials and Solar Cells","publisher":"Elsevier BV","title":"Corrigendum to “Accelerated thermal cycle and chemical stability testing of Polyethylene glycol (PEG) 6000 for solar thermal energy storage” [Sol. Energy Mater. Sol. Cells, 147 (2016) 235–239]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495659180350,
+      "identifier": {
+        "doi": "10.1016/j.solmat.2016.03.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solmat.2015.12.023"
+  },
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Accelerated thermal cycle and chemical stability testing of Polyethylene glycol (PEG) 6000 for solar thermal energy storage” [Sol. Energy Mater. Sol. Cells, 147 (2016) 235–239]"
+}

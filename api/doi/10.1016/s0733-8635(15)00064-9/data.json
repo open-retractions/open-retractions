@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.det.2015.08.008","type":"err"},"doi":"10.1016/s0733-8635(15)00064-9","journal":"Dermatologic Clinics","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1495647615726,
+      "identifier": {
+        "doi": "10.1016/j.det.2015.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0733-8635(15)00064-9"
+  },
+  "journal": "Dermatologic Clinics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

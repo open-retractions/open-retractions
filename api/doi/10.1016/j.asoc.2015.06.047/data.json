@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.asoc.2015.11.019","type":"err"},"doi":"10.1016/j.asoc.2015.06.047","journal":"Applied Soft Computing","publisher":"Elsevier BV","title":"Corrigendum to “Multi-criteria group decision making with incomplete hesitant fuzzy preference relations” [Appl. Soft Comput. 36 (2015) 1–23]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496053312013,
+      "identifier": {
+        "doi": "10.1016/j.asoc.2015.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asoc.2015.06.047"
+  },
+  "journal": "Applied Soft Computing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-criteria group decision making with incomplete hesitant fuzzy preference relations” [Appl. Soft Comput. 36 (2015) 1–23]"
+}

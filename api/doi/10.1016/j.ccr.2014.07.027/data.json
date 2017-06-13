@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417996800000,"doi":"10.1016/j.ccell.2014.11.021","type":"err"},"doi":"10.1016/j.ccr.2014.07.027","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Cancer-Selective Targeting of the NF-κB Survival Pathway with GADD45β/MKK7 Inhibitors"}
+{
+  "retracted": false,
+  "timestamp": 1417996800000,
+  "updates": [
+    {
+      "timestamp": 1496029044710,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2014.11.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2014.07.027"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Cancer-Selective Targeting of the NF-κB Survival Pathway with GADD45β/MKK7 Inhibitors"
+}

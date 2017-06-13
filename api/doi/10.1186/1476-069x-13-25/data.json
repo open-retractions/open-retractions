@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457395200000,"doi":"10.1186/s12940-016-0126-z","type":"correction"},"doi":"10.1186/1476-069x-13-25","journal":"Environmental Health","publisher":"Springer Nature","title":"Erratum to: A round robin approach to the analysis of bisphenol a (BPA) in human blood samples"}
+{
+  "retracted": false,
+  "timestamp": 1457395200000,
+  "updates": [
+    {
+      "timestamp": 1495652301724,
+      "identifier": {
+        "doi": "10.1186/s12940-016-0126-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1476-069x-13-25"
+  },
+  "journal": "Environmental Health",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A round robin approach to the analysis of bisphenol a (BPA) in human blood samples"
+}

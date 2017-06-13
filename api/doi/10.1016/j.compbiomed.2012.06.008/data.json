@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1343779200000,"update":{"timestamp":null,"doi":null,"pmid":23520624,"type":"retraction"},"doi":"10.1016/j.compbiomed.2012.06.008","journal":"Computers in biology and medicine","publisher":null,"title":"A novel real-time patient-specific seizure diagnosis algorithm based on analysis of EEG and ECG signals using spectral and spatial features and improved particle swarm optimization classifier."}
+{
+  "retracted": false,
+  "timestamp": 1362096000000,
+  "updates": [
+    {
+      "timestamp": 1495974175202,
+      "identifier": {
+        "doi": "10.1016/j.compbiomed.2012.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compbiomed.2012.06.008"
+  },
+  "journal": "Computers in Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to ‘A novel real-time patient-specific seizure diagnosis algorithm based on analysis of EEG and ECG signals using spectral and spatial features and improved particle swarm optimization classifier’ [CBM 42 (2012) 848–856]"
+}

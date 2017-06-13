@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425945600000,"doi":"10.1016/j.stemcr.2015.02.020","type":"erratum"},"doi":"10.1016/j.stemcr.2015.01.011","journal":"Stem Cell Reports","publisher":"Elsevier BV","title":"A Progesterone-CXCR4 Axis Controls Mammary Progenitor Cell Fate in the Adult Gland"}
+{
+  "retracted": false,
+  "timestamp": 1425945600000,
+  "updates": [
+    {
+      "timestamp": 1496049811992,
+      "identifier": {
+        "doi": "10.1016/j.stemcr.2015.02.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stemcr.2015.01.011"
+  },
+  "journal": "Stem Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "A Progesterone-CXCR4 Axis Controls Mammary Progenitor Cell Fate in the Adult Gland"
+}

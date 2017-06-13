@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410393600000,"doi":"10.1016/j.cell.2014.08.033","type":"erratum"},"doi":"10.1016/j.cell.2012.01.040","journal":"Cell","publisher":"Elsevier BV","title":"A Differentiation Checkpoint Limits Hematopoietic Stem Cell Self-Renewal in Response to DNA Damage"}
+{
+  "retracted": false,
+  "timestamp": 1410393600000,
+  "updates": [
+    {
+      "timestamp": 1496005832097,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.08.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.01.040"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Differentiation Checkpoint Limits Hematopoietic Stem Cell Self-Renewal in Response to DNA Damage"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1016/j.compscitech.2013.12.005","type":"err"},"doi":"10.1016/j.compscitech.2013.09.014","journal":"Composites Science and Technology","publisher":"Elsevier BV","title":"Corrigendum to ‘Brittle matrix composites with heterogeneous reinforcement: Multi-scale model of a crack bridge with rigid matrix’ [Composi. Sci. Technol. 89 (2013) 98–109]"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496009296750,
+      "identifier": {
+        "doi": "10.1016/j.compscitech.2013.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compscitech.2013.09.014"
+  },
+  "journal": "Composites Science and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Brittle matrix composites with heterogeneous reinforcement: Multi-scale model of a crack bridge with rigid matrix’ [Composi. Sci. Technol. 89 (2013) 98–109]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1007/s10692-016-9748-8","type":"correction"},"doi":"10.1007/s10692-014-9582-9","journal":"Fibre Chemistry","publisher":"Springer Nature","title":"Erratum to: Structure, Self-Similarity, and Fracture of Fiber-Reinforced Composites"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495736060795,
+      "identifier": {
+        "doi": "10.1007/s10692-016-9748-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10692-014-9582-9"
+  },
+  "journal": "Fibre Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Structure, Self-Similarity, and Fracture of Fiber-Reinforced Composites"
+}

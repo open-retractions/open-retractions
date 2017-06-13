@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432080000000,"doi":"10.1136/bmj.h2745","type":"correction"},"doi":"10.1136/bmj.h2518","journal":"BMJ","publisher":"BMJ","title":"The promise of non-invasive prenatal testing needs to be monitored scientifically"}
+{
+  "retracted": false,
+  "timestamp": 1432080000000,
+  "updates": [
+    {
+      "timestamp": 1495997987930,
+      "identifier": {
+        "doi": "10.1136/bmj.h2745"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2518"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The promise of non-invasive prenatal testing needs to be monitored scientifically"
+}

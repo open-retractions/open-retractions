@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437177600000,"doi":"10.1007/s11428-015-1409-7","type":"correction"},"doi":"10.1007/s11428-015-1339-4","journal":"Der Diabetologe","publisher":"Springer Nature","title":"Erratum zu: Neue Ergebnisse zu Diabetes mellitus und seinen Komplikationen − Kernaussagen zum Diabetes-Update 2015"}
+{
+  "retracted": false,
+  "timestamp": 1437177600000,
+  "updates": [
+    {
+      "timestamp": 1496016235092,
+      "identifier": {
+        "doi": "10.1007/s11428-015-1409-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11428-015-1339-4"
+  },
+  "journal": "Der Diabetologe",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Neue Ergebnisse zu Diabetes mellitus und seinen Komplikationen − Kernaussagen zum Diabetes-Update 2015"
+}

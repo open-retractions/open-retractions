@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473120000000,"doi":"10.1039/c6cp90225a","type":"correction"},"doi":"10.1039/c6cp02853e","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Low-field thermal mixing in [1-13C] pyruvic acid for brute-force hyperpolarization"}
+{
+  "retracted": false,
+  "timestamp": 1473120000000,
+  "updates": [
+    {
+      "timestamp": 1495637692320,
+      "identifier": {
+        "doi": "10.1039/c6cp90225a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cp02853e"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Low-field thermal mixing in [1-13C] pyruvic acid for brute-force hyperpolarization"
+}

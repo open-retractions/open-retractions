@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1186/s12885-016-2958-x","type":"correction"},"doi":"10.1186/s12885-016-2796-x","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Insulin-like growth factor 1 receptor mediated tyrosine 845 phosphorylation of epidermal growth factor receptor in the presence of monoclonal antibody cetuximab"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495662568269,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2958-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-016-2796-x"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Insulin-like growth factor 1 receptor mediated tyrosine 845 phosphorylation of epidermal growth factor receptor in the presence of monoclonal antibody cetuximab"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457308800000,"doi":"10.1038/srep22499","type":"correction"},"doi":"10.1038/srep20143","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Active layers of high-performance lead zirconate titanate at temperatures compatible with silicon nano- and microelectronic devices"}
+{
+  "retracted": false,
+  "timestamp": 1457308800000,
+  "updates": [
+    {
+      "timestamp": 1495651833993,
+      "identifier": {
+        "doi": "10.1038/srep22499"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep20143"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Active layers of high-performance lead zirconate titanate at temperatures compatible with silicon nano- and microelectronic devices"
+}

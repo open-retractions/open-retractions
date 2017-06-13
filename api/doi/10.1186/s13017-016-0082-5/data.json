@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.1186/s13017-016-0088-z","type":"correction"},"doi":"10.1186/s13017-016-0082-5","journal":"World Journal of Emergency Surgery","publisher":"Springer Nature","title":"Erratum to: 2016 WSES guidelines on acute calculous cholecystitis"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495654115114,
+      "identifier": {
+        "doi": "10.1186/s13017-016-0088-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13017-016-0082-5"
+  },
+  "journal": "World Journal of Emergency Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: 2016 WSES guidelines on acute calculous cholecystitis"
+}

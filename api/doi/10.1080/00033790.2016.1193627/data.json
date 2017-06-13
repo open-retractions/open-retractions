@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473292800000,"doi":"10.1080/00033790.2016.1231522","type":"correction"},"doi":"10.1080/00033790.2016.1193627","journal":"Annals of Science","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1473292800000,
+  "updates": [
+    {
+      "timestamp": 1495639112885,
+      "identifier": {
+        "doi": "10.1080/00033790.2016.1231522"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00033790.2016.1193627"
+  },
+  "journal": "Annals of Science",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

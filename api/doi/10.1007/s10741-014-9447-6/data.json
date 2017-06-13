@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407542400000,"doi":"10.1007/s10741-014-9454-7","type":"correction"},"doi":"10.1007/s10741-014-9447-6","journal":"Heart Failure Reviews","publisher":"Springer Nature","title":"Erratum to: Conflict of interest declaration"}
+{
+  "retracted": false,
+  "timestamp": 1407542400000,
+  "updates": [
+    {
+      "timestamp": 1495999019702,
+      "identifier": {
+        "doi": "10.1007/s10741-014-9454-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10741-014-9447-6"
+  },
+  "journal": "Heart Failure Reviews",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Conflict of interest declaration"
+}

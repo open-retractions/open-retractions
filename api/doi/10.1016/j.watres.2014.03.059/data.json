@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.watres.2015.07.012","type":"err"},"doi":"10.1016/j.watres.2014.03.059","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of a novel extraction-based colorimetric (ABTS) method with membrane introduction mass spectrometry (MIMS): Trichloramine dynamics in pool water” [Water Res. 58 (2014) 258–268]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496026242836,
+      "identifier": {
+        "doi": "10.1016/j.watres.2015.07.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2014.03.059"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of a novel extraction-based colorimetric (ABTS) method with membrane introduction mass spectrometry (MIMS): Trichloramine dynamics in pool water” [Water Res. 58 (2014) 258–268]"
+}

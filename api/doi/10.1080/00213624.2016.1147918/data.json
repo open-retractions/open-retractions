@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1080/00213624.2016.1250478","type":"correction"},"doi":"10.1080/00213624.2016.1147918","journal":"Journal of Economic Issues","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495660325869,
+      "identifier": {
+        "doi": "10.1080/00213624.2016.1250478"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00213624.2016.1147918"
+  },
+  "journal": "Journal of Economic Issues",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

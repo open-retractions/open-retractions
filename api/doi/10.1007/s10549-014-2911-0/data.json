@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1007/s10549-014-2970-2","type":"correction"},"doi":"10.1007/s10549-014-2911-0","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Fatal breast cancer risk in relation to use of unopposed estrogen and combined hormone therapy"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496036407103,
+      "identifier": {
+        "doi": "10.1007/s10549-014-2970-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-014-2911-0"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fatal breast cancer risk in relation to use of unopposed estrogen and combined hormone therapy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1007/s10518-016-9868-9","type":"correction"},"doi":"10.1007/s10518-015-9837-8","journal":"Bulletin of Earthquake Engineering","publisher":"Springer Nature","title":"Erratum to: Operational earthquake loss forecasting: a retrospective analysis of some recent Italian seismic sequences"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638417048,
+      "identifier": {
+        "doi": "10.1007/s10518-016-9868-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10518-015-9837-8"
+  },
+  "journal": "Bulletin of Earthquake Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Operational earthquake loss forecasting: a retrospective analysis of some recent Italian seismic sequences"
+}

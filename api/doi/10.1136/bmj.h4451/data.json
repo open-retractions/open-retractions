@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442275200000,"doi":"10.1136/bmj.h4937","type":"correction"},"doi":"10.1136/bmj.h4451","journal":"BMJ","publisher":"BMJ","title":"Safety and efficacy of digoxin: systematic review and meta-analysis of observational and controlled trial data"}
+{
+  "retracted": false,
+  "timestamp": 1442275200000,
+  "updates": [
+    {
+      "timestamp": 1496031028915,
+      "identifier": {
+        "doi": "10.1136/bmj.h4937"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h4451"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Safety and efficacy of digoxin: systematic review and meta-analysis of observational and controlled trial data"
+}

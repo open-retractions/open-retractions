@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1281398400000,"doi":"10.1073/pnas.1104042108","type":"correction"},"doi":"10.1073/pnas.1001040107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kawasaki and Tanaka, Formation of a crystal nucleus from liquid"}
+{
+  "retracted": false,
+  "timestamp": 1281398400000,
+  "updates": [
+    {
+      "timestamp": 1495943796060,
+      "identifier": {
+        "doi": "10.1073/pnas.1104042108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1001040107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kawasaki and Tanaka, Formation of a crystal nucleus from liquid"
+}

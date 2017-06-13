@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1405987200000,"doi":"10.1073/pnas.1412583111","type":"correction"},"doi":"10.1073/pnas.1320040111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kramer et al., Experimental evidence of massive-scale emotional contagion through social networks"}
+{
+  "retracted": false,
+  "timestamp": 1405987200000,
+  "updates": [
+    {
+      "timestamp": 1496051236047,
+      "identifier": {
+        "doi": "10.1073/pnas.1412583111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1320040111"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kramer et al., Experimental evidence of massive-scale emotional contagion through social networks"
+}

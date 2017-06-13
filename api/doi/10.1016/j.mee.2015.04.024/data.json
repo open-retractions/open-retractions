@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.mee.2016.02.051","type":"err"},"doi":"10.1016/j.mee.2015.04.024","journal":"Microelectronic Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Confinement-free annealing induced ferroelectricity in Hf0·5Zr0.5O2 thin films” [Microelectron. Eng. 147 (2015) 15–18]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495651235999,
+      "identifier": {
+        "doi": "10.1016/j.mee.2016.02.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mee.2015.04.024"
+  },
+  "journal": "Microelectronic Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Confinement-free annealing induced ferroelectricity in Hf0·5Zr0.5O2 thin films” [Microelectron. Eng. 147 (2015) 15–18]"
+}

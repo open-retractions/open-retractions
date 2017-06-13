@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jcv.2014.11.008","type":"err"},"doi":"10.1016/j.jcv.2014.04.023","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Corrigendum to “Coxsackievirus A6 associated hand, foot and mouth disease in adults: Clinical presentation and review of the literature” [J. Clin. Virol. 60 (2014) 381–386]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496021716639,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2014.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2014.04.023"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Coxsackievirus A6 associated hand, foot and mouth disease in adults: Clinical presentation and review of the literature” [J. Clin. Virol. 60 (2014) 381–386]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1228348800000,"doi":"10.1007/s11104-008-9840-9","type":"correction"},"doi":"10.1007/s11104-007-9476-1","journal":"Plant and Soil","publisher":"Springer Nature","title":"Azospirillum amazonense inoculation: effects on growth, yield and N2 fixation of rice (Oryza sativa L.)"}
+{
+  "retracted": false,
+  "timestamp": 1228348800000,
+  "updates": [
+    {
+      "timestamp": 1495902069655,
+      "identifier": {
+        "doi": "10.1007/s11104-008-9840-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11104-007-9476-1"
+  },
+  "journal": "Plant and Soil",
+  "publisher": "Springer Nature",
+  "title": "Azospirillum amazonense inoculation: effects on growth, yield and N2 fixation of rice (Oryza sativa L.)"
+}

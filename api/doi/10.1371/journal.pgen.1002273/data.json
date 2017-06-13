@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1316995200000,"doi":"10.1371/annotation/7919492c-3e4b-4363-96da-f75281c1340c","type":"correction"},"doi":"10.1371/journal.pgen.1002273","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Transcriptome Kinetics Is Governed by a Genome-Wide Coupling of mRNA Production and Degradation: A Role for RNA Pol II"}
+{
+  "retracted": false,
+  "timestamp": 1316995200000,
+  "updates": [
+    {
+      "timestamp": 1495812243878,
+      "identifier": {
+        "doi": "10.1371/annotation/7919492c-3e4b-4363-96da-f75281c1340c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1002273"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Transcriptome Kinetics Is Governed by a Genome-Wide Coupling of mRNA Production and Degradation: A Role for RNA Pol II"
+}

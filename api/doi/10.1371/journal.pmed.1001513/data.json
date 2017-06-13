@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387152000000,"doi":"10.1371/annotation/64ffd514-00bb-4a5e-9e2e-584763637d14","type":"correction"},"doi":"10.1371/journal.pmed.1001513","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Physician Emigration from Sub-Saharan Africa to the United States: Analysis of the 2011 AMA Physician Masterfile"}
+{
+  "retracted": false,
+  "timestamp": 1387152000000,
+  "updates": [
+    {
+      "timestamp": 1496004974706,
+      "identifier": {
+        "doi": "10.1371/annotation/64ffd514-00bb-4a5e-9e2e-584763637d14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.1001513"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Physician Emigration from Sub-Saharan Africa to the United States: Analysis of the 2011 AMA Physician Masterfile"
+}

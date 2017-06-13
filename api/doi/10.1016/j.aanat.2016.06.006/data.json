@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.aanat.2016.09.003","type":"err"},"doi":"10.1016/j.aanat.2016.06.006","journal":"Annals of Anatomy - Anatomischer Anzeiger","publisher":"Elsevier BV","title":"Corrigendum to “Acid-sensing ion channels and transient-receptor potential ion channels in zebrafish taste buds” [Ann. Anat. 207C (2016) 32–37]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495649816854,
+      "identifier": {
+        "doi": "10.1016/j.aanat.2016.09.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aanat.2016.06.006"
+  },
+  "journal": "Annals of Anatomy - Anatomischer Anzeiger",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Acid-sensing ion channels and transient-receptor potential ion channels in zebrafish taste buds” [Ann. Anat. 207C (2016) 32–37]"
+}

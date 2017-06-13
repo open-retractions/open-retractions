@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1258934400000,"doi":"10.1371/annotation/be980555-eeb9-4c0e-91f9-cdc1d8f2709b","type":"correction"},"doi":"10.1371/journal.pone.0006312","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Anti-Inflammatory Thalidomide Improves Islet Grafts Survival and Functions in a Xenogenic Environment"}
+{
+  "retracted": false,
+  "timestamp": 1258934400000,
+  "updates": [
+    {
+      "timestamp": 1496025196702,
+      "identifier": {
+        "doi": "10.1371/annotation/be980555-eeb9-4c0e-91f9-cdc1d8f2709b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0006312"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Anti-Inflammatory Thalidomide Improves Islet Grafts Survival and Functions in a Xenogenic Environment"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1007/s12350-016-0437-z","type":"correction"},"doi":"10.1007/s12350-016-0397-3","journal":"Journal of Nuclear Cardiology","publisher":"Springer Nature","title":"Erratum to: Not black or white, but brown: A common finding explained!"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645543104,
+      "identifier": {
+        "doi": "10.1007/s12350-016-0437-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12350-016-0397-3"
+  },
+  "journal": "Journal of Nuclear Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Not black or white, but brown: A common finding explained!"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1016/j.polymer.2014.09.006","type":"err"},"doi":"10.1016/j.polymer.2014.05.005","journal":"Polymer","publisher":"Elsevier BV","title":"Corrigendum to “Molecular weight distribution of network strands in double network hydrogels estimated by mechanical testing” [Polymer 55 (2014) 3037–3044]"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496011400936,
+      "identifier": {
+        "doi": "10.1016/j.polymer.2014.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.polymer.2014.05.005"
+  },
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular weight distribution of network strands in double network hydrogels estimated by mechanical testing” [Polymer 55 (2014) 3037–3044]"
+}

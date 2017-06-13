@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":604713600000,"doi":"10.1057/jors.1989.48","type":"correction"},"doi":"10.1057/jors.1988.27","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Generating Travelling-Salesman Problems with Known Optimal Tours"}
+{
+  "retracted": false,
+  "timestamp": 604713600000,
+  "updates": [
+    {
+      "timestamp": 1495887668532,
+      "identifier": {
+        "doi": "10.1057/jors.1989.48"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1988.27"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Generating Travelling-Salesman Problems with Known Optimal Tours"
+}

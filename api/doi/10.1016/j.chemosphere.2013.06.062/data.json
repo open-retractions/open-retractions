@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.chemosphere.2013.10.042","type":"err"},"doi":"10.1016/j.chemosphere.2013.06.062","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “New type of [Bi6O6(OH)3](NO3)3·1.5H2O sheets photocatalyst with high photocatalytic activity on degradation of phenol” [Chemosphere 93 (2013) 701–707]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495996317179,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2013.10.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2013.06.062"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New type of [Bi6O6(OH)3](NO3)3·1.5H2O sheets photocatalyst with high photocatalytic activity on degradation of phenol” [Chemosphere 93 (2013) 701–707]"
+}

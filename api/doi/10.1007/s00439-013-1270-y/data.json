@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465171200000,"doi":"10.1007/s00439-016-1692-4","type":"correction"},"doi":"10.1007/s00439-013-1270-y","journal":"Human Genetics","publisher":"Springer Nature","title":"Erratum to: Hierarchical modeling identifies novel lung cancer susceptibility variants in inflammation pathways among 10,140 cases and 11,012 controls"}
+{
+  "retracted": false,
+  "timestamp": 1465171200000,
+  "updates": [
+    {
+      "timestamp": 1495718315741,
+      "identifier": {
+        "doi": "10.1007/s00439-016-1692-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00439-013-1270-y"
+  },
+  "journal": "Human Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hierarchical modeling identifies novel lung cancer susceptibility variants in inflammation pathways among 10,140 cases and 11,012 controls"
+}

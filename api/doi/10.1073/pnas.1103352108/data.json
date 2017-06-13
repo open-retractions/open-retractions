@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306800000000,"doi":"10.1073/pnas.1113250108","type":"correction"},"doi":"10.1073/pnas.1103352108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Roberts et al., Isocyanic acid in the atmosphere and its possible link to smoke-related health effects"}
+{
+  "retracted": false,
+  "timestamp": 1306800000000,
+  "updates": [
+    {
+      "timestamp": 1495802276445,
+      "identifier": {
+        "doi": "10.1073/pnas.1113250108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1103352108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Roberts et al., Isocyanic acid in the atmosphere and its possible link to smoke-related health effects"
+}

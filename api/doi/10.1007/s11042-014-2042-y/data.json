@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1007/s11042-015-2456-1","type":"correction"},"doi":"10.1007/s11042-014-2042-y","journal":"Multimedia Tools and Applications","publisher":"Springer Nature","title":"Erratum to: An industry-level blu-ray watermarking framework"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496051145048,
+      "identifier": {
+        "doi": "10.1007/s11042-015-2456-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11042-014-2042-y"
+  },
+  "journal": "Multimedia Tools and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An industry-level blu-ray watermarking framework"
+}

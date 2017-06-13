@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450656000000,"doi":"10.3109/03091902.2015.1130345","type":"correction"},"doi":"10.3109/03091902.2015.1085600","journal":"Journal of Medical Engineering & Technology","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1450656000000,
+  "updates": [
+    {
+      "timestamp": 1496055033570,
+      "identifier": {
+        "doi": "10.3109/03091902.2015.1130345"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/03091902.2015.1085600"
+  },
+  "journal": "Journal of Medical Engineering & Technology",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

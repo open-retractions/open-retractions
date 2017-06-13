@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":107740800000,"doi":"10.1007/bf01392839","type":"correction"},"doi":"10.1007/bf01402652","journal":"Zeitschrift für Physik A Hadrons and nuclei","publisher":"Springer Nature","title":"Erratum to: Effects of Pauli Paramagnetism on Superconducting Fluctuations"}
+{
+  "retracted": false,
+  "timestamp": 107740800000,
+  "updates": [
+    {
+      "timestamp": 1495889388474,
+      "identifier": {
+        "doi": "10.1007/bf01392839"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01402652"
+  },
+  "journal": "Zeitschrift für Physik A Hadrons and nuclei",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effects of Pauli Paramagnetism on Superconducting Fluctuations"
+}

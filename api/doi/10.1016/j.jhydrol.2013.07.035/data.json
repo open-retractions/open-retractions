@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1016/j.jhydrol.2014.03.028","type":"err"},"doi":"10.1016/j.jhydrol.2013.07.035","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Influence of Pacific Ocean multidecadal variability on the distributional properties of hydrological variables in north-central Chile” [J. Hydrol. (2013) 227–240]"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496029510298,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2014.03.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2013.07.035"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of Pacific Ocean multidecadal variability on the distributional properties of hydrological variables in north-central Chile” [J. Hydrol. (2013) 227–240]"
+}

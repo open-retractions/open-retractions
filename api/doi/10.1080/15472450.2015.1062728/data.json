@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472774400000,"doi":"10.1080/15472450.2016.1228375","type":"correction"},"doi":"10.1080/15472450.2015.1062728","journal":"Journal of Intelligent Transportation Systems","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472774400000,
+  "updates": [
+    {
+      "timestamp": 1495742048854,
+      "identifier": {
+        "doi": "10.1080/15472450.2016.1228375"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15472450.2015.1062728"
+  },
+  "journal": "Journal of Intelligent Transportation Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

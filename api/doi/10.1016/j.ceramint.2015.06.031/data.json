@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ceramint.2015.10.068","type":"err"},"doi":"10.1016/j.ceramint.2015.06.031","journal":"Ceramics International","publisher":"Elsevier BV","title":"Corrigendum to “Elastic modulus of a chemically bonded phosphate ceramic formulated with low-grade magnesium oxide determined by nanoindentation” [Ceram. Int. 41 (2015) 12137–12146]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496042455798,
+      "identifier": {
+        "doi": "10.1016/j.ceramint.2015.10.068"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ceramint.2015.06.031"
+  },
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Elastic modulus of a chemically bonded phosphate ceramic formulated with low-grade magnesium oxide determined by nanoindentation” [Ceram. Int. 41 (2015) 12137–12146]"
+}

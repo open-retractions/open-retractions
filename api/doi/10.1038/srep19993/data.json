@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1038/srep22313","type":"correction"},"doi":"10.1038/srep19993","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Translation Microscopy (TRAM) for super-resolution imaging"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495655595511,
+      "identifier": {
+        "doi": "10.1038/srep22313"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep19993"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Translation Microscopy (TRAM) for super-resolution imaging"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.rbmo.2013.10.006","type":"err"},"doi":"10.1016/j.rbmo.2013.07.009","journal":"Reproductive BioMedicine Online","publisher":"Elsevier BV","title":"Erratum to “A survey of 1700 women who formed their families using donor spermatozoa”. [Reproductive BioMedicine Online 27 (2013) 436–447]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496054604857,
+      "identifier": {
+        "doi": "10.1016/j.rbmo.2013.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rbmo.2013.07.009"
+  },
+  "journal": "Reproductive BioMedicine Online",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A survey of 1700 women who formed their families using donor spermatozoa”. [Reproductive BioMedicine Online 27 (2013) 436–447]"
+}

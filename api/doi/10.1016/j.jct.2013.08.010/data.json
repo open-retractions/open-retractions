@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jct.2014.02.004","type":"err"},"doi":"10.1016/j.jct.2013.08.010","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Interactions of glycine, l-alanine and l-valine with aqueous solutions of trisodium citrate at different temperatures: A volumetric and acoustic approach” [J. Chem. Thermodyn. 67 (2013) 170–180]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496017338774,
+      "identifier": {
+        "doi": "10.1016/j.jct.2014.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.08.010"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interactions of glycine, l-alanine and l-valine with aqueous solutions of trisodium citrate at different temperatures: A volumetric and acoustic approach” [J. Chem. Thermodyn. 67 (2013) 170–180]"
+}

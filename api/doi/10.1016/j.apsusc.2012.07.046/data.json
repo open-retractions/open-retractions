@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412035200000,"doi":"10.1016/j.apsusc.2014.08.048","type":"err"},"doi":"10.1016/j.apsusc.2012.07.046","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Retraction notice to “Measuring the adhesion of alumina coatings onto Fecralloy supports using a mechanical testing system” [Appl. Surf. Sci. 259 (2012) 338–342]"}
+{
+  "retracted": false,
+  "timestamp": 1412035200000,
+  "updates": [
+    {
+      "timestamp": 1496003149514,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2014.08.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2012.07.046"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Measuring the adhesion of alumina coatings onto Fecralloy supports using a mechanical testing system” [Appl. Surf. Sci. 259 (2012) 338–342]"
+}

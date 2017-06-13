@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487894400000,"doi":"10.7567/jjap.56.049201","type":"correction"},"doi":"10.7567/jjap.55.121301","journal":"Japanese Journal of Applied Physics","publisher":"Japan Society of Applied Physics","title":"Erratum: “Proximity gettering of C3H5 carbon cluster ion-implanted silicon wafers for CMOS image sensors: Gettering effects of transition metal, oxygen, and hydrogen impurities”"}
+{
+  "retracted": false,
+  "timestamp": 1487894400000,
+  "updates": [
+    {
+      "timestamp": 1495723033018,
+      "identifier": {
+        "doi": "10.7567/jjap.56.049201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/jjap.55.121301"
+  },
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “Proximity gettering of C3H5 carbon cluster ion-implanted silicon wafers for CMOS image sensors: Gettering effects of transition metal, oxygen, and hydrogen impurities”"
+}

@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1406678400000,"doi":"10.1007/s00134-014-3417-2","type":"correction"},"doi":"10.1007/s00134-014-3210-2","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: Clinical practice guideline on diagnosis and treatment of hyponatraemia"}
+{
+  "retracted": false,
+  "timestamp": 1406678400000,
+  "updates": [
+    {
+      "timestamp": 1495995468732,
+      "identifier": {
+        "doi": "10.1007/s00134-014-3417-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-014-3210-2"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical practice guideline on diagnosis and treatment of hyponatraemia"
+}

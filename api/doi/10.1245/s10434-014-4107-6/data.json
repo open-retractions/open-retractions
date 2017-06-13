@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415404800000,"doi":"10.1245/s10434-014-4243-z","type":"correction"},"doi":"10.1245/s10434-014-4107-6","journal":"Annals of Surgical Oncology","publisher":"Springer Nature","title":"Erratum to: Pure Laparoscopic Liver Resection for Large Malignant Tumors: Does Size Matter?"}
+{
+  "retracted": false,
+  "timestamp": 1415404800000,
+  "updates": [
+    {
+      "timestamp": 1496020763042,
+      "identifier": {
+        "doi": "10.1245/s10434-014-4243-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1245/s10434-014-4107-6"
+  },
+  "journal": "Annals of Surgical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pure Laparoscopic Liver Resection for Large Malignant Tumors: Does Size Matter?"
+}

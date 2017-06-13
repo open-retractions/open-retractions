@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.physbeh.2014.06.004","type":"err"},"doi":"10.1016/j.physbeh.2004.06.013","journal":"Physiology & Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Stress induces CRF release in the paraventricular nucleus, and both CRF and GABA release in the amygdala” [Physiol Behav 82 (4) (30 September 2004) 751–762]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496046381868,
+      "identifier": {
+        "doi": "10.1016/j.physbeh.2014.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physbeh.2004.06.013"
+  },
+  "journal": "Physiology & Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stress induces CRF release in the paraventricular nucleus, and both CRF and GABA release in the amygdala” [Physiol Behav 82 (4) (30 September 2004) 751–762]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1158/0008-5472.can-17-0352","type":"correction"},"doi":"10.1158/0008-5472.can-16-1298","journal":"Cancer Research","publisher":"American Association for Cancer Research (AACR)","title":"Correction: Differential Regulation of the Melanoma Proteome by eIF4A1 and eIF4E"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495729035412,
+      "identifier": {
+        "doi": "10.1158/0008-5472.can-17-0352"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1158/0008-5472.can-16-1298"
+  },
+  "journal": "Cancer Research",
+  "publisher": "American Association for Cancer Research (AACR)",
+  "title": "Correction: Differential Regulation of the Melanoma Proteome by eIF4A1 and eIF4E"
+}

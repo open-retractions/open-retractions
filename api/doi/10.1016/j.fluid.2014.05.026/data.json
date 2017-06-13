@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411603200000,"doi":"10.1016/j.fluid.2014.07.007","type":"err"},"doi":"10.1016/j.fluid.2014.05.026","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “Cubic equation of state: Limit of expectations [Fluid Phase Equilib. 376 (2014) 141–153]"}
+{
+  "retracted": false,
+  "timestamp": 1411603200000,
+  "updates": [
+    {
+      "timestamp": 1496056687223,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2014.07.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2014.05.026"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cubic equation of state: Limit of expectations [Fluid Phase Equilib. 376 (2014) 141–153]"
+}

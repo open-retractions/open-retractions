@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409616000000,"doi":"10.1007/s11325-014-1054-1","type":"correction"},"doi":"10.1007/s11325-014-0966-0","journal":"Sleep and Breathing","publisher":"Springer Nature","title":"Erratum to: Relationship between sleep apnea and thyroid function"}
+{
+  "retracted": false,
+  "timestamp": 1409616000000,
+  "updates": [
+    {
+      "timestamp": 1496004104938,
+      "identifier": {
+        "doi": "10.1007/s11325-014-1054-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11325-014-0966-0"
+  },
+  "journal": "Sleep and Breathing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Relationship between sleep apnea and thyroid function"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377475200000,"doi":"10.1371/annotation/efa93b55-c8f0-4943-b922-a585d68f0bd0","type":"correction"},"doi":"10.1371/journal.pone.0071171","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Dizeez: An Online Game for Human Gene-Disease Annotation"}
+{
+  "retracted": false,
+  "timestamp": 1377475200000,
+  "updates": [
+    {
+      "timestamp": 1496048536105,
+      "identifier": {
+        "doi": "10.1371/annotation/efa93b55-c8f0-4943-b922-a585d68f0bd0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0071171"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Dizeez: An Online Game for Human Gene-Disease Annotation"
+}

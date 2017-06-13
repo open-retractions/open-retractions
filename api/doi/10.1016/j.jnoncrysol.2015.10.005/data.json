@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jnoncrysol.2016.11.024","type":"err"},"doi":"10.1016/j.jnoncrysol.2015.10.005","journal":"Journal of Non-Crystalline Solids","publisher":"Elsevier BV","title":"Corrigendum to “Amorphous semiconductor mobility limits” [J. Non-Cryst. Solids 432 (2016) 196–199]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495659135090,
+      "identifier": {
+        "doi": "10.1016/j.jnoncrysol.2016.11.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnoncrysol.2015.10.005"
+  },
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Amorphous semiconductor mobility limits” [J. Non-Cryst. Solids 432 (2016) 196–199]"
+}

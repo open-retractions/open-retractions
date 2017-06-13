@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1098/rsbl.2016.0759","type":"correction"},"doi":"10.1098/rsbl.2016.0064","journal":"Biology Letters","publisher":"The Royal Society","title":"Correction to ‘Effects of antibiotic resistance alleles on bacterial evolutionary responses to viral parasites’"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495650234662,
+      "identifier": {
+        "doi": "10.1098/rsbl.2016.0759"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2016.0064"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Effects of antibiotic resistance alleles on bacterial evolutionary responses to viral parasites’"
+}

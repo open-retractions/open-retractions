@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.1016/j.molcel.2016.01.021","type":"erratum"},"doi":"10.1016/j.molcel.2009.01.008","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Transcriptional Termination Enhances Protein Expression in Human Cells"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495642475156,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.01.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2009.01.008"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Transcriptional Termination Enhances Protein Expression in Human Cells"
+}

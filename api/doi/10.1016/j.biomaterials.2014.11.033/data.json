@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.biomaterials.2015.06.048","type":"erratum"},"doi":"10.1016/j.biomaterials.2014.11.033","journal":"Biomaterials","publisher":"Elsevier BV","title":"Corrigendum to “Magnetic resonance beacon to detect intracellular microRNA during neurogenesis” [Biomaterials 41 (2015) 69–78]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496013987744,
+      "identifier": {
+        "doi": "10.1016/j.biomaterials.2015.06.048"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biomaterials.2014.11.033"
+  },
+  "journal": "Biomaterials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Magnetic resonance beacon to detect intracellular microRNA during neurogenesis” [Biomaterials 41 (2015) 69–78]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ssci.2015.11.011","type":"erratum"},"doi":"10.1016/j.ssci.2014.07.019","journal":"Safety Science","publisher":"Elsevier BV","title":"Corrigendum to “Conflict Management: Apollonius in airspace design” [Saf. Sci. 72 (2015) 9–22]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496047603812,
+      "identifier": {
+        "doi": "10.1016/j.ssci.2015.11.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ssci.2014.07.019"
+  },
+  "journal": "Safety Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conflict Management: Apollonius in airspace design” [Saf. Sci. 72 (2015) 9–22]"
+}

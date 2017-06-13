@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1402444800000,"update":{"timestamp":null,"doi":null,"pmid":27275152,"type":"retraction"},"doi":"10.3389/fphar.2014.00137","journal":"Frontiers in pharmacology","publisher":null,"title":"Water hyacinth: a possible alternative rate retarding natural polymer used in sustained release tablet design."}
+{
+  "retracted": false,
+  "timestamp": 1460073600000,
+  "updates": [
+    {
+      "timestamp": 1495724990444,
+      "identifier": {
+        "doi": "10.3389/fphar.2016.00062"
+      },
+      "type": "expression_of_concern"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3389/fphar.2014.00137"
+  },
+  "journal": "Frontiers in Pharmacology",
+  "publisher": "Frontiers Media SA",
+  "title": "Expression of Concern: Water hyacinth: a possible alternative rate retarding natural polymer used in sustained release tablet design"
+}

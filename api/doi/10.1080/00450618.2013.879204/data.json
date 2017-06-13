@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1080/00450618.2014.893552","type":"correction"},"doi":"10.1080/00450618.2013.879204","journal":"Australian Journal of Forensic Sciences","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496020077759,
+      "identifier": {
+        "doi": "10.1080/00450618.2014.893552"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00450618.2013.879204"
+  },
+  "journal": "Australian Journal of Forensic Sciences",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

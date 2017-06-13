@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1302739200000,"doi":"10.1186/1471-2148-11-97","type":"correction"},"doi":"10.1186/1471-2148-11-51","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum to: Spore development and nuclear inheritance in arbuscular mycorrhizal fungi"}
+{
+  "retracted": false,
+  "timestamp": 1302739200000,
+  "updates": [
+    {
+      "timestamp": 1495954553886,
+      "identifier": {
+        "doi": "10.1186/1471-2148-11-97"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2148-11-51"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spore development and nuclear inheritance in arbuscular mycorrhizal fungi"
+}

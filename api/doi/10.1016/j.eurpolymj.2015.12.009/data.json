@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.eurpolymj.2016.03.006","type":"erratum"},"doi":"10.1016/j.eurpolymj.2015.12.009","journal":"European Polymer Journal","publisher":"Elsevier BV","title":"Corrigendum to “Morphological characterization and thermal properties of compatibilized poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV)/poly(butylene succinate) (PBS)/halloysite ternary nanocomposites”. [Eur. Polym. J. 75 (2016) 142–162]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495653581184,
+      "identifier": {
+        "doi": "10.1016/j.eurpolymj.2016.03.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eurpolymj.2015.12.009"
+  },
+  "journal": "European Polymer Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Morphological characterization and thermal properties of compatibilized poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV)/poly(butylene succinate) (PBS)/halloysite ternary nanocomposites”. [Eur. Polym. J. 75 (2016) 142–162]"
+}

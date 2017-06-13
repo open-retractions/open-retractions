@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jhep.2016.02.037","type":"err"},"doi":"10.1016/j.jhep.2010.06.031","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Profiles of HBV DNA in a large population of Chinese patients with chronic hepatitis B: Implications for antiviral therapy” [J Hepatol 2011;54:195–200]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495653904583,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2016.02.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2010.06.031"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Profiles of HBV DNA in a large population of Chinese patients with chronic hepatitis B: Implications for antiviral therapy” [J Hepatol 2011;54:195–200]"
+}

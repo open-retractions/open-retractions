@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332806400000,"doi":"10.1371/annotation/688b429f-9a1e-4ca8-8489-52f5609f26a4","type":"correction"},"doi":"10.1371/journal.pone.0014663","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Bryopsis hypnoides Plastid Genome: Multimeric Forms and Complete Nucleotide Sequence"}
+{
+  "retracted": false,
+  "timestamp": 1332806400000,
+  "updates": [
+    {
+      "timestamp": 1495888292503,
+      "identifier": {
+        "doi": "10.1371/annotation/688b429f-9a1e-4ca8-8489-52f5609f26a4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0014663"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Bryopsis hypnoides Plastid Genome: Multimeric Forms and Complete Nucleotide Sequence"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.corsci.2014.04.007","type":"err"},"doi":"10.1016/j.corsci.2013.12.014","journal":"Corrosion Science","publisher":"Elsevier BV","title":"Corrigendum to: “Effect of cyclic crack opening displacement rate on corrosion fatigue crack velocity and fracture mode transitions for Al–Zn–Mg–Cu alloys” [Corros. Sci. 81 (2014) 132–143]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496037901229,
+      "identifier": {
+        "doi": "10.1016/j.corsci.2014.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.corsci.2013.12.014"
+  },
+  "journal": "Corrosion Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Effect of cyclic crack opening displacement rate on corrosion fatigue crack velocity and fracture mode transitions for Al–Zn–Mg–Cu alloys” [Corros. Sci. 81 (2014) 132–143]"
+}

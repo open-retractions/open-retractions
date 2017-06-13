@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1207958400000,"doi":"10.1007/bf02782262","type":"correction"},"doi":"10.1007/bf02755270","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Nucleon and hyperon structure"}
+{
+  "retracted": false,
+  "timestamp": 1207958400000,
+  "updates": [
+    {
+      "timestamp": 1495844708262,
+      "identifier": {
+        "doi": "10.1007/bf02782262"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02755270"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nucleon and hyperon structure"
+}

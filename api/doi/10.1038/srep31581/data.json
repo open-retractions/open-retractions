@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1038/srep38593","type":"correction"},"doi":"10.1038/srep31581","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Astrocytic Acid-Sensing Ion Channel 1a Contributes to the Development of Chronic Epileptogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495665260286,
+      "identifier": {
+        "doi": "10.1038/srep38593"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31581"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Astrocytic Acid-Sensing Ion Channel 1a Contributes to the Development of Chronic Epileptogenesis"
+}

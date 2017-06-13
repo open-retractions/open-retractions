@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1038/srep26047","type":"correction"},"doi":"10.1038/srep13532","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Super-resolution mapping of glutamate receptors in C. elegans by confocal correlated PALM"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495679455210,
+      "identifier": {
+        "doi": "10.1038/srep26047"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep13532"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Super-resolution mapping of glutamate receptors in C. elegans by confocal correlated PALM"
+}

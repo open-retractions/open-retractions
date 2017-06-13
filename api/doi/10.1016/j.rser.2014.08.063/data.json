@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.rser.2016.07.005","type":"erratum"},"doi":"10.1016/j.rser.2014.08.063","journal":"Renewable and Sustainable Energy Reviews","publisher":"Elsevier BV","title":"Retraction notice to: “A global survey of gas hydrate development and reserves: Specifically in the marine field”"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495734367698,
+      "identifier": {
+        "doi": "10.1016/j.rser.2016.07.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rser.2014.08.063"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “A global survey of gas hydrate development and reserves: Specifically in the marine field”"
+}

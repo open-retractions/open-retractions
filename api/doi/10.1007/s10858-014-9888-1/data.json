@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423612800000,"doi":"10.1007/s10858-015-9896-9","type":"correction"},"doi":"10.1007/s10858-014-9888-1","journal":"Journal of Biomolecular NMR","publisher":"Springer Nature","title":"Erratum to: 13Cα CEST experiment on uniformly 13C-labeled proteins"}
+{
+  "retracted": false,
+  "timestamp": 1423612800000,
+  "updates": [
+    {
+      "timestamp": 1496040026169,
+      "identifier": {
+        "doi": "10.1007/s10858-015-9896-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10858-014-9888-1"
+  },
+  "journal": "Journal of Biomolecular NMR",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: 13Cα CEST experiment on uniformly 13C-labeled proteins"
+}

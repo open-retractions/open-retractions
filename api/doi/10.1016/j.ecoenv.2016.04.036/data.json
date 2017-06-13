@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.ecoenv.2016.10.019","type":"err"},"doi":"10.1016/j.ecoenv.2016.04.036","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Corrigendum to “Reduction of dioxin-like toxicity in effluents by additional wastewater treatment and related effects in fish” [Ecotoxicol. Environ. Saf. 132 (2016) 47–58]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495652531187,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2016.10.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2016.04.036"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reduction of dioxin-like toxicity in effluents by additional wastewater treatment and related effects in fish” [Ecotoxicol. Environ. Saf. 132 (2016) 47–58]"
+}

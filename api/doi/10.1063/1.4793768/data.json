@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369958400000,"doi":"10.1063/1.4809551","type":"correction"},"doi":"10.1063/1.4793768","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “The universal behavior of inverse magnetocaloric effect in antiferromagnetic materials” [J. Appl. Phys. 113, 17A902 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1369958400000,
+  "updates": [
+    {
+      "timestamp": 1496742320703,
+      "identifier": {
+        "doi": "10.1063/1.4809551"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4793768"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The universal behavior of inverse magnetocaloric effect in antiferromagnetic materials” [J. Appl. Phys. 113, 17A902 (2013)]"
+}

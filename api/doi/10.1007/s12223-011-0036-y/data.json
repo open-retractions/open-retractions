@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395878400000,"doi":"10.1007/s12223-014-0314-6","type":"correction"},"doi":"10.1007/s12223-011-0036-y","journal":"Folia Microbiologica","publisher":"Springer Nature","title":"Erratum to: Lyme borreliosis—analysis of the trends in Slovakia, 1999–2008"}
+{
+  "retracted": false,
+  "timestamp": 1395878400000,
+  "updates": [
+    {
+      "timestamp": 1496028307201,
+      "identifier": {
+        "doi": "10.1007/s12223-014-0314-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12223-011-0036-y"
+  },
+  "journal": "Folia Microbiologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lyme borreliosis—analysis of the trends in Slovakia, 1999–2008"
+}

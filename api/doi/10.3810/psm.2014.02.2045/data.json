@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1080/00913847.2015.1071912","type":"correction"},"doi":"10.3810/psm.2014.02.2045","journal":"The Physician and Sportsmedicine","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496015863198,
+      "identifier": {
+        "doi": "10.1080/00913847.2015.1071912"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3810/psm.2014.02.2045"
+  },
+  "journal": "The Physician and Sportsmedicine",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

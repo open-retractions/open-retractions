@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1007/s11661-016-3434-6","type":"correction"},"doi":"10.1007/s11661-016-3396-8","journal":"Metallurgical and Materials Transactions A","publisher":"Springer Nature","title":"Erratum to: Tribological Properties of AlCrCuFeNi2 High-Entropy Alloy in Different Conditions"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652615663,
+      "identifier": {
+        "doi": "10.1007/s11661-016-3434-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11661-016-3396-8"
+  },
+  "journal": "Metallurgical and Materials Transactions A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Tribological Properties of AlCrCuFeNi2 High-Entropy Alloy in Different Conditions"
+}

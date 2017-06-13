@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.solmat.2015.11.018","type":"err"},"doi":"10.1016/j.solmat.2015.07.036","journal":"Solar Energy Materials and Solar Cells","publisher":"Elsevier BV","title":"Corrigendum to Thermochromic effect with semiconducting layers [Sol. Energy Mater. Sol. Cells 143 (2015) 557–560]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496050099045,
+      "identifier": {
+        "doi": "10.1016/j.solmat.2015.11.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solmat.2015.07.036"
+  },
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Thermochromic effect with semiconducting layers [Sol. Energy Mater. Sol. Cells 143 (2015) 557–560]"
+}

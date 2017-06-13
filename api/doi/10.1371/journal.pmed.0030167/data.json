@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1148947200000,"doi":"10.1371/journal.pmed.0030251","type":"correction"},"doi":"10.1371/journal.pmed.0030167","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Author's Reply"}
+{
+  "retracted": false,
+  "timestamp": 1148947200000,
+  "updates": [
+    {
+      "timestamp": 1495845696986,
+      "identifier": {
+        "doi": "10.1371/journal.pmed.0030251"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0030167"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Author's Reply"
+}

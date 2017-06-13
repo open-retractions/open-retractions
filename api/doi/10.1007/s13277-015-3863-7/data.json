@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454025600000,"doi":"10.1007/s13277-016-4832-5","type":"correction"},"doi":"10.1007/s13277-015-3863-7","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: UBE2S is associated with malignant characteristics of breast cancer cells"}
+{
+  "retracted": false,
+  "timestamp": 1454025600000,
+  "updates": [
+    {
+      "timestamp": 1495640915164,
+      "identifier": {
+        "doi": "10.1007/s13277-016-4832-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-3863-7"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: UBE2S is associated with malignant characteristics of breast cancer cells"
+}

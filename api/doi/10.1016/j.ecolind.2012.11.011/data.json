@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.ecolind.2013.10.013","type":"err"},"doi":"10.1016/j.ecolind.2012.11.011","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Corrigendum to ‘Quantifying associations of large vertebrates with salmon in riparian areas of British Columbia streams by means of camera-traps, bait stations, and hair samples’ [Ecol. Indicat. 27 (2013) 97–107]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1495995865577,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2013.10.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2012.11.011"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Quantifying associations of large vertebrates with salmon in riparian areas of British Columbia streams by means of camera-traps, bait stations, and hair samples’ [Ecol. Indicat. 27 (2013) 97–107]"
+}

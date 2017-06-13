@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362096000000,"doi":"10.1016/j.autneu.2013.02.007","type":"err"},"doi":"10.1016/j.autneu.2012.07.003","journal":"Autonomic Neuroscience","publisher":"Elsevier BV","title":"Corrigendum to “Enteric neurons from postnatal Fgf2 knockout mice differ in neurite outgrowth responses” [Auton Neurosci 170 (1–2) 56–61]"}
+{
+  "retracted": false,
+  "timestamp": 1362096000000,
+  "updates": [
+    {
+      "timestamp": 1496004842888,
+      "identifier": {
+        "doi": "10.1016/j.autneu.2013.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.autneu.2012.07.003"
+  },
+  "journal": "Autonomic Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enteric neurons from postnatal Fgf2 knockout mice differ in neurite outgrowth responses” [Auton Neurosci 170 (1–2) 56–61]"
+}

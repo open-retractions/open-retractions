@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.encep.2014.08.001","type":"err"},"doi":"10.1016/j.encep.2013.04.001","journal":"L'Encéphale","publisher":"Elsevier BV","title":"Erratum à « Quel cadre nosographique pour le bronzage excessif ? » [L’Encéphale 40 (2) (2014) 174–179]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496006520243,
+      "identifier": {
+        "doi": "10.1016/j.encep.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.encep.2013.04.001"
+  },
+  "journal": "L'Encéphale",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Quel cadre nosographique pour le bronzage excessif ? » [L’Encéphale 40 (2) (2014) 174–179]"
+}

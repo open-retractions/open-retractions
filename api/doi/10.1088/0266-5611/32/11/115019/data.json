@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480896000000,"doi":"10.1088/0266-5611/33/1/019601","type":"correction"},"doi":"10.1088/0266-5611/32/11/115019","journal":"Inverse Problems","publisher":"IOP Publishing","title":"Erratum: Fast Gibbs sampling for high-dimensional Bayesian inversion (2016 Inverse Problems 32 115019)"}
+{
+  "retracted": false,
+  "timestamp": 1480896000000,
+  "updates": [
+    {
+      "timestamp": 1495663543417,
+      "identifier": {
+        "doi": "10.1088/0266-5611/33/1/019601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0266-5611/32/11/115019"
+  },
+  "journal": "Inverse Problems",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Fast Gibbs sampling for high-dimensional Bayesian inversion (2016 Inverse Problems 32 115019)"
+}

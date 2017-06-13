@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.fsi.2013.03.348","type":"err"},"doi":"10.1016/j.fsi.2008.07.008","journal":"Fish & Shellfish Immunology","publisher":"Elsevier BV","title":"Corrigendum to “Development of adaptive immunity in rainbow trout, Oncorhynchus mykiss (Walbaum) surviving an infection with Yersinia ruckeri” [Fish Shellfish Immunol 25 (2008) 533–541]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496007417824,
+      "identifier": {
+        "doi": "10.1016/j.fsi.2013.03.348"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsi.2008.07.008"
+  },
+  "journal": "Fish & Shellfish Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of adaptive immunity in rainbow trout, Oncorhynchus mykiss (Walbaum) surviving an infection with Yersinia ruckeri” [Fish Shellfish Immunol 25 (2008) 533–541]"
+}

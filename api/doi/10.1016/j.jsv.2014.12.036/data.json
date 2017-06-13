@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jsv.2016.05.006","type":"err"},"doi":"10.1016/j.jsv.2014.12.036","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Damping properties of a beam with vacuum-packed granular damper” [J. Sound Vib. 341 (2015) 74–85]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495677552790,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2016.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2014.12.036"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Damping properties of a beam with vacuum-packed granular damper” [J. Sound Vib. 341 (2015) 74–85]"
+}

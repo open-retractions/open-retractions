@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.camwa.2014.04.001","type":"err"},"doi":"10.1016/j.camwa.2013.12.008","journal":"Computers & Mathematics with Applications","publisher":"Elsevier BV","title":"Corrigendum to “Fast and efficient numerical methods for an extended Black–Scholes model” [Comput. Math. Appl. (2014) 636–654]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496034004856,
+      "identifier": {
+        "doi": "10.1016/j.camwa.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.camwa.2013.12.008"
+  },
+  "journal": "Computers & Mathematics with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fast and efficient numerical methods for an extended Black–Scholes model” [Comput. Math. Appl. (2014) 636–654]"
+}

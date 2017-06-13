@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486339200000,"doi":"10.1088/1751-8121/50/8/089501","type":"correction"},"doi":"10.1088/0305-4470/37/25/l01","journal":"Journal of Physics A: Mathematical and Theoretical","publisher":"IOP Publishing","title":"Corrigendum: Adiabatic quantum gates and Boolean functions (2004 J. Phys. A: Math. Gen. 37 L267–73)"}
+{
+  "retracted": false,
+  "timestamp": 1486339200000,
+  "updates": [
+    {
+      "timestamp": 1495718054935,
+      "identifier": {
+        "doi": "10.1088/1751-8121/50/8/089501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0305-4470/37/25/l01"
+  },
+  "journal": "Journal of Physics A: Mathematical and Theoretical",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Adiabatic quantum gates and Boolean functions (2004 J. Phys. A: Math. Gen. 37 L267–73)"
+}

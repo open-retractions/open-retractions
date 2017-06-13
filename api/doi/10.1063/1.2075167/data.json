@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1133395200000,"doi":"10.1063/1.2140445","type":"erratum"},"doi":"10.1063/1.2075167","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Reflectron velocity map ion imaging” [Rev. Sci. Instrum. 76, 104101 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1133395200000,
+  "updates": [
+    {
+      "timestamp": 1495972802522,
+      "identifier": {
+        "doi": "10.1063/1.2140445"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2075167"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Reflectron velocity map ion imaging” [Rev. Sci. Instrum. 76, 104101 (2005)]"
+}

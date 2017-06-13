@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1007/s10439-015-1324-5","type":"correction"},"doi":"10.1007/s10439-014-1206-2","journal":"Annals of Biomedical Engineering","publisher":"Springer Nature","title":"Erratum to: Clinical Applications of Naturally Derived Biopolymer-Based Scaffolds for Regenerative Medicine"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996424669,
+      "identifier": {
+        "doi": "10.1007/s10439-015-1324-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10439-014-1206-2"
+  },
+  "journal": "Annals of Biomedical Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical Applications of Naturally Derived Biopolymer-Based Scaffolds for Regenerative Medicine"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475020800000,"doi":"10.1038/srep33941","type":"correction"},"doi":"10.1038/srep26743","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Terahertz radiation driven by two-color laser pulses at near-relativistic intensities: Competition between photoionization and wakefield effects"}
+{
+  "retracted": false,
+  "timestamp": 1475020800000,
+  "updates": [
+    {
+      "timestamp": 1495643564302,
+      "identifier": {
+        "doi": "10.1038/srep33941"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep26743"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Terahertz radiation driven by two-color laser pulses at near-relativistic intensities: Competition between photoionization and wakefield effects"
+}

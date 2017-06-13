@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412812800000,"doi":"10.1371/journal.pone.0111161","type":"correction"},"doi":"10.1371/journal.pone.0103341","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Computational Approach towards a Gene Regulatory Network for the Developing Nematostella vectensis Gut"}
+{
+  "retracted": false,
+  "timestamp": 1412812800000,
+  "updates": [
+    {
+      "timestamp": 1496013261968,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0111161"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0103341"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Computational Approach towards a Gene Regulatory Network for the Developing Nematostella vectensis Gut"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447632000000,"doi":"10.1007/s10240-015-0079-8","type":"correction"},"doi":"10.1007/s10240-014-0061-x","journal":"Publications mathématiques de l'IHÉS","publisher":"Springer Nature","title":"Erratum to: Holonomic D-modules on abelian varieties"}
+{
+  "retracted": false,
+  "timestamp": 1447632000000,
+  "updates": [
+    {
+      "timestamp": 1496046118540,
+      "identifier": {
+        "doi": "10.1007/s10240-015-0079-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10240-014-0061-x"
+  },
+  "journal": "Publications mathématiques de l'IHÉS",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Holonomic D-modules on abelian varieties"
+}

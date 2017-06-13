@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.envpol.2014.09.008","type":"erratum"},"doi":"10.1016/j.envpol.2014.07.032","journal":"Environmental Pollution","publisher":"Elsevier BV","title":"Corrigendum to “Chemical and biological characterization of air particulate matter 2.5, collected from five cities in China” [Environ. Pollut. 194 (November 2014), 188–195]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496009208058,
+      "identifier": {
+        "doi": "10.1016/j.envpol.2014.09.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envpol.2014.07.032"
+  },
+  "journal": "Environmental Pollution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Chemical and biological characterization of air particulate matter 2.5, collected from five cities in China” [Environ. Pollut. 194 (November 2014), 188–195]"
+}

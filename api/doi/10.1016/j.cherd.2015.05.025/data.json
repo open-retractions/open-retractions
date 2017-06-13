@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.cherd.2015.08.023","type":"err"},"doi":"10.1016/j.cherd.2015.05.025","journal":"Chemical Engineering Research and Design","publisher":"Elsevier BV","title":"Corrigendum to “Effect of PE-g-MA compatibilizer on the structure and performance of HDPE/EVA blend membranes fabricated via TIPS method” [Chem. Eng. Res. Des. 100 (2015) 237–247]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496030269911,
+      "identifier": {
+        "doi": "10.1016/j.cherd.2015.08.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cherd.2015.05.025"
+  },
+  "journal": "Chemical Engineering Research and Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of PE-g-MA compatibilizer on the structure and performance of HDPE/EVA blend membranes fabricated via TIPS method” [Chem. Eng. Res. Des. 100 (2015) 237–247]"
+}

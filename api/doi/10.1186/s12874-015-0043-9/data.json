@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443139200000,"doi":"10.1186/s12874-015-0065-3","type":"correction"},"doi":"10.1186/s12874-015-0043-9","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: Correspondence: Some general points regarding Ledberg and Wennberg, BMC Medical Research Methodology 2014 April 27;14:58"}
+{
+  "retracted": false,
+  "timestamp": 1443139200000,
+  "updates": [
+    {
+      "timestamp": 1496028710018,
+      "identifier": {
+        "doi": "10.1186/s12874-015-0065-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12874-015-0043-9"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Correspondence: Some general points regarding Ledberg and Wennberg, BMC Medical Research Methodology 2014 April 27;14:58"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1136/emermed-2013-203135corr1","type":"correction"},"doi":"10.1136/emermed-2013-203135","journal":"Emergency Medicine Journal","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496031399908,
+      "identifier": {
+        "doi": "10.1136/emermed-2013-203135corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/emermed-2013-203135"
+  },
+  "journal": "Emergency Medicine Journal",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

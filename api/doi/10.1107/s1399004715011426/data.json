@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1107/s2059798316013048","type":"correction"},"doi":"10.1107/s1399004715011426","journal":"Acta Crystallographica Section D Structural Biology","publisher":"International Union of Crystallography (IUCr)","title":"From deep TLS validation to ensembles of atomic models built from elemental motions. Addenda and corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495741692848,
+      "identifier": {
+        "doi": "10.1107/s2059798316013048"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1399004715011426"
+  },
+  "journal": "Acta Crystallographica Section D Structural Biology",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "From deep TLS validation to ensembles of atomic models built from elemental motions. Addenda and corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1193702400000,"doi":"10.1073/pnas.0709465104","type":"correction"},"doi":"10.1073/pnas.0704344104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Beckers et al., The mouse homeobox gene Noto regulates node morphogenesis, notochordal ciliogenesis, and left right patterning"}
+{
+  "retracted": false,
+  "timestamp": 1193702400000,
+  "updates": [
+    {
+      "timestamp": 1495993770429,
+      "identifier": {
+        "doi": "10.1073/pnas.0709465104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0704344104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Beckers et al., The mouse homeobox gene Noto regulates node morphogenesis, notochordal ciliogenesis, and left right patterning"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1250553600000,"doi":"10.1371/annotation/6a678269-9623-4a13-8b19-4e9431ff3cb6","type":"correction"},"doi":"10.1371/journal.pone.0004488","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Relation of DNA Methylation of 5′-CpG Island of ACSL3 to Transplacental Exposure to Airborne Polycyclic Aromatic Hydrocarbons and Childhood Asthma"}
+{
+  "retracted": false,
+  "timestamp": 1250553600000,
+  "updates": [
+    {
+      "timestamp": 1496025196575,
+      "identifier": {
+        "doi": "10.1371/annotation/6a678269-9623-4a13-8b19-4e9431ff3cb6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004488"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Relation of DNA Methylation of 5′-CpG Island of ACSL3 to Transplacental Exposure to Airborne Polycyclic Aromatic Hydrocarbons and Childhood Asthma"
+}

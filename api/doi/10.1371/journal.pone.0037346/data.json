@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341878400000,"doi":"10.1371/annotation/a72ae6bf-afe8-4244-b175-e303f02686f8","type":"correction"},"doi":"10.1371/journal.pone.0037346","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup"}
+{
+  "retracted": false,
+  "timestamp": 1341878400000,
+  "updates": [
+    {
+      "timestamp": 1495921314477,
+      "identifier": {
+        "doi": "10.1371/annotation/a72ae6bf-afe8-4244-b175-e303f02686f8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037346"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup"
+}

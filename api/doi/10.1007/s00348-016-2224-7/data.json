@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477094400000,"doi":"10.1007/s00348-016-2259-9","type":"correction"},"doi":"10.1007/s00348-016-2224-7","journal":"Experiments in Fluids","publisher":"Springer Nature","title":"Erratum to: Combined density gradient and velocity field measurements in transient flows by means of Differential Interferometry and Long-range µPIV"}
+{
+  "retracted": false,
+  "timestamp": 1477094400000,
+  "updates": [
+    {
+      "timestamp": 1495651023867,
+      "identifier": {
+        "doi": "10.1007/s00348-016-2259-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00348-016-2224-7"
+  },
+  "journal": "Experiments in Fluids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Combined density gradient and velocity field measurements in transient flows by means of Differential Interferometry and Long-range µPIV"
+}

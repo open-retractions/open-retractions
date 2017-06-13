@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483056000000,"doi":"10.1007/s10955-016-1711-9","type":"correction"},"doi":"10.1007/s10955-016-1595-8","journal":"Journal of Statistical Physics","publisher":"Springer Nature","title":"Erratum to: Translation Invariant Extensions of Finite Volume Measures"}
+{
+  "retracted": false,
+  "timestamp": 1483056000000,
+  "updates": [
+    {
+      "timestamp": 1495670267517,
+      "identifier": {
+        "doi": "10.1007/s10955-016-1711-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10955-016-1595-8"
+  },
+  "journal": "Journal of Statistical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Translation Invariant Extensions of Finite Volume Measures"
+}

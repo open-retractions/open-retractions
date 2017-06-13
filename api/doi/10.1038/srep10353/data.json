@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441152000000,"doi":"10.1038/srep13509","type":"correction"},"doi":"10.1038/srep10353","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Novel anti-thrombotic agent for modulation of protein disulfide isomerase family member ERp57 for prophylactic therapy"}
+{
+  "retracted": false,
+  "timestamp": 1441152000000,
+  "updates": [
+    {
+      "timestamp": 1496026798536,
+      "identifier": {
+        "doi": "10.1038/srep13509"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10353"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Novel anti-thrombotic agent for modulation of protein disulfide isomerase family member ERp57 for prophylactic therapy"
+}

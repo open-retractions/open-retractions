@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408406400000,"doi":"10.1016/j.febslet.2014.06.001","type":"err"},"doi":"10.1016/j.febslet.2014.03.002","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “MiR-129-5p is down-regulated and involved in the growth, apoptosis and migration of medullary thyroid carcinoma cells through targeting RET” [FEBS Lett. 588 (2014) 1644-1651]"}
+{
+  "retracted": false,
+  "timestamp": 1408406400000,
+  "updates": [
+    {
+      "timestamp": 1496043599715,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2014.03.002"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “MiR-129-5p is down-regulated and involved in the growth, apoptosis and migration of medullary thyroid carcinoma cells through targeting RET” [FEBS Lett. 588 (2014) 1644-1651]"
+}

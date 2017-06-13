@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.jss.2016.02.033","type":"erratum"},"doi":"10.1016/j.jss.2015.08.009","journal":"Journal of Systems and Software","publisher":"Elsevier BV","title":"Erratum to “A General Theory of Software Engineering: Balancing Human, Social and Organizational Capitals” [The Journal of Systems & Software 109c (2015) 229–242]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495653412141,
+      "identifier": {
+        "doi": "10.1016/j.jss.2016.02.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jss.2015.08.009"
+  },
+  "journal": "Journal of Systems and Software",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A General Theory of Software Engineering: Balancing Human, Social and Organizational Capitals” [The Journal of Systems & Software 109c (2015) 229–242]"
+}

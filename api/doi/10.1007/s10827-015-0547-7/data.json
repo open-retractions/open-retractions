@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1007/s10827-015-0555-7","type":"correction"},"doi":"10.1007/s10827-015-0547-7","journal":"Journal of Computational Neuroscience","publisher":"Springer Nature","title":"Erratum to: Bayes optimal template matching for spike sorting – combining fisher discriminant analysis with optimal filtering"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496057450624,
+      "identifier": {
+        "doi": "10.1007/s10827-015-0555-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10827-015-0547-7"
+  },
+  "journal": "Journal of Computational Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bayes optimal template matching for spike sorting – combining fisher discriminant analysis with optimal filtering"
+}

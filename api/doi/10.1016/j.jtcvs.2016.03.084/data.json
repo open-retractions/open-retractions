@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jtcvs.2016.10.004","type":"err"},"doi":"10.1016/j.jtcvs.2016.03.084","journal":"The Journal of Thoracic and Cardiovascular Surgery","publisher":"Elsevier BV","title":"Notice of Correction"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495656786164,
+      "identifier": {
+        "doi": "10.1016/j.jtcvs.2016.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtcvs.2016.03.084"
+  },
+  "journal": "The Journal of Thoracic and Cardiovascular Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Notice of Correction"
+}

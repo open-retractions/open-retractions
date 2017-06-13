@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.jnt.2016.01.014","type":"erratum"},"doi":"10.1016/j.jnt.2015.04.011","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “On the quantitative dynamical Mordell–Lang conjecture” [J. Number Theory 156 (2015) 161–182]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495652176972,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2016.01.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2015.04.011"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the quantitative dynamical Mordell–Lang conjecture” [J. Number Theory 156 (2015) 161–182]"
+}

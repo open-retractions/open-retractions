@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1016/j.bbr.2016.05.054","type":"err"},"doi":"10.1016/j.bbr.2015.02.048","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “Docosahexaenoic acid partially ameliorates deficits in social behavior and ultrasonic vocalizations caused by prenatal ethanol exposure” [Behav. Brain Res. 286 (2015) 201–211]"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495716971087,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2016.05.054"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2015.02.048"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Docosahexaenoic acid partially ameliorates deficits in social behavior and ultrasonic vocalizations caused by prenatal ethanol exposure” [Behav. Brain Res. 286 (2015) 201–211]"
+}

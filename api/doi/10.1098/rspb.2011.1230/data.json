@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329868800000,"doi":"10.1098/rspb.2012.2272","type":"correction"},"doi":"10.1098/rspb.2011.1230","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction for Phylogenetic relatedness predicts priority effects in nectar yeast communities"}
+{
+  "retracted": false,
+  "timestamp": 1329868800000,
+  "updates": [
+    {
+      "timestamp": 1495959900378,
+      "identifier": {
+        "doi": "10.1098/rspb.2012.2272"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2011.1230"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction for Phylogenetic relatedness predicts priority effects in nectar yeast communities"
+}

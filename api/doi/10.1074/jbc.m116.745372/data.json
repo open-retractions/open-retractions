@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481241600000,"doi":"10.1074/jbc.a116.745372","type":"correction"},"doi":"10.1074/jbc.m116.745372","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Phosphorylation of PP1 regulator Sds22 by PLK1 ensures accurate chromosome segregation."}
+{
+  "retracted": false,
+  "timestamp": 1481241600000,
+  "updates": [
+    {
+      "timestamp": 1495665960939,
+      "identifier": {
+        "doi": "10.1074/jbc.a116.745372"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m116.745372"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Phosphorylation of PP1 regulator Sds22 by PLK1 ensures accurate chromosome segregation."
+}

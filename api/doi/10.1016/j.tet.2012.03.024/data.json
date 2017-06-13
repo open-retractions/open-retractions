@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1345939200000,"doi":"10.1016/j.tet.2012.06.054","type":"err"},"doi":"10.1016/j.tet.2012.03.024","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Exploratory studies toward the synthesis of the peroxylactone unit of plakortolides” [Tetrahedron 68 (2012) 3717–3724]"}
+{
+  "retracted": false,
+  "timestamp": 1345939200000,
+  "updates": [
+    {
+      "timestamp": 1495898002695,
+      "identifier": {
+        "doi": "10.1016/j.tet.2012.06.054"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2012.03.024"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploratory studies toward the synthesis of the peroxylactone unit of plakortolides” [Tetrahedron 68 (2012) 3717–3724]"
+}

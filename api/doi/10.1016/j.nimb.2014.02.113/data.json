@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.nimb.2015.01.001","type":"err"},"doi":"10.1016/j.nimb.2014.02.113","journal":"Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms","publisher":"Elsevier BV","title":"Corrigendum to “Recent trends in IBA for cultural heritage studies” [Nucl. Instr. Meth. Phys. Res. B 332 (2014) 439–444]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496035729071,
+      "identifier": {
+        "doi": "10.1016/j.nimb.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nimb.2014.02.113"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Recent trends in IBA for cultural heritage studies” [Nucl. Instr. Meth. Phys. Res. B 332 (2014) 439–444]"
+}

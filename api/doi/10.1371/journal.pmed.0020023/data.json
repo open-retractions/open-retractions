@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330905600000,"doi":"10.1371/annotation/6bfc9dda-414d-4f53-8c31-34d19bf84e4b","type":"correction"},"doi":"10.1371/journal.pmed.0020023","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Modeling the HIV Epidemic in Africa"}
+{
+  "retracted": false,
+  "timestamp": 1330905600000,
+  "updates": [
+    {
+      "timestamp": 1496025197124,
+      "identifier": {
+        "doi": "10.1371/annotation/6bfc9dda-414d-4f53-8c31-34d19bf84e4b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0020023"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Modeling the HIV Epidemic in Africa"
+}

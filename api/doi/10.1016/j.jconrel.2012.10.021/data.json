@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1016/j.jconrel.2013.10.028","type":"err"},"doi":"10.1016/j.jconrel.2012.10.021","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “Ultrasound-based molecular imaging and specific gene delivery to mesenteric vasculature by endothelial adhesion molecule targeted microbubbles in a mouse model of Crohn's disease” [J. Control. Release 165 (2013) 216–225]"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1495994028620,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2013.10.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2012.10.021"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ultrasound-based molecular imaging and specific gene delivery to mesenteric vasculature by endothelial adhesion molecule targeted microbubbles in a mouse model of Crohn's disease” [J. Control. Release 165 (2013) 216–225]"
+}

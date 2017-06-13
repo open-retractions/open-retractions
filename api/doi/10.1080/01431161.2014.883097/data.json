@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460332800000,"doi":"10.1080/01431161.2016.1159809","type":"correction"},"doi":"10.1080/01431161.2014.883097","journal":"International Journal of Remote Sensing","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1460332800000,
+  "updates": [
+    {
+      "timestamp": 1495665590161,
+      "identifier": {
+        "doi": "10.1080/01431161.2016.1159809"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01431161.2014.883097"
+  },
+  "journal": "International Journal of Remote Sensing",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

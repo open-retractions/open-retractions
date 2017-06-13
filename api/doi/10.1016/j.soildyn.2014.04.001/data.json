@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.soildyn.2016.01.001","type":"err"},"doi":"10.1016/j.soildyn.2014.04.001","journal":"Soil Dynamics and Earthquake Engineering","publisher":"Elsevier BV","title":"Corrigendum to: “Generalized cyclic p–y curve modeling for analysis of laterally loaded piles” [Soil Dyn. Earthq. Eng. 63 (2014) 138–149]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1496059828506,
+      "identifier": {
+        "doi": "10.1016/j.soildyn.2016.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soildyn.2014.04.001"
+  },
+  "journal": "Soil Dynamics and Earthquake Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Generalized cyclic p–y curve modeling for analysis of laterally loaded piles” [Soil Dyn. Earthq. Eng. 63 (2014) 138–149]"
+}

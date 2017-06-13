@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1170720000000,"doi":"10.1073/pnas.0611564104","type":"correction"},"doi":"10.1073/pnas.0602353103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Casola et al., Tracking germinal center B cells expressing germ-line immunoglobulin  1 transcripts by conditional gene targeting"}
+{
+  "retracted": false,
+  "timestamp": 1170720000000,
+  "updates": [
+    {
+      "timestamp": 1495885560716,
+      "identifier": {
+        "doi": "10.1073/pnas.0611564104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0602353103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Casola et al., Tracking germinal center B cells expressing germ-line immunoglobulin  1 transcripts by conditional gene targeting"
+}

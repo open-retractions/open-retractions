@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.pbb.2016.01.008","type":"err"},"doi":"10.1016/j.pbb.2014.05.017","journal":"Pharmacology Biochemistry and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “The microinjection of a cannabinoid agonist into the accumbens shell induces anxiogenesis in the elevated plus-maze” [Pharmacol. Biochem. Behav. 124 (2014) 160–166]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495639146955,
+      "identifier": {
+        "doi": "10.1016/j.pbb.2016.01.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbb.2014.05.017"
+  },
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The microinjection of a cannabinoid agonist into the accumbens shell induces anxiogenesis in the elevated plus-maze” [Pharmacol. Biochem. Behav. 124 (2014) 160–166]"
+}

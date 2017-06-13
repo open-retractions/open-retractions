@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.bcp.2013.08.021","type":"err"},"doi":"10.1016/j.bcp.2012.07.016","journal":"Biochemical Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Quercetin and its metabolites improve vessel function by inducing eNOS activity via phosphorylation of AMPK” [Biochem. Pharmacol. 84 (2012) 1036–1044]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496019361532,
+      "identifier": {
+        "doi": "10.1016/j.bcp.2013.08.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcp.2012.07.016"
+  },
+  "journal": "Biochemical Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quercetin and its metabolites improve vessel function by inducing eNOS activity via phosphorylation of AMPK” [Biochem. Pharmacol. 84 (2012) 1036–1044]"
+}

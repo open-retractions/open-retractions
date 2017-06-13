@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.respe.2016.07.002","type":"erratum"},"doi":"10.1016/j.respe.2016.03.102","journal":"Revue d'Épidémiologie et de Santé Publique","publisher":"Elsevier BV","title":"Erratum à « EPI-CLIN 2016, Strasbourg, 25–27 mai 2016 » [Rev Epidemiol Sante Publique 2016;64(S3):S158]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495638965572,
+      "identifier": {
+        "doi": "10.1016/j.respe.2016.07.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.respe.2016.03.102"
+  },
+  "journal": "Revue d'Épidémiologie et de Santé Publique",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « EPI-CLIN 2016, Strasbourg, 25–27 mai 2016 » [Rev Epidemiol Sante Publique 2016;64(S3):S158]"
+}

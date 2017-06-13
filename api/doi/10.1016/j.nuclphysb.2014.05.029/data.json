@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.nuclphysb.2015.02.012","type":"err"},"doi":"10.1016/j.nuclphysb.2014.05.029","journal":"Nuclear Physics B","publisher":"Elsevier BV","title":"Corrigendum to “Two-loop electroweak threshold corrections to the bottom and top Yukawa couplings” [Nucl. Phys. B 885 (2014) 459–480]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496046061906,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysb.2015.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysb.2014.05.029"
+  },
+  "journal": "Nuclear Physics B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Two-loop electroweak threshold corrections to the bottom and top Yukawa couplings” [Nucl. Phys. B 885 (2014) 459–480]"
+}

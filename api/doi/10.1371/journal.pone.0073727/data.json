@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389312000000,"doi":"10.1371/annotation/46f95fa7-fa55-4d4e-8c59-8aaa0c4cef04","type":"correction"},"doi":"10.1371/journal.pone.0073727","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Mutational Analysis of the Putative Hydrolase PqsE: Toward a Deeper Molecular Understanding of Virulence Acquisition in Pseudomonas aeruginosa"}
+{
+  "retracted": false,
+  "timestamp": 1389312000000,
+  "updates": [
+    {
+      "timestamp": 1496011988458,
+      "identifier": {
+        "doi": "10.1371/annotation/46f95fa7-fa55-4d4e-8c59-8aaa0c4cef04"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073727"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Mutational Analysis of the Putative Hydrolase PqsE: Toward a Deeper Molecular Understanding of Virulence Acquisition in Pseudomonas aeruginosa"
+}

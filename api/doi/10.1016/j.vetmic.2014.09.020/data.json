@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445472000000,"doi":"10.1016/j.vetmic.2015.07.001","type":"err"},"doi":"10.1016/j.vetmic.2014.09.020","journal":"Veterinary Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of biofilm formation using milk in a flow cell model and microarray characterization of Staphylococcus aureus strains from bovine mastitis” [Vet. Microbiol. 174 (2014) 489–495]"}
+{
+  "retracted": false,
+  "timestamp": 1445472000000,
+  "updates": [
+    {
+      "timestamp": 1496027366455,
+      "identifier": {
+        "doi": "10.1016/j.vetmic.2015.07.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetmic.2014.09.020"
+  },
+  "journal": "Veterinary Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of biofilm formation using milk in a flow cell model and microarray characterization of  Staphylococcus aureus  strains from bovine mastitis” [Vet. Microbiol. 174 (2014) 489–495]"
+}

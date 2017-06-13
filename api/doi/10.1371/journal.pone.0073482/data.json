@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379894400000,"doi":"10.1371/annotation/65881dc3-5bce-4f0b-9060-7079e16b1877","type":"correction"},"doi":"10.1371/journal.pone.0073482","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Ubiquitination-Induced Fluorescence Complementation (UiFC) for Detection of K48 Ubiquitin Chains In Vitro and in Live Cells"}
+{
+  "retracted": false,
+  "timestamp": 1379894400000,
+  "updates": [
+    {
+      "timestamp": 1496048375578,
+      "identifier": {
+        "doi": "10.1371/annotation/65881dc3-5bce-4f0b-9060-7079e16b1877"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073482"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Ubiquitination-Induced Fluorescence Complementation (UiFC) for Detection of K48 Ubiquitin Chains In Vitro and in Live Cells"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.pgeola.2013.08.001","type":"err"},"doi":"10.1016/j.pgeola.2012.05.002","journal":"Proceedings of the Geologists' Association","publisher":"Elsevier BV","title":"Erratum to “The relationship between shrink–swell occurrence and climate in south-east England” [Proc. Geol. Assoc. 123 (2012) 556–575]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496044349788,
+      "identifier": {
+        "doi": "10.1016/j.pgeola.2013.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pgeola.2012.05.002"
+  },
+  "journal": "Proceedings of the Geologists' Association",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The relationship between shrink–swell occurrence and climate in south-east England” [Proc. Geol. Assoc. 123 (2012) 556–575]"
+}

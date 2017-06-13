@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1098748800000,"doi":"10.1073/pnas.0407091101","type":"correction"},"doi":"10.1073/pnas.0400149101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Marillonnet et al., In planta engineering of viral RNA replicons: Efficient assembly by recombination of DNA modules delivered by Agrobacterium, PNAS 2004 101:6852-6857"}
+{
+  "retracted": false,
+  "timestamp": 1098748800000,
+  "updates": [
+    {
+      "timestamp": 1495834907530,
+      "identifier": {
+        "doi": "10.1073/pnas.0407091101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0400149101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Marillonnet et al., In planta engineering of viral RNA replicons: Efficient assembly by recombination of DNA modules delivered by Agrobacterium, PNAS 2004 101:6852-6857"
+}

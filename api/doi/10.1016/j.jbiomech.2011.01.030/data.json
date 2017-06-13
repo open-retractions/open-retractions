@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399420800000,"doi":"10.1016/j.jbiomech.2014.02.032","type":"err"},"doi":"10.1016/j.jbiomech.2011.01.030","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Erratum to “Invariant hip moment pattern while walking with a robotic hip exoskeleton” [J. Biomech. 44 (5) (2011) 789–793]"}
+{
+  "retracted": false,
+  "timestamp": 1399420800000,
+  "updates": [
+    {
+      "timestamp": 1496026806842,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2014.02.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2011.01.030"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Invariant hip moment pattern while walking with a robotic hip exoskeleton” [J. Biomech. 44 (5) (2011) 789–793]"
+}

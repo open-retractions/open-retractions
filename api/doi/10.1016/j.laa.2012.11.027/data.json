@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.laa.2013.03.017","type":"err"},"doi":"10.1016/j.laa.2012.11.027","journal":"Linear Algebra and its Applications","publisher":"Elsevier BV","title":"Erratum to “Matrices uniquely determined by their lonesums” [Linear Algebra Appl. 438(7) (2013) 3107–3123]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496010650252,
+      "identifier": {
+        "doi": "10.1016/j.laa.2013.03.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.laa.2012.11.027"
+  },
+  "journal": "Linear Algebra and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Matrices uniquely determined by their lonesums” [Linear Algebra Appl. 438(7) (2013) 3107–3123]"
+}

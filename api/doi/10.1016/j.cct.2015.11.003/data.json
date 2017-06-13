@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.cct.2016.06.011","type":"err"},"doi":"10.1016/j.cct.2015.11.003","journal":"Contemporary Clinical Trials","publisher":"Elsevier BV","title":"Corrigendum to “Design of a multi-arm randomized clinical trial with no control arm” [Contemporary Clinical Trials 46 (2016) 12–17]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495723228749,
+      "identifier": {
+        "doi": "10.1016/j.cct.2016.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cct.2015.11.003"
+  },
+  "journal": "Contemporary Clinical Trials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design of a multi-arm randomized clinical trial with no control arm” [Contemporary Clinical Trials 46 (2016) 12–17]"
+}

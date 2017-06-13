@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.optmat.2015.01.016","type":"err"},"doi":"10.1016/j.optmat.2014.02.026","journal":"Optical Materials","publisher":"Elsevier BV","title":"Corrigendum to “Eu concentration dependence on scintillation properties of Eu doped SrI2 single crystals grown by modified micro-pulling-down method” [Opt. Mater. 36/12 (2014) 1946–1949]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496057593660,
+      "identifier": {
+        "doi": "10.1016/j.optmat.2015.01.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optmat.2014.02.026"
+  },
+  "journal": "Optical Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Eu concentration dependence on scintillation properties of Eu doped SrI2 single crystals grown by modified micro-pulling-down method” [Opt. Mater. 36/12 (2014) 1946–1949]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440547200000,"doi":"10.1371/journal.pone.0136978","type":"correction"},"doi":"10.1371/journal.pone.0129691","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Crystal Structure of Hcp from Acinetobacter baumannii: A Component of the Type VI Secretion System"}
+{
+  "retracted": false,
+  "timestamp": 1440547200000,
+  "updates": [
+    {
+      "timestamp": 1496024328260,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0136978"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0129691"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Crystal Structure of Hcp from Acinetobacter baumannii: A Component of the Type VI Secretion System"
+}

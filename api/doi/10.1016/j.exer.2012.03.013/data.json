@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.exer.2014.04.023","type":"err"},"doi":"10.1016/j.exer.2012.03.013","journal":"Experimental Eye Research","publisher":"Elsevier BV","title":"Corrigendum to “A mouse model of ocular blast injury that induces closed globe anterior and posterior pole damage” [Exp. Eye Res. 99 (2012) 63–70]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496037767252,
+      "identifier": {
+        "doi": "10.1016/j.exer.2014.04.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exer.2012.03.013"
+  },
+  "journal": "Experimental Eye Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A mouse model of ocular blast injury that induces closed globe anterior and posterior pole damage” [Exp. Eye Res. 99 (2012) 63–70]"
+}

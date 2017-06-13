@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jalgebra.2015.04.009","type":"err"},"doi":"10.1016/j.jalgebra.2014.01.029","journal":"Journal of Algebra","publisher":"Elsevier BV","title":"Corrigendum to “On the Congruence Subgroup Problem for integral group rings” [J. Algebra 405 (2014) 1–34]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1495994694786,
+      "identifier": {
+        "doi": "10.1016/j.jalgebra.2015.04.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jalgebra.2014.01.029"
+  },
+  "journal": "Journal of Algebra",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the Congruence Subgroup Problem for integral group rings” [J. Algebra 405 (2014) 1–34]"
+}

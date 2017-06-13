@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.fitote.2013.05.003","type":"err"},"doi":"10.1016/j.fitote.2007.11.013","journal":"Fitoterapia","publisher":"Elsevier BV","title":"Corrigendum to “Two new coumarins from Euonymus hamiltonianus” [Fitoterapia 79/3 (April 2008) 234–235]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496019596452,
+      "identifier": {
+        "doi": "10.1016/j.fitote.2013.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fitote.2007.11.013"
+  },
+  "journal": "Fitoterapia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Two new coumarins from Euonymus hamiltonianus” [Fitoterapia 79/3 (April 2008) 234–235]"
+}

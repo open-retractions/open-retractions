@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363132800000,"doi":"10.1016/j.chom.2013.02.010","type":"err"},"doi":"10.1016/j.chom.2012.11.010","journal":"Cell Host & Microbe","publisher":"Elsevier BV","title":"NleB, a Bacterial Effector with Glycosyltransferase Activity, Targets GAPDH Function to Inhibit NF-κB Activation"}
+{
+  "retracted": false,
+  "timestamp": 1363132800000,
+  "updates": [
+    {
+      "timestamp": 1496004583709,
+      "identifier": {
+        "doi": "10.1016/j.chom.2013.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chom.2012.11.010"
+  },
+  "journal": "Cell Host & Microbe",
+  "publisher": "Elsevier BV",
+  "title": "NleB, a Bacterial Effector with Glycosyltransferase Activity, Targets GAPDH Function to Inhibit NF-κB Activation"
+}

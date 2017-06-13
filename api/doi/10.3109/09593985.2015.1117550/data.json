@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464825600000,"doi":"10.1080/09593985.2016.1185310","type":"correction"},"doi":"10.3109/09593985.2015.1117550","journal":"Physiotherapy Theory and Practice","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464825600000,
+  "updates": [
+    {
+      "timestamp": 1495717697210,
+      "identifier": {
+        "doi": "10.1080/09593985.2016.1185310"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/09593985.2015.1117550"
+  },
+  "journal": "Physiotherapy Theory and Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

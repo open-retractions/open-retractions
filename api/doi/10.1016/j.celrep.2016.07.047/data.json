@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474934400000,"doi":"10.1016/j.celrep.2016.09.044","type":"err"},"doi":"10.1016/j.celrep.2016.07.047","journal":"Cell Reports","publisher":"Elsevier BV","title":"Cortical Polarity of the RING Protein PAR-2 Is Maintained by Exchange Rate Kinetics at the Cortical-Cytoplasmic Boundary"}
+{
+  "retracted": false,
+  "timestamp": 1474934400000,
+  "updates": [
+    {
+      "timestamp": 1495643596025,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.09.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2016.07.047"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Cortical Polarity of the RING Protein PAR-2 Is Maintained by Exchange Rate Kinetics at the Cortical-Cytoplasmic Boundary"
+}

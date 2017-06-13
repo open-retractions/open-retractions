@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1007/s11060-014-1626-8","type":"correction"},"doi":"10.1007/s11060-014-1582-3","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: The survival of patients with high grade glioma from different ethnic groups in South East England"}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1496012638955,
+      "identifier": {
+        "doi": "10.1007/s11060-014-1626-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-014-1582-3"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The survival of patients with high grade glioma from different ethnic groups in South East England"
+}

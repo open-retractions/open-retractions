@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1247184000000,"doi":"10.1371/annotation/91dc9016-fc1e-495e-8828-22608c3efe44","type":"correction"},"doi":"10.1371/journal.pcbi.1000057","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Investigations of Oligonucleotide Usage Variance Within and Between Prokaryotes"}
+{
+  "retracted": false,
+  "timestamp": 1247184000000,
+  "updates": [
+    {
+      "timestamp": 1491880237847,
+      "identifier": {
+        "doi": "10.1371/annotation/91dc9016-fc1e-495e-8828-22608c3efe44"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000057"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Investigations of Oligonucleotide Usage Variance Within and Between Prokaryotes"
+}

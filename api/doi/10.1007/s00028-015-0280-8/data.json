@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458950400000,"doi":"10.1007/s00028-016-0328-4","type":"correction"},"doi":"10.1007/s00028-015-0280-8","journal":"Journal of Evolution Equations","publisher":"Springer Nature","title":"Erratum to: Nonlinear maximal monotone extensions of symmetric operators"}
+{
+  "retracted": false,
+  "timestamp": 1458950400000,
+  "updates": [
+    {
+      "timestamp": 1495659562875,
+      "identifier": {
+        "doi": "10.1007/s00028-016-0328-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00028-015-0280-8"
+  },
+  "journal": "Journal of Evolution Equations",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nonlinear maximal monotone extensions of symmetric operators"
+}

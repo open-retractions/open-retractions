@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453680000000,"doi":"10.1080/08927014.2016.1144403","type":"correction"},"doi":"10.1080/08927014.2015.1125888","journal":"Biofouling","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1453680000000,
+  "updates": [
+    {
+      "timestamp": 1495639257533,
+      "identifier": {
+        "doi": "10.1080/08927014.2016.1144403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08927014.2015.1125888"
+  },
+  "journal": "Biofouling",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

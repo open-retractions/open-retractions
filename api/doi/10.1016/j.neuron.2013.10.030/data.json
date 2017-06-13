@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389139200000,"doi":"10.1016/j.neuron.2013.12.031","type":"err"},"doi":"10.1016/j.neuron.2013.10.030","journal":"Neuron","publisher":"Elsevier BV","title":"A Role for Correlated Spontaneous Activity in the Assembly of Neural Circuits"}
+{
+  "retracted": false,
+  "timestamp": 1389139200000,
+  "updates": [
+    {
+      "timestamp": 1496010704962,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.12.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.10.030"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "A Role for Correlated Spontaneous Activity in the Assembly of Neural Circuits"
+}

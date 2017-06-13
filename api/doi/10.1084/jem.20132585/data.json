@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418601600000,"doi":"10.1084/jem.2013258511142014c","type":"correction"},"doi":"10.1084/jem.20132585","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"RUNX1-dependent RAG1 deposition instigates human TCR-δ locus rearrangement"}
+{
+  "retracted": false,
+  "timestamp": 1418601600000,
+  "updates": [
+    {
+      "timestamp": 1496023079616,
+      "identifier": {
+        "doi": "10.1084/jem.2013258511142014c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20132585"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "RUNX1-dependent RAG1 deposition instigates human TCR-δ locus rearrangement"
+}

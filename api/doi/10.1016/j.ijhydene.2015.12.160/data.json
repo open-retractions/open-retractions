@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463529600000,"doi":"10.1016/j.ijhydene.2016.03.114","type":"err"},"doi":"10.1016/j.ijhydene.2015.12.160","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Techno-economic implications of the electrolyser technology and size for power-to-gas systems” [Int J Hydrogen Energy 41 (2016) 3748–3761]"}
+{
+  "retracted": false,
+  "timestamp": 1463529600000,
+  "updates": [
+    {
+      "timestamp": 1495658942529,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2016.03.114"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2015.12.160"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Techno-economic implications of the electrolyser technology and size for power-to-gas systems” [Int J Hydrogen Energy 41 (2016) 3748–3761]"
+}

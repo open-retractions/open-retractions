@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1205193600000,"doi":"10.1073/pnas.0802870105","type":"correction"},"doi":"10.1073/pnas.0800810105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Yu et al., Nucleoprotein structure of the CD4 locus: Implications for the mechanisms underlying CD4 regulation during T cell development"}
+{
+  "retracted": false,
+  "timestamp": 1205193600000,
+  "updates": [
+    {
+      "timestamp": 1495848193943,
+      "identifier": {
+        "doi": "10.1073/pnas.0802870105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0800810105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Yu et al., Nucleoprotein structure of the CD4 locus: Implications for the mechanisms underlying CD4 regulation during T cell development"
+}

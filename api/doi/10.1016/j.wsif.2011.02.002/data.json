@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362096000000,"doi":"10.1016/j.wsif.2012.08.001","type":"err"},"doi":"10.1016/j.wsif.2011.02.002","journal":"Women's Studies International Forum","publisher":"Elsevier BV","title":"Erratum to “Intersectionality at the cross-roads” [Women Stud. Int. Forum 34 (2011) 263–270]"}
+{
+  "retracted": false,
+  "timestamp": 1362096000000,
+  "updates": [
+    {
+      "timestamp": 1495966821627,
+      "identifier": {
+        "doi": "10.1016/j.wsif.2012.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wsif.2011.02.002"
+  },
+  "journal": "Women's Studies International Forum",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Intersectionality at the cross-roads” [Women Stud. Int. Forum 34 (2011) 263–270]"
+}

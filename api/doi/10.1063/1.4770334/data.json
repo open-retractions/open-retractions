@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398297600000,"doi":"10.1063/1.4873166","type":"correction"},"doi":"10.1063/1.4770334","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Free-energy analysis of water affinity in polymer studied by atomistic molecular simulation combined with the theory of solutions in the energy representation” [J. Chem. Phys. 137, 234903 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1398297600000,
+  "updates": [
+    {
+      "timestamp": 1496035233134,
+      "identifier": {
+        "doi": "10.1063/1.4873166"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4770334"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Free-energy analysis of water affinity in polymer studied by atomistic molecular simulation combined with the theory of solutions in the energy representation” [J. Chem. Phys. 137, 234903 (2012)]"
+}

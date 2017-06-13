@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1007/s00382-015-2730-y","type":"correction"},"doi":"10.1007/s00382-015-2682-2","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: Application of extreme learning machine for estimation of wind speed distribution"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015580262,
+      "identifier": {
+        "doi": "10.1007/s00382-015-2730-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-015-2682-2"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Application of extreme learning machine for estimation of wind speed distribution"
+}

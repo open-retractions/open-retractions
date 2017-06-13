@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428364800000,"doi":"10.1016/j.cmet.2015.02.018","type":"err"},"doi":"10.1016/j.cmet.2014.10.011","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"A New Biology of Diabetes Revealed by Leptin"}
+{
+  "retracted": false,
+  "timestamp": 1428364800000,
+  "updates": [
+    {
+      "timestamp": 1496055916574,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2015.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2014.10.011"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "A New Biology of Diabetes Revealed by Leptin"
+}

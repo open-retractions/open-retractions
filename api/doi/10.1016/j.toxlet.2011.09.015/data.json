@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.toxlet.2016.02.006","type":"err"},"doi":"10.1016/j.toxlet.2011.09.015","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Erratum to “Akt2 knockout mitigates chronic iNOS inhibition-induced cardiomyocyte atrophy and contractile dysfunction despite persistent insulin resistance” [Toxicol. Lett. 207 (3) (2011) 222–231]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495645516548,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2016.02.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2011.09.015"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Akt2 knockout mitigates chronic iNOS inhibition-induced cardiomyocyte atrophy and contractile dysfunction despite persistent insulin resistance” [Toxicol. Lett. 207 (3) (2011) 222–231]"
+}

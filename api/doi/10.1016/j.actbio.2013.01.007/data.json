@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.actbio.2014.05.034","type":"err"},"doi":"10.1016/j.actbio.2013.01.007","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “Sustained delivery of siRNA from dopamine-coated stainless steel surfaces” [Acta Biomater. 9 (2013) 6753–6761]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496044370146,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2014.05.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2013.01.007"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sustained delivery of siRNA from dopamine-coated stainless steel surfaces” [Acta Biomater. 9 (2013) 6753–6761]"
+}

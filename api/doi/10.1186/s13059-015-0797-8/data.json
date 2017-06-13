@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1186/s13059-016-0890-7","type":"correction"},"doi":"10.1186/s13059-015-0797-8","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Promoter-like epigenetic signatures in exons displaying cell type-specific splicing"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495656764488,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0890-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-015-0797-8"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Promoter-like epigenetic signatures in exons displaying cell type-specific splicing"
+}

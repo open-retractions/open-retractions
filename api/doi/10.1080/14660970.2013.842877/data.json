@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1080/14660970.2014.942981","type":"correction"},"doi":"10.1080/14660970.2013.842877","journal":"Soccer & Society","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1495999241483,
+      "identifier": {
+        "doi": "10.1080/14660970.2014.942981"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14660970.2013.842877"
+  },
+  "journal": "Soccer & Society",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

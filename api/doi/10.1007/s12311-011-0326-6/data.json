@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1325548800000,"doi":"10.1007/s12311-011-0343-5","type":"correction"},"doi":"10.1007/s12311-011-0326-6","journal":"The Cerebellum","publisher":"Springer Nature","title":"Erratum to: Body Mass Index is Inversely Correlated with the Expanded CAG Repeat Length in SCA3/MJD Patients"}
+{
+  "retracted": false,
+  "timestamp": 1325548800000,
+  "updates": [
+    {
+      "timestamp": 1495859358682,
+      "identifier": {
+        "doi": "10.1007/s12311-011-0343-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12311-011-0326-6"
+  },
+  "journal": "The Cerebellum",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Body Mass Index is Inversely Correlated with the Expanded CAG Repeat Length in SCA3/MJD Patients"
+}

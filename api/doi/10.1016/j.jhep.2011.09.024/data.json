@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jhep.2013.11.001","type":"err"},"doi":"10.1016/j.jhep.2011.09.024","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Erratum to “Clinical evidence for the regression of liver fibrosis” [J Hepatol 2012;56:1171–1180]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496002681710,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2013.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2011.09.024"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Clinical evidence for the regression of liver fibrosis” [J Hepatol 2012;56:1171–1180]"
+}

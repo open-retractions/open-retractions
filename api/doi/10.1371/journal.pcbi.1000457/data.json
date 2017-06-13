@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1253577600000,"doi":"10.1371/annotation/064aa20e-b7de-4bc0-a2ef-6e8ee3d4de65","type":"correction"},"doi":"10.1371/journal.pcbi.1000457","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Bioinformatics in Malaysia: Hope, Initiative, Effort, Reality, and Challenges"}
+{
+  "retracted": false,
+  "timestamp": 1253577600000,
+  "updates": [
+    {
+      "timestamp": 1496025196043,
+      "identifier": {
+        "doi": "10.1371/annotation/064aa20e-b7de-4bc0-a2ef-6e8ee3d4de65"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000457"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bioinformatics in Malaysia: Hope, Initiative, Effort, Reality, and Challenges"
+}

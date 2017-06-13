@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jse.2014.12.001","type":"err"},"doi":"10.1016/j.jse.2013.01.029","journal":"Journal of Shoulder and Elbow Surgery","publisher":"Elsevier BV","title":"Erratum to “Shoulder arthroplasty in patients 59 years of age and younger” [J Shoulder Elbow Surg 2013, vol 22, no 10, pp 1338-1344]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496035866835,
+      "identifier": {
+        "doi": "10.1016/j.jse.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jse.2013.01.029"
+  },
+  "journal": "Journal of Shoulder and Elbow Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Shoulder arthroplasty in patients 59 years of age and younger” [J Shoulder Elbow Surg 2013, vol 22, no 10, pp 1338-1344]"
+}

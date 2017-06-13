@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462924800000,"doi":"10.1007/s12559-016-9412-x","type":"correction"},"doi":"10.1007/s12559-016-9387-7","journal":"Cognitive Computation","publisher":"Springer Nature","title":"Erratum to: A New Spatio-Temporal Saliency-Based Video Object Segmentation"}
+{
+  "retracted": false,
+  "timestamp": 1462924800000,
+  "updates": [
+    {
+      "timestamp": 1495675466756,
+      "identifier": {
+        "doi": "10.1007/s12559-016-9412-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12559-016-9387-7"
+  },
+  "journal": "Cognitive Computation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A New Spatio-Temporal Saliency-Based Video Object Segmentation"
+}

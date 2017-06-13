@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.ejogrb.2015.11.042","type":"err"},"doi":"10.1016/j.ejogrb.2014.09.036","journal":"European Journal of Obstetrics & Gynecology and Reproductive Biology","publisher":"Elsevier BV","title":"Erratum to “Gene variation and premature ovarian failure: a meta-analysis” [Eur. J. Obstet. Gynecol. Reprod. Biol. 182 (2014) 226–237]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496053394525,
+      "identifier": {
+        "doi": "10.1016/j.ejogrb.2015.11.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejogrb.2014.09.036"
+  },
+  "journal": "European Journal of Obstetrics & Gynecology and Reproductive Biology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Gene variation and premature ovarian failure: a meta-analysis” [Eur. J. Obstet. Gynecol. Reprod. Biol. 182 (2014) 226–237]"
+}

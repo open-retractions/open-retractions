@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458259200000,"doi":"10.1007/bf01925423","type":"correction"},"doi":"10.1007/bf01881786","journal":"Virchows Archiv","publisher":"Springer Nature","title":"Erratum zu: Beiträge zur Kenntniss der Kakke (Beri-beri)"}
+{
+  "retracted": false,
+  "timestamp": 1458259200000,
+  "updates": [
+    {
+      "timestamp": 1495951546285,
+      "identifier": {
+        "doi": "10.1007/bf01925423"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01881786"
+  },
+  "journal": "Virchows Archiv",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Beiträge zur Kenntniss der Kakke (Beri-beri)"
+}

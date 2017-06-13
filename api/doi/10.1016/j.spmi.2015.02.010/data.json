@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.spmi.2015.04.032","type":"err"},"doi":"10.1016/j.spmi.2015.02.010","journal":"Superlattices and Microstructures","publisher":"Elsevier BV","title":"Errata and comments on the paper “Slow and fast light in pyramid shaped quantum dots under applied electric fields: The effect of the incident light polarization” [Superlatt. Microstruct. 82 (2015) 313–326]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496003398256,
+      "identifier": {
+        "doi": "10.1016/j.spmi.2015.04.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.spmi.2015.02.010"
+  },
+  "journal": "Superlattices and Microstructures",
+  "publisher": "Elsevier BV",
+  "title": "Errata and comments on the paper “Slow and fast light in pyramid shaped quantum dots under applied electric fields: The effect of the incident light polarization” [Superlatt. Microstruct. 82 (2015) 313–326]"
+}

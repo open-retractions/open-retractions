@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.dld.2015.10.017","type":"err"},"doi":"10.1016/j.dld.2012.11.009","journal":"Digestive and Liver Disease","publisher":"Elsevier BV","title":"Corrigendum to “Prevalence, incidence and risk factors for Helicobacter pylori infection in a cohort of Portuguese adolescents (EpiTeen)” [Dig. Liver Dis. 2013;45:290–5]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496049691623,
+      "identifier": {
+        "doi": "10.1016/j.dld.2015.10.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dld.2012.11.009"
+  },
+  "journal": "Digestive and Liver Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Prevalence, incidence and risk factors for Helicobacter pylori infection in a cohort of Portuguese adolescents (EpiTeen)” [Dig. Liver Dis. 2013;45:290–5]"
+}

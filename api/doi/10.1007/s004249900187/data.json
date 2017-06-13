@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":950486400000,"doi":"10.1007/s004240000267","type":"correction"},"doi":"10.1007/s004249900187","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum: In colchicine-treated rats, cellular distribution of AQP-1 in convoluted and straight proximal tubule segments is differently affected"}
+{
+  "retracted": false,
+  "timestamp": 950486400000,
+  "updates": [
+    {
+      "timestamp": 1495948348418,
+      "identifier": {
+        "doi": "10.1007/s004240000267"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s004249900187"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum: In colchicine-treated rats, cellular distribution of AQP-1 in convoluted and straight proximal tubule segments is differently affected"
+}

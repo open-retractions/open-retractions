@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.jglr.2014.02.007","type":"err"},"doi":"10.1016/j.jglr.2013.12.012","journal":"Journal of Great Lakes Research","publisher":"Elsevier BV","title":"Corrigendum to “Status, causes and controls of cyanobacterial blooms in Lake Erie”"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496024152296,
+      "identifier": {
+        "doi": "10.1016/j.jglr.2014.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jglr.2013.12.012"
+  },
+  "journal": "Journal of Great Lakes Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Status, causes and controls of cyanobacterial blooms in Lake Erie”"
+}

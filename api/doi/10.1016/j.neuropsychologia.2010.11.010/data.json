@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.neuropsychologia.2013.09.001","type":"err"},"doi":"10.1016/j.neuropsychologia.2010.11.010","journal":"Neuropsychologia","publisher":"Elsevier BV","title":"Corrigendum to “Genetic differences in emotionally enhanced memory” [Neuropsychologia 49 (4) (2011) 734–744]."}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496046856453,
+      "identifier": {
+        "doi": "10.1016/j.neuropsychologia.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuropsychologia.2010.11.010"
+  },
+  "journal": "Neuropsychologia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic differences in emotionally enhanced memory” [Neuropsychologia 49 (4) (2011) 734–744]."
+}

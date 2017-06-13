@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409184000000,"doi":"10.1080/09699082.2014.930565","type":"correction"},"doi":"10.1080/09699082.2014.913857","journal":"Women's Writing","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1409184000000,
+  "updates": [
+    {
+      "timestamp": 1496045641218,
+      "identifier": {
+        "doi": "10.1080/09699082.2014.930565"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09699082.2014.913857"
+  },
+  "journal": "Women's Writing",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

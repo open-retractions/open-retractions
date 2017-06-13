@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.anai.2017.01.025","type":"erratum"},"doi":"10.1016/j.anai.2016.10.016","journal":"Annals of Allergy, Asthma & Immunology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495681149718,
+      "identifier": {
+        "doi": "10.1016/j.anai.2017.01.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anai.2016.10.016"
+  },
+  "journal": "Annals of Allergy, Asthma & Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

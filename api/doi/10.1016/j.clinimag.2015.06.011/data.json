@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.clinimag.2016.03.001","type":"err"},"doi":"10.1016/j.clinimag.2015.06.011","journal":"Clinical Imaging","publisher":"Elsevier BV","title":"Corrigendum to “The radiological findings of chordoid glioma: report of two cases, one case with MR spectroscopy” [Clin Imaging 39 (2015) 1086–1089]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495670000787,
+      "identifier": {
+        "doi": "10.1016/j.clinimag.2016.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinimag.2015.06.011"
+  },
+  "journal": "Clinical Imaging",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The radiological findings of chordoid glioma: report of two cases, one case with MR spectroscopy” [Clin Imaging 39 (2015) 1086–1089]"
+}

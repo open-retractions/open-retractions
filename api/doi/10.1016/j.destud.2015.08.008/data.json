@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.destud.2015.12.001","type":"err"},"doi":"10.1016/j.destud.2015.08.008","journal":"Design Studies","publisher":"Elsevier BV","title":"‘Corrigendum to “Promoting sustainability through behavior change: A review” [Design Studies Volume 41 (Part B) (November 2015) pp. 183–204]’"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496056551988,
+      "identifier": {
+        "doi": "10.1016/j.destud.2015.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.destud.2015.08.008"
+  },
+  "journal": "Design Studies",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “Promoting sustainability through behavior change: A review” [Design Studies Volume 41 (Part B) (November 2015) pp. 183–204]’"
+}

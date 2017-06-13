@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1371/annotation/053f227a-3847-41e2-a8c4-a5530a282a29","type":"correction"},"doi":"10.1371/journal.pone.0060397","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Study of Global Transcriptional Changes of N-GlcNAc2Proteins-Producing T24 Bladder Carcinoma Cells under Glucose Deprivation"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495996258004,
+      "identifier": {
+        "doi": "10.1371/annotation/053f227a-3847-41e2-a8c4-a5530a282a29"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0060397"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Study of Global Transcriptional Changes of N-GlcNAc2Proteins-Producing T24 Bladder Carcinoma Cells under Glucose Deprivation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.pepi.2014.05.003","type":"err"},"doi":"10.1016/j.pepi.2013.12.006","journal":"Physics of the Earth and Planetary Interiors","publisher":"Elsevier BV","title":"Corrigendum to “Hydromagnetic quasi-geostrophic modes in rapidly rotating planetary cores” [Phys. Earth Planet. Inter. 229 (2014) 1–15]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496044273457,
+      "identifier": {
+        "doi": "10.1016/j.pepi.2014.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pepi.2013.12.006"
+  },
+  "journal": "Physics of the Earth and Planetary Interiors",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Hydromagnetic quasi-geostrophic modes in rapidly rotating planetary cores” [Phys. Earth Planet. Inter. 229 (2014) 1–15]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333152000000,"doi":"10.3758/s13414-012-0299-7","type":"correction"},"doi":"10.3758/s13414-011-0256-x","journal":"Attention, Perception, & Psychophysics","publisher":"Springer Nature","title":"Erratum to: Interocular conflict attracts attention"}
+{
+  "retracted": false,
+  "timestamp": 1333152000000,
+  "updates": [
+    {
+      "timestamp": 1495872651633,
+      "identifier": {
+        "doi": "10.3758/s13414-012-0299-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/s13414-011-0256-x"
+  },
+  "journal": "Attention, Perception, & Psychophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Interocular conflict attracts attention"
+}

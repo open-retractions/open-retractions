@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364428800000,"doi":"10.1016/j.celrep.2013.03.021","type":"err"},"doi":"10.1016/j.celrep.2013.01.007","journal":"Cell Reports","publisher":"Elsevier BV","title":"Liver-Derived Systemic Factors Drive β Cell Hyperplasia in Insulin-Resistant States"}
+{
+  "retracted": false,
+  "timestamp": 1364428800000,
+  "updates": [
+    {
+      "timestamp": 1496011870299,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.01.007"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Liver-Derived Systemic Factors Drive β Cell Hyperplasia in Insulin-Resistant States"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405900800000,"doi":"10.1016/j.cub.2014.07.004","type":"err"},"doi":"10.1016/j.cub.2014.06.024","journal":"Current Biology","publisher":"Elsevier BV","title":"Retromer Binding to FAM21 and the WASH Complex Is Perturbed by the Parkinson Disease-Linked VPS35(D620N) Mutation"}
+{
+  "retracted": false,
+  "timestamp": 1405900800000,
+  "updates": [
+    {
+      "timestamp": 1496055681723,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2014.06.024"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Retromer Binding to FAM21 and the WASH Complex Is Perturbed by the Parkinson Disease-Linked VPS35(D620N) Mutation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.coastaleng.2013.02.010","type":"err"},"doi":"10.1016/j.coastaleng.2012.05.007","journal":"Coastal Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Wave spectra assimilation in typhoon wave modeling for the East China Sea” [Coast. Eng. 69 (2012) 29-41]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496004527191,
+      "identifier": {
+        "doi": "10.1016/j.coastaleng.2013.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coastaleng.2012.05.007"
+  },
+  "journal": "Coastal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Wave spectra assimilation in typhoon wave modeling for the East China Sea” [Coast. Eng. 69 (2012) 29-41]"
+}

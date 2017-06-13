@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459900800000,"doi":"10.1080/0965254x.2015.1078116","type":"correction"},"doi":"10.1080/0965254x.2015.1035035","journal":"Journal of Strategic Marketing","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1459900800000,
+  "updates": [
+    {
+      "timestamp": 1495663115074,
+      "identifier": {
+        "doi": "10.1080/0965254x.2015.1078116"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0965254x.2015.1035035"
+  },
+  "journal": "Journal of Strategic Marketing",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

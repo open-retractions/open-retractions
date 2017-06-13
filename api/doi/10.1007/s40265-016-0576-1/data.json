@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1007/s40265-016-0587-y","type":"correction"},"doi":"10.1007/s40265-016-0576-1","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Susoctocog Alfa: A Review in Acquired Haemophilia A"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495675307770,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0587-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-016-0576-1"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Susoctocog Alfa: A Review in Acquired Haemophilia A"
+}

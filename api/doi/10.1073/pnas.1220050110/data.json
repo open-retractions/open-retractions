@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379376000000,"doi":"10.1073/pnas.1320849110","type":"correction"},"doi":"10.1073/pnas.1220050110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Brewer et al., Mechanism for activation of mutated epidermal growth factor receptors in lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1379376000000,
+  "updates": [
+    {
+      "timestamp": 1495997157409,
+      "identifier": {
+        "doi": "10.1073/pnas.1320849110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1220050110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Brewer et al., Mechanism for activation of mutated epidermal growth factor receptors in lung cancer"
+}

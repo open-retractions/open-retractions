@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459123200000,"doi":"10.1007/s00468-016-1385-6","type":"correction"},"doi":"10.1007/s00468-015-1343-8","journal":"Trees","publisher":"Springer Nature","title":"Erratum to: Dendrochemical investigation on hexachlorocyclohexane isomers (HCHs) in poplars by an integrated study of micro-Fourier transform infrared spectroscopy and gas chromatography"}
+{
+  "retracted": false,
+  "timestamp": 1459123200000,
+  "updates": [
+    {
+      "timestamp": 1495659785705,
+      "identifier": {
+        "doi": "10.1007/s00468-016-1385-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00468-015-1343-8"
+  },
+  "journal": "Trees",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dendrochemical investigation on hexachlorocyclohexane isomers (HCHs) in poplars by an integrated study of micro-Fourier transform infrared spectroscopy and gas chromatography"
+}

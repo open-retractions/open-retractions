@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488412800000,"doi":"10.1371/journal.ppat.1006243","type":"correction"},"doi":"10.1371/journal.ppat.1003231","journal":"PLOS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Enterovirus 71 Protease 2Apro Targets MAVS to Inhibit Anti-Viral Type I Interferon Responses"}
+{
+  "retracted": false,
+  "timestamp": 1488412800000,
+  "updates": [
+    {
+      "timestamp": 1495725412339,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.1006243"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003231"
+  },
+  "journal": "PLOS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Enterovirus 71 Protease 2Apro Targets MAVS to Inhibit Anti-Viral Type I Interferon Responses"
+}

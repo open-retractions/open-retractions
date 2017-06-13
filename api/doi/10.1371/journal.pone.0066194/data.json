@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379548800000,"doi":"10.1371/annotation/d84d3131-a400-4ca6-9c5c-9ab0be4a6dd5","type":"correction"},"doi":"10.1371/journal.pone.0066194","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mapacalcine Protects Mouse Neurons against Hypoxia by Blocking Cell Calcium Overload"}
+{
+  "retracted": false,
+  "timestamp": 1379548800000,
+  "updates": [
+    {
+      "timestamp": 1496048964287,
+      "identifier": {
+        "doi": "10.1371/annotation/d84d3131-a400-4ca6-9c5c-9ab0be4a6dd5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0066194"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mapacalcine Protects Mouse Neurons against Hypoxia by Blocking Cell Calcium Overload"
+}

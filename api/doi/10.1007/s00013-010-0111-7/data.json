@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414281600000,"doi":"10.1007/s00013-014-0681-x","type":"correction"},"doi":"10.1007/s00013-010-0111-7","journal":"Archiv der Mathematik","publisher":"Springer Nature","title":"Erratum to: On the length of arithmetic progressions in linear combinations of S-units"}
+{
+  "retracted": false,
+  "timestamp": 1414281600000,
+  "updates": [
+    {
+      "timestamp": 1496016693988,
+      "identifier": {
+        "doi": "10.1007/s00013-014-0681-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00013-010-0111-7"
+  },
+  "journal": "Archiv der Mathematik",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the length of arithmetic progressions in linear combinations of S-units"
+}

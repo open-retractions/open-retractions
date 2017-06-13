@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1007/s13238-017-0392-8","type":"correction"},"doi":"10.1007/s13238-015-0228-3","journal":"Protein & Cell","publisher":"Springer Nature","title":"Erratum to: Highly efficient generation of biallelic reporter gene knock-in mice via CRISPR-mediated genome editing of ESCs"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495728005567,
+      "identifier": {
+        "doi": "10.1007/s13238-017-0392-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13238-015-0228-3"
+  },
+  "journal": "Protein & Cell",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Highly efficient generation of biallelic reporter gene knock-in mice via CRISPR-mediated genome editing of ESCs"
+}

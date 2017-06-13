@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395705600000,"doi":"10.1063/1.4869516","type":"correction"},"doi":"10.1063/1.4769078","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Performance of recent and high-performance approximate density functionals for time-dependent density functional theory calculations of valence and Rydberg electronic transition energies” [J. Chem. Phys. 137, 244104 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1395705600000,
+  "updates": [
+    {
+      "timestamp": 1496028524991,
+      "identifier": {
+        "doi": "10.1063/1.4869516"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4769078"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Performance of recent and high-performance approximate density functionals for time-dependent density functional theory calculations of valence and Rydberg electronic transition energies” [J. Chem. Phys. 137, 244104 (2012)]"
+}

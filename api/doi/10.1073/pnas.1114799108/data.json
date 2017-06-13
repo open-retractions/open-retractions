@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1322524800000,"doi":"10.1073/pnas.1120748109","type":"correction"},"doi":"10.1073/pnas.1114799108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Segawa et al., Constitutive exposure of phosphatidylserine on viable cells"}
+{
+  "retracted": false,
+  "timestamp": 1322524800000,
+  "updates": [
+    {
+      "timestamp": 1495859250519,
+      "identifier": {
+        "doi": "10.1073/pnas.1120748109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1114799108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Segawa et al., Constitutive exposure of phosphatidylserine on viable cells"
+}

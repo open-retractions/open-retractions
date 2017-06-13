@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.shaw.2015.04.002","type":"err"},"doi":"10.1016/j.shaw.2014.12.006","journal":"Safety and Health at Work","publisher":"Elsevier BV","title":"Erratum to “Obesity as a Possible Risk Factor For Lost-Time Injury In Registered Nurses: A Literature Review” [Saf Health Work 6 (1) (2015) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495994824144,
+      "identifier": {
+        "doi": "10.1016/j.shaw.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.shaw.2014.12.006"
+  },
+  "journal": "Safety and Health at Work",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Obesity as a Possible Risk Factor For Lost-Time Injury In Registered Nurses: A Literature Review” [Saf Health Work 6 (1) (2015) 1–8]"
+}

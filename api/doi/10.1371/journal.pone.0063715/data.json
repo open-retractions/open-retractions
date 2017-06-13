@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1371/annotation/fd04e7c6-0d40-4d2c-a382-c5ad10074c99","type":"correction"},"doi":"10.1371/journal.pone.0063715","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: World Health Organization Guideline Development: An Evaluation"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496047860669,
+      "identifier": {
+        "doi": "10.1371/annotation/fd04e7c6-0d40-4d2c-a382-c5ad10074c99"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0063715"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: World Health Organization Guideline Development: An Evaluation"
+}

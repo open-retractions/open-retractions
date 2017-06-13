@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.foodchem.2016.02.025","type":"err"},"doi":"10.1016/j.foodchem.2015.05.009","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Relationship of various flour properties with noodle making characteristics among durum wheat varieties” [Food Chem. 188 (2015) 517–526]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495643083883,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.02.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.05.009"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relationship of various flour properties with noodle making characteristics among durum wheat varieties” [Food Chem. 188 (2015) 517–526]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415232000000,"doi":"10.1007/s10569-014-9595-y","type":"correction"},"doi":"10.1007/s10569-014-9580-5","journal":"Celestial Mechanics and Dynamical Astronomy","publisher":"Springer Nature","title":"Erratum to: Constructing ballistic capture orbits in the real Solar System model"}
+{
+  "retracted": false,
+  "timestamp": 1415232000000,
+  "updates": [
+    {
+      "timestamp": 1496019160615,
+      "identifier": {
+        "doi": "10.1007/s10569-014-9595-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10569-014-9580-5"
+  },
+  "journal": "Celestial Mechanics and Dynamical Astronomy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Constructing ballistic capture orbits in the real Solar System model"
+}

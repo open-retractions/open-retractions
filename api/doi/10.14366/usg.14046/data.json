@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.14366/usg.14046","type":"correction"},"doi":"10.14366/usg.14046","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Second-look ultrasonography for MRI-detected suspicious breast lesions in patients with breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496031614991,
+      "identifier": {
+        "doi": "10.14366/usg.14046"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.14046"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Second-look ultrasonography for MRI-detected suspicious breast lesions in patients with breast cancer"
+}

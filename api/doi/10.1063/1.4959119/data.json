@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479772800000,"doi":"10.1063/1.4968567","type":"erratum"},"doi":"10.1063/1.4959119","journal":"APL Materials","publisher":"AIP Publishing","title":"Erratum: “Epitaxial growth of GaN films on nearly lattice-matched hafnium substrates using a low-temperature growth technique” [APL Mater. 4, 076104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1479772800000,
+  "updates": [
+    {
+      "timestamp": 1495658265506,
+      "identifier": {
+        "doi": "10.1063/1.4968567"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4959119"
+  },
+  "journal": "APL Materials",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Epitaxial growth of GaN films on nearly lattice-matched hafnium substrates using a low-temperature growth technique” [APL Mater. 4, 076104 (2016)]"
+}

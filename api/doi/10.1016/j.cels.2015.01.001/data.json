@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438128000000,"doi":"10.1016/j.cels.2015.07.006","type":"err"},"doi":"10.1016/j.cels.2015.01.001","journal":"Cell Systems","publisher":"Elsevier BV","title":"Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics"}
+{
+  "retracted": false,
+  "timestamp": 1438128000000,
+  "updates": [
+    {
+      "timestamp": 1496851498253,
+      "identifier": {
+        "doi": "10.1016/j.cels.2015.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cels.2015.01.001"
+  },
+  "journal": "Cell Systems",
+  "publisher": "Elsevier BV",
+  "title": "Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics"
+}

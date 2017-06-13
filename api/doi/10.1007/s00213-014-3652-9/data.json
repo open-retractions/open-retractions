@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427328000000,"doi":"10.1007/s00213-015-3916-z","type":"correction"},"doi":"10.1007/s00213-014-3652-9","journal":"Psychopharmacology","publisher":"Springer Nature","title":"Erratum to: A preliminary double-blind, placebo-controlled randomized study of baclofen effects in alcoholic smokers"}
+{
+  "retracted": false,
+  "timestamp": 1427328000000,
+  "updates": [
+    {
+      "timestamp": 1496052941894,
+      "identifier": {
+        "doi": "10.1007/s00213-015-3916-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00213-014-3652-9"
+  },
+  "journal": "Psychopharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A preliminary double-blind, placebo-controlled randomized study of baclofen effects in alcoholic smokers"
+}

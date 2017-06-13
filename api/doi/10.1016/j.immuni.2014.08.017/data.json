@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416441600000,"doi":"10.1016/j.immuni.2014.10.014","type":"err"},"doi":"10.1016/j.immuni.2014.08.017","journal":"Immunity","publisher":"Elsevier BV","title":"The Identification of the Endogenous Ligands of Natural Killer T Cells Reveals the Presence of Mammalian α-Linked Glycosylceramides"}
+{
+  "retracted": false,
+  "timestamp": 1416441600000,
+  "updates": [
+    {
+      "timestamp": 1496023744646,
+      "identifier": {
+        "doi": "10.1016/j.immuni.2014.10.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.immuni.2014.08.017"
+  },
+  "journal": "Immunity",
+  "publisher": "Elsevier BV",
+  "title": "The Identification of the Endogenous Ligands of Natural Killer T Cells Reveals the Presence of Mammalian α-Linked Glycosylceramides"
+}

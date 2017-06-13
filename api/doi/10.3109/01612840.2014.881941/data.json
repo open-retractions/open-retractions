@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438646400000,"doi":"10.3109/01612840.2015.1068634","type":"correction"},"doi":"10.3109/01612840.2014.881941","journal":"Issues in Mental Health Nursing","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1438646400000,
+  "updates": [
+    {
+      "timestamp": 1495643978293,
+      "identifier": {
+        "doi": "10.3109/01612840.2015.1068634"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/01612840.2014.881941"
+  },
+  "journal": "Issues in Mental Health Nursing",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

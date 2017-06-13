@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.pnpbp.2013.07.001","type":"err"},"doi":"10.1016/j.pnpbp.2013.03.005","journal":"Progress in Neuro-Psychopharmacology and Biological Psychiatry","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of the role of MAPK1 and CREB1 polymorphisms on treatment resistance, response and remission in mood disorder patients.” [Progress in Neuro-Psychopharmacology & Biological Psychiatry 44 (2013) 271–278]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496031705090,
+      "identifier": {
+        "doi": "10.1016/j.pnpbp.2013.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnpbp.2013.03.005"
+  },
+  "journal": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of the role of MAPK1 and CREB1 polymorphisms on treatment resistance, response and remission in mood disorder patients.” [Progress in Neuro-Psychopharmacology & Biological Psychiatry 44 (2013) 271–278]"
+}

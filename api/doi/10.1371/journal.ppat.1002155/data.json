@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1314230400000,"doi":"10.1371/annotation/c9a506d7-e8ba-4aaf-ab04-8ed0b383f5d9","type":"correction"},"doi":"10.1371/journal.ppat.1002155","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Cross-Species Transmission of a Novel Adenovirus Associated with a Fulminant Pneumonia Outbreak in a New World Monkey Colony"}
+{
+  "retracted": false,
+  "timestamp": 1314230400000,
+  "updates": [
+    {
+      "timestamp": 1491963036983,
+      "identifier": {
+        "doi": "10.1371/annotation/c9a506d7-e8ba-4aaf-ab04-8ed0b383f5d9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002155"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cross-Species Transmission of a Novel Adenovirus Associated with a Fulminant Pneumonia Outbreak in a New World Monkey Colony"
+}

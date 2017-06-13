@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1299196800000,"doi":"10.1371/annotation/2c8e3e74-556c-4e42-a5df-0b8ce294119f","type":"correction"},"doi":"10.1371/journal.pone.0014616","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Label-Free Proteomics Reveals Decreased Expression of CD18 and AKNA in Peripheral CD4+T Cells from Patients with Vogt-Koyanagi-Harada Syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1299196800000,
+  "updates": [
+    {
+      "timestamp": 1495941354075,
+      "identifier": {
+        "doi": "10.1371/annotation/2c8e3e74-556c-4e42-a5df-0b8ce294119f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0014616"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Label-Free Proteomics Reveals Decreased Expression of CD18 and AKNA in Peripheral CD4+T Cells from Patients with Vogt-Koyanagi-Harada Syndrome"
+}

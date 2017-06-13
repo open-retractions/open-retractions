@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400630400000,"doi":"10.1080/09515089.2013.848049","type":"correction"},"doi":"10.1080/09515089.2012.749560","journal":"Philosophical Psychology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1400630400000,
+  "updates": [
+    {
+      "timestamp": 1495995101697,
+      "identifier": {
+        "doi": "10.1080/09515089.2013.848049"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09515089.2012.749560"
+  },
+  "journal": "Philosophical Psychology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

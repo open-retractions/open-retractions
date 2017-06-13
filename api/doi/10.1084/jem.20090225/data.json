@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1237161600000,"doi":"10.1084/jem.2009022521809c","type":"correction"},"doi":"10.1084/jem.20090225","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"New twist on the regulation of NKG2D ligand expression"}
+{
+  "retracted": false,
+  "timestamp": 1237161600000,
+  "updates": [
+    {
+      "timestamp": 1495921239641,
+      "identifier": {
+        "doi": "10.1084/jem.2009022521809c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20090225"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "New twist on the regulation of NKG2D ligand expression"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436745600000,"doi":"10.1038/srep09786","type":"correction"},"doi":"10.1038/srep05057","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Chromatic acclimation and population dynamics of green sulfur bacteria grown with spectrally tailored light"}
+{
+  "retracted": false,
+  "timestamp": 1436745600000,
+  "updates": [
+    {
+      "timestamp": 1496015165451,
+      "identifier": {
+        "doi": "10.1038/srep09786"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep05057"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Chromatic acclimation and population dynamics of green sulfur bacteria grown with spectrally tailored light"
+}

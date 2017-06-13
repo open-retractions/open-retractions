@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.biortech.2013.07.136","type":"err"},"doi":"10.1016/j.biortech.2011.03.031","journal":"Bioresource Technology","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of a static granular bed reactor using a chemical oxygen demand balance and mathematical modeling” [Bioresour. Technol. 102 (2011) 6399–6404]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496038379353,
+      "identifier": {
+        "doi": "10.1016/j.biortech.2013.07.136"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biortech.2011.03.031"
+  },
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of a static granular bed reactor using a chemical oxygen demand balance and mathematical modeling” [Bioresour. Technol. 102 (2011) 6399–6404]"
+}

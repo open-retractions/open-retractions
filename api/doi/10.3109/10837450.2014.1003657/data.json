@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428624000000,"doi":"10.3109/10837450.2015.1033145","type":"correction"},"doi":"10.3109/10837450.2014.1003657","journal":"Pharmaceutical Development and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1428624000000,
+  "updates": [
+    {
+      "timestamp": 1496056723361,
+      "identifier": {
+        "doi": "10.3109/10837450.2015.1033145"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10837450.2014.1003657"
+  },
+  "journal": "Pharmaceutical Development and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

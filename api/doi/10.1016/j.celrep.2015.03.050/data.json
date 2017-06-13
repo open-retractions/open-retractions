@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431388800000,"doi":"10.1016/j.celrep.2015.04.059","type":"err"},"doi":"10.1016/j.celrep.2015.03.050","journal":"Cell Reports","publisher":"Elsevier BV","title":"The Proteomic Landscape of Triple-Negative Breast Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1431388800000,
+  "updates": [
+    {
+      "timestamp": 1495996049210,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.04.059"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.03.050"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "The Proteomic Landscape of Triple-Negative Breast Cancer"
+}

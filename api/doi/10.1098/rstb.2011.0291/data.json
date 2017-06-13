@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338854400000,"doi":"10.1098/rstb.2012.0226","type":"correction"},"doi":"10.1098/rstb.2011.0291","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Recovering the dynamics of root growth and development using novel image acquisition and analysis methods"}
+{
+  "retracted": false,
+  "timestamp": 1338854400000,
+  "updates": [
+    {
+      "timestamp": 1495916639011,
+      "identifier": {
+        "doi": "10.1098/rstb.2012.0226"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2011.0291"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Recovering the dynamics of root growth and development using novel image acquisition and analysis methods"
+}

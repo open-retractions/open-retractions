@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.bjhh.2014.08.001","type":"err"},"doi":"10.1016/j.bjhh.2014.03.011","journal":"Revista Brasileira de Hematologia e Hemoterapia","publisher":"Elsevier BV","title":"Erratum to “Are the review criteria for automated complete blood counts of the International Society of Laboratory Hematology suitable for all hematology laboratories?” [Rev. Bras. Hematol. Hemoter. 2014;36(3):219–225]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496009165183,
+      "identifier": {
+        "doi": "10.1016/j.bjhh.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bjhh.2014.03.011"
+  },
+  "journal": "Revista Brasileira de Hematologia e Hemoterapia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Are the review criteria for automated complete blood counts of the International Society of Laboratory Hematology suitable for all hematology laboratories?” [Rev. Bras. Hematol. Hemoter. 2014;36(3):219–225]"
+}

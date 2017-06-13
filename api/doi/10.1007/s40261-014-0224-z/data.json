@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410307200000,"doi":"10.1007/s40261-014-0232-z","type":"correction"},"doi":"10.1007/s40261-014-0224-z","journal":"Clinical Drug Investigation","publisher":"Springer Nature","title":"Erratum to: Cost Effectiveness of Apixaban Versus Aspirin for Stroke Prevention in Patients with Non-Valvular Atrial Fibrillation in Belgium"}
+{
+  "retracted": false,
+  "timestamp": 1410307200000,
+  "updates": [
+    {
+      "timestamp": 1496005481777,
+      "identifier": {
+        "doi": "10.1007/s40261-014-0232-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40261-014-0224-z"
+  },
+  "journal": "Clinical Drug Investigation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cost Effectiveness of Apixaban Versus Aspirin for Stroke Prevention in Patients with Non-Valvular Atrial Fibrillation in Belgium"
+}

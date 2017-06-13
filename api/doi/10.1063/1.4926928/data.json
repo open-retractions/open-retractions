@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1063/1.4927852","type":"correction"},"doi":"10.1063/1.4926928","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Restoring in-phase emissions from non-planar radiating elements using a transformation optics based lens” [Appl. Phys. Lett. 107, 024101 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019895292,
+      "identifier": {
+        "doi": "10.1063/1.4927852"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4926928"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Restoring in-phase emissions from non-planar radiating elements using a transformation optics based lens” [Appl. Phys. Lett. 107, 024101 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1107/s1600576716002466","type":"correction"},"doi":"10.1107/s1600576716000108","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Aurore: new software for neutron reflectivity data analysis. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495644871982,
+      "identifier": {
+        "doi": "10.1107/s1600576716002466"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600576716000108"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Aurore: new software for neutron reflectivity data analysis. Corrigendum"
+}

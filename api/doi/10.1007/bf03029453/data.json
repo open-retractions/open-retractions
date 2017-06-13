@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436572800000,"doi":"10.1007/bf03029451","type":"correction"},"doi":"10.1007/bf03029453","journal":"Journal of the Australian Population Association","publisher":"Springer Nature","title":"Erratum to: Youth suicide in Australia"}
+{
+  "retracted": false,
+  "timestamp": 1436572800000,
+  "updates": [
+    {
+      "timestamp": 1495914495630,
+      "identifier": {
+        "doi": "10.1007/bf03029451"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03029453"
+  },
+  "journal": "Journal of the Australian Population Association",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Youth suicide in Australia"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.revhom.2016.04.015","type":"err"},"doi":"10.1016/j.revhom.2016.04.014","journal":"La Revue d'Homéopathie","publisher":"Elsevier BV","title":"Aggravation lunaire et homéopathie"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495676023085,
+      "identifier": {
+        "doi": "10.1016/j.revhom.2016.04.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.revhom.2016.04.014"
+  },
+  "journal": "La Revue d'Homéopathie",
+  "publisher": "Elsevier BV",
+  "title": "Aggravation lunaire et homéopathie"
+}

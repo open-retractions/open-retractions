@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.molimm.2016.09.008","type":"erratum"},"doi":"10.1016/j.molimm.2015.06.029","journal":"Molecular Immunology","publisher":"Elsevier BV","title":"Corrigendum to “Haemophilus parasuis infection activates chemokine RANTES in PK-15 cells” [Mol. Immunol. 67 (2 Part B) (2015) 661–666]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495648309016,
+      "identifier": {
+        "doi": "10.1016/j.molimm.2016.09.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molimm.2015.06.029"
+  },
+  "journal": "Molecular Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Haemophilus parasuis infection activates chemokine RANTES in PK-15 cells” [Mol. Immunol. 67 (2 Part B) (2015) 661–666]"
+}

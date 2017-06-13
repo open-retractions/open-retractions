@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1016/j.surfcoat.2016.03.005","type":"err"},"doi":"10.1016/j.surfcoat.2015.09.057","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “PVD-grown antibacterial Ag–TiN films on piezoelectric PVDF substrates for sensor applications” [Surf. Coat. Technol. 281 (2015) 117–124]"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495653358486,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2016.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2015.09.057"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PVD-grown antibacterial Ag–TiN films on piezoelectric PVDF substrates for sensor applications” [Surf. Coat. Technol. 281 (2015) 117–124]"
+}

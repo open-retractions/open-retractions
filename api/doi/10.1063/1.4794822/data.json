@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426032000000,"doi":"10.1063/1.4914297","type":"correction"},"doi":"10.1063/1.4794822","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Monte Carlo charge transport and photoemission from negative electron affinity GaAs photocathodes” [J. Appl. Phys. 113, 104904 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1426032000000,
+  "updates": [
+    {
+      "timestamp": 1496050243432,
+      "identifier": {
+        "doi": "10.1063/1.4914297"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4794822"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Monte Carlo charge transport and photoemission from negative electron affinity GaAs photocathodes” [J. Appl. Phys. 113, 104904 (2013)]"
+}

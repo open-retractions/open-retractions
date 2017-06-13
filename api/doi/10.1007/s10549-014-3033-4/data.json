@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427328000000,"doi":"10.1007/s10549-015-3345-z","type":"correction"},"doi":"10.1007/s10549-014-3033-4","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Platinum-based chemotherapy in triple-negative advanced breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1427328000000,
+  "updates": [
+    {
+      "timestamp": 1496052993017,
+      "identifier": {
+        "doi": "10.1007/s10549-015-3345-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-014-3033-4"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Platinum-based chemotherapy in triple-negative advanced breast cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1080/03721426.2016.1216254","type":"correction"},"doi":"10.1080/03721426.2016.1203532","journal":"Transactions of the Royal Society of South Australia","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495734673719,
+      "identifier": {
+        "doi": "10.1080/03721426.2016.1216254"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03721426.2016.1203532"
+  },
+  "journal": "Transactions of the Royal Society of South Australia",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

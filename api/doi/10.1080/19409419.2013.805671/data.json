@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481673600000,"doi":"10.1080/19409419.2016.1270879","type":"correction"},"doi":"10.1080/19409419.2013.805671","journal":"Russian Journal of Communication","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1481673600000,
+  "updates": [
+    {
+      "timestamp": 1495667900630,
+      "identifier": {
+        "doi": "10.1080/19409419.2016.1270879"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19409419.2013.805671"
+  },
+  "journal": "Russian Journal of Communication",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

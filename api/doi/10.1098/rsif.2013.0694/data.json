@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412553600000,"doi":"10.1098/rsif.2014.0676","type":"correction"},"doi":"10.1098/rsif.2013.0694","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Evaluation of cytotoxicity, biophysics and biomechanics of cells treated with functionalized hybrid nanomaterials"}
+{
+  "retracted": false,
+  "timestamp": 1412553600000,
+  "updates": [
+    {
+      "timestamp": 1496056028086,
+      "identifier": {
+        "doi": "10.1098/rsif.2014.0676"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2013.0694"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Evaluation of cytotoxicity, biophysics and biomechanics of cells treated with functionalized hybrid nanomaterials"
+}

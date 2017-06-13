@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.jalgebra.2016.05.008","type":"erratum"},"doi":"10.1016/j.jalgebra.2015.03.024","journal":"Journal of Algebra","publisher":"Elsevier BV","title":"Corrigendum to “Algebraic connections on projective modules with prescribed curvature” [J. Algebra 436 (2015) 161–227]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495722717466,
+      "identifier": {
+        "doi": "10.1016/j.jalgebra.2016.05.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jalgebra.2015.03.024"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Algebraic connections on projective modules with prescribed curvature” [J. Algebra 436 (2015) 161–227]"
+}

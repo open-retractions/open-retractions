@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.prevetmed.2014.12.012","type":"err"},"doi":"10.1016/j.prevetmed.2012.05.009","journal":"Preventive Veterinary Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Identification of biosecurity measures and spatial variables as potential risk factors for Aleutian disease in Danish mink farms” [Prev. Vet. Med. 107 (2012) 134–141]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496033386606,
+      "identifier": {
+        "doi": "10.1016/j.prevetmed.2014.12.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.prevetmed.2012.05.009"
+  },
+  "journal": "Preventive Veterinary Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of biosecurity measures and spatial variables as potential risk factors for Aleutian disease in Danish mink farms” [Prev. Vet. Med. 107 (2012) 134–141]"
+}

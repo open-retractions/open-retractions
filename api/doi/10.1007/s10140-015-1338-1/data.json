@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460764800000,"doi":"10.1007/s10140-016-1388-z","type":"correction"},"doi":"10.1007/s10140-015-1338-1","journal":"Emergency Radiology","publisher":"Springer Nature","title":"Erratum to: Non-fecalith-induced appendicitis: etiology, imaging, and pathology"}
+{
+  "retracted": false,
+  "timestamp": 1460764800000,
+  "updates": [
+    {
+      "timestamp": 1495667100923,
+      "identifier": {
+        "doi": "10.1007/s10140-016-1388-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10140-015-1338-1"
+  },
+  "journal": "Emergency Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Non-fecalith-induced appendicitis: etiology, imaging, and pathology"
+}

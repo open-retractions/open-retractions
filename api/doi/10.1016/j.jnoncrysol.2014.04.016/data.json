@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416009600000,"doi":"10.1016/j.jnoncrysol.2014.10.004","type":"err"},"doi":"10.1016/j.jnoncrysol.2014.04.016","journal":"Journal of Non-Crystalline Solids","publisher":"Elsevier BV","title":"Corrigendum to “Concentration-dependent spectroscopic properties of Pr3+ ions in TeO2-WO3-PbO-La2O3 glass” [J. Non-Cryst. Solids 400 (2014) 21–26]"}
+{
+  "retracted": false,
+  "timestamp": 1416009600000,
+  "updates": [
+    {
+      "timestamp": 1496025673610,
+      "identifier": {
+        "doi": "10.1016/j.jnoncrysol.2014.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnoncrysol.2014.04.016"
+  },
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Concentration-dependent spectroscopic properties of Pr3+ ions in TeO2-WO3-PbO-La2O3 glass” [J. Non-Cryst. Solids 400 (2014) 21–26]"
+}

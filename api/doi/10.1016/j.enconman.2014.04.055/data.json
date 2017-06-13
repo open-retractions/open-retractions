@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.enconman.2015.04.023","type":"err"},"doi":"10.1016/j.enconman.2014.04.055","journal":"Energy Conversion and Management","publisher":"Elsevier BV","title":"Corrigendum to “Thermodynamic investigation and optimization of laminar forced convection in a rotating helical tube heat exchanger” [Energy Convers. Manage. 86 (2014) 399–409]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496059168688,
+      "identifier": {
+        "doi": "10.1016/j.enconman.2015.04.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enconman.2014.04.055"
+  },
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thermodynamic investigation and optimization of laminar forced convection in a rotating helical tube heat exchanger” [Energy Convers. Manage. 86 (2014) 399–409]"
+}

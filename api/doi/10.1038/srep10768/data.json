@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442793600000,"doi":"10.1038/srep14151","type":"correction"},"doi":"10.1038/srep10768","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Microrobotic tentacles with spiral bending capability based on shape-engineered elastomeric microtubes"}
+{
+  "retracted": false,
+  "timestamp": 1442793600000,
+  "updates": [
+    {
+      "timestamp": 1496031733098,
+      "identifier": {
+        "doi": "10.1038/srep14151"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10768"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Microrobotic tentacles with spiral bending capability based on shape-engineered elastomeric microtubes"
+}

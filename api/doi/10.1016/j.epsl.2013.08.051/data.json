@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.epsl.2013.11.029","type":"err"},"doi":"10.1016/j.epsl.2013.08.051","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “GPS and tectonic evidence for a diffuse plate boundary at the Azores Triple Junction” [Earth Planet. Sci. Lett. 381 (2013) 177–187]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495999836253,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2013.11.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2013.08.051"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “GPS and tectonic evidence for a diffuse plate boundary at the Azores Triple Junction” [Earth Planet. Sci. Lett. 381 (2013) 177–187]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-310435200000,"doi":"10.1057/jors.1960.42","type":"correction"},"doi":"10.1057/jors.1959.20","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A Survey of Operational Research in British Industry"}
+{
+  "retracted": false,
+  "timestamp": -310435200000,
+  "updates": [
+    {
+      "timestamp": 1495887635300,
+      "identifier": {
+        "doi": "10.1057/jors.1960.42"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1959.20"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A Survey of Operational Research in British Industry"
+}

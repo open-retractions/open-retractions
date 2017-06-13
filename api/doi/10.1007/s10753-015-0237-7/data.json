@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444089600000,"doi":"10.1007/s10753-015-0266-2","type":"correction"},"doi":"10.1007/s10753-015-0237-7","journal":"Inflammation","publisher":"Springer Nature","title":"Erratum to: Effect of Colchicine on Platelet-Platelet and Platelet-Leukocyte Interactions: a Pilot Study in Healthy Subjects"}
+{
+  "retracted": false,
+  "timestamp": 1444089600000,
+  "updates": [
+    {
+      "timestamp": 1496035298782,
+      "identifier": {
+        "doi": "10.1007/s10753-015-0266-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10753-015-0237-7"
+  },
+  "journal": "Inflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of Colchicine on Platelet-Platelet and Platelet-Leukocyte Interactions: a Pilot Study in Healthy Subjects"
+}

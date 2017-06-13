@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355702400000,"doi":"10.1371/annotation/9bb4b6f9-d220-4c81-bdbc-ebdb33e6d892","type":"correction"},"doi":"10.1371/journal.ppat.1002112","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: A Structural Model for Binding of the Serine-Rich Repeat Adhesin GspB to Host Carbohydrate Receptors"}
+{
+  "retracted": false,
+  "timestamp": 1355702400000,
+  "updates": [
+    {
+      "timestamp": 1495974661061,
+      "identifier": {
+        "doi": "10.1371/annotation/9bb4b6f9-d220-4c81-bdbc-ebdb33e6d892"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002112"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Structural Model for Binding of the Serine-Rich Repeat Adhesin GspB to Host Carbohydrate Receptors"
+}

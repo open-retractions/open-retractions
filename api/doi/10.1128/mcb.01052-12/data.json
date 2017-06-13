@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1128/mcb.00085-16","type":"correction"},"doi":"10.1128/mcb.01052-12","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Correction for Zurashvili et al., Interaction of PDK1 with Phosphoinositides Is Essential for Neuronal Differentiation but Dispensable for Neuronal Survival"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495717100089,
+      "identifier": {
+        "doi": "10.1128/mcb.00085-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.01052-12"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Zurashvili et al., Interaction of PDK1 with Phosphoinositides Is Essential for Neuronal Differentiation but Dispensable for Neuronal Survival"
+}

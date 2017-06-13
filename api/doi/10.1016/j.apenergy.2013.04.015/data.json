@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.apenergy.2014.05.051","type":"err"},"doi":"10.1016/j.apenergy.2013.04.015","journal":"Applied Energy","publisher":"Elsevier BV","title":"Corrigendum to “Modeling of power generation from the mixing of simulated saline and freshwater with a reverse electrodialysis system: The effect of monovalent and multivalent ions” [Appl. Energy 110 (2013) 244–251]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496043538927,
+      "identifier": {
+        "doi": "10.1016/j.apenergy.2014.05.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apenergy.2013.04.015"
+  },
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling of power generation from the mixing of simulated saline and freshwater with a reverse electrodialysis system: The effect of monovalent and multivalent ions” [Appl. Energy 110 (2013) 244–251]"
+}

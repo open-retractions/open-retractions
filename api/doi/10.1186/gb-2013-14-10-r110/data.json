@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431388800000,"doi":"10.1186/s13059-015-0658-5","type":"correction"},"doi":"10.1186/gb-2013-14-10-r110","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Modeling precision treatment of breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1431388800000,
+  "updates": [
+    {
+      "timestamp": 1495999353730,
+      "identifier": {
+        "doi": "10.1186/s13059-015-0658-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/gb-2013-14-10-r110"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Modeling precision treatment of breast cancer"
+}

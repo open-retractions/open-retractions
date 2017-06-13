@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1080/10428194.2017.1282215","type":"correction"},"doi":"10.3109/10428194.2012.676169","journal":"Leukemia & Lymphoma","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495678301011,
+      "identifier": {
+        "doi": "10.1080/10428194.2017.1282215"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10428194.2012.676169"
+  },
+  "journal": "Leukemia & Lymphoma",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378425600000,"doi":"10.1063/1.4819755","type":"correction"},"doi":"10.1063/1.4817319","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Phase locking of a 3.4 THz third-order distributed feedback quantum cascade laser using a room-temperature superlattice harmonic mixer” [Appl. Phys. Lett. 103, 051115 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1378425600000,
+  "updates": [
+    {
+      "timestamp": 1496044600102,
+      "identifier": {
+        "doi": "10.1063/1.4819755"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4817319"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Phase locking of a 3.4 THz third-order distributed feedback quantum cascade laser using a room-temperature superlattice harmonic mixer” [Appl. Phys. Lett. 103, 051115 (2013)]"
+}

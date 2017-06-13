@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ijcard.2014.04.264","type":"err"},"doi":"10.1016/j.ijcard.2013.06.010","journal":"International Journal of Cardiology","publisher":"Elsevier BV","title":"Corrigendum to “Changes in reperfusion strategy over time for ST segment elevation myocardial infarction in the Greater Paris Area: Results from the e-MUST Registry” [Int J Cardiol 168 (2013) 5149–5155]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496048630979,
+      "identifier": {
+        "doi": "10.1016/j.ijcard.2014.04.264"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijcard.2013.06.010"
+  },
+  "journal": "International Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Changes in reperfusion strategy over time for ST segment elevation myocardial infarction in the Greater Paris Area: Results from the e-MUST Registry” [Int J Cardiol 168 (2013) 5149–5155]"
+}

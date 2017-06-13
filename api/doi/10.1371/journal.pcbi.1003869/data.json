@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414627200000,"doi":"10.1371/journal.pcbi.1003996","type":"correction"},"doi":"10.1371/journal.pcbi.1003869","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Beyond Muscles Stiffness: Importance of State-Estimation to Account for Very Fast Motor Corrections"}
+{
+  "retracted": false,
+  "timestamp": 1414627200000,
+  "updates": [
+    {
+      "timestamp": 1496018111153,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003996"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003869"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Beyond Muscles Stiffness: Importance of State-Estimation to Account for Very Fast Motor Corrections"
+}

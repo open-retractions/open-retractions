@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.inoche.2014.07.012","type":"err"},"doi":"10.1016/j.inoche.2012.12.001","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Erratum to “A new binuclear Cr(III) citrate anion: Synthesis, characterization and crystal structure of [Cr(CO(NH2)2)6]2[Cr2(CO(NH2)2)2(C6H4O7)2]3” [Inorg. Chem. Comm. 29 (2013) 56–59]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496055004282,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2014.07.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2012.12.001"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A new binuclear Cr(III) citrate anion: Synthesis, characterization and crystal structure of [Cr(CO(NH2)2)6]2[Cr2(CO(NH2)2)2(C6H4O7)2]3” [Inorg. Chem. Comm. 29 (2013) 56–59]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490227200000,"doi":"10.1016/j.cell.2017.03.017","type":"erratum"},"doi":"10.1016/j.cell.2017.01.026","journal":"Cell","publisher":"Elsevier BV","title":"SnapShot: Circulating Tumor Cells"}
+{
+  "retracted": false,
+  "timestamp": 1490227200000,
+  "updates": [
+    {
+      "timestamp": 1495731730513,
+      "identifier": {
+        "doi": "10.1016/j.cell.2017.03.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2017.01.026"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "SnapShot: Circulating Tumor Cells"
+}

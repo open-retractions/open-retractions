@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428451200000,"doi":"10.1016/j.chom.2015.03.015","type":"err"},"doi":"10.1016/j.chom.2015.02.011","journal":"Cell Host & Microbe","publisher":"Elsevier BV","title":"Plasmodium vivax Liver Stage Development and Hypnozoite Persistence in Human Liver-Chimeric Mice"}
+{
+  "retracted": false,
+  "timestamp": 1428451200000,
+  "updates": [
+    {
+      "timestamp": 1496056150646,
+      "identifier": {
+        "doi": "10.1016/j.chom.2015.03.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chom.2015.02.011"
+  },
+  "journal": "Cell Host & Microbe",
+  "publisher": "Elsevier BV",
+  "title": "Plasmodium vivax Liver Stage Development and Hypnozoite Persistence in Human Liver-Chimeric Mice"
+}

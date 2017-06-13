@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478044800000,"doi":"10.1007/s00202-016-0462-6","type":"correction"},"doi":"10.1007/s00202-016-0444-8","journal":"Electrical Engineering","publisher":"Springer Nature","title":"Erratum to: Dynamic analysis and chaos suppression in a fractional order brushless DC motor"}
+{
+  "retracted": false,
+  "timestamp": 1478044800000,
+  "updates": [
+    {
+      "timestamp": 1495653457677,
+      "identifier": {
+        "doi": "10.1007/s00202-016-0462-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00202-016-0444-8"
+  },
+  "journal": "Electrical Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamic analysis and chaos suppression in a fractional order brushless DC motor"
+}

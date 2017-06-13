@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208131200000,"doi":"10.1063/1.2905811","type":"erratum"},"doi":"10.1063/1.2813890","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “In situ high-pressure x-ray diffraction study of H2O ice VII” [J. Chem. Phys. 128, 064510 (2008)]"}
+{
+  "retracted": false,
+  "timestamp": 1208131200000,
+  "updates": [
+    {
+      "timestamp": 1495845092118,
+      "identifier": {
+        "doi": "10.1063/1.2905811"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2813890"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “In situ high-pressure x-ray diffraction study of H2O ice VII” [J. Chem. Phys. 128, 064510 (2008)]"
+}

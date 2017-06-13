@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447113600000,"doi":"10.1016/j.electacta.2015.10.178","type":"erratum"},"doi":"10.1016/j.electacta.2015.08.098","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Quantitative relationship between nanotube length and anodizing current during constant current anodization’ [Electrochimica Acta 180 (2015) 147–154]"}
+{
+  "retracted": false,
+  "timestamp": 1447113600000,
+  "updates": [
+    {
+      "timestamp": 1496046240227,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2015.10.178"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2015.08.098"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Quantitative relationship between nanotube length and anodizing current during constant current anodization’ [Electrochimica Acta 180 (2015) 147–154]"
+}

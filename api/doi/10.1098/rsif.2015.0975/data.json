@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1098/rsif.2016.0186","type":"correction"},"doi":"10.1098/rsif.2015.0975","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Evolving random fractal Cantor superlattices for the infrared using a genetic algorithm’"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495660326448,
+      "identifier": {
+        "doi": "10.1098/rsif.2016.0186"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2015.0975"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Evolving random fractal Cantor superlattices for the infrared using a genetic algorithm’"
+}

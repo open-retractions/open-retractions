@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474934400000,"doi":"10.1088/1367-2630/18/9/099602","type":"correction"},"doi":"10.1088/1367-2630/18/7/075007","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Erratum: Symmetry breaking in spin spirals and skyrmions by in-plane and canted magnetic fields (2016New J. Phys.18075007)"}
+{
+  "retracted": false,
+  "timestamp": 1474934400000,
+  "updates": [
+    {
+      "timestamp": 1495643455021,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/9/099602"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/18/7/075007"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Symmetry breaking in spin spirals and skyrmions by in-plane and canted magnetic fields (2016New J. Phys.18075007)"
+}

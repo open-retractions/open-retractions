@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467072000000,"doi":"10.1080/01677063.2016.1197668","type":"correction"},"doi":"10.3109/01677063.2011.566953","journal":"Journal of Neurogenetics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1467072000000,
+  "updates": [
+    {
+      "timestamp": 1495723109861,
+      "identifier": {
+        "doi": "10.1080/01677063.2016.1197668"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/01677063.2011.566953"
+  },
+  "journal": "Journal of Neurogenetics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

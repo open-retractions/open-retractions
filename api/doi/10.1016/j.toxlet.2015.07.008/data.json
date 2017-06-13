@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447891200000,"doi":"10.1016/j.toxlet.2015.08.1109","type":"err"},"doi":"10.1016/j.toxlet.2015.07.008","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “Environmental pollutants parathion, paraquat and bisphenol A show distinct effects towards nuclear receptors-mediated induction of xenobiotics-metabolizing cytochromes P450 in human hepatocytes” [Toxicol. Lett. 238 (1) (2015) 43–53]"}
+{
+  "retracted": false,
+  "timestamp": 1447891200000,
+  "updates": [
+    {
+      "timestamp": 1496030234683,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2015.08.1109"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2015.07.008"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Environmental pollutants parathion, paraquat and bisphenol A show distinct effects towards nuclear receptors-mediated induction of xenobiotics-metabolizing cytochromes P450 in human hepatocytes” [Toxicol. Lett. 238 (1) (2015) 43–53]"
+}

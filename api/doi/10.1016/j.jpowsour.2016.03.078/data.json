@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jpowsour.2016.05.007","type":"err"},"doi":"10.1016/j.jpowsour.2016.03.078","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Erratum to “Understanding the dilation and dilation relaxation behavior of graphite-based lithium-ion cells” [J. Power Sources 317 (2016) 93–102]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495671290266,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2016.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2016.03.078"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Understanding the dilation and dilation relaxation behavior of graphite-based lithium-ion cells” [J. Power Sources 317 (2016) 93–102]"
+}

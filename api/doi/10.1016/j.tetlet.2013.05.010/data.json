@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380672000000,"doi":"10.1016/j.tetlet.2013.08.001","type":"err"},"doi":"10.1016/j.tetlet.2013.05.010","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Surprising behavior of NXO-peptides toward the lithium hydroxide solvolysis” [Tetrahedron Lett. 54 (2013) 3679–3682]"}
+{
+  "retracted": false,
+  "timestamp": 1380672000000,
+  "updates": [
+    {
+      "timestamp": 1496040023010,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2013.05.010"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Surprising behavior of NXO-peptides toward the lithium hydroxide solvolysis” [Tetrahedron Lett. 54 (2013) 3679–3682]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.1371/journal.pcbi.1005472","type":"correction"},"doi":"10.1371/journal.pcbi.1005347","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Multiscale mutation clustering algorithm identifies pan-cancer mutational clusters associated with pathway-level changes in gene expression"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495735199900,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1005472"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1005347"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Multiscale mutation clustering algorithm identifies pan-cancer mutational clusters associated with pathway-level changes in gene expression"
+}

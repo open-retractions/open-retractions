@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463011200000,"doi":"10.1371/journal.pgen.1006065","type":"correction"},"doi":"10.1371/journal.pgen.1005765","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: G = E: What GWAS Can Tell Us about the Environment"}
+{
+  "retracted": false,
+  "timestamp": 1463011200000,
+  "updates": [
+    {
+      "timestamp": 1495676323653,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1006065"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1005765"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: G = E: What GWAS Can Tell Us about the Environment"
+}

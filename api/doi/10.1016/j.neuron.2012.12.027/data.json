@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1016/j.neuron.2014.05.022","type":"err"},"doi":"10.1016/j.neuron.2012.12.027","journal":"Neuron","publisher":"Elsevier BV","title":"Anatomical Plasticity of Adult Brain Is Titrated by Nogo Receptor 1"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496043715315,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.05.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.12.027"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Anatomical Plasticity of Adult Brain Is Titrated by Nogo Receptor 1"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429920000000,"doi":"10.1007/s00277-015-2382-3","type":"correction"},"doi":"10.1007/s00277-011-1390-1","journal":"Annals of Hematology","publisher":"Springer Nature","title":"Erratum to: A novel ELISA for diagnosis of Glanzmann’s thrombasthenia and the heterozygote carriers"}
+{
+  "retracted": false,
+  "timestamp": 1429920000000,
+  "updates": [
+    {
+      "timestamp": 1495994702188,
+      "identifier": {
+        "doi": "10.1007/s00277-015-2382-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00277-011-1390-1"
+  },
+  "journal": "Annals of Hematology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A novel ELISA for diagnosis of Glanzmann’s thrombasthenia and the heterozygote carriers"
+}

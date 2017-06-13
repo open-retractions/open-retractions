@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1317168000000,"doi":"10.1007/s00125-011-2327-x","type":"correction"},"doi":"10.1007/s00125-011-2290-6","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: An alternative polyadenylation signal in TCF7L2 generates isoforms that inhibit T cell factor/lymphoid-enhancer factor (TCF/LEF)-dependent target genes"}
+{
+  "retracted": false,
+  "timestamp": 1317168000000,
+  "updates": [
+    {
+      "timestamp": 1495809892547,
+      "identifier": {
+        "doi": "10.1007/s00125-011-2327-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-011-2290-6"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An alternative polyadenylation signal in TCF7L2 generates isoforms that inhibit T cell factor/lymphoid-enhancer factor (TCF/LEF)-dependent target genes"
+}

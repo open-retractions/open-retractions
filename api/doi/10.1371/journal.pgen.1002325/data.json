@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361923200000,"doi":"10.1371/annotation/273d7d98-3a1b-494b-839e-de31a0f33d28","type":"correction"},"doi":"10.1371/journal.pgen.1002325","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Whole-Exome Sequencing Identifies Homozygous AFG3L2 Mutations in a Spastic Ataxia-Neuropathy Syndrome Linked to Mitochondrial m-AAA Proteases"}
+{
+  "retracted": false,
+  "timestamp": 1361923200000,
+  "updates": [
+    {
+      "timestamp": 1496002816288,
+      "identifier": {
+        "doi": "10.1371/annotation/273d7d98-3a1b-494b-839e-de31a0f33d28"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1002325"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Whole-Exome Sequencing Identifies Homozygous AFG3L2 Mutations in a Spastic Ataxia-Neuropathy Syndrome Linked to Mitochondrial m-AAA Proteases"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1016/j.ijfoodmicro.2014.09.026","type":"err"},"doi":"10.1016/j.ijfoodmicro.2014.07.002","journal":"International Journal of Food Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Exploiting the explosion of information associated with whole genome sequencing to tackle Shiga toxin-producing Escherichia coli (STEC) in global food production systems” [Int. J. Food Microbiol. 187 (2014) 57–72]"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496019296430,
+      "identifier": {
+        "doi": "10.1016/j.ijfoodmicro.2014.09.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijfoodmicro.2014.07.002"
+  },
+  "journal": "International Journal of Food Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploiting the explosion of information associated with whole genome sequencing to tackle Shiga toxin-producing Escherichia coli (STEC) in global food production systems” [Int. J. Food Microbiol. 187 (2014) 57–72]"
+}

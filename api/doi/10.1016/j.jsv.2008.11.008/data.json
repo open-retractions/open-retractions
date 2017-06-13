@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1016/j.jsv.2014.10.001","type":"err"},"doi":"10.1016/j.jsv.2008.11.008","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Approximation formulae for the acoustic radiation impedance of a cylindrical pipe” [J. Sound Vib. 322 (2009) 255–263]"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496018129315,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2008.11.008"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Approximation formulae for the acoustic radiation impedance of a cylindrical pipe” [J. Sound Vib. 322 (2009) 255–263]"
+}

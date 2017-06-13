@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1327968000000,"update":{"timestamp":null,"doi":null,"pmid":23236166,"type":"retraction"},"doi":"10.1073/pnas.1107479109","journal":"Proceedings of the National Academy of Sciences of the United States of America","publisher":null,"title":"Glycogen synthase kinase 3β transfers cytoprotective signaling through connexin 43 onto mitochondrial ATP-sensitive K+ channels."}
+{
+  "retracted": false,
+  "timestamp": 1327968000000,
+  "updates": [
+    {
+      "timestamp": 1495922763944,
+      "identifier": {
+        "doi": "10.1073/pnas.1210737109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1107479109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Rottlaender et al., Glycogen synthase kinase 3  transfers cytoprotective signaling through connexin 43 onto mitochondrial ATP-sensitive K+ channels"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jocn.2015.09.011","type":"err"},"doi":"10.1016/j.jocn.2015.05.006","journal":"Journal of Clinical Neuroscience","publisher":"Elsevier BV","title":"Corrigendum to “Visual symptoms in the presentation of Creutzfeldt–Jakob disease” [J. Clin. Neurosci. 22 (2015) 1688–1689]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496053393211,
+      "identifier": {
+        "doi": "10.1016/j.jocn.2015.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jocn.2015.05.006"
+  },
+  "journal": "Journal of Clinical Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Visual symptoms in the presentation of Creutzfeldt–Jakob disease” [J. Clin. Neurosci. 22 (2015) 1688–1689]"
+}

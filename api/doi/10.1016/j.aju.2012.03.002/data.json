@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.aju.2016.02.001","type":"err"},"doi":"10.1016/j.aju.2012.03.002","journal":"Arab Journal of Urology","publisher":"Elsevier BV","title":"Corrigendum to “Percutaneous nephrolithotomy for treating staghorn stones: 10years of experience of a tertiary-care centre” [Arab J. Urol. 10 (2012) 324–329]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495646214573,
+      "identifier": {
+        "doi": "10.1016/j.aju.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aju.2012.03.002"
+  },
+  "journal": "Arab Journal of Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Percutaneous nephrolithotomy for treating staghorn stones: 10years of experience of a tertiary-care centre” [Arab J. Urol. 10 (2012) 324–329]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369612800000,"doi":"10.1016/j.tcs.2013.03.022","type":"err"},"doi":"10.1016/j.tcs.2012.10.030","journal":"Theoretical Computer Science","publisher":"Elsevier BV","title":"Corrigendum to “Cycle transversals in perfect graphs and cographs” [Theoret. Comput. Sci. 469 (2013) 15–23]"}
+{
+  "retracted": false,
+  "timestamp": 1369612800000,
+  "updates": [
+    {
+      "timestamp": 1496108401414,
+      "identifier": {
+        "doi": "10.1016/j.tcs.2013.03.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tcs.2012.10.030"
+  },
+  "journal": "Theoretical Computer Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cycle transversals in perfect graphs and cographs” [Theoret. Comput. Sci. 469 (2013) 15–23]"
+}

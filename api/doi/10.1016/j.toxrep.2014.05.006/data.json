@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.toxrep.2016.09.002","type":"erratum"},"doi":"10.1016/j.toxrep.2014.05.006","journal":"Toxicology Reports","publisher":"Elsevier BV","title":"Corrigendum to “Conazole fungicides inhibit Leydig cell testosterone secretion and androgen receptor activation in vitro ” [Toxicol. Rep. 1C (2014) 271–283]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495666118603,
+      "identifier": {
+        "doi": "10.1016/j.toxrep.2016.09.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxrep.2014.05.006"
+  },
+  "journal": "Toxicology Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conazole fungicides inhibit Leydig cell testosterone secretion and androgen receptor activation  in vitro ” [Toxicol. Rep. 1C (2014) 271–283]"
+}

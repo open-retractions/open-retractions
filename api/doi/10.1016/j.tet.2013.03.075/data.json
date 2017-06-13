@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372032000000,"doi":"10.1016/j.tet.2013.04.085","type":"err"},"doi":"10.1016/j.tet.2013.03.075","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Erratum to “Expanding the scope of the elpaN-type library: glucose-derived bis(pyridine-2-carboxamide) ligands (elpaN–Py) for molybdenum-catalyzed asymmetric allylic alkylations” [Tetrahedron 69 (20) (2013) 4061–4065]"}
+{
+  "retracted": false,
+  "timestamp": 1372032000000,
+  "updates": [
+    {
+      "timestamp": 1496016050971,
+      "identifier": {
+        "doi": "10.1016/j.tet.2013.04.085"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2013.03.075"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Expanding the scope of the elpaN-type library: glucose-derived bis(pyridine-2-carboxamide) ligands (elpaN–Py) for molybdenum-catalyzed asymmetric allylic alkylations” [Tetrahedron 69 (20) (2013) 4061–4065]"
+}

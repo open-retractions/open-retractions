@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479340800000,"doi":"10.1007/s40261-016-0483-y","type":"correction"},"doi":"10.1007/s40261-016-0473-0","journal":"Clinical Drug Investigation","publisher":"Springer Nature","title":"Erratum to: Methoxyflurane: A Review in Trauma Pain"}
+{
+  "retracted": false,
+  "timestamp": 1479340800000,
+  "updates": [
+    {
+      "timestamp": 1495659473711,
+      "identifier": {
+        "doi": "10.1007/s40261-016-0483-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40261-016-0473-0"
+  },
+  "journal": "Clinical Drug Investigation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Methoxyflurane: A Review in Trauma Pain"
+}

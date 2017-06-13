@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219708800000,"doi":"10.1073/pnas.0809025105","type":"correction"},"doi":"10.1073/pnas.0805012105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Szotek et al., Normal ovarian surface epithelial label-retaining cells exhibit stem/progenitor cell characteristics"}
+{
+  "retracted": false,
+  "timestamp": 1219708800000,
+  "updates": [
+    {
+      "timestamp": 1495892779401,
+      "identifier": {
+        "doi": "10.1073/pnas.0809025105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0805012105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Szotek et al., Normal ovarian surface epithelial label-retaining cells exhibit stem/progenitor cell characteristics"
+}

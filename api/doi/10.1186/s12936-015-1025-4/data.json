@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1186/s12936-016-1562-5","type":"correction"},"doi":"10.1186/s12936-015-1025-4","journal":"Malaria Journal","publisher":"Springer Nature","title":"Erratum to: Development and evaluation of mosquito-electrocuting traps as alternatives to the human landing catch technique for sampling host-seeking malaria vectors"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495657592131,
+      "identifier": {
+        "doi": "10.1186/s12936-016-1562-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12936-015-1025-4"
+  },
+  "journal": "Malaria Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Development and evaluation of mosquito-electrocuting traps as alternatives to the human landing catch technique for sampling host-seeking malaria vectors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.ocemod.2016.06.001","type":"erratum"},"doi":"10.1016/j.ocemod.2015.12.006","journal":"Ocean Modelling","publisher":"Elsevier BV","title":"Corrigendum to ``Sensitivity of near-inertial internal waves to spatial interpolations of wind stress in ocean generation circulation models'' [Ocean Modelling 99 (2016) 15–21]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495718728327,
+      "identifier": {
+        "doi": "10.1016/j.ocemod.2016.06.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ocemod.2015.12.006"
+  },
+  "journal": "Ocean Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ``Sensitivity of near-inertial internal waves to spatial interpolations of wind stress in ocean generation circulation models'' [Ocean Modelling 99 (2016) 15–21]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219708800000,"doi":"10.1073/pnas.0905246106","type":"correction"},"doi":"10.1073/pnas.0805549105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lygeros et al., Stochastic hybrid modeling of DNA replication across a complete genome"}
+{
+  "retracted": false,
+  "timestamp": 1219708800000,
+  "updates": [
+    {
+      "timestamp": 1495953892400,
+      "identifier": {
+        "doi": "10.1073/pnas.0905246106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0805549105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lygeros et al., Stochastic hybrid modeling of DNA replication across a complete genome"
+}

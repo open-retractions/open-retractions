@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1325376000000,"update":{"timestamp":null,"doi":null,"pmid":27159607,"type":"retraction"},"doi":"10.1371/journal.pone.0045667","journal":"PloS one","publisher":null,"title":"Iron supplementation decreases severity of allergic inflammation in murine lung."}
+{
+  "retracted": false,
+  "timestamp": 1391040000000,
+  "updates": [
+    {
+      "timestamp": 1496015701812,
+      "identifier": {
+        "doi": "10.1371/annotation/5e0195b6-60b9-4c03-84ae-c6c31e625be1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045667"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Iron Supplementation Decreases Severity of Allergic Inflammation in Murine Lung"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jacr.2015.12.015","type":"err"},"doi":"10.1016/j.jacr.2015.03.041","journal":"Journal of the American College of Radiology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496057562100,
+      "identifier": {
+        "doi": "10.1016/j.jacr.2015.12.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jacr.2015.03.041"
+  },
+  "journal": "Journal of the American College of Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

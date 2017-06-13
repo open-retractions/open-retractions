@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1186/s12906-016-1523-0","type":"correction"},"doi":"10.1186/s12906-016-1474-5","journal":"BMC Complementary and Alternative Medicine","publisher":"Springer Nature","title":"Erratum to: Studies on the therapeutic effect of propolis along with standard antibacterial drug in Salmonella enterica serovar Typhimurium infected BALB/c mice"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495672584500,
+      "identifier": {
+        "doi": "10.1186/s12906-016-1523-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12906-016-1474-5"
+  },
+  "journal": "BMC Complementary and Alternative Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Studies on the therapeutic effect of propolis along with standard antibacterial drug in Salmonella enterica serovar Typhimurium infected BALB/c mice"
+}

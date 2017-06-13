@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.yhbeh.2013.04.013","type":"err"},"doi":"10.1016/j.yhbeh.2012.12.003","journal":"Hormones and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Oxytocin modulates dopamine-mediated reward in the rat subthalamic nucleus” [Horm. Behav. 60 (2013) 370–375]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496023284899,
+      "identifier": {
+        "doi": "10.1016/j.yhbeh.2013.04.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yhbeh.2012.12.003"
+  },
+  "journal": "Hormones and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Oxytocin modulates dopamine-mediated reward in the rat subthalamic nucleus” [Horm. Behav. 60 (2013) 370–375]"
+}

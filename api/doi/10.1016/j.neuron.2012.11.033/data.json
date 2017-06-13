@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1373414400000,"doi":"10.1016/j.neuron.2013.06.021","type":"err"},"doi":"10.1016/j.neuron.2012.11.033","journal":"Neuron","publisher":"Elsevier BV","title":"RAB7L1 Interacts with LRRK2 to Modify Intraneuronal Protein Sorting and Parkinson’s Disease Risk"}
+{
+  "retracted": false,
+  "timestamp": 1373414400000,
+  "updates": [
+    {
+      "timestamp": 1496032096705,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.06.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.11.033"
+  },
+  "publisher": "Elsevier BV",
+  "title": "RAB7L1 Interacts with LRRK2 to Modify Intraneuronal Protein Sorting and Parkinson’s Disease Risk"
+}

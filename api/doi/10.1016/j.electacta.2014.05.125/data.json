@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.electacta.2014.09.002","type":"err"},"doi":"10.1016/j.electacta.2014.05.125","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Erratum to “Highly dispersed rhodium particles on multi-walled carbon nanotubes for the electrochemical reduction of nitrate and nitrite ions in acid medium” [Electrochimica Acta 138 (2014) 447-453"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496006636634,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2014.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2014.05.125"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Highly dispersed rhodium particles on multi-walled carbon nanotubes for the electrochemical reduction of nitrate and nitrite ions in acid medium” [Electrochimica Acta 138 (2014) 447-453"
+}

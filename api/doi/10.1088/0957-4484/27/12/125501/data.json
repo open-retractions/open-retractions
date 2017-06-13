@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1088/0957-4484/27/19/199501","type":"correction"},"doi":"10.1088/0957-4484/27/12/125501","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: Utilizing intentional internal resonance to achieve multi-harmonic atomic force microscopy (2016Nanotechnology27125501)"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495658693759,
+      "identifier": {
+        "doi": "10.1088/0957-4484/27/19/199501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/27/12/125501"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Utilizing intentional internal resonance to achieve multi-harmonic atomic force microscopy (2016Nanotechnology27125501)"
+}

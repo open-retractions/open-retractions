@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1125964800000,"doi":"10.1073/pnas.0506663102","type":"correction"},"doi":"10.1073/pnas.0503168102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jendreyko et al., Phenotypic knockout of VEGF-R2 and Tie-2 with an intradiabody reduces tumor growth and angiogenesis in vivo, PNAS 2005 102:8293-8298"}
+{
+  "retracted": false,
+  "timestamp": 1125964800000,
+  "updates": [
+    {
+      "timestamp": 1495900498119,
+      "identifier": {
+        "doi": "10.1073/pnas.0506663102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0503168102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jendreyko et al., Phenotypic knockout of VEGF-R2 and Tie-2 with an intradiabody reduces tumor growth and angiogenesis in vivo, PNAS 2005 102:8293-8298"
+}

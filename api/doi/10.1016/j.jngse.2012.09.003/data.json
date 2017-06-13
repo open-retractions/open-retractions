@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jngse.2014.10.021","type":"err"},"doi":"10.1016/j.jngse.2012.09.003","journal":"Journal of Natural Gas Science and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “A review of Australia's natural gas resources and their exploitation” [J. Nat. Gas Sci. Eng. 10 (2013) 68–88]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496018014208,
+      "identifier": {
+        "doi": "10.1016/j.jngse.2014.10.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jngse.2012.09.003"
+  },
+  "journal": "Journal of Natural Gas Science and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A review of Australia's natural gas resources and their exploitation” [J. Nat. Gas Sci. Eng. 10 (2013) 68–88]"
+}

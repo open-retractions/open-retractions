@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":736214400000,"doi":"10.1073/pnas.90.9.4328a","type":"correction"},"doi":"10.1073/pnas.89.12.5472","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"A human gene (AHNAK) encoding an unusually large protein with a 1.2- m polyionic rod structure"}
+{
+  "retracted": false,
+  "timestamp": 736214400000,
+  "updates": [
+    {
+      "timestamp": 1495847402701,
+      "identifier": {
+        "doi": "10.1073/pnas.90.9.4328a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.89.12.5472"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "A human gene (AHNAK) encoding an unusually large protein with a 1.2- m polyionic rod structure"
+}

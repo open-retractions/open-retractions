@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.inoche.2016.03.013","type":"err"},"doi":"10.1016/j.inoche.2015.07.017","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Corrigendum to “Phenanthroline modulated self-assembly of nano/micro-scaled metal-organic frameworks” [Inorganic Chemistry Communications 60 (2015) 119–121]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495662159680,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2016.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2015.07.017"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Phenanthroline modulated self-assembly of nano/micro-scaled metal-organic frameworks” [Inorganic Chemistry Communications 60 (2015) 119–121]"
+}

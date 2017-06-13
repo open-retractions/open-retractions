@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1107/s0907444913019859","type":"correction"},"doi":"10.1107/s0907444902003712","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Metal–ligand geometry relevant to proteins and in proteins: sodium and potassium. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496039744072,
+      "identifier": {
+        "doi": "10.1107/s0907444913019859"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444902003712"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Metal–ligand geometry relevant to proteins and in proteins: sodium and potassium. Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1257206400000,"doi":"10.1073/pnas.0913327107","type":"correction"},"doi":"10.1073/pnas.0910766106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Oh et al., Fat location defines sensation"}
+{
+  "retracted": false,
+  "timestamp": 1257206400000,
+  "updates": [
+    {
+      "timestamp": 1495805805333,
+      "identifier": {
+        "doi": "10.1073/pnas.0913327107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0910766106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Oh et al., Fat location defines sensation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.placenta.2014.02.007","type":"err"},"doi":"10.1016/j.placenta.2013.11.005","journal":"Placenta","publisher":"Elsevier BV","title":"Corrigendum to ‘Optimising sample collection for placental research’ [Placenta 35 (2014) 9–22]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496024105651,
+      "identifier": {
+        "doi": "10.1016/j.placenta.2014.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.placenta.2013.11.005"
+  },
+  "journal": "Placenta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Optimising sample collection for placental research’ [Placenta 35 (2014) 9–22]"
+}

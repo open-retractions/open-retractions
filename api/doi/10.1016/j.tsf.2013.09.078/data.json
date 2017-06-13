@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391126400000,"doi":"10.1016/j.tsf.2013.12.027","type":"erratum"},"doi":"10.1016/j.tsf.2013.09.078","journal":"Thin Solid Films","publisher":"Elsevier BV","title":"Erratum to ‘Cause of the fill factor loss of a-Si:H p–i–n devices with ZnO:Al front electrode: Blocking contact vs. defect density’ [Thin Solid Films 548 (2013) 617–622]"}
+{
+  "retracted": false,
+  "timestamp": 1391126400000,
+  "updates": [
+    {
+      "timestamp": 1496008155593,
+      "identifier": {
+        "doi": "10.1016/j.tsf.2013.12.027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tsf.2013.09.078"
+  },
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Cause of the fill factor loss of a-Si:H p–i–n devices with ZnO:Al front electrode: Blocking contact vs. defect density’ [Thin Solid Films 548 (2013) 617–622]"
+}

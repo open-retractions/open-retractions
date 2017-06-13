@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489017600000,"doi":"10.1080/19427867.2017.1298695","type":"correction"},"doi":"10.1080/19427867.2017.1288890","journal":"Transportation Letters","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1489017600000,
+  "updates": [
+    {
+      "timestamp": 1495727702276,
+      "identifier": {
+        "doi": "10.1080/19427867.2017.1298695"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19427867.2017.1288890"
+  },
+  "journal": "Transportation Letters",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

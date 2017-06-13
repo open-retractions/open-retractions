@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.toxicon.2017.03.002","type":"erratum"},"doi":"10.1016/j.toxicon.2017.01.015","journal":"Toxicon","publisher":"Elsevier BV","title":"Corrigendum to “Design and expression of recombinant toxins from Mexican scorpions of the genus Centruroides for production of antivenoms” [Toxicon 128 (2017) 5–14]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495727412202,
+      "identifier": {
+        "doi": "10.1016/j.toxicon.2017.03.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxicon.2017.01.015"
+  },
+  "journal": "Toxicon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design and expression of recombinant toxins from Mexican scorpions of the genus  Centruroides  for production of antivenoms” [Toxicon 128 (2017) 5–14]"
+}

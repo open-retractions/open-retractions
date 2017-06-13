@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1007/s11128-015-1142-6","type":"correction"},"doi":"10.1007/s11128-015-0985-1","journal":"Quantum Information Processing","publisher":"Springer Nature","title":"Erratum to: Hyperfine spin qubits in irradiated malonic acid: heat-bath algorithmic cooling"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1496041133545,
+      "identifier": {
+        "doi": "10.1007/s11128-015-1142-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11128-015-0985-1"
+  },
+  "journal": "Quantum Information Processing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hyperfine spin qubits in irradiated malonic acid: heat-bath algorithmic cooling"
+}

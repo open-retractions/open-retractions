@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.ejrnm.2014.10.004","type":"err"},"doi":"10.1016/j.ejrnm.2014.02.016","journal":"The Egyptian Journal of Radiology and Nuclear Medicine","publisher":"Elsevier BV","title":"Retraction notice to “Contrast-enhanced dual-energy digital mammography in the evaluation of breast cancer” [EJRNM 45/2 (2014) 591–595]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496019567161,
+      "identifier": {
+        "doi": "10.1016/j.ejrnm.2014.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejrnm.2014.02.016"
+  },
+  "journal": "The Egyptian Journal of Radiology and Nuclear Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Contrast-enhanced dual-energy digital mammography in the evaluation of breast cancer” [EJRNM 45/2 (2014) 591–595]"
+}

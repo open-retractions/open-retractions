@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419033600000,"doi":"10.1007/s10509-014-2222-2","type":"correction"},"doi":"10.1007/s10509-012-1298-9","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Benchmarking the unified nonlinear transport theory for Goldreich–Sridhar turbulence"}
+{
+  "retracted": false,
+  "timestamp": 1419033600000,
+  "updates": [
+    {
+      "timestamp": 1496923808401,
+      "identifier": {
+        "doi": "10.1007/s10509-014-2222-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-012-1298-9"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Benchmarking the unified nonlinear transport theory for Goldreich–Sridhar turbulence"
+}

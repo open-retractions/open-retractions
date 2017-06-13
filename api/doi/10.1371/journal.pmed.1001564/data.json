@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387843200000,"doi":"10.1371/annotation/3db421e4-3e27-4442-8092-2ad1b778f371","type":"correction"},"doi":"10.1371/journal.pmed.1001564","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: The Effect of Dosing Regimens on the Antimalarial Efficacy of Dihydroartemisinin-Piperaquine: A Pooled Analysis of Individual Patient Data"}
+{
+  "retracted": false,
+  "timestamp": 1387843200000,
+  "updates": [
+    {
+      "timestamp": 1496025197781,
+      "identifier": {
+        "doi": "10.1371/annotation/3db421e4-3e27-4442-8092-2ad1b778f371"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.1001564"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Effect of Dosing Regimens on the Antimalarial Efficacy of Dihydroartemisinin-Piperaquine: A Pooled Analysis of Individual Patient Data"
+}

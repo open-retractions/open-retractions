@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421625600000,"doi":"10.1080/09715010.2014.952140","type":"correction"},"doi":"10.1080/09715010.2014.938132","journal":"ISH Journal of Hydraulic Engineering","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1421625600000,
+  "updates": [
+    {
+      "timestamp": 1496004437053,
+      "identifier": {
+        "doi": "10.1080/09715010.2014.952140"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09715010.2014.938132"
+  },
+  "journal": "ISH Journal of Hydraulic Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

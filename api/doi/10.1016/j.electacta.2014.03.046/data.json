@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411171200000,"doi":"10.1016/j.electacta.2014.08.063","type":"err"},"doi":"10.1016/j.electacta.2014.03.046","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Low-cost separators for enhanced power production and field application of microbial fuel cells (MFCs)” [Electrochimica Acta 132(2014) 434-440]"}
+{
+  "retracted": false,
+  "timestamp": 1411171200000,
+  "updates": [
+    {
+      "timestamp": 1495994025329,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2014.08.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2014.03.046"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low-cost separators for enhanced power production and field application of microbial fuel cells (MFCs)” [Electrochimica Acta 132(2014) 434-440]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1186/s12864-016-3107-2","type":"correction"},"doi":"10.1186/s12864-016-2780-5","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Transcriptome analysis of maize resistance to Fusarium graminearumn "}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495651544189,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3107-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2780-5"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transcriptome analysis of maize resistance to Fusarium graminearum\n        "
+}

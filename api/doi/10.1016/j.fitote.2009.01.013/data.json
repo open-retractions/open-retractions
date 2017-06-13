@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.fitote.2013.05.004","type":"err"},"doi":"10.1016/j.fitote.2009.01.013","journal":"Fitoterapia","publisher":"Elsevier BV","title":"Corrigendum to “Humarain: A new dimeric gallic acid glycoside from Punica granatum L. bark” [Fitoterapia 80/4 (June 2009) 223–225]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496019556225,
+      "identifier": {
+        "doi": "10.1016/j.fitote.2013.05.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fitote.2009.01.013"
+  },
+  "journal": "Fitoterapia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Humarain: A new dimeric gallic acid glycoside from Punica granatum L. bark” [Fitoterapia 80/4 (June 2009) 223–225]"
+}

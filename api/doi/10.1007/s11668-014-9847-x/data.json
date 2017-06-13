@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406592000000,"doi":"10.1007/s11668-014-9850-2","type":"correction"},"doi":"10.1007/s11668-014-9847-x","journal":"Journal of Failure Analysis and Prevention","publisher":"Springer Nature","title":"Erratum to: Failure Analysis and Finite Element Simulation of Above Ground Oil–Gas Pipeline Impacted by Rockfall"}
+{
+  "retracted": false,
+  "timestamp": 1406592000000,
+  "updates": [
+    {
+      "timestamp": 1496056691194,
+      "identifier": {
+        "doi": "10.1007/s11668-014-9850-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11668-014-9847-x"
+  },
+  "journal": "Journal of Failure Analysis and Prevention",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Failure Analysis and Finite Element Simulation of Above Ground Oil–Gas Pipeline Impacted by Rockfall"
+}

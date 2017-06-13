@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.intell.2014.09.011","type":"err"},"doi":"10.1016/j.intell.2014.04.002","journal":"Intelligence","publisher":"Elsevier BV","title":"Corrigendum to “IQ and somatic health in late adolescence” [INTELL 44 (2014) 155–162]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496013133307,
+      "identifier": {
+        "doi": "10.1016/j.intell.2014.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intell.2014.04.002"
+  },
+  "journal": "Intelligence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “IQ and somatic health in late adolescence” [INTELL 44 (2014) 155–162]"
+}

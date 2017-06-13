@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379289600000,"doi":"10.1016/j.jsv.2013.03.036","type":"err"},"doi":"10.1016/j.jsv.2010.02.014","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Calculation of ground vibration spectra from heavy military vehicles” [Journal of Sound and Vibration, 329 (2010) 3020–3029]"}
+{
+  "retracted": false,
+  "timestamp": 1379289600000,
+  "updates": [
+    {
+      "timestamp": 1496017232238,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2013.03.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2010.02.014"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Calculation of ground vibration spectra from heavy military vehicles” [Journal of Sound and Vibration, 329 (2010) 3020–3029]"
+}

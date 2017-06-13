@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jmmm.2013.07.056","type":"err"},"doi":"10.1016/j.jmmm.2013.05.058","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and magnetic properties of prussian blue modified Fe nanoparticles” [J. Magn. Magn. Mater. 345 (2013) 100–105]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496038265271,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2013.07.056"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2013.05.058"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and magnetic properties of prussian blue modified Fe nanoparticles” [J. Magn. Magn. Mater. 345 (2013) 100–105]"
+}

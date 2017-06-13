@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409097600000,"doi":"10.1080/14797585.2014.906827","type":"correction"},"doi":"10.1080/14797585.2011.633833","journal":"Journal for Cultural Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1409097600000,
+  "updates": [
+    {
+      "timestamp": 1496033205572,
+      "identifier": {
+        "doi": "10.1080/14797585.2014.906827"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14797585.2011.633833"
+  },
+  "journal": "Journal for Cultural Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

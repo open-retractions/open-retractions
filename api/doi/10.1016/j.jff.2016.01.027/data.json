@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jff.2016.03.019","type":"err"},"doi":"10.1016/j.jff.2016.01.027","journal":"Journal of Functional Foods","publisher":"Elsevier BV","title":"Corrigendum to ‘The composition, antioxidant and antiproliferative capacities of phenolic compounds extracted from tartary buckwheat bran [Fagopyrum tartaricum (L.) Gaerth]’"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495662419296,
+      "identifier": {
+        "doi": "10.1016/j.jff.2016.03.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jff.2016.01.027"
+  },
+  "journal": "Journal of Functional Foods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘The composition, antioxidant and antiproliferative capacities of phenolic compounds extracted from tartary buckwheat bran [Fagopyrum tartaricum (L.) Gaerth]’"
+}

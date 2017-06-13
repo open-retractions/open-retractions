@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1243296000000,"doi":"10.1073/pnas.0905501106","type":"correction"},"doi":"10.1073/pnas.0811782106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wang et al., Heterogeneous preferences, decision-making capacity, and phase transitions in a complex adaptive system"}
+{
+  "retracted": false,
+  "timestamp": 1243296000000,
+  "updates": [
+    {
+      "timestamp": 1495957640074,
+      "identifier": {
+        "doi": "10.1073/pnas.0905501106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0811782106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wang et al., Heterogeneous preferences, decision-making capacity, and phase transitions in a complex adaptive system"
+}

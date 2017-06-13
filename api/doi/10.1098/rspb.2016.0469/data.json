@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472601600000,"doi":"10.1098/rspb.2016.1485","type":"correction"},"doi":"10.1098/rspb.2016.0469","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Metabolomics of reef benthic interactions reveals a bioactive lipid involved in coral defence’"}
+{
+  "retracted": false,
+  "timestamp": 1472601600000,
+  "updates": [
+    {
+      "timestamp": 1495740591811,
+      "identifier": {
+        "doi": "10.1098/rspb.2016.1485"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2016.0469"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Metabolomics of reef benthic interactions reveals a bioactive lipid involved in coral defence’"
+}

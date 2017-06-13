@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1292371200000,"doi":"10.1107/s1600536810043096","type":"correction"},"doi":"10.1107/s1600536804008141","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"2-C-Hydroxymethyl-2,3-O-isopropylidene-D-ribono-1,5-lactam. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1292371200000,
+  "updates": [
+    {
+      "timestamp": 1495908813269,
+      "identifier": {
+        "doi": "10.1107/s1600536810043096"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536804008141"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "2-C-Hydroxymethyl-2,3-O-isopropylidene-D-ribono-1,5-lactam. Corrigendum"
+}

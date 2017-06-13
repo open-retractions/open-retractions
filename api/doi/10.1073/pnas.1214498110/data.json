@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392681600000,"doi":"10.1073/pnas.1324224111","type":"correction"},"doi":"10.1073/pnas.1214498110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Terrinoni et al., Role of p63 and the Notch pathway in cochlea development and sensorineural deafness"}
+{
+  "retracted": false,
+  "timestamp": 1392681600000,
+  "updates": [
+    {
+      "timestamp": 1496013718675,
+      "identifier": {
+        "doi": "10.1073/pnas.1324224111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1214498110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Terrinoni et al., Role of p63 and the Notch pathway in cochlea development and sensorineural deafness"
+}

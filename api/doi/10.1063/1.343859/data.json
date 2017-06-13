@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":654739200000,"doi":"10.1063/1.347204","type":"erratum"},"doi":"10.1063/1.343859","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: ‘‘Direct and efficient solutions of integral equations for scattering from strips and slots’’ [J. Appl. Phys. 66, 69 (1989)]."}
+{
+  "retracted": false,
+  "timestamp": 654739200000,
+  "updates": [
+    {
+      "timestamp": 1495867335188,
+      "identifier": {
+        "doi": "10.1063/1.347204"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.343859"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘Direct and efficient solutions of integral equations for scattering from strips and slots’’ [J. Appl. Phys. 66, 69 (1989)]."
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.dsp.2015.02.008","type":"err"},"doi":"10.1016/j.dsp.2014.12.001","journal":"Digital Signal Processing","publisher":"Elsevier BV","title":"Corrigendum to “Low complexity and efficient dynamic spectrum learning and tunable bandwidth access for heterogeneous decentralized cognitive radio networks” [Digit. Signal Process. 37 (Feb. 2015) 13–23]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496048302254,
+      "identifier": {
+        "doi": "10.1016/j.dsp.2015.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsp.2014.12.001"
+  },
+  "journal": "Digital Signal Processing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low complexity and efficient dynamic spectrum learning and tunable bandwidth access for heterogeneous decentralized cognitive radio networks” [Digit. Signal Process. 37 (Feb. 2015) 13–23]"
+}

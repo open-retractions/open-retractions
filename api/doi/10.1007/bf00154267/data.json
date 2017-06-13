@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":499651200000,"doi":"10.1007/bf00133288","type":"correction"},"doi":"10.1007/bf00154267","journal":"Natural Language & Linguistic Theory","publisher":"Springer Nature","title":"Erratum to: On the Nature of Grammatical Relations"}
+{
+  "retracted": false,
+  "timestamp": 499651200000,
+  "updates": [
+    {
+      "timestamp": 1495836874284,
+      "identifier": {
+        "doi": "10.1007/bf00133288"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00154267"
+  },
+  "journal": "Natural Language & Linguistic Theory",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the Nature of Grammatical Relations"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1007/s00220-015-2478-6","type":"correction"},"doi":"10.1007/s00220-012-1445-8","journal":"Communications in Mathematical Physics","publisher":"Springer Nature","title":"Erratum to: Robust Exponential Decay of Correlations for Singular-Flows"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496038588291,
+      "identifier": {
+        "doi": "10.1007/s00220-015-2478-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00220-012-1445-8"
+  },
+  "journal": "Communications in Mathematical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Robust Exponential Decay of Correlations for Singular-Flows"
+}

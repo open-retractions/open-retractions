@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1080/17533015.2015.1050908","type":"correction"},"doi":"10.1080/17533015.2015.1027934","journal":"Arts & Health","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1496002234887,
+      "identifier": {
+        "doi": "10.1080/17533015.2015.1050908"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17533015.2015.1027934"
+  },
+  "journal": "Arts & Health",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

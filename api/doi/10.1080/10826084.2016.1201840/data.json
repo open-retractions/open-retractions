@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487030400000,"doi":"10.1080/10826084.2017.1288522","type":"correction"},"doi":"10.1080/10826084.2016.1201840","journal":"Substance Use & Misuse","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487030400000,
+  "updates": [
+    {
+      "timestamp": 1495720392521,
+      "identifier": {
+        "doi": "10.1080/10826084.2017.1288522"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10826084.2016.1201840"
+  },
+  "journal": "Substance Use & Misuse",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

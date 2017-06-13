@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439251200000,"doi":"10.1186/s13015-015-0055-3","type":"correction"},"doi":"10.1186/s13015-015-0054-4","journal":"Algorithms for Molecular Biology","publisher":"Springer Nature","title":"Erratum to: Inferring interaction type in gene regulatory networks using co-expression data"}
+{
+  "retracted": false,
+  "timestamp": 1439251200000,
+  "updates": [
+    {
+      "timestamp": 1496021172674,
+      "identifier": {
+        "doi": "10.1186/s13015-015-0055-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13015-015-0054-4"
+  },
+  "journal": "Algorithms for Molecular Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inferring interaction type in gene regulatory networks using co-expression data"
+}

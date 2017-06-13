@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412294400000,"doi":"10.1007/s00253-014-6104-x","type":"correction"},"doi":"10.1007/s00253-013-4945-3","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Penicillin G acylase from Achromobacter sp. CCM 4824"}
+{
+  "retracted": false,
+  "timestamp": 1412294400000,
+  "updates": [
+    {
+      "timestamp": 1496011460484,
+      "identifier": {
+        "doi": "10.1007/s00253-014-6104-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-013-4945-3"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Penicillin G acylase from Achromobacter sp. CCM 4824"
+}

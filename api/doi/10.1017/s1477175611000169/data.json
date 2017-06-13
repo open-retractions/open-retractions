@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1324425600000,"doi":"10.1017/s147717561100042x","type":"correction"},"doi":"10.1017/s1477175611000169","journal":"Think","publisher":"Cambridge University Press (CUP)","title":"A FIRST NAME BASIS? – ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1324425600000,
+  "updates": [
+    {
+      "timestamp": 1495855191459,
+      "identifier": {
+        "doi": "10.1017/s147717561100042x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s1477175611000169"
+  },
+  "journal": "Think",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "A FIRST NAME BASIS? – ERRATUM"
+}

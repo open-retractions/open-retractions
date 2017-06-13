@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.plaphy.2014.09.005","type":"err"},"doi":"10.1016/j.plaphy.2012.01.006","journal":"Plant Physiology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Excess copper induced oxidative stress and response of antioxidants in rice” [Plant Physiol. Biochem. 53 (2012) 33–39]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496007419549,
+      "identifier": {
+        "doi": "10.1016/j.plaphy.2014.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.plaphy.2012.01.006"
+  },
+  "journal": "Plant Physiology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Excess copper induced oxidative stress and response of antioxidants in rice” [Plant Physiol. Biochem. 53 (2012) 33–39]"
+}

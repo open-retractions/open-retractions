@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.yrtph.2015.06.012","type":"err"},"doi":"10.1016/j.yrtph.2014.07.009","journal":"Regulatory Toxicology and Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Evaluating the association between menthol cigarette use and the likelihood of being a former versus current smoker” [Regul. Toxicol. Pharmacol. 70/1 (2014) 231–241]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496011493632,
+      "identifier": {
+        "doi": "10.1016/j.yrtph.2015.06.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yrtph.2014.07.009"
+  },
+  "journal": "Regulatory Toxicology and Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluating the association between menthol cigarette use and the likelihood of being a former versus current smoker” [Regul. Toxicol. Pharmacol. 70/1 (2014) 231–241]"
+}

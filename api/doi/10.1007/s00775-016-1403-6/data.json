@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480896000000,"doi":"10.1007/s00775-016-1422-3","type":"correction"},"doi":"10.1007/s00775-016-1403-6","journal":"JBIC Journal of Biological Inorganic Chemistry","publisher":"Springer Nature","title":"Erratum to: Note from the SBIC President"}
+{
+  "retracted": false,
+  "timestamp": 1480896000000,
+  "updates": [
+    {
+      "timestamp": 1495659137534,
+      "identifier": {
+        "doi": "10.1007/s00775-016-1422-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00775-016-1403-6"
+  },
+  "journal": "JBIC Journal of Biological Inorganic Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Note from the SBIC President"
+}

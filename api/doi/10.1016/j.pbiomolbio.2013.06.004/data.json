@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.pbiomolbio.2014.05.001","type":"err"},"doi":"10.1016/j.pbiomolbio.2013.06.004","journal":"Progress in Biophysics and Molecular Biology","publisher":"Elsevier BV","title":"Erratum: Modelling and enhanced molecular dynamics to steer structure-based drug design"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496037892926,
+      "identifier": {
+        "doi": "10.1016/j.pbiomolbio.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbiomolbio.2013.06.004"
+  },
+  "journal": "Progress in Biophysics and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum: Modelling and enhanced molecular dynamics to steer structure-based drug design"
+}

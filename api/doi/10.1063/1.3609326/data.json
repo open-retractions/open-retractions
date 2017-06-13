@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418860800000,"doi":"10.1063/1.4904733","type":"correction"},"doi":"10.1063/1.3609326","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Molecular beam epitaxy and characterization of thin Bi2Se3 films on Al2O3 (110)” [Appl. Phys. Lett. 99, 013111 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1418860800000,
+  "updates": [
+    {
+      "timestamp": 1496028515257,
+      "identifier": {
+        "doi": "10.1063/1.4904733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3609326"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Molecular beam epitaxy and characterization of thin Bi2Se3 films on Al2O3 (110)” [Appl. Phys. Lett. 99, 013111 (2011)]"
+}

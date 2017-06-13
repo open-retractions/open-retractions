@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.ecoenv.2014.11.010","type":"err"},"doi":"10.1016/j.ecoenv.2014.10.030","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Corrigendum to “Contamination and risk assessment of metals in road-deposited sediments in a medium-sized city of China” [Ecotoxicol. Environ. saf. 112 (2015) 87–95]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496024377795,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2014.11.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2014.10.030"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Contamination and risk assessment of metals in road-deposited sediments in a medium-sized city of China” [Ecotoxicol. Environ. saf. 112 (2015) 87–95]"
+}

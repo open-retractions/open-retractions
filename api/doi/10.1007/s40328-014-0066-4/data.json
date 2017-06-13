@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414713600000,"doi":"10.1007/s40328-014-0076-2","type":"correction"},"doi":"10.1007/s40328-014-0066-4","journal":"Acta Geodaetica et Geophysica","publisher":"Springer Nature","title":"Erratum to: Precise orbit determination and accuracy analysis of HY-2A satellite using DORIS Doppler data"}
+{
+  "retracted": false,
+  "timestamp": 1414713600000,
+  "updates": [
+    {
+      "timestamp": 1496021304527,
+      "identifier": {
+        "doi": "10.1007/s40328-014-0076-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40328-014-0066-4"
+  },
+  "journal": "Acta Geodaetica et Geophysica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Precise orbit determination and accuracy analysis of HY-2A satellite using DORIS Doppler data"
+}

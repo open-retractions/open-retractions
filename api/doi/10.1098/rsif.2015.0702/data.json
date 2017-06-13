@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1098/rsif.2016.0040","type":"correction"},"doi":"10.1098/rsif.2015.0702","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Single passage in mouse organs enhances the survival and spread ofSalmonella enterica’"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495643542094,
+      "identifier": {
+        "doi": "10.1098/rsif.2016.0040"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2015.0702"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Single passage in mouse organs enhances the survival and spread ofSalmonella enterica’"
+}

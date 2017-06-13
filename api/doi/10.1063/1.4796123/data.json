@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400803200000,"doi":"10.1063/1.4879638","type":"correction"},"doi":"10.1063/1.4796123","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher’s Note: “Ultraviolet light-emitting diodes grown by plasma-assisted molecular beam epitaxy on semipolar GaN (202¯1) substrates” [Appl. Phys. Lett. 102, 111107 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1400803200000,
+  "updates": [
+    {
+      "timestamp": 1496041491597,
+      "identifier": {
+        "doi": "10.1063/1.4879638"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4796123"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Ultraviolet light-emitting diodes grown by plasma-assisted molecular beam epitaxy on semipolar GaN (202¯1) substrates” [Appl. Phys. Lett. 102, 111107 (2013)]"
+}

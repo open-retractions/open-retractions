@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1007/s13238-017-0389-3","type":"correction"},"doi":"10.1007/s13238-016-0336-8","journal":"Protein & Cell","publisher":"Springer Nature","title":"Erratum to: Protein-protein interaction analysis in crude bacterial lysates using combinational method of 19F site-specific incorporation and 19F NMR"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495728006747,
+      "identifier": {
+        "doi": "10.1007/s13238-017-0389-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13238-016-0336-8"
+  },
+  "journal": "Protein & Cell",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Protein-protein interaction analysis in crude bacterial lysates using combinational method of 19F site-specific incorporation and 19F NMR"
+}

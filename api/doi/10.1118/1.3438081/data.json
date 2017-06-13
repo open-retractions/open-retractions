@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1325376000000,"doi":"10.1118/1.3671956","type":"erratum"},"doi":"10.1118/1.3438081","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Correction to stereotactic body radiation therapy: The report from the AAPM Task Group No. 101” [Med. Phys. (), - (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1325376000000,
+  "updates": [
+    {
+      "timestamp": 1495852011884,
+      "identifier": {
+        "doi": "10.1118/1.3671956"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.3438081"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Correction to stereotactic body radiation therapy: The report from the AAPM Task Group No. 101” [Med. Phys. (), - (2010)]"
+}

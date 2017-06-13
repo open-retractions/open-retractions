@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1007/s12350-016-0446-y","type":"correction"},"doi":"10.1007/s12350-015-0321-2","journal":"Journal of Nuclear Cardiology","publisher":"Springer Nature","title":"Erratum to: Moving ahead with CZT technology"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645546603,
+      "identifier": {
+        "doi": "10.1007/s12350-016-0446-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12350-015-0321-2"
+  },
+  "journal": "Journal of Nuclear Cardiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Moving ahead with CZT technology"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.exer.2016.01.005","type":"erratum"},"doi":"10.1016/j.exer.2013.05.016","journal":"Experimental Eye Research","publisher":"Elsevier BV","title":"Corrigendum to “Corneal innervation as a window to peripheral neuropathies” [Exp. Eye Res. 113 (2013) 148–150]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495668802641,
+      "identifier": {
+        "doi": "10.1016/j.exer.2016.01.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exer.2013.05.016"
+  },
+  "journal": "Experimental Eye Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Corneal innervation as a window to peripheral neuropathies” [Exp. Eye Res. 113 (2013) 148–150]"
+}

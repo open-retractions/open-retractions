@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435622400000,"doi":"10.1080/19768354.2015.1046203","type":"correction"},"doi":"10.1080/19768354.2014.995225","journal":"Animal Cells and Systems","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1435622400000,
+  "updates": [
+    {
+      "timestamp": 1496012472331,
+      "identifier": {
+        "doi": "10.1080/19768354.2015.1046203"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19768354.2014.995225"
+  },
+  "journal": "Animal Cells and Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

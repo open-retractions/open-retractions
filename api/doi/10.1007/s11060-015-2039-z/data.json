@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1007/s11060-016-2089-x","type":"correction"},"doi":"10.1007/s11060-015-2039-z","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Prognostic significance of stem cell marker CD133 determined by promoter methylation but not by immunohistochemical expression in malignant gliomas"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648165682,
+      "identifier": {
+        "doi": "10.1007/s11060-016-2089-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-015-2039-z"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prognostic significance of stem cell marker CD133 determined by promoter methylation but not by immunohistochemical expression in malignant gliomas"
+}

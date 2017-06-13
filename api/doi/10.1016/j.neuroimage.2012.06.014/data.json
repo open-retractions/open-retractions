@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.neuroimage.2013.12.034","type":"err"},"doi":"10.1016/j.neuroimage.2012.06.014","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Temporal microstructure of cortical networks (TMCN) underlying task-related differences” [Neuroimage 62 (2012) 1643–1657]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496009424867,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2013.12.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2012.06.014"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Temporal microstructure of cortical networks (TMCN) underlying task-related differences” [Neuroimage 62 (2012) 1643–1657]"
+}

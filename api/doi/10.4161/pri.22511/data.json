@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472169600000,"doi":"10.1080/19336896.2016.1218727","type":"correction"},"doi":"10.4161/pri.22511","journal":"Prion","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1472169600000,
+  "updates": [
+    {
+      "timestamp": 1495741150975,
+      "identifier": {
+        "doi": "10.1080/19336896.2016.1218727"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/pri.22511"
+  },
+  "journal": "Prion",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

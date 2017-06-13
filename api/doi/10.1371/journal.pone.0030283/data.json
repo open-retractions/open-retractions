@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349222400000,"doi":"10.1371/annotation/99045f74-9bb1-4bde-bdc0-876ee52b5025","type":"correction"},"doi":"10.1371/journal.pone.0030283","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Differential Gene Expression Regulated by Oscillatory Transcription Factors"}
+{
+  "retracted": false,
+  "timestamp": 1349222400000,
+  "updates": [
+    {
+      "timestamp": 1495930895828,
+      "identifier": {
+        "doi": "10.1371/annotation/99045f74-9bb1-4bde-bdc0-876ee52b5025"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030283"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Differential Gene Expression Regulated by Oscillatory Transcription Factors"
+}

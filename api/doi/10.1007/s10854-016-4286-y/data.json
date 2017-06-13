@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1007/s10854-016-4705-0","type":"correction"},"doi":"10.1007/s10854-016-4286-y","journal":"Journal of Materials Science: Materials in Electronics","publisher":"Springer Nature","title":"Erratum to: Structural and electrical properties of Ho3+-modified Pb(Zn1/3Nb2/3)O3–9PbTiO3 single crystals"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495660624724,
+      "identifier": {
+        "doi": "10.1007/s10854-016-4705-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10854-016-4286-y"
+  },
+  "journal": "Journal of Materials Science: Materials in Electronics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Structural and electrical properties of Ho3+-modified Pb(Zn1/3Nb2/3)O3–9PbTiO3 single crystals"
+}

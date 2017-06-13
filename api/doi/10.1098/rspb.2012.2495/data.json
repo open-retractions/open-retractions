@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491955200000,"doi":"10.1098/rspb.2017.0103","type":"correction"},"doi":"10.1098/rspb.2012.2495","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Adiposity, compared to masculinity, serves as a more valid cue to immunocompetence in human mate choice’"}
+{
+  "retracted": false,
+  "timestamp": 1491955200000,
+  "updates": [
+    {
+      "timestamp": 1495736188370,
+      "identifier": {
+        "doi": "10.1098/rspb.2017.0103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2012.2495"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Adiposity, compared to masculinity, serves as a more valid cue to immunocompetence in human mate choice’"
+}

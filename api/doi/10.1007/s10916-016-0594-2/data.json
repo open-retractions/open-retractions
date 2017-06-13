@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1007/s10916-016-0683-2","type":"correction"},"doi":"10.1007/s10916-016-0594-2","journal":"Journal of Medical Systems","publisher":"Springer Nature","title":"Erratum to: Processing Time Reduction: an Application in Living Human High-Resolution Diffusion Magnetic Resonance Imaging Data"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678277262,
+      "identifier": {
+        "doi": "10.1007/s10916-016-0683-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10916-016-0594-2"
+  },
+  "journal": "Journal of Medical Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Processing Time Reduction: an Application in Living Human High-Resolution Diffusion Magnetic Resonance Imaging Data"
+}

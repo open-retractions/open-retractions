@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.phytochem.2014.06.005","type":"err"},"doi":"10.1016/j.phytochem.2013.08.015","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Prenylflavonoids isolated from Artocarpus champeden with TRAIL-resistance overcoming activity” [Phytochemistry 96 (2013) 299–304]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496049149989,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2014.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2013.08.015"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Prenylflavonoids isolated from Artocarpus champeden with TRAIL-resistance overcoming activity” [Phytochemistry 96 (2013) 299–304]"
+}

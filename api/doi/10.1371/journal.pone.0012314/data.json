@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1285804800000,"doi":"10.1371/annotation/1c817cc7-4fb8-4fd5-a9c6-04b8d0e6c3fb","type":"correction"},"doi":"10.1371/journal.pone.0012314","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Trade-offs and Noise Tolerance in Signal Detection by Genetic Circuits"}
+{
+  "retracted": false,
+  "timestamp": 1285804800000,
+  "updates": [
+    {
+      "timestamp": 1495889365944,
+      "identifier": {
+        "doi": "10.1371/annotation/1c817cc7-4fb8-4fd5-a9c6-04b8d0e6c3fb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0012314"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Trade-offs and Noise Tolerance in Signal Detection by Genetic Circuits"
+}

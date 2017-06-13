@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480291200000,"doi":"10.1016/j.chemgeo.2016.09.039","type":"err"},"doi":"10.1016/j.chemgeo.2016.05.035","journal":"Chemical Geology","publisher":"Elsevier BV","title":"WITHDRAWN: Celestine in a sulfidic spring barite deposit-A potential biomarker?"}
+{
+  "retracted": false,
+  "timestamp": 1480291200000,
+  "updates": [
+    {
+      "timestamp": 1495650996843,
+      "identifier": {
+        "doi": "10.1016/j.chemgeo.2016.09.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemgeo.2016.05.035"
+  },
+  "journal": "Chemical Geology",
+  "publisher": "Elsevier BV",
+  "title": "WITHDRAWN: Celestine in a sulfidic spring barite deposit-A potential biomarker?"
+}

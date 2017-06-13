@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1186/s12864-016-2630-5","type":"correction"},"doi":"10.1186/s12864-016-2549-x","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: ‘The orientation of transcription factor binding site motifs in gene promoter regions: does it matter?’"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669514609,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2630-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2549-x"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘The orientation of transcription factor binding site motifs in gene promoter regions: does it matter?’"
+}

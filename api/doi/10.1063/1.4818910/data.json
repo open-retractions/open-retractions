@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378425600000,"doi":"10.1063/1.4820766","type":"correction"},"doi":"10.1063/1.4818910","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Surface enhanced luminescence and Raman scattering from ferroelectrically defined Ag nanopatterned arrays” [Appl. Phys. Lett. 103, 083105 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1378425600000,
+  "updates": [
+    {
+      "timestamp": 1496044600086,
+      "identifier": {
+        "doi": "10.1063/1.4820766"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4818910"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Surface enhanced luminescence and Raman scattering from ferroelectrically defined Ag nanopatterned arrays” [Appl. Phys. Lett. 103, 083105 (2013)]"
+}

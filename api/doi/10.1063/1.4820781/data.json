@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382054400000,"doi":"10.1063/1.4825243","type":"correction"},"doi":"10.1063/1.4820781","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Ab initio dynamics of field emission from diamond surfaces” [Appl. Phys. Lett. 103, 123104 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1382054400000,
+  "updates": [
+    {
+      "timestamp": 1496055183803,
+      "identifier": {
+        "doi": "10.1063/1.4825243"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820781"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Ab initio dynamics of field emission from diamond surfaces” [Appl. Phys. Lett. 103, 123104 (2013)]"
+}

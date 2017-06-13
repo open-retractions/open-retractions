@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451001600000,"doi":"10.1007/s00535-015-1155-z","type":"correction"},"doi":"10.1007/s00535-015-1056-1","journal":"Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: A thymine–adenine dinucleotide repeat polymorphism near IL28B is associated with spontaneous clearance of hepatitis C virus"}
+{
+  "retracted": false,
+  "timestamp": 1451001600000,
+  "updates": [
+    {
+      "timestamp": 1496056029433,
+      "identifier": {
+        "doi": "10.1007/s00535-015-1155-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00535-015-1056-1"
+  },
+  "journal": "Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A thymine–adenine dinucleotide repeat polymorphism near IL28B is associated with spontaneous clearance of hepatitis C virus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.jtice.2013.12.022","type":"err"},"doi":"10.1016/j.jtice.2010.05.011","journal":"Journal of the Taiwan Institute of Chemical Engineers","publisher":"Elsevier BV","title":"Corrigendum to “Current advances in disulfide connectivity predictions” [J. Taiwan Inst. Chem. Eng. 41 (2010) 525–539]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496008251234,
+      "identifier": {
+        "doi": "10.1016/j.jtice.2013.12.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtice.2010.05.011"
+  },
+  "journal": "Journal of the Taiwan Institute of Chemical Engineers",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Current advances in disulfide connectivity predictions” [J. Taiwan Inst. Chem. Eng. 41 (2010) 525–539]"
+}

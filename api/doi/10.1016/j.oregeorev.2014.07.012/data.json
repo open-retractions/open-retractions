@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.oregeorev.2015.01.002","type":"err"},"doi":"10.1016/j.oregeorev.2014.07.012","journal":"Ore Geology Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Unveiling the hydrothermal mineralogy of the Chapi Chiara gold prospect, Peru, through reflectance spectroscopy, geochemical and petrographic data” [Ore Geol. Rev. 64 (2015) 299–315]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496035661314,
+      "identifier": {
+        "doi": "10.1016/j.oregeorev.2015.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oregeorev.2014.07.012"
+  },
+  "journal": "Ore Geology Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Unveiling the hydrothermal mineralogy of the Chapi Chiara gold prospect, Peru, through reflectance spectroscopy, geochemical and petrographic data” [Ore Geol. Rev. 64 (2015) 299–315]"
+}

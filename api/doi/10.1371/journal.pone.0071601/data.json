@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378425600000,"doi":"10.1371/annotation/4f08219c-2d7b-4309-8351-d3fe2378993f","type":"correction"},"doi":"10.1371/journal.pone.0071601","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Priming with Recombinant Auxotrophic BCG Expressing HIV-1 Gag, RT and Gp120 and Boosting with Recombinant MVA Induces a Robust T Cell Response in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1378425600000,
+  "updates": [
+    {
+      "timestamp": 1496053923372,
+      "identifier": {
+        "doi": "10.1371/annotation/4f08219c-2d7b-4309-8351-d3fe2378993f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0071601"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Priming with Recombinant Auxotrophic BCG Expressing HIV-1 Gag, RT and Gp120 and Boosting with Recombinant MVA Induces a Robust T Cell Response in Mice"
+}

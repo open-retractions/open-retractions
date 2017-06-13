@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1371/journal.pone.0147457","type":"correction"},"doi":"10.1371/journal.pone.0128903","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: LDL Receptor-Related Protein-1 (LRP1) Regulates Cholesterol Accumulation in Macrophages"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638460436,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0147457"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0128903"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: LDL Receptor-Related Protein-1 (LRP1) Regulates Cholesterol Accumulation in Macrophages"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1258502400000,"doi":"10.1007/s00103-009-0983-5","type":"correction"},"doi":"10.1007/s00103-009-0921-6","journal":"Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz","publisher":"Springer Nature","title":"Erratum to: Das Konzept der Exzellenzuniversitäten"}
+{
+  "retracted": false,
+  "timestamp": 1258502400000,
+  "updates": [
+    {
+      "timestamp": 1495975643517,
+      "identifier": {
+        "doi": "10.1007/s00103-009-0983-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00103-009-0921-6"
+  },
+  "journal": "Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Das Konzept der Exzellenzuniversitäten"
+}

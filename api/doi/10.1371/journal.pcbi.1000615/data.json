@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1263513600000,"doi":"10.1371/annotation/064a9048-e6f7-4cf8-b259-f40cfb6696ba","type":"correction"},"doi":"10.1371/journal.pcbi.1000615","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Calculating Evolutionary Dynamics in Structured Populations"}
+{
+  "retracted": false,
+  "timestamp": 1263513600000,
+  "updates": [
+    {
+      "timestamp": 1496025195594,
+      "identifier": {
+        "doi": "10.1371/annotation/064a9048-e6f7-4cf8-b259-f40cfb6696ba"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000615"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Calculating Evolutionary Dynamics in Structured Populations"
+}

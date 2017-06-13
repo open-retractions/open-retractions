@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410998400000,"doi":"10.1080/02699931.2014.903081","type":"correction"},"doi":"10.1080/02699931.2014.888988","journal":"Cognition and Emotion","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1410998400000,
+  "updates": [
+    {
+      "timestamp": 1496028208874,
+      "identifier": {
+        "doi": "10.1080/02699931.2014.903081"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02699931.2014.888988"
+  },
+  "journal": "Cognition and Emotion",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

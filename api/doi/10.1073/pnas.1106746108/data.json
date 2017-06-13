@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1312848000000,"doi":"10.1073/pnas.1112875108","type":"correction"},"doi":"10.1073/pnas.1106746108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Alcorlo et al., Unique structure of iC3b resolved at a resolution of 24 A by 3D-electron microscopy"}
+{
+  "retracted": false,
+  "timestamp": 1312848000000,
+  "updates": [
+    {
+      "timestamp": 1495988100549,
+      "identifier": {
+        "doi": "10.1073/pnas.1112875108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1106746108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Alcorlo et al., Unique structure of iC3b resolved at a resolution of 24 A by 3D-electron microscopy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414713600000,"doi":"10.1016/j.chroma.2014.09.036","type":"err"},"doi":"10.1016/j.chroma.2014.06.097","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Corrrigendum to “Enhanced selectivity and search speed for method development using one-segment-per-component optimization strategies” [J. Chromatogr. A 1358 (2014) 145–154]"}
+{
+  "retracted": false,
+  "timestamp": 1414713600000,
+  "updates": [
+    {
+      "timestamp": 1496009146303,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2014.09.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2014.06.097"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Corrrigendum to “Enhanced selectivity and search speed for method development using one-segment-per-component optimization strategies” [J. Chromatogr. A 1358 (2014) 145–154]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414108800000,"doi":"10.1007/s10354-014-0325-6","type":"correction"},"doi":"10.1007/s10354-014-0302-0","journal":"Wiener Medizinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Benign chondroid syringoma (mixed tumor of skin) on the flank with satellites: case report and literature review"}
+{
+  "retracted": false,
+  "timestamp": 1414108800000,
+  "updates": [
+    {
+      "timestamp": 1496016214882,
+      "identifier": {
+        "doi": "10.1007/s10354-014-0325-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10354-014-0302-0"
+  },
+  "journal": "Wiener Medizinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Benign chondroid syringoma (mixed tumor of skin) on the flank with satellites: case report and literature review"
+}

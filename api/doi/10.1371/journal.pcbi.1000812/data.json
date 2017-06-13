@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1280793600000,"doi":"10.1371/annotation/ed46bce4-e4e1-4df5-bad3-fac0770efeac","type":"correction"},"doi":"10.1371/journal.pcbi.1000812","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: The Carbon Assimilation Network in Escherichia coli Is Densely Connected and Largely Sign-Determined by Directions of Metabolic Fluxes"}
+{
+  "retracted": false,
+  "timestamp": 1280793600000,
+  "updates": [
+    {
+      "timestamp": 1496025197434,
+      "identifier": {
+        "doi": "10.1371/annotation/ed46bce4-e4e1-4df5-bad3-fac0770efeac"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000812"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Carbon Assimilation Network in Escherichia coli Is Densely Connected and Largely Sign-Determined by Directions of Metabolic Fluxes"
+}

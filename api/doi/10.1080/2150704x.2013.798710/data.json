@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394150400000,"doi":"10.1080/2150704x.2014.895586","type":"correction"},"doi":"10.1080/2150704x.2013.798710","journal":"Remote Sensing Letters","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394150400000,
+  "updates": [
+    {
+      "timestamp": 1496023742716,
+      "identifier": {
+        "doi": "10.1080/2150704x.2014.895586"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/2150704x.2013.798710"
+  },
+  "journal": "Remote Sensing Letters",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

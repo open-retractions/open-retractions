@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1412208000000,"doi":"10.1080/09168451.2014.959254","type":"correction"},"doi":"10.1271/bbb.90459","journal":"Bioscience, Biotechnology, and Biochemistry","publisher":"Informa UK Limited","title":"Poly(3-hydroxybutyrate) Production by IsolatedHalomonassp. KM-1 Using Waste Glycerol"}
+{
+  "retracted": false,
+  "timestamp": 1412208000000,
+  "updates": [
+    {
+      "timestamp": 1496011673135,
+      "identifier": {
+        "doi": "10.1080/09168451.2014.959254"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1271/bbb.90459"
+  },
+  "publisher": "Informa UK Limited",
+  "title": "Poly(3-hydroxybutyrate) Production by IsolatedHalomonassp. KM-1 Using Waste Glycerol"
+}

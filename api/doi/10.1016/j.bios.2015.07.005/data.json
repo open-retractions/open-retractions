@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484438400000,"doi":"10.1016/j.bios.2016.09.051","type":"err"},"doi":"10.1016/j.bios.2015.07.005","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to ‘A microfluidic device for the automated electrical readout of low-density glass-slide microarrays’ [Biosens. Bioelectron. 74 (2015) 698–704]"}
+{
+  "retracted": false,
+  "timestamp": 1484438400000,
+  "updates": [
+    {
+      "timestamp": 1495658429811,
+      "identifier": {
+        "doi": "10.1016/j.bios.2016.09.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2015.07.005"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A microfluidic device for the automated electrical readout of low-density glass-slide microarrays’ [Biosens. Bioelectron. 74 (2015) 698–704]"
+}

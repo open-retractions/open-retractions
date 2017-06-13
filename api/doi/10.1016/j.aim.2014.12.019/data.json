@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428537600000,"doi":"10.1016/j.aim.2015.01.016","type":"err"},"doi":"10.1016/j.aim.2014.12.019","journal":"Advances in Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “On the Frobenius manifolds for cusp singularities” [Adv. Math. 273 (2015) 485–522]"}
+{
+  "retracted": false,
+  "timestamp": 1428537600000,
+  "updates": [
+    {
+      "timestamp": 1496040001042,
+      "identifier": {
+        "doi": "10.1016/j.aim.2015.01.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aim.2014.12.019"
+  },
+  "journal": "Advances in Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the Frobenius manifolds for cusp singularities” [Adv. Math. 273 (2015) 485–522]"
+}

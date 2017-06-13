@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-586569600000,"doi":"10.1063/1.1745970","type":"erratum"},"doi":"10.1063/1.1745911","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: New Instruments—Microburet"}
+{
+  "retracted": false,
+  "timestamp": -586569600000,
+  "updates": [
+    {
+      "timestamp": 1495920842943,
+      "identifier": {
+        "doi": "10.1063/1.1745970"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1745911"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: New Instruments—Microburet"
+}

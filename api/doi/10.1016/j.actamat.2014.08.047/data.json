@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.actamat.2015.12.030","type":"err"},"doi":"10.1016/j.actamat.2014.08.047","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “First-principles-aided design of a new Ni-base superalloy: Influence of transition metal alloying elements on grain boundary and bulk cohesion” [Acta Mater. 82 (2015) 369–377]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495638226712,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2015.12.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2014.08.047"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “First-principles-aided design of a new Ni-base superalloy: Influence of transition metal alloying elements on grain boundary and bulk cohesion” [Acta Mater. 82 (2015) 369–377]"
+}

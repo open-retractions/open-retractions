@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jviromet.2014.09.001","type":"err"},"doi":"10.1016/j.jviromet.2013.11.014","journal":"Journal of Virological Methods","publisher":"Elsevier BV","title":"Corrigendum to “Development and validation of a real time PCR for the detection of myxoma virus based on the diploid gene M000.5L/R” [J. Virol. Methods 196 (2014) 219–224]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496006410772,
+      "identifier": {
+        "doi": "10.1016/j.jviromet.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jviromet.2013.11.014"
+  },
+  "journal": "Journal of Virological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development and validation of a real time PCR for the detection of myxoma virus based on the diploid gene M000.5L/R” [J. Virol. Methods 196 (2014) 219–224]"
+}

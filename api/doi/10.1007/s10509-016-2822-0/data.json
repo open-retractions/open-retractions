@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467676800000,"doi":"10.1007/s10509-016-2848-3","type":"correction"},"doi":"10.1007/s10509-016-2822-0","journal":"Astrophysics and Space Science","publisher":"Springer Nature","title":"Erratum to: Radio core dominance of Fermi blazars"}
+{
+  "retracted": false,
+  "timestamp": 1467676800000,
+  "updates": [
+    {
+      "timestamp": 1495724692682,
+      "identifier": {
+        "doi": "10.1007/s10509-016-2848-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10509-016-2822-0"
+  },
+  "journal": "Astrophysics and Space Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radio core dominance of Fermi blazars"
+}

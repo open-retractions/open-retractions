@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.chemosphere.2016.06.003","type":"err"},"doi":"10.1016/j.chemosphere.2013.02.068","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Isotherm and thermodynamic studies of Zn (II) adsorption on lignite and coconut shell-based activated carbon fiber” [Chemosphere (2013) 1053–1061]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495720491017,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2013.02.068"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Isotherm and thermodynamic studies of Zn (II) adsorption on lignite and coconut shell-based activated carbon fiber” [Chemosphere (2013) 1053–1061]"
+}

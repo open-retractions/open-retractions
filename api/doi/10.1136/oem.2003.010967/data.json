@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1136/oem.2003.010967corr1","type":"correction"},"doi":"10.1136/oem.2003.010967","journal":"Occupational and Environmental Medicine","publisher":"BMJ","title":"Correction: Table 1"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496030730365,
+      "identifier": {
+        "doi": "10.1136/oem.2003.010967corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/oem.2003.010967"
+  },
+  "journal": "Occupational and Environmental Medicine",
+  "publisher": "BMJ",
+  "title": "Correction: Table 1"
+}

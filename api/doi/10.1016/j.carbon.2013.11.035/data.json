@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.carbon.2014.12.028","type":"err"},"doi":"10.1016/j.carbon.2013.11.035","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Evolution of epitaxial graphene layers on 3C SiC/Si (111) as a function of annealing temperature in UHV” [Carbon 68 (2014) 563–572]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496030429855,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2014.12.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2013.11.035"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evolution of epitaxial graphene layers on 3C SiC/Si (111) as a function of annealing temperature in UHV” [Carbon 68 (2014) 563–572]"
+}

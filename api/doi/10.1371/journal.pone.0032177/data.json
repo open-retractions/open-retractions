@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339545600000,"doi":"10.1371/annotation/8f71d7e8-d81d-4878-bf14-79a313a7810b","type":"correction"},"doi":"10.1371/journal.pone.0032177","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Altered Bone Development and an Increase in FGF-23 Expression in Enpp1−/−Mice"}
+{
+  "retracted": false,
+  "timestamp": 1339545600000,
+  "updates": [
+    {
+      "timestamp": 1495897260727,
+      "identifier": {
+        "doi": "10.1371/annotation/8f71d7e8-d81d-4878-bf14-79a313a7810b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032177"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Altered Bone Development and an Increase in FGF-23 Expression in Enpp1−/−Mice"
+}

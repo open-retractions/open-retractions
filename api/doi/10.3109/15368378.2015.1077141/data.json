@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468195200000,"doi":"10.1080/15368378.2016.1194045","type":"correction"},"doi":"10.3109/15368378.2015.1077141","journal":"Electromagnetic Biology and Medicine","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1468195200000,
+  "updates": [
+    {
+      "timestamp": 1495726488078,
+      "identifier": {
+        "doi": "10.1080/15368378.2016.1194045"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15368378.2015.1077141"
+  },
+  "journal": "Electromagnetic Biology and Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

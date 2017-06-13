@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jtv.2013.09.001","type":"err"},"doi":"10.1016/j.jtv.2013.04.002","journal":"Journal of Tissue Viability","publisher":"Elsevier BV","title":"Corrigendum to “Pressure Redistribution Devices: What works, at what cost and what's next?” [J Tissue Viability 22 (2013), 57–62]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496046892112,
+      "identifier": {
+        "doi": "10.1016/j.jtv.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtv.2013.04.002"
+  },
+  "journal": "Journal of Tissue Viability",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Pressure Redistribution Devices: What works, at what cost and what's next?” [J Tissue Viability 22 (2013), 57–62]"
+}

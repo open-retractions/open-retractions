@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360713600000,"doi":"10.1007/s00362-013-0505-2","type":"correction"},"doi":"10.1007/bf02778266","journal":"Statistical Papers","publisher":"Springer Nature","title":"Erratum to: Global and multiple test procedures using ordered p-values – a review"}
+{
+  "retracted": false,
+  "timestamp": 1360713600000,
+  "updates": [
+    {
+      "timestamp": 1495991354486,
+      "identifier": {
+        "doi": "10.1007/s00362-013-0505-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02778266"
+  },
+  "journal": "Statistical Papers",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Global and multiple test procedures using ordered p-values – a review"
+}

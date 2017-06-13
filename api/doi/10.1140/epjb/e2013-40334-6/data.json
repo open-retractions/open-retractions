@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1140/epjb/e2015-60214-3","type":"correction"},"doi":"10.1140/epjb/e2013-40334-6","journal":"The European Physical Journal B","publisher":"Springer Nature","title":"Erratum to: Mean field spin glasses treated with PDE techniques"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496956204325,
+      "identifier": {
+        "doi": "10.1140/epjb/e2015-60214-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjb/e2013-40334-6"
+  },
+  "journal": "The European Physical Journal B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mean field spin glasses treated with PDE techniques"
+}

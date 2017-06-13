@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1237420800000,"doi":"10.1007/s00210-009-0412-1","type":"correction"},"doi":"10.1007/s00210-009-0392-1","journal":"Naunyn-Schmiedeberg's Archives of Pharmacology","publisher":"Springer Nature","title":"Lack of specificity of antibodies directed against human beta-adrenergic receptors"}
+{
+  "retracted": false,
+  "timestamp": 1237420800000,
+  "updates": [
+    {
+      "timestamp": 1495935784009,
+      "identifier": {
+        "doi": "10.1007/s00210-009-0412-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00210-009-0392-1"
+  },
+  "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Lack of specificity of antibodies directed against human beta-adrenergic receptors"
+}

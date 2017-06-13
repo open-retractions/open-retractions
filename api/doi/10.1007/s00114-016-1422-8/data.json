@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482364800000,"doi":"10.1007/s00114-016-1428-2","type":"correction"},"doi":"10.1007/s00114-016-1422-8","journal":"The Science of Nature","publisher":"Springer Nature","title":"Erratum to: An ecophysiological background for biogeographic patterns of two island lizards?"}
+{
+  "retracted": false,
+  "timestamp": 1482364800000,
+  "updates": [
+    {
+      "timestamp": 1495664885549,
+      "identifier": {
+        "doi": "10.1007/s00114-016-1428-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00114-016-1422-8"
+  },
+  "journal": "The Science of Nature",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An ecophysiological background for biogeographic patterns of two island lizards?"
+}

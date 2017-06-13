@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1007/s40259-015-0115-8","type":"correction"},"doi":"10.1007/s40259-014-0113-2","journal":"BioDrugs","publisher":"Springer Nature","title":"Erratum to: Vedolizumab: A Review of Its Use in Adult Patients with Moderately to Severely Active Ulcerative Colitis or Crohn’s Disease"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496035651805,
+      "identifier": {
+        "doi": "10.1007/s40259-015-0115-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40259-014-0113-2"
+  },
+  "journal": "BioDrugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Vedolizumab: A Review of Its Use in Adult Patients with Moderately to Severely Active Ulcerative Colitis or Crohn’s Disease"
+}

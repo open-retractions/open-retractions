@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1007/s10930-015-9614-1","type":"correction"},"doi":"10.1007/s10930-014-9583-9","journal":"The Protein Journal","publisher":"Springer Nature","title":"Erratum to: Proteomic Analysis of the Defense Response of Wheat to the Powdery Mildew Fungus, Blumeria graminis f. sp. tritici"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1496001197791,
+      "identifier": {
+        "doi": "10.1007/s10930-015-9614-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10930-014-9583-9"
+  },
+  "journal": "The Protein Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Proteomic Analysis of the Defense Response of Wheat to the Powdery Mildew Fungus, Blumeria graminis f. sp. tritici"
+}

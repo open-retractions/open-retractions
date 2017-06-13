@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.plefa.2014.07.001","type":"err"},"doi":"10.1016/j.plefa.2012.08.005","journal":"Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)","publisher":"Elsevier BV","title":"Corrigendum to “A quantum theory for the irreplaceable role of docosahexaenoic acid in neural cell signalling throughout evolution” Prostaglandins Leukot. Essent. Fatty Acids 88(1) (2013) 5–13"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495999250609,
+      "identifier": {
+        "doi": "10.1016/j.plefa.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.plefa.2012.08.005"
+  },
+  "journal": "Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A quantum theory for the irreplaceable role of docosahexaenoic acid in neural cell signalling throughout evolution” Prostaglandins Leukot. Essent. Fatty Acids 88(1) (2013) 5–13"
+}

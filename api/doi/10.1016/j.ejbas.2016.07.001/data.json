@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.ejbas.2016.08.005","type":"err"},"doi":"10.1016/j.ejbas.2016.07.001","journal":"Egyptian Journal of Basic and Applied Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Advancing role of melatonin in the treatment of neuropsychiatric disorders”"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495656786984,
+      "identifier": {
+        "doi": "10.1016/j.ejbas.2016.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejbas.2016.07.001"
+  },
+  "journal": "Egyptian Journal of Basic and Applied Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Advancing role of melatonin in the treatment of neuropsychiatric disorders”"
+}

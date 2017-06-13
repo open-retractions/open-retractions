@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.gie.2016.08.003","type":"erratum"},"doi":"10.1016/j.gie.2015.11.019","journal":"Gastrointestinal Endoscopy","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495640284525,
+      "identifier": {
+        "doi": "10.1016/j.gie.2016.08.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gie.2015.11.019"
+  },
+  "journal": "Gastrointestinal Endoscopy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1073/pnas.1505879112","type":"correction"},"doi":"10.1073/pnas.1419343111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Dillin, Profile of Kazutoshi Mori and Peter Walter, 2014 Lasker Basic Medical Research Awardees: The unfolded protein response"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496054291270,
+      "identifier": {
+        "doi": "10.1073/pnas.1505879112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1419343111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Dillin, Profile of Kazutoshi Mori and Peter Walter, 2014 Lasker Basic Medical Research Awardees: The unfolded protein response"
+}

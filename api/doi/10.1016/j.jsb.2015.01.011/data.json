@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jsb.2015.04.011","type":"err"},"doi":"10.1016/j.jsb.2015.01.011","journal":"Journal of Structural Biology","publisher":"Elsevier BV","title":"Corrigendum to “Progressive Stochastic Reconstruction Technique (PSRT) for cryo electron tomography” [J. Struct. Biol. 189 (3) (2015) 195–206]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496058911818,
+      "identifier": {
+        "doi": "10.1016/j.jsb.2015.04.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsb.2015.01.011"
+  },
+  "journal": "Journal of Structural Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Progressive Stochastic Reconstruction Technique (PSRT) for cryo electron tomography” [J. Struct. Biol. 189 (3) (2015) 195–206]"
+}

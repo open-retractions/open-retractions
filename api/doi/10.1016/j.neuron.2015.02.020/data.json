@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462320000000,"doi":"10.1016/j.neuron.2016.04.024","type":"err"},"doi":"10.1016/j.neuron.2015.02.020","journal":"Neuron","publisher":"Elsevier BV","title":"Pentraxins Coordinate Excitatory Synapse Maturation and Circuit Integration of Parvalbumin Interneurons"}
+{
+  "retracted": false,
+  "timestamp": 1462320000000,
+  "updates": [
+    {
+      "timestamp": 1495674024607,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.04.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2015.02.020"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Pentraxins Coordinate Excitatory Synapse Maturation and Circuit Integration of Parvalbumin Interneurons"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1080/03602559.2016.1274558","type":"correction"},"doi":"10.1080/03602559.2014.958773","journal":"Polymer-Plastics Technology and Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678462865,
+      "identifier": {
+        "doi": "10.1080/03602559.2016.1274558"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03602559.2014.958773"
+  },
+  "journal": "Polymer-Plastics Technology and Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

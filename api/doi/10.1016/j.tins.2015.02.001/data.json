@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.tins.2015.07.002","type":"err"},"doi":"10.1016/j.tins.2015.02.001","journal":"Trends in Neurosciences","publisher":"Elsevier BV","title":"Erratum: Epigenetic mechanisms of chronic pain"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496020962340,
+      "identifier": {
+        "doi": "10.1016/j.tins.2015.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tins.2015.02.001"
+  },
+  "journal": "Trends in Neurosciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum: Epigenetic mechanisms of chronic pain"
+}

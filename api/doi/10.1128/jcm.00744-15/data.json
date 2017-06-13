@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1128/jcm.00619-16","type":"correction"},"doi":"10.1128/jcm.00744-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for van Tonder et al., Genomics Reveals the Worldwide Distribution of Multidrug-Resistant Serotype 6E Pneumococci"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495715473053,
+      "identifier": {
+        "doi": "10.1128/jcm.00619-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.00744-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for van Tonder et al., Genomics Reveals the Worldwide Distribution of Multidrug-Resistant Serotype 6E Pneumococci"
+}

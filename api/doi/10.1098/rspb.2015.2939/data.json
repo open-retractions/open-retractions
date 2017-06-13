@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482883200000,"doi":"10.1098/rspb.2016.2577","type":"correction"},"doi":"10.1098/rspb.2015.2939","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Blood does not buy goodwill: allowing culling increases poaching of a large carnivore’"}
+{
+  "retracted": false,
+  "timestamp": 1482883200000,
+  "updates": [
+    {
+      "timestamp": 1495668782611,
+      "identifier": {
+        "doi": "10.1098/rspb.2016.2577"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2015.2939"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Blood does not buy goodwill: allowing culling increases poaching of a large carnivore’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.amc.2015.09.081","type":"erratum"},"doi":"10.1016/j.amc.2015.02.017","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Erratum to ‘Differentiation formulas of some hypergeometric functions with respect to all parameters’ [Applied Mathematics and Computation, 258 (2015) 454-464]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496042489555,
+      "identifier": {
+        "doi": "10.1016/j.amc.2015.09.081"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2015.02.017"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Differentiation formulas of some hypergeometric functions with respect to all parameters’ [Applied Mathematics and Computation, 258 (2015) 454-464]"
+}

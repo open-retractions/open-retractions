@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jse.2016.01.017","type":"err"},"doi":"10.1016/j.jse.2014.06.052","journal":"Journal of Shoulder and Elbow Surgery","publisher":"Elsevier BV","title":"Erratum to “Significant association of full-thickness rotator cuff tears and estrogen-related receptor-β (ESRRB)” [J Shoulder Elbow Surg 2015;24:e31-e35]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495666119395,
+      "identifier": {
+        "doi": "10.1016/j.jse.2016.01.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jse.2014.06.052"
+  },
+  "journal": "Journal of Shoulder and Elbow Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Significant association of full-thickness rotator cuff tears and estrogen-related receptor-β (ESRRB)” [J Shoulder Elbow Surg 2015;24:e31-e35]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1156464000000,"doi":"10.1371/journal.pcbi.0020112","type":"correction"},"doi":"10.1371/journal.pcbi.0020074","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Analysis of Head-to-Head Gene Organization: Evolutionary Conservation and Potential Biological Relevance"}
+{
+  "retracted": false,
+  "timestamp": 1156464000000,
+  "updates": [
+    {
+      "timestamp": 1495862789077,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0020112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0020074"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Analysis of Head-to-Head Gene Organization: Evolutionary Conservation and Potential Biological Relevance"
+}

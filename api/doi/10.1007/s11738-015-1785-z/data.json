@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1007/s11738-016-2264-x","type":"correction"},"doi":"10.1007/s11738-015-1785-z","journal":"Acta Physiologiae Plantarum","publisher":"Springer Nature","title":"Erratum to: Effect of sucrose on shoot regeneration in Agrobacterium transformed Hypericum perforatum L. roots"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495644776922,
+      "identifier": {
+        "doi": "10.1007/s11738-016-2264-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11738-015-1785-z"
+  },
+  "journal": "Acta Physiologiae Plantarum",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of sucrose on shoot regeneration in Agrobacterium transformed Hypericum perforatum L. roots"
+}

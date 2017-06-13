@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298851200000,"doi":"10.1063/1.3560473","type":"erratum"},"doi":"10.1063/1.3490087","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “The calculation of multidimensional semiclassical wave functions in the forbidden region using real valued coordinates” [J. Chem. Phys. 133, 114108 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1298851200000,
+  "updates": [
+    {
+      "timestamp": 1495925480881,
+      "identifier": {
+        "doi": "10.1063/1.3560473"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3490087"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The calculation of multidimensional semiclassical wave functions in the forbidden region using real valued coordinates” [J. Chem. Phys. 133, 114108 (2010)]"
+}

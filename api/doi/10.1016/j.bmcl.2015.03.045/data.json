@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.bmcl.2015.06.064","type":"err"},"doi":"10.1016/j.bmcl.2015.03.045","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Development of methyl isoxazoleazepines as inhibitors of BET” [Bioorg. Med. Chem. Lett. 25/9 (2015) 1842–1848]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496012730486,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2015.06.064"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2015.03.045"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of methyl isoxazoleazepines as inhibitors of BET” [Bioorg. Med. Chem. Lett. 25/9 (2015) 1842–1848]"
+}

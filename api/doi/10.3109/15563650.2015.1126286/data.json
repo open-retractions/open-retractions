@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456963200000,"doi":"10.3109/15563650.2016.1155834","type":"correction"},"doi":"10.3109/15563650.2015.1126286","journal":"Clinical Toxicology","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456963200000,
+  "updates": [
+    {
+      "timestamp": 1495650393568,
+      "identifier": {
+        "doi": "10.3109/15563650.2016.1155834"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15563650.2015.1126286"
+  },
+  "journal": "Clinical Toxicology",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

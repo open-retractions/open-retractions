@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1136/neurintsurg-2012-010487corr1","type":"correction"},"doi":"10.1136/neurintsurg-2012-010487","journal":"Journal of NeuroInterventional Surgery","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496029792464,
+      "identifier": {
+        "doi": "10.1136/neurintsurg-2012-010487corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/neurintsurg-2012-010487"
+  },
+  "journal": "Journal of NeuroInterventional Surgery",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

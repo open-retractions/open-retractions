@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470960000000,"doi":"10.1038/srep30994","type":"correction"},"doi":"10.1038/srep28920","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Partially ordered state of ice XV"}
+{
+  "retracted": false,
+  "timestamp": 1470960000000,
+  "updates": [
+    {
+      "timestamp": 1495737782728,
+      "identifier": {
+        "doi": "10.1038/srep30994"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep28920"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Partially ordered state of ice XV"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":954547200000,"doi":"10.1107/s0021889899016441","type":"correction"},"doi":"10.1107/s0021889899002393","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Measurement of single-crystal elastic constants by neutron diffraction from polycrystals. Addendum and erratum"}
+{
+  "retracted": false,
+  "timestamp": 954547200000,
+  "updates": [
+    {
+      "timestamp": 1495851933629,
+      "identifier": {
+        "doi": "10.1107/s0021889899016441"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0021889899002393"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Measurement of single-crystal elastic constants by neutron diffraction from polycrystals. Addendum and erratum"
+}

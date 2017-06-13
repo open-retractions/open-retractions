@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430870400000,"doi":"10.1016/j.tet.2015.03.047","type":"err"},"doi":"10.1016/j.tet.2014.06.025","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Protecting group-free syntheses of natural products and biologically active compounds” [Tetrahedron 70 (2014) 8183–8218]"}
+{
+  "retracted": false,
+  "timestamp": 1430870400000,
+  "updates": [
+    {
+      "timestamp": 1496056673190,
+      "identifier": {
+        "doi": "10.1016/j.tet.2015.03.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2014.06.025"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protecting group-free syntheses of natural products and biologically active compounds” [Tetrahedron 70 (2014) 8183–8218]"
+}

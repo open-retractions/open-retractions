@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.steroids.2016.12.007","type":"erratum"},"doi":"10.1016/j.steroids.2015.12.003","journal":"Steroids","publisher":"Elsevier BV","title":"Corrigendum to “Stereocontrolled synthesis of the four 16-hydroxymethyl-19-nortestosterone isomers and their antiproliferative activities” [Steroids 105 (2016) 113–120]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495668684174,
+      "identifier": {
+        "doi": "10.1016/j.steroids.2016.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.steroids.2015.12.003"
+  },
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stereocontrolled synthesis of the four 16-hydroxymethyl-19-nortestosterone isomers and their antiproliferative activities” [Steroids 105 (2016) 113–120]"
+}

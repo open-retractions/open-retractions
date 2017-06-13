@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.ijbiomac.2013.11.009","type":"err"},"doi":"10.1016/j.ijbiomac.2013.10.029","journal":"International Journal of Biological Macromolecules","publisher":"Elsevier BV","title":"Corrigendum to “Human cytidine deaminase: A biochemical characterization of its naturally occurring variants” [Int. J. Biol. Macromol. 63 (2014) 64–74]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496000730166,
+      "identifier": {
+        "doi": "10.1016/j.ijbiomac.2013.11.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijbiomac.2013.10.029"
+  },
+  "journal": "International Journal of Biological Macromolecules",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Human cytidine deaminase: A biochemical characterization of its naturally occurring variants” [Int. J. Biol. Macromol. 63 (2014) 64–74]"
+}

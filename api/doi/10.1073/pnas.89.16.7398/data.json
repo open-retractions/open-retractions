@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":758851200000,"doi":"10.1073/pnas.91.2.832b","type":"correction"},"doi":"10.1073/pnas.89.16.7398","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Chromostatin inhibits catecholamine secretion in adrenal chromaffin cells by activating a protein phosphatase"}
+{
+  "retracted": false,
+  "timestamp": 758851200000,
+  "updates": [
+    {
+      "timestamp": 1495847421848,
+      "identifier": {
+        "doi": "10.1073/pnas.91.2.832b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.89.16.7398"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Chromostatin inhibits catecholamine secretion in adrenal chromaffin cells by activating a protein phosphatase"
+}

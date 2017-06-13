@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1081209600000,"doi":"10.1073/pnas.0401220101","type":"correction"},"doi":"10.1073/pnas.0308617100","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Stiles et al., Liver-specific deletion of negative regulator Pten results in fatty liver and insulin hypersensitivity, PNAS 2004 101:2082-2087"}
+{
+  "retracted": false,
+  "timestamp": 1081209600000,
+  "updates": [
+    {
+      "timestamp": 1495815916646,
+      "identifier": {
+        "doi": "10.1073/pnas.0401220101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0308617100"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Stiles et al., Liver-specific deletion of negative regulator Pten results in fatty liver and insulin hypersensitivity, PNAS 2004 101:2082-2087"
+}

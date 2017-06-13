@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1063/1.4884646","type":"correction"},"doi":"10.1063/1.4862822","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Microscopic dynamics perspective on the relationship between Poisson's ratio and ductility of metallic glasses” [J. Chem. Phys. 140, 044511 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496048088945,
+      "identifier": {
+        "doi": "10.1063/1.4884646"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4862822"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Microscopic dynamics perspective on the relationship between Poisson's ratio and ductility of metallic glasses” [J. Chem. Phys. 140, 044511 (2014)]"
+}

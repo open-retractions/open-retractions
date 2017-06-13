@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.crma.2016.10.025","type":"err"},"doi":"10.1016/j.crma.2013.09.009","journal":"Comptes Rendus Mathematique","publisher":"Elsevier BV","title":"Corrigendum to “On a family of complex algebraic surfaces of degree 3n” [C. R. Acad. Sci. Paris, Ser. I 351 (17–18) (2013) 699–702]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495657216047,
+      "identifier": {
+        "doi": "10.1016/j.crma.2016.10.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.crma.2013.09.009"
+  },
+  "journal": "Comptes Rendus Mathematique",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On a family of complex algebraic surfaces of degree 3n” [C. R. Acad. Sci. Paris, Ser. I 351 (17–18) (2013) 699–702]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425772800000,"doi":"10.1007/s13277-015-3286-5","type":"correction"},"doi":"10.1007/s13277-015-3118-7","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Endothelin-1 overexpression: a potential biomarker of unfavorable prognosis in non-metastatic muscle-invasive bladder cancer"}
+{
+  "retracted": false,
+  "timestamp": 1425772800000,
+  "updates": [
+    {
+      "timestamp": 1496049173345,
+      "identifier": {
+        "doi": "10.1007/s13277-015-3286-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-015-3118-7"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Endothelin-1 overexpression: a potential biomarker of unfavorable prognosis in non-metastatic muscle-invasive bladder cancer"
+}

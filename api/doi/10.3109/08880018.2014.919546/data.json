@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448841600000,"doi":"10.3109/08880018.2015.1099970","type":"correction"},"doi":"10.3109/08880018.2014.919546","journal":"Pediatric Hematology and Oncology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1448841600000,
+  "updates": [
+    {
+      "timestamp": 1496049830286,
+      "identifier": {
+        "doi": "10.3109/08880018.2015.1099970"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/08880018.2014.919546"
+  },
+  "journal": "Pediatric Hematology and Oncology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

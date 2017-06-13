@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1212969600000,"doi":"10.1084/jem.20051450051208c","type":"correction"},"doi":"10.1084/jem.20051450","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Regulation of the germinal center gene program by interferon (IFN) regulatory factor 8/IFN consensus sequence-binding protein"}
+{
+  "retracted": false,
+  "timestamp": 1212969600000,
+  "updates": [
+    {
+      "timestamp": 1495857889455,
+      "identifier": {
+        "doi": "10.1084/jem.20051450051208c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20051450"
+  },
+  "publisher": "Rockefeller University Press",
+  "title": "Regulation of the germinal center gene program by interferon (IFN) regulatory factor 8/IFN consensus sequence-binding protein"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1009843200000,"doi":"10.1107/s0108767301018372","type":"correction"},"doi":"10.1107/s0108767398011271","journal":"Acta Crystallographica Section A Foundations of Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Diffraction physics. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1009843200000,
+  "updates": [
+    {
+      "timestamp": 1495878221186,
+      "identifier": {
+        "doi": "10.1107/s0108767301018372"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108767398011271"
+  },
+  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Diffraction physics. Erratum"
+}

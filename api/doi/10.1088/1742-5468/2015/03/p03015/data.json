@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458604800000,"doi":"10.1088/1742-5468/2016/03/039902","type":"correction"},"doi":"10.1088/1742-5468/2015/03/p03015","journal":"Journal of Statistical Mechanics: Theory and Experiment","publisher":"IOP Publishing","title":"Erratum: Inelastic Maxwell models for monodisperse gas–solid flows (2015J. Stat. Mech. P03015)"}
+{
+  "retracted": false,
+  "timestamp": 1458604800000,
+  "updates": [
+    {
+      "timestamp": 1495657316789,
+      "identifier": {
+        "doi": "10.1088/1742-5468/2016/03/039902"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1742-5468/2015/03/p03015"
+  },
+  "journal": "Journal of Statistical Mechanics: Theory and Experiment",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Inelastic Maxwell models for monodisperse gas–solid flows (2015J. Stat. Mech. P03015)"
+}

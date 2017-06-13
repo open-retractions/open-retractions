@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.epsr.2015.09.002","type":"err"},"doi":"10.1016/j.epsr.2014.04.012","journal":"Electric Power Systems Research","publisher":"Elsevier BV","title":"Corrigendum to “Optimal scheduling of household appliances for demand response” [Electr. Power Syst. Res. 116 (November) (2014) 24–28]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496033114141,
+      "identifier": {
+        "doi": "10.1016/j.epsr.2015.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsr.2014.04.012"
+  },
+  "journal": "Electric Power Systems Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Optimal scheduling of household appliances for demand response” [Electr. Power Syst. Res. 116 (November) (2014) 24–28]"
+}

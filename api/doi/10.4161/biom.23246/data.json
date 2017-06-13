@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448236800000,"doi":"10.1080/21592535.2015.1115711","type":"correction"},"doi":"10.4161/biom.23246","journal":"Biomatter","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1448236800000,
+  "updates": [
+    {
+      "timestamp": 1496048028751,
+      "identifier": {
+        "doi": "10.1080/21592535.2015.1115711"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/biom.23246"
+  },
+  "journal": "Biomatter",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

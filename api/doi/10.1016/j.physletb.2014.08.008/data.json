@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438214400000,"doi":"10.1016/j.physletb.2015.06.021","type":"erratum"},"doi":"10.1016/j.physletb.2014.08.008","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Generating scale-invariant tensor perturbations in the non-inflationary universe” [Phys. Lett. B 736 (2014) 488–493]"}
+{
+  "retracted": false,
+  "timestamp": 1438214400000,
+  "updates": [
+    {
+      "timestamp": 1496007719881,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2015.06.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2014.08.008"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Generating scale-invariant tensor perturbations in the non-inflationary universe” [Phys. Lett. B 736 (2014) 488–493]"
+}

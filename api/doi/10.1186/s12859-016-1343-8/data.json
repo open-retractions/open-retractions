@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487289600000,"doi":"10.1186/s12859-017-1508-0","type":"correction"},"doi":"10.1186/s12859-016-1343-8","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Mirnacle: machine learning with SMOTE and random forest for improving selectivity in pre-miRNA ab initio prediction"}
+{
+  "retracted": false,
+  "timestamp": 1487289600000,
+  "updates": [
+    {
+      "timestamp": 1495721798457,
+      "identifier": {
+        "doi": "10.1186/s12859-017-1508-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-016-1343-8"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mirnacle: machine learning with SMOTE and random forest for improving selectivity in pre-miRNA ab initio prediction"
+}

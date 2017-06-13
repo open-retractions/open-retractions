@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433203200000,"doi":"10.1016/j.cmet.2015.05.001","type":"err"},"doi":"10.1016/j.cmet.2015.04.003","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"De Novo Reconstruction of Adipose Tissue Transcriptomes Reveals Long Non-coding RNA Regulators of Brown Adipocyte Development"}
+{
+  "retracted": false,
+  "timestamp": 1433203200000,
+  "updates": [
+    {
+      "timestamp": 1496003627575,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2015.04.003"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "De Novo Reconstruction of Adipose Tissue Transcriptomes Reveals Long Non-coding RNA Regulators of Brown Adipocyte Development"
+}

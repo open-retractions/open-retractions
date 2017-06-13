@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338249600000,"doi":"10.1371/annotation/c543ef23-f1b1-4bc7-9593-32387653bc05","type":"correction"},"doi":"10.1371/journal.pone.0032700","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Adipocyte-Specific Protein Tyrosine Phosphatase 1B Deletion Increases Lipogenesis, Adipocyte Cell Size and Is a Minor Regulator of Glucose Homeostasis"}
+{
+  "retracted": false,
+  "timestamp": 1338249600000,
+  "updates": [
+    {
+      "timestamp": 1495911286513,
+      "identifier": {
+        "doi": "10.1371/annotation/c543ef23-f1b1-4bc7-9593-32387653bc05"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032700"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Adipocyte-Specific Protein Tyrosine Phosphatase 1B Deletion Increases Lipogenesis, Adipocyte Cell Size and Is a Minor Regulator of Glucose Homeostasis"
+}

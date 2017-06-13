@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450742400000,"doi":"10.1186/s40623-015-0371-3","type":"correction"},"doi":"10.1186/s40623-015-0322-z","journal":"Earth, Planets and Space","publisher":"Springer Nature","title":"Erratum to: Dependence of mesospheric Na and Fe distributions on electron density at Arecibo"}
+{
+  "retracted": false,
+  "timestamp": 1450742400000,
+  "updates": [
+    {
+      "timestamp": 1496055580326,
+      "identifier": {
+        "doi": "10.1186/s40623-015-0371-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40623-015-0322-z"
+  },
+  "journal": "Earth, Planets and Space",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dependence of mesospheric Na and Fe distributions on electron density at Arecibo"
+}

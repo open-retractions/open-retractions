@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452297600000,"doi":"10.1007/s10646-015-1606-6","type":"correction"},"doi":"10.1007/s10646-015-1579-5","journal":"Ecotoxicology","publisher":"Springer Nature","title":"Erratum to: Impact of three phthalate esters on the sexual reproduction of the Monogonont rotifer, Brachionus calyciflorus"}
+{
+  "retracted": false,
+  "timestamp": 1452297600000,
+  "updates": [
+    {
+      "timestamp": 1496059169959,
+      "identifier": {
+        "doi": "10.1007/s10646-015-1606-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10646-015-1579-5"
+  },
+  "journal": "Ecotoxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Impact of three phthalate esters on the sexual reproduction of the Monogonont rotifer, Brachionus calyciflorus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.apsusc.2013.10.040","type":"err"},"doi":"10.1016/j.apsusc.2012.10.022","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Retraction notice to “Graphene sheets synthesized by ionic-liquidassisted electrolysis for application in water purification” [Appl. Surf. Sci. 264C (2013) 329–334]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495995172741,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2013.10.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2012.10.022"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Graphene sheets synthesized by ionic-liquidassisted electrolysis for application in water purification” [Appl. Surf. Sci. 264C (2013) 329–334]"
+}

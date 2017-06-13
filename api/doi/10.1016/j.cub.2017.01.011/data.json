@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487548800000,"doi":"10.1016/j.cub.2017.01.068","type":"erratum"},"doi":"10.1016/j.cub.2017.01.011","journal":"Current Biology","publisher":"Elsevier BV","title":"Systematic Mapping of RNA-Chromatin Interactions In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1487548800000,
+  "updates": [
+    {
+      "timestamp": 1495722249058,
+      "identifier": {
+        "doi": "10.1016/j.cub.2017.01.068"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2017.01.011"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Systematic Mapping of RNA-Chromatin Interactions In Vivo"
+}

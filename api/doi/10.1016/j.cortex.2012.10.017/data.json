@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.cortex.2015.03.005","type":"err"},"doi":"10.1016/j.cortex.2012.10.017","journal":"Cortex","publisher":"Elsevier BV","title":"Corrigendum to “Cortical control of inhibition of return: Causal evidence for task-dependent modulations by dorsal and ventral parietal regions” [Cortex 49 (8) (2013) 2229–2238]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496055216069,
+      "identifier": {
+        "doi": "10.1016/j.cortex.2015.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cortex.2012.10.017"
+  },
+  "journal": "Cortex",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cortical control of inhibition of return: Causal evidence for task-dependent modulations by dorsal and ventral parietal regions” [Cortex 49 (8) (2013) 2229–2238]"
+}

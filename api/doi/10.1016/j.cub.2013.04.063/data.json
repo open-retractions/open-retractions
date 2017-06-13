@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371427200000,"doi":"10.1016/j.cub.2013.06.003","type":"err"},"doi":"10.1016/j.cub.2013.04.063","journal":"Current Biology","publisher":"Elsevier BV","title":"A Modern Descendant of Early Green Algal Phagotrophs"}
+{
+  "retracted": false,
+  "timestamp": 1371427200000,
+  "updates": [
+    {
+      "timestamp": 1496024453210,
+      "identifier": {
+        "doi": "10.1016/j.cub.2013.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2013.04.063"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "A Modern Descendant of Early Green Algal Phagotrophs"
+}

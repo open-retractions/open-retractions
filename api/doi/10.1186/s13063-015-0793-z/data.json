@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453248000000,"doi":"10.1186/s13063-016-1183-x","type":"correction"},"doi":"10.1186/s13063-015-0793-z","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: ‘TElmisartan in the management of abDominal aortic aneurYsm (TEDY): The study protocol for a randomized controlled trial’"}
+{
+  "retracted": false,
+  "timestamp": 1453248000000,
+  "updates": [
+    {
+      "timestamp": 1495638050919,
+      "identifier": {
+        "doi": "10.1186/s13063-016-1183-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13063-015-0793-z"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘TElmisartan in the management of abDominal aortic aneurYsm (TEDY): The study protocol for a randomized controlled trial’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444521600000,"doi":"10.1016/j.nima.2015.06.030","type":"err"},"doi":"10.1016/j.nima.2015.04.001","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Erratum to ‘‘A novel strip energy splitting algorithm for the fine granular readout of a scintillator strip electromagnetic calorimeter [Nuclear Instruments and Methods in Physics Research A 789 (2015) 158–164]’’"}
+{
+  "retracted": false,
+  "timestamp": 1444521600000,
+  "updates": [
+    {
+      "timestamp": 1496010302700,
+      "identifier": {
+        "doi": "10.1016/j.nima.2015.06.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2015.04.001"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘‘A novel strip energy splitting algorithm for the fine granular readout of a scintillator strip electromagnetic calorimeter [Nuclear Instruments and Methods in Physics Research A 789 (2015) 158–164]’’"
+}

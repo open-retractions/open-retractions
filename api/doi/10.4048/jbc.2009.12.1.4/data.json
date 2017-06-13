@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1246320000000,"doi":"10.4048/jbc.2009.12.2.123","type":"correction"},"doi":"10.4048/jbc.2009.12.1.4","journal":"Journal of Breast Cancer","publisher":"Korean Breast Cancer Society (KAMJE)","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1246320000000,
+  "updates": [
+    {
+      "timestamp": 1495964113495,
+      "identifier": {
+        "doi": "10.4048/jbc.2009.12.2.123"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4048/jbc.2009.12.1.4"
+  },
+  "journal": "Journal of Breast Cancer",
+  "publisher": "Korean Breast Cancer Society (KAMJE)",
+  "title": "ERRATUM"
+}

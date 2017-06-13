@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446163200000,"doi":"10.1140/epjp/i2015-15220-4","type":"correction"},"doi":"10.1140/epjp/i2011-11107-8","journal":"The European Physical Journal Plus","publisher":"Springer Nature","title":"Erratum to: FIGARO: The new horizontal neutron reflectometer at the ILL"}
+{
+  "retracted": false,
+  "timestamp": 1446163200000,
+  "updates": [
+    {
+      "timestamp": 1496039246824,
+      "identifier": {
+        "doi": "10.1140/epjp/i2015-15220-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjp/i2011-11107-8"
+  },
+  "journal": "The European Physical Journal Plus",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: FIGARO: The new horizontal neutron reflectometer at the ILL"
+}

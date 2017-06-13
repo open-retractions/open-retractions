@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382227200000,"doi":"10.1007/s00415-013-7142-5","type":"correction"},"doi":"10.1007/s00415-013-7086-9","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: LRRK2 G2385R variant carriers of female Parkinson’s disease are more susceptible to motor fluctuation"}
+{
+  "retracted": false,
+  "timestamp": 1382227200000,
+  "updates": [
+    {
+      "timestamp": 1496055282923,
+      "identifier": {
+        "doi": "10.1007/s00415-013-7142-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-013-7086-9"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: LRRK2 G2385R variant carriers of female Parkinson’s disease are more susceptible to motor fluctuation"
+}

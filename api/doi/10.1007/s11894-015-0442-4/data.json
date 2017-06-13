@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1007/s11894-015-0475-8","type":"correction"},"doi":"10.1007/s11894-015-0442-4","journal":"Current Gastroenterology Reports","publisher":"Springer Nature","title":"Erratum to: New Treatment Modalities for Hepatocellular Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496050159462,
+      "identifier": {
+        "doi": "10.1007/s11894-015-0475-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11894-015-0442-4"
+  },
+  "journal": "Current Gastroenterology Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: New Treatment Modalities for Hepatocellular Cancer"
+}

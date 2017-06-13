@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1080/00131857.2015.1109218","type":"correction"},"doi":"10.1080/00131857.2015.1079517","journal":"Educational Philosophy and Theory","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496041591329,
+      "identifier": {
+        "doi": "10.1080/00131857.2015.1109218"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00131857.2015.1079517"
+  },
+  "journal": "Educational Philosophy and Theory",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

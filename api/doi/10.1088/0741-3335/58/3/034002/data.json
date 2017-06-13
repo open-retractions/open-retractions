@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475452800000,"doi":"10.1088/0741-3335/58/11/119501","type":"correction"},"doi":"10.1088/0741-3335/58/3/034002","journal":"Plasma Physics and Controlled Fusion","publisher":"IOP Publishing","title":"Corrigendum: Simulation studies of plasma lens experiments at Daresbury Laboratory (2015Plasma Phys. Control. Fusion58034002)"}
+{
+  "retracted": false,
+  "timestamp": 1475452800000,
+  "updates": [
+    {
+      "timestamp": 1495646492747,
+      "identifier": {
+        "doi": "10.1088/0741-3335/58/11/119501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0741-3335/58/3/034002"
+  },
+  "journal": "Plasma Physics and Controlled Fusion",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Simulation studies of plasma lens experiments at Daresbury Laboratory (2015Plasma Phys. Control. Fusion58034002)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1128/jcm.03073-15","type":"correction"},"doi":"10.1128/jcm.02033-14","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Okabayashi et al., Detection of Chikungunya Virus Antigen by a Novel Rapid Immunochromatographic Test"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495659456462,
+      "identifier": {
+        "doi": "10.1128/jcm.03073-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.02033-14"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Okabayashi et al., Detection of Chikungunya Virus Antigen by a Novel Rapid Immunochromatographic Test"
+}

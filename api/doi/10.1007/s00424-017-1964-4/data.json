@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490832000000,"doi":"10.1007/s00424-017-1971-5","type":"correction"},"doi":"10.1007/s00424-017-1964-4","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Neurobiology of local and intercellular BDNF signaling"}
+{
+  "retracted": false,
+  "timestamp": 1490832000000,
+  "updates": [
+    {
+      "timestamp": 1495733589159,
+      "identifier": {
+        "doi": "10.1007/s00424-017-1971-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-017-1964-4"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neurobiology of local and intercellular BDNF signaling"
+}

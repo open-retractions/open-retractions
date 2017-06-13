@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1016/j.scienta.2015.04.001","type":"err"},"doi":"10.1016/j.scienta.2007.06.005","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of wild Prunus yedoensis analyzed by inter-simple sequence repeat and chloroplast DNA” [Sci. Hortic. (2007) 121–128]"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1495996316841,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2007.06.005"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of wild Prunus yedoensis analyzed by inter-simple sequence repeat and chloroplast DNA” [Sci. Hortic. (2007) 121–128]"
+}

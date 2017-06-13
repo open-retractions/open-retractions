@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.jglr.2016.02.002","type":"erratum"},"doi":"10.1016/j.jglr.2015.07.011","journal":"Journal of Great Lakes Research","publisher":"Elsevier BV","title":"Corrigendum to “Diet shifts by planktivorous and benthivorous fishes in northern Lake Michigan in response to ecosystem changes” [J. Great Lakes Res., 41 (Suppl. 3) (2015) 161–171]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495644580282,
+      "identifier": {
+        "doi": "10.1016/j.jglr.2016.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jglr.2015.07.011"
+  },
+  "journal": "Journal of Great Lakes Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Diet shifts by planktivorous and benthivorous fishes in northern Lake Michigan in response to ecosystem changes” [J. Great Lakes Res., 41 (Suppl. 3) (2015) 161–171]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1209772800000,"doi":"10.1007/bf02891931","type":"correction"},"doi":"10.1007/bf02746353","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Constraints on current fragments in inclusive lepton scattering"}
+{
+  "retracted": false,
+  "timestamp": 1209772800000,
+  "updates": [
+    {
+      "timestamp": 1495849846680,
+      "identifier": {
+        "doi": "10.1007/bf02891931"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02746353"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Constraints on current fragments in inclusive lepton scattering"
+}

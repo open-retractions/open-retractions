@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1238544000000,"doi":"10.1371/annotation/8d1a816e-b366-4833-b558-724ec28d1b87","type":"correction"},"doi":"10.1371/journal.pone.0004971","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Small RNA Deep Sequencing Reveals Role for Arabidopsis thaliana RNA-Dependent RNA Polymerases in Viral siRNA Biogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1238544000000,
+  "updates": [
+    {
+      "timestamp": 1496025199382,
+      "identifier": {
+        "doi": "10.1371/annotation/8d1a816e-b366-4833-b558-724ec28d1b87"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004971"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Small RNA Deep Sequencing Reveals Role for Arabidopsis thaliana RNA-Dependent RNA Polymerases in Viral siRNA Biogenesis"
+}

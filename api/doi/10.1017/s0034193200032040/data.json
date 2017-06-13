@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442361600000,"doi":"10.1017/s0034193200032726","type":"correction"},"doi":"10.1017/s0034193200032040","journal":"Recusant History","publisher":"Cambridge University Press (CUP)","title":"Author's Correction"}
+{
+  "retracted": false,
+  "timestamp": 1442361600000,
+  "updates": [
+    {
+      "timestamp": 1495729551792,
+      "identifier": {
+        "doi": "10.1017/s0034193200032726"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0034193200032040"
+  },
+  "journal": "Recusant History",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Author's Correction"
+}

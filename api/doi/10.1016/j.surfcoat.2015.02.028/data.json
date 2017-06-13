@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445731200000,"doi":"10.1016/j.surfcoat.2015.08.019","type":"err"},"doi":"10.1016/j.surfcoat.2015.02.028","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Comparative analysis of insulating properties of plasma and thermally grown alumina films on electrospark aluminide coated 9Cr steels” [Surf. Coat. Tech.] 266C (2015) 146–150"}
+{
+  "retracted": false,
+  "timestamp": 1445731200000,
+  "updates": [
+    {
+      "timestamp": 1496024543690,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2015.08.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2015.02.028"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparative analysis of insulating properties of plasma and thermally grown alumina films on electrospark aluminide coated 9Cr steels” [Surf. Coat. Tech.] 266C (2015) 146–150"
+}

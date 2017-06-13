@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.compag.2013.04.016","type":"err"},"doi":"10.1016/j.compag.2009.05.008","journal":"Computers and Electronics in Agriculture","publisher":"Elsevier BV","title":"Erratum to “On the use of a laser methane detector in dairy cows” [Comput. Electron. Agric. 68 (2009) 157–160]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496020816587,
+      "identifier": {
+        "doi": "10.1016/j.compag.2013.04.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compag.2009.05.008"
+  },
+  "journal": "Computers and Electronics in Agriculture",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “On the use of a laser methane detector in dairy cows” [Comput. Electron. Agric. 68 (2009) 157–160]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1007/s12274-017-1485-7","type":"correction"},"doi":"10.1007/s12274-014-0688-4","journal":"Nano Research","publisher":"Springer Nature","title":"Erratum to: Gold nanoflowers for 3D volumetric molecular imaging of tumors by photoacoustic tomography"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495677985437,
+      "identifier": {
+        "doi": "10.1007/s12274-017-1485-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12274-014-0688-4"
+  },
+  "journal": "Nano Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gold nanoflowers for 3D volumetric molecular imaging of tumors by photoacoustic tomography"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1586/1744666x.2016.1158494","type":"correction"},"doi":"10.1586/1744666x.2016.1118347","journal":"Expert Review of Clinical Immunology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648069775,
+      "identifier": {
+        "doi": "10.1586/1744666x.2016.1158494"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/1744666x.2016.1118347"
+  },
+  "journal": "Expert Review of Clinical Immunology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

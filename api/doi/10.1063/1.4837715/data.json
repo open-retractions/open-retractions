@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425945600000,"doi":"10.1063/1.4914849","type":"correction"},"doi":"10.1063/1.4837715","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Phase diagram of ammonium nitrate” [J. Chem. Phys. 139, 214503 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1425945600000,
+  "updates": [
+    {
+      "timestamp": 1496049815380,
+      "identifier": {
+        "doi": "10.1063/1.4914849"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4837715"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Phase diagram of ammonium nitrate” [J. Chem. Phys. 139, 214503 (2013)]"
+}

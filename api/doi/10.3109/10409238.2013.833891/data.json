@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416787200000,"doi":"10.3109/10409238.2014.851929","type":"correction"},"doi":"10.3109/10409238.2013.833891","journal":"Critical Reviews in Biochemistry and Molecular Biology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1416787200000,
+  "updates": [
+    {
+      "timestamp": 1495990952829,
+      "identifier": {
+        "doi": "10.3109/10409238.2014.851929"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10409238.2013.833891"
+  },
+  "journal": "Critical Reviews in Biochemistry and Molecular Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

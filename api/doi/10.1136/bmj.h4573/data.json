@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441756800000,"doi":"10.1136/bmj.h4852","type":"correction"},"doi":"10.1136/bmj.h4573","journal":"BMJ","publisher":"BMJ","title":"Modafinil does enhance cognition, review finds"}
+{
+  "retracted": false,
+  "timestamp": 1441756800000,
+  "updates": [
+    {
+      "timestamp": 1496029918225,
+      "identifier": {
+        "doi": "10.1136/bmj.h4852"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h4573"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Modafinil does enhance cognition, review finds"
+}

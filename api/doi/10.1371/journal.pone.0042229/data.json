@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352678400000,"doi":"10.1371/annotation/90f45dc4-e2ab-4727-8278-2787c215bc61","type":"correction"},"doi":"10.1371/journal.pone.0042229","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Re-Visiting Phylogenetic and Taxonomic Relationships in the Genus Saga (Insecta: Orthoptera)"}
+{
+  "retracted": false,
+  "timestamp": 1352678400000,
+  "updates": [
+    {
+      "timestamp": 1495987279260,
+      "identifier": {
+        "doi": "10.1371/annotation/90f45dc4-e2ab-4727-8278-2787c215bc61"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0042229"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Re-Visiting Phylogenetic and Taxonomic Relationships in the Genus Saga (Insecta: Orthoptera)"
+}

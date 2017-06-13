@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.biopsycho.2014.04.004","type":"err"},"doi":"10.1016/j.biopsycho.2014.02.005","journal":"Biological Psychology","publisher":"Elsevier BV","title":"Corrigendum to “Acute stress reduces speech fluency” [Biol. Psychol. 97 (2014) 60–66]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496035578299,
+      "identifier": {
+        "doi": "10.1016/j.biopsycho.2014.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biopsycho.2014.02.005"
+  },
+  "journal": "Biological Psychology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Acute stress reduces speech fluency” [Biol. Psychol. 97 (2014) 60–66]"
+}

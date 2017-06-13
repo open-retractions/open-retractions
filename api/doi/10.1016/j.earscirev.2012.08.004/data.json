@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.earscirev.2014.11.009","type":"err"},"doi":"10.1016/j.earscirev.2012.08.004","journal":"Earth-Science Reviews","publisher":"Elsevier BV","title":"Corrigendum to ‘A review of methods used for equilibrium isotope fractionation investigations between dissolved inorganic carbon and CO2’ [Earth Sci. Rev. 115(2012) [192–199]]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496027093240,
+      "identifier": {
+        "doi": "10.1016/j.earscirev.2014.11.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.earscirev.2012.08.004"
+  },
+  "journal": "Earth-Science Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A review of methods used for equilibrium isotope fractionation investigations between dissolved inorganic carbon and CO2’ [Earth Sci. Rev. 115(2012) [192–199]]"
+}

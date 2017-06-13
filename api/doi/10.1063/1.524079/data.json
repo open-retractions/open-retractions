@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":310262400000,"doi":"10.1063/1.523990","type":"erratum"},"doi":"10.1063/1.524079","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: Linearized analysis of inhomogeneous plasma equilibria: General theory [J. Math. Phys. 20, 413(1979)]"}
+{
+  "retracted": false,
+  "timestamp": 310262400000,
+  "updates": [
+    {
+      "timestamp": 1495949770232,
+      "identifier": {
+        "doi": "10.1063/1.523990"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.524079"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Linearized analysis of inhomogeneous plasma equilibria: General theory [J. Math. Phys. 20, 413(1979)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1007/s10598-016-9329-y","type":"correction"},"doi":"10.1007/s10598-016-9318-1","journal":"Computational Mathematics and Modeling","publisher":"Springer Nature","title":"Erratum to: Parallel Algorithm to Detect Structural Changes in Time Series"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495718564001,
+      "identifier": {
+        "doi": "10.1007/s10598-016-9329-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10598-016-9318-1"
+  },
+  "journal": "Computational Mathematics and Modeling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Parallel Algorithm to Detect Structural Changes in Time Series"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393545600000,"doi":"10.1016/j.tox.2013.12.003","type":"err"},"doi":"10.1016/j.tox.2013.08.002","journal":"Toxicology","publisher":"Elsevier BV","title":"Erratum to “Role of drug-independent stress factors in liver injury associated with diclofenac intake” [Toxicology 312 (2013) 83–96]"}
+{
+  "retracted": false,
+  "timestamp": 1393545600000,
+  "updates": [
+    {
+      "timestamp": 1496008869232,
+      "identifier": {
+        "doi": "10.1016/j.tox.2013.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tox.2013.08.002"
+  },
+  "journal": "Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Role of drug-independent stress factors in liver injury associated with diclofenac intake” [Toxicology 312 (2013) 83–96]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1140/epjst/e2016-02676-9","type":"correction"},"doi":"10.1140/epjst/e2016-60089-7","journal":"The European Physical Journal Special Topics","publisher":"Springer Nature","title":"Erratum to: The raspberry model for protein-like particles: Ellipsoids and confinement in cylindrical pores"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495667587779,
+      "identifier": {
+        "doi": "10.1140/epjst/e2016-02676-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjst/e2016-60089-7"
+  },
+  "journal": "The European Physical Journal Special Topics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The raspberry model for protein-like particles: Ellipsoids and confinement in cylindrical pores"
+}

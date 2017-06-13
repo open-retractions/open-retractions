@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434412800000,"doi":"10.1007/s11589-015-0126-z","type":"correction"},"doi":"10.1007/s11589-014-0091-y","journal":"Earthquake Science","publisher":"Springer Nature","title":"Erratum to: Seismic waves in 3-D: from mantle asymmetries to reliable seismic hazard assessment"}
+{
+  "retracted": false,
+  "timestamp": 1434412800000,
+  "updates": [
+    {
+      "timestamp": 1496007840048,
+      "identifier": {
+        "doi": "10.1007/s11589-015-0126-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11589-014-0091-y"
+  },
+  "journal": "Earthquake Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Seismic waves in 3-D: from mantle asymmetries to reliable seismic hazard assessment"
+}

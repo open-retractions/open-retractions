@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480636800000,"doi":"10.1007/s12010-016-2351-x","type":"correction"},"doi":"10.1007/s12010-016-2312-4","journal":"Applied Biochemistry and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Hydrophobic Interaction Between Domain I of Albumin and B Chain of Detemir May Support Myristate-Dependent Detemir-Albumin Binding"}
+{
+  "retracted": false,
+  "timestamp": 1480636800000,
+  "updates": [
+    {
+      "timestamp": 1495876234259,
+      "identifier": {
+        "doi": "10.1007/s12010-016-2351-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12010-016-2312-4"
+  },
+  "journal": "Applied Biochemistry and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hydrophobic Interaction Between Domain I of Albumin and B Chain of Detemir May Support Myristate-Dependent Detemir-Albumin Binding"
+}

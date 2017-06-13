@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1214179200000,"doi":"10.1371/annotation/ec07378d-fd1b-45b8-bfed-1a20c9fd5d26","type":"correction"},"doi":"10.1371/journal.pcbi.1000088","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Astrocytes Optimize the Synaptic Transmission of Information"}
+{
+  "retracted": false,
+  "timestamp": 1214179200000,
+  "updates": [
+    {
+      "timestamp": 1496025195743,
+      "identifier": {
+        "doi": "10.1371/annotation/ec07378d-fd1b-45b8-bfed-1a20c9fd5d26"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000088"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Astrocytes Optimize the Synaptic Transmission of Information"
+}

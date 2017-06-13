@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1128/jvi.01100-16","type":"correction"},"doi":"10.1128/jvi.01770-15","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Erratum for Trinité et al., HIV-1 Vpr- and Reverse Transcription-Induced Apoptosis in Resting Peripheral Blood CD4 T Cells and Protection by Common Gamma-Chain Cytokines"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495729358153,
+      "identifier": {
+        "doi": "10.1128/jvi.01100-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.01770-15"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Trinité et al., HIV-1 Vpr- and Reverse Transcription-Induced Apoptosis in Resting Peripheral Blood CD4 T Cells and Protection by Common Gamma-Chain Cytokines"
+}

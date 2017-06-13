@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1016/j.physleta.2013.04.004","type":"err"},"doi":"10.1016/j.physleta.2012.12.043","journal":"Physics Letters A","publisher":"Elsevier BV","title":"Corrigendum to “Analytic reconstruction of some dynamical systems” [Phys. Lett. A 377 (2013) 703]"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496010598101,
+      "identifier": {
+        "doi": "10.1016/j.physleta.2013.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physleta.2012.12.043"
+  },
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analytic reconstruction of some dynamical systems” [Phys. Lett. A 377 (2013) 703]"
+}

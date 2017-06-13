@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435104000000,"doi":"10.1007/s10549-015-3478-0","type":"correction"},"doi":"10.1007/s10549-015-3444-x","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Quality assessment of estrogen receptor and progesterone receptor testing in breast cancer using a tissue microarray-based approach"}
+{
+  "retracted": false,
+  "timestamp": 1435104000000,
+  "updates": [
+    {
+      "timestamp": 1496009447271,
+      "identifier": {
+        "doi": "10.1007/s10549-015-3478-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-015-3444-x"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quality assessment of estrogen receptor and progesterone receptor testing in breast cancer using a tissue microarray-based approach"
+}

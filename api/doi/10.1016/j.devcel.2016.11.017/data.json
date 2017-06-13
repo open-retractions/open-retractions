@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488153600000,"doi":"10.1016/j.devcel.2017.02.015","type":"erratum"},"doi":"10.1016/j.devcel.2016.11.017","journal":"Developmental Cell","publisher":"Elsevier BV","title":"A Mechanism for Controlled Breakage of Under-replicated Chromosomes during Mitosis"}
+{
+  "retracted": false,
+  "timestamp": 1488153600000,
+  "updates": [
+    {
+      "timestamp": 1495723856959,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2017.02.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2016.11.017"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Mechanism for Controlled Breakage of Under-replicated Chromosomes during Mitosis"
+}

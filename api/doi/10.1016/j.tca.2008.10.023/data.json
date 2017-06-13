@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432080000000,"doi":"10.1016/j.tca.2015.03.018","type":"err"},"doi":"10.1016/j.tca.2008.10.023","journal":"Thermochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Interactions in l-alanine–/l-proline–/l-valine–/l-leucine–aqueous KCl/KNO3 systems at different temperatures: An isentropic compressibility study” [Thermochimica Acta 483 (2009) 45–48]"}
+{
+  "retracted": false,
+  "timestamp": 1432080000000,
+  "updates": [
+    {
+      "timestamp": 1496055354886,
+      "identifier": {
+        "doi": "10.1016/j.tca.2015.03.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tca.2008.10.023"
+  },
+  "journal": "Thermochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interactions in l-alanine–/l-proline–/l-valine–/l-leucine–aqueous KCl/KNO3 systems at different temperatures: An isentropic compressibility study” [Thermochimica Acta 483 (2009) 45–48]"
+}

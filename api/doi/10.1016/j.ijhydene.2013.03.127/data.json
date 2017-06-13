@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379548800000,"doi":"10.1016/j.ijhydene.2013.07.029","type":"err"},"doi":"10.1016/j.ijhydene.2013.03.127","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “PTFE-nafion membrane reactor for hydrogen production” [Int J Hydrogen Energy 38 (2013) 9553–9561]"}
+{
+  "retracted": false,
+  "timestamp": 1379548800000,
+  "updates": [
+    {
+      "timestamp": 1496038770330,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2013.07.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2013.03.127"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PTFE-nafion membrane reactor for hydrogen production” [Int J Hydrogen Energy 38 (2013) 9553–9561]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373414400000,"doi":"10.1016/j.neuron.2013.05.033","type":"err"},"doi":"10.1016/j.neuron.2013.02.036","journal":"Neuron","publisher":"Elsevier BV","title":"Autism-Associated Neuroligin-3 Mutations Commonly Disrupt Tonic Endocannabinoid Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1373414400000,
+  "updates": [
+    {
+      "timestamp": 1496032096575,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.05.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.02.036"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Autism-Associated Neuroligin-3 Mutations Commonly Disrupt Tonic Endocannabinoid Signaling"
+}

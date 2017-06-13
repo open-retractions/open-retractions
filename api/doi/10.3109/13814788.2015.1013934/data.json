@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429833600000,"doi":"10.3109/13814788.2015.1040688","type":"correction"},"doi":"10.3109/13814788.2015.1013934","journal":"European Journal of General Practice","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1429833600000,
+  "updates": [
+    {
+      "timestamp": 1495995508859,
+      "identifier": {
+        "doi": "10.3109/13814788.2015.1040688"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/13814788.2015.1013934"
+  },
+  "journal": "European Journal of General Practice",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

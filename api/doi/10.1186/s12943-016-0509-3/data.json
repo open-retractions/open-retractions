@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462924800000,"doi":"10.1186/s12943-016-0522-6","type":"correction"},"doi":"10.1186/s12943-016-0509-3","journal":"Molecular Cancer","publisher":"Springer Nature","title":"Erratum to: ‘Hedgehog signaling: modulation of cancer properties and tumor microenvironment’"}
+{
+  "retracted": false,
+  "timestamp": 1462924800000,
+  "updates": [
+    {
+      "timestamp": 1495675733655,
+      "identifier": {
+        "doi": "10.1186/s12943-016-0522-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12943-016-0509-3"
+  },
+  "journal": "Molecular Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Hedgehog signaling: modulation of cancer properties and tumor microenvironment’"
+}

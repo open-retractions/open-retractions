@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338249600000,"doi":"10.1371/annotation/bda2b1d8-1054-481a-bafd-2bcfa48514e6","type":"correction"},"doi":"10.1371/journal.pone.0032307","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Serum microRNA Biomarkers for Detection of Non-Small Cell Lung Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1338249600000,
+  "updates": [
+    {
+      "timestamp": 1495896279376,
+      "identifier": {
+        "doi": "10.1371/annotation/bda2b1d8-1054-481a-bafd-2bcfa48514e6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032307"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Serum microRNA Biomarkers for Detection of Non-Small Cell Lung Cancer"
+}

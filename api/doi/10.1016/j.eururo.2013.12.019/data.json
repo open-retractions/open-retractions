@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.eururo.2016.03.014","type":"err"},"doi":"10.1016/j.eururo.2013.12.019","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum re: “Suppression of Heat Shock Protein 27 Using OGX-427 Induces Endoplasmic Reticulum Stress and Potentiates Heat Shock Protein 90 Inhibitors to Delay Castrate-resistant Prostate Cancer” [Eur Urol 2014;66:145–55]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495661612216,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2016.03.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2013.12.019"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum re: “Suppression of Heat Shock Protein 27 Using OGX-427 Induces Endoplasmic Reticulum Stress and Potentiates Heat Shock Protein 90 Inhibitors to Delay Castrate-resistant Prostate Cancer” [Eur Urol 2014;66:145–55]"
+}

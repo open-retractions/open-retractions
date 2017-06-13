@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1371/annotation/2bf00719-6566-4ef0-8f75-e4895309b84a","type":"correction"},"doi":"10.1371/journal.pone.0051153","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mutation Scanning Using MUT-MAP, a High-Throughput, Microfluidic Chip-Based, Multi-Analyte Panel"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1495992662362,
+      "identifier": {
+        "doi": "10.1371/annotation/2bf00719-6566-4ef0-8f75-e4895309b84a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0051153"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mutation Scanning Using MUT-MAP, a High-Throughput, Microfluidic Chip-Based, Multi-Analyte Panel"
+}

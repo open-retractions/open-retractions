@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jradio.2014.10.001","type":"err"},"doi":"10.1016/j.diii.2013.12.023","journal":"Journal de Radiologie Diagnostique et Interventionnelle","publisher":"Elsevier BV","title":"Erratum à « Les macrobiopsies mammaires sous IRM » [J. Radiol. Diagn. Interv. 95 (9) (2014) 774–99]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496023803734,
+      "identifier": {
+        "doi": "10.1016/j.jradio.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.diii.2013.12.023"
+  },
+  "journal": "Journal de Radiologie Diagnostique et Interventionnelle",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Les macrobiopsies mammaires sous IRM » [J. Radiol. Diagn. Interv. 95 (9) (2014) 774–99]"
+}

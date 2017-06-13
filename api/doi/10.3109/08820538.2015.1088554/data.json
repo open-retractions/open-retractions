@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1080/08820538.2016.1181474","type":"correction"},"doi":"10.3109/08820538.2015.1088554","journal":"Seminars in Ophthalmology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495724176393,
+      "identifier": {
+        "doi": "10.1080/08820538.2016.1181474"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/08820538.2015.1088554"
+  },
+  "journal": "Seminars in Ophthalmology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

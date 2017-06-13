@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465516800000,"doi":"10.1080/15384101.2016.1193415","type":"correction"},"doi":"10.4161/cc.7.16.6440","journal":"Cell Cycle","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1465516800000,
+  "updates": [
+    {
+      "timestamp": 1495719670299,
+      "identifier": {
+        "doi": "10.1080/15384101.2016.1193415"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/cc.7.16.6440"
+  },
+  "journal": "Cell Cycle",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

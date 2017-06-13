@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475798400000,"doi":"10.1186/s12284-016-0128-z","type":"correction"},"doi":"10.1186/s12284-015-0066-1","journal":"Rice","publisher":"Springer Nature","title":"Erratum to: ‘Influence of Multi-Gene Allele Combinations on Grain Size of Rice and Development of a Regression Equation Model to Predict Grain Parameters’"}
+{
+  "retracted": false,
+  "timestamp": 1475798400000,
+  "updates": [
+    {
+      "timestamp": 1495646827953,
+      "identifier": {
+        "doi": "10.1186/s12284-016-0128-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12284-015-0066-1"
+  },
+  "journal": "Rice",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Influence of Multi-Gene Allele Combinations on Grain Size of Rice and Development of a Regression Equation Model to Predict Grain Parameters’"
+}

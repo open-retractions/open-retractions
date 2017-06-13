@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.3847/2041-8205/823/1/l21","type":"correction"},"doi":"10.1088/2041-8205/768/2/l37","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “A PHYSICAL MODEL FOR THE 0 ≲z≲ 8 REDSHIFT EVOLUTION OF THE GALAXY ULTRAVIOLET LUMINOSITY AND STELLAR MASS FUNCTIONS” (2013, ApJL, 768, L37)"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495678431872,
+      "identifier": {
+        "doi": "10.3847/2041-8205/823/1/l21"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2041-8205/768/2/l37"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “A PHYSICAL MODEL FOR THE 0 ≲z≲ 8 REDSHIFT EVOLUTION OF THE GALAXY ULTRAVIOLET LUMINOSITY AND STELLAR MASS FUNCTIONS” (2013, ApJL, 768, L37)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1132617600000,"doi":"10.1063/1.2135774","type":"erratum"},"doi":"10.1063/1.1821496","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Gas-phase diatomic trications of Se23+, Te23+, and LaF3+ [J. Chem. Phys. 121, 12293 (2004)]"}
+{
+  "retracted": false,
+  "timestamp": 1132617600000,
+  "updates": [
+    {
+      "timestamp": 1495969484698,
+      "identifier": {
+        "doi": "10.1063/1.2135774"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1821496"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Gas-phase diatomic trications of Se23+, Te23+, and LaF3+ [J. Chem. Phys. 121, 12293 (2004)]"
+}

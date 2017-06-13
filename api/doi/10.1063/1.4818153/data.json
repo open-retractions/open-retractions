@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402358400000,"doi":"10.1063/1.4883057","type":"correction"},"doi":"10.1063/1.4818153","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “A boundary correction algorithm for metadynamics in multiple dimensions” [J. Chem. Phys. 139, 084102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1402358400000,
+  "updates": [
+    {
+      "timestamp": 1496045064501,
+      "identifier": {
+        "doi": "10.1063/1.4883057"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4818153"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A boundary correction algorithm for metadynamics in multiple dimensions” [J. Chem. Phys. 139, 084102 (2013)]"
+}

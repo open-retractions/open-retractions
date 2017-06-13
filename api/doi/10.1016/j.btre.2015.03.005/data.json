@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.btre.2015.06.003","type":"err"},"doi":"10.1016/j.btre.2015.03.005","journal":"Biotechnology Reports","publisher":"Elsevier BV","title":"Corrigendum to “Extracellular expression of alkaline phytase in Pichia pastoris: influence of signal peptides, promoters and growth medium” Biotechnol. Rep. 6 (2015), 112–118"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496011632551,
+      "identifier": {
+        "doi": "10.1016/j.btre.2015.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.btre.2015.03.005"
+  },
+  "journal": "Biotechnology Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Extracellular expression of alkaline phytase in Pichia pastoris: influence of signal peptides, promoters and growth medium” Biotechnol. Rep. 6 (2015), 112–118"
+}

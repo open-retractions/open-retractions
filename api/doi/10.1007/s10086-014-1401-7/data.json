@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407456000000,"doi":"10.1007/s10086-014-1422-2","type":"correction"},"doi":"10.1007/s10086-014-1401-7","journal":"Journal of Wood Science","publisher":"Springer Nature","title":"Erratum to: Hydrothermal decomposition of various crystalline celluloses as treated by semi-flow hot-compressed water"}
+{
+  "retracted": false,
+  "timestamp": 1407456000000,
+  "updates": [
+    {
+      "timestamp": 1495998669462,
+      "identifier": {
+        "doi": "10.1007/s10086-014-1422-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10086-014-1401-7"
+  },
+  "journal": "Journal of Wood Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hydrothermal decomposition of various crystalline celluloses as treated by semi-flow hot-compressed water"
+}

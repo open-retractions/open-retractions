@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1379894400000,"doi":"10.1371/annotation/a076115e-dd8c-4da7-989d-c1174a8cd31e","type":"correction"},"doi":"10.1371/journal.pone.0070204","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Prediction of microRNAs Associated with Human Diseases Based on Weighted k Most Similar Neighbors"}
+{
+  "retracted": false,
+  "timestamp": 1379894400000,
+  "updates": [
+    {
+      "timestamp": 1496052004618,
+      "identifier": {
+        "doi": "10.1371/annotation/a076115e-dd8c-4da7-989d-c1174a8cd31e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070204"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Prediction of microRNAs Associated with Human Diseases Based on Weighted k Most Similar Neighbors"
+}

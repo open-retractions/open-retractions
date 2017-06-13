@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359072000000,"doi":"10.1063/1.4789781","type":"correction"},"doi":"10.1063/1.4770360","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Density functional theory and experimental study of the electronic structure and transport properties of La, V, Nb, and Ta doped SrTiO3” [J. Appl. Phys. 113, 013701 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1359072000000,
+  "updates": [
+    {
+      "timestamp": 1495990165406,
+      "identifier": {
+        "doi": "10.1063/1.4789781"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4770360"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Density functional theory and experimental study of the electronic structure and transport properties of La, V, Nb, and Ta doped SrTiO3” [J. Appl. Phys. 113, 013701 (2013)]"
+}

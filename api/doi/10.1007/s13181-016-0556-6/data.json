@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486944000000,"doi":"10.1007/s13181-017-0604-x","type":"correction"},"doi":"10.1007/s13181-016-0556-6","journal":"Journal of Medical Toxicology","publisher":"Springer Nature","title":"Erratum to: Baclofen Toxicity Causing Acute, Reversible Dyskinesia"}
+{
+  "retracted": false,
+  "timestamp": 1486944000000,
+  "updates": [
+    {
+      "timestamp": 1495720145138,
+      "identifier": {
+        "doi": "10.1007/s13181-017-0604-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13181-016-0556-6"
+  },
+  "journal": "Journal of Medical Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Baclofen Toxicity Causing Acute, Reversible Dyskinesia"
+}

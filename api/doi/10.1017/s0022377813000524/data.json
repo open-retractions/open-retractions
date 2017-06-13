@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1017/s0022377814001020","type":"corrected-article"},"doi":"10.1017/s0022377813000524","journal":"Journal of Plasma Physics","publisher":"Cambridge University Press (CUP)","title":"Nonlinear ion acoustic excitations in relativistic degenerate, astrophysical electron-positron-ion plasmas – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496020145427,
+      "identifier": {
+        "doi": "10.1017/s0022377814001020"
+      },
+      "type": "corrected-article"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0022377813000524"
+  },
+  "journal": "Journal of Plasma Physics",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Nonlinear ion acoustic excitations in relativistic degenerate, astrophysical electron-positron-ion plasmas – CORRIGENDUM"
+}

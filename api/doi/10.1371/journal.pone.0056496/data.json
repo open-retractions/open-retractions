@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366070400000,"doi":"10.1371/annotation/da199b79-3c4a-4213-b28a-78f77abfa1fb","type":"correction"},"doi":"10.1371/journal.pone.0056496","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Effects of Hedgehog on the RNA-Binding Protein Msi1 in the Proliferation and Apoptosis of Mesenchymal Stem Cells"}
+{
+  "retracted": false,
+  "timestamp": 1366070400000,
+  "updates": [
+    {
+      "timestamp": 1496013741932,
+      "identifier": {
+        "doi": "10.1371/annotation/da199b79-3c4a-4213-b28a-78f77abfa1fb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0056496"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Effects of Hedgehog on the RNA-Binding Protein Msi1 in the Proliferation and Apoptosis of Mesenchymal Stem Cells"
+}

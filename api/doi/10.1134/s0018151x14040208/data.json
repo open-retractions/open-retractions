@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1434499200000,"doi":"10.1134/s0018151x15070019","type":"correction"},"doi":"10.1134/s0018151x14040208","journal":"High Temperature","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Electrical Discharges with Liquid Electrodes Used in Water Decontamination”"}
+{
+  "retracted": false,
+  "timestamp": 1434499200000,
+  "updates": [
+    {
+      "timestamp": 1496008081040,
+      "identifier": {
+        "doi": "10.1134/s0018151x15070019"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0018151x14040208"
+  },
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Electrical Discharges with Liquid Electrodes Used in Water Decontamination”"
+}

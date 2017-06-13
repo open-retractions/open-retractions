@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1205366400000,"doi":"10.1371/annotation/bd02ad26-a081-4c61-88c2-ebda285b8bca","type":"correction"},"doi":"10.1371/journal.ppat.0040028","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Methamphetamine Inhibits Antigen Processing, Presentation, and Phagocytosis"}
+{
+  "retracted": false,
+  "timestamp": 1205366400000,
+  "updates": [
+    {
+      "timestamp": 1496025195580,
+      "identifier": {
+        "doi": "10.1371/annotation/bd02ad26-a081-4c61-88c2-ebda285b8bca"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.0040028"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Methamphetamine Inhibits Antigen Processing, Presentation, and Phagocytosis"
+}

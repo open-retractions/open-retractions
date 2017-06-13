@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1016/j.neuron.2015.12.011","type":"erratum"},"doi":"10.1016/j.neuron.2014.12.024","journal":"Neuron","publisher":"Elsevier BV","title":"DeCoN: Genome-wide Analysis of In Vivo Transcriptional Dynamics during Pyramidal Neuron Fate Selection in Neocortex"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1496058264596,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2015.12.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.12.024"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "DeCoN: Genome-wide Analysis of In Vivo Transcriptional Dynamics during Pyramidal Neuron Fate Selection in Neocortex"
+}

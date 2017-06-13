@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.lithos.2014.03.012","type":"err"},"doi":"10.1016/j.lithos.2013.10.038","journal":"Lithos","publisher":"Elsevier BV","title":"Erratum to “A two-component mantle source feeding Mt. Etna magmatism: Insights from the geochemistry of primitive magmas” [Lithos 184–187 (2014) 243–258]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496029664730,
+      "identifier": {
+        "doi": "10.1016/j.lithos.2014.03.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lithos.2013.10.038"
+  },
+  "journal": "Lithos",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A two-component mantle source feeding Mt. Etna magmatism: Insights from the geochemistry of primitive magmas” [Lithos 184–187 (2014) 243–258]"
+}

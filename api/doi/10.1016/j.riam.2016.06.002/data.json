@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.riam.2017.02.003","type":"erratum"},"doi":"10.1016/j.riam.2016.06.002","journal":"Revista Iberoamericana de Micología","publisher":"Elsevier BV","title":"Erratum to “EPICO 3.0. Empirical antifungal therapy in critically-ill hematology patients” [Rev Iberoam Micol. 33 (4) (2016) 206–215]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1491398546163,
+      "identifier": {
+        "doi": "10.1016/j.riam.2017.02.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.riam.2016.06.002"
+  },
+  "journal": "Revista Iberoamericana de Micología",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “EPICO 3.0. Empirical antifungal therapy in critically-ill hematology patients” [Rev Iberoam Micol. 33 (4) (2016) 206–215]"
+}

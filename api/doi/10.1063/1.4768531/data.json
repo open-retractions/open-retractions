@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1063/1.4968027","type":"erratum"},"doi":"10.1063/1.4768531","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “A fast real time measurement system to track in and out of plane optical retardation/birefringence, true stress, and true strain during biaxial stretching of polymer films” [Rev. Sci. Instrum. 83, 123901 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495657692973,
+      "identifier": {
+        "doi": "10.1063/1.4968027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4768531"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A fast real time measurement system to track in and out of plane optical retardation/birefringence, true stress, and true strain during biaxial stretching of polymer films” [Rev. Sci. Instrum. 83, 123901 (2012)]"
+}

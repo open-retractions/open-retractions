@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.3847/0004-637x/819/1/87","type":"correction"},"doi":"10.1088/0004-637x/804/1/64","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “HOW TO CONSTRAIN YOUR M DWARF: MEASURING EFFECTIVE TEMPERATURE, BOLOMETRIC LUMINOSITY, MASS, AND RADIUS” (ApJ, 804, 64)"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649617042,
+      "identifier": {
+        "doi": "10.3847/0004-637x/819/1/87"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/804/1/64"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “HOW TO CONSTRAIN YOUR M DWARF: MEASURING EFFECTIVE TEMPERATURE, BOLOMETRIC LUMINOSITY, MASS, AND RADIUS” (ApJ, 804, 64)"
+}

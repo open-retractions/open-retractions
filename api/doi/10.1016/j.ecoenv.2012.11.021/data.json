@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.ecoenv.2013.09.027","type":"err"},"doi":"10.1016/j.ecoenv.2012.11.021","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Corrigendum to “Assessment of respiration activity and ecotoxicity of composts containing biopolymers” [Ecotoxicol. Environ. Saf. 89 (2013) 137–142]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496033568023,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2013.09.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2012.11.021"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessment of respiration activity and ecotoxicity of composts containing biopolymers” [Ecotoxicol. Environ. Saf. 89 (2013) 137–142]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.ympev.2015.09.011","type":"err"},"doi":"10.1016/j.ympev.2015.05.003","journal":"Molecular Phylogenetics and Evolution","publisher":"Elsevier BV","title":"Corrigendum to “Variance estimation for nucleotide substitution models” [Mol. Phylogenet. Evol. 90 (2015) 97–103]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496031909012,
+      "identifier": {
+        "doi": "10.1016/j.ympev.2015.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ympev.2015.05.003"
+  },
+  "journal": "Molecular Phylogenetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Variance estimation for nucleotide substitution models” [Mol. Phylogenet. Evol. 90 (2015) 97–103]"
+}

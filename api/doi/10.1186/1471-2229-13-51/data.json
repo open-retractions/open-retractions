@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460073600000,"doi":"10.1186/s12870-016-0757-9","type":"correction"},"doi":"10.1186/1471-2229-13-51","journal":"BMC Plant Biology","publisher":"Springer Nature","title":"Erratum to: A qRT-PCR assay for the expression of all Mal d 1 isoallergen genes"}
+{
+  "retracted": false,
+  "timestamp": 1460073600000,
+  "updates": [
+    {
+      "timestamp": 1495666543756,
+      "identifier": {
+        "doi": "10.1186/s12870-016-0757-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2229-13-51"
+  },
+  "journal": "BMC Plant Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A qRT-PCR assay for the expression of all Mal d 1 isoallergen genes"
+}

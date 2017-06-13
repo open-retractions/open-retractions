@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1016/j.cell.2015.06.053","type":"err"},"doi":"10.1016/j.cell.2015.05.001","journal":"Cell","publisher":"Elsevier BV","title":"Integrative Clinical Genomics of Advanced Prostate Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015990609,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.06.053"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.05.001"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Integrative Clinical Genomics of Advanced Prostate Cancer"
+}

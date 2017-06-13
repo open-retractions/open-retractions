@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1186/s12864-016-2544-2","type":"correction"},"doi":"10.1186/s12864-015-2086-z","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: ‘DECKO: Single-oligo, dual-CRISPR deletion of genomic elements including long non-coding RNAs’"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495651998514,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2544-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-015-2086-z"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘DECKO: Single-oligo, dual-CRISPR deletion of genomic elements including long non-coding RNAs’"
+}

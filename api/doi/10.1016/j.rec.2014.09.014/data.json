@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.rec.2015.05.001","type":"err"},"doi":"10.1016/j.rec.2014.09.014","journal":"Revista Española de Cardiología (English Edition)","publisher":"Elsevier BV","title":"Correction in article by Catalán-Sanz entitled “Comments on Exercise Echocardiography and Multidetector Computed Tomography for the Evaluation of Acute Chest Pain”, Rev Esp Cardiol. 2015;68:164-5"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496003357538,
+      "identifier": {
+        "doi": "10.1016/j.rec.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rec.2014.09.014"
+  },
+  "journal": "Revista Española de Cardiología (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Correction in article by Catalán-Sanz entitled “Comments on Exercise Echocardiography and Multidetector Computed Tomography for the Evaluation of Acute Chest Pain”, Rev Esp Cardiol. 2015;68:164-5"
+}

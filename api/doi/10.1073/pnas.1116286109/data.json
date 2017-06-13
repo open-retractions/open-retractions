@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360195200000,"doi":"10.1073/pnas.1301033110","type":"correction"},"doi":"10.1073/pnas.1116286109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Meesat et al., Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose"}
+{
+  "retracted": false,
+  "timestamp": 1360195200000,
+  "updates": [
+    {
+      "timestamp": 1495994375921,
+      "identifier": {
+        "doi": "10.1073/pnas.1301033110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1116286109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Meesat et al., Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose"
+}

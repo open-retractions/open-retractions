@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394064000000,"doi":"10.1179/0147888514z.00000000082","type":"correction"},"doi":"10.1179/2046023611y.0000000005","journal":"Journal of Histotechnology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394064000000,
+  "updates": [
+    {
+      "timestamp": 1496022775587,
+      "identifier": {
+        "doi": "10.1179/0147888514z.00000000082"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/2046023611y.0000000005"
+  },
+  "journal": "Journal of Histotechnology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

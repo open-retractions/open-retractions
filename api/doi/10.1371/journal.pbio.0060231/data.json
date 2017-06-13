@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1227571200000,"doi":"10.1371/journal.pbio.0060282","type":"correction"},"doi":"10.1371/journal.pbio.0060231","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Rice XB15, a Protein Phosphatase 2C, Negatively Regulates Cell Death and XA21-Mediated Innate Immunity"}
+{
+  "retracted": false,
+  "timestamp": 1227571200000,
+  "updates": [
+    {
+      "timestamp": 1495899321193,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0060282"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0060231"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Rice XB15, a Protein Phosphatase 2C, Negatively Regulates Cell Death and XA21-Mediated Innate Immunity"
+}

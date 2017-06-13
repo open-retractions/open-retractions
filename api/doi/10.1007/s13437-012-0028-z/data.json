@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337990400000,"doi":"10.1007/s13437-012-0031-4","type":"correction"},"doi":"10.1007/s13437-012-0028-z","journal":"WMU Journal of Maritime Affairs","publisher":"Springer Nature","title":"Erratum to: Natalie Klein: Maritime security and the law of the sea"}
+{
+  "retracted": false,
+  "timestamp": 1337990400000,
+  "updates": [
+    {
+      "timestamp": 1495908669788,
+      "identifier": {
+        "doi": "10.1007/s13437-012-0031-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13437-012-0028-z"
+  },
+  "journal": "WMU Journal of Maritime Affairs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Natalie Klein: Maritime security and the law of the sea"
+}

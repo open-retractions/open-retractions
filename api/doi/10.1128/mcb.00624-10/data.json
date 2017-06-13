@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1128/mcb.01084-15","type":"correction"},"doi":"10.1128/mcb.00624-10","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Erratum for Rattenbacher et al., Analysis of CUGBP1 Targets Identifies GU-Repeat Sequences That Mediate Rapid mRNA Decay"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1495641492620,
+      "identifier": {
+        "doi": "10.1128/mcb.01084-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.00624-10"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Rattenbacher et al., Analysis of CUGBP1 Targets Identifies GU-Repeat Sequences That Mediate Rapid mRNA Decay"
+}

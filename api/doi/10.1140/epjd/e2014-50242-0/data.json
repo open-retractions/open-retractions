@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463011200000,"doi":"10.1140/epjd/e2016-70213-7","type":"correction"},"doi":"10.1140/epjd/e2014-50242-0","journal":"The European Physical Journal D","publisher":"Springer Nature","title":"Erratum to: The initial condition problem of damped quantum harmonic oscillator"}
+{
+  "retracted": false,
+  "timestamp": 1463011200000,
+  "updates": [
+    {
+      "timestamp": 1495676807476,
+      "identifier": {
+        "doi": "10.1140/epjd/e2016-70213-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjd/e2014-50242-0"
+  },
+  "journal": "The European Physical Journal D",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The initial condition problem of damped quantum harmonic oscillator"
+}

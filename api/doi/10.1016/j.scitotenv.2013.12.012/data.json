@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.scitotenv.2014.11.009","type":"err"},"doi":"10.1016/j.scitotenv.2013.12.012","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Carbon emission and sequestration of urban turfgrass systems in Hong Kong” [Sci. Total Environ. 473–474 (2014) 132–138]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496022422891,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.11.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2013.12.012"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Carbon emission and sequestration of urban turfgrass systems in Hong Kong” [Sci. Total Environ. 473–474 (2014) 132–138]"
+}

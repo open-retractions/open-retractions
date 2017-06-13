@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384905600000,"doi":"10.1016/j.ecss.2013.03.002","type":"err"},"doi":"10.1016/j.ecss.2013.01.009","journal":"Estuarine, Coastal and Shelf Science","publisher":"Elsevier BV","title":"Erratum to “Influence of microhabitat on seedling survival and growth of the Mediterranean seagrass Posidonia oceanica (L.) Delile” [Estuar. Coast. Shelf Sci. 119C (2013) 119–125]"}
+{
+  "retracted": false,
+  "timestamp": 1384905600000,
+  "updates": [
+    {
+      "timestamp": 1496006242186,
+      "identifier": {
+        "doi": "10.1016/j.ecss.2013.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecss.2013.01.009"
+  },
+  "journal": "Estuarine, Coastal and Shelf Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Influence of microhabitat on seedling survival and growth of the Mediterranean seagrass Posidonia oceanica (L.) Delile” [Estuar. Coast. Shelf Sci. 119C (2013) 119–125]"
+}

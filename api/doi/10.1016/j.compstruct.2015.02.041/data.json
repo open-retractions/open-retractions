@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.compstruct.2015.04.002","type":"err"},"doi":"10.1016/j.compstruct.2015.02.041","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to “Numerical simulation and empirical comparison of the high velocity impact of STF impregnated Kevlar fabric using friction effects” [Compos Struct 125 (2015) 520–529]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1495997756872,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2015.02.041"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Numerical simulation and empirical comparison of the high velocity impact of STF impregnated Kevlar fabric using friction effects” [Compos Struct 125 (2015) 520–529]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.berh.2015.10.002","type":"err"},"doi":"10.1016/j.berh.2015.05.009","journal":"Best Practice & Research Clinical Rheumatology","publisher":"Elsevier BV","title":"Corrigendum to “Risk of infection with biologic antirheumatic therapies in patients with rheumatoid arthritis” [Best Pract Res Clin Rheumatol 29 (2) (2015) 290–305]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496047128437,
+      "identifier": {
+        "doi": "10.1016/j.berh.2015.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.berh.2015.05.009"
+  },
+  "journal": "Best Practice & Research Clinical Rheumatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Risk of infection with biologic antirheumatic therapies in patients with rheumatoid arthritis” [Best Pract Res Clin Rheumatol 29 (2) (2015) 290–305]"
+}

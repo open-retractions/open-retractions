@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419379200000,"doi":"10.1016/j.celrep.2014.12.003","type":"err"},"doi":"10.1016/j.celrep.2014.09.034","journal":"Cell Reports","publisher":"Elsevier BV","title":"Antivirulence Properties of an Antifreeze Protein"}
+{
+  "retracted": false,
+  "timestamp": 1419379200000,
+  "updates": [
+    {
+      "timestamp": 1496032999460,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2014.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.09.034"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Antivirulence Properties of an Antifreeze Protein"
+}

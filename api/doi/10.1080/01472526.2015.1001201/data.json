@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1080/01472526.2015.1087200","type":"correction"},"doi":"10.1080/01472526.2015.1001201","journal":"Dance Chronicle","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496039378539,
+      "identifier": {
+        "doi": "10.1080/01472526.2015.1087200"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01472526.2015.1001201"
+  },
+  "journal": "Dance Chronicle",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

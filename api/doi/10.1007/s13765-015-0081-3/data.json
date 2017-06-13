@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437177600000,"doi":"10.1007/s13765-015-0099-6","type":"correction"},"doi":"10.1007/s13765-015-0081-3","journal":"Journal of the Korean Society for Applied Biological Chemistry","publisher":"Springer Nature","title":"Erratum to: Anti-invasive effect of β-myrcene, a component of the essential oil from Pinus koraiensis cones, in metastatic MDA-MB-231 human breast cancer cells"}
+{
+  "retracted": false,
+  "timestamp": 1437177600000,
+  "updates": [
+    {
+      "timestamp": 1496016111411,
+      "identifier": {
+        "doi": "10.1007/s13765-015-0099-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13765-015-0081-3"
+  },
+  "journal": "Journal of the Korean Society for Applied Biological Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Anti-invasive effect of β-myrcene, a component of the essential oil from Pinus koraiensis cones, in metastatic MDA-MB-231 human breast cancer cells"
+}

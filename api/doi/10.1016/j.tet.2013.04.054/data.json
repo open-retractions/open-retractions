@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385337600000,"doi":"10.1016/j.tet.2013.09.078","type":"err"},"doi":"10.1016/j.tet.2013.04.054","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “An efficient method of synthesis of isoxazolidine-fused β-lactams via base-promoted cyclization-ring opening of carbamoyl-spirocyclopropane isoxazolidines” [Tetrahedron 69 (2013) 5173–5177]"}
+{
+  "retracted": false,
+  "timestamp": 1385337600000,
+  "updates": [
+    {
+      "timestamp": 1496050584773,
+      "identifier": {
+        "doi": "10.1016/j.tet.2013.09.078"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2013.04.054"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An efficient method of synthesis of isoxazolidine-fused β-lactams via base-promoted cyclization-ring opening of carbamoyl-spirocyclopropane isoxazolidines” [Tetrahedron 69 (2013) 5173–5177]"
+}

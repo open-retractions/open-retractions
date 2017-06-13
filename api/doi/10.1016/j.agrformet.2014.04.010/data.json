@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.agrformet.2014.08.004","type":"err"},"doi":"10.1016/j.agrformet.2014.04.010","journal":"Agricultural and Forest Meteorology","publisher":"Elsevier BV","title":"Corrigendum to “Water use efficiency threshold for terrestrial ecosystem carbon sequestration in China under afforestation” [Agric. For. Meteorol. 195–196 (2014) 32–37]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496003128457,
+      "identifier": {
+        "doi": "10.1016/j.agrformet.2014.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agrformet.2014.04.010"
+  },
+  "journal": "Agricultural and Forest Meteorology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Water use efficiency threshold for terrestrial ecosystem carbon sequestration in China under afforestation” [Agric. For. Meteorol. 195–196 (2014) 32–37]"
+}

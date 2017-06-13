@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.1016/j.cell.2017.03.036","type":"erratum"},"doi":"10.1016/j.cell.2015.07.011","journal":"Cell","publisher":"Elsevier BV","title":"Inhibiting DNA Methylation Causes an Interferon Response in Cancer via dsRNA Including Endogenous Retroviruses"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495735394297,
+      "identifier": {
+        "doi": "10.1016/j.cell.2017.03.036"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.07.011"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Inhibiting DNA Methylation Causes an Interferon Response in Cancer via dsRNA Including Endogenous Retroviruses"
+}

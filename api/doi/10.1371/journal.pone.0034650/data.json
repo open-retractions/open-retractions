@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338336000000,"doi":"10.1371/annotation/c1da4989-c6e8-43c2-9a8b-1462af83ae5e","type":"correction"},"doi":"10.1371/journal.pone.0034650","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Insulinotropic Effect of the Non-Steroidal Compound STX in Pancreatic β-Cells"}
+{
+  "retracted": false,
+  "timestamp": 1338336000000,
+  "updates": [
+    {
+      "timestamp": 1495896279923,
+      "identifier": {
+        "doi": "10.1371/annotation/c1da4989-c6e8-43c2-9a8b-1462af83ae5e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0034650"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Insulinotropic Effect of the Non-Steroidal Compound STX in Pancreatic β-Cells"
+}

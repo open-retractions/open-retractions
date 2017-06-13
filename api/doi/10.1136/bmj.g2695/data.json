@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1136/bmj.g2746","type":"correction"},"doi":"10.1136/bmj.g2695","journal":"BMJ","publisher":"BMJ","title":"The missing data that cost $20bn"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496035255656,
+      "identifier": {
+        "doi": "10.1136/bmj.g2746"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2695"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The missing data that cost $20bn"
+}

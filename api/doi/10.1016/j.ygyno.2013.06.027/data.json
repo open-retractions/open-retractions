@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.ygyno.2013.09.020","type":"err"},"doi":"10.1016/j.ygyno.2013.06.027","journal":"Gynecologic Oncology","publisher":"Elsevier BV","title":"Corrigendum to “Detection of sentinel lymph node metastases in cervical cancer: assessment of KRT19 mRNA in the one-step nucleic acid amplification (OSNA) method” [Gynecol. Oncol. 130 (2013) 530–536]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496050219691,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2013.09.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2013.06.027"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Detection of sentinel lymph node metastases in cervical cancer: assessment of KRT19 mRNA in the one-step nucleic acid amplification (OSNA) method” [Gynecol. Oncol. 130 (2013) 530–536]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463529600000,"doi":"10.1038/srep25863","type":"correction"},"doi":"10.1038/srep22235","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Mutation analysis of the phospholamban gene in 315 South Africans with dilated, hypertrophic, peripartum and arrhythmogenic right ventricular cardiomyopathies"}
+{
+  "retracted": false,
+  "timestamp": 1463529600000,
+  "updates": [
+    {
+      "timestamp": 1495677335329,
+      "identifier": {
+        "doi": "10.1038/srep25863"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep22235"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Mutation analysis of the phospholamban gene in 315 South Africans with dilated, hypertrophic, peripartum and arrhythmogenic right ventricular cardiomyopathies"
+}

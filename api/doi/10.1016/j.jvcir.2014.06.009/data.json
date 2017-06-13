@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jvcir.2014.12.006","type":"err"},"doi":"10.1016/j.jvcir.2014.06.009","journal":"Journal of Visual Communication and Image Representation","publisher":"Elsevier BV","title":"Corrigendum to “Fast and scalable lock methods for video coding on many-core architecture” [J. Vis. Commun. Image R. 25(7) (2014) 1758–1762]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496037175784,
+      "identifier": {
+        "doi": "10.1016/j.jvcir.2014.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvcir.2014.06.009"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fast and scalable lock methods for video coding on many-core architecture” [J. Vis. Commun. Image R. 25(7) (2014) 1758–1762]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.foreco.2016.05.038","type":"err"},"doi":"10.1016/j.foreco.2015.03.017","journal":"Forest Ecology and Management","publisher":"Elsevier BV","title":"Corrigendum to “Nitrogen fixation rates associated with the feather mosses Pleurozium schreberi and Hylocomium splendens during forest stand development following clear-cutting” [Forest Ecol. Manage. 347 (2015) 130–139]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495722346140,
+      "identifier": {
+        "doi": "10.1016/j.foreco.2016.05.038"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foreco.2015.03.017"
+  },
+  "journal": "Forest Ecology and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nitrogen fixation rates associated with the feather mosses Pleurozium schreberi and Hylocomium splendens during forest stand development following clear-cutting” [Forest Ecol. Manage. 347 (2015) 130–139]"
+}

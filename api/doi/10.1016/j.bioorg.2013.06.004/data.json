@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.bioorg.2014.08.004","type":"err"},"doi":"10.1016/j.bioorg.2013.06.004","journal":"Bioorganic Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Analysis of claims of enhanced enzyme catalysis by inorganic colloidosomes” [Bioorg. Chem. 49C (2013) 59–60]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496005240776,
+      "identifier": {
+        "doi": "10.1016/j.bioorg.2014.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bioorg.2013.06.004"
+  },
+  "journal": "Bioorganic Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analysis of claims of enhanced enzyme catalysis by inorganic colloidosomes” [Bioorg. Chem. 49C (2013) 59–60]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.intimp.2013.04.021","type":"err"},"doi":"10.1016/j.intimp.2012.07.019","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Preventive effect of imperatorin on acute lung injury induced by lipopolysaccharide in mice” [Int. Immunopharmacol. 14 (2012) 369–374]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496017095338,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2013.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2012.07.019"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preventive effect of imperatorin on acute lung injury induced by lipopolysaccharide in mice” [Int. Immunopharmacol. 14 (2012) 369–374]"
+}

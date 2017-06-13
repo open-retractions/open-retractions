@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380067200000,"doi":"10.1016/j.applthermaleng.2013.03.049","type":"err"},"doi":"10.1016/j.applthermaleng.2013.01.002","journal":"Applied Thermal Engineering","publisher":"Elsevier BV","title":"Erratum to “Modeling, analysis, and modifications of different GT cooling techniques for modern commercial combined cycle power plants with reducing the irreversibility of the HRSG” [Appl. Therm. Eng. 53 (1) (29 April 2013) 131–146]"}
+{
+  "retracted": false,
+  "timestamp": 1380067200000,
+  "updates": [
+    {
+      "timestamp": 1496029723636,
+      "identifier": {
+        "doi": "10.1016/j.applthermaleng.2013.03.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.applthermaleng.2013.01.002"
+  },
+  "journal": "Applied Thermal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Modeling, analysis, and modifications of different GT cooling techniques for modern commercial combined cycle power plants with reducing the irreversibility of the HRSG” [Appl. Therm. Eng. 53 (1) (29 April 2013) 131–146]"
+}

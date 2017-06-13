@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1186/s12870-016-0801-9","type":"correction"},"doi":"10.1186/s12870-016-0779-3","journal":"BMC Plant Biology","publisher":"Springer Nature","title":"Erratum to: SNP-based analysis of genetic diversity reveals important alleles associated with seed size in rice"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495718655899,
+      "identifier": {
+        "doi": "10.1186/s12870-016-0801-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12870-016-0779-3"
+  },
+  "journal": "BMC Plant Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: SNP-based analysis of genetic diversity reveals important alleles associated with seed size in rice"
+}

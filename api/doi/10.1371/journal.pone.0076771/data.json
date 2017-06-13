@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384819200000,"doi":"10.1371/annotation/058e5bbd-d902-4936-b763-a5a3c5cc995e","type":"correction"},"doi":"10.1371/journal.pone.0076771","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Hybrid Adeno-Associated Viral Vectors Utilizing Transposase-Mediated Somatic Integration for Stable Transgene Expression in Human Cells"}
+{
+  "retracted": false,
+  "timestamp": 1384819200000,
+  "updates": [
+    {
+      "timestamp": 1495998478399,
+      "identifier": {
+        "doi": "10.1371/annotation/058e5bbd-d902-4936-b763-a5a3c5cc995e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0076771"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hybrid Adeno-Associated Viral Vectors Utilizing Transposase-Mediated Somatic Integration for Stable Transgene Expression in Human Cells"
+}

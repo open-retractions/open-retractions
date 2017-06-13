@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1136/medethics-2015-102811corr1","type":"correction"},"doi":"10.1136/medethics-2014-102282","journal":"Journal of Medical Ethics","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496028634350,
+      "identifier": {
+        "doi": "10.1136/medethics-2015-102811corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/medethics-2014-102282"
+  },
+  "publisher": "BMJ",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.virol.2013.09.008","type":"err"},"doi":"10.1016/j.virol.2013.07.010","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “A mycoreovirus suppresses RNA silencing in the white root rot fungus, Rosellinia necatrix” [Virology 444 (2013) 409–416]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496048562528,
+      "identifier": {
+        "doi": "10.1016/j.virol.2013.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2013.07.010"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A mycoreovirus suppresses RNA silencing in the white root rot fungus, Rosellinia necatrix” [Virology 444 (2013) 409–416]"
+}

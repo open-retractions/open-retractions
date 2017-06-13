@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.cellsig.2015.01.006","type":"err"},"doi":"10.1016/j.cellsig.2014.05.006","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “MicroRNAs: Emerging roles in adipogenesis and obesity” [Cell. Signal. 26(9) (2014): 1888–9623]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496038187398,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2015.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2014.05.006"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MicroRNAs: Emerging roles in adipogenesis and obesity” [Cell. Signal. 26(9) (2014): 1888–9623]"
+}

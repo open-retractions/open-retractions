@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372118400000,"doi":"10.1063/1.4812518","type":"correction"},"doi":"10.1063/1.4807751","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “DELICIOUS III: A multipurpose double imaging particle coincidence spectrometer for gas phase vacuum ultraviolet photodynamics studies” [Rev. Sci. Instrum. 84, 053112 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1372118400000,
+  "updates": [
+    {
+      "timestamp": 1496028718512,
+      "identifier": {
+        "doi": "10.1063/1.4812518"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4807751"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “DELICIOUS III: A multipurpose double imaging particle coincidence spectrometer for gas phase vacuum ultraviolet photodynamics studies” [Rev. Sci. Instrum. 84, 053112 (2013)]"
+}

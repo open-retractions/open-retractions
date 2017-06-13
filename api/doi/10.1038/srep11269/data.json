@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1038/srep13506","type":"correction"},"doi":"10.1038/srep11269","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Nicotine absorption from electronic cigarette use: comparison between experienced consumers (vapers) and naïve users (smokers)"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027422355,
+      "identifier": {
+        "doi": "10.1038/srep13506"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep11269"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Nicotine absorption from electronic cigarette use: comparison between experienced consumers (vapers) and naïve users (smokers)"
+}

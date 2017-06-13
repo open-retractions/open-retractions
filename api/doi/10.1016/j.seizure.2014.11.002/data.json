@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.seizure.2015.06.012","type":"err"},"doi":"10.1016/j.seizure.2014.11.002","journal":"Seizure","publisher":"Elsevier BV","title":"Corrigendum to “Do pure absence seizures occur in myoclonic epilepsy of infancy? A case series” [Seizure: Eur. J. Epilepsy 24 (2015) 8–11]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496014354618,
+      "identifier": {
+        "doi": "10.1016/j.seizure.2015.06.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.seizure.2014.11.002"
+  },
+  "journal": "Seizure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Do pure absence seizures occur in myoclonic epilepsy of infancy? A case series” [Seizure: Eur. J. Epilepsy 24 (2015) 8–11]"
+}

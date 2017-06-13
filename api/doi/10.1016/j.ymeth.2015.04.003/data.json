@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ymeth.2015.12.006","type":"err"},"doi":"10.1016/j.ymeth.2015.04.003","journal":"Methods","publisher":"Elsevier BV","title":"Corrigendum to “PlantMirnaT: miRNA and mRNA integrated analysis fully utilizing characteristics of plant sequencing data” [Methods 83 (2015) 80–87]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496054902215,
+      "identifier": {
+        "doi": "10.1016/j.ymeth.2015.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymeth.2015.04.003"
+  },
+  "journal": "Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PlantMirnaT: miRNA and mRNA integrated analysis fully utilizing characteristics of plant sequencing data” [Methods 83 (2015) 80–87]"
+}

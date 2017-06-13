@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423785600000,"doi":"10.1007/s13280-015-0632-1","type":"correction"},"doi":"10.1007/s13280-013-0448-9","journal":"AMBIO","publisher":"Springer Nature","title":"Erratum to: All fish for China?"}
+{
+  "retracted": false,
+  "timestamp": 1423785600000,
+  "updates": [
+    {
+      "timestamp": 1496043592063,
+      "identifier": {
+        "doi": "10.1007/s13280-015-0632-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13280-013-0448-9"
+  },
+  "journal": "AMBIO",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: All fish for China?"
+}

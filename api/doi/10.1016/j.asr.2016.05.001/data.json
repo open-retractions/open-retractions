@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.asr.2016.08.001","type":"erratum"},"doi":"10.1016/j.asr.2016.05.001","journal":"Advances in Space Research","publisher":"Elsevier BV","title":"Corrigendum to “Water outburst activity in Comet 17P/Holmes” [Adv. Space Res. 58 (2016) 444–452]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495738189255,
+      "identifier": {
+        "doi": "10.1016/j.asr.2016.08.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asr.2016.05.001"
+  },
+  "journal": "Advances in Space Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Water outburst activity in Comet 17P/Holmes” [Adv. Space Res. 58 (2016) 444–452]"
+}

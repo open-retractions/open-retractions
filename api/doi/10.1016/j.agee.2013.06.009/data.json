@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.agee.2014.08.017","type":"err"},"doi":"10.1016/j.agee.2013.06.009","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to “A survey of soil phosphorus (P) and nitrogen (N) in Swedish horse paddocks” [Agric. Ecosyst. Environ. 178, 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496007097776,
+      "identifier": {
+        "doi": "10.1016/j.agee.2014.08.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2013.06.009"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A survey of soil phosphorus (P) and nitrogen (N) in Swedish horse paddocks” [Agric. Ecosyst. Environ. 178, 1–9]"
+}

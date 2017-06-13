@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jss.2015.04.039","type":"err"},"doi":"10.1016/j.jss.2015.01.022","journal":"Journal of Systems and Software","publisher":"Elsevier BV","title":"Corrigendum to ‛On-demand data broadcast with deadlines for avoiding conflicts in wireless networks’ [The Journal of Systems and Software 103 (2015) 118–127]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495995716299,
+      "identifier": {
+        "doi": "10.1016/j.jss.2015.04.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jss.2015.01.022"
+  },
+  "journal": "Journal of Systems and Software",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‛On-demand data broadcast with deadlines for avoiding conflicts in wireless networks’ [The Journal of Systems and Software 103 (2015) 118–127]"
+}

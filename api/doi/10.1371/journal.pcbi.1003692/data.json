@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414972800000,"doi":"10.1371/journal.pcbi.1003999","type":"correction"},"doi":"10.1371/journal.pcbi.1003692","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: A Likelihood-Based Approach to Identifying Contaminated Food Products Using Sales Data: Performance and Challenges"}
+{
+  "retracted": false,
+  "timestamp": 1414972800000,
+  "updates": [
+    {
+      "timestamp": 1496018893149,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003999"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003692"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Likelihood-Based Approach to Identifying Contaminated Food Products Using Sales Data: Performance and Challenges"
+}

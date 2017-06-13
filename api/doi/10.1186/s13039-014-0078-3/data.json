@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475539200000,"doi":"10.1186/s13039-016-0287-z","type":"correction"},"doi":"10.1186/s13039-014-0078-3","journal":"Molecular Cytogenetics","publisher":"Springer Nature","title":"Erratum to: Delineation variable genotype/phenotype correlations of 6q27 terminal deletion derived from dic(6;18)(q27;p10)"}
+{
+  "retracted": false,
+  "timestamp": 1475539200000,
+  "updates": [
+    {
+      "timestamp": 1495645549661,
+      "identifier": {
+        "doi": "10.1186/s13039-016-0287-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13039-014-0078-3"
+  },
+  "journal": "Molecular Cytogenetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Delineation variable genotype/phenotype correlations of 6q27 terminal deletion derived from dic(6;18)(q27;p10)"
+}

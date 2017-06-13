@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391385600000,"doi":"10.1080/13562517.2014.872865","type":"correction"},"doi":"10.1080/13562517.2013.860103","journal":"Teaching in Higher Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1391385600000,
+  "updates": [
+    {
+      "timestamp": 1496009762635,
+      "identifier": {
+        "doi": "10.1080/13562517.2014.872865"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13562517.2013.860103"
+  },
+  "journal": "Teaching in Higher Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

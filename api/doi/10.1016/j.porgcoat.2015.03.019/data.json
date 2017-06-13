@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.porgcoat.2015.05.011","type":"err"},"doi":"10.1016/j.porgcoat.2015.03.019","journal":"Progress in Organic Coatings","publisher":"Elsevier BV","title":"Corrigendum to “Influence of oxygen plasma treatment parameters on poly(vinylidene fluoride) electrospun fiber mats wettability” [Prog. Org. Coat. 85 (2015) 151–158]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496004877050,
+      "identifier": {
+        "doi": "10.1016/j.porgcoat.2015.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.porgcoat.2015.03.019"
+  },
+  "journal": "Progress in Organic Coatings",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of oxygen plasma treatment parameters on poly(vinylidene fluoride) electrospun fiber mats wettability” [Prog. Org. Coat. 85 (2015) 151–158]"
+}

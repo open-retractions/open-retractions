@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450656000000,"doi":"10.1007/s00775-015-1321-z","type":"correction"},"doi":"10.1007/s00775-011-0835-2","journal":"JBIC Journal of Biological Inorganic Chemistry","publisher":"Springer Nature","title":"Erratum to: Structure and stability of the molybdenum cofactor intermediate cyclic pyranopterin monophosphate"}
+{
+  "retracted": false,
+  "timestamp": 1450656000000,
+  "updates": [
+    {
+      "timestamp": 1496055031959,
+      "identifier": {
+        "doi": "10.1007/s00775-015-1321-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00775-011-0835-2"
+  },
+  "journal": "JBIC Journal of Biological Inorganic Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Structure and stability of the molybdenum cofactor intermediate cyclic pyranopterin monophosphate"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.vacun.2015.07.008","type":"err"},"doi":"10.1016/j.vacun.2015.02.002","journal":"Vacunas","publisher":"Elsevier BV","title":"Fe de errores de «Estimación del impacto de la vacunación antigripal con adyuvante MF59 en población mayor de 64 años para el Sistema Nacional de Salud: efectos y costes»"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496029249175,
+      "identifier": {
+        "doi": "10.1016/j.vacun.2015.07.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vacun.2015.02.002"
+  },
+  "journal": "Vacunas",
+  "publisher": "Elsevier BV",
+  "title": "Fe de errores de «Estimación del impacto de la vacunación antigripal con adyuvante MF59 en población mayor de 64 años para el Sistema Nacional de Salud: efectos y costes»"
+}

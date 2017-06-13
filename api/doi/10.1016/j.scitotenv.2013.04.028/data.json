@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.scitotenv.2013.09.046","type":"err"},"doi":"10.1016/j.scitotenv.2013.04.028","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Description of a novel viral tool to identify and quantify ovine fecal pollution in the environment” [Sci. Total Environ. 458–460(2013) 355–360]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496051774066,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2013.09.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2013.04.028"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Description of a novel viral tool to identify and quantify ovine fecal pollution in the environment” [Sci. Total Environ. 458–460(2013) 355–360]"
+}

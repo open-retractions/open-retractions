@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341878400000,"doi":"10.1371/annotation/e4275a34-48e1-42b8-8615-f59aacaf3733","type":"correction"},"doi":"10.1371/journal.pone.0033332","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Extensions of MADM (Mosaic Analysis with Double Markers) in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1341878400000,
+  "updates": [
+    {
+      "timestamp": 1495921241079,
+      "identifier": {
+        "doi": "10.1371/annotation/e4275a34-48e1-42b8-8615-f59aacaf3733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033332"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Extensions of MADM (Mosaic Analysis with Double Markers) in Mice"
+}

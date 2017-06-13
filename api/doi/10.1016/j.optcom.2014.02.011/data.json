@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1016/j.optcom.2014.08.044","type":"err"},"doi":"10.1016/j.optcom.2014.02.011","journal":"Optics Communications","publisher":"Elsevier BV","title":"Whole article corrigendum: “Surface-plasmon-enhanced GaN-LED based on the multilayered rectangular nano-grating” [Optics Communications 322 (2014) 66-72]"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1496025748248,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2014.08.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2014.02.011"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Whole article corrigendum: “Surface-plasmon-enhanced GaN-LED based on the multilayered rectangular nano-grating” [Optics Communications 322 (2014) 66-72]"
+}

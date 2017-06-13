@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490832000000,"doi":"10.1080/08865655.2017.1302645","type":"correction"},"doi":"10.1080/08865655.2016.1222880","journal":"Journal of Borderlands Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1490832000000,
+  "updates": [
+    {
+      "timestamp": 1495734059380,
+      "identifier": {
+        "doi": "10.1080/08865655.2017.1302645"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08865655.2016.1222880"
+  },
+  "journal": "Journal of Borderlands Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

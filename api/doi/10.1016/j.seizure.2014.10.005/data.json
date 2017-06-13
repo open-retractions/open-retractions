@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.seizure.2016.12.010","type":"erratum"},"doi":"10.1016/j.seizure.2014.10.005","journal":"Seizure","publisher":"Elsevier BV","title":"Erratum to “Hypoglycemia and risk of seizures: A retrospective cross-sectional study” [Seizure (2015) 147–149]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495669478400,
+      "identifier": {
+        "doi": "10.1016/j.seizure.2016.12.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.seizure.2014.10.005"
+  },
+  "journal": "Seizure",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hypoglycemia and risk of seizures: A retrospective cross-sectional study” [Seizure (2015) 147–149]"
+}

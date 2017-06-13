@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1016/j.msea.2016.03.003","type":"err"},"doi":"10.1016/j.msea.2013.02.049","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to “Fe–Cr–Ni–Zr alloys with bi-modal grain size distribution: Synthesis, mechanical properties and oxidation resistance” [Mater. Sci. Eng. A 574 (2013) 235–242]"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495657503536,
+      "identifier": {
+        "doi": "10.1016/j.msea.2016.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2013.02.049"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Fe–Cr–Ni–Zr alloys with bi-modal grain size distribution: Synthesis, mechanical properties and oxidation resistance” [Mater. Sci. Eng. A 574 (2013) 235–242]"
+}

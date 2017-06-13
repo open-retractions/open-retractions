@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452643200000,"doi":"10.1016/j.chom.2015.12.008","type":"erratum"},"doi":"10.1016/j.chom.2015.07.005","journal":"Cell Host & Microbe","publisher":"Elsevier BV","title":"Posttranslational Modifications of the Master Transcriptional Regulator NPR1 Enable Dynamic but Tight Control of Plant Immune Responses"}
+{
+  "retracted": false,
+  "timestamp": 1452643200000,
+  "updates": [
+    {
+      "timestamp": 1495641672434,
+      "identifier": {
+        "doi": "10.1016/j.chom.2015.12.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chom.2015.07.005"
+  },
+  "journal": "Cell Host & Microbe",
+  "publisher": "Elsevier BV",
+  "title": "Posttranslational Modifications of the Master Transcriptional Regulator NPR1 Enable Dynamic but Tight Control of Plant Immune Responses"
+}

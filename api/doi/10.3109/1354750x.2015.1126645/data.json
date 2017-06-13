@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459555200000,"doi":"10.3109/1354750x.2016.1167324","type":"correction"},"doi":"10.3109/1354750x.2015.1126645","journal":"Biomarkers","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459555200000,
+  "updates": [
+    {
+      "timestamp": 1495658604982,
+      "identifier": {
+        "doi": "10.3109/1354750x.2016.1167324"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/1354750x.2015.1126645"
+  },
+  "journal": "Biomarkers",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

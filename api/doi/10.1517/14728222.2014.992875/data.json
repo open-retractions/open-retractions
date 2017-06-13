@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489968000000,"doi":"10.1080/14728222.2017.1308648","type":"correction"},"doi":"10.1517/14728222.2014.992875","journal":"Expert Opinion on Therapeutic Targets","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1489968000000,
+  "updates": [
+    {
+      "timestamp": 1495727307686,
+      "identifier": {
+        "doi": "10.1080/14728222.2017.1308648"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/14728222.2014.992875"
+  },
+  "journal": "Expert Opinion on Therapeutic Targets",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

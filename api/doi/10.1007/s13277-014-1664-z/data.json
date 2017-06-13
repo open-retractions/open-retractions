@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404345600000,"doi":"10.1007/s13277-014-2291-4","type":"correction"},"doi":"10.1007/s13277-014-1664-z","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Differential expression of Pim-3, c-Myc, and p-p27 proteins in adenocarcinomas of the gastric cardia and distal stomach"}
+{
+  "retracted": false,
+  "timestamp": 1404345600000,
+  "updates": [
+    {
+      "timestamp": 1496050856534,
+      "identifier": {
+        "doi": "10.1007/s13277-014-2291-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-014-1664-z"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Differential expression of Pim-3, c-Myc, and p-p27 proteins in adenocarcinomas of the gastric cardia and distal stomach"
+}

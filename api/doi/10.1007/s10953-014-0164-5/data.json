@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400803200000,"doi":"10.1007/s10953-014-0183-2","type":"correction"},"doi":"10.1007/s10953-014-0164-5","journal":"Journal of Solution Chemistry","publisher":"Springer Nature","title":"Erratum to: DNA Binding and Equilibrium Investigation of the Interaction of a Model Pd(II) Complex with Some Selected Biorelevant Ligands"}
+{
+  "retracted": false,
+  "timestamp": 1400803200000,
+  "updates": [
+    {
+      "timestamp": 1496040455817,
+      "identifier": {
+        "doi": "10.1007/s10953-014-0183-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10953-014-0164-5"
+  },
+  "journal": "Journal of Solution Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: DNA Binding and Equilibrium Investigation of the Interaction of a Model Pd(II) Complex with Some Selected Biorelevant Ligands"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395964800000,"doi":"10.1016/j.lfs.2014.03.001","type":"err"},"doi":"10.1016/j.lfs.2013.05.003","journal":"Life Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Endothelial relaxation mechanisms and nitrative stress are partly restored by vitamin D3 therapy in a rat model of polycystic ovary syndrome” [Life Sci. 93 (2013) 133–138]"}
+{
+  "retracted": false,
+  "timestamp": 1395964800000,
+  "updates": [
+    {
+      "timestamp": 1496027266688,
+      "identifier": {
+        "doi": "10.1016/j.lfs.2014.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lfs.2013.05.003"
+  },
+  "journal": "Life Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Endothelial relaxation mechanisms and nitrative stress are partly restored by vitamin D3 therapy in a rat model of polycystic ovary syndrome” [Life Sci. 93 (2013) 133–138]"
+}

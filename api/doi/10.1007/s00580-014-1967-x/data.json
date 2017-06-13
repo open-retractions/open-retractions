@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410825600000,"doi":"10.1007/s00580-014-1998-3","type":"correction"},"doi":"10.1007/s00580-014-1967-x","journal":"Comparative Clinical Pathology","publisher":"Springer Nature","title":"Erratum to: A review of α-amylase inhibitors on weight loss and glycemic control in pathological state such as obesity and diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1410825600000,
+  "updates": [
+    {
+      "timestamp": 1496006197304,
+      "identifier": {
+        "doi": "10.1007/s00580-014-1998-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00580-014-1967-x"
+  },
+  "journal": "Comparative Clinical Pathology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A review of α-amylase inhibitors on weight loss and glycemic control in pathological state such as obesity and diabetes"
+}

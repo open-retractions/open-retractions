@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1172102400000,"doi":"10.1186/1471-2407-7-32","type":"correction"},"doi":"10.1186/1471-2407-6-151","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Rapid chemokinetic movement and the invasive potential of lung cancer cells; a functional molecular study"}
+{
+  "retracted": false,
+  "timestamp": 1172102400000,
+  "updates": [
+    {
+      "timestamp": 1495933289158,
+      "identifier": {
+        "doi": "10.1186/1471-2407-7-32"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2407-6-151"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rapid chemokinetic movement and the invasive potential of lung cancer cells; a functional molecular study"
+}

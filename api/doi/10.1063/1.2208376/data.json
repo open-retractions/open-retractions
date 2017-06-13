@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1156118400000,"doi":"10.1063/1.2337545","type":"erratum"},"doi":"10.1063/1.2208376","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “X-ray photoconductivity due to trap-sensitive relaxation of hot carriers” [Appl. Phys. Lett. 88, 222106 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1156118400000,
+  "updates": [
+    {
+      "timestamp": 1495837027504,
+      "identifier": {
+        "doi": "10.1063/1.2337545"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2208376"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “X-ray photoconductivity due to trap-sensitive relaxation of hot carriers” [Appl. Phys. Lett. 88, 222106 (2006)]"
+}

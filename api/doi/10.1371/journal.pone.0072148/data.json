@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379894400000,"doi":"10.1371/annotation/8824e161-bf8f-4f78-81e0-a62a1540276d","type":"correction"},"doi":"10.1371/journal.pone.0072148","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Drug-Induced Acute Myocardial Infarction: Identifying ‘Prime Suspects’ from Electronic Healthcare Records-Based Surveillance System"}
+{
+  "retracted": false,
+  "timestamp": 1379894400000,
+  "updates": [
+    {
+      "timestamp": 1496025195459,
+      "identifier": {
+        "doi": "10.1371/annotation/8824e161-bf8f-4f78-81e0-a62a1540276d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0072148"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Drug-Induced Acute Myocardial Infarction: Identifying ‘Prime Suspects’ from Electronic Healthcare Records-Based Surveillance System"
+}

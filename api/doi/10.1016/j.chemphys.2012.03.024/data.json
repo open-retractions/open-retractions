@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401753600000,"doi":"10.1016/j.chemphys.2014.01.001","type":"err"},"doi":"10.1016/j.chemphys.2012.03.024","journal":"Chemical Physics","publisher":"Elsevier BV","title":"Corrigendum to “Wavelet-based linear-response time-dependent density-functional theory: Excited-states modeling of fluorescent compounds with UV–vis spectra calculations” [Chem. Phys. 402 (2012) 29]"}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496030788760,
+      "identifier": {
+        "doi": "10.1016/j.chemphys.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemphys.2012.03.024"
+  },
+  "journal": "Chemical Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Wavelet-based linear-response time-dependent density-functional theory: Excited-states modeling of fluorescent compounds with UV–vis spectra calculations” [Chem. Phys. 402 (2012) 29]"
+}

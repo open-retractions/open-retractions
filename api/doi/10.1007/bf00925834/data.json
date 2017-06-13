@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":696902400000,"doi":"10.1007/bf00930620","type":"correction"},"doi":"10.1007/bf00925834","journal":"Journal of VLSI signal processing systems for signal, image and video technology","publisher":"Springer Nature","title":"Erratum to: A systolic array for pyramidal algorithms"}
+{
+  "retracted": false,
+  "timestamp": 696902400000,
+  "updates": [
+    {
+      "timestamp": 1495877522386,
+      "identifier": {
+        "doi": "10.1007/bf00930620"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00925834"
+  },
+  "journal": "Journal of VLSI signal processing systems for signal, image and video technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A systolic array for pyramidal algorithms"
+}

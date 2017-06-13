@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.bbi.2013.10.011","type":"err"},"doi":"10.1016/j.bbi.2012.12.017","journal":"Brain, Behavior, and Immunity","publisher":"Elsevier BV","title":"Corrigendum to “Microglial activation, increased TNF and SERT expression in the prefrontal cortex define stress-altered behaviour in mice susceptible to anhedonia” [Brain, Behavior, and Immunity 29 (2013) 136–146]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495994743860,
+      "identifier": {
+        "doi": "10.1016/j.bbi.2013.10.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbi.2012.12.017"
+  },
+  "journal": "Brain, Behavior, and Immunity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Microglial activation, increased TNF and SERT expression in the prefrontal cortex define stress-altered behaviour in mice susceptible to anhedonia” [Brain, Behavior, and Immunity 29 (2013) 136–146]"
+}

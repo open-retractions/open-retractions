@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1080/00343404.2016.1215598","type":"correction"},"doi":"10.1080/00343404.2016.1185516","journal":"Regional Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495732253843,
+      "identifier": {
+        "doi": "10.1080/00343404.2016.1215598"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00343404.2016.1185516"
+  },
+  "journal": "Regional Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

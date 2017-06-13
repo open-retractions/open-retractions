@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.psep.2015.02.009","type":"err"},"doi":"10.1205/psep.05040","journal":"Process Safety and Environmental Protection","publisher":"Elsevier BV","title":"Corrigendum to “Fly-ash scrubbing in a tapered bubble column scrubber” [Process Saf. Environ. Prot. 84 (2006) 54–62]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049937130,
+      "identifier": {
+        "doi": "10.1016/j.psep.2015.02.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1205/psep.05040"
+  },
+  "journal": "Process Safety and Environmental Protection",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fly-ash scrubbing in a tapered bubble column scrubber” [Process Saf. Environ. Prot. 84 (2006) 54–62]"
+}

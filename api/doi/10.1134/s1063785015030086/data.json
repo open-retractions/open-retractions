@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1134/s1063785016090273","type":"correction"},"doi":"10.1134/s1063785015030086","journal":"Technical Physics Letters","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “A microfluidic chip with hydrodynamic traps for in vitro microscopic investigations of single cells”"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647621970,
+      "identifier": {
+        "doi": "10.1134/s1063785016090273"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063785015030086"
+  },
+  "journal": "Technical Physics Letters",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “A microfluidic chip with hydrodynamic traps for in vitro microscopic investigations of single cells”"
+}

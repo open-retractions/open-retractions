@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.pharep.2015.05.015","type":"err"},"doi":"10.1016/j.pharep.2014.09.008","journal":"Pharmacological Reports","publisher":"Elsevier BV","title":"Erratum to “Synthesis and anticancer activity of 7-hydroxycoumarinyl gallates” [Pharmacol Rep 67 (2015) 236–244]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496002869589,
+      "identifier": {
+        "doi": "10.1016/j.pharep.2015.05.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pharep.2014.09.008"
+  },
+  "journal": "Pharmacological Reports",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Synthesis and anticancer activity of 7-hydroxycoumarinyl gallates” [Pharmacol Rep 67 (2015) 236–244]"
+}

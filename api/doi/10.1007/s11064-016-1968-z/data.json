@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468800000000,"doi":"10.1007/s11064-016-2005-y","type":"correction"},"doi":"10.1007/s11064-016-1968-z","journal":"Neurochemical Research","publisher":"Springer Nature","title":"Erratum to: Cortical Astrocytes Acutely Exposed to the Monomethylarsonous Acid (MMAIII) Show Increased Pro-inflammatory Cytokines Gene Expression that is Consistent with APP and BACE-1 Over-expression"}
+{
+  "retracted": false,
+  "timestamp": 1468800000000,
+  "updates": [
+    {
+      "timestamp": 1495729436748,
+      "identifier": {
+        "doi": "10.1007/s11064-016-2005-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11064-016-1968-z"
+  },
+  "journal": "Neurochemical Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cortical Astrocytes Acutely Exposed to the Monomethylarsonous Acid (MMAIII) Show Increased Pro-inflammatory Cytokines Gene Expression that is Consistent with APP and BACE-1 Over-expression"
+}

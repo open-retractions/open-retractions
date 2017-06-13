@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.asoc.2015.02.031","type":"err"},"doi":"10.1016/j.asoc.2013.05.016","journal":"Applied Soft Computing","publisher":"Elsevier BV","title":"Corrigendum to “Three-and-six-month-before forecast of water resources in a karst aquifer in the Terminio massif (Southern Italy)” [Appl. Soft Comput. 13 (2013) 4077–4086]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496047166971,
+      "identifier": {
+        "doi": "10.1016/j.asoc.2015.02.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.asoc.2013.05.016"
+  },
+  "journal": "Applied Soft Computing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Three-and-six-month-before forecast of water resources in a karst aquifer in the Terminio massif (Southern Italy)” [Appl. Soft Comput. 13 (2013) 4077–4086]"
+}

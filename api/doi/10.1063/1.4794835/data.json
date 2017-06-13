@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366070400000,"doi":"10.1063/1.4801835","type":"correction"},"doi":"10.1063/1.4794835","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Non-monotonic dependence of the conductivity of carbon nanotube-filled elastomers subjected to uniaxial compression/decompression” [J. Appl. Phys. 113, 103706 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1366070400000,
+  "updates": [
+    {
+      "timestamp": 1496012780903,
+      "identifier": {
+        "doi": "10.1063/1.4801835"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4794835"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Non-monotonic dependence of the conductivity of carbon nanotube-filled elastomers subjected to uniaxial compression/decompression” [J. Appl. Phys. 113, 103706 (2013)]"
+}

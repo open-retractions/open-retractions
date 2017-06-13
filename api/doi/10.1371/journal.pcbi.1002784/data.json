@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359590400000,"doi":"10.1371/annotation/6b5adbad-8944-4ab4-acd9-ac6f0d3e624e","type":"correction"},"doi":"10.1371/journal.pcbi.1002784","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: The Ortholog Conjecture Is Untestable by the Current Gene Ontology but Is Supported by RNA Sequencing Data"}
+{
+  "retracted": false,
+  "timestamp": 1359590400000,
+  "updates": [
+    {
+      "timestamp": 1496012448730,
+      "identifier": {
+        "doi": "10.1371/annotation/6b5adbad-8944-4ab4-acd9-ac6f0d3e624e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1002784"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Ortholog Conjecture Is Untestable by the Current Gene Ontology but Is Supported by RNA Sequencing Data"
+}

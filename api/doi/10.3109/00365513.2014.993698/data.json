@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1080/00365513.2016.1200262","type":"correction"},"doi":"10.3109/00365513.2014.993698","journal":"Scandinavian Journal of Clinical and Laboratory Investigation","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495722218719,
+      "identifier": {
+        "doi": "10.1080/00365513.2016.1200262"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/00365513.2014.993698"
+  },
+  "journal": "Scandinavian Journal of Clinical and Laboratory Investigation",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

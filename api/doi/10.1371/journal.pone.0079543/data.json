@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388966400000,"doi":"10.1371/annotation/3ba18ef8-8c9c-45ab-9bc5-ad571a54a28c","type":"correction"},"doi":"10.1371/journal.pone.0079543","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Trastuzumab Alters the Expression of Genes Essential for Cardiac Function and Induces Ultrastructural Changes of Cardiomyocytes in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1388966400000,
+  "updates": [
+    {
+      "timestamp": 1496010529950,
+      "identifier": {
+        "doi": "10.1371/annotation/3ba18ef8-8c9c-45ab-9bc5-ad571a54a28c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0079543"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Trastuzumab Alters the Expression of Genes Essential for Cardiac Function and Induces Ultrastructural Changes of Cardiomyocytes in Mice"
+}

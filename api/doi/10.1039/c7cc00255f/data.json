@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488844800000,"doi":"10.1039/c7cc90091k","type":"correction"},"doi":"10.1039/c7cc00255f","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Quantifying and understanding the steric properties of N-heterocyclic carbenes"}
+{
+  "retracted": false,
+  "timestamp": 1488844800000,
+  "updates": [
+    {
+      "timestamp": 1495727071766,
+      "identifier": {
+        "doi": "10.1039/c7cc90091k"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c7cc00255f"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Quantifying and understanding the steric properties of N-heterocyclic carbenes"
+}

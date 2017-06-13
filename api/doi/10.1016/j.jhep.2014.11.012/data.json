@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.jhep.2015.04.002","type":"err"},"doi":"10.1016/j.jhep.2014.11.012","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Erratum to “The CLIF Consortium Acute Decompensation score (CLIF-C ADs) for prognosis of hospitalised cirrhotic patients without acute-on-chronic liver failure” [J Hepatol 2015;62:831–840]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495997540375,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2014.11.012"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The CLIF Consortium Acute Decompensation score (CLIF-C ADs) for prognosis of hospitalised cirrhotic patients without acute-on-chronic liver failure” [J Hepatol 2015;62:831–840]"
+}

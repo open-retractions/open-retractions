@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-231465600000,"doi":"10.1007/bf01378173","type":"correction"},"doi":"10.1007/bf01378527","journal":"Zeitschrift für Physik A Hadrons and nuclei","publisher":"Springer Nature","title":"Erratum zu: Wärmeausdehnung von H2O- und D2O-Einkristallen"}
+{
+  "retracted": false,
+  "timestamp": -231465600000,
+  "updates": [
+    {
+      "timestamp": 1495932591522,
+      "identifier": {
+        "doi": "10.1007/bf01378173"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01378527"
+  },
+  "journal": "Zeitschrift für Physik A Hadrons and nuclei",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Wärmeausdehnung von H2O- und D2O-Einkristallen"
+}

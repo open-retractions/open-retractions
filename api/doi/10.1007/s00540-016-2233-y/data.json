@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477008000000,"doi":"10.1007/s00540-016-2269-z","type":"correction"},"doi":"10.1007/s00540-016-2233-y","journal":"Journal of Anesthesia","publisher":"Springer Nature","title":"Erratum to: Remifentanil for labor analgesia: a comprehensive review"}
+{
+  "retracted": false,
+  "timestamp": 1477008000000,
+  "updates": [
+    {
+      "timestamp": 1495650857000,
+      "identifier": {
+        "doi": "10.1007/s00540-016-2269-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00540-016-2233-y"
+  },
+  "journal": "Journal of Anesthesia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Remifentanil for labor analgesia: a comprehensive review"
+}

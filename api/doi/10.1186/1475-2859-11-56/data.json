@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468368000000,"doi":"10.1186/s12934-016-0512-9","type":"correction"},"doi":"10.1186/1475-2859-11-56","journal":"Microbial Cell Factories","publisher":"Springer Nature","title":"Erratum to: SHuffle, a novel Escherichia coli protein expression strain capable of correctly folding disulfide bonded proteins in its cytoplasm"}
+{
+  "retracted": false,
+  "timestamp": 1468368000000,
+  "updates": [
+    {
+      "timestamp": 1495726047992,
+      "identifier": {
+        "doi": "10.1186/s12934-016-0512-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1475-2859-11-56"
+  },
+  "journal": "Microbial Cell Factories",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: SHuffle, a novel Escherichia coli protein expression strain capable of correctly folding disulfide bonded proteins in its cytoplasm"
+}

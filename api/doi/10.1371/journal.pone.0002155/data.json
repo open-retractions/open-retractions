@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1211932800000,"doi":"10.1371/annotation/58313075-ff2e-4268-9272-e942aed8d2f6","type":"correction"},"doi":"10.1371/journal.pone.0002155","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: MGluR5 Mediates the Interaction between Late-LTP, Network Activity, and Learning"}
+{
+  "retracted": false,
+  "timestamp": 1211932800000,
+  "updates": [
+    {
+      "timestamp": 1496025195397,
+      "identifier": {
+        "doi": "10.1371/annotation/58313075-ff2e-4268-9272-e942aed8d2f6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002155"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: MGluR5 Mediates the Interaction between Late-LTP, Network Activity, and Learning"
+}

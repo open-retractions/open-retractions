@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1186/s11671-015-1014-0","type":"correction"},"doi":"10.1186/s11671-014-0705-2","journal":"Nanoscale Research Letters","publisher":"Springer Nature","title":"Erratum: The Enhanced Anticoagulation for Graphene Induced by COOH+ ion Implantation"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027121688,
+      "identifier": {
+        "doi": "10.1186/s11671-015-1014-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s11671-014-0705-2"
+  },
+  "journal": "Nanoscale Research Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The Enhanced Anticoagulation for Graphene Induced by COOH+ ion Implantation"
+}

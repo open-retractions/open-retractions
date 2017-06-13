@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1073/pnas.1702629114","type":"correction"},"doi":"10.1073/pnas.0706447105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hou et al., Homeostatic regulation of AMPA receptor expression at single hippocampal synapses"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495725406904,
+      "identifier": {
+        "doi": "10.1073/pnas.1702629114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0706447105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hou et al., Homeostatic regulation of AMPA receptor expression at single hippocampal synapses"
+}

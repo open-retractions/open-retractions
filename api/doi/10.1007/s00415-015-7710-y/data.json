@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447459200000,"doi":"10.1007/s00415-015-7943-9","type":"correction"},"doi":"10.1007/s00415-015-7710-y","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Redefining phenotypes associated with mitochondrial DNA single deletion"}
+{
+  "retracted": false,
+  "timestamp": 1447459200000,
+  "updates": [
+    {
+      "timestamp": 1496045866405,
+      "identifier": {
+        "doi": "10.1007/s00415-015-7943-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-015-7710-y"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Redefining phenotypes associated with mitochondrial DNA single deletion"
+}

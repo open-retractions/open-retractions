@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226016000000,"doi":"10.1007/bf02528085","type":"correction"},"doi":"10.1007/bf02526781","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum au bulletin géodésique"}
+{
+  "retracted": false,
+  "timestamp": 1226016000000,
+  "updates": [
+    {
+      "timestamp": 1495880633056,
+      "identifier": {
+        "doi": "10.1007/bf02528085"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02526781"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum au bulletin géodésique"
+}

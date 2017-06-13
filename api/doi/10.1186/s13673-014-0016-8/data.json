@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428364800000,"doi":"10.1186/s13673-015-0026-1","type":"correction"},"doi":"10.1186/s13673-014-0016-8","journal":"Human-centric Computing and Information Sciences","publisher":"Springer Nature","title":"Erratum to: An optimizing pipeline stall reduction algorithm for power and performance on multi-core CPUs"}
+{
+  "retracted": false,
+  "timestamp": 1428364800000,
+  "updates": [
+    {
+      "timestamp": 1496055479436,
+      "identifier": {
+        "doi": "10.1186/s13673-015-0026-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13673-014-0016-8"
+  },
+  "journal": "Human-centric Computing and Information Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An optimizing pipeline stall reduction algorithm for power and performance on multi-core CPUs"
+}

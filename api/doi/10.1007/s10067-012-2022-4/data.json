@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1007/s10067-014-2724-x","type":"correction"},"doi":"10.1007/s10067-012-2022-4","journal":"Clinical Rheumatology","publisher":"Springer Nature","title":"Erratum to: Effect of 12 months treatment with chondroitin sulfate on cartilage volume in knee osteoarthritis patients: a randomized, double-blind, placebo-controlled pilot study using MRI"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496047405613,
+      "identifier": {
+        "doi": "10.1007/s10067-014-2724-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10067-012-2022-4"
+  },
+  "journal": "Clinical Rheumatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of 12 months treatment with chondroitin sulfate on cartilage volume in knee osteoarthritis patients: a randomized, double-blind, placebo-controlled pilot study using MRI"
+}

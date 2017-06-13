@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.bcp.2013.08.029","type":"err"},"doi":"10.1016/j.bcp.2013.02.019","journal":"Biochemical Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Modulation of A-type K+ channels by the short-chain cobrotoxin through the protein kinase C-delta isoform decreases membrane excitability in dorsal root ganglion neurons” [Biochem. Pharmacol. 85 (2013) 1352–1362]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496050199286,
+      "identifier": {
+        "doi": "10.1016/j.bcp.2013.08.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcp.2013.02.019"
+  },
+  "journal": "Biochemical Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modulation of A-type K+ channels by the short-chain cobrotoxin through the protein kinase C-delta isoform decreases membrane excitability in dorsal root ganglion neurons” [Biochem. Pharmacol. 85 (2013) 1352–1362]"
+}

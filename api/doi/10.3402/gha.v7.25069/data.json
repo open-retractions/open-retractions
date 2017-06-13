@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.3402/gha.v8.29398","type":"correction"},"doi":"10.3402/gha.v7.25069","journal":"Global Health Action","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496025213518,
+      "identifier": {
+        "doi": "10.3402/gha.v8.29398"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3402/gha.v7.25069"
+  },
+  "journal": "Global Health Action",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

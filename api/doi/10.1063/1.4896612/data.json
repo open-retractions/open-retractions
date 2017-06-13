@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414368000000,"doi":"10.1063/1.4898353","type":"correction"},"doi":"10.1063/1.4896612","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Communication: Molecular-level insights into asymmetric triblock copolymers: Network and phase development” [J. Chem. Phys. 141, 121103 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1414368000000,
+  "updates": [
+    {
+      "timestamp": 1496016855082,
+      "identifier": {
+        "doi": "10.1063/1.4898353"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4896612"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Communication: Molecular-level insights into asymmetric triblock copolymers: Network and phase development” [J. Chem. Phys. 141, 121103 (2014)]"
+}

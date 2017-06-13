@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1080/15387216.2016.1247530","type":"correction"},"doi":"10.1080/15387216.2016.1234403","journal":"Eurasian Geography and Economics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495651486695,
+      "identifier": {
+        "doi": "10.1080/15387216.2016.1247530"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15387216.2016.1234403"
+  },
+  "journal": "Eurasian Geography and Economics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

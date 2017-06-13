@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.cpc.2016.07.027","type":"err"},"doi":"10.1016/j.cpc.2015.09.021","journal":"Computer Physics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Least square fitting with one explicit parameter less” [Comput. Phys. Comm. 200 (2016) 254–258]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495735046479,
+      "identifier": {
+        "doi": "10.1016/j.cpc.2016.07.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpc.2015.09.021"
+  },
+  "journal": "Computer Physics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Least square fitting with one explicit parameter less” [Comput. Phys. Comm. 200 (2016) 254–258]"
+}

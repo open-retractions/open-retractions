@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.3847/0004-6256/151/2/48","type":"correction"},"doi":"10.1088/0004-6256/149/4/117","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “LARGE MAGELLANIC CLOUD NEAR-INFRARED SYNOPTIC SURVEY. I. CEPHEID VARIABLES AND THE CALIBRATION OF THE LEAVITT LAW” (2015, AJ, 149, 117)"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495642610011,
+      "identifier": {
+        "doi": "10.3847/0004-6256/151/2/48"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/149/4/117"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “LARGE MAGELLANIC CLOUD NEAR-INFRARED SYNOPTIC SURVEY. I. CEPHEID VARIABLES AND THE CALIBRATION OF THE LEAVITT LAW” (2015, AJ, 149, 117)"
+}

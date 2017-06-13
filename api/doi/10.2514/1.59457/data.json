@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409011200000,"doi":"10.2514/1.a33019","type":"correction"},"doi":"10.2514/1.59457","journal":"Journal of Spacecraft and Rockets","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Investigation of Ground-Wind Loads for Ares Launch Vehicles"}
+{
+  "retracted": false,
+  "timestamp": 1409011200000,
+  "updates": [
+    {
+      "timestamp": 1496055645045,
+      "identifier": {
+        "doi": "10.2514/1.a33019"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.59457"
+  },
+  "journal": "Journal of Spacecraft and Rockets",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Investigation of Ground-Wind Loads for Ares Launch Vehicles"
+}

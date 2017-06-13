@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.humpath.2016.04.001","type":"err"},"doi":"10.1016/j.humpath.2013.06.015","journal":"Human Pathology","publisher":"Elsevier BV","title":"Corrigendum to “A comparison of cervical histopathology variability using whole slide digitized images versus glass slides: experience with a statewide registry” [HumAN PatholOGY 2013;44:2542-2548]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495670479081,
+      "identifier": {
+        "doi": "10.1016/j.humpath.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.humpath.2013.06.015"
+  },
+  "journal": "Human Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A comparison of cervical histopathology variability using whole slide digitized images versus glass slides: experience with a statewide registry” [HumAN PatholOGY 2013;44:2542-2548]"
+}

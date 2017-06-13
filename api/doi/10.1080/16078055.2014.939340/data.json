@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432080000000,"doi":"10.1080/16078055.2015.1034338","type":"correction"},"doi":"10.1080/16078055.2014.939340","journal":"World Leisure Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1432080000000,
+  "updates": [
+    {
+      "timestamp": 1495998022548,
+      "identifier": {
+        "doi": "10.1080/16078055.2015.1034338"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/16078055.2014.939340"
+  },
+  "journal": "World Leisure Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337299200000,"doi":"10.1371/annotation/33056b27-c9ab-46ef-8168-08a8f0f907b2","type":"correction"},"doi":"10.1371/journal.pone.0036452","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Microarray Analysis of the Effect of Streptococcus equi subsp. zooepidemicus M-Like Protein in Infecting Porcine Pulmonary Alveolar Macrophage"}
+{
+  "retracted": false,
+  "timestamp": 1337299200000,
+  "updates": [
+    {
+      "timestamp": 1495910689307,
+      "identifier": {
+        "doi": "10.1371/annotation/33056b27-c9ab-46ef-8168-08a8f0f907b2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0036452"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Microarray Analysis of the Effect of Streptococcus equi subsp. zooepidemicus M-Like Protein in Infecting Porcine Pulmonary Alveolar Macrophage"
+}

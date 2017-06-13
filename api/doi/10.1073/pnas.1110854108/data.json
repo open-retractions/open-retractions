@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315872000000,"doi":"10.1073/pnas.1207087109","type":"correction"},"doi":"10.1073/pnas.1110854108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Beier et al., Anterograde or retrograde transsynaptic labeling of CNS neurons with vesicular stomatitis virus vectors"}
+{
+  "retracted": false,
+  "timestamp": 1315872000000,
+  "updates": [
+    {
+      "timestamp": 1495906610540,
+      "identifier": {
+        "doi": "10.1073/pnas.1207087109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1110854108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Beier et al., Anterograde or retrograde transsynaptic labeling of CNS neurons with vesicular stomatitis virus vectors"
+}

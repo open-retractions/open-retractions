@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.brainresbull.2013.04.004","type":"err"},"doi":"10.1016/j.brainresbull.2011.05.017","journal":"Brain Research Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Neuroprotective effect of levetiracetam on hippocampal sclerosis-like change in spontaneously epileptic rats” [Brain Res. Bull. 86 (1–2) (2011) 36–41]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496014144535,
+      "identifier": {
+        "doi": "10.1016/j.brainresbull.2013.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainresbull.2011.05.017"
+  },
+  "journal": "Brain Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Neuroprotective effect of levetiracetam on hippocampal sclerosis-like change in spontaneously epileptic rats” [Brain Res. Bull. 86 (1–2) (2011) 36–41]"
+}

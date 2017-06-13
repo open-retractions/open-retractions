@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463443200000,"doi":"10.1073/pnas.1606016113","type":"correction"},"doi":"10.1073/pnas.1515817113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Schulz et al., TFE and Spt4/5 open and close the RNA polymerase clamp during the transcription cycle"}
+{
+  "retracted": false,
+  "timestamp": 1463443200000,
+  "updates": [
+    {
+      "timestamp": 1495675196681,
+      "identifier": {
+        "doi": "10.1073/pnas.1606016113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1515817113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Schulz et al., TFE and Spt4/5 open and close the RNA polymerase clamp during the transcription cycle"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385596800000,"doi":"10.1080/13573322.2012.668333","type":"correction"},"doi":"10.1080/13573322.2011.633772","journal":"Sport, Education and Society","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1385596800000,
+  "updates": [
+    {
+      "timestamp": 1495890671410,
+      "identifier": {
+        "doi": "10.1080/13573322.2012.668333"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13573322.2011.633772"
+  },
+  "journal": "Sport, Education and Society",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.aop.2015.07.028","type":"erratum"},"doi":"10.1016/j.aop.2015.06.004","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Corrigendum to “Resonance scattering of a dielectric sphere illuminated by electromagnetic Bessel non-diffracting (vortex) beams with arbitrary incidence and selective polarizations” [Ann. Phys. 361 (2015) 120–147]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496023803874,
+      "identifier": {
+        "doi": "10.1016/j.aop.2015.07.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2015.06.004"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Resonance scattering of a dielectric sphere illuminated by electromagnetic Bessel non-diffracting (vortex) beams with arbitrary incidence and selective polarizations” [Ann. Phys. 361 (2015) 120–147]"
+}

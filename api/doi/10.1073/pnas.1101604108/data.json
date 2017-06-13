@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1308614400000,"doi":"10.1073/pnas.1113243108","type":"correction"},"doi":"10.1073/pnas.1101604108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kowald and Kirkwood, Evolution of the mitochondrial fusion-fission cycle and its role in aging"}
+{
+  "retracted": false,
+  "timestamp": 1308614400000,
+  "updates": [
+    {
+      "timestamp": 1495988709980,
+      "identifier": {
+        "doi": "10.1073/pnas.1113243108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1101604108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kowald and Kirkwood, Evolution of the mitochondrial fusion-fission cycle and its role in aging"
+}

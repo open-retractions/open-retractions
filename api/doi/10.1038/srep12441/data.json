@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471910400000,"doi":"10.1038/srep31530","type":"correction"},"doi":"10.1038/srep12441","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: The Cipher Code of Simple Sequence Repeats in “Vampire Pathogens”"}
+{
+  "retracted": false,
+  "timestamp": 1471910400000,
+  "updates": [
+    {
+      "timestamp": 1495740228801,
+      "identifier": {
+        "doi": "10.1038/srep31530"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep12441"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: The Cipher Code of Simple Sequence Repeats in “Vampire Pathogens”"
+}

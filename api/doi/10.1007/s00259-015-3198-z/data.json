@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457481600000,"doi":"10.1007/s00259-016-3352-2","type":"correction"},"doi":"10.1007/s00259-015-3198-z","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: EANM '15 Annual Congress of the European Association of Nuclear Medicine, October 10–14, 2015, Hamburg, Germany"}
+{
+  "retracted": false,
+  "timestamp": 1457481600000,
+  "updates": [
+    {
+      "timestamp": 1495652449050,
+      "identifier": {
+        "doi": "10.1007/s00259-016-3352-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-015-3198-z"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: EANM '15 Annual Congress of the European Association of Nuclear Medicine, October 10–14, 2015, Hamburg, Germany"
+}

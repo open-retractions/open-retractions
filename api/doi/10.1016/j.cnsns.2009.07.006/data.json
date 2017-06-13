@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.cnsns.2015.04.004","type":"err"},"doi":"10.1016/j.cnsns.2009.07.006","journal":"Communications in Nonlinear Science and Numerical Simulation","publisher":"Elsevier BV","title":"Corrigendum to ``Heat and mass mixed convection for MHD viscoelastic fluid past a stretching sheet with ohmic dissipation'' [Commun Nonlinear Sci Numer Simulat 15(2010) 1803–1812]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1495994695045,
+      "identifier": {
+        "doi": "10.1016/j.cnsns.2015.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cnsns.2009.07.006"
+  },
+  "journal": "Communications in Nonlinear Science and Numerical Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ``Heat and mass mixed convection for MHD viscoelastic fluid past a stretching sheet with ohmic dissipation'' [Commun Nonlinear Sci Numer Simulat 15(2010) 1803–1812]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355443200000,"doi":"10.1063/1.4772650","type":"correction"},"doi":"10.1063/1.4768293","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “A combined first principle calculations and experimental study on the spin-polarized band structure of Co-doped PbPdO2” [Appl. Phys. Lett. 101, 222104 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1355443200000,
+  "updates": [
+    {
+      "timestamp": 1495978953265,
+      "identifier": {
+        "doi": "10.1063/1.4772650"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4768293"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “A combined first principle calculations and experimental study on the spin-polarized band structure of Co-doped PbPdO2” [Appl. Phys. Lett. 101, 222104 (2012)]"
+}

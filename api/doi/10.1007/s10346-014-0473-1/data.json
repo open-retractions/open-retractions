@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412294400000,"doi":"10.1007/s10346-014-0525-6","type":"correction"},"doi":"10.1007/s10346-014-0473-1","journal":"Landslides","publisher":"Springer Nature","title":"Erratum to: Satellite stereoscopic pair images of very high resolution: a step forward for the development of landslide inventories"}
+{
+  "retracted": false,
+  "timestamp": 1412294400000,
+  "updates": [
+    {
+      "timestamp": 1496011469559,
+      "identifier": {
+        "doi": "10.1007/s10346-014-0525-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10346-014-0473-1"
+  },
+  "journal": "Landslides",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Satellite stereoscopic pair images of very high resolution: a step forward for the development of landslide inventories"
+}

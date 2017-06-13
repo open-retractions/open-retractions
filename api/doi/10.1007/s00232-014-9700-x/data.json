@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1007/s00232-017-9949-y","type":"correction"},"doi":"10.1007/s00232-014-9700-x","journal":"The Journal of Membrane Biology","publisher":"Springer Nature","title":"Erratum to: High-Resolution Structure of a Membrane Protein Transferred from Amphipol to a Lipidic Mesophase"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495722311749,
+      "identifier": {
+        "doi": "10.1007/s00232-017-9949-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00232-014-9700-x"
+  },
+  "journal": "The Journal of Membrane Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High-Resolution Structure of a Membrane Protein Transferred from Amphipol to a Lipidic Mesophase"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jelectrocard.2014.09.001","type":"err"},"doi":"10.1016/j.jelectrocard.2014.01.012","journal":"Journal of Electrocardiology","publisher":"Elsevier BV","title":"Erratum to “Race- and Sex-Associated Differences in Rate-Adjusted QT, QTpeak, ST Elevation and other Regional Measures of Repolarization: the Atherosclerosis Risk Communities (ARIC) Study”"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496007021934,
+      "identifier": {
+        "doi": "10.1016/j.jelectrocard.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jelectrocard.2014.01.012"
+  },
+  "journal": "Journal of Electrocardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Race- and Sex-Associated Differences in Rate-Adjusted QT, QTpeak, ST Elevation and other Regional Measures of Repolarization: the Atherosclerosis Risk Communities (ARIC) Study”"
+}

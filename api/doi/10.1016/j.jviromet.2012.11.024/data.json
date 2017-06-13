@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jviromet.2013.07.012","type":"err"},"doi":"10.1016/j.jviromet.2012.11.024","journal":"Journal of Virological Methods","publisher":"Elsevier BV","title":"Corrigendum to “Quantivirus® HPV E6/E7 RNA 3.0 assay (bDNA) is as sensitive, but less specific than Hybrid Capture 2 test” [J. Virol. Methods 187 (2013) 288–293]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496034387387,
+      "identifier": {
+        "doi": "10.1016/j.jviromet.2013.07.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jviromet.2012.11.024"
+  },
+  "journal": "Journal of Virological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantivirus® HPV E6/E7 RNA 3.0 assay (bDNA) is as sensitive, but less specific than Hybrid Capture 2 test” [J. Virol. Methods 187 (2013) 288–293]"
+}

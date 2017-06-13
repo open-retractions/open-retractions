@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.ibmb.2015.10.014","type":"err"},"doi":"10.1016/j.ibmb.2013.04.003","journal":"Insect Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “FISH identification of Helicoverpa armigera and Mamestra brassicae chromosomes by BAC and fosmid probes” [Insect Biochem. Mol. Biol. 43 (2013) 644–653]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496044394494,
+      "identifier": {
+        "doi": "10.1016/j.ibmb.2015.10.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ibmb.2013.04.003"
+  },
+  "journal": "Insect Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “FISH identification of Helicoverpa armigera and Mamestra brassicae chromosomes by BAC and fosmid probes” [Insect Biochem. Mol. Biol. 43 (2013) 644–653]"
+}

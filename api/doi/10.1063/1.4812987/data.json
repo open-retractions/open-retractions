@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377216000000,"doi":"10.1063/1.4819200","type":"correction"},"doi":"10.1063/1.4812987","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Kinase detection with gallium nitride based high electron mobility transistors” [Appl. Phys. Lett. 103, 013701 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1377216000000,
+  "updates": [
+    {
+      "timestamp": 1496041599754,
+      "identifier": {
+        "doi": "10.1063/1.4819200"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4812987"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Kinase detection with gallium nitride based high electron mobility transistors” [Appl. Phys. Lett. 103, 013701 (2013)]"
+}

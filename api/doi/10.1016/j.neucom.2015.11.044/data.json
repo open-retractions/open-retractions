@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479513600000,"doi":"10.1016/j.neucom.2016.09.065","type":"err"},"doi":"10.1016/j.neucom.2015.11.044","journal":"Neurocomputing","publisher":"Elsevier BV","title":"Corrigendum to ‘Novel segmented stacked autoencoder for effective dimensionality reduction and feature extraction in hyperspectral imaging’ [Neurocomputing 185 (2016) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1479513600000,
+  "updates": [
+    {
+      "timestamp": 1495653290005,
+      "identifier": {
+        "doi": "10.1016/j.neucom.2016.09.065"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neucom.2015.11.044"
+  },
+  "journal": "Neurocomputing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Novel segmented stacked autoencoder for effective dimensionality reduction and feature extraction in hyperspectral imaging’ [Neurocomputing 185 (2016) 1–10]"
+}

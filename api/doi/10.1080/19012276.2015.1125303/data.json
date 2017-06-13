@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454371200000,"doi":"10.1080/19012276.2016.1148444","type":"correction"},"doi":"10.1080/19012276.2015.1125303","journal":"Nordic Psychology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1454371200000,
+  "updates": [
+    {
+      "timestamp": 1495641701587,
+      "identifier": {
+        "doi": "10.1080/19012276.2016.1148444"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19012276.2015.1125303"
+  },
+  "journal": "Nordic Psychology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

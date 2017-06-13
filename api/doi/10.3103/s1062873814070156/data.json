@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416700800000,"doi":"10.3103/s1062873814110318","type":"correction"},"doi":"10.3103/s1062873814070156","journal":"Bulletin of the Russian Academy of Sciences: Physics","publisher":"Allerton Press","title":"Erratum to: “Reverse conversion in 161Dy ions as an extension of dielectronic recombination”"}
+{
+  "retracted": false,
+  "timestamp": 1416700800000,
+  "updates": [
+    {
+      "timestamp": 1496026462742,
+      "identifier": {
+        "doi": "10.3103/s1062873814110318"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1062873814070156"
+  },
+  "journal": "Bulletin of the Russian Academy of Sciences: Physics",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Reverse conversion in 161Dy ions as an extension of dielectronic recombination”"
+}

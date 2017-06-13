@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229040000000,"doi":"10.1371/annotation/68d951f9-a236-472f-98af-24e4cc4c1a20","type":"correction"},"doi":"10.1371/journal.pone.0003686","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Dysregulation of Mitochondrial Dynamics and the Muscle Transcriptome in ICU Patients Suffering from Sepsis Induced Multiple Organ Failure"}
+{
+  "retracted": false,
+  "timestamp": 1229040000000,
+  "updates": [
+    {
+      "timestamp": 1496023930179,
+      "identifier": {
+        "doi": "10.1371/annotation/68d951f9-a236-472f-98af-24e4cc4c1a20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003686"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Dysregulation of Mitochondrial Dynamics and the Muscle Transcriptome in ICU Patients Suffering from Sepsis Induced Multiple Organ Failure"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.physbeh.2015.02.051","type":"err"},"doi":"10.1016/j.physbeh.2015.02.014","journal":"Physiology & Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Impact of chronic stressors on the anxiety profile of pregnant rats” [Physiol. Behav. 142 (2015) 137–145]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496047755861,
+      "identifier": {
+        "doi": "10.1016/j.physbeh.2015.02.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physbeh.2015.02.014"
+  },
+  "journal": "Physiology & Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impact of chronic stressors on the anxiety profile of pregnant rats” [Physiol. Behav. 142 (2015) 137–145]"
+}

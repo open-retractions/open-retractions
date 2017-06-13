@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.aei.2016.03.002","type":"erratum"},"doi":"10.1016/j.aei.2015.01.008","journal":"Advanced Engineering Informatics","publisher":"Elsevier BV","title":"Corrigendum to “A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure” [Advanced Engineering Informatics 29(2) (2015) 196–210]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495656792857,
+      "identifier": {
+        "doi": "10.1016/j.aei.2016.03.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aei.2015.01.008"
+  },
+  "journal": "Advanced Engineering Informatics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure” [Advanced Engineering Informatics 29(2) (2015) 196–210]"
+}

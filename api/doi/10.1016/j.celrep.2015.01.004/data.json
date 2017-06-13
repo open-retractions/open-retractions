@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.celrep.2016.02.083","type":"err"},"doi":"10.1016/j.celrep.2015.01.004","journal":"Cell Reports","publisher":"Elsevier BV","title":"The SENP7 SUMO-Protease Presents a Module of Two HP1 Interaction Motifs that Locks HP1 Protein at Pericentric Heterochromatin"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495654095023,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.02.083"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.01.004"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "The SENP7 SUMO-Protease Presents a Module of Two HP1 Interaction Motifs that Locks HP1 Protein at Pericentric Heterochromatin"
+}

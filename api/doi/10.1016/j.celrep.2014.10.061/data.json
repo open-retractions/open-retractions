@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1016/j.celrep.2015.01.041","type":"err"},"doi":"10.1016/j.celrep.2014.10.061","journal":"Cell Reports","publisher":"Elsevier BV","title":"Pax3 and Hippo Signaling Coordinate Melanocyte Gene Expression in Neural Crest"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496043302677,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.01.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.10.061"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Pax3 and Hippo Signaling Coordinate Melanocyte Gene Expression in Neural Crest"
+}

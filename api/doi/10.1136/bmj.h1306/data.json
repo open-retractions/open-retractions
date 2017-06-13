@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428537600000,"doi":"10.1136/bmj.h1911","type":"correction"},"doi":"10.1136/bmj.h1306","journal":"BMJ","publisher":"BMJ","title":"Coronal oblique T1 weighted magnetic resonance image of the sacroiliac joints"}
+{
+  "retracted": false,
+  "timestamp": 1428537600000,
+  "updates": [
+    {
+      "timestamp": 1496056494029,
+      "identifier": {
+        "doi": "10.1136/bmj.h1911"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h1306"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Coronal oblique T1 weighted magnetic resonance image of the sacroiliac joints"
+}

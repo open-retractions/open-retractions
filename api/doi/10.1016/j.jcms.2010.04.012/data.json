@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.jcms.2013.06.011","type":"err"},"doi":"10.1016/j.jcms.2010.04.012","journal":"Journal of Cranio-Maxillofacial Surgery","publisher":"Elsevier BV","title":"Corrigendum to “Ideal proportions in full face front view, contemporary versus antique”"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496037176624,
+      "identifier": {
+        "doi": "10.1016/j.jcms.2013.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcms.2010.04.012"
+  },
+  "journal": "Journal of Cranio-Maxillofacial Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ideal proportions in full face front view, contemporary versus antique”"
+}

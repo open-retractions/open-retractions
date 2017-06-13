@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.jfoodeng.2013.12.027","type":"err"},"doi":"10.1016/j.jfoodeng.2013.09.027","journal":"Journal of Food Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Mechanical characterization of kernel and shell of hazelnuts: Proposal of an experimental procedure” [J. Food Eng. 124 (2014) 28–34]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496012329444,
+      "identifier": {
+        "doi": "10.1016/j.jfoodeng.2013.12.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfoodeng.2013.09.027"
+  },
+  "journal": "Journal of Food Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mechanical characterization of kernel and shell of hazelnuts: Proposal of an experimental procedure” [J. Food Eng. 124 (2014) 28–34]"
+}

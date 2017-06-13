@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445472000000,"doi":"10.1080/09720510.2015.1109843","type":"correction"},"doi":"10.1080/09720510.2013.878826","journal":"Journal of Statistics and Management Systems","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1445472000000,
+  "updates": [
+    {
+      "timestamp": 1496037825104,
+      "identifier": {
+        "doi": "10.1080/09720510.2015.1109843"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09720510.2013.878826"
+  },
+  "journal": "Journal of Statistics and Management Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

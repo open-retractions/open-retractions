@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1046476800000,"doi":"10.1107/s0909049503004175","type":"correction"},"doi":"10.1107/s0909049502017272","journal":"Journal of Synchrotron Radiation","publisher":"International Union of Crystallography (IUCr)","title":"XAFS studies of nitrogenase: the MoFe and VFe proteins and the use of crystallographic coordinates in three-dimensional EXAFS data analysis. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1046476800000,
+  "updates": [
+    {
+      "timestamp": 1495949298301,
+      "identifier": {
+        "doi": "10.1107/s0909049503004175"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0909049502017272"
+  },
+  "journal": "Journal of Synchrotron Radiation",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "XAFS studies of nitrogenase: the MoFe and VFe proteins and the use of crystallographic coordinates in three-dimensional EXAFS data analysis. Erratum"
+}

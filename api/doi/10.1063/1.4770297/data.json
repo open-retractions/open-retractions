@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367539200000,"doi":"10.1063/1.4802879","type":"correction"},"doi":"10.1063/1.4770297","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “The atomic structure of lead-free Ba(Zr0.2Ti0.8)O3-(Ba0.7Ca0.3)TiO3 by using neutron total scattering analysis” [Appl. Phys. Lett. 101, 242901 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1367539200000,
+  "updates": [
+    {
+      "timestamp": 1496017049626,
+      "identifier": {
+        "doi": "10.1063/1.4802879"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4770297"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “The atomic structure of lead-free Ba(Zr0.2Ti0.8)O3-(Ba0.7Ca0.3)TiO3 by using neutron total scattering analysis” [Appl. Phys. Lett. 101, 242901 (2012)]"
+}

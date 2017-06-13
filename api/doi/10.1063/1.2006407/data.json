@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1136073600000,"doi":"10.1063/1.2162429","type":"erratum"},"doi":"10.1063/1.2006407","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “A novel technique for the in situ calibration and measurement of friction with the atomic force microscope” [Rev. Sci. Instrum. 76, 083710 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1136073600000,
+  "updates": [
+    {
+      "timestamp": 1495982717759,
+      "identifier": {
+        "doi": "10.1063/1.2162429"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2006407"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A novel technique for the in situ calibration and measurement of friction with the atomic force microscope” [Rev. Sci. Instrum. 76, 083710 (2005)]"
+}

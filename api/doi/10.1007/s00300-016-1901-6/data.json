@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461628800000,"doi":"10.1007/s00300-016-1944-8","type":"correction"},"doi":"10.1007/s00300-016-1901-6","journal":"Polar Biology","publisher":"Springer Nature","title":"Erratum to: Evidence for dispersal and habitat controls on pond diatom communities from the McMurdo Sound Region of Antarctica"}
+{
+  "retracted": false,
+  "timestamp": 1461628800000,
+  "updates": [
+    {
+      "timestamp": 1495668944627,
+      "identifier": {
+        "doi": "10.1007/s00300-016-1944-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00300-016-1901-6"
+  },
+  "journal": "Polar Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evidence for dispersal and habitat controls on pond diatom communities from the McMurdo Sound Region of Antarctica"
+}

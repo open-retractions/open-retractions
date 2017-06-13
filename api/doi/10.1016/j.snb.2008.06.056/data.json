@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.snb.2015.11.121","type":"err"},"doi":"10.1016/j.snb.2008.06.056","journal":"Sensors and Actuators B: Chemical","publisher":"Elsevier BV","title":"Corrigendum to “Measuring acute toxicity using a solid-state microrespirometer: Part II. A theoretical framework for the elucidation of metabolic parameters” [Sens. Actuators B: Chem. 135 (1) (2008) 13–20]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496052608762,
+      "identifier": {
+        "doi": "10.1016/j.snb.2015.11.121"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.snb.2008.06.056"
+  },
+  "journal": "Sensors and Actuators B: Chemical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measuring acute toxicity using a solid-state microrespirometer: Part II. A theoretical framework for the elucidation of metabolic parameters” [Sens. Actuators B: Chem. 135 (1) (2008) 13–20]"
+}

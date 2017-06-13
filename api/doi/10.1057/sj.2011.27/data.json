@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1350432000000,"doi":"10.1057/sj.2011.29","type":"correction"},"doi":"10.1057/sj.2011.27","journal":"Security Journal","publisher":"Springer Nature","title":"Erratum: Self-rated attention to detail predicts threat detection performance in security X-ray images"}
+{
+  "retracted": false,
+  "timestamp": 1350432000000,
+  "updates": [
+    {
+      "timestamp": 1495959863892,
+      "identifier": {
+        "doi": "10.1057/sj.2011.29"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/sj.2011.27"
+  },
+  "journal": "Security Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Self-rated attention to detail predicts threat detection performance in security X-ray images"
+}

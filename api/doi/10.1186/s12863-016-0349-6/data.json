@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1186/s12863-016-0456-4","type":"correction"},"doi":"10.1186/s12863-016-0349-6","journal":"BMC Genetics","publisher":"Springer Nature","title":"Erratum to: Genetic analysis of intestinal polyp development in Collaborative Cross mice carrying the Apc Min/+ mutation"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661203859,
+      "identifier": {
+        "doi": "10.1186/s12863-016-0456-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12863-016-0349-6"
+  },
+  "journal": "BMC Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genetic analysis of intestinal polyp development in Collaborative Cross mice carrying the Apc Min/+ mutation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jocn.2015.09.001","type":"err"},"doi":"10.1016/j.jocn.2013.03.018","journal":"Journal of Clinical Neuroscience","publisher":"Elsevier BV","title":"Corrigendum to “Clinical experience using polyetheretherketone (PEEK) intervertebral structural cage for anterior cervical corpectomy and fusion” [J. Clin. Neurosci. 21 (2014) 217–220]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496034142116,
+      "identifier": {
+        "doi": "10.1016/j.jocn.2015.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jocn.2013.03.018"
+  },
+  "journal": "Journal of Clinical Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Clinical experience using polyetheretherketone (PEEK) intervertebral structural cage for anterior cervical corpectomy and fusion” [J. Clin. Neurosci. 21 (2014) 217–220]"
+}

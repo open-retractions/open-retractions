@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464134400000,"doi":"10.1007/s13181-016-0554-8","type":"correction"},"doi":"10.1007/s13181-016-0550-z","journal":"Journal of Medical Toxicology","publisher":"Springer Nature","title":"Erratum to: ACMT Position Statement: Guidance for the Use of Intravenous Lipid Emulsion"}
+{
+  "retracted": false,
+  "timestamp": 1464134400000,
+  "updates": [
+    {
+      "timestamp": 1495716047390,
+      "identifier": {
+        "doi": "10.1007/s13181-016-0554-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13181-016-0550-z"
+  },
+  "journal": "Journal of Medical Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ACMT Position Statement: Guidance for the Use of Intravenous Lipid Emulsion"
+}

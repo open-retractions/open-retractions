@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320710400000,"doi":"10.1371/annotation/fc0b4192-6427-4fb3-b347-c66651adf855","type":"correction"},"doi":"10.1371/journal.pcbi.1002258","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Interspecies Translation of Disease Networks Increases Robustness and Predictive Accuracy"}
+{
+  "retracted": false,
+  "timestamp": 1320710400000,
+  "updates": [
+    {
+      "timestamp": 1495832683946,
+      "identifier": {
+        "doi": "10.1371/annotation/fc0b4192-6427-4fb3-b347-c66651adf855"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1002258"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Interspecies Translation of Disease Networks Increases Robustness and Predictive Accuracy"
+}

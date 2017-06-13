@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398988800000,"doi":"10.1080/19325037.2014.909187","type":"correction"},"doi":"10.1080/19325037.2013.838881","journal":"American Journal of Health Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1398988800000,
+  "updates": [
+    {
+      "timestamp": 1496036201019,
+      "identifier": {
+        "doi": "10.1080/19325037.2014.909187"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19325037.2013.838881"
+  },
+  "journal": "American Journal of Health Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

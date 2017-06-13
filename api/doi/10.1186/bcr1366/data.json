@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1160006400000,"doi":"10.1186/bcr1606","type":"correction"},"doi":"10.1186/bcr1366","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Reverting estrogen-receptor-negative phenotype in HER-2-overexpressing advanced breast cancer patients exposed to trastuzumab plus chemotherapy"}
+{
+  "retracted": false,
+  "timestamp": 1160006400000,
+  "updates": [
+    {
+      "timestamp": 1496575346800,
+      "identifier": {
+        "doi": "10.1186/bcr1606"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bcr1366"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reverting estrogen-receptor-negative phenotype in HER-2-overexpressing advanced breast cancer patients exposed to trastuzumab plus chemotherapy"
+}

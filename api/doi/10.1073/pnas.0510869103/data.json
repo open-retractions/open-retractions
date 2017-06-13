@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1148947200000,"doi":"10.1073/pnas.1004225107","type":"correction"},"doi":"10.1073/pnas.0510869103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Editorial Expression of Concern: A bifunctional tRNA import receptor from Leishmania mitochondria"}
+{
+  "retracted": false,
+  "timestamp": 1148947200000,
+  "updates": [
+    {
+      "timestamp": 1495838189817,
+      "identifier": {
+        "doi": "10.1073/pnas.1004225107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0510869103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Editorial Expression of Concern: A bifunctional tRNA import receptor from Leishmania mitochondria"
+}

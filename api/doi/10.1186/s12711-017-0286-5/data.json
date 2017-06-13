@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488499200000,"doi":"10.1186/s12711-017-0305-6","type":"correction"},"doi":"10.1186/s12711-017-0286-5","journal":"Genetics Selection Evolution","publisher":"Springer Nature","title":"Erratum to: Detection and validation of structural variations in bovine whole-genome sequence data"}
+{
+  "retracted": false,
+  "timestamp": 1488499200000,
+  "updates": [
+    {
+      "timestamp": 1495725670736,
+      "identifier": {
+        "doi": "10.1186/s12711-017-0305-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12711-017-0286-5"
+  },
+  "journal": "Genetics Selection Evolution",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Detection and validation of structural variations in bovine whole-genome sequence data"
+}

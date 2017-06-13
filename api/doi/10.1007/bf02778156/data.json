@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1210377600000,"doi":"10.1007/bf02780738","type":"correction"},"doi":"10.1007/bf02778156","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Random flights and an optical model of scattering"}
+{
+  "retracted": false,
+  "timestamp": 1210377600000,
+  "updates": [
+    {
+      "timestamp": 1495850857202,
+      "identifier": {
+        "doi": "10.1007/bf02780738"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02778156"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Random flights and an optical model of scattering"
+}

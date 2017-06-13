@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472601600000,"doi":"10.1007/s00586-016-4749-0","type":"correction"},"doi":"10.1007/s00586-015-4222-5","journal":"European Spine Journal","publisher":"Springer Nature","title":"Erratum to: Intraoperative spine ultrasound: application and benefits"}
+{
+  "retracted": false,
+  "timestamp": 1472601600000,
+  "updates": [
+    {
+      "timestamp": 1495742299659,
+      "identifier": {
+        "doi": "10.1007/s00586-016-4749-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00586-015-4222-5"
+  },
+  "journal": "European Spine Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intraoperative spine ultrasound: application and benefits"
+}

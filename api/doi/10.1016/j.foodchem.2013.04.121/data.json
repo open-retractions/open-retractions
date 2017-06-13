@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.foodchem.2014.03.036","type":"err"},"doi":"10.1016/j.foodchem.2013.04.121","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Influence of technical processing units on polyphenols and antioxidant capacity of carrot (Daucus carrot L.) juice” [Food Chem 141 (2013) 1637–1644]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496031020619,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2014.03.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2013.04.121"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of technical processing units on polyphenols and antioxidant capacity of carrot (Daucus carrot L.) juice” [Food Chem 141 (2013) 1637–1644]"
+}

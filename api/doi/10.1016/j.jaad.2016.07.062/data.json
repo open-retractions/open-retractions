@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.jaad.2017.03.001","type":"erratum"},"doi":"10.1016/j.jaad.2016.07.062","journal":"Journal of the American Academy of Dermatology","publisher":"Elsevier BV","title":"Erratum to “Reporting adverse events related to cosmetic products”"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495738746875,
+      "identifier": {
+        "doi": "10.1016/j.jaad.2017.03.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jaad.2016.07.062"
+  },
+  "journal": "Journal of the American Academy of Dermatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Reporting adverse events related to cosmetic products”"
+}

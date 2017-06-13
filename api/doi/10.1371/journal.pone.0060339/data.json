@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367884800000,"doi":"10.1371/annotation/85d86c29-4ba6-4bf0-94f6-2977b3e1c792","type":"correction"},"doi":"10.1371/journal.pone.0060339","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Identification of Combinatorial Drivers and Targets in Cancer Cell Lines"}
+{
+  "retracted": false,
+  "timestamp": 1367884800000,
+  "updates": [
+    {
+      "timestamp": 1496018174200,
+      "identifier": {
+        "doi": "10.1371/annotation/85d86c29-4ba6-4bf0-94f6-2977b3e1c792"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0060339"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Identification of Combinatorial Drivers and Targets in Cancer Cell Lines"
+}

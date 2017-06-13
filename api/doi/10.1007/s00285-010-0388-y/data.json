@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421193600000,"doi":"10.1007/s00285-014-0855-y","type":"correction"},"doi":"10.1007/s00285-010-0388-y","journal":"Journal of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Stable periodicity and negative circuits in differential systems"}
+{
+  "retracted": false,
+  "timestamp": 1421193600000,
+  "updates": [
+    {
+      "timestamp": 1496036167224,
+      "identifier": {
+        "doi": "10.1007/s00285-014-0855-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00285-010-0388-y"
+  },
+  "journal": "Journal of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Stable periodicity and negative circuits in differential systems"
+}

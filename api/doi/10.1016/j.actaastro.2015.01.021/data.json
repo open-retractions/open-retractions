@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.actaastro.2015.12.008","type":"err"},"doi":"10.1016/j.actaastro.2015.01.021","journal":"Acta Astronautica","publisher":"Elsevier BV","title":"Retraction notice to: “Analytical orbit predictions for low and high eccentricity orbits using uniformly regular KS canonical elements in an oblate atmosphere” [Acta Astronaut. 110 (2015) 214–224]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496055459428,
+      "identifier": {
+        "doi": "10.1016/j.actaastro.2015.12.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actaastro.2015.01.021"
+  },
+  "journal": "Acta Astronautica",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “Analytical orbit predictions for low and high eccentricity orbits using uniformly regular KS canonical elements in an oblate atmosphere” [Acta Astronaut. 110 (2015) 214–224]"
+}

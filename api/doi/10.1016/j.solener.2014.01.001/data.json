@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.solener.2015.05.014","type":"err"},"doi":"10.1016/j.solener.2014.01.001","journal":"Solar Energy","publisher":"Elsevier BV","title":"Corrigendum to “An investigation of the technoeconomic feasibility of solar domestic hot water heating for the Canadian housing stock” [Solar Energy 101 (2014) 308–320]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1495998636527,
+      "identifier": {
+        "doi": "10.1016/j.solener.2015.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solener.2014.01.001"
+  },
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An investigation of the technoeconomic feasibility of solar domestic hot water heating for the Canadian housing stock” [Solar Energy 101 (2014) 308–320]"
+}

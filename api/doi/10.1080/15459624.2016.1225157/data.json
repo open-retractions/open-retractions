@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1080/15459624.2017.1290491","type":"correction"},"doi":"10.1080/15459624.2016.1225157","journal":"Journal of Occupational and Environmental Hygiene","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495726833278,
+      "identifier": {
+        "doi": "10.1080/15459624.2017.1290491"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15459624.2016.1225157"
+  },
+  "journal": "Journal of Occupational and Environmental Hygiene",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

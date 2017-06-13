@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428451200000,"doi":"10.1016/j.tetlet.2015.03.017","type":"err"},"doi":"10.1016/j.tetlet.2014.09.102","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis of unnatural 3′-phospha-2′-deoxyfuranose nucleoside analogues” [Tetrahedron Lett. 55 (2014) 6328–6330]"}
+{
+  "retracted": false,
+  "timestamp": 1428451200000,
+  "updates": [
+    {
+      "timestamp": 1496050813326,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2015.03.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2014.09.102"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis of unnatural 3′-phospha-2′-deoxyfuranose nucleoside analogues” [Tetrahedron Lett. 55 (2014) 6328–6330]"
+}

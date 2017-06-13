@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482278400000,"doi":"10.1088/2040-8986/19/2/029601","type":"correction"},"doi":"10.1088/2040-8978/18/12/125602","journal":"Journal of Optics","publisher":"IOP Publishing","title":"Erratum: Design beam shapers with double freeform surfaces to form a desired wavefront with prescribed illumination pattern by solving a Monge-Ampère type equation (2016 J. Opt. 18 125602)"}
+{
+  "retracted": false,
+  "timestamp": 1482278400000,
+  "updates": [
+    {
+      "timestamp": 1495668537534,
+      "identifier": {
+        "doi": "10.1088/2040-8986/19/2/029601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2040-8978/18/12/125602"
+  },
+  "journal": "Journal of Optics",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Design beam shapers with double freeform surfaces to form a desired wavefront with prescribed illumination pattern by solving a Monge-Ampère type equation (2016 J. Opt. 18 125602)"
+}

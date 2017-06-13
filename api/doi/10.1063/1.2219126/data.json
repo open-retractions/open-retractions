@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1160956800000,"doi":"10.1063/1.2364452","type":"erratum"},"doi":"10.1063/1.2219126","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Annealing-time dependence in interfacial reaction between poly-Si electrode and HfO2∕Si gate stack studied by synchrotron radiation photoemission and x-ray absorption spectroscopy” [Appl. Phys. Lett. 89, 012102 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1160956800000,
+  "updates": [
+    {
+      "timestamp": 1495873563383,
+      "identifier": {
+        "doi": "10.1063/1.2364452"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2219126"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Annealing-time dependence in interfacial reaction between poly-Si electrode and HfO2∕Si gate stack studied by synchrotron radiation photoemission and x-ray absorption spectroscopy” [Appl. Phys. Lett. 89, 012102 (2006)]"
+}

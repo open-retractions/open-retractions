@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402358400000,"doi":"10.1080/10630732.2014.931737","type":"correction"},"doi":"10.1080/10630732.2014.884384","journal":"Journal of Urban Technology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1402358400000,
+  "updates": [
+    {
+      "timestamp": 1496044789123,
+      "identifier": {
+        "doi": "10.1080/10630732.2014.931737"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10630732.2014.884384"
+  },
+  "journal": "Journal of Urban Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

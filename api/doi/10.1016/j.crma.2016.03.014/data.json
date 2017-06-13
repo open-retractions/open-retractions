@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.crma.2016.05.015","type":"erratum"},"doi":"10.1016/j.crma.2016.03.014","journal":"Comptes Rendus Mathematique","publisher":"Elsevier BV","title":"Corrigendum to “The Euler class of an umbilic foliation” [C. R. Acad. Sci. Paris, Ser. I 354 (6) (2016) 614–618]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495717245351,
+      "identifier": {
+        "doi": "10.1016/j.crma.2016.05.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.crma.2016.03.014"
+  },
+  "journal": "Comptes Rendus Mathematique",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Euler class of an umbilic foliation” [C. R. Acad. Sci. Paris, Ser. I 354 (6) (2016) 614–618]"
+}

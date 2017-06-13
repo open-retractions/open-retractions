@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341619200000,"doi":"10.1007/s10040-012-0880-0","type":"correction"},"doi":"10.1007/s10040-012-0852-4","journal":"Hydrogeology Journal","publisher":"Springer Nature","title":"Erratum: Pharmaceuticals as indictors of sewage-influenced groundwater"}
+{
+  "retracted": false,
+  "timestamp": 1341619200000,
+  "updates": [
+    {
+      "timestamp": 1495919877793,
+      "identifier": {
+        "doi": "10.1007/s10040-012-0880-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10040-012-0852-4"
+  },
+  "journal": "Hydrogeology Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Pharmaceuticals as indictors of sewage-influenced groundwater"
+}

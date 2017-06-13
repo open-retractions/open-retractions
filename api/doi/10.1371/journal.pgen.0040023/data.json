@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1212624000000,"doi":"10.1371/annotation/fced1166-1825-485c-88b9-d6ec950326c8","type":"correction"},"doi":"10.1371/journal.pgen.0040023","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Comparing Patterns of Natural Selection across Species Using Selective Signatures"}
+{
+  "retracted": false,
+  "timestamp": 1212624000000,
+  "updates": [
+    {
+      "timestamp": 1496025198138,
+      "identifier": {
+        "doi": "10.1371/annotation/fced1166-1825-485c-88b9-d6ec950326c8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.0040023"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comparing Patterns of Natural Selection across Species Using Selective Signatures"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jet.2014.06.004","type":"err"},"doi":"10.1016/j.jet.2009.05.007","journal":"Journal of Economic Theory","publisher":"Elsevier BV","title":"Corrigendum to “Generalized risk-dominance and asymmetric dynamics” [J. Econ. Theory 145 (1) (2010) 216–248]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496017796778,
+      "identifier": {
+        "doi": "10.1016/j.jet.2014.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jet.2009.05.007"
+  },
+  "journal": "Journal of Economic Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Generalized risk-dominance and asymmetric dynamics” [J. Econ. Theory 145 (1) (2010) 216–248]"
+}

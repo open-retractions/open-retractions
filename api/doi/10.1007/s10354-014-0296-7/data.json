@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413936000000,"doi":"10.1007/s10354-014-0319-4","type":"correction"},"doi":"10.1007/s10354-014-0296-7","journal":"Wiener Medizinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Hepatocellular carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1413936000000,
+  "updates": [
+    {
+      "timestamp": 1496015769856,
+      "identifier": {
+        "doi": "10.1007/s10354-014-0319-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10354-014-0296-7"
+  },
+  "journal": "Wiener Medizinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hepatocellular carcinoma"
+}

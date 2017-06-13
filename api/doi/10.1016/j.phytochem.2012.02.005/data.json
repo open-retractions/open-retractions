@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.phytochem.2013.09.001","type":"err"},"doi":"10.1016/j.phytochem.2012.02.005","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to ‘Glucosinolate structures in evolution’ [Phytochemistry 77 (2012) 16–45]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496047957002,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2012.02.005"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Glucosinolate structures in evolution’ [Phytochemistry 77 (2012) 16–45]"
+}

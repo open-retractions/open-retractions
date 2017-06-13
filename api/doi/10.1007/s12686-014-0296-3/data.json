@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1007/s12686-014-0370-x","type":"correction"},"doi":"10.1007/s12686-014-0296-3","journal":"Conservation Genetics Resources","publisher":"Springer Nature","title":"Erratum to: Next-generation genomic shotgun sequencing indicates greater genetic variability in the mitochondria of Hypophthalmichthys molitrix relative to H. nobilis from the Mississippi River, USA and provides tools for research and detection"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496018602649,
+      "identifier": {
+        "doi": "10.1007/s12686-014-0370-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12686-014-0296-3"
+  },
+  "journal": "Conservation Genetics Resources",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Next-generation genomic shotgun sequencing indicates greater genetic variability in the mitochondria of Hypophthalmichthys molitrix relative to H. nobilis from the Mississippi River, USA and provides tools for research and detection"
+}

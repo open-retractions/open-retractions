@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463443200000,"doi":"10.1016/j.celrep.2016.04.089","type":"err"},"doi":"10.1016/j.celrep.2016.03.072","journal":"Cell Reports","publisher":"Elsevier BV","title":"Polq-Mediated End Joining Is Essential for Surviving DNA Double-Strand Breaks during Early Zebrafish Development"}
+{
+  "retracted": false,
+  "timestamp": 1463443200000,
+  "updates": [
+    {
+      "timestamp": 1495679863963,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.04.089"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2016.03.072"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Polq-Mediated End Joining Is Essential for Surviving DNA Double-Strand Breaks during Early Zebrafish Development"
+}

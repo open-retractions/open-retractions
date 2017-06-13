@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408579200000,"doi":"10.1016/j.immuni.2014.07.009","type":"err"},"doi":"10.1016/j.immuni.2014.06.008","journal":"Immunity","publisher":"Elsevier BV","title":"Macrophage Activation and Polarization: Nomenclature and Experimental Guidelines"}
+{
+  "retracted": false,
+  "timestamp": 1408579200000,
+  "updates": [
+    {
+      "timestamp": 1496784191250,
+      "identifier": {
+        "doi": "10.1016/j.immuni.2014.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.immuni.2014.06.008"
+  },
+  "journal": "Immunity",
+  "publisher": "Elsevier BV",
+  "title": "Macrophage Activation and Polarization: Nomenclature and Experimental Guidelines"
+}

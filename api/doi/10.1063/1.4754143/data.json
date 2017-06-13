@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355788800000,"doi":"10.1063/1.4772479","type":"correction"},"doi":"10.1063/1.4754143","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum “Tunable magnetic states in hexagonal boron nitride sheets” [Appl. Phys. Lett. 101, 132405 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1355788800000,
+  "updates": [
+    {
+      "timestamp": 1495979813175,
+      "identifier": {
+        "doi": "10.1063/1.4772479"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4754143"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum “Tunable magnetic states in hexagonal boron nitride sheets” [Appl. Phys. Lett. 101, 132405 (2012)]"
+}

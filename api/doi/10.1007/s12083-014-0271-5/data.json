@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424476800000,"doi":"10.1007/s12083-015-0335-1","type":"correction"},"doi":"10.1007/s12083-014-0271-5","journal":"Peer-to-Peer Networking and Applications","publisher":"Springer Nature","title":"Erratum to: A comprehensive study of the resource discovery techniques in Peer-to-Peer networks"}
+{
+  "retracted": false,
+  "timestamp": 1424476800000,
+  "updates": [
+    {
+      "timestamp": 1496045265612,
+      "identifier": {
+        "doi": "10.1007/s12083-015-0335-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12083-014-0271-5"
+  },
+  "journal": "Peer-to-Peer Networking and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A comprehensive study of the resource discovery techniques in Peer-to-Peer networks"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.intimp.2016.02.032","type":"err"},"doi":"10.1016/j.intimp.2015.08.028","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Phlorofucofuroeckol B suppresses inflammatory responses by down-regulating nuclear factor xB activation via Akt, ERK, and JNK in LPS-stimulated microglial cells” [International Immunopharmacology 28/2 (2015) 1068–1075]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495650304360,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2016.02.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2015.08.028"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Phlorofucofuroeckol B suppresses inflammatory responses by down-regulating nuclear factor xB activation via Akt, ERK, and JNK in LPS-stimulated microglial cells” [International Immunopharmacology 28/2 (2015) 1068–1075]"
+}

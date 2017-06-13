@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.apenergy.2014.09.077","type":"err"},"doi":"10.1016/j.apenergy.2014.08.023","journal":"Applied Energy","publisher":"Elsevier BV","title":"Erratum to “Energy, comfort and environmental assessment of different building envelope techniques in a Mediterranean climate with a hot dry summer” [Appl. Energy 134 (2014) 176–196]"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496020011972,
+      "identifier": {
+        "doi": "10.1016/j.apenergy.2014.09.077"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apenergy.2014.08.023"
+  },
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Energy, comfort and environmental assessment of different building envelope techniques in a Mediterranean climate with a hot dry summer” [Appl. Energy 134 (2014) 176–196]"
+}

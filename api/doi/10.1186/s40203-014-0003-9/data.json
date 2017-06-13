@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423612800000,"doi":"10.1186/s40203-014-0005-7","type":"correction"},"doi":"10.1186/s40203-014-0003-9","journal":"In Silico Pharmacology","publisher":"Springer Nature","title":"Erratum to: Characterizing plasma albumin concentration changes in TB/HIV patients on anti retroviral and anti –tuberculosis therapy"}
+{
+  "retracted": false,
+  "timestamp": 1423612800000,
+  "updates": [
+    {
+      "timestamp": 1496043237130,
+      "identifier": {
+        "doi": "10.1186/s40203-014-0005-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40203-014-0003-9"
+  },
+  "journal": "In Silico Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Characterizing plasma albumin concentration changes in TB/HIV patients on anti retroviral and anti –tuberculosis therapy"
+}

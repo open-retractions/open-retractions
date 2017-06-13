@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.2989/20702620.2013.869876","type":"correction"},"doi":"10.2989/20702620.2013.824672","journal":"Southern Forests: a Journal of Forest Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1496001798400,
+      "identifier": {
+        "doi": "10.2989/20702620.2013.869876"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2989/20702620.2013.824672"
+  },
+  "journal": "Southern Forests: a Journal of Forest Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

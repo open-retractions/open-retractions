@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.dnarep.2014.02.005","type":"err"},"doi":"10.1016/j.dnarep.2013.06.001","journal":"DNA Repair","publisher":"Elsevier BV","title":"Corrigendum to “Hypothesis driven single nucleotide polymorphism search (HyDn-SNP-S)” [DNA Repair 12 (September (9)) (2013) 733–740]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496019856798,
+      "identifier": {
+        "doi": "10.1016/j.dnarep.2014.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dnarep.2013.06.001"
+  },
+  "journal": "DNA Repair",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Hypothesis driven single nucleotide polymorphism search (HyDn-SNP-S)” [DNA Repair 12 (September (9)) (2013) 733–740]"
+}

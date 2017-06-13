@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jcrs.2016.01.016","type":"erratum"},"doi":"10.1016/j.jcrs.2014.10.036","journal":"Journal of Cataract & Refractive Surgery","publisher":"Elsevier BV","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495650530387,
+      "identifier": {
+        "doi": "10.1016/j.jcrs.2016.01.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrs.2014.10.036"
+  },
+  "journal": "Journal of Cataract & Refractive Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum"
+}

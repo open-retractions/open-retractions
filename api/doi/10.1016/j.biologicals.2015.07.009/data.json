@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.biologicals.2015.10.001","type":"err"},"doi":"10.1016/j.biologicals.2015.07.009","journal":"Biologicals","publisher":"Elsevier BV","title":"Erratum to “Report of the international conference on regulatory endeavors towards the sound development of human cell therapy products” [Biologicals 43 (5) (2015) 283–297]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496041479732,
+      "identifier": {
+        "doi": "10.1016/j.biologicals.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biologicals.2015.07.009"
+  },
+  "journal": "Biologicals",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Report of the international conference on regulatory endeavors towards the sound development of human cell therapy products” [Biologicals 43 (5) (2015) 283–297]"
+}

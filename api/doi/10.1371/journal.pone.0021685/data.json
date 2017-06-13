@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1313971200000,"doi":"10.1371/annotation/805ba3f5-0fd7-41f9-bc2c-31ebf507f05b","type":"correction"},"doi":"10.1371/journal.pone.0021685","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Proton Magnetic Resonance Spectroscopy in 22q11 Deletion Syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1313971200000,
+  "updates": [
+    {
+      "timestamp": 1495988487364,
+      "identifier": {
+        "doi": "10.1371/annotation/805ba3f5-0fd7-41f9-bc2c-31ebf507f05b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0021685"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Proton Magnetic Resonance Spectroscopy in 22q11 Deletion Syndrome"
+}

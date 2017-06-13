@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482278400000,"doi":"10.1007/s11075-016-0257-x","type":"correction"},"doi":"10.1007/s11075-012-9556-z","journal":"Numerical Algorithms","publisher":"Springer Nature","title":"Erratum to: Sub-range Jacobi polynomials"}
+{
+  "retracted": false,
+  "timestamp": 1482278400000,
+  "updates": [
+    {
+      "timestamp": 1495668502324,
+      "identifier": {
+        "doi": "10.1007/s11075-016-0257-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11075-012-9556-z"
+  },
+  "journal": "Numerical Algorithms",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sub-range Jacobi polynomials"
+}

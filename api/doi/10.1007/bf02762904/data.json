@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1201132800000,"doi":"10.1007/bf02798804","type":"correction"},"doi":"10.1007/bf02762904","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Rescattering effects in stopped pion absorption by nuclei"}
+{
+  "retracted": false,
+  "timestamp": 1201132800000,
+  "updates": [
+    {
+      "timestamp": 1495823576614,
+      "identifier": {
+        "doi": "10.1007/bf02798804"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02762904"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rescattering effects in stopped pion absorption by nuclei"
+}

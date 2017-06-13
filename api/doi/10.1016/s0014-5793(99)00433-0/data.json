@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.1016/j.febslet.2015.09.002","type":"err"},"doi":"10.1016/s0014-5793(99)00433-0","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “Real-time observation of acrosomal dispersal from mouse sperm using GFP as a marker protein” [FEBS Lett. 449 (1999) 277-283]"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496030289055,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2015.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0014-5793(99)00433-0"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “Real-time observation of acrosomal dispersal from mouse sperm using GFP as a marker protein” [FEBS Lett. 449 (1999) 277-283]"
+}

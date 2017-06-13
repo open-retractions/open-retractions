@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.nuclphysa.2015.11.010","type":"erratum"},"doi":"10.1016/j.nuclphysa.2013.01.013","journal":"Nuclear Physics A","publisher":"Elsevier BV","title":"Corrigendum to: “Shape dynamics in neutron-rich Kr isotopes: Coulomb excitation of 92 Kr, 94 Kr and 96 Kr” [Nucl. Phys. A 899 (2013) 1–28]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496053394830,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysa.2015.11.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysa.2013.01.013"
+  },
+  "journal": "Nuclear Physics A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Shape dynamics in neutron-rich Kr isotopes: Coulomb excitation of  92 Kr,  94 Kr and  96 Kr” [Nucl. Phys. A 899 (2013) 1–28]"
+}

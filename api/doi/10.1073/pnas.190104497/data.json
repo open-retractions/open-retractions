@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":968716800000,"doi":"10.1073/pnas.0902053106","type":"correction"},"doi":"10.1073/pnas.190104497","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jiang et al., Abnormal integrin-mediated regulation of chronic myelogenous leukemia CD34+ cell proliferation: BCR/ABL up-regulates the cyclin-dependent kinase inhibitor, p27Kip, which is relocated to the cell cytoplasm and incapable of regulating cdk2 activity"}
+{
+  "retracted": false,
+  "timestamp": 968716800000,
+  "updates": [
+    {
+      "timestamp": 1495943863638,
+      "identifier": {
+        "doi": "10.1073/pnas.0902053106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.190104497"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jiang et al., Abnormal integrin-mediated regulation of chronic myelogenous leukemia CD34+ cell proliferation: BCR/ABL up-regulates the cyclin-dependent kinase inhibitor, p27Kip, which is relocated to the cell cytoplasm and incapable of regulating cdk2 activity"
+}

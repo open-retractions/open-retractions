@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.14366/usg.15002","type":"correction"},"doi":"10.14366/usg.15002","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Current status of automated breast ultrasonography"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1496317400253,
+      "identifier": {
+        "doi": "10.14366/usg.15002"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.15002"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Current status of automated breast ultrasonography"
+}

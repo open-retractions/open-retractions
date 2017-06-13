@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.sleep.2013.11.001","type":"err"},"doi":"10.1016/j.sleep.2013.02.016","journal":"Sleep Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Rapid eye movement sleep behavior disorder: devising controlled active treatment studies for symptomatic and neuroprotective therapy—a consensus statement from the International Rapid Eye Movement Sleep Behavior Disorder Study Group” [Sleep Med 14(8) (2013) 795–806]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496000749043,
+      "identifier": {
+        "doi": "10.1016/j.sleep.2013.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sleep.2013.02.016"
+  },
+  "journal": "Sleep Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rapid eye movement sleep behavior disorder: devising controlled active treatment studies for symptomatic and neuroprotective therapy—a consensus statement from the International Rapid Eye Movement Sleep Behavior Disorder Study Group” [Sleep Med 14(8) (2013) 795–806]"
+}

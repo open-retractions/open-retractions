@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354838400000,"doi":"10.3346/jkms.2012.27.12.1607","type":"correction"},"doi":"10.3346/jkms.2012.27.11.1285","journal":"Journal of Korean Medical Science","publisher":"Korean Academy of Medical Sciences (KAMJE)","title":"Erratum: Correction of Misspelling of Title and Author Affiliation"}
+{
+  "retracted": false,
+  "timestamp": 1354838400000,
+  "updates": [
+    {
+      "timestamp": 1495978654375,
+      "identifier": {
+        "doi": "10.3346/jkms.2012.27.12.1607"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3346/jkms.2012.27.11.1285"
+  },
+  "journal": "Journal of Korean Medical Science",
+  "publisher": "Korean Academy of Medical Sciences (KAMJE)",
+  "title": "Erratum: Correction of Misspelling of Title and Author Affiliation"
+}

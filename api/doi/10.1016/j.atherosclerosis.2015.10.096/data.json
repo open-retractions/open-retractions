@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.atherosclerosis.2016.01.046","type":"erratum"},"doi":"10.1016/j.atherosclerosis.2015.10.096","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Plasmalogen modulation attenuates atherosclerosis in ApoE- and ApoE/GPx1-deficient mice” [Atherosclerosis 243/2 (2015) 598–608]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495653400051,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2016.01.046"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2015.10.096"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Plasmalogen modulation attenuates atherosclerosis in ApoE- and ApoE/GPx1-deficient mice” [Atherosclerosis 243/2 (2015) 598–608]"
+}

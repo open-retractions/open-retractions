@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406678400000,"doi":"10.1063/1.4891725","type":"correction"},"doi":"10.1063/1.4885496","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Publisher's Note: “Design of a retarding potential grid system for a neutral particle analyzer” [Rev. Sci. Instrum. 85, 11D402 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1406678400000,
+  "updates": [
+    {
+      "timestamp": 1495994845833,
+      "identifier": {
+        "doi": "10.1063/1.4891725"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4885496"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Design of a retarding potential grid system for a neutral particle analyzer” [Rev. Sci. Instrum. 85, 11D402 (2014)]"
+}

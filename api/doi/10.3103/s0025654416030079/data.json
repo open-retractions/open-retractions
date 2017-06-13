@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.3103/s0025654416040130","type":"correction"},"doi":"10.3103/s0025654416030079","journal":"Mechanics of Solids","publisher":"Allerton Press","title":"Erratum to: “Nonlinear effects in deformation of filled elastomers with nanodimensional fillers”"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495653890546,
+      "identifier": {
+        "doi": "10.3103/s0025654416040130"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s0025654416030079"
+  },
+  "journal": "Mechanics of Solids",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Nonlinear effects in deformation of filled elastomers with nanodimensional fillers”"
+}

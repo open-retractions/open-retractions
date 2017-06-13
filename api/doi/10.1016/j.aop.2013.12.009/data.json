@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.aop.2014.06.003","type":"err"},"doi":"10.1016/j.aop.2013.12.009","journal":"Annals of Physics","publisher":"Elsevier BV","title":"Erratum to “Axial and transverse acoustic radiation forces on a fluid sphere placed arbitrarily in Bessel beam standing wave tweezers” [Ann. Phys. 342 (3) (2014) 158–170]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496048474511,
+      "identifier": {
+        "doi": "10.1016/j.aop.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aop.2013.12.009"
+  },
+  "journal": "Annals of Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Axial and transverse acoustic radiation forces on a fluid sphere placed arbitrarily in Bessel beam standing wave tweezers” [Ann. Phys. 342 (3) (2014) 158–170]"
+}

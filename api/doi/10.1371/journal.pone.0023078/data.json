@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330387200000,"doi":"10.1371/annotation/7f7eb48c-7429-4119-89de-9c9bc3d85f04","type":"correction"},"doi":"10.1371/journal.pone.0023078","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Zona Pellucida Domain-Containing Protein β-Tectorin is Crucial for Zebrafish Proper Inner Ear Development"}
+{
+  "retracted": false,
+  "timestamp": 1330387200000,
+  "updates": [
+    {
+      "timestamp": 1495881228399,
+      "identifier": {
+        "doi": "10.1371/annotation/7f7eb48c-7429-4119-89de-9c9bc3d85f04"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0023078"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Zona Pellucida Domain-Containing Protein β-Tectorin is Crucial for Zebrafish Proper Inner Ear Development"
+}

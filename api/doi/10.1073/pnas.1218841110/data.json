@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356480000000,"doi":"10.1073/pnas.1222337110","type":"correction"},"doi":"10.1073/pnas.1218841110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lin et al., Evolution of the receptor binding properties of the influenza A(H3N2) hemagglutinin"}
+{
+  "retracted": false,
+  "timestamp": 1356480000000,
+  "updates": [
+    {
+      "timestamp": 1495989726702,
+      "identifier": {
+        "doi": "10.1073/pnas.1222337110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1218841110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lin et al., Evolution of the receptor binding properties of the influenza A(H3N2) hemagglutinin"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405987200000,"doi":"10.1016/j.apcata.2014.06.017","type":"err"},"doi":"10.1016/j.apcata.2014.04.031","journal":"Applied Catalysis A: General","publisher":"Elsevier BV","title":"Erratum to “Effective one-step reduction of Pt/alumina–carbon catalysts for asymmetric hydrogenation of α-ketoesters” [Appl. Catal. A: Gen. 480 (2014) 50–57]"}
+{
+  "retracted": false,
+  "timestamp": 1405987200000,
+  "updates": [
+    {
+      "timestamp": 1496051444758,
+      "identifier": {
+        "doi": "10.1016/j.apcata.2014.06.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apcata.2014.04.031"
+  },
+  "journal": "Applied Catalysis A: General",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effective one-step reduction of Pt/alumina–carbon catalysts for asymmetric hydrogenation of α-ketoesters” [Appl. Catal. A: Gen. 480 (2014) 50–57]"
+}

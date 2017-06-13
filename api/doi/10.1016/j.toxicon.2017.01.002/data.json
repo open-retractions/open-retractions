@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1016/j.toxicon.2017.01.021","type":"erratum"},"doi":"10.1016/j.toxicon.2017.01.002","journal":"Toxicon","publisher":"Elsevier BV","title":"Corrigendum to “Exploring and understanding the functional role, and biochemical and structural characteristics of an acidic phospholipase A2, AplTx-I, purified from Agkistrodon piscivorus leucostoma snake venom” [Toxicon 127 (2017) 22–36]"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495718406584,
+      "identifier": {
+        "doi": "10.1016/j.toxicon.2017.01.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxicon.2017.01.002"
+  },
+  "journal": "Toxicon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploring and understanding the functional role, and biochemical and structural characteristics of an acidic phospholipase A2, AplTx-I, purified from Agkistrodon piscivorus leucostoma snake venom” [Toxicon 127 (2017) 22–36]"
+}

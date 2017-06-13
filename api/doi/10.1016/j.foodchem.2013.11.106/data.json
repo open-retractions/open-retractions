@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.foodchem.2014.09.003","type":"err"},"doi":"10.1016/j.foodchem.2013.11.106","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Effects of processing with dry heat and wet heat on the antioxidant profile of sorghum” [Food Chem. 152 (2014) 210–217]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496006574436,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2014.09.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2013.11.106"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of processing with dry heat and wet heat on the antioxidant profile of sorghum” [Food Chem. 152 (2014) 210–217]"
+}

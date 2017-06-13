@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466380800000,"doi":"10.1063/1.4954177","type":"correction"},"doi":"10.1063/1.3133359","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Auger recombination rates in nitrides from first principles” [Appl. Phys. Lett. 94, 191109 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1466380800000,
+  "updates": [
+    {
+      "timestamp": 1495722051811,
+      "identifier": {
+        "doi": "10.1063/1.4954177"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3133359"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Auger recombination rates in nitrides from first principles” [Appl. Phys. Lett. 94, 191109 (2009)]"
+}

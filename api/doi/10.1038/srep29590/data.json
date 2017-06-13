@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473811200000,"doi":"10.1038/srep32902","type":"correction"},"doi":"10.1038/srep29590","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: N-terminal pro b-type natriuretic peptide (NT-pro-BNP) –based score can predict in-hospital mortality in patients with heart failure"}
+{
+  "retracted": false,
+  "timestamp": 1473811200000,
+  "updates": [
+    {
+      "timestamp": 1495639758665,
+      "identifier": {
+        "doi": "10.1038/srep32902"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep29590"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: N-terminal pro b-type natriuretic peptide (NT-pro-BNP) –based score can predict in-hospital mortality in patients with heart failure"
+}

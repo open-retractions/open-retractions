@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445990400000,"doi":"10.1186/s40168-015-0123-4","type":"correction"},"doi":"10.1186/s40168-015-0105-6","journal":"Microbiome","publisher":"Springer Nature","title":"Erratum to: Improved OTU-picking using long-read 16S rRNA gene amplicon sequencing and generic hierarchical clustering"}
+{
+  "retracted": false,
+  "timestamp": 1445990400000,
+  "updates": [
+    {
+      "timestamp": 1496041797464,
+      "identifier": {
+        "doi": "10.1186/s40168-015-0123-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40168-015-0105-6"
+  },
+  "journal": "Microbiome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Improved OTU-picking using long-read 16S rRNA gene amplicon sequencing and generic hierarchical clustering"
+}

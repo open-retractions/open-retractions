@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453161600000,"doi":"10.1080/16864360.2016.1139765","type":"correction"},"doi":"10.1080/16864360.2015.1114399","journal":"Computer-Aided Design and Applications","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1453161600000,
+  "updates": [
+    {
+      "timestamp": 1495637729771,
+      "identifier": {
+        "doi": "10.1080/16864360.2016.1139765"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/16864360.2015.1114399"
+  },
+  "journal": "Computer-Aided Design and Applications",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

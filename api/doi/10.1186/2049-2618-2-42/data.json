@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.1186/s40168-016-0158-1","type":"correction"},"doi":"10.1186/2049-2618-2-42","journal":"Microbiome","publisher":"Springer Nature","title":"Erratum to: Prolonged use of a proton pump inhibitor reduces microbial diversity: implications for Clostridium difficile susceptibility"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495646445741,
+      "identifier": {
+        "doi": "10.1186/s40168-016-0158-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/2049-2618-2-42"
+  },
+  "journal": "Microbiome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prolonged use of a proton pump inhibitor reduces microbial diversity: implications for Clostridium difficile susceptibility"
+}

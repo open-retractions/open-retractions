@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.foodchem.2016.01.100","type":"err"},"doi":"10.1016/j.foodchem.2008.12.025","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Gas chromatographic–mass spectrometric investigation of the chemical composition of beebread” [Food Chem. 115 (2009) 1056–1063]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495640843605,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.01.100"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2008.12.025"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gas chromatographic–mass spectrometric investigation of the chemical composition of beebread” [Food Chem. 115 (2009) 1056–1063]"
+}

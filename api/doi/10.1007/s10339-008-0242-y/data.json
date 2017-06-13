@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231545600000,"doi":"10.1007/s10339-008-0254-7","type":"correction"},"doi":"10.1007/s10339-008-0242-y","journal":"Cognitive Processing","publisher":"Springer Nature","title":"Multimodal encoding in a simplified model of intracellular calcium signaling"}
+{
+  "retracted": false,
+  "timestamp": 1231545600000,
+  "updates": [
+    {
+      "timestamp": 1495896096430,
+      "identifier": {
+        "doi": "10.1007/s10339-008-0254-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10339-008-0242-y"
+  },
+  "journal": "Cognitive Processing",
+  "publisher": "Springer Nature",
+  "title": "Multimodal encoding in a simplified model of intracellular calcium signaling"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.triboint.2015.12.002","type":"erratum"},"doi":"10.1016/j.triboint.2015.08.011","journal":"Tribology International","publisher":"Elsevier BV","title":"Corrigendum to: “Wear debris from brake system materials: A multi-analytical characterization approach” [Tribol Int (2016) 249–59]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495642199451,
+      "identifier": {
+        "doi": "10.1016/j.triboint.2015.12.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.triboint.2015.08.011"
+  },
+  "journal": "Tribology International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Wear debris from brake system materials: A multi-analytical characterization approach” [Tribol Int (2016) 249–59]"
+}

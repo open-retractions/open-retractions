@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1057/pmed.2015.7","type":"correction"},"doi":"10.1057/cpt.2008.50","journal":"postmedieval: a journal of medieval cultural studies","publisher":"Springer Nature","title":"Erratum: Humanism, philology and the medievalist"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496057638682,
+      "identifier": {
+        "doi": "10.1057/pmed.2015.7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/cpt.2008.50"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum: Humanism, philology and the medievalist"
+}

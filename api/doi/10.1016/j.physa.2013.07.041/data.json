@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.physa.2013.09.034","type":"err"},"doi":"10.1016/j.physa.2013.07.041","journal":"Physica A: Statistical Mechanics and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Construction of Langevin model from time series with periodical correlation function: Application to wind” [Physica A 392 (22) (2013) 5592–5603]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496050391261,
+      "identifier": {
+        "doi": "10.1016/j.physa.2013.09.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physa.2013.07.041"
+  },
+  "journal": "Physica A: Statistical Mechanics and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Construction of Langevin model from time series with periodical correlation function: Application to wind” [Physica A 392 (22) (2013) 5592–5603]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463270400000,"doi":"10.1016/j.bios.2015.12.048","type":"erratum"},"doi":"10.1016/j.bios.2015.09.032","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Erratum to “A virus-based nanoplasmonic structure as a surface-enhanced Raman biosensor” [Biosens. Bioelectron. 77 (2016) 306–314]"}
+{
+  "retracted": false,
+  "timestamp": 1463270400000,
+  "updates": [
+    {
+      "timestamp": 1496056313201,
+      "identifier": {
+        "doi": "10.1016/j.bios.2015.12.048"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2015.09.032"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A virus-based nanoplasmonic structure as a surface-enhanced Raman biosensor” [Biosens. Bioelectron. 77 (2016) 306–314]"
+}

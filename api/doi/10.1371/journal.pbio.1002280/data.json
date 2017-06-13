@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450396800000,"doi":"10.1371/journal.pbio.1002343","type":"correction"},"doi":"10.1371/journal.pbio.1002280","journal":"PLOS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: CitSci.org: A New Model for Managing, Documenting, and Sharing Citizen Science Data"}
+{
+  "retracted": false,
+  "timestamp": 1450396800000,
+  "updates": [
+    {
+      "timestamp": 1496054400919,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1002343"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1002280"
+  },
+  "journal": "PLOS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: CitSci.org: A New Model for Managing, Documenting, and Sharing Citizen Science Data"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.catena.2016.09.011","type":"err"},"doi":"10.1016/j.catena.2016.06.008","journal":"CATENA","publisher":"Elsevier BV","title":"RETRACTED ‘Application of adaptive neuro-fuzzy technique to determine the most relevant variables for daily soil temperature prediction at different depths’"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495660635220,
+      "identifier": {
+        "doi": "10.1016/j.catena.2016.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.catena.2016.06.008"
+  },
+  "journal": "CATENA",
+  "publisher": "Elsevier BV",
+  "title": "RETRACTED ‘Application of adaptive neuro-fuzzy technique to determine the most relevant variables for daily soil temperature prediction at different depths’"
+}

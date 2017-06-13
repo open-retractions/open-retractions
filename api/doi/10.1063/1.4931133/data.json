@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449619200000,"doi":"10.1063/1.4937124","type":"correction"},"doi":"10.1063/1.4931133","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Fabricating a n+-Ge contact with ultralow specific contact resistivity by introducing a PtGe alloy as a contact metal” [Appl. Phys. Lett. 107, 113503 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1449619200000,
+  "updates": [
+    {
+      "timestamp": 1496052297334,
+      "identifier": {
+        "doi": "10.1063/1.4937124"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4931133"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Fabricating a n+-Ge contact with ultralow specific contact resistivity by introducing a PtGe alloy as a contact metal” [Appl. Phys. Lett. 107, 113503 (2015)]"
+}

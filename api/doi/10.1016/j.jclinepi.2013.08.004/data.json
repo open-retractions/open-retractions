@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jclinepi.2014.07.003","type":"err"},"doi":"10.1016/j.jclinepi.2013.08.004","journal":"Journal of Clinical Epidemiology","publisher":"Elsevier BV","title":"Erratum to “Using GRADE for evaluating the quality of evidence in hyperbaric oxygen therapy clarifies evidence limitations” [J Clin Epidemiol 2014;67(1):65-72]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495995563671,
+      "identifier": {
+        "doi": "10.1016/j.jclinepi.2014.07.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jclinepi.2013.08.004"
+  },
+  "journal": "Journal of Clinical Epidemiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Using GRADE for evaluating the quality of evidence in hyperbaric oxygen therapy clarifies evidence limitations” [J Clin Epidemiol 2014;67(1):65-72]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486598400000,"doi":"10.1017/jfm.2017.29","type":"correction"},"doi":"10.1017/s0022112001006838","journal":"Journal of Fluid Mechanics","publisher":"Cambridge University Press (CUP)","title":"Shear stress of a monolayer of rough spheres – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1486598400000,
+  "updates": [
+    {
+      "timestamp": 1495719478559,
+      "identifier": {
+        "doi": "10.1017/jfm.2017.29"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0022112001006838"
+  },
+  "journal": "Journal of Fluid Mechanics",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Shear stress of a monolayer of rough spheres – CORRIGENDUM"
+}

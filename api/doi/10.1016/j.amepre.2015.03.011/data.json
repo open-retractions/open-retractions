@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.amepre.2015.08.002","type":"err"},"doi":"10.1016/j.amepre.2015.03.011","journal":"American Journal of Preventive Medicine","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496037664181,
+      "identifier": {
+        "doi": "10.1016/j.amepre.2015.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amepre.2015.03.011"
+  },
+  "journal": "American Journal of Preventive Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

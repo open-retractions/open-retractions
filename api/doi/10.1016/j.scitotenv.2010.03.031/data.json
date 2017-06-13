@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400112000000,"doi":"10.1016/j.scitotenv.2014.02.044","type":"err"},"doi":"10.1016/j.scitotenv.2010.03.031","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Interactions between engineered nanoparticles (ENPs) and plants: Phytotoxicity, uptake and accumulation” [Sci. Total Environ. 408 (2010) 3053-3061]"}
+{
+  "retracted": false,
+  "timestamp": 1400112000000,
+  "updates": [
+    {
+      "timestamp": 1496022308590,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.02.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2010.03.031"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interactions between engineered nanoparticles (ENPs) and plants: Phytotoxicity, uptake and accumulation” [Sci. Total Environ. 408 (2010) 3053-3061]"
+}

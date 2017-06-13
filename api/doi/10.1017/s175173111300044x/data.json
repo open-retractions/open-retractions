@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1017/s1751731115002086","type":"correction"},"doi":"10.1017/s175173111300044x","journal":"animal","publisher":"Cambridge University Press (CUP)","title":"Population parameters incorporated into genome-wide tagSNP selection – ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496036688856,
+      "identifier": {
+        "doi": "10.1017/s1751731115002086"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s175173111300044x"
+  },
+  "journal": "animal",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Population parameters incorporated into genome-wide tagSNP selection – ERRATUM"
+}

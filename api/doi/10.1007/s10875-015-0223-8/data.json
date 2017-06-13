@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455753600000,"doi":"10.1007/s10875-016-0238-9","type":"correction"},"doi":"10.1007/s10875-015-0223-8","journal":"Journal of Clinical Immunology","publisher":"Springer Nature","title":"Erratum to: Severe Mycobacterial Diseases in a Patient with GOF IκBα Mutation Without EDA"}
+{
+  "retracted": false,
+  "timestamp": 1455753600000,
+  "updates": [
+    {
+      "timestamp": 1495645371957,
+      "identifier": {
+        "doi": "10.1007/s10875-016-0238-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10875-015-0223-8"
+  },
+  "journal": "Journal of Clinical Immunology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Severe Mycobacterial Diseases in a Patient with GOF IκBα Mutation Without EDA"
+}

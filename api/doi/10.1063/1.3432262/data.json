@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422576000000,"doi":"10.1063/1.4906339","type":"correction"},"doi":"10.1063/1.3432262","journal":"Low Temperature Physics","publisher":"AIP Publishing","title":"Erratum: “Single-molecule probing of incommensurate biphenyl” [Low Temp. Phys. 36, 448 (2010) (Fiz. Nizk. Temp. 36, 559 (2010))]"}
+{
+  "retracted": false,
+  "timestamp": 1422576000000,
+  "updates": [
+    {
+      "timestamp": 1496041084454,
+      "identifier": {
+        "doi": "10.1063/1.4906339"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3432262"
+  },
+  "journal": "Low Temperature Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Single-molecule probing of incommensurate biphenyl” [Low Temp. Phys. 36, 448 (2010) (Fiz. Nizk. Temp. 36, 559 (2010))]"
+}

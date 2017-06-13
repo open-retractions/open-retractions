@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1016/j.toxicon.2017.01.012","type":"erratum"},"doi":"10.1016/j.toxicon.2016.11.261","journal":"Toxicon","publisher":"Elsevier BV","title":"Corrigendum to “The first report on transcriptome analysis of the venom gland of Iranian scorpion, Hemiscorpius lepturus” [Toxicon 125 (2017) 123–130]"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495681152476,
+      "identifier": {
+        "doi": "10.1016/j.toxicon.2017.01.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxicon.2016.11.261"
+  },
+  "journal": "Toxicon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The first report on transcriptome analysis of the venom gland of Iranian scorpion, Hemiscorpius lepturus” [Toxicon 125 (2017) 123–130]"
+}

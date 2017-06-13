@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.still.2014.12.010","type":"err"},"doi":"10.1016/j.still.2014.11.001","journal":"Soil and Tillage Research","publisher":"Elsevier BV","title":"Corrigendum to “A soil quality assessment under different land use types in Keriya river basin, Southern Xinjiang, China” [Soil Tillage Res. 146 (2015) 223–229]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496035997441,
+      "identifier": {
+        "doi": "10.1016/j.still.2014.12.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.still.2014.11.001"
+  },
+  "journal": "Soil and Tillage Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A soil quality assessment under different land use types in Keriya river basin, Southern Xinjiang, China” [Soil Tillage Res. 146 (2015) 223–229]"
+}

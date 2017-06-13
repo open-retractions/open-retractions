@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jct.2014.02.011","type":"err"},"doi":"10.1016/j.jct.2013.04.010","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to ‘Experimental density measurements of bis(2-ethylhexyl) phthalate at elevated temperatures and pressures’ [J. Chem. Thermodyn. 63 (2013) 102–107]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496017638755,
+      "identifier": {
+        "doi": "10.1016/j.jct.2014.02.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.04.010"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Experimental density measurements of bis(2-ethylhexyl) phthalate at elevated temperatures and pressures’ [J. Chem. Thermodyn. 63 (2013) 102–107]"
+}

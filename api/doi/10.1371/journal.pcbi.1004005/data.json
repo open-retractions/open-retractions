@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425513600000,"doi":"10.1371/journal.pcbi.1004133","type":"correction"},"doi":"10.1371/journal.pcbi.1004005","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Systems Level Analysis of Systemic Sclerosis Shows a Network of Immune and Profibrotic Pathways Connected with Genetic Polymorphisms"}
+{
+  "retracted": false,
+  "timestamp": 1425513600000,
+  "updates": [
+    {
+      "timestamp": 1496048829911,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004133"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004005"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systems Level Analysis of Systemic Sclerosis Shows a Network of Immune and Profibrotic Pathways Connected with Genetic Polymorphisms"
+}

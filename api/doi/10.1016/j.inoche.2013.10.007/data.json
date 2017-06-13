@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.inoche.2014.03.004","type":"err"},"doi":"10.1016/j.inoche.2013.10.007","journal":"Inorganic Chemistry Communications","publisher":"Elsevier BV","title":"Corrigendum to “Copper(II)-assisted charge transfer quenching of the excited state of a zinc(II) porphyrin complex bearing a peripheral bipyridine moiety” [Inorg. Chem. Commun. (38) (2013) 108–111]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496029367521,
+      "identifier": {
+        "doi": "10.1016/j.inoche.2014.03.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.inoche.2013.10.007"
+  },
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Copper(II)-assisted charge transfer quenching of the excited state of a zinc(II) porphyrin complex bearing a peripheral bipyridine moiety” [Inorg. Chem. Commun. (38) (2013) 108–111]"
+}

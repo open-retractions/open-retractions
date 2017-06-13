@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.1186/s40560-016-0168-x","type":"correction"},"doi":"10.1186/s40560-016-0141-8","journal":"Journal of Intensive Care","publisher":"Springer Nature","title":"Erratum to: Neurocritical care update"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495731627503,
+      "identifier": {
+        "doi": "10.1186/s40560-016-0168-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40560-016-0141-8"
+  },
+  "journal": "Journal of Intensive Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neurocritical care update"
+}

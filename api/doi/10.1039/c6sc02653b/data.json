@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470873600000,"doi":"10.1039/c6sc90052f","type":"correction"},"doi":"10.1039/c6sc02653b","journal":"Chem. Sci.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Photoredox-mediated Minisci C–H alkylation of N-heteroarenes using boronic acids and hypervalent iodine"}
+{
+  "retracted": false,
+  "timestamp": 1470873600000,
+  "updates": [
+    {
+      "timestamp": 1495737269519,
+      "identifier": {
+        "doi": "10.1039/c6sc90052f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6sc02653b"
+  },
+  "journal": "Chem. Sci.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Photoredox-mediated Minisci C–H alkylation of N-heteroarenes using boronic acids and hypervalent iodine"
+}

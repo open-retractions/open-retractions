@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452470400000,"doi":"10.1007/s10529-016-2033-3","type":"correction"},"doi":"10.1007/s10529-015-2025-8","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Outer membrane protein C (OmpC) of Escherichia coli induces neurodegeneration in mice by acting as an amyloid"}
+{
+  "retracted": false,
+  "timestamp": 1452470400000,
+  "updates": [
+    {
+      "timestamp": 1496059379721,
+      "identifier": {
+        "doi": "10.1007/s10529-016-2033-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-015-2025-8"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Outer membrane protein C (OmpC) of Escherichia coli induces neurodegeneration in mice by acting as an amyloid"
+}

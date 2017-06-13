@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1007/s11336-016-9551-8","type":"correction"},"doi":"10.1007/s11336-015-9469-6","journal":"Psychometrika","publisher":"Springer Nature","title":"Erratum to: Linking Item Response Model Parameters"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495678163130,
+      "identifier": {
+        "doi": "10.1007/s11336-016-9551-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11336-015-9469-6"
+  },
+  "journal": "Psychometrika",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Linking Item Response Model Parameters"
+}

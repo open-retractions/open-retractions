@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1155254400000,"doi":"10.1140/epja/i2006-10-116-7","type":"correction"},"doi":"10.1007/s1010502a0003","journal":"The European Physical Journal A","publisher":"Springer Nature","title":"Beta decay of 57Zn"}
+{
+  "retracted": false,
+  "timestamp": 1155254400000,
+  "updates": [
+    {
+      "timestamp": 1495861924314,
+      "identifier": {
+        "doi": "10.1140/epja/i2006-10-116-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s1010502a0003"
+  },
+  "journal": "The European Physical Journal A",
+  "publisher": "Springer Nature",
+  "title": "Beta decay of 57Zn"
+}

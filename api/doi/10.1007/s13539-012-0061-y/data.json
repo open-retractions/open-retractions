@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337644800000,"doi":"10.1007/s13539-012-0070-x","type":"correction"},"doi":"10.1007/s13539-012-0061-y","journal":"Journal of Cachexia, Sarcopenia and Muscle","publisher":"Wiley-Blackwell","title":"Erratum to: Recent developments in the treatment of cachexia: highlights from the 6th Cachexia Conference"}
+{
+  "retracted": false,
+  "timestamp": 1337644800000,
+  "updates": [
+    {
+      "timestamp": 1495895793392,
+      "identifier": {
+        "doi": "10.1007/s13539-012-0070-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13539-012-0061-y"
+  },
+  "journal": "Journal of Cachexia, Sarcopenia and Muscle",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum to: Recent developments in the treatment of cachexia: highlights from the 6th Cachexia Conference"
+}

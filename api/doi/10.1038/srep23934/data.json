@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481068800000,"doi":"10.1038/srep35331","type":"correction"},"doi":"10.1038/srep23934","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Recombination spot identification Based on gapped k-mers"}
+{
+  "retracted": false,
+  "timestamp": 1481068800000,
+  "updates": [
+    {
+      "timestamp": 1495665461717,
+      "identifier": {
+        "doi": "10.1038/srep35331"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep23934"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Recombination spot identification Based on gapped k-mers"
+}

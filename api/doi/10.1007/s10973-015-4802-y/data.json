@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455235200000,"doi":"10.1007/s10973-016-5310-4","type":"correction"},"doi":"10.1007/s10973-015-4802-y","journal":"Journal of Thermal Analysis and Calorimetry","publisher":"Springer Nature","title":"Erratum to: Oxygen adsorption properties of La1−xSrxCo1−yFeyO3−d oxides"}
+{
+  "retracted": false,
+  "timestamp": 1455235200000,
+  "updates": [
+    {
+      "timestamp": 1495644298822,
+      "identifier": {
+        "doi": "10.1007/s10973-016-5310-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10973-015-4802-y"
+  },
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Oxygen adsorption properties of La1−xSrxCo1−yFeyO3−d oxides"
+}

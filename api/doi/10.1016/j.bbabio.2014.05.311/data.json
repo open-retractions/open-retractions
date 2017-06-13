@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bbabio.2014.10.001","type":"erratum"},"doi":"10.1016/j.bbabio.2014.05.311","journal":"Biochimica et Biophysica Acta (BBA) - Bioenergetics","publisher":"Elsevier BV","title":"Corrigendum to “The composition of pea mitochondrial supercomplexes under cold conditions” [Biochim. Biophys. Acta Bioenerg. 1837S (2014) e32]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496013137625,
+      "identifier": {
+        "doi": "10.1016/j.bbabio.2014.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbabio.2014.05.311"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Bioenergetics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The composition of pea mitochondrial supercomplexes under cold conditions” [Biochim. Biophys. Acta Bioenerg. 1837S (2014) e32]"
+}

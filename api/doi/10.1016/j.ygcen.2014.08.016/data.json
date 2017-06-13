@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.ygcen.2015.11.008","type":"err"},"doi":"10.1016/j.ygcen.2014.08.016","journal":"General and Comparative Endocrinology","publisher":"Elsevier BV","title":"Erratum to “Differential peptidomics highlights adipokinetic hormone as key player in regulating digestion in anautogenous flesh fly, Sarcophaga crassipalpis” [Gen. Comp. Endocrinol. 208 (2014) 49–56]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496049166583,
+      "identifier": {
+        "doi": "10.1016/j.ygcen.2015.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygcen.2014.08.016"
+  },
+  "journal": "General and Comparative Endocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Differential peptidomics highlights adipokinetic hormone as key player in regulating digestion in anautogenous flesh fly, Sarcophaga crassipalpis” [Gen. Comp. Endocrinol. 208 (2014) 49–56]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379548800000,"doi":"10.1371/annotation/032b026d-5bcf-4c1b-aa15-65c226a53818","type":"correction"},"doi":"10.1371/journal.pone.0055813","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Phosphorylation of Daxx by ATM Contributes to DNA Damage-Induced p53 Activation"}
+{
+  "retracted": false,
+  "timestamp": 1379548800000,
+  "updates": [
+    {
+      "timestamp": 1496048610073,
+      "identifier": {
+        "doi": "10.1371/annotation/032b026d-5bcf-4c1b-aa15-65c226a53818"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055813"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Phosphorylation of Daxx by ATM Contributes to DNA Damage-Induced p53 Activation"
+}

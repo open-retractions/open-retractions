@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405123200000,"doi":"10.1007/s10764-014-9785-1","type":"correction"},"doi":"10.1007/s10764-012-9580-9","journal":"International Journal of Primatology","publisher":"Springer Nature","title":"Erratum to: Fallback Foods of Red Leaf Monkeys (Presbytis rubicunda) in Danum Valley, Borneo"}
+{
+  "retracted": false,
+  "timestamp": 1405123200000,
+  "updates": [
+    {
+      "timestamp": 1496052650964,
+      "identifier": {
+        "doi": "10.1007/s10764-014-9785-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10764-012-9580-9"
+  },
+  "journal": "International Journal of Primatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fallback Foods of Red Leaf Monkeys (Presbytis rubicunda) in Danum Valley, Borneo"
+}

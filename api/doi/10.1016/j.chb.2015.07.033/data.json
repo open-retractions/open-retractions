@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.chb.2016.06.046","type":"err"},"doi":"10.1016/j.chb.2015.07.033","journal":"Computers in Human Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Initial prototype testing of Ray's Night Out: A new mobile app targeting risky drinking in young people” [Comput. Hum. Behav.] 54 (2016) 207–214"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495724293436,
+      "identifier": {
+        "doi": "10.1016/j.chb.2016.06.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chb.2015.07.033"
+  },
+  "journal": "Computers in Human Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Initial prototype testing of Ray's Night Out: A new mobile app targeting risky drinking in young people” [Comput. Hum. Behav.] 54 (2016) 207–214"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.micromeso.2013.08.019","type":"err"},"doi":"10.1016/j.micromeso.2011.09.032","journal":"Microporous and Mesoporous Materials","publisher":"Elsevier BV","title":"Corrigendum to “Lithium storage performance in ordered mesoporous MoS2 electrode material” [Microporous and Mesoporous Materials 151 (2012) 418–423]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496046202752,
+      "identifier": {
+        "doi": "10.1016/j.micromeso.2013.08.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micromeso.2011.09.032"
+  },
+  "journal": "Microporous and Mesoporous Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lithium storage performance in ordered mesoporous MoS2 electrode material” [Microporous and Mesoporous Materials 151 (2012) 418–423]"
+}

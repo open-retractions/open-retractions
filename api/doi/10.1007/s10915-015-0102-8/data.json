@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1007/s10915-016-0197-6","type":"correction"},"doi":"10.1007/s10915-015-0102-8","journal":"Journal of Scientific Computing","publisher":"Springer Nature","title":"Erratum to: On the Stability of the Flux Reconstruction Schemes on Quadrilateral Elements for the Linear Advection Equation"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495662109290,
+      "identifier": {
+        "doi": "10.1007/s10915-016-0197-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10915-015-0102-8"
+  },
+  "journal": "Journal of Scientific Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the Stability of the Flux Reconstruction Schemes on Quadrilateral Elements for the Linear Advection Equation"
+}

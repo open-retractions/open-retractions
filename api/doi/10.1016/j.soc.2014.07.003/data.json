@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.soc.2014.12.013","type":"err"},"doi":"10.1016/j.soc.2014.07.003","journal":"Surgical Oncology Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496049998125,
+      "identifier": {
+        "doi": "10.1016/j.soc.2014.12.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soc.2014.07.003"
+  },
+  "journal": "Surgical Oncology Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

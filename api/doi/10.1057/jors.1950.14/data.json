@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-594518400000,"doi":"10.1057/jors.1951.7","type":"correction"},"doi":"10.1057/jors.1950.14","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: The Government Social Survey"}
+{
+  "retracted": false,
+  "timestamp": -594518400000,
+  "updates": [
+    {
+      "timestamp": 1495887809298,
+      "identifier": {
+        "doi": "10.1057/jors.1951.7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1950.14"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The Government Social Survey"
+}

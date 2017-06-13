@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.jmmm.2016.02.025","type":"err"},"doi":"10.1016/j.jmmm.2015.05.070","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Corrigendum to: “Model for Magnetostrictive Performance in Soft/hard Coupled Bilayers” [J. Magn. Magn. Mater. 393C (2015) 213−219]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495646667257,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2016.02.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2015.05.070"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Model for Magnetostrictive Performance in Soft/hard Coupled Bilayers” [J. Magn. Magn. Mater. 393C (2015) 213−219]"
+}

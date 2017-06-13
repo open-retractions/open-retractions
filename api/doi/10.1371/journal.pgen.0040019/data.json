@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1206662400000,"doi":"10.1371/annotation/cbdd11a0-4a29-4e7c-9e4e-c00a184c7777","type":"correction"},"doi":"10.1371/journal.pgen.0040019","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: The Genetic Structure of Pacific Islanders"}
+{
+  "retracted": false,
+  "timestamp": 1206662400000,
+  "updates": [
+    {
+      "timestamp": 1496025197828,
+      "identifier": {
+        "doi": "10.1371/annotation/cbdd11a0-4a29-4e7c-9e4e-c00a184c7777"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.0040019"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Genetic Structure of Pacific Islanders"
+}

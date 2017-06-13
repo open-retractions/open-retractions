@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.scitotenv.2014.01.035","type":"err"},"doi":"10.1016/j.scitotenv.2012.05.087","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Moss bag biomonitoring: A methodological review” [Sci Total Environ 432 (2012) 143–158]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496014516589,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.01.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2012.05.087"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Moss bag biomonitoring: A methodological review” [Sci Total Environ 432 (2012) 143–158]"
+}

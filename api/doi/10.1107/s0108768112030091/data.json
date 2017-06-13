@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1107/s2052519213009068","type":"correction"},"doi":"10.1107/s0108768112030091","journal":"Acta Crystallographica Section B Structural Science Crystal Engineering and Materials","publisher":"International Union of Crystallography (IUCr)","title":"Crystallographic input data for (001), (110) and (111)-oriented superlattices. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496018088664,
+      "identifier": {
+        "doi": "10.1107/s2052519213009068"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0108768112030091"
+  },
+  "journal": "Acta Crystallographica Section B Structural Science Crystal Engineering and Materials",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Crystallographic input data for (001), (110) and (111)-oriented superlattices. Corrigendum"
+}

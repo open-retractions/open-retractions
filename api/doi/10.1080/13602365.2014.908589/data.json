@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404950400000,"doi":"10.1080/13602365.2014.933541","type":"correction"},"doi":"10.1080/13602365.2014.908589","journal":"The Journal of Architecture","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1404950400000,
+  "updates": [
+    {
+      "timestamp": 1496052967731,
+      "identifier": {
+        "doi": "10.1080/13602365.2014.933541"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13602365.2014.908589"
+  },
+  "journal": "The Journal of Architecture",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

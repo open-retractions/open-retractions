@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419033600000,"doi":"10.1007/s00401-014-1374-z","type":"correction"},"doi":"10.1007/s00401-014-1368-x","journal":"Acta Neuropathologica","publisher":"Springer Nature","title":"Erratum to: Acute function of secreted amyloid precursor protein fragment APPsα in synaptic plasticity"}
+{
+  "retracted": false,
+  "timestamp": 1419033600000,
+  "updates": [
+    {
+      "timestamp": 1496031819837,
+      "identifier": {
+        "doi": "10.1007/s00401-014-1374-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00401-014-1368-x"
+  },
+  "journal": "Acta Neuropathologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Acute function of secreted amyloid precursor protein fragment APPsα in synaptic plasticity"
+}

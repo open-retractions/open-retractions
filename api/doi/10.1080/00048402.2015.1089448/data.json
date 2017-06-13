@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1080/00048402.2016.1161488","type":"correction"},"doi":"10.1080/00048402.2015.1089448","journal":"Australasian Journal of Philosophy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655033685,
+      "identifier": {
+        "doi": "10.1080/00048402.2016.1161488"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00048402.2015.1089448"
+  },
+  "journal": "Australasian Journal of Philosophy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

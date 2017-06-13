@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469059200000,"doi":"10.1080/21681015.2016.1170401","type":"correction"},"doi":"10.1080/21681015.2015.1095805","journal":"Journal of Industrial and Production Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1469059200000,
+  "updates": [
+    {
+      "timestamp": 1495731068048,
+      "identifier": {
+        "doi": "10.1080/21681015.2016.1170401"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21681015.2015.1095805"
+  },
+  "journal": "Journal of Industrial and Production Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

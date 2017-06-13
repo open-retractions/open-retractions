@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418688000000,"doi":"10.1016/j.ejor.2014.07.001","type":"err"},"doi":"10.1016/j.ejor.2012.11.024","journal":"European Journal of Operational Research","publisher":"Elsevier BV","title":"Corrigendum to “Benders Decomposition for multi-stage stochastic mixed complementarity problems – Applied to a global natural gas market model” [Eur. J. Oper. Res. 226 (2013) 341–353]"}
+{
+  "retracted": false,
+  "timestamp": 1418688000000,
+  "updates": [
+    {
+      "timestamp": 1496053912011,
+      "identifier": {
+        "doi": "10.1016/j.ejor.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejor.2012.11.024"
+  },
+  "journal": "European Journal of Operational Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Benders Decomposition for multi-stage stochastic mixed complementarity problems – Applied to a global natural gas market model” [Eur. J. Oper. Res. 226 (2013) 341–353]"
+}

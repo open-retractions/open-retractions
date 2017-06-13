@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348012800000,"doi":"10.1371/annotation/ab4fff87-6a32-4718-aa4c-91658f164b8d","type":"correction"},"doi":"10.1371/journal.pone.0043645","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Anticancer Activity of MPT0E028, a Novel Potent Histone Deacetylase Inhibitor, in Human Colorectal Cancer HCT116 Cells In Vitro and In Vivo"}
+{
+  "retracted": false,
+  "timestamp": 1348012800000,
+  "updates": [
+    {
+      "timestamp": 1495957937133,
+      "identifier": {
+        "doi": "10.1371/annotation/ab4fff87-6a32-4718-aa4c-91658f164b8d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0043645"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Anticancer Activity of MPT0E028, a Novel Potent Histone Deacetylase Inhibitor, in Human Colorectal Cancer HCT116 Cells In Vitro and In Vivo"
+}

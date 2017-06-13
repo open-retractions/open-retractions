@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406160000000,"doi":"10.1016/j.celrep.2014.06.041","type":"err"},"doi":"10.1016/j.celrep.2012.11.014","journal":"Cell Reports","publisher":"Elsevier BV","title":"A Role for Dopamine-Mediated Learning in the Pathophysiology and Treatment of Parkinson’s Disease"}
+{
+  "retracted": false,
+  "timestamp": 1406160000000,
+  "updates": [
+    {
+      "timestamp": 1496056296640,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2014.06.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2012.11.014"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "A Role for Dopamine-Mediated Learning in the Pathophysiology and Treatment of Parkinson’s Disease"
+}

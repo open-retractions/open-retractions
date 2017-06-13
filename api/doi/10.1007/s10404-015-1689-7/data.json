@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473811200000,"doi":"10.1007/s10404-016-1796-0","type":"correction"},"doi":"10.1007/s10404-015-1689-7","journal":"Microfluidics and Nanofluidics","publisher":"Springer Nature","title":"Erratum to: Formation of vortices in long microcavities at low Reynolds number"}
+{
+  "retracted": false,
+  "timestamp": 1473811200000,
+  "updates": [
+    {
+      "timestamp": 1495639741496,
+      "identifier": {
+        "doi": "10.1007/s10404-016-1796-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10404-015-1689-7"
+  },
+  "journal": "Microfluidics and Nanofluidics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Formation of vortices in long microcavities at low Reynolds number"
+}

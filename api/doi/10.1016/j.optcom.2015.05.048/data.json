@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.optcom.2015.10.001","type":"err"},"doi":"10.1016/j.optcom.2015.05.048","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Long-term wavelength drift compensation of tunable pulsed dye laser for sodium detection lidar” [Opt. Commun. 354C (2015) 52–58]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496038566408,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2015.05.048"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Long-term wavelength drift compensation of tunable pulsed dye laser for sodium detection lidar” [Opt. Commun. 354C (2015) 52–58]"
+}

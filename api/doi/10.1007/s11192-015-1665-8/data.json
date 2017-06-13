@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1007/s11192-016-1840-6","type":"correction"},"doi":"10.1007/s11192-015-1665-8","journal":"Scientometrics","publisher":"Springer Nature","title":"Erratum to: A comparative analysis of scientific publications in management journals by authors from Mainland China, Hong Kong, Taiwan, and Macau: 2003–2012"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641334446,
+      "identifier": {
+        "doi": "10.1007/s11192-016-1840-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11192-015-1665-8"
+  },
+  "journal": "Scientometrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A comparative analysis of scientific publications in management journals by authors from Mainland China, Hong Kong, Taiwan, and Macau: 2003–2012"
+}

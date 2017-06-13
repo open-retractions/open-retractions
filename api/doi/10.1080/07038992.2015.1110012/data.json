@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486512000000,"doi":"10.1080/07038992.2017.1287494","type":"correction"},"doi":"10.1080/07038992.2015.1110012","journal":"Canadian Journal of Remote Sensing","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1486512000000,
+  "updates": [
+    {
+      "timestamp": 1495719200026,
+      "identifier": {
+        "doi": "10.1080/07038992.2017.1287494"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07038992.2015.1110012"
+  },
+  "journal": "Canadian Journal of Remote Sensing",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

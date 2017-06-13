@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330473600000,"doi":"10.1371/annotation/72b02b2e-460a-44f4-bc87-067cfe76bfdb","type":"correction"},"doi":"10.1371/journal.ppat.1002448","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Juxtamembrane Shedding of Plasmodium falciparum AMA1 Is Sequence Independent and Essential, and Helps Evade Invasion-Inhibitory Antibodies"}
+{
+  "retracted": false,
+  "timestamp": 1330473600000,
+  "updates": [
+    {
+      "timestamp": 1495881230993,
+      "identifier": {
+        "doi": "10.1371/annotation/72b02b2e-460a-44f4-bc87-067cfe76bfdb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002448"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Juxtamembrane Shedding of Plasmodium falciparum AMA1 Is Sequence Independent and Essential, and Helps Evade Invasion-Inhibitory Antibodies"
+}

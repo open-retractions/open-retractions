@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423958400000,"doi":"10.1016/j.gene.2014.12.015","type":"err"},"doi":"10.1016/j.gene.2014.01.010","journal":"Gene","publisher":"Elsevier BV","title":"Erratum to “Computational identification and characterization of conserved miRNAs and their target genes in garlic (Allium sativum L.) expressed sequence tags” [Gene 537 (2014) 333–342]"}
+{
+  "retracted": false,
+  "timestamp": 1423958400000,
+  "updates": [
+    {
+      "timestamp": 1496030305094,
+      "identifier": {
+        "doi": "10.1016/j.gene.2014.12.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2014.01.010"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Computational identification and characterization of conserved miRNAs and their target genes in garlic (Allium sativum L.) expressed sequence tags” [Gene 537 (2014) 333–342]"
+}

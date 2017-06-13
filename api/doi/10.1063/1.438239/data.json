@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":339206400000,"doi":"10.1063/1.440768","type":"erratum"},"doi":"10.1063/1.438239","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: A full polarizability treatment of the π‐π* absorption and circular dichroic spectra of α‐helical polypeptides [J. Chem. Phys. 71, 4332 (1979)]"}
+{
+  "retracted": false,
+  "timestamp": 339206400000,
+  "updates": [
+    {
+      "timestamp": 1495896803843,
+      "identifier": {
+        "doi": "10.1063/1.440768"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.438239"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: A full polarizability treatment of the π‐π* absorption and circular dichroic spectra of α‐helical polypeptides [J. Chem. Phys. 71, 4332 (1979)]"
+}

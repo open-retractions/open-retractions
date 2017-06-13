@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1301443200000,"doi":"10.1007/s00280-011-1626-8","type":"correction"},"doi":"10.1007/s00280-011-1594-z","journal":"Cancer Chemotherapy and Pharmacology","publisher":"Springer Nature","title":"Erratum to: Phase II trial of cisplatin plus prednisone in docetaxel-refractory castration-resistant prostate cancer patients"}
+{
+  "retracted": false,
+  "timestamp": 1301443200000,
+  "updates": [
+    {
+      "timestamp": 1495945089702,
+      "identifier": {
+        "doi": "10.1007/s00280-011-1626-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00280-011-1594-z"
+  },
+  "journal": "Cancer Chemotherapy and Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phase II trial of cisplatin plus prednisone in docetaxel-refractory castration-resistant prostate cancer patients"
+}

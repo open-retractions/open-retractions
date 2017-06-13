@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1274659200000,"doi":"10.1371/annotation/530e1439-fee8-434c-97b1-7d2cd87e2e46","type":"correction"},"doi":"10.1371/journal.pone.0010257","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Human Direct Actions May Alter Animal Welfare, a Study on Horses (Equus caballus)"}
+{
+  "retracted": false,
+  "timestamp": 1274659200000,
+  "updates": [
+    {
+      "timestamp": 1496025195914,
+      "identifier": {
+        "doi": "10.1371/annotation/530e1439-fee8-434c-97b1-7d2cd87e2e46"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0010257"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Human Direct Actions May Alter Animal Welfare, a Study on Horses (Equus caballus)"
+}

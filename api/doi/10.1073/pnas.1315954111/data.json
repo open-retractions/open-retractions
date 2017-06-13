@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391731200000,"doi":"10.1073/pnas.1401930111","type":"correction"},"doi":"10.1073/pnas.1315954111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Smith et al., Programmed Allee effect in bacteria causes a tradeoff between population spread and survival"}
+{
+  "retracted": false,
+  "timestamp": 1391731200000,
+  "updates": [
+    {
+      "timestamp": 1496016893693,
+      "identifier": {
+        "doi": "10.1073/pnas.1401930111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1315954111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Smith et al., Programmed Allee effect in bacteria causes a tradeoff between population spread and survival"
+}

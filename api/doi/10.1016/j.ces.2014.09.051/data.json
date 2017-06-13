@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424131200000,"doi":"10.1016/j.ces.2014.11.049","type":"err"},"doi":"10.1016/j.ces.2014.09.051","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Erratum to: “Engineering molecular dynamics simulation in chemical engineering” [Chem. Eng. Sci. 121 (2015) 200–216]"}
+{
+  "retracted": false,
+  "timestamp": 1424131200000,
+  "updates": [
+    {
+      "timestamp": 1496030083857,
+      "identifier": {
+        "doi": "10.1016/j.ces.2014.11.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2014.09.051"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Engineering molecular dynamics simulation in chemical engineering” [Chem. Eng. Sci. 121 (2015) 200–216]"
+}

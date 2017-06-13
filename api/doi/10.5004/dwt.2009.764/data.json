@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443571200000,"doi":"10.1080/19443994.2015.1097100","type":"correction"},"doi":"10.5004/dwt.2009.764","journal":"Desalination and Water Treatment","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1443571200000,
+  "updates": [
+    {
+      "timestamp": 1496033926110,
+      "identifier": {
+        "doi": "10.1080/19443994.2015.1097100"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.5004/dwt.2009.764"
+  },
+  "journal": "Desalination and Water Treatment",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

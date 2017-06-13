@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389052800000,"doi":"10.1371/annotation/b6121731-7357-4657-9845-82eb0c937f89","type":"correction"},"doi":"10.1371/journal.pone.0084639","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Discovering Implicit Entity Relation with the Gene-Citation-Gene Network"}
+{
+  "retracted": false,
+  "timestamp": 1389052800000,
+  "updates": [
+    {
+      "timestamp": 1496010480536,
+      "identifier": {
+        "doi": "10.1371/annotation/b6121731-7357-4657-9845-82eb0c937f89"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0084639"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Discovering Implicit Entity Relation with the Gene-Citation-Gene Network"
+}

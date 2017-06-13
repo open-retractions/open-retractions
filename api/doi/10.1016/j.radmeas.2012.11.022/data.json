@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.radmeas.2013.11.004","type":"err"},"doi":"10.1016/j.radmeas.2012.11.022","journal":"Radiation Measurements","publisher":"Elsevier BV","title":"Erratum to “Superheated emulsions and track etch detectors for photoneutron measurements” [Radiat. Meas. Special Issue: EURADOS 2012, 57C (2013), 19–28]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496004172835,
+      "identifier": {
+        "doi": "10.1016/j.radmeas.2013.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.radmeas.2012.11.022"
+  },
+  "journal": "Radiation Measurements",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Superheated emulsions and track etch detectors for photoneutron measurements” [Radiat. Meas. Special Issue: EURADOS 2012, 57C (2013), 19–28]"
+}

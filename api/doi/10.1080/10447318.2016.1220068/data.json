@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482969600000,"doi":"10.1080/10447318.2016.1272945","type":"correction"},"doi":"10.1080/10447318.2016.1220068","journal":"International Journal of Human–Computer Interaction","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1482969600000,
+  "updates": [
+    {
+      "timestamp": 1495670190256,
+      "identifier": {
+        "doi": "10.1080/10447318.2016.1272945"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10447318.2016.1220068"
+  },
+  "journal": "International Journal of Human–Computer Interaction",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

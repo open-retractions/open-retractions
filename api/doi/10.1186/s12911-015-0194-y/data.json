@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1186/s12911-016-0347-7","type":"correction"},"doi":"10.1186/s12911-015-0194-y","journal":"BMC Medical Informatics and Decision Making","publisher":"Springer Nature","title":"Erratum to: Physicians’ responses to computerized drug interaction alerts with password overrides"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495515221141,
+      "identifier": {
+        "doi": "10.1186/s12911-016-0347-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12911-015-0194-y"
+  },
+  "journal": "BMC Medical Informatics and Decision Making",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Physicians’ responses to computerized drug interaction alerts with password overrides"
+}

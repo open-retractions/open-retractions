@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445472000000,"doi":"10.1080/00405000.2015.1100419","type":"correction"},"doi":"10.1080/00405000.2015.1055989","journal":"The Journal of The Textile Institute","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1445472000000,
+  "updates": [
+    {
+      "timestamp": 1496039720783,
+      "identifier": {
+        "doi": "10.1080/00405000.2015.1100419"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00405000.2015.1055989"
+  },
+  "journal": "The Journal of The Textile Institute",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

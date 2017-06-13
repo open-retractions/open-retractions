@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.jneuroim.2016.02.013","type":"err"},"doi":"10.1016/j.jneuroim.2015.11.018","journal":"Journal of Neuroimmunology","publisher":"Elsevier BV","title":"Corrigendum to “Expression of DNA methylation genes in secondary progressive multiple sclerosis” [J. Neuroimmunol. 290 (2016 Jan. 15) 66–9]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495651200984,
+      "identifier": {
+        "doi": "10.1016/j.jneuroim.2016.02.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneuroim.2015.11.018"
+  },
+  "journal": "Journal of Neuroimmunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Expression of DNA methylation genes in secondary progressive multiple sclerosis” [J. Neuroimmunol. 290 (2016 Jan. 15) 66–9]"
+}

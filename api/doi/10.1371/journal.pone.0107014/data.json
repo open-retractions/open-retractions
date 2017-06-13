@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426723200000,"doi":"10.1371/journal.pone.0118741","type":"correction"},"doi":"10.1371/journal.pone.0107014","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: GABenchToB: A Genome Assembly Benchmark Tuned on Bacteria and Benchtop Sequencers"}
+{
+  "retracted": false,
+  "timestamp": 1426723200000,
+  "updates": [
+    {
+      "timestamp": 1496052129918,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0118741"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0107014"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: GABenchToB: A Genome Assembly Benchmark Tuned on Bacteria and Benchtop Sequencers"
+}

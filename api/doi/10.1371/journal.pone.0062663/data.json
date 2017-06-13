@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1371/annotation/58c704d9-7cc4-4e4b-873b-214e6e2655ba","type":"correction"},"doi":"10.1371/journal.pone.0062663","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Evaluation of Specific Absorption Rate as a Dosimetric Quantity for Electromagnetic Fields Bioeffects"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495996260897,
+      "identifier": {
+        "doi": "10.1371/annotation/58c704d9-7cc4-4e4b-873b-214e6e2655ba"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0062663"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evaluation of Specific Absorption Rate as a Dosimetric Quantity for Electromagnetic Fields Bioeffects"
+}

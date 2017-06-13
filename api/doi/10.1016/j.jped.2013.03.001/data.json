@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jped.2015.08.005","type":"err"},"doi":"10.1016/j.jped.2013.03.001","journal":"Jornal de Pediatria","publisher":"Elsevier BV","title":"Erratum on “Clinical manifestations, treatment, and outcomes of children and adolescents with eosinophilic esophagitis”"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496034747585,
+      "identifier": {
+        "doi": "10.1016/j.jped.2015.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jped.2013.03.001"
+  },
+  "journal": "Jornal de Pediatria",
+  "publisher": "Elsevier BV",
+  "title": "Erratum on “Clinical manifestations, treatment, and outcomes of children and adolescents with eosinophilic esophagitis”"
+}

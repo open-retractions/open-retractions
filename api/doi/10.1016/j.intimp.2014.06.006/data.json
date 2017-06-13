@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.intimp.2014.08.008","type":"err"},"doi":"10.1016/j.intimp.2014.06.006","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"‘Corrigendum to “Dexamethasone inhibits in vivo tumor growth by the alteration of bone marrow CD11b+ myeloid cells” [Int Immunopharmacol 21 (2014) 494–500]’"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496002185130,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2014.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2014.06.006"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “Dexamethasone inhibits in vivo tumor growth by the alteration of bone marrow CD11b+ myeloid cells” [Int Immunopharmacol 21 (2014) 494–500]’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":961459200000,"doi":"10.1007/s001090000115","type":"correction"},"doi":"10.1007/s001090000110","journal":"Journal of Molecular Medicine","publisher":"Springer Nature","title":"Erratum to: Cytochrome c oxidase assembly factors with a thioredoxin fold are conserved among prokaryotes and eukaryotes"}
+{
+  "retracted": false,
+  "timestamp": 961459200000,
+  "updates": [
+    {
+      "timestamp": 1495809191319,
+      "identifier": {
+        "doi": "10.1007/s001090000115"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s001090000110"
+  },
+  "journal": "Journal of Molecular Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cytochrome c oxidase assembly factors with a thioredoxin fold are conserved among prokaryotes and eukaryotes"
+}

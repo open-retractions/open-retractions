@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377734400000,"doi":"10.1371/annotation/d0132de3-56ca-4258-9119-bdab0ceb2cff","type":"correction"},"doi":"10.1371/journal.pone.0070196","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Myofibroblast Differentiation and Enhanced Tgf-B Signaling in Cystic Fibrosis Lung Disease"}
+{
+  "retracted": false,
+  "timestamp": 1377734400000,
+  "updates": [
+    {
+      "timestamp": 1496044601360,
+      "identifier": {
+        "doi": "10.1371/annotation/d0132de3-56ca-4258-9119-bdab0ceb2cff"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070196"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Myofibroblast Differentiation and Enhanced Tgf-B Signaling in Cystic Fibrosis Lung Disease"
+}

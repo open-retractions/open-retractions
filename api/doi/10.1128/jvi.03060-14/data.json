@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463270400000,"doi":"10.1128/jvi.00418-16","type":"correction"},"doi":"10.1128/jvi.03060-14","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Erratum for Saha et al., Atrans-Dominant Form of Gag Restricts Ty1 Retrotransposition and Mediates Copy Number Control"}
+{
+  "retracted": false,
+  "timestamp": 1463270400000,
+  "updates": [
+    {
+      "timestamp": 1495665110786,
+      "identifier": {
+        "doi": "10.1128/jvi.00418-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.03060-14"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Saha et al., Atrans-Dominant Form of Gag Restricts Ty1 Retrotransposition and Mediates Copy Number Control"
+}

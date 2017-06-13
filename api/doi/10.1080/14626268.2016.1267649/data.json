@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1080/14626268.2017.1280907","type":"correction"},"doi":"10.1080/14626268.2016.1267649","journal":"Digital Creativity","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495678149749,
+      "identifier": {
+        "doi": "10.1080/14626268.2017.1280907"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14626268.2016.1267649"
+  },
+  "journal": "Digital Creativity",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430870400000,"doi":"10.1088/0264-9381/32/11/119501","type":"correction"},"doi":"10.1088/0264-9381/30/11/115018","journal":"Classical and Quantum Gravity","publisher":"IOP Publishing","title":"Corrigendum: Thermodynamical instabilities of perfect fluid spheres in General Relativity (2013 Class. Quantum Grav. 30 115018)"}
+{
+  "retracted": false,
+  "timestamp": 1430870400000,
+  "updates": [
+    {
+      "timestamp": 1495995259804,
+      "identifier": {
+        "doi": "10.1088/0264-9381/32/11/119501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0264-9381/30/11/115018"
+  },
+  "journal": "Classical and Quantum Gravity",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Thermodynamical instabilities of perfect fluid spheres in General Relativity (2013 Class. Quantum Grav. 30 115018)"
+}

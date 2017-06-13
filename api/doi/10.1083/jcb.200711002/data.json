@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245024000000,"doi":"10.1083/jcb.20071100220090522c","type":"correction"},"doi":"10.1083/jcb.200711002","journal":"The Journal of Cell Biology","publisher":"Rockefeller University Press","title":"Prion protein attenuates excitotoxicity by inhibiting NMDA receptors"}
+{
+  "retracted": false,
+  "timestamp": 1245024000000,
+  "updates": [
+    {
+      "timestamp": 1495957942033,
+      "identifier": {
+        "doi": "10.1083/jcb.20071100220090522c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1083/jcb.200711002"
+  },
+  "journal": "The Journal of Cell Biology",
+  "publisher": "Rockefeller University Press",
+  "title": "Prion protein attenuates excitotoxicity by inhibiting NMDA receptors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.tsf.2013.03.040","type":"err"},"doi":"10.1016/j.tsf.2012.07.063","journal":"Thin Solid Films","publisher":"Elsevier BV","title":"Corrigendum to “Atomistic modelling of lattice relaxation in metallic nanocrystals” [Thin Solid Films 530C (2013) 35–39]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496012952877,
+      "identifier": {
+        "doi": "10.1016/j.tsf.2013.03.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tsf.2012.07.063"
+  },
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Atomistic modelling of lattice relaxation in metallic nanocrystals” [Thin Solid Films 530C (2013) 35–39]"
+}

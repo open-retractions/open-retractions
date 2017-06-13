@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ijinfomgt.2015.09.004","type":"err"},"doi":"10.1016/j.ijinfomgt.2015.07.003","journal":"International Journal of Information Management","publisher":"Elsevier BV","title":"Corrigendum to “Analyzing and predicting news popularity on Twitter” [Int. J. Inf. Manage. 35 (6) (2015) 702–711]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496033584828,
+      "identifier": {
+        "doi": "10.1016/j.ijinfomgt.2015.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijinfomgt.2015.07.003"
+  },
+  "journal": "International Journal of Information Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Analyzing and predicting news popularity on Twitter” [Int. J. Inf. Manage. 35 (6) (2015) 702–711]"
+}

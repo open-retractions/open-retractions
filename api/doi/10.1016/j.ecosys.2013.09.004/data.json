@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.ecosys.2015.04.001","type":"err"},"doi":"10.1016/j.ecosys.2013.09.004","journal":"Economic Systems","publisher":"Elsevier BV","title":"Corrigendum to “Least squares learning and the US treasury bill rate” [Econ. Syst. 38 (2014) 194–204]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496000062617,
+      "identifier": {
+        "doi": "10.1016/j.ecosys.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecosys.2013.09.004"
+  },
+  "journal": "Economic Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Least squares learning and the US treasury bill rate” [Econ. Syst. 38 (2014) 194–204]"
+}

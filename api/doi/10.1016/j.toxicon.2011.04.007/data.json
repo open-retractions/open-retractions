@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364774400000,"doi":"10.1016/j.toxicon.2013.01.009","type":"err"},"doi":"10.1016/j.toxicon.2011.04.007","journal":"Toxicon","publisher":"Elsevier BV","title":"Corrigendum to “Effects of the filamentous cyanobacterium Nodularia on fitness and feeding behavior of young-of-the-year (YOY) Eurasian perch (Perca fluviatilis)” [Toxcon 57 (7–8) (2011), 1033–1040]"}
+{
+  "retracted": false,
+  "timestamp": 1364774400000,
+  "updates": [
+    {
+      "timestamp": 1495992644432,
+      "identifier": {
+        "doi": "10.1016/j.toxicon.2013.01.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxicon.2011.04.007"
+  },
+  "journal": "Toxicon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of the filamentous cyanobacterium Nodularia on fitness and feeding behavior of young-of-the-year (YOY) Eurasian perch (Perca fluviatilis)” [Toxcon 57 (7–8) (2011), 1033–1040]"
+}

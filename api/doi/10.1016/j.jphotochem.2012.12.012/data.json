@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.jphotochem.2013.10.003","type":"err"},"doi":"10.1016/j.jphotochem.2012.12.012","journal":"Journal of Photochemistry and Photobiology A: Chemistry","publisher":"Elsevier BV","title":"Erratum to “Development of a new qualification method for photocatalytically active surfaces based on a solid state luminescent dye” [J. Photochem. Photobiol. A 253 (2013) 7–15]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1495992065672,
+      "identifier": {
+        "doi": "10.1016/j.jphotochem.2013.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jphotochem.2012.12.012"
+  },
+  "journal": "Journal of Photochemistry and Photobiology A: Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Development of a new qualification method for photocatalytically active surfaces based on a solid state luminescent dye” [J. Photochem. Photobiol. A 253 (2013) 7–15]"
+}

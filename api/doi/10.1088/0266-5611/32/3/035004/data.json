@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461196800000,"doi":"10.1088/0266-5611/32/6/069501","type":"correction"},"doi":"10.1088/0266-5611/32/3/035004","journal":"Inverse Problems","publisher":"IOP Publishing","title":"Erratum: Regularization by discretization in Banach spaces (2016Inverse Problems32035004)"}
+{
+  "retracted": false,
+  "timestamp": 1461196800000,
+  "updates": [
+    {
+      "timestamp": 1495668035782,
+      "identifier": {
+        "doi": "10.1088/0266-5611/32/6/069501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0266-5611/32/3/035004"
+  },
+  "journal": "Inverse Problems",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Regularization by discretization in Banach spaces (2016Inverse Problems32035004)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1308614400000,"doi":"10.1073/pnas.1114908108","type":"correction"},"doi":"10.1073/pnas.1101118108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Boyer et al., Mimivirus shows dramatic genome reduction after intraamoebal culture"}
+{
+  "retracted": false,
+  "timestamp": 1308614400000,
+  "updates": [
+    {
+      "timestamp": 1495806763271,
+      "identifier": {
+        "doi": "10.1073/pnas.1114908108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1101118108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Boyer et al., Mimivirus shows dramatic genome reduction after intraamoebal culture"
+}

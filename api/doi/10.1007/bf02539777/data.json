@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231372800000,"doi":"10.1007/bf02526100","type":"correction"},"doi":"10.1007/bf02539777","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: The influence of the distant topography on the deflection of the vertical"}
+{
+  "retracted": false,
+  "timestamp": 1231372800000,
+  "updates": [
+    {
+      "timestamp": 1495924816234,
+      "identifier": {
+        "doi": "10.1007/bf02526100"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02539777"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The influence of the distant topography on the deflection of the vertical"
+}

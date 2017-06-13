@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378771200000,"doi":"10.1063/1.4820957","type":"correction"},"doi":"10.1063/1.4807322","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Effect of flexibility on liquid-vapor coexistence and surface properties of tangent linear vibrating square well chains in two and three dimensions” [J. Chem. Phys. 138, 224509 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1378771200000,
+  "updates": [
+    {
+      "timestamp": 1496045697905,
+      "identifier": {
+        "doi": "10.1063/1.4820957"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4807322"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effect of flexibility on liquid-vapor coexistence and surface properties of tangent linear vibrating square well chains in two and three dimensions” [J. Chem. Phys. 138, 224509 (2013)]"
+}

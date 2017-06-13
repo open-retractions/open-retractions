@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453248000000,"doi":"10.1016/j.electacta.2016.01.203","type":"err"},"doi":"10.1016/j.electacta.2015.11.106","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Electrochemically-controlled grafting of hydrophilic brushes from conducting polymer substrates’ [Electrochimica Acta 188 (2016) 57–70]"}
+{
+  "retracted": false,
+  "timestamp": 1453248000000,
+  "updates": [
+    {
+      "timestamp": 1495644240248,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2016.01.203"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2015.11.106"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Electrochemically-controlled grafting of hydrophilic brushes from conducting polymer substrates’ [Electrochimica Acta 188 (2016) 57–70]"
+}

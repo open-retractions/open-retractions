@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1128/jcm.02719-15","type":"correction"},"doi":"10.1128/jcm.00827-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Gagneux-Brunon et al., Mycoplasma hominis, a Rare but True Cause of Infective Endocarditis"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496057014843,
+      "identifier": {
+        "doi": "10.1128/jcm.02719-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.00827-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Gagneux-Brunon et al., Mycoplasma hominis, a Rare but True Cause of Infective Endocarditis"
+}

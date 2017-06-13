@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455840000000,"doi":"10.1007/s12031-016-0725-8","type":"correction"},"doi":"10.1007/s12031-015-0698-z","journal":"Journal of Molecular Neuroscience","publisher":"Springer Nature","title":"Erratum to: The Clinical Utility of TIMP3 Expression in ACTH-Secreting Pituitary Tumor"}
+{
+  "retracted": false,
+  "timestamp": 1455840000000,
+  "updates": [
+    {
+      "timestamp": 1495645438741,
+      "identifier": {
+        "doi": "10.1007/s12031-016-0725-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12031-015-0698-z"
+  },
+  "journal": "Journal of Molecular Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Clinical Utility of TIMP3 Expression in ACTH-Secreting Pituitary Tumor"
+}

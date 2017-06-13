@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1016/j.fluid.2014.02.017","type":"err"},"doi":"10.1016/j.fluid.2011.06.023","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “High-pressure phase behavior of binary mixtures containing ionic liquid [HMP][Tf2N], [OMP][Tf2N] and carbon dioxide” [Fluid Phase Equilib. 308 (2011) 147–152]"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496026095412,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2014.02.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2011.06.023"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “High-pressure phase behavior of binary mixtures containing ionic liquid [HMP][Tf2N], [OMP][Tf2N] and carbon dioxide” [Fluid Phase Equilib. 308 (2011) 147–152]"
+}

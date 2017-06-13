@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421884800000,"doi":"10.1063/1.4906775","type":"correction"},"doi":"10.1063/1.4884781","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “High-intensity positron microprobe at the Thomas Jefferson National Accelerator Facility” [J. Appl. Phys. 115, 234907 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1421884800000,
+  "updates": [
+    {
+      "timestamp": 1496038837478,
+      "identifier": {
+        "doi": "10.1063/1.4906775"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4884781"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “High-intensity positron microprobe at the Thomas Jefferson National Accelerator Facility” [J. Appl. Phys. 115, 234907 (2014)]"
+}

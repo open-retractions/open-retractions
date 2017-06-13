@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327708800000,"doi":"10.1371/annotation/23f84cc3-627d-4012-ae6f-f3291b2567d0","type":"correction"},"doi":"10.1371/journal.pone.0028804","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: AMP-Activated Protein Kinase (AMPK) Mediates Nutrient Regulation of Thioredoxin-Interacting Protein (TXNIP) in Pancreatic Beta-Cells"}
+{
+  "retracted": false,
+  "timestamp": 1327708800000,
+  "updates": [
+    {
+      "timestamp": 1495867265144,
+      "identifier": {
+        "doi": "10.1371/annotation/23f84cc3-627d-4012-ae6f-f3291b2567d0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0028804"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: AMP-Activated Protein Kinase (AMPK) Mediates Nutrient Regulation of Thioredoxin-Interacting Protein (TXNIP) in Pancreatic Beta-Cells"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481241600000,"doi":"10.1371/journal.pgen.1006500","type":"correction"},"doi":"10.1371/journal.pgen.1005954","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Chromosomal-Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding"}
+{
+  "retracted": false,
+  "timestamp": 1481241600000,
+  "updates": [
+    {
+      "timestamp": 1495666058781,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1006500"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1005954"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Chromosomal-Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding"
+}

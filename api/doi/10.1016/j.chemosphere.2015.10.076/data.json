@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.chemosphere.2016.03.049","type":"err"},"doi":"10.1016/j.chemosphere.2015.10.076","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “New insights into the risk of phthalates: Inhibition of UDP-glucuronosyltransferases” [Chemosphere 144C (2015) 1966–1972]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495656138161,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.03.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2015.10.076"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New insights into the risk of phthalates: Inhibition of UDP-glucuronosyltransferases” [Chemosphere 144C (2015) 1966–1972]"
+}

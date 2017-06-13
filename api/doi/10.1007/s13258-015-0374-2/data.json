@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459900800000,"doi":"10.1007/s13258-016-0408-4","type":"correction"},"doi":"10.1007/s13258-015-0374-2","journal":"Genes & Genomics","publisher":"Springer Nature","title":"Erratum to: Identification of inducible proteins in the phenanthrene degrader Sphingobium chungbukense DJ77 by 2-dimensional electrophoresis and liquid chromatography/tandem mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1459900800000,
+  "updates": [
+    {
+      "timestamp": 1495662500314,
+      "identifier": {
+        "doi": "10.1007/s13258-016-0408-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13258-015-0374-2"
+  },
+  "journal": "Genes & Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification of inducible proteins in the phenanthrene degrader Sphingobium chungbukense DJ77 by 2-dimensional electrophoresis and liquid chromatography/tandem mass spectrometry"
+}

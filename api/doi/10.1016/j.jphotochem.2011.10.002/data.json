@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jphotochem.2015.06.032","type":"err"},"doi":"10.1016/j.jphotochem.2011.10.002","journal":"Journal of Photochemistry and Photobiology A: Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Photochemical production of formaldehyde, acetaldehyde and acetone from chromophoric dissolved organic matter in coastal waters” [J. Photochem. Photobiol. A Chem. 226 (1) (2011) 16–22]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496026102577,
+      "identifier": {
+        "doi": "10.1016/j.jphotochem.2015.06.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jphotochem.2011.10.002"
+  },
+  "journal": "Journal of Photochemistry and Photobiology A: Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Photochemical production of formaldehyde, acetaldehyde and acetone from chromophoric dissolved organic matter in coastal waters” [J. Photochem. Photobiol. A Chem. 226 (1) (2011) 16–22]"
+}

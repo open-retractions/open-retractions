@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424649600000,"doi":"10.1080/00141844.2015.1020207","type":"correction"},"doi":"10.1080/00141844.2014.986152","journal":"Ethnos","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1424649600000,
+  "updates": [
+    {
+      "timestamp": 1496045791561,
+      "identifier": {
+        "doi": "10.1080/00141844.2015.1020207"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00141844.2014.986152"
+  },
+  "journal": "Ethnos",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479081600000,"doi":"10.1007/s13765-016-0233-0","type":"correction"},"doi":"10.1007/s13765-016-0220-5","journal":"Applied Biological Chemistry","publisher":"Springer Nature","title":"Erratum to: Anti-inflammatory effects of luteolin and luteoloside from Taraxacum coreanum in RAW264.7 macrophage cells"}
+{
+  "retracted": false,
+  "timestamp": 1479081600000,
+  "updates": [
+    {
+      "timestamp": 1495657028331,
+      "identifier": {
+        "doi": "10.1007/s13765-016-0233-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13765-016-0220-5"
+  },
+  "journal": "Applied Biological Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Anti-inflammatory effects of luteolin and luteoloside from Taraxacum coreanum in RAW264.7 macrophage cells"
+}

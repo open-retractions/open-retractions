@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.trc.2016.12.014","type":"erratum"},"doi":"10.1016/j.trc.2016.08.005","journal":"Transportation Research Part C: Emerging Technologies","publisher":"Elsevier BV","title":"Corrigendum to “Adaptive scheduling for real-time and temporal information services in vehicular networks” [Transport. Res. Part C 71 (2016) 313–332]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495672247448,
+      "identifier": {
+        "doi": "10.1016/j.trc.2016.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.trc.2016.08.005"
+  },
+  "journal": "Transportation Research Part C: Emerging Technologies",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adaptive scheduling for real-time and temporal information services in vehicular networks” [Transport. Res. Part C 71 (2016) 313–332]"
+}

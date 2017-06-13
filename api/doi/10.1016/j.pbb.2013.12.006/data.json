@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.pbb.2014.01.008","type":"err"},"doi":"10.1016/j.pbb.2013.12.006","journal":"Pharmacology Biochemistry and Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Berberine rescues d-galactose-induced synaptic/memory impairment by regulating the levels of Arc” [Pharmacol Biochem Behav 117 (2014) 47–51]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496014504721,
+      "identifier": {
+        "doi": "10.1016/j.pbb.2014.01.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbb.2013.12.006"
+  },
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Berberine rescues d-galactose-induced synaptic/memory impairment by regulating the levels of Arc” [Pharmacol Biochem Behav 117 (2014) 47–51]"
+}

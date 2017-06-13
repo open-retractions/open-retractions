@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225756800000,"doi":"10.1371/annotation/bffe1c6a-4d1e-46bb-a8dc-648a4f566a19","type":"correction"},"doi":"10.1371/journal.pone.0003429","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: HLA-Driven Convergence of HIV-1 Viral Subtypes B and F Toward the Adaptation to Immune Responses in Human Populations"}
+{
+  "retracted": false,
+  "timestamp": 1225756800000,
+  "updates": [
+    {
+      "timestamp": 1496025195372,
+      "identifier": {
+        "doi": "10.1371/annotation/bffe1c6a-4d1e-46bb-a8dc-648a4f566a19"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0003429"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: HLA-Driven Convergence of HIV-1 Viral Subtypes B and F Toward the Adaptation to Immune Responses in Human Populations"
+}

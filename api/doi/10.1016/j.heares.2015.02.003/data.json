@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.heares.2015.05.003","type":"err"},"doi":"10.1016/j.heares.2015.02.003","journal":"Hearing Research","publisher":"Elsevier BV","title":"Corrigendum to “A review of functional anatomy and surgical reconstruction of medial patellofemoral ligament” [J. Arthrosc. Joint Surg. 1 (1) (2014) 1–50]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496000288795,
+      "identifier": {
+        "doi": "10.1016/j.heares.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.heares.2015.02.003"
+  },
+  "journal": "Hearing Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A review of functional anatomy and surgical reconstruction of medial patellofemoral ligament” [J. Arthrosc. Joint Surg. 1 (1) (2014) 1–50]"
+}

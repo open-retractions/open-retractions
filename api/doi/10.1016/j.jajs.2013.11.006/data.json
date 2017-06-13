@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jajs.2014.08.001","type":"err"},"doi":"10.1016/j.jajs.2013.11.006","journal":"Journal of Arthroscopy and Joint Surgery","publisher":"Elsevier BV","title":"Corrigendum to “A review of functional anatomy and surgical reconstruction of medial patellofemoral ligament” [J Arthrosc Joint Surg 1 (1) (2014) 1–50]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496003029241,
+      "identifier": {
+        "doi": "10.1016/j.jajs.2014.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jajs.2013.11.006"
+  },
+  "journal": "Journal of Arthroscopy and Joint Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A review of functional anatomy and surgical reconstruction of medial patellofemoral ligament” [J Arthrosc Joint Surg 1 (1) (2014) 1–50]"
+}

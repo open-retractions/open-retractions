@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.heares.2013.05.008","type":"err"},"doi":"10.1016/j.heares.2013.02.009","journal":"Hearing Research","publisher":"Elsevier BV","title":"Corrigendum to “A null mutation of mouse Kcna10 causes significant vestibular and mild hearing dysfunction” [Hear. Res. 300 (2013) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496022870842,
+      "identifier": {
+        "doi": "10.1016/j.heares.2013.05.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.heares.2013.02.009"
+  },
+  "journal": "Hearing Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A null mutation of mouse Kcna10 causes significant vestibular and mild hearing dysfunction” [Hear. Res. 300 (2013) 1–9]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470268800000,"doi":"10.3847/0004-6256/152/2/52","type":"correction"},"doi":"10.1088/0004-6256/150/4/123","journal":"The Astronomical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “ON INFRARED EXCESSES ASSOCIATED WITH LI-RICH K GIANTS” (2015, AJ, 150, 123)"}
+{
+  "retracted": false,
+  "timestamp": 1470268800000,
+  "updates": [
+    {
+      "timestamp": 1495734502877,
+      "identifier": {
+        "doi": "10.3847/0004-6256/152/2/52"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-6256/150/4/123"
+  },
+  "journal": "The Astronomical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “ON INFRARED EXCESSES ASSOCIATED WITH LI-RICH K GIANTS” (2015, AJ, 150, 123)"
+}

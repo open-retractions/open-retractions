@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1186/s40623-015-0353-5","type":"correction"},"doi":"10.1186/s40623-015-0336-6","journal":"Earth, Planets and Space","publisher":"Springer Nature","title":"Erratum to: Problems with mapping the auroral oval and magnetospheric substorms"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496048526118,
+      "identifier": {
+        "doi": "10.1186/s40623-015-0353-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40623-015-0336-6"
+  },
+  "journal": "Earth, Planets and Space",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Problems with mapping the auroral oval and magnetospheric substorms"
+}

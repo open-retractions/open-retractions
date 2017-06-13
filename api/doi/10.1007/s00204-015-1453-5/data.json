@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1007/s00204-015-1542-5","type":"correction"},"doi":"10.1007/s00204-015-1453-5","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Erratum to: Diquat causes caspase-independent cell death in SH-SY5Y cells by production of ROS independently of mitochondria"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008447768,
+      "identifier": {
+        "doi": "10.1007/s00204-015-1542-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-015-1453-5"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diquat causes caspase-independent cell death in SH-SY5Y cells by production of ROS independently of mitochondria"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489795200000,"doi":"10.1007/s00044-017-1860-7","type":"correction"},"doi":"10.1007/s00044-016-1541-y","journal":"Medicinal Chemistry Research","publisher":"Springer Nature","title":"Erratum to: In silico structural prediction of human steroid 5α-reductase type II"}
+{
+  "retracted": false,
+  "timestamp": 1489795200000,
+  "updates": [
+    {
+      "timestamp": 1496050818982,
+      "identifier": {
+        "doi": "10.1007/s00044-017-1860-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00044-016-1541-y"
+  },
+  "journal": "Medicinal Chemistry Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: In silico structural prediction of human steroid 5α-reductase type II"
+}

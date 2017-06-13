@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400198400000,"doi":"10.1007/s40121-014-0027-9","type":"correction"},"doi":"10.1007/s40121-014-0025-y","journal":"Infectious Diseases and Therapy","publisher":"Springer Nature","title":"Erratum to: Epidemiology of Pneumococcal Disease in a National Cohort of Older Adults"}
+{
+  "retracted": false,
+  "timestamp": 1400198400000,
+  "updates": [
+    {
+      "timestamp": 1496038405964,
+      "identifier": {
+        "doi": "10.1007/s40121-014-0027-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40121-014-0025-y"
+  },
+  "journal": "Infectious Diseases and Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Epidemiology of Pneumococcal Disease in a National Cohort of Older Adults"
+}

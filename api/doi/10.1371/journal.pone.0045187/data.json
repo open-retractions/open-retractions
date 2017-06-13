@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1354665600000,"doi":"10.1371/annotation/cb679494-d0cd-4658-a0a1-ab548c6e7139","type":"correction"},"doi":"10.1371/journal.pone.0045187","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Survival of Vibrio cholerae in Nutrient-Poor Environments Is Associated with a Novel “Persister” Phenotype"}
+{
+  "retracted": false,
+  "timestamp": 1354665600000,
+  "updates": [
+    {
+      "timestamp": 1495987307005,
+      "identifier": {
+        "doi": "10.1371/annotation/cb679494-d0cd-4658-a0a1-ab548c6e7139"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045187"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Survival of Vibrio cholerae in Nutrient-Poor Environments Is Associated with a Novel “Persister” Phenotype"
+}

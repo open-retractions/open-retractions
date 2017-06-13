@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441843200000,"doi":"10.1007/s12079-015-0304-8","type":"correction"},"doi":"10.1007/s12079-015-0274-x","journal":"Journal of Cell Communication and Signaling","publisher":"Springer Nature","title":"Erratum to: Pick of the Year 2014"}
+{
+  "retracted": false,
+  "timestamp": 1441843200000,
+  "updates": [
+    {
+      "timestamp": 1496027982826,
+      "identifier": {
+        "doi": "10.1007/s12079-015-0304-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12079-015-0274-x"
+  },
+  "journal": "Journal of Cell Communication and Signaling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pick of the Year 2014"
+}

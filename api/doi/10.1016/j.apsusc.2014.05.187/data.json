@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.apsusc.2014.07.089","type":"err"},"doi":"10.1016/j.apsusc.2014.05.187","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Effect of filler dispersion and dispersion method on the piezoelectric and magnetoelectric response of CoFe2O4/P(VDF-TrFE) nanocomposites” [Appl. Surf. Sci. (313) (2014) 215–219]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496005212864,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2014.07.089"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2014.05.187"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of filler dispersion and dispersion method on the piezoelectric and magnetoelectric response of CoFe2O4/P(VDF-TrFE) nanocomposites” [Appl. Surf. Sci. (313) (2014) 215–219]"
+}

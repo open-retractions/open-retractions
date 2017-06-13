@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388448000000,"doi":"10.1371/annotation/9453b87a-098a-44ee-9e76-97eebb50b641","type":"correction"},"doi":"10.1371/journal.pone.0033116","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The putative Tumor Suppressor VILIP-1 Counteracts Epidermal Growth Factor-Induced Epidermal-Mesenchymal Transition in Squamous Carcinoma Cells"}
+{
+  "retracted": false,
+  "timestamp": 1388448000000,
+  "updates": [
+    {
+      "timestamp": 1496008462377,
+      "identifier": {
+        "doi": "10.1371/annotation/9453b87a-098a-44ee-9e76-97eebb50b641"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033116"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The putative Tumor Suppressor VILIP-1 Counteracts Epidermal Growth Factor-Induced Epidermal-Mesenchymal Transition in Squamous Carcinoma Cells"
+}

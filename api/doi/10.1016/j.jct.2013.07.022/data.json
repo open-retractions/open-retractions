@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jct.2014.01.026","type":"err"},"doi":"10.1016/j.jct.2013.07.022","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Solubility of CO2 and H2S in the ionic liquid 1-ethyl-3-methylimidazolium tris(pentafluoroethyl) trifluorophosphate” [J. Chem. Thermodyn. 67 (2013) 55–62]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496019590920,
+      "identifier": {
+        "doi": "10.1016/j.jct.2014.01.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.07.022"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Solubility of CO2 and H2S in the ionic liquid 1-ethyl-3-methylimidazolium tris(pentafluoroethyl) trifluorophosphate” [J. Chem. Thermodyn. 67 (2013) 55–62]"
+}

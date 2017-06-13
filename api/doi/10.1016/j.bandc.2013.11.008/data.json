@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.bandc.2014.04.005","type":"err"},"doi":"10.1016/j.bandc.2013.11.008","journal":"Brain and Cognition","publisher":"Elsevier BV","title":"Corrigendum to “Neuroscience, quantum indeterminism and the Cartesian soul” [Brain and Cognition 84(1) (2014) 109–117]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496037919170,
+      "identifier": {
+        "doi": "10.1016/j.bandc.2014.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bandc.2013.11.008"
+  },
+  "journal": "Brain and Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Neuroscience, quantum indeterminism and the Cartesian soul” [Brain and Cognition 84(1) (2014) 109–117]"
+}

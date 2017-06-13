@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478649600000,"doi":"10.1007/s10493-016-0097-3","type":"correction"},"doi":"10.1007/s10493-016-0090-x","journal":"Experimental and Applied Acarology","publisher":"Springer Nature","title":"Erratum to: Highly virulent Beauveria bassiana strains against the two-spotted spider mite, Tetranychus urticae, show no pathogenicity against five phytoseiid mite species"}
+{
+  "retracted": false,
+  "timestamp": 1478649600000,
+  "updates": [
+    {
+      "timestamp": 1495656036771,
+      "identifier": {
+        "doi": "10.1007/s10493-016-0097-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10493-016-0090-x"
+  },
+  "journal": "Experimental and Applied Acarology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Highly virulent Beauveria bassiana strains against the two-spotted spider mite, Tetranychus urticae, show no pathogenicity against five phytoseiid mite species"
+}

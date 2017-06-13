@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1057/lst.2014.34","type":"correction"},"doi":"10.1057/lst.2014.19","journal":"Latino Studies","publisher":"Springer Nature","title":"Erratum: Revisiting Latino identity"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050750339,
+      "identifier": {
+        "doi": "10.1057/lst.2014.34"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/lst.2014.19"
+  },
+  "journal": "Latino Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Revisiting Latino identity"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476316800000,"doi":"10.1186/s12864-016-3138-8","type":"correction"},"doi":"10.1186/s12864-016-3030-6","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Viral deep sequencing needs an adaptive approach: IRMA, the iterative refinement meta-assembler"}
+{
+  "retracted": false,
+  "timestamp": 1476316800000,
+  "updates": [
+    {
+      "timestamp": 1495648367145,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3138-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-3030-6"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Viral deep sequencing needs an adaptive approach: IRMA, the iterative refinement meta-assembler"
+}

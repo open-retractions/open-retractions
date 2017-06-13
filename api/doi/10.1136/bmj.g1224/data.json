@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1136/bmj.g2870","type":"correction"},"doi":"10.1136/bmj.g1224","journal":"BMJ","publisher":"BMJ","title":"Fibromyalgia"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496035255741,
+      "identifier": {
+        "doi": "10.1136/bmj.g2870"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g1224"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Fibromyalgia"
+}

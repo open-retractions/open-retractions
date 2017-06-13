@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441929600000,"doi":"10.1016/j.bbrc.2015.07.152","type":"err"},"doi":"10.1016/j.bbrc.2012.02.115","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Histone demethylase JMJD5 is essential for embryonic development” [Biochem. Biophys. Res. Commun. 420 (1) (30 March 2012) 61–65]"}
+{
+  "retracted": false,
+  "timestamp": 1441929600000,
+  "updates": [
+    {
+      "timestamp": 1496020520078,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.07.152"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2012.02.115"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Histone demethylase JMJD5 is essential for embryonic development” [Biochem. Biophys. Res. Commun. 420 (1) (30 March 2012) 61–65]"
+}

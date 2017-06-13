@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1298505600000,"doi":"10.1007/s00261-011-9717-x","type":"correction"},"doi":"10.1007/s00261-006-9006-2","journal":"Abdominal Imaging","publisher":"Springer Nature","title":"Erratum to: Lymphotrophic nanoparticle enhanced MR imaging (LNMRI) for lymph node imaging"}
+{
+  "retracted": false,
+  "timestamp": 1298505600000,
+  "updates": [
+    {
+      "timestamp": 1495937606872,
+      "identifier": {
+        "doi": "10.1007/s00261-011-9717-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00261-006-9006-2"
+  },
+  "journal": "Abdominal Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lymphotrophic nanoparticle enhanced MR imaging (LNMRI) for lymph node imaging"
+}

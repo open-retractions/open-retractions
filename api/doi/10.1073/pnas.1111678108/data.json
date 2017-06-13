@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315267200000,"doi":"10.1073/pnas.1115233108","type":"correction"},"doi":"10.1073/pnas.1111678108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for O'Connor et al., Minimization of the Legionella pneumophila genome reveals chromosomal regions involved in host range expansion"}
+{
+  "retracted": false,
+  "timestamp": 1315267200000,
+  "updates": [
+    {
+      "timestamp": 1495811388008,
+      "identifier": {
+        "doi": "10.1073/pnas.1115233108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1111678108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for O'Connor et al., Minimization of the Legionella pneumophila genome reveals chromosomal regions involved in host range expansion"
+}

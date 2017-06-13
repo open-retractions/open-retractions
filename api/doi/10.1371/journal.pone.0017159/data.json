@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1302048000000,"doi":"10.1371/annotation/68ded407-ac40-47b5-b3d7-966e116a28b2","type":"correction"},"doi":"10.1371/journal.pone.0017159","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Role of Glutamine 28 and Arginine 39 in Double Stranded RNA Cleavage by Human Pancreatic Ribonuclease"}
+{
+  "retracted": false,
+  "timestamp": 1302048000000,
+  "updates": [
+    {
+      "timestamp": 1495948275286,
+      "identifier": {
+        "doi": "10.1371/annotation/68ded407-ac40-47b5-b3d7-966e116a28b2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017159"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Role of Glutamine 28 and Arginine 39 in Double Stranded RNA Cleavage by Human Pancreatic Ribonuclease"
+}

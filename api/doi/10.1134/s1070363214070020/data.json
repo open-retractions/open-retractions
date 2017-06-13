@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418774400000,"doi":"10.1134/s1070363214110486","type":"correction"},"doi":"10.1134/s1070363214070020","journal":"Russian Journal of General Chemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Sol-gel preparation and magnetic properties of nanocrystalline lanthanum ferrite”"}
+{
+  "retracted": false,
+  "timestamp": 1418774400000,
+  "updates": [
+    {
+      "timestamp": 1496030773983,
+      "identifier": {
+        "doi": "10.1134/s1070363214110486"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1070363214070020"
+  },
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Sol-gel preparation and magnetic properties of nanocrystalline lanthanum ferrite”"
+}

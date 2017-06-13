@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.1007/s40430-016-0601-z","type":"correction"},"doi":"10.1007/s40430-014-0303-3","journal":"Journal of the Brazilian Society of Mechanical Sciences and Engineering","publisher":"Springer Nature","title":"Erratum to: Numerical investigation of MHD water-based nanofluids flow in porous medium caused by shrinking permeable sheet"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495731564124,
+      "identifier": {
+        "doi": "10.1007/s40430-016-0601-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40430-014-0303-3"
+  },
+  "journal": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Numerical investigation of MHD water-based nanofluids flow in porous medium caused by shrinking permeable sheet"
+}

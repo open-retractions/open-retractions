@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200960000000,"doi":"10.1007/bf02790652","type":"correction"},"doi":"10.1007/bf02786026","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Renormalization group approach to a functional formulation of a Bose system"}
+{
+  "retracted": false,
+  "timestamp": 1200960000000,
+  "updates": [
+    {
+      "timestamp": 1495823067892,
+      "identifier": {
+        "doi": "10.1007/bf02790652"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02786026"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Renormalization group approach to a functional formulation of a Bose system"
+}

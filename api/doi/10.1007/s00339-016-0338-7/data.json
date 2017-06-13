@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472515200000,"doi":"10.1007/s00339-016-0373-4","type":"correction"},"doi":"10.1007/s00339-016-0338-7","journal":"Applied Physics A","publisher":"Springer Nature","title":"Erratum to: Electromagnetic shielding effectiveness and mechanical properties of graphite-based polymeric films"}
+{
+  "retracted": false,
+  "timestamp": 1472515200000,
+  "updates": [
+    {
+      "timestamp": 1495740135626,
+      "identifier": {
+        "doi": "10.1007/s00339-016-0373-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00339-016-0338-7"
+  },
+  "journal": "Applied Physics A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Electromagnetic shielding effectiveness and mechanical properties of graphite-based polymeric films"
+}

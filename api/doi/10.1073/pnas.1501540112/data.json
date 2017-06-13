@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442880000000,"doi":"10.1073/pnas.1516662112","type":"correction"},"doi":"10.1073/pnas.1501540112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Torres-Cortés et al., Mosaic genome of endobacteria in arbuscular mycorrhizal fungi: Transkingdom gene transfer in an ancient mycoplasma-fungus association"}
+{
+  "retracted": false,
+  "timestamp": 1442880000000,
+  "updates": [
+    {
+      "timestamp": 1496026430772,
+      "identifier": {
+        "doi": "10.1073/pnas.1516662112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1501540112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Torres-Cortés et al., Mosaic genome of endobacteria in arbuscular mycorrhizal fungi: Transkingdom gene transfer in an ancient mycoplasma-fungus association"
+}

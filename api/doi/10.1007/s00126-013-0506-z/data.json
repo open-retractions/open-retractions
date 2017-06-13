@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390089600000,"doi":"10.1007/s00126-014-0509-4","type":"correction"},"doi":"10.1007/s00126-013-0506-z","journal":"Mineralium Deposita","publisher":"Springer Nature","title":"Erratum to: On the geological availability of germanium"}
+{
+  "retracted": false,
+  "timestamp": 1390089600000,
+  "updates": [
+    {
+      "timestamp": 1496013250579,
+      "identifier": {
+        "doi": "10.1007/s00126-014-0509-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00126-013-0506-z"
+  },
+  "journal": "Mineralium Deposita",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the geological availability of germanium"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454976000000,"doi":"10.1063/1.4941822","type":"correction"},"doi":"10.1063/1.4906567","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Static magnetic solution in magnetic composites with arbitrary susceptibility inhomogeneity and anisotropy” [J. Appl. Phys. 117, 043907 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1454976000000,
+  "updates": [
+    {
+      "timestamp": 1495643611706,
+      "identifier": {
+        "doi": "10.1063/1.4941822"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4906567"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Static magnetic solution in magnetic composites with arbitrary susceptibility inhomogeneity and anisotropy” [J. Appl. Phys. 117, 043907 (2015)]"
+}

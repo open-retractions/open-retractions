@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473379200000,"doi":"10.1039/c6cc90413k","type":"correction"},"doi":"10.1039/c6cc05961a","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A desferrioxamine B squaramide ester for the incorporation of zirconium-89 into antibodies"}
+{
+  "retracted": false,
+  "timestamp": 1473379200000,
+  "updates": [
+    {
+      "timestamp": 1495638602979,
+      "identifier": {
+        "doi": "10.1039/c6cc90413k"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cc05961a"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A desferrioxamine B squaramide ester for the incorporation of zirconium-89 into antibodies"
+}

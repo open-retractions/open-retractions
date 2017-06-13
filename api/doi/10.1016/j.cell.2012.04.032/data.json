@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369267200000,"doi":"10.1016/j.cell.2013.05.010","type":"err"},"doi":"10.1016/j.cell.2012.04.032","journal":"Cell","publisher":"Elsevier BV","title":"FoxO1 Target Gpr17 Activates AgRP Neurons to Regulate Food Intake"}
+{
+  "retracted": false,
+  "timestamp": 1369267200000,
+  "updates": [
+    {
+      "timestamp": 1496021087589,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.04.032"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "FoxO1 Target Gpr17 Activates AgRP Neurons to Regulate Food Intake"
+}

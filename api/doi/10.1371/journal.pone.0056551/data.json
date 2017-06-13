@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371168000000,"doi":"10.1371/annotation/1f0b8488-a99a-4fe3-8e86-011ab0bf346d","type":"correction"},"doi":"10.1371/journal.pone.0056551","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Probing Early Tumor Response to Radiation Therapy Using Hyperpolarized [1-13C]pyruvate in MDA-MB-231 Xenografts"}
+{
+  "retracted": false,
+  "timestamp": 1371168000000,
+  "updates": [
+    {
+      "timestamp": 1496035944344,
+      "identifier": {
+        "doi": "10.1371/annotation/1f0b8488-a99a-4fe3-8e86-011ab0bf346d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0056551"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Probing Early Tumor Response to Radiation Therapy Using Hyperpolarized [1-13C]pyruvate in MDA-MB-231 Xenografts"
+}

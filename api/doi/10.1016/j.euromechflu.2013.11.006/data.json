@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.euromechflu.2014.05.001","type":"err"},"doi":"10.1016/j.euromechflu.2013.11.006","journal":"European Journal of Mechanics - B/Fluids","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of turbulence models in simulating jet flow from a cross-shaped orifice” [European Journal of Mechanics B/Fluids 44 (2014) 100–120]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496039425543,
+      "identifier": {
+        "doi": "10.1016/j.euromechflu.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.euromechflu.2013.11.006"
+  },
+  "journal": "European Journal of Mechanics - B/Fluids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of turbulence models in simulating jet flow from a cross-shaped orifice” [European Journal of Mechanics B/Fluids 44 (2014) 100–120]"
+}

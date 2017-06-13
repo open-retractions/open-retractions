@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357776000000,"doi":"10.1063/1.4775735","type":"correction"},"doi":"10.1063/1.4770050","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Relation between primes and nontrivial zeros in the Riemann hypothesis; Legendre polynomials, modified zeta function and Schrödinger equation” [J. Math. Phys. 53, 122108 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357776000000,
+  "updates": [
+    {
+      "timestamp": 1495984874878,
+      "identifier": {
+        "doi": "10.1063/1.4775735"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4770050"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Relation between primes and nontrivial zeros in the Riemann hypothesis; Legendre polynomials, modified zeta function and Schrödinger equation” [J. Math. Phys. 53, 122108 (2012)]"
+}

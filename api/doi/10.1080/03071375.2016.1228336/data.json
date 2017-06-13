@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483488000000,"doi":"10.1080/03071375.2016.1267921","type":"correction"},"doi":"10.1080/03071375.2016.1228336","journal":"Arboricultural Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1483488000000,
+  "updates": [
+    {
+      "timestamp": 1495672383110,
+      "identifier": {
+        "doi": "10.1080/03071375.2016.1267921"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03071375.2016.1228336"
+  },
+  "journal": "Arboricultural Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478476800000,"doi":"10.1007/s00059-016-4507-4","type":"correction"},"doi":"10.1007/s00059-016-4481-x","journal":"Herz","publisher":"Springer Nature","title":"Erratum zu: Bildgebung bei struktureller Herzerkrankung"}
+{
+  "retracted": false,
+  "timestamp": 1478476800000,
+  "updates": [
+    {
+      "timestamp": 1495654342399,
+      "identifier": {
+        "doi": "10.1007/s00059-016-4507-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00059-016-4481-x"
+  },
+  "journal": "Herz",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Bildgebung bei struktureller Herzerkrankung"
+}

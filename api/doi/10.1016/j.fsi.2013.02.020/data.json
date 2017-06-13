@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.fsi.2013.06.027","type":"err"},"doi":"10.1016/j.fsi.2013.02.020","journal":"Fish & Shellfish Immunology","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of the ceruloplasmin gene and its potential role as an indirect marker for selection to Aeromonas hydrophila resistance in rohu, Labeo rohita” [Fish Shellfish Immunol 34 (2013) 1325–1334]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496031622484,
+      "identifier": {
+        "doi": "10.1016/j.fsi.2013.06.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsi.2013.02.020"
+  },
+  "journal": "Fish & Shellfish Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of the ceruloplasmin gene and its potential role as an indirect marker for selection to Aeromonas hydrophila resistance in rohu, Labeo rohita” [Fish Shellfish Immunol 34 (2013) 1325–1334]"
+}

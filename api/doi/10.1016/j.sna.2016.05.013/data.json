@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.sna.2016.11.028","type":"err"},"doi":"10.1016/j.sna.2016.05.013","journal":"Sensors and Actuators A: Physical","publisher":"Elsevier BV","title":"Erratum to “A magnetic shape memory microactuator with intrinsic position sensing” [Sens. Actuator A 246 (2016) 48–57]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495666253970,
+      "identifier": {
+        "doi": "10.1016/j.sna.2016.11.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sna.2016.05.013"
+  },
+  "journal": "Sensors and Actuators A: Physical",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A magnetic shape memory microactuator with intrinsic position sensing” [Sens. Actuator A 246 (2016) 48–57]"
+}

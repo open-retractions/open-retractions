@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225929600000,"doi":"10.1007/bf02954263","type":"correction"},"doi":"10.1007/bf02954245","journal":"Irish Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to: A further fatal case of doriden intoxication"}
+{
+  "retracted": false,
+  "timestamp": 1225929600000,
+  "updates": [
+    {
+      "timestamp": 1495888847745,
+      "identifier": {
+        "doi": "10.1007/bf02954263"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02954245"
+  },
+  "journal": "Irish Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A further fatal case of doriden intoxication"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449100800000,"doi":"10.1016/j.ajhg.2015.10.018","type":"err"},"doi":"10.1016/j.ajhg.2014.12.004","journal":"The American Journal of Human Genetics","publisher":"Elsevier BV","title":"Genome-wide Comparative Analysis of Atopic Dermatitis and Psoriasis Gives Insight into Opposing Genetic Mechanisms"}
+{
+  "retracted": false,
+  "timestamp": 1449100800000,
+  "updates": [
+    {
+      "timestamp": 1496051259443,
+      "identifier": {
+        "doi": "10.1016/j.ajhg.2015.10.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajhg.2014.12.004"
+  },
+  "journal": "The American Journal of Human Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Genome-wide Comparative Analysis of Atopic Dermatitis and Psoriasis Gives Insight into Opposing Genetic Mechanisms"
+}

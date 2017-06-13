@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.mseb.2014.02.008","type":"err"},"doi":"10.1016/j.mseb.2014.01.012","journal":"Materials Science and Engineering: B","publisher":"Elsevier BV","title":"Erratum to “Characterization and electrical properties of polyvinyl alcohol based polymer electrolyte films doped with ammonium thiocyanate” [Mater. Sci. Eng. B 184 (2014) 49–57]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496021110626,
+      "identifier": {
+        "doi": "10.1016/j.mseb.2014.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mseb.2014.01.012"
+  },
+  "journal": "Materials Science and Engineering: B",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Characterization and electrical properties of polyvinyl alcohol based polymer electrolyte films doped with ammonium thiocyanate” [Mater. Sci. Eng. B 184 (2014) 49–57]"
+}

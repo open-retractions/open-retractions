@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422403200000,"doi":"10.1007/s15010-014-0712-3","type":"correction"},"doi":"10.1007/s15010-014-0701-6","journal":"Infection","publisher":"Springer Nature","title":"Erratum to: Prevalence of carbapenem-resistant organisms and other Gram-negative MDRO in German ICUs: first results from the national nosocomial infection surveillance system (KISS)"}
+{
+  "retracted": false,
+  "timestamp": 1422403200000,
+  "updates": [
+    {
+      "timestamp": 1496039892094,
+      "identifier": {
+        "doi": "10.1007/s15010-014-0712-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s15010-014-0701-6"
+  },
+  "journal": "Infection",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prevalence of carbapenem-resistant organisms and other Gram-negative MDRO in German ICUs: first results from the national nosocomial infection surveillance system (KISS)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380499200000,"doi":"10.1016/j.jsv.2013.05.009","type":"err"},"doi":"10.1016/j.jsv.2011.12.025","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Corrigendum to “Nonlinear damping calculation in cylindrical gear dynamic modeling” [J. Sound Vib. 331/9 (2012) 2110–2128]"}
+{
+  "retracted": false,
+  "timestamp": 1380499200000,
+  "updates": [
+    {
+      "timestamp": 1496025452243,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2013.05.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2011.12.025"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nonlinear damping calculation in cylindrical gear dynamic modeling” [J. Sound Vib. 331/9 (2012) 2110–2128]"
+}

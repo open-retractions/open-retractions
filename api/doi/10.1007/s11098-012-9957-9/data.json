@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417132800000,"doi":"10.1007/s11098-014-0412-y","type":"correction"},"doi":"10.1007/s11098-012-9957-9","journal":"Philosophical Studies","publisher":"Springer Nature","title":"Erratum to: Dispositions and interferences"}
+{
+  "retracted": false,
+  "timestamp": 1417132800000,
+  "updates": [
+    {
+      "timestamp": 1496026156316,
+      "identifier": {
+        "doi": "10.1007/s11098-014-0412-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11098-012-9957-9"
+  },
+  "journal": "Philosophical Studies",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dispositions and interferences"
+}

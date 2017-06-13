@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1007/s00271-015-0483-3","type":"correction"},"doi":"10.1007/s00271-015-0475-3","journal":"Irrigation Science","publisher":"Springer Nature","title":"Erratum to: Energy cost optimization in pressurized irrigation networks"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496041365997,
+      "identifier": {
+        "doi": "10.1007/s00271-015-0483-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00271-015-0475-3"
+  },
+  "journal": "Irrigation Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Energy cost optimization in pressurized irrigation networks"
+}

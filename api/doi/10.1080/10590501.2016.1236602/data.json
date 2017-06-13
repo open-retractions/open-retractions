@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487635200000,"doi":"10.1080/10590501.2017.1284570","type":"correction"},"doi":"10.1080/10590501.2016.1236602","journal":"Journal of Environmental Science and Health, Part C","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487635200000,
+  "updates": [
+    {
+      "timestamp": 1495721769410,
+      "identifier": {
+        "doi": "10.1080/10590501.2017.1284570"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10590501.2016.1236602"
+  },
+  "journal": "Journal of Environmental Science and Health, Part C",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

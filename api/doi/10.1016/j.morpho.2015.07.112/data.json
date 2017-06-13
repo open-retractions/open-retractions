@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.morpho.2015.10.001","type":"err"},"doi":"10.1016/j.morpho.2015.07.112","journal":"Morphologie","publisher":"Elsevier BV","title":"Erratum à « Rapport de l’assemblée générale ordinaire de l’Association des morphologistes du 30 janvier 2015 » [Morphologie 99 (326) (2015) 117–8]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496055132192,
+      "identifier": {
+        "doi": "10.1016/j.morpho.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.morpho.2015.07.112"
+  },
+  "journal": "Morphologie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Rapport de l’assemblée générale ordinaire de l’Association des morphologistes du 30 janvier 2015 » [Morphologie 99 (326) (2015) 117–8]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1154390400000,"doi":"10.1073/pnas.0605020103","type":"correction"},"doi":"10.1073/pnas.0601375103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Banci et al., A hint for the function of human Sco1 from different structures"}
+{
+  "retracted": false,
+  "timestamp": 1154390400000,
+  "updates": [
+    {
+      "timestamp": 1495857692604,
+      "identifier": {
+        "doi": "10.1073/pnas.0605020103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0601375103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Banci et al., A hint for the function of human Sco1 from different structures"
+}

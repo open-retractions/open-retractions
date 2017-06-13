@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464220800000,"doi":"10.1007/s00441-016-2420-z","type":"correction"},"doi":"10.1007/s00441-014-2056-9","journal":"Cell and Tissue Research","publisher":"Springer Nature","title":"Erratum to: The intracellular carboxyl tail of the PAR-2 receptor controls intracellular signaling and cell death"}
+{
+  "retracted": false,
+  "timestamp": 1464220800000,
+  "updates": [
+    {
+      "timestamp": 1495680610094,
+      "identifier": {
+        "doi": "10.1007/s00441-016-2420-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00441-014-2056-9"
+  },
+  "journal": "Cell and Tissue Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The intracellular carboxyl tail of the PAR-2 receptor controls intracellular signaling and cell death"
+}

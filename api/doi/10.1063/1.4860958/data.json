@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392940800000,"doi":"10.1063/1.4866287","type":"correction"},"doi":"10.1063/1.4860958","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Evaluating injection and transport properties of organic field-effect transistors by the convergence point in transfer-length method” [Appl. Phys. Lett. 104, 013301 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1392940800000,
+  "updates": [
+    {
+      "timestamp": 1496020552785,
+      "identifier": {
+        "doi": "10.1063/1.4866287"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4860958"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Evaluating injection and transport properties of organic field-effect transistors by the convergence point in transfer-length method” [Appl. Phys. Lett. 104, 013301 (2014)]"
+}

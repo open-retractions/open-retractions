@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373587200000,"doi":"10.1063/1.4813746","type":"correction"},"doi":"10.1063/1.4802972","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Effects of sodium incorporation in Co-evaporated Cu2ZnSnSe4 thin-film solar cells” [Appl. Phys. Lett. 102, 163905 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1373587200000,
+  "updates": [
+    {
+      "timestamp": 1496032582400,
+      "identifier": {
+        "doi": "10.1063/1.4813746"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4802972"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effects of sodium incorporation in Co-evaporated Cu2ZnSnSe4 thin-film solar cells” [Appl. Phys. Lett. 102, 163905 (2013)]"
+}

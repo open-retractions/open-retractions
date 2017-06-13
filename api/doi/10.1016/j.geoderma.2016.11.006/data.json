@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.geoderma.2017.01.026","type":"erratum"},"doi":"10.1016/j.geoderma.2016.11.006","journal":"Geoderma","publisher":"Elsevier BV","title":"Corrigendum to “Changes in the soil microbial phospholipid fatty acid profile with depth in three soil types of paddy fields in China” [Geoderma 290 (2017), 69–74]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495721846831,
+      "identifier": {
+        "doi": "10.1016/j.geoderma.2017.01.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geoderma.2016.11.006"
+  },
+  "journal": "Geoderma",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Changes in the soil microbial phospholipid fatty acid profile with depth in three soil types of paddy fields in China” [Geoderma 290 (2017), 69–74]"
+}

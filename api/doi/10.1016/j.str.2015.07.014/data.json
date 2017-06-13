@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.str.2015.11.002","type":"erratum"},"doi":"10.1016/j.str.2015.07.014","journal":"Structure","publisher":"Elsevier BV","title":"Structure of Ribosomal Silencing Factor Bound to Mycobacterium tuberculosis Ribosome"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496049583841,
+      "identifier": {
+        "doi": "10.1016/j.str.2015.11.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.str.2015.07.014"
+  },
+  "journal": "Structure",
+  "publisher": "Elsevier BV",
+  "title": "Structure of Ribosomal Silencing Factor Bound to Mycobacterium tuberculosis Ribosome"
+}

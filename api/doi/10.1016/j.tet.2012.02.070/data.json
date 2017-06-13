@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1346544000000,"doi":"10.1016/j.tet.2012.06.075","type":"err"},"doi":"10.1016/j.tet.2012.02.070","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Erratum to “Investigation of NH–π (Ph) interaction in the 1:1 [α:α-N-amino]mers using 1H NMR and FTIR absorption spectroscopy” [Tetrahedron 68(23) (2012) 4362–4367]"}
+{
+  "retracted": false,
+  "timestamp": 1346544000000,
+  "updates": [
+    {
+      "timestamp": 1495919514584,
+      "identifier": {
+        "doi": "10.1016/j.tet.2012.06.075"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2012.02.070"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Investigation of NH–π (Ph) interaction in the 1:1 [α:α-N-amino]mers using 1H NMR and FTIR absorption spectroscopy” [Tetrahedron 68(23) (2012) 4362–4367]"
+}

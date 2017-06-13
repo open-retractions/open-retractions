@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.strusafe.2014.04.002","type":"err"},"doi":"10.1016/j.strusafe.2013.02.003","journal":"Structural Safety","publisher":"Elsevier BV","title":"Erratum to “Reliability-based topology optimization of trusses with stochastic stiffness” [Struct. Saf. 43 (2013) 41–49]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496040728891,
+      "identifier": {
+        "doi": "10.1016/j.strusafe.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.strusafe.2013.02.003"
+  },
+  "journal": "Structural Safety",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Reliability-based topology optimization of trusses with stochastic stiffness” [Struct. Saf. 43 (2013) 41–49]"
+}

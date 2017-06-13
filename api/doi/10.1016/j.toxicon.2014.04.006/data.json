@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.toxicon.2014.06.015","type":"err"},"doi":"10.1016/j.toxicon.2014.04.006","journal":"Toxicon","publisher":"Elsevier BV","title":"Corrigendum to “Intraspecific differences in the immunochemical reactivity and neutralization of venom from Argentinean Bothrops (Rhinocerophis) alternatus by specific experimental antivenoms” [Toxicon 85 (2014) 31–45]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496048391418,
+      "identifier": {
+        "doi": "10.1016/j.toxicon.2014.06.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxicon.2014.04.006"
+  },
+  "journal": "Toxicon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Intraspecific differences in the immunochemical reactivity and neutralization of venom from Argentinean Bothrops (Rhinocerophis) alternatus by specific experimental antivenoms” [Toxicon 85 (2014) 31–45]"
+}

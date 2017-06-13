@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1080/09589236.2013.802553","type":"correction"},"doi":"10.1080/09589236.2013.790797","journal":"Journal of Gender Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496023050475,
+      "identifier": {
+        "doi": "10.1080/09589236.2013.802553"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09589236.2013.790797"
+  },
+  "journal": "Journal of Gender Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

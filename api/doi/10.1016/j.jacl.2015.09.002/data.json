@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jacl.2016.02.001","type":"err"},"doi":"10.1016/j.jacl.2015.09.002","journal":"Journal of Clinical Lipidology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1495643973693,
+      "identifier": {
+        "doi": "10.1016/j.jacl.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jacl.2015.09.002"
+  },
+  "journal": "Journal of Clinical Lipidology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

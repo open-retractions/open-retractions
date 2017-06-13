@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.chroma.2015.03.055","type":"err"},"doi":"10.1016/j.chroma.2014.10.002","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation and comparison of the kinetic performance of ultra-high performance liquid chromatography and high-performance liquid chromatography columns in hydrophilic interaction and reversed-phase liquid chromatography conditions” [J. Chromatogr. A 1369 (2014) 83–91]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496056599004,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2015.03.055"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2014.10.002"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation and comparison of the kinetic performance of ultra-high performance liquid chromatography and high-performance liquid chromatography columns in hydrophilic interaction and reversed-phase liquid chromatography conditions” [J. Chromatogr. A 1369 (2014) 83–91]"
+}

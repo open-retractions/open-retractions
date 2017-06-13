@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.ijsolstr.2015.10.005","type":"erratum"},"doi":"10.1016/j.ijsolstr.2015.04.043","journal":"International Journal of Solids and Structures","publisher":"Elsevier BV","title":"Erratum to: A new marching ridges algorithm for crack path tracking in regularized media [International Journal of Solids and Structures 71 (2015) 57–69]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496041004592,
+      "identifier": {
+        "doi": "10.1016/j.ijsolstr.2015.10.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijsolstr.2015.04.043"
+  },
+  "journal": "International Journal of Solids and Structures",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: A new marching ridges algorithm for crack path tracking in regularized media [International Journal of Solids and Structures 71 (2015) 57–69]"
+}

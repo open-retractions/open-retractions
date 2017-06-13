@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1371/annotation/0faf4c12-4fd4-474c-b5a4-16e49370aff3","type":"correction"},"doi":"10.1371/journal.pone.0055612","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Cigarette Smoke-Induced Collagen Destruction; Key to Chronic Neutrophilic Airway Inflammation?"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496051294942,
+      "identifier": {
+        "doi": "10.1371/annotation/0faf4c12-4fd4-474c-b5a4-16e49370aff3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055612"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cigarette Smoke-Induced Collagen Destruction; Key to Chronic Neutrophilic Airway Inflammation?"
+}

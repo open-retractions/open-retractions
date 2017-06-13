@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1186/s12859-015-0839-y","type":"correction"},"doi":"10.1186/1471-2105-16-s13-s2","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Efficient experimental design for uncertainty reduction in gene regulatory networks"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496051998422,
+      "identifier": {
+        "doi": "10.1186/s12859-015-0839-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2105-16-s13-s2"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Efficient experimental design for uncertainty reduction in gene regulatory networks"
+}

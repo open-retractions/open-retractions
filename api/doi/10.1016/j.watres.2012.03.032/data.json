@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.watres.2013.04.049","type":"err"},"doi":"10.1016/j.watres.2012.03.032","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Aerobic treatment of dairy wastewater in an industrial three-reactor plant: Effect of aeration regime on performances and on protozoan and bacterial communities” [Water Res. 46 (2012) 3334–3344]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496024345348,
+      "identifier": {
+        "doi": "10.1016/j.watres.2013.04.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2012.03.032"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Aerobic treatment of dairy wastewater in an industrial three-reactor plant: Effect of aeration regime on performances and on protozoan and bacterial communities” [Water Res. 46 (2012) 3334–3344]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391472000000,"doi":"10.1073/pnas.1400494111","type":"correction"},"doi":"10.1073/pnas.1310675110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Samuel et al., Generation of functionally competent and durable engineered blood vessels from human induced pluripotent stem cells"}
+{
+  "retracted": false,
+  "timestamp": 1391472000000,
+  "updates": [
+    {
+      "timestamp": 1496012813149,
+      "identifier": {
+        "doi": "10.1073/pnas.1400494111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1310675110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Samuel et al., Generation of functionally competent and durable engineered blood vessels from human induced pluripotent stem cells"
+}

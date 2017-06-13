@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1363132800000,"doi":"10.1371/annotation/34c56efb-aa58-47a6-9ac0-09097219f751","type":"correction"},"doi":"10.1371/journal.pbio.1001203","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: How Awareness Changes the Relative Weights of Evidence During Human Decision-Making"}
+{
+  "retracted": false,
+  "timestamp": 1363132800000,
+  "updates": [
+    {
+      "timestamp": 1496005311840,
+      "identifier": {
+        "doi": "10.1371/annotation/34c56efb-aa58-47a6-9ac0-09097219f751"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1001203"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: How Awareness Changes the Relative Weights of Evidence During Human Decision-Making"
+}

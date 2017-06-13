@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.clindermatol.2015.01.001","type":"err"},"doi":"10.1016/j.clindermatol.2014.10.004","journal":"Clinics in Dermatology","publisher":"Elsevier BV","title":"Erratum to “Struck by lightning: Lichtenberg figures on a 19th-century wax model” [Clin Dermatol. 2015;33:122–127]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496045273673,
+      "identifier": {
+        "doi": "10.1016/j.clindermatol.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clindermatol.2014.10.004"
+  },
+  "journal": "Clinics in Dermatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Struck by lightning: Lichtenberg figures on a 19th-century wax model” [Clin Dermatol. 2015;33:122–127]"
+}

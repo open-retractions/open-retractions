@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404345600000,"doi":"10.1016/j.cell.2014.06.014","type":"erratum"},"doi":"10.1016/j.cell.2014.04.006","journal":"Cell","publisher":"Elsevier BV","title":"Reprogramming Committed Murine Blood Cells to Induced Hematopoietic Stem Cells with Defined Factors"}
+{
+  "retracted": false,
+  "timestamp": 1404345600000,
+  "updates": [
+    {
+      "timestamp": 1496051148054,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.06.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.04.006"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Reprogramming Committed Murine Blood Cells to Induced Hematopoietic Stem Cells with Defined Factors"
+}

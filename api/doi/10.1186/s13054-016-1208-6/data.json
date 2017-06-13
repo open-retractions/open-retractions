@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477267200000,"doi":"10.1186/s13054-016-1358-6","type":"correction"},"doi":"10.1186/s13054-016-1208-6","journal":"Critical Care","publisher":"Springer Nature","title":"Erratum to: 36th International Symposium on Intensive Care and Emergency Medicine"}
+{
+  "retracted": false,
+  "timestamp": 1477267200000,
+  "updates": [
+    {
+      "timestamp": 1495651237238,
+      "identifier": {
+        "doi": "10.1186/s13054-016-1358-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13054-016-1208-6"
+  },
+  "journal": "Critical Care",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: 36th International Symposium on Intensive Care and Emergency Medicine"
+}

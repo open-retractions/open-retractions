@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1423612800000,"doi":"10.1017/s1368980015000166","type":"correction"},"doi":"10.1017/s1368980014002304","journal":"Public Health Nutrition","publisher":"Cambridge University Press (CUP)","title":"Vitamin D, Causation, Conflict of Interest and other issues – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1423612800000,
+  "updates": [
+    {
+      "timestamp": 1496040155754,
+      "identifier": {
+        "doi": "10.1017/s1368980015000166"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s1368980014002304"
+  },
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Vitamin D, Causation, Conflict of Interest and other issues – CORRIGENDUM"
+}

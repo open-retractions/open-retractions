@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1370044800000,"update":{"timestamp":null,"doi":null,"pmid":26406909,"type":"retraction"},"doi":"10.1016/j.jcot.2013.03.001","journal":"Journal of clinical orthopaedics and trauma","publisher":null,"title":"A new test for acromio-clavicolar pathology."}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496011812613,
+      "identifier": {
+        "doi": "10.1016/j.jcot.2015.05.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcot.2013.03.001"
+  },
+  "journal": "Journal of Clinical Orthopaedics and Trauma",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “A new test for acromio-clavicolar pathology” [J. Clin. Orthop. Trauma 4 (2013) 75–79]"
+}

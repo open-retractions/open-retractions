@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.ijrobp.2014.12.055","type":"err"},"doi":"10.1016/j.ijrobp.2014.08.348","journal":"International Journal of Radiation Oncology*Biology*Physics","publisher":"Elsevier BV","title":"Erratum to: Melidis C, Bosch WR, Izewska J, et al. Global Harmonization of Quality Assurance Naming Conventions in Radiation Therapy Clinical Trials. Int J Radiat Oncol Biol Phys 2014;90:1242-1249."}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496052148774,
+      "identifier": {
+        "doi": "10.1016/j.ijrobp.2014.12.055"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijrobp.2014.08.348"
+  },
+  "journal": "International Journal of Radiation Oncology*Biology*Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Melidis C, Bosch WR, Izewska J, et al. Global Harmonization of Quality Assurance Naming Conventions in Radiation Therapy Clinical Trials. Int J Radiat Oncol Biol Phys 2014;90:1242-1249."
+}

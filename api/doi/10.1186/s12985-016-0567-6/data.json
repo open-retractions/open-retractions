@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479340800000,"doi":"10.1186/s12985-016-0633-0","type":"correction"},"doi":"10.1186/s12985-016-0567-6","journal":"Virology Journal","publisher":"Springer Nature","title":"Erratum to: Antiviral activity of Lactobacillus reuteri Protectis against Coxsackievirus A and Enterovirus 71 infection in human skeletal muscle and colon cell lines"}
+{
+  "retracted": false,
+  "timestamp": 1479340800000,
+  "updates": [
+    {
+      "timestamp": 1495659566988,
+      "identifier": {
+        "doi": "10.1186/s12985-016-0633-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12985-016-0567-6"
+  },
+  "journal": "Virology Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Antiviral activity of Lactobacillus reuteri Protectis against Coxsackievirus A and Enterovirus 71 infection in human skeletal muscle and colon cell lines"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.commatsci.2015.06.027","type":"err"},"doi":"10.1016/j.commatsci.2014.04.006","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Application of the distinct element method and the extended finite element method in modelling cracks and coalescence in brittle materials” [Comput. Mater. Sci. 91 (2015) 102–121]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496011679586,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.06.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2014.04.006"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Application of the distinct element method and the extended finite element method in modelling cracks and coalescence in brittle materials” [Comput. Mater. Sci. 91 (2015) 102–121]"
+}

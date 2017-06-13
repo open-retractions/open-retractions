@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.atmosenv.2013.04.029","type":"err"},"doi":"10.1016/j.atmosenv.2011.12.027","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Erratum to “Aerosol optical and radiative properties during summer and winter seasons over Lahore and Karachi” [Atmos. Environ. 50 (2012) 234–245]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496018927188,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2013.04.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2011.12.027"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Aerosol optical and radiative properties during summer and winter seasons over Lahore and Karachi” [Atmos. Environ. 50 (2012) 234–245]"
+}

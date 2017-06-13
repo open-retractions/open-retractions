@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1016/j.vaccine.2015.01.053","type":"erratum"},"doi":"10.1016/j.vaccine.2013.06.012","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to “Factors associated with the immune response to hepatitis A vaccination in HIV-infected patients in the era of highly active antiretroviral therapy” [Vaccine 31 (2013) 3668–3674]"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496037370421,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2015.01.053"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2013.06.012"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Factors associated with the immune response to hepatitis A vaccination in HIV-infected patients in the era of highly active antiretroviral therapy” [Vaccine 31 (2013) 3668–3674]"
+}

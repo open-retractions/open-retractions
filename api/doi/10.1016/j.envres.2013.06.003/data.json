@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.envres.2014.05.001","type":"err"},"doi":"10.1016/j.envres.2013.06.003","journal":"Environmental Research","publisher":"Elsevier BV","title":"Corrigendum to “Halogenated pollutants in terrestrial and aquatic bird eggs: Converging patterns of pollutant profiles, and impacts and risks from high levels” [Environ. Res. 126 (2013) 240–253]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496038545167,
+      "identifier": {
+        "doi": "10.1016/j.envres.2014.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2013.06.003"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Halogenated pollutants in terrestrial and aquatic bird eggs: Converging patterns of pollutant profiles, and impacts and risks from high levels” [Environ. Res. 126 (2013) 240–253]"
+}

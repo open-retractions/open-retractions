@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1007/s12185-017-2196-2","type":"correction"},"doi":"10.1007/s12185-016-2130-z","journal":"International Journal of Hematology","publisher":"Springer Nature","title":"Erratum to: Assessing the safety and efficacy of ruxolitinib in a multicenter, open-label study in Japanese patients with myelofibrosis"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495718541963,
+      "identifier": {
+        "doi": "10.1007/s12185-017-2196-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12185-016-2130-z"
+  },
+  "journal": "International Journal of Hematology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Assessing the safety and efficacy of ruxolitinib in a multicenter, open-label study in Japanese patients with myelofibrosis"
+}

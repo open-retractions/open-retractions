@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1007/s00779-015-0834-3","type":"correction"},"doi":"10.1007/s00779-011-0384-2","journal":"Personal and Ubiquitous Computing","publisher":"Springer Nature","title":"Erratum to: Developing technology for autism: an interdisciplinary approach"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496041147037,
+      "identifier": {
+        "doi": "10.1007/s00779-015-0834-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00779-011-0384-2"
+  },
+  "journal": "Personal and Ubiquitous Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Developing technology for autism: an interdisciplinary approach"
+}

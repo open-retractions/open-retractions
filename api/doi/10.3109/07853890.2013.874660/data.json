@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.3109/07853890.2014.970029","type":"correction"},"doi":"10.3109/07853890.2013.874660","journal":"Annals of Medicine","publisher":"Informa Healthcare","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496020169574,
+      "identifier": {
+        "doi": "10.3109/07853890.2014.970029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/07853890.2013.874660"
+  },
+  "journal": "Annals of Medicine",
+  "publisher": "Informa Healthcare",
+  "title": "CORRIGENDUM"
+}

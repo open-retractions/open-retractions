@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463961600000,"doi":"10.1038/srep25682","type":"correction"},"doi":"10.1038/srep16791","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: CpG island erosion, polycomb occupancy and sequence motif enrichment at bivalent promoters in mammalian embryonic stem cells"}
+{
+  "retracted": false,
+  "timestamp": 1463961600000,
+  "updates": [
+    {
+      "timestamp": 1495715387637,
+      "identifier": {
+        "doi": "10.1038/srep25682"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep16791"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: CpG island erosion, polycomb occupancy and sequence motif enrichment at bivalent promoters in mammalian embryonic stem cells"
+}

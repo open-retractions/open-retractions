@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386547200000,"doi":"10.1371/annotation/31412345-fc86-4d67-b37c-93d42f5f0a59","type":"correction"},"doi":"10.1371/journal.pone.0075707","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Correcting for Population Structure and Kinship Using the Linear Mixed Model: Theory and Extensions"}
+{
+  "retracted": false,
+  "timestamp": 1386547200000,
+  "updates": [
+    {
+      "timestamp": 1497100942266,
+      "identifier": {
+        "doi": "10.1371/annotation/31412345-fc86-4d67-b37c-93d42f5f0a59"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075707"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Correcting for Population Structure and Kinship Using the Linear Mixed Model: Theory and Extensions"
+}

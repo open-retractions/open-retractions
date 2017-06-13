@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1039/c6ay90031c","type":"correction"},"doi":"10.1039/c4ay90043j","journal":"Anal. Methods","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Meat and poultry nitrogen factors"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649757405,
+      "identifier": {
+        "doi": "10.1039/c6ay90031c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4ay90043j"
+  },
+  "journal": "Anal. Methods",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Meat and poultry nitrogen factors"
+}

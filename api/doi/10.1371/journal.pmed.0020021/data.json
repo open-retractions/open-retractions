@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330905600000,"doi":"10.1371/annotation/d3542745-d656-445b-842b-3d338a795bcc","type":"correction"},"doi":"10.1371/journal.pmed.0020021","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Predicting Tumor Responses to Gefitinib and Erlotinib"}
+{
+  "retracted": false,
+  "timestamp": 1330905600000,
+  "updates": [
+    {
+      "timestamp": 1496025196707,
+      "identifier": {
+        "doi": "10.1371/annotation/d3542745-d656-445b-842b-3d338a795bcc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0020021"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Predicting Tumor Responses to Gefitinib and Erlotinib"
+}

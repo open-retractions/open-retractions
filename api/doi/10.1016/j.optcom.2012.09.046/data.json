@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.optcom.2013.10.029","type":"err"},"doi":"10.1016/j.optcom.2012.09.046","journal":"Optics Communications","publisher":"Elsevier BV","title":"Retraction notice to “Optical limiting performance of Ag nanoclusters synthesized by ion implantation” [Opt. Commun. 287 (2012) 237–240]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1495991644446,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.10.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2012.09.046"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Optical limiting performance of Ag nanoclusters synthesized by ion implantation” [Opt. Commun. 287 (2012) 237–240]"
+}

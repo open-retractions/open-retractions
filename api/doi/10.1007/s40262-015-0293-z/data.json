@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1007/s40262-016-0375-6","type":"correction"},"doi":"10.1007/s40262-015-0293-z","journal":"Clinical Pharmacokinetics","publisher":"Springer Nature","title":"Erratum to: Enzalutamide: A Step Towards Pharmacokinetic-Based Dosing in Men with Metastatic Castration-Resistant Prostate Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1495644690144,
+      "identifier": {
+        "doi": "10.1007/s40262-016-0375-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40262-015-0293-z"
+  },
+  "journal": "Clinical Pharmacokinetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Enzalutamide: A Step Towards Pharmacokinetic-Based Dosing in Men with Metastatic Castration-Resistant Prostate Cancer"
+}

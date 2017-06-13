@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.micres.2015.07.001","type":"err"},"doi":"10.1016/j.micres.2015.03.005","journal":"Microbiological Research","publisher":"Elsevier BV","title":"Corrigendum to “Genetic mutations potentially cause two novel NCF1 splice variants up-regulated in the mammary gland, blood and neutrophil of cows infected by Escherichia coli” [Microbiol. Res. 174 (2015) 24–32]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496017159398,
+      "identifier": {
+        "doi": "10.1016/j.micres.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micres.2015.03.005"
+  },
+  "journal": "Microbiological Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic mutations potentially cause two novel NCF1 splice variants up-regulated in the mammary gland, blood and neutrophil of cows infected by Escherichia coli” [Microbiol. Res. 174 (2015) 24–32]"
+}

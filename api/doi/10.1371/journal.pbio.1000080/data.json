@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1249344000000,"doi":"10.1371/annotation/42dca769-eca8-4e8f-a6b5-236355b631ff","type":"correction"},"doi":"10.1371/journal.pbio.1000080","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Impaired Antibody Response Causes Persistence of Prototypic T Cell–Contained Virus"}
+{
+  "retracted": false,
+  "timestamp": 1249344000000,
+  "updates": [
+    {
+      "timestamp": 1496025197148,
+      "identifier": {
+        "doi": "10.1371/annotation/42dca769-eca8-4e8f-a6b5-236355b631ff"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1000080"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Impaired Antibody Response Causes Persistence of Prototypic T Cell–Contained Virus"
+}

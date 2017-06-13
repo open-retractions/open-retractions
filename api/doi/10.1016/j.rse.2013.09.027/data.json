@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.rse.2015.05.030","type":"err"},"doi":"10.1016/j.rse.2013.09.027","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Corrigendum for the paper “Estimating lichen volume and reindeer winter pasture quality from Landsat imagery” [Remote Sens. Environ., 140, 573–579]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496013428281,
+      "identifier": {
+        "doi": "10.1016/j.rse.2015.05.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2013.09.027"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum for the paper “Estimating lichen volume and reindeer winter pasture quality from Landsat imagery” [Remote Sens. Environ., 140, 573–579]"
+}

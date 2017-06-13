@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454630400000,"doi":"10.1038/srep20754","type":"correction"},"doi":"10.1038/srep15915","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy"}
+{
+  "retracted": false,
+  "timestamp": 1454630400000,
+  "updates": [
+    {
+      "timestamp": 1495642626393,
+      "identifier": {
+        "doi": "10.1038/srep20754"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep15915"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy"
+}

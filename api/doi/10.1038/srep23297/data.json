@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464652800000,"doi":"10.1038/srep26215","type":"correction"},"doi":"10.1038/srep23297","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Velocity distribution in active particles systems"}
+{
+  "retracted": false,
+  "timestamp": 1464652800000,
+  "updates": [
+    {
+      "timestamp": 1495717026178,
+      "identifier": {
+        "doi": "10.1038/srep26215"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep23297"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Velocity distribution in active particles systems"
+}

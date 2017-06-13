@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337212800000,"doi":"10.1371/annotation/947afede-1969-4061-a535-164655e9de72","type":"correction"},"doi":"10.1371/journal.pone.0035535","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: IL-6 and Mouse Oocyte Spindle"}
+{
+  "retracted": false,
+  "timestamp": 1337212800000,
+  "updates": [
+    {
+      "timestamp": 1495895813532,
+      "identifier": {
+        "doi": "10.1371/annotation/947afede-1969-4061-a535-164655e9de72"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035535"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: IL-6 and Mouse Oocyte Spindle"
+}

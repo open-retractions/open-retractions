@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jnca.2014.10.004","type":"err"},"doi":"10.1016/j.jnca.2014.09.004","journal":"Journal of Network and Computer Applications","publisher":"Elsevier BV","title":"Corrigendum to “Optimal deployment in randomly deployed heterogeneous WSNs: A connected coverage approach” [J. Netw. Comput. Appl. 46, (2014), 182–197]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496016219000,
+      "identifier": {
+        "doi": "10.1016/j.jnca.2014.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnca.2014.09.004"
+  },
+  "journal": "Journal of Network and Computer Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Optimal deployment in randomly deployed heterogeneous WSNs: A connected coverage approach” [J. Netw. Comput. Appl. 46, (2014), 182–197]"
+}

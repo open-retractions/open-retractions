@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.mehy.2014.06.018","type":"err"},"doi":"10.1016/j.mehy.2014.02.017","journal":"Medical Hypotheses","publisher":"Elsevier BV","title":"Corrigendum to “Percussion circuits and brain function – A hypothesis” [Med. Hypotheses 82 (2014) 595–600]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496051432221,
+      "identifier": {
+        "doi": "10.1016/j.mehy.2014.06.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mehy.2014.02.017"
+  },
+  "journal": "Medical Hypotheses",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Percussion circuits and brain function – A hypothesis” [Med. Hypotheses 82 (2014) 595–600]"
+}

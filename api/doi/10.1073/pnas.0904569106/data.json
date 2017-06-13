@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1248134400000,"doi":"10.1073/pnas.0907913106","type":"correction"},"doi":"10.1073/pnas.0904569106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Tay et al., Global discovery of primate-specific genes in the human genome"}
+{
+  "retracted": false,
+  "timestamp": 1248134400000,
+  "updates": [
+    {
+      "timestamp": 1495969508701,
+      "identifier": {
+        "doi": "10.1073/pnas.0907913106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0904569106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Tay et al., Global discovery of primate-specific genes in the human genome"
+}

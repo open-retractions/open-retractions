@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486684800000,"doi":"10.1186/s12863-017-0472-z","type":"correction"},"doi":"10.1186/s12863-016-0444-8","journal":"BMC Genetics","publisher":"Springer Nature","title":"Erratum to: A genome-wide assessment of genetic diversity and population structure of Korean native cattle breeds"}
+{
+  "retracted": false,
+  "timestamp": 1486684800000,
+  "updates": [
+    {
+      "timestamp": 1495719783700,
+      "identifier": {
+        "doi": "10.1186/s12863-017-0472-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12863-016-0444-8"
+  },
+  "journal": "BMC Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A genome-wide assessment of genetic diversity and population structure of Korean native cattle breeds"
+}

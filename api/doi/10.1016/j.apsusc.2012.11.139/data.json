@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.apsusc.2015.06.012","type":"err"},"doi":"10.1016/j.apsusc.2012.11.139","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Retraction notice to “Investigation of structural, optical and electronic properties in Al–Sn co-doped ZnO thin films” [Appl. Surf. Sci. 265 (2013) 870–877]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496021791698,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2015.06.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2012.11.139"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Investigation of structural, optical and electronic properties in Al–Sn co-doped ZnO thin films” [Appl. Surf. Sci. 265 (2013) 870–877]"
+}

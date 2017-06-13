@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469750400000,"doi":"10.1080/10448632.2016.1197615","type":"correction"},"doi":"10.1080/10448632.2015.995982","journal":"Neutron News","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1469750400000,
+  "updates": [
+    {
+      "timestamp": 1495732989009,
+      "identifier": {
+        "doi": "10.1080/10448632.2016.1197615"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10448632.2015.995982"
+  },
+  "journal": "Neutron News",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

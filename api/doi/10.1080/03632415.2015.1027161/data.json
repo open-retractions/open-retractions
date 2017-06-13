@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432166400000,"doi":"10.1080/03632415.2015.1046781","type":"correction"},"doi":"10.1080/03632415.2015.1027161","journal":"Fisheries","publisher":"Informa UK Limited","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1432166400000,
+  "updates": [
+    {
+      "timestamp": 1495998356544,
+      "identifier": {
+        "doi": "10.1080/03632415.2015.1046781"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03632415.2015.1027161"
+  },
+  "journal": "Fisheries",
+  "publisher": "Informa UK Limited",
+  "title": "Correction"
+}

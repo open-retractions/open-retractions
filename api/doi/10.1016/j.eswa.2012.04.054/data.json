@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.eswa.2013.03.023","type":"err"},"doi":"10.1016/j.eswa.2012.04.054","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Corrigendum to cross-domain video concept detection: A joint discriminative and generative active learning approach [Expert Systems with Applications 39 (15) (2012) 12220–12228]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496007363510,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2013.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2012.04.054"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to cross-domain video concept detection: A joint discriminative and generative active learning approach [Expert Systems with Applications 39 (15) (2012) 12220–12228]"
+}

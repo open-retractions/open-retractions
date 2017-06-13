@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1007/s11768-016-5146-2","type":"correction"},"doi":"10.1007/s11768-014-4031-0","journal":"Control Theory and Technology","publisher":"Springer Nature","title":"Erratum to: Engineering cybernetics: 60 years in the making"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495718318144,
+      "identifier": {
+        "doi": "10.1007/s11768-016-5146-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11768-014-4031-0"
+  },
+  "journal": "Control Theory and Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Engineering cybernetics: 60 years in the making"
+}

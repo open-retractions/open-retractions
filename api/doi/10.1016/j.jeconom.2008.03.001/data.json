@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jeconom.2013.11.004","type":"err"},"doi":"10.1016/j.jeconom.2008.03.001","journal":"Journal of Econometrics","publisher":"Elsevier BV","title":"Corrigendum to “Maximum likelihood estimation and inference methods for the covariance stationary panel AR(1)/unit root model” [J. Econom. 144 (2008) 447–464]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496002093636,
+      "identifier": {
+        "doi": "10.1016/j.jeconom.2013.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jeconom.2008.03.001"
+  },
+  "journal": "Journal of Econometrics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Maximum likelihood estimation and inference methods for the covariance stationary panel AR(1)/unit root model” [J. Econom. 144 (2008) 447–464]"
+}

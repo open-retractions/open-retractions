@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.apm.2014.06.008","type":"err"},"doi":"10.1016/j.apm.2013.11.020","journal":"Applied Mathematical Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Aggregating crisp values into intuitionistic fuzzy number for group decision making” [Applied Mathematical Modelling 38 (11–12) (2014) 2969–2982]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1495996131686,
+      "identifier": {
+        "doi": "10.1016/j.apm.2014.06.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apm.2013.11.020"
+  },
+  "journal": "Applied Mathematical Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Aggregating crisp values into intuitionistic fuzzy number for group decision making” [Applied Mathematical Modelling 38 (11–12) (2014) 2969–2982]"
+}

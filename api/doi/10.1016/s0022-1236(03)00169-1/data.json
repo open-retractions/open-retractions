@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.jfa.2015.12.013","type":"erratum"},"doi":"10.1016/s0022-1236(03)00169-1","journal":"Journal of Functional Analysis","publisher":"Elsevier BV","title":"Corrigendum to: “Operator biflatness of the Fourier algebra and approximate indicators for subgroups” [J. Funct. Anal. 209 (2) (2004) 367–387]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495637876196,
+      "identifier": {
+        "doi": "10.1016/j.jfa.2015.12.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0022-1236(03)00169-1"
+  },
+  "journal": "Journal of Functional Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Operator biflatness of the Fourier algebra and approximate indicators for subgroups” [J. Funct. Anal. 209 (2) (2004) 367–387]"
+}

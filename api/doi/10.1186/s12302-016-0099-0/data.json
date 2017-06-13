@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1186/s12302-017-0107-z","type":"correction"},"doi":"10.1186/s12302-016-0099-0","journal":"Environmental Sciences Europe","publisher":"Springer Nature","title":"Erratum to: Possible health impacts of Bt toxins and residues from spraying with complementary herbicides in genetically engineered soybeans and risk assessment as performed by the European Food Safety Authority EFSA"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495722384624,
+      "identifier": {
+        "doi": "10.1186/s12302-017-0107-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12302-016-0099-0"
+  },
+  "journal": "Environmental Sciences Europe",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Possible health impacts of Bt toxins and residues from spraying with complementary herbicides in genetically engineered soybeans and risk assessment as performed by the European Food Safety Authority EFSA"
+}

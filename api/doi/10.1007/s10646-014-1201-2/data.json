@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402704000000,"doi":"10.1007/s10646-014-1263-1","type":"correction"},"doi":"10.1007/s10646-014-1201-2","journal":"Ecotoxicology","publisher":"Springer Nature","title":"Erratum to: Genes required for alleviation of uranium toxicity in sulfate reducing bacterium Desulfovibrio alaskensis G20"}
+{
+  "retracted": false,
+  "timestamp": 1402704000000,
+  "updates": [
+    {
+      "timestamp": 1496045606656,
+      "identifier": {
+        "doi": "10.1007/s10646-014-1263-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10646-014-1201-2"
+  },
+  "journal": "Ecotoxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genes required for alleviation of uranium toxicity in sulfate reducing bacterium Desulfovibrio alaskensis G20"
+}

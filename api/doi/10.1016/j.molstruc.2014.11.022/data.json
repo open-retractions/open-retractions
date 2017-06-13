@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436054400000,"doi":"10.1016/j.molstruc.2015.03.004","type":"err"},"doi":"10.1016/j.molstruc.2014.11.022","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, characterization and crystal structure of a 1D thiocyanato bridged [Cu(en)2Zn(NCS)4]⋅H2O. Comparison of the three structures with the same [Cu(en)2Zn(NCS)4] unit − different in structural terms” [J. Mol. Struct. 1083 (2015) 374–380]"}
+{
+  "retracted": false,
+  "timestamp": 1436054400000,
+  "updates": [
+    {
+      "timestamp": 1496053735939,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2015.03.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2014.11.022"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, characterization and crystal structure of a 1D thiocyanato bridged [Cu(en)2Zn(NCS)4]⋅H2O. Comparison of the three structures with the same [Cu(en)2Zn(NCS)4] unit − different in structural terms” [J. Mol. Struct. 1083 (2015) 374–380]"
+}

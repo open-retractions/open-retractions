@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473897600000,"doi":"10.1080/15411796.2016.1222847","type":"correction"},"doi":"10.1080/15411796.2016.1188526","journal":"Teaching Artist Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1473897600000,
+  "updates": [
+    {
+      "timestamp": 1495640221883,
+      "identifier": {
+        "doi": "10.1080/15411796.2016.1222847"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15411796.2016.1188526"
+  },
+  "journal": "Teaching Artist Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

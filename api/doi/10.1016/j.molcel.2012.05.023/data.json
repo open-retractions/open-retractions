@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.molcel.2015.10.007","type":"err"},"doi":"10.1016/j.molcel.2012.05.023","journal":"Molecular Cell","publisher":"Elsevier BV","title":"RNF20 and USP44 Regulate Stem Cell Differentiation by Modulating H2B Monoubiquitylation"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496038447931,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2012.05.023"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "RNF20 and USP44 Regulate Stem Cell Differentiation by Modulating H2B Monoubiquitylation"
+}

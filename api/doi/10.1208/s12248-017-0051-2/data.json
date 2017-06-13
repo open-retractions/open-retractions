@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487808000000,"doi":"10.1208/s12248-017-0061-0","type":"correction"},"doi":"10.1208/s12248-017-0051-2","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Reliable Rate Measurements for Active and Passive Hepatic Uptake Using Plated Human Hepatocytes"}
+{
+  "retracted": false,
+  "timestamp": 1487808000000,
+  "updates": [
+    {
+      "timestamp": 1495714986165,
+      "identifier": {
+        "doi": "10.1208/s12248-017-0061-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-017-0051-2"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Reliable Rate Measurements for Active and Passive Hepatic Uptake Using Plated Human Hepatocytes"
+}

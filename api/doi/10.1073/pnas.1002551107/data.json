@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1277251200000,"doi":"10.1073/pnas.1008458107","type":"correction"},"doi":"10.1073/pnas.1002551107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hughes et al., Chemical sensing in mammalian host-bacterial commensal associations"}
+{
+  "retracted": false,
+  "timestamp": 1277251200000,
+  "updates": [
+    {
+      "timestamp": 1495856138291,
+      "identifier": {
+        "doi": "10.1073/pnas.1008458107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1002551107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hughes et al., Chemical sensing in mammalian host-bacterial commensal associations"
+}

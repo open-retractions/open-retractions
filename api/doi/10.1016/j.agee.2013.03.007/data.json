@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.agee.2014.03.021","type":"err"},"doi":"10.1016/j.agee.2013.03.007","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to “Habitat preferences of Corncrake (Crex crex) males in agricultural meadows” [Agric. Ecosyst. Environ. 171 (2013) 33–38]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496030771529,
+      "identifier": {
+        "doi": "10.1016/j.agee.2014.03.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2013.03.007"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Habitat preferences of Corncrake (Crex crex) males in agricultural meadows” [Agric. Ecosyst. Environ. 171 (2013) 33–38]"
+}

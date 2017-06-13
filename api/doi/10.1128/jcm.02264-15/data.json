@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1128/jcm.01356-16","type":"correction"},"doi":"10.1128/jcm.02264-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Erratum for Mokhtari et al., Characterization of Samples Identified as Hepatitis C Virus Genotype 1 without Subtype by Abbott RealTime HCV Genotype II Assay Using the New Abbott HCV GenotypePlusRUO Test"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495740184384,
+      "identifier": {
+        "doi": "10.1128/jcm.01356-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.02264-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Mokhtari et al., Characterization of Samples Identified as Hepatitis C Virus Genotype 1 without Subtype by Abbott RealTime HCV Genotype II Assay Using the New Abbott HCV GenotypePlusRUO Test"
+}

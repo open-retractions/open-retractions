@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409184000000,"doi":"10.1007/s10549-014-3107-3","type":"correction"},"doi":"10.1007/s10549-014-3042-3","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: Cost-effectiveness analysis of everolimus plus exemestane versus exemestane alone for treatment of hormone receptor positive metastatic breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1409184000000,
+  "updates": [
+    {
+      "timestamp": 1496003037819,
+      "identifier": {
+        "doi": "10.1007/s10549-014-3107-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-014-3042-3"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cost-effectiveness analysis of everolimus plus exemestane versus exemestane alone for treatment of hormone receptor positive metastatic breast cancer"
+}

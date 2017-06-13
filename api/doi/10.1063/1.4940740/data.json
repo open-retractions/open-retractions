@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463529600000,"doi":"10.1063/1.4952376","type":"correction"},"doi":"10.1063/1.4940740","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Energies of the X- and L-valleys in In0.53Ga0.47As from electronic structure calculations” [J. Appl. Phys. 119, 055707 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1463529600000,
+  "updates": [
+    {
+      "timestamp": 1495677471764,
+      "identifier": {
+        "doi": "10.1063/1.4952376"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4940740"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Energies of the X- and L-valleys in In0.53Ga0.47As from electronic structure calculations” [J. Appl. Phys. 119, 055707 (2016)]"
+}

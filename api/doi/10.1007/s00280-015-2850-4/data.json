@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447977600000,"doi":"10.1007/s00280-015-2890-9","type":"correction"},"doi":"10.1007/s00280-015-2850-4","journal":"Cancer Chemotherapy and Pharmacology","publisher":"Springer Nature","title":"Erratum to: Phase 1 study of oral TAS-102 in patients with refractory metastatic colorectal cancer"}
+{
+  "retracted": false,
+  "timestamp": 1447977600000,
+  "updates": [
+    {
+      "timestamp": 1496047513984,
+      "identifier": {
+        "doi": "10.1007/s00280-015-2890-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00280-015-2850-4"
+  },
+  "journal": "Cancer Chemotherapy and Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phase 1 study of oral TAS-102 in patients with refractory metastatic colorectal cancer"
+}

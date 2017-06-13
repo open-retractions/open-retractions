@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412640000000,"doi":"10.1007/s40265-014-0310-9","type":"correction"},"doi":"10.1007/s40265-014-0285-6","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Idelalisib: First Global Approval"}
+{
+  "retracted": false,
+  "timestamp": 1412640000000,
+  "updates": [
+    {
+      "timestamp": 1496012490530,
+      "identifier": {
+        "doi": "10.1007/s40265-014-0310-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-014-0285-6"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Idelalisib: First Global Approval"
+}

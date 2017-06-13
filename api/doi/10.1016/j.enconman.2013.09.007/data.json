@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.enconman.2014.02.008","type":"err"},"doi":"10.1016/j.enconman.2013.09.007","journal":"Energy Conversion and Management","publisher":"Elsevier BV","title":"Corrigendum to “An ecological and economic assessment of absorption-enhanced-reforming (AER) biomass gasification” [Energy Convers. Manag. 77 (2014) 535–544]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496019691770,
+      "identifier": {
+        "doi": "10.1016/j.enconman.2014.02.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enconman.2013.09.007"
+  },
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An ecological and economic assessment of absorption-enhanced-reforming (AER) biomass gasification” [Energy Convers. Manag. 77 (2014) 535–544]"
+}

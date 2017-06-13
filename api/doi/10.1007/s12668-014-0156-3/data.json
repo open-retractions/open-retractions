@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418256000000,"doi":"10.1007/s12668-014-0160-7","type":"correction"},"doi":"10.1007/s12668-014-0156-3","journal":"BioNanoScience","publisher":"Springer Nature","title":"Erratum to: Slime Mould Memristors"}
+{
+  "retracted": false,
+  "timestamp": 1418256000000,
+  "updates": [
+    {
+      "timestamp": 1496029554644,
+      "identifier": {
+        "doi": "10.1007/s12668-014-0160-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12668-014-0156-3"
+  },
+  "journal": "BioNanoScience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Slime Mould Memristors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431388800000,"doi":"10.1063/1.4919884","type":"correction"},"doi":"10.1063/1.4894806","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “On the effect of δ-doping in self-switching diodes” [Appl. Phys. Lett. 105, 093505 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1431388800000,
+  "updates": [
+    {
+      "timestamp": 1495999709199,
+      "identifier": {
+        "doi": "10.1063/1.4919884"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4894806"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On the effect of δ-doping in self-switching diodes” [Appl. Phys. Lett. 105, 093505 (2014)]"
+}

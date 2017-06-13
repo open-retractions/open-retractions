@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.exger.2013.02.013","type":"err"},"doi":"10.1016/j.exger.2012.08.012","journal":"Experimental Gerontology","publisher":"Elsevier BV","title":"Corrigendum to “Low plasma DHEA-S increases mortality risk among male hemodialysis patients” [Exp. Gerontol. 47 (2012) 950–957]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495999367150,
+      "identifier": {
+        "doi": "10.1016/j.exger.2013.02.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exger.2012.08.012"
+  },
+  "journal": "Experimental Gerontology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low plasma DHEA-S increases mortality risk among male hemodialysis patients” [Exp. Gerontol. 47 (2012) 950–957]"
+}

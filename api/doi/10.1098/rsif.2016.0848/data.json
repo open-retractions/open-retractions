@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1098/rsif.2017.0170","type":"correction"},"doi":"10.1098/rsif.2016.0848","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Control and regulation of pathways via negative feedback’"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495736135423,
+      "identifier": {
+        "doi": "10.1098/rsif.2017.0170"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2016.0848"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Control and regulation of pathways via negative feedback’"
+}

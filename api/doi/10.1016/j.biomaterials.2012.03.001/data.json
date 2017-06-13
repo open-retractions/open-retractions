@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.biomaterials.2014.10.072","type":"err"},"doi":"10.1016/j.biomaterials.2012.03.001","journal":"Biomaterials","publisher":"Elsevier BV","title":"‘Erratum to “Comparing predictive drug nephrotoxicity biomarkers in kidney 3-D primary organoid culture and immortalized cell lines” [Biomaterials 33 (2012) 4712–4721]’"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496020470883,
+      "identifier": {
+        "doi": "10.1016/j.biomaterials.2014.10.072"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biomaterials.2012.03.001"
+  },
+  "journal": "Biomaterials",
+  "publisher": "Elsevier BV",
+  "title": "‘Erratum to “Comparing predictive drug nephrotoxicity biomarkers in kidney 3-D primary organoid culture and immortalized cell lines” [Biomaterials 33 (2012) 4712–4721]’"
+}

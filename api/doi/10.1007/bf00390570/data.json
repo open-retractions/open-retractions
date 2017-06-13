@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":202435200000,"doi":"10.1007/bf00388443","type":"correction"},"doi":"10.1007/bf00390570","journal":"Marine Biology","publisher":"Springer Nature","title":"Erratum to: Analysis of an intertidal population of the amphipod Gammarus palustris using a modified version of the egg-ratio method"}
+{
+  "retracted": false,
+  "timestamp": 202435200000,
+  "updates": [
+    {
+      "timestamp": 1495863385706,
+      "identifier": {
+        "doi": "10.1007/bf00388443"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00390570"
+  },
+  "journal": "Marine Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysis of an intertidal population of the amphipod Gammarus palustris using a modified version of the egg-ratio method"
+}

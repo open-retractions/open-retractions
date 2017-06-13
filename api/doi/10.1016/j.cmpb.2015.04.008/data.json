@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.cmpb.2015.05.005","type":"err"},"doi":"10.1016/j.cmpb.2015.04.008","journal":"Computer Methods and Programs in Biomedicine","publisher":"Elsevier BV","title":"Corrigendum to “A signal processing application for evaluating self-monitoring blood glucose strategies in a software agent model” [Comput. Methods Programs Biomed. 120 (2015) 77–87]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496009243602,
+      "identifier": {
+        "doi": "10.1016/j.cmpb.2015.05.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmpb.2015.04.008"
+  },
+  "journal": "Computer Methods and Programs in Biomedicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A signal processing application for evaluating self-monitoring blood glucose strategies in a software agent model” [Comput. Methods Programs Biomed. 120 (2015) 77–87]"
+}

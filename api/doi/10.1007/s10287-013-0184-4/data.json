@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414195200000,"doi":"10.1007/s10287-014-0224-8","type":"correction"},"doi":"10.1007/s10287-013-0184-4","journal":"Computational Management Science","publisher":"Springer Nature","title":"Erratum to: A copula-based heuristic for scenario generation"}
+{
+  "retracted": false,
+  "timestamp": 1414195200000,
+  "updates": [
+    {
+      "timestamp": 1496016397310,
+      "identifier": {
+        "doi": "10.1007/s10287-014-0224-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10287-013-0184-4"
+  },
+  "journal": "Computational Management Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A copula-based heuristic for scenario generation"
+}

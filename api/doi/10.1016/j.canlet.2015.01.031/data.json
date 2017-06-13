@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1016/j.canlet.2015.11.001","type":"err"},"doi":"10.1016/j.canlet.2015.01.031","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “EZH2 promotes tumor progression via regulating VEGF-A/AKT signaling in non-small cell lung cancer” [Cancer Lett. 359 (2015) 275–287]"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1496042144961,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2015.01.031"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “EZH2 promotes tumor progression via regulating VEGF-A/AKT signaling in non-small cell lung cancer” [Cancer Lett. 359 (2015) 275–287]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439942400000,"doi":"10.1007/s10498-015-9274-y","type":"correction"},"doi":"10.1007/s10498-014-9250-y","journal":"Aquatic Geochemistry","publisher":"Springer Nature","title":"Erratum to: The Effect of Monovalent Electrolytes on the Deprotonation of MAl12 Keggin Ions"}
+{
+  "retracted": false,
+  "timestamp": 1439942400000,
+  "updates": [
+    {
+      "timestamp": 1496022212254,
+      "identifier": {
+        "doi": "10.1007/s10498-015-9274-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10498-014-9250-y"
+  },
+  "journal": "Aquatic Geochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Effect of Monovalent Electrolytes on the Deprotonation of MAl12 Keggin Ions"
+}

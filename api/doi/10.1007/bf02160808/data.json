@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-260409600000,"doi":"10.1007/bf02158306","type":"correction"},"doi":"10.1007/bf02160808","journal":"Experientia","publisher":"Springer Nature","title":"Erratum zu: Fortschritte und Ergebnisse der Zellkulturmethodik"}
+{
+  "retracted": false,
+  "timestamp": -260409600000,
+  "updates": [
+    {
+      "timestamp": 1495960641221,
+      "identifier": {
+        "doi": "10.1007/bf02158306"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02160808"
+  },
+  "journal": "Experientia",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Fortschritte und Ergebnisse der Zellkulturmethodik"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1007/s00216-015-8794-z","type":"correction"},"doi":"10.1007/s00216-015-8632-3","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Magnetic-nanobead-based competitive enzyme-linked aptamer assay for the analysis of oxytetracycline in food"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496002504748,
+      "identifier": {
+        "doi": "10.1007/s00216-015-8794-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-015-8632-3"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Magnetic-nanobead-based competitive enzyme-linked aptamer assay for the analysis of oxytetracycline in food"
+}

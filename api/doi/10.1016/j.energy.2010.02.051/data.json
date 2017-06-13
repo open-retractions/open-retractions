@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.energy.2014.10.047","type":"err"},"doi":"10.1016/j.energy.2010.02.051","journal":"Energy","publisher":"Elsevier BV","title":"Corrigendum to “Multicriteria renewable energy planning using an integrated fuzzy VIKOR & AHP methodology: The case of Istanbul” [Energy 35(6) (2010) 2517–2527]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496025758212,
+      "identifier": {
+        "doi": "10.1016/j.energy.2014.10.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.energy.2010.02.051"
+  },
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multicriteria renewable energy planning using an integrated fuzzy VIKOR & AHP methodology: The case of Istanbul” [Energy 35(6) (2010) 2517–2527]"
+}

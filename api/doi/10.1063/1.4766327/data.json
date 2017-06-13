@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357603200000,"doi":"10.1063/1.4773062","type":"correction"},"doi":"10.1063/1.4766327","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Communication: Excited states, dynamic correlation functions and spectral properties from full configuration interaction quantum Monte Carlo” [J. Chem. Phys. 137, 191102 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357603200000,
+  "updates": [
+    {
+      "timestamp": 1495983751416,
+      "identifier": {
+        "doi": "10.1063/1.4773062"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4766327"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Communication: Excited states, dynamic correlation functions and spectral properties from full configuration interaction quantum Monte Carlo” [J. Chem. Phys. 137, 191102 (2012)]"
+}

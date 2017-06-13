@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349049600000,"doi":"10.2337/db12-er10","type":"correction"},"doi":"10.2337/db08-0349","journal":"Diabetes","publisher":"American Diabetes Association","title":"Endurance exercise as a countermeasure for aging. Diabetes 2008;57:2933-2942"}
+{
+  "retracted": false,
+  "timestamp": 1349049600000,
+  "updates": [
+    {
+      "timestamp": 1495953566633,
+      "identifier": {
+        "doi": "10.2337/db12-er10"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/db08-0349"
+  },
+  "journal": "Diabetes",
+  "publisher": "American Diabetes Association",
+  "title": "Endurance exercise as a countermeasure for aging. Diabetes 2008;57:2933-2942"
+}

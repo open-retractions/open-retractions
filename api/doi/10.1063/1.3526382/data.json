@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304899200000,"doi":"10.1063/1.3590274","type":"erratum"},"doi":"10.1063/1.3526382","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Temperature dependence of 1/f noise mechanisms in silicon nanowire biochemical field effect transistors” [Appl. Phys. Lett. 97, 243501 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1304899200000,
+  "updates": [
+    {
+      "timestamp": 1495956534410,
+      "identifier": {
+        "doi": "10.1063/1.3590274"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3526382"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Temperature dependence of 1/f noise mechanisms in silicon nanowire biochemical field effect transistors” [Appl. Phys. Lett. 97, 243501 (2010)]"
+}

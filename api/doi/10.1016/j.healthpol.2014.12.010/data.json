@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.healthpol.2016.04.003","type":"err"},"doi":"10.1016/j.healthpol.2014.12.010","journal":"Health Policy","publisher":"Elsevier BV","title":"Corrigendum to “The first attempt to create a national strategy for reducing waiting times in Poland: Will it succeed?” [Health Policy 119 (2015) 258–263]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495667229465,
+      "identifier": {
+        "doi": "10.1016/j.healthpol.2016.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.healthpol.2014.12.010"
+  },
+  "journal": "Health Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The first attempt to create a national strategy for reducing waiting times in Poland: Will it succeed?” [Health Policy 119 (2015) 258–263]"
+}

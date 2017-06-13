@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455753600000,"doi":"10.1007/s00380-016-0810-5","type":"correction"},"doi":"10.1007/s00380-015-0724-7","journal":"Heart and Vessels","publisher":"Springer Nature","title":"Erratum to: Teneligliptin improves left ventricular diastolic function and endothelial function in patients with diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1455753600000,
+  "updates": [
+    {
+      "timestamp": 1495645380210,
+      "identifier": {
+        "doi": "10.1007/s00380-016-0810-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00380-015-0724-7"
+  },
+  "journal": "Heart and Vessels",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Teneligliptin improves left ventricular diastolic function and endothelial function in patients with diabetes"
+}

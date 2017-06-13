@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.ijepes.2014.12.003","type":"err"},"doi":"10.1016/j.ijepes.2014.06.003","journal":"International Journal of Electrical Power & Energy Systems","publisher":"Elsevier BV","title":"Corrigendum to “Performance enhancement of hybrid AC/DC microgrid based D-FACTS” [Int. J. Electr. Power Energy Syst. 63 (2014) 382–393]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496028231442,
+      "identifier": {
+        "doi": "10.1016/j.ijepes.2014.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijepes.2014.06.003"
+  },
+  "journal": "International Journal of Electrical Power & Energy Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance enhancement of hybrid AC/DC microgrid based D-FACTS” [Int. J. Electr. Power Energy Syst. 63 (2014) 382–393]"
+}

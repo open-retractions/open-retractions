@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366156800000,"doi":"10.1186/1471-2164-14-260","type":"correction"},"doi":"10.1186/1471-2164-12-604","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Expression of concern: subfunctionalization reduces the fitness cost of gene duplication in humans by buffering dosage imbalances"}
+{
+  "retracted": false,
+  "timestamp": 1366156800000,
+  "updates": [
+    {
+      "timestamp": 1496013004861,
+      "identifier": {
+        "doi": "10.1186/1471-2164-14-260"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2164-12-604"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Expression of concern: subfunctionalization reduces the fitness cost of gene duplication in humans by buffering dosage imbalances"
+}

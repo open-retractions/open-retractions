@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348704000000,"doi":"10.1007/s11427-012-4376-x","type":"correction"},"doi":"10.1007/s11427-012-4365-0","journal":"Science China Life Sciences","publisher":"Springer Nature","title":"Erratum to: Single nucleotide polymorphisms in the human corticosteroid-binding globulin promoter alter transcriptional activity"}
+{
+  "retracted": false,
+  "timestamp": 1348704000000,
+  "updates": [
+    {
+      "timestamp": 1495954567433,
+      "identifier": {
+        "doi": "10.1007/s11427-012-4376-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11427-012-4365-0"
+  },
+  "journal": "Science China Life Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Single nucleotide polymorphisms in the human corticosteroid-binding globulin promoter alter transcriptional activity"
+}

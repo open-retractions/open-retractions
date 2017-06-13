@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464134400000,"doi":"10.1080/03075079.2015.1126130","type":"correction"},"doi":"10.1080/03075079.2015.1074672","journal":"Studies in Higher Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464134400000,
+  "updates": [
+    {
+      "timestamp": 1495680156397,
+      "identifier": {
+        "doi": "10.1080/03075079.2015.1126130"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03075079.2015.1074672"
+  },
+  "journal": "Studies in Higher Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

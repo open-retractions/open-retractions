@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375833600000,"doi":"10.1016/j.neuron.2013.07.030","type":"err"},"doi":"10.1016/j.neuron.2012.07.023","journal":"Neuron","publisher":"Elsevier BV","title":"An Agent Independent Axis for Executed and Modeled Choice in Medial Prefrontal Cortex"}
+{
+  "retracted": false,
+  "timestamp": 1375833600000,
+  "updates": [
+    {
+      "timestamp": 1496038251220,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.07.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.07.023"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "An Agent Independent Axis for Executed and Modeled Choice in Medial Prefrontal Cortex"
+}

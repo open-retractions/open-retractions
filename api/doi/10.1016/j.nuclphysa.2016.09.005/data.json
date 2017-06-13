@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.nuclphysa.2017.03.002","type":"erratum"},"doi":"10.1016/j.nuclphysa.2016.09.005","journal":"Nuclear Physics A","publisher":"Elsevier BV","title":"Corrigendum to “Refinements in the Los Alamos model of the prompt fission neutron spectrum” [Nucl. Phys. A 957 (2017) 289–311]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495730285238,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysa.2017.03.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysa.2016.09.005"
+  },
+  "journal": "Nuclear Physics A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Refinements in the Los Alamos model of the prompt fission neutron spectrum” [Nucl. Phys. A 957 (2017) 289–311]"
+}

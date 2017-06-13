@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455321600000,"doi":"10.1007/s10973-016-5309-x","type":"correction"},"doi":"10.1007/s10973-015-4668-z","journal":"Journal of Thermal Analysis and Calorimetry","publisher":"Springer Nature","title":"Erratum to: Copper diffusion in cable-insulating materials by chemiluminescence and DSC techniques"}
+{
+  "retracted": false,
+  "timestamp": 1455321600000,
+  "updates": [
+    {
+      "timestamp": 1495644493242,
+      "identifier": {
+        "doi": "10.1007/s10973-016-5309-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10973-015-4668-z"
+  },
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Copper diffusion in cable-insulating materials by chemiluminescence and DSC techniques"
+}

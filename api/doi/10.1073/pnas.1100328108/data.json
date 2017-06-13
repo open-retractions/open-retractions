@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306195200000,"doi":"10.1073/pnas.1108478108","type":"correction"},"doi":"10.1073/pnas.1100328108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Qian et al., Tissue-specific roles of Axin2 in the inhibition and activation of Wnt signaling in the mouse embryo"}
+{
+  "retracted": false,
+  "timestamp": 1306195200000,
+  "updates": [
+    {
+      "timestamp": 1495964094106,
+      "identifier": {
+        "doi": "10.1073/pnas.1108478108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1100328108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Qian et al., Tissue-specific roles of Axin2 in the inhibition and activation of Wnt signaling in the mouse embryo"
+}

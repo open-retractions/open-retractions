@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1186/s13015-016-0084-6","type":"correction"},"doi":"10.1186/s13015-016-0076-6","journal":"Algorithms for Molecular Biology","publisher":"Springer Nature","title":"Erratum to: Circular sequence comparison: algorithms and applications"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495732413074,
+      "identifier": {
+        "doi": "10.1186/s13015-016-0084-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13015-016-0076-6"
+  },
+  "journal": "Algorithms for Molecular Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Circular sequence comparison: algorithms and applications"
+}

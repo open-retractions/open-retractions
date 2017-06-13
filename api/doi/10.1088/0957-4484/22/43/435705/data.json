@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467936000000,"doi":"10.1088/0957-4484/27/33/339501","type":"correction"},"doi":"10.1088/0957-4484/22/43/435705","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: Method for electrical characterization of nanowires (2011Nanotechnology22 435705)"}
+{
+  "retracted": false,
+  "timestamp": 1467936000000,
+  "updates": [
+    {
+      "timestamp": 1495725667409,
+      "identifier": {
+        "doi": "10.1088/0957-4484/27/33/339501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/22/43/435705"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Method for electrical characterization of nanowires (2011Nanotechnology22 435705)"
+}

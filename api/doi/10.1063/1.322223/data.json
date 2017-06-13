@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":218246400000,"doi":"10.1063/1.323297","type":"erratum"},"doi":"10.1063/1.322223","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: Crack and dislocation propagation in an idealized crystal model"}
+{
+  "retracted": false,
+  "timestamp": 218246400000,
+  "updates": [
+    {
+      "timestamp": 1495944948681,
+      "identifier": {
+        "doi": "10.1063/1.323297"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.322223"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Crack and dislocation propagation in an idealized crystal model"
+}

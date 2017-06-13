@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1136/jclinpath-2014-202819corr1","type":"correction"},"doi":"10.1136/jclinpath-2014-202819","journal":"Journal of Clinical Pathology","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495996925993,
+      "identifier": {
+        "doi": "10.1136/jclinpath-2014-202819corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/jclinpath-2014-202819"
+  },
+  "journal": "Journal of Clinical Pathology",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

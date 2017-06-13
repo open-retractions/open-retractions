@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1154390400000,"doi":"10.1073/pnas.0604971103","type":"correction"},"doi":"10.1073/pnas.0602979103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Palma et al., Anomalous levels of Cl- transporters in the hippocampal subiculum from temporal lobe epilepsy patients make GABA excitatory"}
+{
+  "retracted": false,
+  "timestamp": 1154390400000,
+  "updates": [
+    {
+      "timestamp": 1495833353089,
+      "identifier": {
+        "doi": "10.1073/pnas.0604971103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0602979103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Palma et al., Anomalous levels of Cl- transporters in the hippocampal subiculum from temporal lobe epilepsy patients make GABA excitatory"
+}

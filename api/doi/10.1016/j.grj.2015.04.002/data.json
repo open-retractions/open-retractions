@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.grj.2015.10.001","type":"erratum"},"doi":"10.1016/j.grj.2015.04.002","journal":"GeoResJ","publisher":"Elsevier BV","title":"Corrigendum to ‘Preservation challenges for geological data at state geological surveys’ [GeoResJ 6(6), (2015), 213-220]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1495648869603,
+      "identifier": {
+        "doi": "10.1016/j.grj.2015.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.grj.2015.04.002"
+  },
+  "journal": "GeoResJ",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Preservation challenges for geological data at state geological surveys’ [GeoResJ 6(6), (2015), 213-220]"
+}

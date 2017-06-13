@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412726400000,"doi":"10.1080/00219266.2013.876716","type":"correction"},"doi":"10.1080/00219266.2013.852125","journal":"Journal of Biological Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1412726400000,
+  "updates": [
+    {
+      "timestamp": 1496001619737,
+      "identifier": {
+        "doi": "10.1080/00219266.2013.876716"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00219266.2013.852125"
+  },
+  "journal": "Journal of Biological Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464998400000,"doi":"10.1007/s11182-016-0774-z","type":"correction"},"doi":"10.1007/s11182-015-0612-8","journal":"Russian Physics Journal","publisher":"Springer Nature","title":"Erratum to: Manufacture of an Ultrafine-Grained TiN–Cu Composition Using an Erosion-Type Coaxial Hybrid Magnetoplasma Accelerator"}
+{
+  "retracted": false,
+  "timestamp": 1464998400000,
+  "updates": [
+    {
+      "timestamp": 1495718152869,
+      "identifier": {
+        "doi": "10.1007/s11182-016-0774-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11182-015-0612-8"
+  },
+  "journal": "Russian Physics Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Manufacture of an Ultrafine-Grained TiN–Cu Composition Using an Erosion-Type Coaxial Hybrid Magnetoplasma Accelerator"
+}

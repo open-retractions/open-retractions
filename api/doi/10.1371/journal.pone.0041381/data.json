@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349913600000,"doi":"10.1371/annotation/2da932d4-8654-45c8-bf83-7b3b09dbc146","type":"correction"},"doi":"10.1371/journal.pone.0041381","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Protection against Enterovirus 71 with Neutralizing Epitope Incorporation within Adenovirus Type 3 Hexon"}
+{
+  "retracted": false,
+  "timestamp": 1349913600000,
+  "updates": [
+    {
+      "timestamp": 1496025196281,
+      "identifier": {
+        "doi": "10.1371/annotation/2da932d4-8654-45c8-bf83-7b3b09dbc146"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041381"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Protection against Enterovirus 71 with Neutralizing Epitope Incorporation within Adenovirus Type 3 Hexon"
+}

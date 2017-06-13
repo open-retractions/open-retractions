@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.ejrad.2012.11.020","type":"err"},"doi":"10.1016/j.ejrad.2012.04.017","journal":"European Journal of Radiology","publisher":"Elsevier BV","title":"Corrigendum to “Individualized radiation dose control in 256-slice CT coronary angiography (CTCA) in retrospective ECG-triggered helical scans: Using a measure of body size to adjust tube current selection” [Eur. J. Radiol. 81 (2012) 3146–3153]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1495986499313,
+      "identifier": {
+        "doi": "10.1016/j.ejrad.2012.11.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejrad.2012.04.017"
+  },
+  "journal": "European Journal of Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Individualized radiation dose control in 256-slice CT coronary angiography (CTCA) in retrospective ECG-triggered helical scans: Using a measure of body size to adjust tube current selection” [Eur. J. Radiol. 81 (2012) 3146–3153]"
+}

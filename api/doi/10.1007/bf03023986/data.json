@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231459200000,"doi":"10.1007/bf03024008","type":"correction"},"doi":"10.1007/bf03023986","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: Mathematical entertainments"}
+{
+  "retracted": false,
+  "timestamp": 1231459200000,
+  "updates": [
+    {
+      "timestamp": 1495910456818,
+      "identifier": {
+        "doi": "10.1007/bf03024008"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf03023986"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mathematical entertainments"
+}

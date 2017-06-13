@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385596800000,"doi":"10.1371/annotation/1fc82a4b-f9ea-461a-8987-1152078688e4","type":"correction"},"doi":"10.1371/journal.pgen.1003904","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Parallel Evolution of Chordate Cis-Regulatory Code for Development"}
+{
+  "retracted": false,
+  "timestamp": 1385596800000,
+  "updates": [
+    {
+      "timestamp": 1496002140864,
+      "identifier": {
+        "doi": "10.1371/annotation/1fc82a4b-f9ea-461a-8987-1152078688e4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1003904"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Parallel Evolution of Chordate Cis-Regulatory Code for Development"
+}

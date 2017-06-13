@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404518400000,"doi":"10.1016/j.ecss.2014.08.004","type":"err"},"doi":"10.1016/j.ecss.2014.06.013","journal":"Estuarine, Coastal and Shelf Science","publisher":"Elsevier BV","title":"Corrigendum to “Nutrients, hypoxia and mass fishkill events in Tapi estuary, India” [Estuar. Coast. Shelf Sci. 148 (2014) 48–58]"}
+{
+  "retracted": false,
+  "timestamp": 1404518400000,
+  "updates": [
+    {
+      "timestamp": 1496001519291,
+      "identifier": {
+        "doi": "10.1016/j.ecss.2014.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecss.2014.06.013"
+  },
+  "journal": "Estuarine, Coastal and Shelf Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nutrients, hypoxia and mass fishkill events in Tapi estuary, India” [Estuar. Coast. Shelf Sci. 148 (2014) 48–58]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440979200000,"doi":"10.1063/1.4929846","type":"correction"},"doi":"10.1063/1.4922813","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “On square-integrability of solutions of the stationary Schrödinger equation for the quantum harmonic oscillator in two dimensional constant curvature spaces” [J. Math. Phys. 56, 072101 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1440979200000,
+  "updates": [
+    {
+      "timestamp": 1496026350792,
+      "identifier": {
+        "doi": "10.1063/1.4929846"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4922813"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On square-integrability of solutions of the stationary Schrödinger equation for the quantum harmonic oscillator in two dimensional constant curvature spaces” [J. Math. Phys. 56, 072101 (2015)]"
+}

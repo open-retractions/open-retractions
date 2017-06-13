@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1007/s00198-014-2830-2","type":"correction"},"doi":"10.1007/s00198-014-2755-9","journal":"Osteoporosis International","publisher":"Springer Nature","title":"Erratum to: Management of osteoporosis of the oldest old"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1495996457320,
+      "identifier": {
+        "doi": "10.1007/s00198-014-2830-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00198-014-2755-9"
+  },
+  "journal": "Osteoporosis International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Management of osteoporosis of the oldest old"
+}

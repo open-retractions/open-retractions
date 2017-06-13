@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1080/00223131.2015.1055079","type":"correction"},"doi":"10.1080/00223131.2014.955067","journal":"Journal of Nuclear Science and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008671534,
+      "identifier": {
+        "doi": "10.1080/00223131.2015.1055079"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00223131.2014.955067"
+  },
+  "journal": "Journal of Nuclear Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

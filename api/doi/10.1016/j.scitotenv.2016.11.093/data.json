@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1506816000000,"doi":"10.1016/j.scitotenv.2017.03.193","type":"erratum"},"doi":"10.1016/j.scitotenv.2016.11.093","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Effects of ambient temperature on stroke hospital admissions: Results from a time-series analysis of 104432 strokes in Guangzhou, China” [Sci. Total Environ. 580 (2016) 307–315]"}
+{
+  "retracted": false,
+  "timestamp": 1506816000000,
+  "updates": [
+    {
+      "timestamp": 1495734829038,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2017.03.193"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2016.11.093"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of ambient temperature on stroke hospital admissions: Results from a time-series analysis of 104432 strokes in Guangzhou, China” [Sci. Total Environ. 580 (2016) 307–315]"
+}

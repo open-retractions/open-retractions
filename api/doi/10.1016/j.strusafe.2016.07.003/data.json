@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.strusafe.2016.11.001","type":"erratum"},"doi":"10.1016/j.strusafe.2016.07.003","journal":"Structural Safety","publisher":"Elsevier BV","title":"Corrigendum to “Simplified energy-based analysis of collapse risk of reinforced concrete buildings” [Struct. Saf. 63 (2016) 47–58]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495661576666,
+      "identifier": {
+        "doi": "10.1016/j.strusafe.2016.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.strusafe.2016.07.003"
+  },
+  "journal": "Structural Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simplified energy-based analysis of collapse risk of reinforced concrete buildings” [Struct. Saf. 63 (2016) 47–58]"
+}

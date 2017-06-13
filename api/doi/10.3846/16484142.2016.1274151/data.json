@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488672000000,"doi":"10.3846/16484142.2017.1284303","type":"correction"},"doi":"10.3846/16484142.2016.1274151","journal":"Transport","publisher":"Vilnius Gediminas Technical University","title":"Corrigendum on the report ‘The research journal TRANSPORT: peer-reviewing process in 2016’"}
+{
+  "retracted": false,
+  "timestamp": 1488672000000,
+  "updates": [
+    {
+      "timestamp": 1495726498532,
+      "identifier": {
+        "doi": "10.3846/16484142.2017.1284303"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/16484142.2016.1274151"
+  },
+  "journal": "Transport",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Corrigendum on the report ‘The research journal TRANSPORT: peer-reviewing process in 2016’"
+}

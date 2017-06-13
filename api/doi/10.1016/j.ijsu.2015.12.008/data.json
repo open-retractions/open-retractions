@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.ijsu.2016.01.004","type":"err"},"doi":"10.1016/j.ijsu.2015.12.008","journal":"International Journal of Surgery","publisher":"Elsevier BV","title":"Erratum to ‘Is aortoiliac calcification linked to colorectal anastomotic leakage? A case-control study’ [Int. J. Surg. 25 (2016) 123–127]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496060338312,
+      "identifier": {
+        "doi": "10.1016/j.ijsu.2016.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijsu.2015.12.008"
+  },
+  "journal": "International Journal of Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Is aortoiliac calcification linked to colorectal anastomotic leakage? A case-control study’ [Int. J. Surg. 25 (2016) 123–127]"
+}

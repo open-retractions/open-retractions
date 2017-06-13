@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.beha.2014.04.008","type":"err"},"doi":"10.1016/j.beha.2013.09.009","journal":"Best Practice & Research Clinical Haematology","publisher":"Elsevier BV","title":"Corrigendum to “When is iron overload deleterious, and when and how should iron chelation therapy be administered in myelodysplastic syndromes?” [Best Pract Res Clin Haematol (2013) 431–444]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496036688406,
+      "identifier": {
+        "doi": "10.1016/j.beha.2014.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.beha.2013.09.009"
+  },
+  "journal": "Best Practice & Research Clinical Haematology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “When is iron overload deleterious, and when and how should iron chelation therapy be administered in myelodysplastic syndromes?” [Best Pract Res Clin Haematol (2013) 431–444]"
+}

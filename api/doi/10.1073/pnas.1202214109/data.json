@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1073/pnas.1615722113","type":"correction"},"doi":"10.1073/pnas.1202214109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Grover et al., The costimulatory immunogen LPS induces the B-Cell clones that infiltrate transplanted human kidneys"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495532512047,
+      "identifier": {
+        "doi": "10.1073/pnas.1615722113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1202214109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Grover et al., The costimulatory immunogen LPS induces the B-Cell clones that infiltrate transplanted human kidneys"
+}

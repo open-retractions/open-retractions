@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ultras.2014.02.011","type":"err"},"doi":"10.1016/j.ultras.2013.06.001","journal":"Ultrasonics","publisher":"Elsevier BV","title":"Corrigendum to “Realization of a multipath ultrasonic gas flowmeter based on transit-time technique” [Ultrasonics 54 (2014) 285–290]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496020392230,
+      "identifier": {
+        "doi": "10.1016/j.ultras.2014.02.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ultras.2013.06.001"
+  },
+  "journal": "Ultrasonics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Realization of a multipath ultrasonic gas flowmeter based on transit-time technique” [Ultrasonics 54 (2014) 285–290]"
+}

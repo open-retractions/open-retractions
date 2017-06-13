@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451520000000,"doi":"10.1128/genomea.01458-15","type":"correction"},"doi":"10.1128/genomea.01178-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Erill and Caruso, Complete Genome Sequence ofBacillus cereusGroup Phage TsarBomba"}
+{
+  "retracted": false,
+  "timestamp": 1451520000000,
+  "updates": [
+    {
+      "timestamp": 1496048856136,
+      "identifier": {
+        "doi": "10.1128/genomea.01458-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01178-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Erill and Caruso, Complete Genome Sequence ofBacillus cereusGroup Phage TsarBomba"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.gca.2015.01.001","type":"err"},"doi":"10.1016/j.gca.2009.06.004","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Isotopic evidence (87Sr/86Sr, δ7Li) for alteration of the oceanic crust at deep-rooted mud volcanoes in the Gulf of Cadiz, NE Atlantic Ocean’ [Geochim. Cosmochim. Acta 73 (2009) 5444–5459]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496038284643,
+      "identifier": {
+        "doi": "10.1016/j.gca.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2009.06.004"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Isotopic evidence (87Sr/86Sr, δ7Li) for alteration of the oceanic crust at deep-rooted mud volcanoes in the Gulf of Cadiz, NE Atlantic Ocean’ [Geochim. Cosmochim. Acta 73 (2009) 5444–5459]"
+}

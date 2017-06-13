@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409788800000,"doi":"10.1080/08821127.2014.948345","type":"correction"},"doi":"10.1080/08821127.2014.875327","journal":"American Journalism","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1409788800000,
+  "updates": [
+    {
+      "timestamp": 1496004426766,
+      "identifier": {
+        "doi": "10.1080/08821127.2014.948345"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08821127.2014.875327"
+  },
+  "journal": "American Journalism",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

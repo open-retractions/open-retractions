@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413417600000,"doi":"10.1007/s11538-014-0008-x","type":"correction"},"doi":"10.1007/s11538-011-9646-4","journal":"Bulletin of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Impact of Imitation Processes on the Effectiveness of Ring Vaccination"}
+{
+  "retracted": false,
+  "timestamp": 1413417600000,
+  "updates": [
+    {
+      "timestamp": 1496014571489,
+      "identifier": {
+        "doi": "10.1007/s11538-014-0008-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11538-011-9646-4"
+  },
+  "journal": "Bulletin of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Impact of Imitation Processes on the Effectiveness of Ring Vaccination"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462924800000,"doi":"10.1007/s10549-016-3818-8","type":"correction"},"doi":"10.1007/s10549-016-3710-6","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum: Randomized, blinded trial of vitamin D3 for treating aromatase inhibitor-associated musculoskeletal symptoms (AIMSS)"}
+{
+  "retracted": false,
+  "timestamp": 1462924800000,
+  "updates": [
+    {
+      "timestamp": 1495675461154,
+      "identifier": {
+        "doi": "10.1007/s10549-016-3818-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-016-3710-6"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Randomized, blinded trial of vitamin D3 for treating aromatase inhibitor-associated musculoskeletal symptoms (AIMSS)"
+}

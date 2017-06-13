@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423699200000,"doi":"10.1007/s00432-015-1926-1","type":"correction"},"doi":"10.1007/s00432-012-1219-x","journal":"Journal of Cancer Research and Clinical Oncology","publisher":"Springer Nature","title":"Erratum to: Comparison of five cisplatin-based regimens frequently used as the first-line protocols in metastatic nasopharyngeal carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1423699200000,
+  "updates": [
+    {
+      "timestamp": 1496043367891,
+      "identifier": {
+        "doi": "10.1007/s00432-015-1926-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00432-012-1219-x"
+  },
+  "journal": "Journal of Cancer Research and Clinical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparison of five cisplatin-based regimens frequently used as the first-line protocols in metastatic nasopharyngeal carcinoma"
+}

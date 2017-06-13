@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437955200000,"doi":"10.1080/02331934.2015.1069942","type":"correction"},"doi":"10.1080/02331934.2013.840620","journal":"Optimization","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1437955200000,
+  "updates": [
+    {
+      "timestamp": 1496017876951,
+      "identifier": {
+        "doi": "10.1080/02331934.2015.1069942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02331934.2013.840620"
+  },
+  "journal": "Optimization",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

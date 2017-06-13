@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1080/02726351.2013.827028","type":"correction"},"doi":"10.1080/02726351.2011.589489","journal":"Particulate Science and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496027207472,
+      "identifier": {
+        "doi": "10.1080/02726351.2013.827028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02726351.2011.589489"
+  },
+  "journal": "Particulate Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

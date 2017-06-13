@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426723200000,"doi":"10.1016/j.molcel.2015.03.008","type":"erratum"},"doi":"10.1016/j.molcel.2015.02.004","journal":"Molecular Cell","publisher":"Elsevier BV","title":"TOPping Off Meiosis"}
+{
+  "retracted": false,
+  "timestamp": 1426723200000,
+  "updates": [
+    {
+      "timestamp": 1496052093092,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.03.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.02.004"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "TOPping Off Meiosis"
+}

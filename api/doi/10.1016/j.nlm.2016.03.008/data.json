@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.nlm.2016.05.013","type":"err"},"doi":"10.1016/j.nlm.2016.03.008","journal":"Neurobiology of Learning and Memory","publisher":"Elsevier BV","title":"Corrigendum to “Differential Arc expression in the hippocampus and striatum during the transition from attentive to automatic navigation on a plus maze” [Neurobiol. Learn. Mem. 131 (2016) 36–45]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495718109317,
+      "identifier": {
+        "doi": "10.1016/j.nlm.2016.05.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nlm.2016.03.008"
+  },
+  "journal": "Neurobiology of Learning and Memory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Differential Arc expression in the hippocampus and striatum during the transition from attentive to automatic navigation on a plus maze” [Neurobiol. Learn. Mem. 131 (2016) 36–45]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376352000000,"doi":"10.1371/annotation/4bf3c893-ad02-4730-b775-fd83fd8d174c","type":"correction"},"doi":"10.1371/journal.pone.0056832","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Using Consensus Bayesian Network to Model the Reactive Oxygen Species Regulatory Pathway"}
+{
+  "retracted": false,
+  "timestamp": 1376352000000,
+  "updates": [
+    {
+      "timestamp": 1496038881720,
+      "identifier": {
+        "doi": "10.1371/annotation/4bf3c893-ad02-4730-b775-fd83fd8d174c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0056832"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Using Consensus Bayesian Network to Model the Reactive Oxygen Species Regulatory Pathway"
+}

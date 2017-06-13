@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":732153600000,"doi":"10.1073/pnas.90.6.2556d","type":"correction"},"doi":"10.1073/pnas.90.2.388","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Regulation of cell cycle progression and nuclear affinity of the retinoblastoma protein by protein phosphatases"}
+{
+  "retracted": false,
+  "timestamp": 732153600000,
+  "updates": [
+    {
+      "timestamp": 1495825833717,
+      "identifier": {
+        "doi": "10.1073/pnas.90.6.2556d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.90.2.388"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Regulation of cell cycle progression and nuclear affinity of the retinoblastoma protein by protein phosphatases"
+}

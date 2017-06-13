@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1082678400000,"doi":"10.1186/1471-2350-5-11","type":"correction"},"doi":"10.1186/1471-2350-3-10","journal":"BMC Medical Genetics","publisher":"Springer Nature","title":"Erratum to: Patients affected with Fabry disease have an increased incidence of progressive hearing loss and sudden deafness: an investigation of twenty-two hemizygous male patients"}
+{
+  "retracted": false,
+  "timestamp": 1082678400000,
+  "updates": [
+    {
+      "timestamp": 1495822477215,
+      "identifier": {
+        "doi": "10.1186/1471-2350-5-11"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2350-3-10"
+  },
+  "journal": "BMC Medical Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Patients affected with Fabry disease have an increased incidence of progressive hearing loss and sudden deafness: an investigation of twenty-two hemizygous male patients"
+}

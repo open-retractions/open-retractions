@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.foodchem.2016.02.024","type":"err"},"doi":"10.1016/j.foodchem.2015.10.121","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Sorghum–cowpea composite porridge as a functional food, Part II: Antioxidant properties as affected by simulated in vitro gastrointestinal digestion” [Food Chem. 197 (2016) 307–315]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495643083853,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.02.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.10.121"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sorghum–cowpea composite porridge as a functional food, Part II: Antioxidant properties as affected by simulated in vitro gastrointestinal digestion” [Food Chem. 197 (2016) 307–315]"
+}

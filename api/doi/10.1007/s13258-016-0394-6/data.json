@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459123200000,"doi":"10.1007/s13258-016-0403-9","type":"correction"},"doi":"10.1007/s13258-016-0394-6","journal":"Genes & Genomics","publisher":"Springer Nature","title":"Erratum to: Genetic analysis of genetic basis of a physiological disorder “straighthead” in rice (Oryza sativa L.)"}
+{
+  "retracted": false,
+  "timestamp": 1459123200000,
+  "updates": [
+    {
+      "timestamp": 1495658043192,
+      "identifier": {
+        "doi": "10.1007/s13258-016-0403-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13258-016-0394-6"
+  },
+  "journal": "Genes & Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genetic analysis of genetic basis of a physiological disorder “straighthead” in rice (Oryza sativa L.)"
+}

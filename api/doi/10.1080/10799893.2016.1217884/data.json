@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474416000000,"doi":"10.1080/10799893.2016.1234829","type":"correction"},"doi":"10.1080/10799893.2016.1217884","journal":"Journal of Receptors and Signal Transduction","publisher":"Informa UK Limited","title":"Correction to: Evidence of a M1- muscarinic GPCR homolog in unicellular eukaryotes: featuring Acanthamoeba spp bioinformatics 3D-modelling and experimentations"}
+{
+  "retracted": false,
+  "timestamp": 1474416000000,
+  "updates": [
+    {
+      "timestamp": 1495641476445,
+      "identifier": {
+        "doi": "10.1080/10799893.2016.1234829"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10799893.2016.1217884"
+  },
+  "journal": "Journal of Receptors and Signal Transduction",
+  "publisher": "Informa UK Limited",
+  "title": "Correction to: Evidence of a M1- muscarinic GPCR homolog in unicellular eukaryotes: featuring Acanthamoeba spp bioinformatics 3D-modelling and experimentations"
+}

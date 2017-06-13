@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1181520000000,"doi":"10.1063/1.2744473","type":"erratum"},"doi":"10.1063/1.2696309","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Interfacial structure of a-plane GaN grown on r-plane sapphire” [Appl. Phys. Lett. 90, 081918 (2007)]"}
+{
+  "retracted": false,
+  "timestamp": 1181520000000,
+  "updates": [
+    {
+      "timestamp": 1495959353692,
+      "identifier": {
+        "doi": "10.1063/1.2744473"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2696309"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Interfacial structure of a-plane GaN grown on r-plane sapphire” [Appl. Phys. Lett. 90, 081918 (2007)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386720000000,"doi":"10.1136/bmj.f7575","type":"correction"},"doi":"10.1136/bmj.f7027","journal":"BMJ","publisher":"BMJ","title":"Duration of symptoms of respiratory tract infections in children: systematic review"}
+{
+  "retracted": false,
+  "timestamp": 1386720000000,
+  "updates": [
+    {
+      "timestamp": 1496007123966,
+      "identifier": {
+        "doi": "10.1136/bmj.f7575"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f7027"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Duration of symptoms of respiratory tract infections in children: systematic review"
+}

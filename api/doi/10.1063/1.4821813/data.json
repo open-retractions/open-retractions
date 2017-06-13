@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391558400000,"doi":"10.1063/1.4865134","type":"correction"},"doi":"10.1063/1.4821813","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Crystallization in glassy suspensions of hard ellipsoids” [J. Chem. Phys. 139, 124508 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1391558400000,
+  "updates": [
+    {
+      "timestamp": 1496016791608,
+      "identifier": {
+        "doi": "10.1063/1.4865134"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4821813"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Crystallization in glassy suspensions of hard ellipsoids” [J. Chem. Phys. 139, 124508 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.jarmac.2015.11.001","type":"erratum"},"doi":"10.1016/j.jarmac.2014.07.003","journal":"Journal of Applied Research in Memory and Cognition","publisher":"Elsevier BV","title":"Corrigendum to ‘Effect of retention interval on showup and lineup performance’ [JARMAC (4/1) (2015) 8–14]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496047831720,
+      "identifier": {
+        "doi": "10.1016/j.jarmac.2015.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jarmac.2014.07.003"
+  },
+  "journal": "Journal of Applied Research in Memory and Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Effect of retention interval on showup and lineup performance’ [JARMAC (4/1) (2015) 8–14]"
+}

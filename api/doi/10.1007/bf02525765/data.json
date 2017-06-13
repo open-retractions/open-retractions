@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225929600000,"doi":"10.1007/bf02529097","type":"correction"},"doi":"10.1007/bf02525765","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: Revision of the first order triangulation in the region disturbed by the Nankaido Earthquake of 1946"}
+{
+  "retracted": false,
+  "timestamp": 1225929600000,
+  "updates": [
+    {
+      "timestamp": 1495919073130,
+      "identifier": {
+        "doi": "10.1007/bf02529097"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02525765"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Revision of the first order triangulation in the region disturbed by the Nankaido Earthquake of 1946"
+}

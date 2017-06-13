@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jlumin.2015.02.007","type":"err"},"doi":"10.1016/j.jlumin.2013.08.041","journal":"Journal of Luminescence","publisher":"Elsevier BV","title":"Corrigendum to: “Eu3+ luminescence in aluminophosphate glasses” [J. Lumin. 145 (2014) 582–587]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496045380873,
+      "identifier": {
+        "doi": "10.1016/j.jlumin.2015.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jlumin.2013.08.041"
+  },
+  "journal": "Journal of Luminescence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Eu3+ luminescence in aluminophosphate glasses” [J. Lumin. 145 (2014) 582–587]"
+}

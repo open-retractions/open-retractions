@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438905600000,"doi":"10.1063/1.4928532","type":"correction"},"doi":"10.1063/1.4926921","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Thermal transport in tantalum oxide films for memristive applications” [Appl. Phys. Lett. 107, 023108 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1438905600000,
+  "updates": [
+    {
+      "timestamp": 1496020937071,
+      "identifier": {
+        "doi": "10.1063/1.4928532"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4926921"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Thermal transport in tantalum oxide films for memristive applications” [Appl. Phys. Lett. 107, 023108 (2015)]"
+}

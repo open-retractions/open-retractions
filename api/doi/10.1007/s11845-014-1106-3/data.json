@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400371200000,"doi":"10.1007/s11845-014-1126-z","type":"correction"},"doi":"10.1007/s11845-014-1106-3","journal":"Irish Journal of Medical Science (1971 -)","publisher":"Springer Nature","title":"Erratum to: Robert Whyttt (1714–1766): from dropsy in the brain to tuberculous meningitis"}
+{
+  "retracted": false,
+  "timestamp": 1400371200000,
+  "updates": [
+    {
+      "timestamp": 1496039400351,
+      "identifier": {
+        "doi": "10.1007/s11845-014-1126-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11845-014-1106-3"
+  },
+  "journal": "Irish Journal of Medical Science (1971 -)",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Robert Whyttt (1714–1766): from dropsy in the brain to tuberculous meningitis"
+}

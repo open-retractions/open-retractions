@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1016/j.jns.2016.05.008","type":"erratum"},"doi":"10.1016/j.jns.2016.01.022","journal":"Journal of the Neurological Sciences","publisher":"Elsevier BV","title":"Corrigendum to ‘Arachidonate 5-Lipoxygenase ( ALOX5 ) gene polymorphism is associated with Alzheimer's disease and body mass index [Šerý et al., J. Neurol. Sci. 362 (2016) 27–32]"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495677256420,
+      "identifier": {
+        "doi": "10.1016/j.jns.2016.05.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jns.2016.01.022"
+  },
+  "journal": "Journal of the Neurological Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Arachidonate 5-Lipoxygenase ( ALOX5 ) gene polymorphism is associated with Alzheimer's disease and body mass index [Šerý et al., J. Neurol. Sci. 362 (2016) 27–32]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426204800000,"doi":"10.1080/0031322x.2015.1026114","type":"correction"},"doi":"10.1080/0031322x.2013.851061","journal":"Patterns of Prejudice","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1426204800000,
+  "updates": [
+    {
+      "timestamp": 1496050906494,
+      "identifier": {
+        "doi": "10.1080/0031322x.2015.1026114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0031322x.2013.851061"
+  },
+  "journal": "Patterns of Prejudice",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

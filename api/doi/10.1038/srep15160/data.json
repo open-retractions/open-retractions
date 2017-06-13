@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1038/srep17246","type":"correction"},"doi":"10.1038/srep15160","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: g-force induced giant efficiency of nanoparticles internalization into living cells"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1495728989876,
+      "identifier": {
+        "doi": "10.1038/srep17246"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep15160"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: g-force induced giant efficiency of nanoparticles internalization into living cells"
+}

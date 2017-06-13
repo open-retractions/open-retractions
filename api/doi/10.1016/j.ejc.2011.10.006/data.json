@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ejc.2014.03.004","type":"err"},"doi":"10.1016/j.ejc.2011.10.006","journal":"European Journal of Combinatorics","publisher":"Elsevier BV","title":"Corrigendum to “Locally bounded coverings and factorial properties of graphs” [European J. Combin. 33 (2012) 534–543]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496027504641,
+      "identifier": {
+        "doi": "10.1016/j.ejc.2014.03.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejc.2011.10.006"
+  },
+  "journal": "European Journal of Combinatorics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Locally bounded coverings and factorial properties of graphs” [European J. Combin. 33 (2012) 534–543]"
+}

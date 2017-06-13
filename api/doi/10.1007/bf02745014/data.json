@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200960000000,"doi":"10.1007/bf02751766","type":"correction"},"doi":"10.1007/bf02745014","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Electromagnetism and gravitation"}
+{
+  "retracted": false,
+  "timestamp": 1200960000000,
+  "updates": [
+    {
+      "timestamp": 1495823016454,
+      "identifier": {
+        "doi": "10.1007/bf02751766"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02745014"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Electromagnetism and gravitation"
+}

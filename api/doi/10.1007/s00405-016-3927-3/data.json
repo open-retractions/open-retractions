@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1007/s00405-016-4216-x","type":"correction"},"doi":"10.1007/s00405-016-3927-3","journal":"European Archives of Oto-Rhino-Laryngology","publisher":"Springer Nature","title":"Erratum to: Comparison of acyclovir and famciclovir for the treatment of Bell’s palsy"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495735763143,
+      "identifier": {
+        "doi": "10.1007/s00405-016-4216-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00405-016-3927-3"
+  },
+  "journal": "European Archives of Oto-Rhino-Laryngology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparison of acyclovir and famciclovir for the treatment of Bell’s palsy"
+}

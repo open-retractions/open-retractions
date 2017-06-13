@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jmatprotec.2016.04.001","type":"err"},"doi":"10.1016/j.jmatprotec.2015.12.022","journal":"Journal of Materials Processing Technology","publisher":"Elsevier BV","title":"Corrigendum to “Laser sintered graphene nickel nanocomposites” [J. Mater. Process. Technol. 231 (2016) 143–150]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495665137323,
+      "identifier": {
+        "doi": "10.1016/j.jmatprotec.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmatprotec.2015.12.022"
+  },
+  "journal": "Journal of Materials Processing Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Laser sintered graphene nickel nanocomposites” [J. Mater. Process. Technol. 231 (2016) 143–150]"
+}

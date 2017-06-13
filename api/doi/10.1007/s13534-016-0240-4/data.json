@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1007/s13534-017-0011-x","type":"correction"},"doi":"10.1007/s13534-016-0240-4","journal":"Biomedical Engineering Letters","publisher":"Springer Nature","title":"Erratum to: A real time surface electromyography signal driven prosthetic hand model using PID controlled DC motor"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495677929224,
+      "identifier": {
+        "doi": "10.1007/s13534-017-0011-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13534-016-0240-4"
+  },
+  "journal": "Biomedical Engineering Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A real time surface electromyography signal driven prosthetic hand model using PID controlled DC motor"
+}

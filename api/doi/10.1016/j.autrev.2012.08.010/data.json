@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.autrev.2014.09.005","type":"err"},"doi":"10.1016/j.autrev.2012.08.010","journal":"Autoimmunity Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Otorhinolaryngological manifestations in granulomatosis with polyangiitis (Wegener's)” [Autoimmun. Rev. 12 (2013) 501–505]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496009197221,
+      "identifier": {
+        "doi": "10.1016/j.autrev.2014.09.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.autrev.2012.08.010"
+  },
+  "journal": "Autoimmunity Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Otorhinolaryngological manifestations in granulomatosis with polyangiitis (Wegener's)” [Autoimmun. Rev. 12 (2013) 501–505]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469145600000,"doi":"10.1007/s11117-016-0435-z","type":"correction"},"doi":"10.1007/s11117-016-0430-4","journal":"Positivity","publisher":"Springer Nature","title":"Erratum to: Banach envelopes in symmetric spaces of measurable operators"}
+{
+  "retracted": false,
+  "timestamp": 1469145600000,
+  "updates": [
+    {
+      "timestamp": 1495731190116,
+      "identifier": {
+        "doi": "10.1007/s11117-016-0435-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11117-016-0430-4"
+  },
+  "journal": "Positivity",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Banach envelopes in symmetric spaces of measurable operators"
+}

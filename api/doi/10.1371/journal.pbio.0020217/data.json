@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1097539200000,"doi":"10.1371/journal.pbio.0020382","type":"correction"},"doi":"10.1371/journal.pbio.0020217","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Nicotine's Defensive Function in Nature"}
+{
+  "retracted": false,
+  "timestamp": 1097539200000,
+  "updates": [
+    {
+      "timestamp": 1495860143507,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0020382"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0020217"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Nicotine's Defensive Function in Nature"
+}

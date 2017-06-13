@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478995200000,"doi":"10.1134/s1063776116140028","type":"correction"},"doi":"10.1134/s1063776116060042","journal":"Journal of Experimental and Theoretical Physics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Structural features and the microscopic dynamics of the three-component Zr47Cu46Al7 system: Equilibrium melt, supercooled melt, and amorphous alloy”"}
+{
+  "retracted": false,
+  "timestamp": 1478995200000,
+  "updates": [
+    {
+      "timestamp": 1495656918293,
+      "identifier": {
+        "doi": "10.1134/s1063776116140028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063776116060042"
+  },
+  "journal": "Journal of Experimental and Theoretical Physics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Structural features and the microscopic dynamics of the three-component Zr47Cu46Al7 system: Equilibrium melt, supercooled melt, and amorphous alloy”"
+}

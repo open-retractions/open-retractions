@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.redox.2015.09.001","type":"erratum"},"doi":"10.1016/j.redox.2015.01.017","journal":"Redox Biology","publisher":"Elsevier BV","title":"Corrigendum to ‘An educational overview of the chemistry, biochemistry and therapeutic aspects of Mn porphyrins – From superoxide dismutation to H2O2-driven pathways’ [Redox Biology 5C (2015) 43–65]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496029952668,
+      "identifier": {
+        "doi": "10.1016/j.redox.2015.09.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.redox.2015.01.017"
+  },
+  "journal": "Redox Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘An educational overview of the chemistry, biochemistry and therapeutic aspects of Mn porphyrins – From superoxide dismutation to H2O2-driven pathways’ [Redox Biology 5C (2015) 43–65]"
+}

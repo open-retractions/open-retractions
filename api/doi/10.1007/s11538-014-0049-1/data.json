@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425945600000,"doi":"10.1007/s11538-015-0071-y","type":"correction"},"doi":"10.1007/s11538-014-0049-1","journal":"Bulletin of Mathematical Biology","publisher":"Springer Nature","title":"Erratum to: Neighborhoods of Trees in Circular Orderings"}
+{
+  "retracted": false,
+  "timestamp": 1425945600000,
+  "updates": [
+    {
+      "timestamp": 1496049464588,
+      "identifier": {
+        "doi": "10.1007/s11538-015-0071-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11538-014-0049-1"
+  },
+  "journal": "Bulletin of Mathematical Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neighborhoods of Trees in Circular Orderings"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491868800000,"doi":"10.1007/s00340-017-6722-y","type":"correction"},"doi":"10.1007/s00340-016-6585-7","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Measuring and imaging nanomechanical motion with laser light"}
+{
+  "retracted": false,
+  "timestamp": 1491868800000,
+  "updates": [
+    {
+      "timestamp": 1495738337992,
+      "identifier": {
+        "doi": "10.1007/s00340-017-6722-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-016-6585-7"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Measuring and imaging nanomechanical motion with laser light"
+}

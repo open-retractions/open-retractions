@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489968000000,"doi":"10.1080/00071005.2017.1307013","type":"correction"},"doi":"10.1080/00071005.2017.1282092","journal":"British Journal of Educational Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1489968000000,
+  "updates": [
+    {
+      "timestamp": 1495730709972,
+      "identifier": {
+        "doi": "10.1080/00071005.2017.1307013"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00071005.2017.1282092"
+  },
+  "journal": "British Journal of Educational Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.pep.2014.10.011","type":"err"},"doi":"10.1016/j.pep.2014.09.004","journal":"Protein Expression and Purification","publisher":"Elsevier BV","title":"Corrigendum to “Trigger factor assisted folding of the recombinant epoxide hydrolases identified from C. pelagibacter and S. nassauensis” Protein Expr. Purif. 104 (2014) 71–84"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496022306675,
+      "identifier": {
+        "doi": "10.1016/j.pep.2014.10.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pep.2014.09.004"
+  },
+  "journal": "Protein Expression and Purification",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Trigger factor assisted folding of the recombinant epoxide hydrolases identified from C. pelagibacter and S. nassauensis” Protein Expr. Purif. 104 (2014) 71–84"
+}

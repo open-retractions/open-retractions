@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383868800000,"doi":"10.1016/j.bbrc.2013.10.062","type":"err"},"doi":"10.1016/j.bbrc.2008.02.062","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Relaxation of ultralarge VWF bundles in a microfluidic–AFM hybrid reactor” [Biochem. Biophys. Res. Commun. 369 (2008) 507–512]"}
+{
+  "retracted": false,
+  "timestamp": 1383868800000,
+  "updates": [
+    {
+      "timestamp": 1496056357677,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2013.10.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2008.02.062"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relaxation of ultralarge VWF bundles in a microfluidic–AFM hybrid reactor” [Biochem. Biophys. Res. Commun. 369 (2008) 507–512]"
+}

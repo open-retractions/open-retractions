@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1177632000000,"doi":"10.1371/journal.pcbi.0030083","type":"correction"},"doi":"10.1371/journal.pcbi.0030053","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: (A)Symmetric Stem Cell Replication and Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1177632000000,
+  "updates": [
+    {
+      "timestamp": 1495948802048,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0030083"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0030053"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: (A)Symmetric Stem Cell Replication and Cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.robot.2016.11.024","type":"erratum"},"doi":"10.1016/j.robot.2016.08.003","journal":"Robotics and Autonomous Systems","publisher":"Elsevier BV","title":"Corrigendum to “Road detection algorithm for Autonomous Navigation Systems based on dark channel prior and vanishing point in complex road scenes” [Robot. Auton. Syst. 85 (2016) 1–11]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495664490244,
+      "identifier": {
+        "doi": "10.1016/j.robot.2016.11.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.robot.2016.08.003"
+  },
+  "journal": "Robotics and Autonomous Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Road detection algorithm for Autonomous Navigation Systems based on dark channel prior and vanishing point in complex road scenes” [Robot. Auton. Syst. 85 (2016) 1–11]"
+}

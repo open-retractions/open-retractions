@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1161/hyp.0000000000000019","type":"correction"},"doi":"10.1161/hypertensionaha.111.169961","journal":"Hypertension","publisher":"Ovid Technologies (Wolters Kluwer Health)","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496035705905,
+      "identifier": {
+        "doi": "10.1161/hyp.0000000000000019"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1161/hypertensionaha.111.169961"
+  },
+  "journal": "Hypertension",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Correction"
+}

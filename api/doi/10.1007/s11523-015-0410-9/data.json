@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1007/s11523-017-0483-8","type":"correction"},"doi":"10.1007/s11523-015-0410-9","journal":"Targeted Oncology","publisher":"Springer Nature","title":"Erratum to: Ongoing Response in BRAF V600E-Mutant Melanoma After Cessation of Intermittent Vemurafenib Therapy: A Case Report"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1496050819495,
+      "identifier": {
+        "doi": "10.1007/s11523-017-0483-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11523-015-0410-9"
+  },
+  "journal": "Targeted Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ongoing Response in BRAF V600E-Mutant Melanoma After Cessation of Intermittent Vemurafenib Therapy: A Case Report"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1007/s00134-016-4637-4","type":"correction"},"doi":"10.1007/s00134-016-4624-9","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: Venoarterial extracorporeal membrane oxygenation for cardiac arrest/cardiogenic shock"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661124824,
+      "identifier": {
+        "doi": "10.1007/s00134-016-4637-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-016-4624-9"
+  },
+  "journal": "Intensive Care Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Venoarterial extracorporeal membrane oxygenation for cardiac arrest/cardiogenic shock"
+}

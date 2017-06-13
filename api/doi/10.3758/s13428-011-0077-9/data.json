@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476230400000,"doi":"10.3758/s13428-016-0816-z","type":"correction"},"doi":"10.3758/s13428-011-0077-9","journal":"Behavior Research Methods","publisher":"Springer Nature","title":"Erratum to: Exploratory factor analysis for small samples"}
+{
+  "retracted": false,
+  "timestamp": 1476230400000,
+  "updates": [
+    {
+      "timestamp": 1495648200347,
+      "identifier": {
+        "doi": "10.3758/s13428-016-0816-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/s13428-011-0077-9"
+  },
+  "journal": "Behavior Research Methods",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exploratory factor analysis for small samples"
+}

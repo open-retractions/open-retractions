@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.hrtlng.2015.10.002","type":"err"},"doi":"10.1016/j.hrtlng.2015.07.001","journal":"Heart & Lung: The Journal of Acute and Critical Care","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496045614557,
+      "identifier": {
+        "doi": "10.1016/j.hrtlng.2015.10.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hrtlng.2015.07.001"
+  },
+  "journal": "Heart & Lung: The Journal of Acute and Critical Care",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1201305600000,"doi":"10.1007/bf02733605","type":"correction"},"doi":"10.1007/bf02731539","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: A spinor formulation of electromagnetic theory in general relativity"}
+{
+  "retracted": false,
+  "timestamp": 1201305600000,
+  "updates": [
+    {
+      "timestamp": 1495823935160,
+      "identifier": {
+        "doi": "10.1007/bf02733605"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02731539"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A spinor formulation of electromagnetic theory in general relativity"
+}

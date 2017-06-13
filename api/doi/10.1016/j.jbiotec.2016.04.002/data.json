@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470787200000,"doi":"10.1016/j.jbiotec.2016.05.031","type":"erratum"},"doi":"10.1016/j.jbiotec.2016.04.002","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of recombinant human diamine oxidase (rhDAO) produced in Chinese Hamster Ovary (CHO) cells” [J. Biotechnol. 227 (2016) 120–130]"}
+{
+  "retracted": false,
+  "timestamp": 1470787200000,
+  "updates": [
+    {
+      "timestamp": 1495718304334,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2016.05.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2016.04.002"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of recombinant human diamine oxidase (rhDAO) produced in Chinese Hamster Ovary (CHO) cells” [J. Biotechnol. 227 (2016) 120–130]"
+}

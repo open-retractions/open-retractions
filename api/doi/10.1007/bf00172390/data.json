@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1007/s11116-016-9735-1","type":"correction"},"doi":"10.1007/bf00172390","journal":"Transportation","publisher":"Springer Nature","title":"Erratum to: Planning for implementation"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649570885,
+      "identifier": {
+        "doi": "10.1007/s11116-016-9735-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00172390"
+  },
+  "journal": "Transportation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Planning for implementation"
+}

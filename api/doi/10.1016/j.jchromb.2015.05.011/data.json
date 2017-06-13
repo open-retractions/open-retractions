@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jchromb.2016.03.019","type":"err"},"doi":"10.1016/j.jchromb.2015.05.011","journal":"Journal of Chromatography B","publisher":"Elsevier BV","title":"Erratum to “Determination of sex-based differences in serum γ-linoleic acid and dihomo-γ-linoleic acid using gas chromatography–mass spectrometry” [J. Chromatogr. B 997 (2015) 116–121]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495658024587,
+      "identifier": {
+        "doi": "10.1016/j.jchromb.2016.03.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jchromb.2015.05.011"
+  },
+  "journal": "Journal of Chromatography B",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Determination of sex-based differences in serum γ-linoleic acid and dihomo-γ-linoleic acid using gas chromatography–mass spectrometry” [J. Chromatogr. B 997 (2015) 116–121]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jastp.2016.02.001","type":"err"},"doi":"10.1016/j.jastp.2015.04.013","journal":"Journal of Atmospheric and Solar-Terrestrial Physics","publisher":"Elsevier BV","title":"Corrigendum to “Summer time Fe depletion in the Antarctic mesopause region” [J. Atmos. Sol.–Terr. Phys. 127(2015)97–102]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495642906101,
+      "identifier": {
+        "doi": "10.1016/j.jastp.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jastp.2015.04.013"
+  },
+  "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Summer time Fe depletion in the Antarctic mesopause region” [J. Atmos. Sol.–Terr. Phys. 127(2015)97–102]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1007/s12079-014-0222-1","type":"correction"},"doi":"10.1007/s12079-013-0212-8","journal":"Journal of Cell Communication and Signaling","publisher":"Springer Nature","title":"Erratum to: JCCS: a comprehensive journal for publishing all aspects of cell communication and signaling"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496015754173,
+      "identifier": {
+        "doi": "10.1007/s12079-014-0222-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12079-013-0212-8"
+  },
+  "journal": "Journal of Cell Communication and Signaling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: JCCS: a comprehensive journal for publishing all aspects of cell communication and signaling"
+}

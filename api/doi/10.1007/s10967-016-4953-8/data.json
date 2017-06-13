@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475712000000,"doi":"10.1007/s10967-016-5006-z","type":"correction"},"doi":"10.1007/s10967-016-4953-8","journal":"Journal of Radioanalytical and Nuclear Chemistry","publisher":"Springer Nature","title":"Erratum to: Solid phase extraction of tritiated contaminants from tritium-containing waste oils"}
+{
+  "retracted": false,
+  "timestamp": 1475712000000,
+  "updates": [
+    {
+      "timestamp": 1495646505381,
+      "identifier": {
+        "doi": "10.1007/s10967-016-5006-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10967-016-4953-8"
+  },
+  "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Solid phase extraction of tritiated contaminants from tritium-containing waste oils"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.soilbio.2015.01.017","type":"err"},"doi":"10.1016/j.soilbio.2014.10.008","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Microbial community structure mediates response of soil C decomposition to litter addition and warming” [Soil Biol. Biochem. 80 175–188]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496038451556,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2015.01.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2014.10.008"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Microbial community structure mediates response of soil C decomposition to litter addition and warming” [Soil Biol. Biochem. 80 175–188]"
+}

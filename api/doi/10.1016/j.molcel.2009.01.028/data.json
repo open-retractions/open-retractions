@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.molcel.2016.11.027","type":"erratum"},"doi":"10.1016/j.molcel.2009.01.028","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Wrap53, a Natural p53 Antisense Transcript Required for p53 Induction upon DNA Damage"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495658974804,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.11.027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2009.01.028"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Wrap53, a Natural p53 Antisense Transcript Required for p53 Induction upon DNA Damage"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437091200000,"doi":"10.1007/bf01066924","type":"correction"},"doi":"10.1007/bf01070946","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: An integrated approach to the pharmacokinetic analysis of drug absorption"}
+{
+  "retracted": false,
+  "timestamp": 1437091200000,
+  "updates": [
+    {
+      "timestamp": 1495918286290,
+      "identifier": {
+        "doi": "10.1007/bf01066924"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01070946"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An integrated approach to the pharmacokinetic analysis of drug absorption"
+}

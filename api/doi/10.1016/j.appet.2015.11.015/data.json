@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.appet.2016.02.036","type":"err"},"doi":"10.1016/j.appet.2015.11.015","journal":"Appetite","publisher":"Elsevier BV","title":"Corrigendum to “The impact of sugar sweetened beverage intake on hunger and satiety in minority adolescents” [Appetite 97 (2016) 43–48]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495650218336,
+      "identifier": {
+        "doi": "10.1016/j.appet.2016.02.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.appet.2015.11.015"
+  },
+  "journal": "Appetite",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The impact of sugar sweetened beverage intake on hunger and satiety in minority adolescents” [Appetite 97 (2016) 43–48]"
+}

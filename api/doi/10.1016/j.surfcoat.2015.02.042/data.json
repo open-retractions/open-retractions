@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1016/j.surfcoat.2015.10.005","type":"err"},"doi":"10.1016/j.surfcoat.2015.02.042","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Erratum to “Photocathodic protection of iron oxide nanotube arrays fabricated on carbon steel” [Surface and coatings technology 266 (2015) 183–187]"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496040893385,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2015.10.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2015.02.042"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Photocathodic protection of iron oxide nanotube arrays fabricated on carbon steel” [Surface and coatings technology 266 (2015) 183–187]"
+}

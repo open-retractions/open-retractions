@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.bcmd.2015.08.005","type":"err"},"doi":"10.1016/j.bcmd.2014.02.008","journal":"Blood Cells, Molecules, and Diseases","publisher":"Elsevier BV","title":"Corrigendum to “ApoptomiRs expression modulated by BCR–ABL is linked to CML progression and imatinib resistance” [Blood Cells Mol. Dis. 53 (1–2) (June–August 2014) 47–55]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496029971662,
+      "identifier": {
+        "doi": "10.1016/j.bcmd.2015.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcmd.2014.02.008"
+  },
+  "journal": "Blood Cells, Molecules, and Diseases",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ApoptomiRs expression modulated by BCR–ABL is linked to CML progression and imatinib resistance” [Blood Cells Mol. Dis. 53 (1–2) (June–August 2014) 47–55]"
+}

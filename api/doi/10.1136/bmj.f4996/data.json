@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376265600000,"doi":"10.1136/bmj.f5122","type":"correction"},"doi":"10.1136/bmj.f4996","journal":"BMJ","publisher":"BMJ","title":"Fault lines: resolving clinical negligence claims"}
+{
+  "retracted": false,
+  "timestamp": 1376265600000,
+  "updates": [
+    {
+      "timestamp": 1496039740205,
+      "identifier": {
+        "doi": "10.1136/bmj.f5122"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f4996"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Fault lines: resolving clinical negligence claims"
+}

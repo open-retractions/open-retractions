@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.nut.2016.10.001","type":"erratum"},"doi":"10.1016/j.nut.2010.01.001","journal":"Nutrition","publisher":"Elsevier BV","title":"Corrigendum to “Internal mammary artery injury during central venous catheter insertion for TPN: rare but fatal.” Nutrition 26 (2010) 849–851"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495651380193,
+      "identifier": {
+        "doi": "10.1016/j.nut.2016.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nut.2010.01.001"
+  },
+  "journal": "Nutrition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Internal mammary artery injury during central venous catheter insertion for TPN: rare but fatal.” Nutrition 26 (2010) 849–851"
+}

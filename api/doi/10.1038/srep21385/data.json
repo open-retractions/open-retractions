@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468972800000,"doi":"10.1038/srep28216","type":"correction"},"doi":"10.1038/srep21385","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: A polyalanine peptide derived from polar fish with anti-infectious activities"}
+{
+  "retracted": false,
+  "timestamp": 1468972800000,
+  "updates": [
+    {
+      "timestamp": 1495730545291,
+      "identifier": {
+        "doi": "10.1038/srep28216"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep21385"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: A polyalanine peptide derived from polar fish with anti-infectious activities"
+}

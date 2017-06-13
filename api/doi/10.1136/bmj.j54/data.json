@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487894400000,"doi":"10.1136/bmj.j1020","type":"correction"},"doi":"10.1136/bmj.j54","journal":"BMJ","publisher":"BMJ","title":"Festive flu delay . . . and other stories"}
+{
+  "retracted": false,
+  "timestamp": 1487894400000,
+  "updates": [
+    {
+      "timestamp": 1495723255162,
+      "identifier": {
+        "doi": "10.1136/bmj.j1020"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.j54"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Festive flu delay . . . and other stories"
+}

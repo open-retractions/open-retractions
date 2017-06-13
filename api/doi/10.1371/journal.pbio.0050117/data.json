@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1187049600000,"doi":"10.1371/journal.pbio.0050213","type":"correction"},"doi":"10.1371/journal.pbio.0050117","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Unmasking Activation of the Zygotic Genome Using Chromosomal Deletions in the Drosophila Embryo"}
+{
+  "retracted": false,
+  "timestamp": 1187049600000,
+  "updates": [
+    {
+      "timestamp": 1495982612606,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0050213"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0050117"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Unmasking Activation of the Zygotic Genome Using Chromosomal Deletions in the Drosophila Embryo"
+}

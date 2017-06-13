@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466380800000,"doi":"10.1016/j.jep.2016.04.022","type":"err"},"doi":"10.1016/j.jep.2011.07.012","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Sesquiterpene lactones from Gynoxys verrucosa and their anti-MRSA activity” [J. Ethnopharmacol. 137 (2011) 1055–1059]"}
+{
+  "retracted": false,
+  "timestamp": 1466380800000,
+  "updates": [
+    {
+      "timestamp": 1495674713478,
+      "identifier": {
+        "doi": "10.1016/j.jep.2016.04.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2011.07.012"
+  },
+  "journal": "Journal of Ethnopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sesquiterpene lactones from Gynoxys verrucosa and their anti-MRSA activity” [J. Ethnopharmacol. 137 (2011) 1055–1059]"
+}

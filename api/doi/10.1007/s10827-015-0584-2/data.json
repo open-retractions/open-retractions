@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1007/s10827-015-0589-x","type":"correction"},"doi":"10.1007/s10827-015-0584-2","journal":"Journal of Computational Neuroscience","publisher":"Springer Nature","title":"Erratum to: Molecular variability elicits a tunable switch with discrete neuromodulatory response phenotypes"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638201982,
+      "identifier": {
+        "doi": "10.1007/s10827-015-0589-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10827-015-0584-2"
+  },
+  "journal": "Journal of Computational Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Molecular variability elicits a tunable switch with discrete neuromodulatory response phenotypes"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479340800000,"doi":"10.1038/npjsba.2016.26","type":"correction"},"doi":"10.1038/npjsba.2016.2","journal":"npj Systems Biology and Applications","publisher":"Springer Nature","title":"Erratum: Corrigendum: Pathway on demand: automated reconstruction of human signaling networks"}
+{
+  "retracted": false,
+  "timestamp": 1479340800000,
+  "updates": [
+    {
+      "timestamp": 1495657982422,
+      "identifier": {
+        "doi": "10.1038/npjsba.2016.26"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/npjsba.2016.2"
+  },
+  "journal": "npj Systems Biology and Applications",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Pathway on demand: automated reconstruction of human signaling networks"
+}

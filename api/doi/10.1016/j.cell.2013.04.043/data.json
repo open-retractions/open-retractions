@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371686400000,"doi":"10.1016/j.cell.2013.05.045","type":"err"},"doi":"10.1016/j.cell.2013.04.043","journal":"Cell","publisher":"Elsevier BV","title":"Microbiota Keep the Intestinal Clock Ticking"}
+{
+  "retracted": false,
+  "timestamp": 1371686400000,
+  "updates": [
+    {
+      "timestamp": 1496026686303,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.05.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.04.043"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Microbiota Keep the Intestinal Clock Ticking"
+}

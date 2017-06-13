@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1371/annotation/3213e7fb-c577-45c0-81c5-89b60331dbba","type":"correction"},"doi":"10.1371/journal.pone.0080141","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Controlled Approach to the Emotional Dilution of the Stroop Effect"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1496005346073,
+      "identifier": {
+        "doi": "10.1371/annotation/3213e7fb-c577-45c0-81c5-89b60331dbba"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0080141"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Controlled Approach to the Emotional Dilution of the Stroop Effect"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-276220800000,"doi":"10.1063/1.1736098","type":"erratum"},"doi":"10.1063/1.1984624","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Errata: Spin Waves in Complex Exchange‐Coupled Lattices and Neutron Scattering"}
+{
+  "retracted": false,
+  "timestamp": -276220800000,
+  "updates": [
+    {
+      "timestamp": 1495891093833,
+      "identifier": {
+        "doi": "10.1063/1.1736098"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1984624"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Errata: Spin Waves in Complex Exchange‐Coupled Lattices and Neutron Scattering"
+}

@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1128/jvi.01922-16","type":"correction"},"doi":"10.1128/jvi.00468-14","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Royo et al., Differential Induction of Apoptosis, Interferon Signaling, and Phagocytosis in Macrophages Infected with a Panel of Attenuated and Nonattenuated Poxviruses"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495658580252,
+      "identifier": {
+        "doi": "10.1128/jvi.01922-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.00468-14"
+  },
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Royo et al., Differential Induction of Apoptosis, Interferon Signaling, and Phagocytosis in Macrophages Infected with a Panel of Attenuated and Nonattenuated Poxviruses"
+}

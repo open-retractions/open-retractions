@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.atmosenv.2013.01.048","type":"err"},"doi":"10.1016/j.atmosenv.2012.02.070","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Corrigendum to “Ambient mixing ratios of chlorofluorocarbons, hydrochlorofluorocarbons and hydrofluorocarbons in 46 Chinese cities” [Atmos. Environ. 54 (2012) 387–392]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1495996032822,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2013.01.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2012.02.070"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ambient mixing ratios of chlorofluorocarbons, hydrochlorofluorocarbons and hydrofluorocarbons in 46 Chinese cities” [Atmos. Environ. 54 (2012) 387–392]"
+}

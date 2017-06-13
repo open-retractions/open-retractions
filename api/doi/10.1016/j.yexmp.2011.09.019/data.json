@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.yexmp.2014.01.006","type":"err"},"doi":"10.1016/j.yexmp.2011.09.019","journal":"Experimental and Molecular Pathology","publisher":"Elsevier BV","title":"Corrigendum to “MGMT and PTEN as potential prognostic markers in breast cancer” [Exp. Mol. Pathol. 92/1 2012 pages 20–26]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496016780594,
+      "identifier": {
+        "doi": "10.1016/j.yexmp.2014.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yexmp.2011.09.019"
+  },
+  "journal": "Experimental and Molecular Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MGMT and PTEN as potential prognostic markers in breast cancer” [Exp. Mol. Pathol. 92/1 2012 pages 20–26]"
+}

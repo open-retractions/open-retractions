@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.anireprosci.2015.05.002","type":"err"},"doi":"10.1016/j.anireprosci.2012.11.006","journal":"Animal Reproduction Science","publisher":"Elsevier BV","title":"Corrigendum to “Ovarian functionality in Poeppig's woolly monkey (Lagothrix poeppigii)” [Anim. Reprod. Sci. (2013) 310–316]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495996810090,
+      "identifier": {
+        "doi": "10.1016/j.anireprosci.2015.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anireprosci.2012.11.006"
+  },
+  "journal": "Animal Reproduction Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ovarian functionality in Poeppig's woolly monkey (Lagothrix poeppigii)” [Anim. Reprod. Sci. (2013) 310–316]"
+}

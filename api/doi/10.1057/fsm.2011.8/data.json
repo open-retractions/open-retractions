@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1313625600000,"doi":"10.1057/fsm.2011.16","type":"correction"},"doi":"10.1057/fsm.2011.8","journal":"Journal of Financial Services Marketing","publisher":"Springer Nature","title":"Erratum: Trust in UK financial services: A longitudinal analysis"}
+{
+  "retracted": false,
+  "timestamp": 1313625600000,
+  "updates": [
+    {
+      "timestamp": 1495989664027,
+      "identifier": {
+        "doi": "10.1057/fsm.2011.16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/fsm.2011.8"
+  },
+  "journal": "Journal of Financial Services Marketing",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Trust in UK financial services: A longitudinal analysis"
+}

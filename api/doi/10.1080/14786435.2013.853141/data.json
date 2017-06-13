@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390435200000,"doi":"10.1080/14786435.2013.865825","type":"correction"},"doi":"10.1080/14786435.2013.853141","journal":"Philosophical Magazine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1390435200000,
+  "updates": [
+    {
+      "timestamp": 1496014011700,
+      "identifier": {
+        "doi": "10.1080/14786435.2013.865825"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14786435.2013.853141"
+  },
+  "journal": "Philosophical Magazine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479859200000,"doi":"10.1080/17425247.2017.1263424","type":"correction"},"doi":"10.1080/17425247.2017.1243526","journal":"Expert Opinion on Drug Delivery","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1479859200000,
+  "updates": [
+    {
+      "timestamp": 1495661028160,
+      "identifier": {
+        "doi": "10.1080/17425247.2017.1263424"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17425247.2017.1243526"
+  },
+  "journal": "Expert Opinion on Drug Delivery",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

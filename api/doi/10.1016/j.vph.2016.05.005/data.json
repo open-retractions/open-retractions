@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.vph.2016.08.005","type":"erratum"},"doi":"10.1016/j.vph.2016.05.005","journal":"Vascular Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “PGC-1α ameliorates AngiotensinII-induced eNOS dysfunction in human aortic endothelial cells” [Vasc. Pharmacol. 83 (2016) 90–97]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495638685418,
+      "identifier": {
+        "doi": "10.1016/j.vph.2016.08.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vph.2016.05.005"
+  },
+  "journal": "Vascular Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “PGC-1α ameliorates AngiotensinII-induced eNOS dysfunction in human aortic endothelial cells” [Vasc. Pharmacol. 83 (2016) 90–97]"
+}

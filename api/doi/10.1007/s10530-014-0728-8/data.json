@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415232000000,"doi":"10.1007/s10530-014-0779-x","type":"correction"},"doi":"10.1007/s10530-014-0728-8","journal":"Biological Invasions","publisher":"Springer Nature","title":"Erratum to: Invasion of Bromus tectorum (L.) into California and the American Southwest: rapid, multi-directional and genetically diverse"}
+{
+  "retracted": false,
+  "timestamp": 1415232000000,
+  "updates": [
+    {
+      "timestamp": 1496019319398,
+      "identifier": {
+        "doi": "10.1007/s10530-014-0779-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10530-014-0728-8"
+  },
+  "journal": "Biological Invasions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Invasion of Bromus tectorum (L.) into California and the American Southwest: rapid, multi-directional and genetically diverse"
+}

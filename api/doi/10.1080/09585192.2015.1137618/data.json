@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457654400000,"doi":"10.1080/09585192.2016.1162426","type":"correction"},"doi":"10.1080/09585192.2015.1137618","journal":"The International Journal of Human Resource Management","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1457654400000,
+  "updates": [
+    {
+      "timestamp": 1495652033991,
+      "identifier": {
+        "doi": "10.1080/09585192.2016.1162426"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09585192.2015.1137618"
+  },
+  "journal": "The International Journal of Human Resource Management",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

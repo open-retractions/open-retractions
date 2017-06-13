@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386720000000,"doi":"10.1080/01416200.2014.871180","type":"correction"},"doi":"10.1080/01416200.2012.717015","journal":"British Journal of Religious Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1386720000000,
+  "updates": [
+    {
+      "timestamp": 1496004105472,
+      "identifier": {
+        "doi": "10.1080/01416200.2014.871180"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01416200.2012.717015"
+  },
+  "journal": "British Journal of Religious Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

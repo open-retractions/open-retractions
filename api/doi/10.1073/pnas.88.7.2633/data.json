@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":682214400000,"doi":"10.1073/pnas.88.16.7457","type":"correction"},"doi":"10.1073/pnas.88.7.2633","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Molecular basis of galactosemia: Mutations and polymorphisms in the gene encoding human galactose-1-phosphate uridylyltransferase"}
+{
+  "retracted": false,
+  "timestamp": 682214400000,
+  "updates": [
+    {
+      "timestamp": 1495825789904,
+      "identifier": {
+        "doi": "10.1073/pnas.88.16.7457"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.88.7.2633"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Molecular basis of galactosemia: Mutations and polymorphisms in the gene encoding human galactose-1-phosphate uridylyltransferase"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457654400000,"doi":"10.1016/j.neulet.2016.01.020","type":"err"},"doi":"10.1016/j.neulet.2013.05.051","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Omega-3 fatty acids can reverse the long-term deficits in hippocampal synaptic plasticity caused by prenatal ethanol exposure” [Neurosci. Lett. 551C (2013) 7–11]"}
+{
+  "retracted": false,
+  "timestamp": 1457654400000,
+  "updates": [
+    {
+      "timestamp": 1495641962593,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2016.01.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2013.05.051"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Omega-3 fatty acids can reverse the long-term deficits in hippocampal synaptic plasticity caused by prenatal ethanol exposure” [Neurosci. Lett. 551C (2013) 7–11]"
+}

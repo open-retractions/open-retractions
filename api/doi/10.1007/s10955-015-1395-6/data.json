@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1007/s10955-016-1454-7","type":"correction"},"doi":"10.1007/s10955-015-1395-6","journal":"Journal of Statistical Physics","publisher":"Springer Nature","title":"Erratum to: Generalized Nonlinear Fluctuation-Dissipation Relation for the One-Component Plasma"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495641396498,
+      "identifier": {
+        "doi": "10.1007/s10955-016-1454-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10955-015-1395-6"
+  },
+  "journal": "Journal of Statistical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Generalized Nonlinear Fluctuation-Dissipation Relation for the One-Component Plasma"
+}

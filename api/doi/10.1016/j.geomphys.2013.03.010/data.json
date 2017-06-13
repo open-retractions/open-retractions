@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.geomphys.2013.11.003","type":"err"},"doi":"10.1016/j.geomphys.2013.03.010","journal":"Journal of Geometry and Physics","publisher":"Elsevier BV","title":"Corrigendum to “Conformal invariants of twisted Dirac operators and positive scalar curvature” [J. Geom. Phys. 70 (2013) 39–47]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496003178232,
+      "identifier": {
+        "doi": "10.1016/j.geomphys.2013.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.geomphys.2013.03.010"
+  },
+  "journal": "Journal of Geometry and Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Conformal invariants of twisted Dirac operators and positive scalar curvature” [J. Geom. Phys. 70 (2013) 39–47]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1016/j.yexcr.2016.06.015","type":"err"},"doi":"10.1016/j.yexcr.2015.07.020","journal":"Experimental Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “Adipose-derived mesenchymal stem cells promote cell proliferation and invasion of epithelial ovarian cancer” [Exp. Cell Res. 337 (2015) 16–27]"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495724868407,
+      "identifier": {
+        "doi": "10.1016/j.yexcr.2016.06.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yexcr.2015.07.020"
+  },
+  "journal": "Experimental Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adipose-derived mesenchymal stem cells promote cell proliferation and invasion of epithelial ovarian cancer” [Exp. Cell Res. 337 (2015) 16–27]"
+}

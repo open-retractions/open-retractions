@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.1007/s12035-016-0263-y","type":"correction"},"doi":"10.1007/s12035-016-0116-8","journal":"Molecular Neurobiology","publisher":"Springer Nature","title":"Erratum to: Serum Markers of Neurodegeneration in Maple Syrup Urine Disease"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495654072949,
+      "identifier": {
+        "doi": "10.1007/s12035-016-0263-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12035-016-0116-8"
+  },
+  "journal": "Molecular Neurobiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Serum Markers of Neurodegeneration in Maple Syrup Urine Disease"
+}

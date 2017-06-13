@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jembe.2015.03.001","type":"err"},"doi":"10.1016/j.jembe.2014.08.011","journal":"Journal of Experimental Marine Biology and Ecology","publisher":"Elsevier BV","title":"Corrigendum to “Social monogamy in the crab Planes major, a facultative symbiont of loggerhead sea turtles”[J. Exp. Mar. Biol. Ecol. 461 (2014) 124–132]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496049993067,
+      "identifier": {
+        "doi": "10.1016/j.jembe.2015.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jembe.2014.08.011"
+  },
+  "journal": "Journal of Experimental Marine Biology and Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Social monogamy in the crab Planes major, a facultative symbiont of loggerhead sea turtles”[J. Exp. Mar. Biol. Ecol. 461 (2014) 124–132]"
+}

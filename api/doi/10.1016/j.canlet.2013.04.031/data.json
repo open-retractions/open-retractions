@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406505600000,"doi":"10.1016/j.canlet.2013.08.012","type":"err"},"doi":"10.1016/j.canlet.2013.04.031","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “Low glucose promotes CD133mAb-elicited cell death via inhibition of autophagy in hepatocarcinoma cells” [Cancer Letters 336/1 (2013) 204–212]"}
+{
+  "retracted": false,
+  "timestamp": 1406505600000,
+  "updates": [
+    {
+      "timestamp": 1496043567252,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2013.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2013.04.031"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low glucose promotes CD133mAb-elicited cell death via inhibition of autophagy in hepatocarcinoma cells” [Cancer Letters 336/1 (2013) 204–212]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403049600000,"doi":"10.1080/21681724.2014.888171","type":"correction"},"doi":"10.1080/21681724.2014.880749","journal":"International Journal of Electronics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1403049600000,
+  "updates": [
+    {
+      "timestamp": 1496045381174,
+      "identifier": {
+        "doi": "10.1080/21681724.2014.888171"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21681724.2014.880749"
+  },
+  "journal": "International Journal of Electronics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

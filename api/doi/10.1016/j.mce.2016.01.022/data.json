@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1016/j.mce.2016.04.016","type":"err"},"doi":"10.1016/j.mce.2016.01.022","journal":"Molecular and Cellular Endocrinology","publisher":"Elsevier BV","title":"Corrigendum to “Inhibition of lysyl oxidase by prostaglandin E2 via EP2/EP4 receptors in human amnion fibroblasts: Implications for parturition” [Mol. Cell. Endocrinol. 424 (2016) 118–127]"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495670463217,
+      "identifier": {
+        "doi": "10.1016/j.mce.2016.04.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mce.2016.01.022"
+  },
+  "journal": "Molecular and Cellular Endocrinology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inhibition of lysyl oxidase by prostaglandin E2 via EP2/EP4 receptors in human amnion fibroblasts: Implications for parturition” [Mol. Cell. Endocrinol. 424 (2016) 118–127]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438905600000,"doi":"10.1007/s00210-015-1158-6","type":"correction"},"doi":"10.1007/s00210-015-1131-4","journal":"Naunyn-Schmiedeberg's Archives of Pharmacology","publisher":"Springer Nature","title":"Erratum to: The characteristics of intrinsic complex micro-contractile activity in isolated strips of the rat bladder"}
+{
+  "retracted": false,
+  "timestamp": 1438905600000,
+  "updates": [
+    {
+      "timestamp": 1496020484239,
+      "identifier": {
+        "doi": "10.1007/s00210-015-1158-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00210-015-1131-4"
+  },
+  "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The characteristics of intrinsic complex micro-contractile activity in isolated strips of the rat bladder"
+}

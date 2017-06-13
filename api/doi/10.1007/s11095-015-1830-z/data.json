@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460592000000,"doi":"10.1007/s11095-016-1925-1","type":"correction"},"doi":"10.1007/s11095-015-1830-z","journal":"Pharmaceutical Research","publisher":"Springer Nature","title":"Erratum to: Curcumin Delivery by Poly(Lactide)-Based Co-Polymeric Micelles: An In Vitro Anticancer Study"}
+{
+  "retracted": false,
+  "timestamp": 1460592000000,
+  "updates": [
+    {
+      "timestamp": 1495666676640,
+      "identifier": {
+        "doi": "10.1007/s11095-016-1925-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11095-015-1830-z"
+  },
+  "journal": "Pharmaceutical Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Curcumin Delivery by Poly(Lactide)-Based Co-Polymeric Micelles: An In Vitro Anticancer Study"
+}

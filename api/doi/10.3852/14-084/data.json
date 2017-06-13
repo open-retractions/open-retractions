@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1080/00275514.2017.1279951","type":"correction"},"doi":"10.3852/14-084","journal":"Mycologia","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1495734497380,
+      "identifier": {
+        "doi": "10.1080/00275514.2017.1279951"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3852/14-084"
+  },
+  "journal": "Mycologia",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

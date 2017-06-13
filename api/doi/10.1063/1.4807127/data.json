@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1063/1.4819730","type":"correction"},"doi":"10.1063/1.4807127","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Influence of SnO2:F/ZnO:Al bi-layer as a front electrode on the properties of p-i-n amorphous silicon based thin film solar cells” [Appl. Phys. Lett. 102, 191602 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496046463132,
+      "identifier": {
+        "doi": "10.1063/1.4819730"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4807127"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Influence of SnO2:F/ZnO:Al bi-layer as a front electrode on the properties of p-i-n amorphous silicon based thin film solar cells” [Appl. Phys. Lett. 102, 191602 (2013)]"
+}

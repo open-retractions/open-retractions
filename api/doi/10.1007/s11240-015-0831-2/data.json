@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1007/s11240-015-0849-5","type":"correction"},"doi":"10.1007/s11240-015-0831-2","journal":"Plant Cell, Tissue and Organ Culture (PCTOC)","publisher":"Springer Nature","title":"Erratum to: Ce3+ induces flavonoids accumulation by regulation of pigments, ions, chlorophyll fluorescence and antioxidant enzymes in suspension cells of Ginkgo biloba L."}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496024915886,
+      "identifier": {
+        "doi": "10.1007/s11240-015-0849-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11240-015-0831-2"
+  },
+  "journal": "Plant Cell, Tissue and Organ Culture (PCTOC)",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ce3+ induces flavonoids accumulation by regulation of pigments, ions, chlorophyll fluorescence and antioxidant enzymes in suspension cells of Ginkgo biloba L."
+}

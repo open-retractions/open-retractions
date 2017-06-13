@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459209600000,"doi":"10.1038/srep21447","type":"correction"},"doi":"10.1038/srep17319","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Isolation of exosomes by differential centrifugation: Theoretical analysis of a commonly used protocol"}
+{
+  "retracted": false,
+  "timestamp": 1459209600000,
+  "updates": [
+    {
+      "timestamp": 1495660067666,
+      "identifier": {
+        "doi": "10.1038/srep21447"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17319"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Isolation of exosomes by differential centrifugation: Theoretical analysis of a commonly used protocol"
+}

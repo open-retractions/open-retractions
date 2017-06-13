@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":807235200000,"doi":"10.1063/1.868770","type":"erratum"},"doi":"10.1063/1.858587","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: ‘‘Kinetic theory analysis of steady evaporating flows from a spherical condensed phase into a vacuum’’ [Phys. Fluids A 5, 1491 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 807235200000,
+  "updates": [
+    {
+      "timestamp": 1495839538595,
+      "identifier": {
+        "doi": "10.1063/1.868770"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.858587"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘Kinetic theory analysis of steady evaporating flows from a           spherical condensed phase into a vacuum’’ [Phys. Fluids A 5, 1491           (1993)]"
+}

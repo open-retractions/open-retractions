@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1134/s1027451015050444","type":"correction"},"doi":"10.1134/s1027451015030210","journal":"Journal of Surface Investigation. X-ray, Synchrotron and Neutron Techniques","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Magnetic-state control in a 3d dimer on a metallic substrate”"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496036415424,
+      "identifier": {
+        "doi": "10.1134/s1027451015050444"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1027451015030210"
+  },
+  "journal": "Journal of Surface Investigation. X-ray, Synchrotron and Neutron Techniques",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Magnetic-state control in a 3d dimer on a metallic substrate”"
+}

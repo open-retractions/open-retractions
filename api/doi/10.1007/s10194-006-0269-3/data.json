@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1203638400000,"doi":"10.1007/s10194-008-0022-1","type":"correction"},"doi":"10.1007/s10194-006-0269-3","journal":"The Journal of Headache and Pain","publisher":"Springer Nature","title":"Erratum to: Spontaneous intracranial hypotension with pituitary adenoma"}
+{
+  "retracted": false,
+  "timestamp": 1203638400000,
+  "updates": [
+    {
+      "timestamp": 1495832199531,
+      "identifier": {
+        "doi": "10.1007/s10194-008-0022-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10194-006-0269-3"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Spontaneous intracranial hypotension with pituitary adenoma"
+}

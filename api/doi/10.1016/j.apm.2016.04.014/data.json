@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.apm.2016.04.012","type":"err"},"doi":"10.1016/j.apm.2016.04.014","journal":"Applied Mathematical Modelling","publisher":"Elsevier BV","title":"Corrigendum to “A novel approach to multi attribute group decision making based on trapezoidal interval type-2 fuzzy soft sets” [Appl. Math. Model. 37 (2013) 4948–4971]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495679811465,
+      "identifier": {
+        "doi": "10.1016/j.apm.2016.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apm.2016.04.014"
+  },
+  "journal": "Applied Mathematical Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel approach to multi attribute group decision making based on trapezoidal interval type-2 fuzzy soft sets” [Appl. Math. Model. 37 (2013) 4948–4971]"
+}

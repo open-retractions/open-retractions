@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jhydrol.2016.09.013","type":"erratum"},"doi":"10.1016/j.jhydrol.2012.04.028","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “An analytical solution for a radial collector well near a stream with a low-permeability streambed” [J.Hydrol. 446–447 (2012) 48–58]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495639536549,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2016.09.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2012.04.028"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An analytical solution for a radial collector well near a stream with a low-permeability streambed” [J.Hydrol. 446–447 (2012) 48–58]"
+}

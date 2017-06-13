@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445212800000,"doi":"10.1007/s10891-015-1314-3","type":"correction"},"doi":"10.1007/s10891-015-1269-4","journal":"Journal of Engineering Physics and Thermophysics","publisher":"Springer Nature","title":"Erratum to: Influence of Biofuel Additions on the Ignition Delay of Single Diesel Fuel Drops"}
+{
+  "retracted": false,
+  "timestamp": 1445212800000,
+  "updates": [
+    {
+      "timestamp": 1496038598809,
+      "identifier": {
+        "doi": "10.1007/s10891-015-1314-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10891-015-1269-4"
+  },
+  "journal": "Journal of Engineering Physics and Thermophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Influence of Biofuel Additions on the Ignition Delay of Single Diesel Fuel Drops"
+}

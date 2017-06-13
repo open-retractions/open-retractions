@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1486684800000,"doi":"10.1016/j.physletb.2016.12.040","type":"erratum"},"doi":"10.1016/j.physletb.2015.05.002","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Multi-modal Fission in Collinear Ternary Cluster decay of 252Cf(sf,fff)” [Phys. Lett. B 746 (2015) 223]"}
+{
+  "retracted": false,
+  "timestamp": 1486684800000,
+  "updates": [
+    {
+      "timestamp": 1495668620883,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2016.12.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2015.05.002"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multi-modal Fission in Collinear Ternary Cluster decay of 252Cf(sf,fff)” [Phys. Lett. B 746 (2015) 223]"
+}

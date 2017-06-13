@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.resinv.2016.03.002","type":"err"},"doi":"10.1016/j.resinv.2015.09.005","journal":"Respiratory Investigation","publisher":"Elsevier BV","title":"Corrigendum to ‘‘High-flow nasal cannula oxygen therapy for acute exacerbation of interstitial pneumonia: A case series’’"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495667202041,
+      "identifier": {
+        "doi": "10.1016/j.resinv.2016.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resinv.2015.09.005"
+  },
+  "journal": "Respiratory Investigation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘High-flow nasal cannula oxygen therapy for acute exacerbation of interstitial pneumonia: A case series’’"
+}

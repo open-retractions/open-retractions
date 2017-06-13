@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1396915200000,"doi":"10.1371/journal.pbio.1001848","type":"correction"},"doi":"10.1371/journal.pbio.1001478","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Impairment of TrkB-PSD-95 Signaling in Angelman Syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1396915200000,
+  "updates": [
+    {
+      "timestamp": 1496029072184,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1001848"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1001478"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Impairment of TrkB-PSD-95 Signaling in Angelman Syndrome"
+}

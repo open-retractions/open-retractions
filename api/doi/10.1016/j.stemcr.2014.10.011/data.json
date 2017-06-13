@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436832000000,"doi":"10.1016/j.stemcr.2015.07.001","type":"erratum"},"doi":"10.1016/j.stemcr.2014.10.011","journal":"Stem Cell Reports","publisher":"Elsevier BV","title":"Early Depletion of Primordial Germ Cells in Zebrafish Promotes Testis Formation"}
+{
+  "retracted": false,
+  "timestamp": 1436832000000,
+  "updates": [
+    {
+      "timestamp": 1496015443231,
+      "identifier": {
+        "doi": "10.1016/j.stemcr.2015.07.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stemcr.2014.10.011"
+  },
+  "journal": "Stem Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Early Depletion of Primordial Germ Cells in Zebrafish Promotes Testis Formation"
+}

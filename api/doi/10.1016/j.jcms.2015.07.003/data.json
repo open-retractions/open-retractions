@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jcms.2015.09.006","type":"err"},"doi":"10.1016/j.jcms.2015.07.003","journal":"Journal of Cranio-Maxillofacial Surgery","publisher":"Elsevier BV","title":"Corrigendum to “Eye tracker based study: Perception of faces with a cleft lip and nose deformity” [J Craniomaxillofac Surg 43 (2015) 1620–1625]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496041228719,
+      "identifier": {
+        "doi": "10.1016/j.jcms.2015.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcms.2015.07.003"
+  },
+  "journal": "Journal of Cranio-Maxillofacial Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Eye tracker based study: Perception of faces with a cleft lip and nose deformity” [J Craniomaxillofac Surg 43 (2015) 1620–1625]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490918400000,"doi":"10.1039/c7cs90028g","type":"correction"},"doi":"10.1039/c6cs00393a","journal":"Chem. Soc. Rev.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Understanding MAOS through computational chemistry"}
+{
+  "retracted": false,
+  "timestamp": 1490918400000,
+  "updates": [
+    {
+      "timestamp": 1495734823739,
+      "identifier": {
+        "doi": "10.1039/c7cs90028g"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cs00393a"
+  },
+  "journal": "Chem. Soc. Rev.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Understanding MAOS through computational chemistry"
+}

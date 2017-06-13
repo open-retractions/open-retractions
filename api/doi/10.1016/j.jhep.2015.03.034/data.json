@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jhep.2016.04.027","type":"err"},"doi":"10.1016/j.jhep.2015.03.034","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Erratum to “Early post-transplant survival: Interaction of MELD score and hospitalization status”"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495677551166,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2016.04.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2015.03.034"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Early post-transplant survival: Interaction of MELD score and hospitalization status”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1007/s00214-015-1742-3","type":"correction"},"doi":"10.1007/s00214-014-1447-z","journal":"Theoretical Chemistry Accounts","publisher":"Springer Nature","title":"Erratum to: Comparative bonding analysis of N2 and P2 versus tetrahedral N4 and P4"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496038814474,
+      "identifier": {
+        "doi": "10.1007/s00214-015-1742-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00214-014-1447-z"
+  },
+  "journal": "Theoretical Chemistry Accounts",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Comparative bonding analysis of N2 and P2 versus tetrahedral N4 and P4"
+}

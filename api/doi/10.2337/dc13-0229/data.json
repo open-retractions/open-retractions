@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.2337/dc13-er11b","type":"correction"},"doi":"10.2337/dc13-0229","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Increased risk of cognitive impairment in patients with diabetes is associated with metformin. Diabetes Care 2013;36:2981-2987"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495991146172,
+      "identifier": {
+        "doi": "10.2337/dc13-er11b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc13-0229"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Increased risk of cognitive impairment in patients with diabetes is associated with metformin. Diabetes Care 2013;36:2981-2987"
+}

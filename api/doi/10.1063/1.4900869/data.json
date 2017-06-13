@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432771200000,"doi":"10.1063/1.4921965","type":"correction"},"doi":"10.1063/1.4900869","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Depth-resolved ultra-violet spectroscopic photo current-voltage measurements for the analysis of AlGaN/GaN high electron mobility transistor epilayer deposited on Si” [Appl. Phys. Lett. 105, 172105 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1432771200000,
+  "updates": [
+    {
+      "timestamp": 1496002737799,
+      "identifier": {
+        "doi": "10.1063/1.4921965"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4900869"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Depth-resolved ultra-violet spectroscopic photo current-voltage measurements for the analysis of AlGaN/GaN high electron mobility transistor epilayer deposited on Si” [Appl. Phys. Lett. 105, 172105 (2014)]"
+}

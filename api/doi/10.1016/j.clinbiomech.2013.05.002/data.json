@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.clinbiomech.2013.08.003","type":"err"},"doi":"10.1016/j.clinbiomech.2013.05.002","journal":"Clinical Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Kinematic and kinetic differences during walking in patients with and without symptomatic femoroacetabular impingement” Clin. Biomech. 28(5) (June 2013) 519–523."}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496043771665,
+      "identifier": {
+        "doi": "10.1016/j.clinbiomech.2013.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinbiomech.2013.05.002"
+  },
+  "journal": "Clinical Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Kinematic and kinetic differences during walking in patients with and without symptomatic femoroacetabular impingement” Clin. Biomech. 28(5) (June 2013) 519–523."
+}

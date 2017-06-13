@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.bbamcr.2012.11.015","type":"err"},"doi":"10.1016/j.bbamcr.2012.05.032","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “Lysine 394 is a novel Rad6B-induced ubiquitination site on beta-catenin” [Biochim. Biophys. Acta 1823 (2012) 1686–1696]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495977133747,
+      "identifier": {
+        "doi": "10.1016/j.bbamcr.2012.11.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamcr.2012.05.032"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lysine 394 is a novel Rad6B-induced ubiquitination site on beta-catenin” [Biochim. Biophys. Acta 1823 (2012) 1686–1696]"
+}

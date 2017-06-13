@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445904000000,"doi":"10.1073/pnas.1519546112","type":"correction"},"doi":"10.1073/pnas.1515882112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Lee et al., Development of a histone deacetylase 6 inhibitor and its biological effects"}
+{
+  "retracted": false,
+  "timestamp": 1445904000000,
+  "updates": [
+    {
+      "timestamp": 1496038979734,
+      "identifier": {
+        "doi": "10.1073/pnas.1519546112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1515882112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Lee et al., Development of a histone deacetylase 6 inhibitor and its biological effects"
+}

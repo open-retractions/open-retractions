@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.7567/apex.9.129201","type":"correction"},"doi":"10.7567/apex.9.101001","journal":"Applied Physics Express","publisher":"Japan Society of Applied Physics","title":"Retraction: “Demonstration of electron beam excitation laser using a GaInN-based multiquantum well active layer”"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495654087039,
+      "identifier": {
+        "doi": "10.7567/apex.9.129201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/apex.9.101001"
+  },
+  "journal": "Applied Physics Express",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Retraction: “Demonstration of electron beam excitation laser using a GaInN-based multiquantum well active layer”"
+}

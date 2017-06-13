@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383004800000,"doi":"10.1136/bmj.f6640","type":"correction"},"doi":"10.1136/bmj.f6483","journal":"BMJ","publisher":"BMJ","title":"Migrants' healthcare: who pays?"}
+{
+  "retracted": false,
+  "timestamp": 1383004800000,
+  "updates": [
+    {
+      "timestamp": 1495994441065,
+      "identifier": {
+        "doi": "10.1136/bmj.f6640"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f6483"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Migrants' healthcare: who pays?"
+}

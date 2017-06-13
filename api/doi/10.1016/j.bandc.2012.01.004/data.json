@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.bandc.2014.04.008","type":"err"},"doi":"10.1016/j.bandc.2012.01.004","journal":"Brain and Cognition","publisher":"Elsevier BV","title":"Corrigendum to “Dual-tasking alleviated sleep deprivation disruption in visuomotor tracking: An fMRI study” [Brain and Cognition 78(3) (2012) 248–256]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496037919510,
+      "identifier": {
+        "doi": "10.1016/j.bandc.2014.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bandc.2012.01.004"
+  },
+  "journal": "Brain and Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dual-tasking alleviated sleep deprivation disruption in visuomotor tracking: An fMRI study” [Brain and Cognition 78(3) (2012) 248–256]"
+}

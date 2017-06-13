@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487808000000,"doi":"10.1007/s00125-017-4225-3","type":"correction"},"doi":"10.1007/s00125-016-4000-x","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Non-metabolisable insulin glargine does not promote breast cancer growth in a mouse model of type 2 diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1487808000000,
+  "updates": [
+    {
+      "timestamp": 1495714752942,
+      "identifier": {
+        "doi": "10.1007/s00125-017-4225-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00125-016-4000-x"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Non-metabolisable insulin glargine does not promote breast cancer growth in a mouse model of type 2 diabetes"
+}

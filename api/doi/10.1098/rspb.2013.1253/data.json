@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461715200000,"doi":"10.1098/rspb.2016.0763","type":"correction"},"doi":"10.1098/rspb.2013.1253","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Competition both drives and impedes diversification in a model adaptive radiation’"}
+{
+  "retracted": false,
+  "timestamp": 1461715200000,
+  "updates": [
+    {
+      "timestamp": 1495669150062,
+      "identifier": {
+        "doi": "10.1098/rspb.2016.0763"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2013.1253"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Competition both drives and impedes diversification in a model adaptive radiation’"
+}

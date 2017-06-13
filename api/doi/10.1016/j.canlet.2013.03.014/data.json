@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406505600000,"doi":"10.1016/j.canlet.2013.12.013","type":"err"},"doi":"10.1016/j.canlet.2013.03.014","journal":"Cancer Letters","publisher":"Elsevier BV","title":"Corrigendum to “c-MYC overexpression overrides TAK1 dependency in efficient tumorigenicity of AKT-transformed cells” [Cancer Lett. 336(2) (2013) 290–298]"}
+{
+  "retracted": false,
+  "timestamp": 1406505600000,
+  "updates": [
+    {
+      "timestamp": 1496004759091,
+      "identifier": {
+        "doi": "10.1016/j.canlet.2013.12.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.canlet.2013.03.014"
+  },
+  "journal": "Cancer Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “c-MYC overexpression overrides TAK1 dependency in efficient tumorigenicity of AKT-transformed cells” [Cancer Lett. 336(2) (2013) 290–298]"
+}

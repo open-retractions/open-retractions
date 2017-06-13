@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479859200000,"doi":"10.1007/s12303-016-0032-y","type":"correction"},"doi":"10.1007/s12303-015-0044-z","journal":"Geosciences Journal","publisher":"Springer Nature","title":"Erratum to: An application of rock physics modeling to quantify the seismic response of gas hydrate-bearing sediments in Makran accretionary prism, offshore, Pakistan"}
+{
+  "retracted": false,
+  "timestamp": 1479859200000,
+  "updates": [
+    {
+      "timestamp": 1495660490104,
+      "identifier": {
+        "doi": "10.1007/s12303-016-0032-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12303-015-0044-z"
+  },
+  "journal": "Geosciences Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An application of rock physics modeling to quantify the seismic response of gas hydrate-bearing sediments in Makran accretionary prism, offshore, Pakistan"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416441600000,"doi":"10.1016/j.ijpharm.2014.10.001","type":"err"},"doi":"10.1016/j.ijpharm.2014.08.002","journal":"International Journal of Pharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to ‘Lysine-based surfactants as chemical permeation enhancers for dermal delivery of local anesthetics’ [Int. J. Pharm. 474 (2014) 212–222]"}
+{
+  "retracted": false,
+  "timestamp": 1416441600000,
+  "updates": [
+    {
+      "timestamp": 1496014206352,
+      "identifier": {
+        "doi": "10.1016/j.ijpharm.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpharm.2014.08.002"
+  },
+  "journal": "International Journal of Pharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Lysine-based surfactants as chemical permeation enhancers for dermal delivery of local anesthetics’ [Int. J. Pharm. 474 (2014) 212–222]"
+}

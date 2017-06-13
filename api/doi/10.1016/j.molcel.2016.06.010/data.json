@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476921600000,"doi":"10.1016/j.molcel.2016.10.005","type":"err"},"doi":"10.1016/j.molcel.2016.06.010","journal":"Molecular Cell","publisher":"Elsevier BV","title":"An Autoinhibited Dimeric Form of BAX Regulates the BAX Activation Pathway"}
+{
+  "retracted": false,
+  "timestamp": 1476921600000,
+  "updates": [
+    {
+      "timestamp": 1495649886408,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.10.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.06.010"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "An Autoinhibited Dimeric Form of BAX Regulates the BAX Activation Pathway"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1199404800000,"doi":"10.1007/bf02772825","type":"correction"},"doi":"10.1007/bf02755910","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Superfluid ground state of neutron matter and other strongly interacting many-fermion systems"}
+{
+  "retracted": false,
+  "timestamp": 1199404800000,
+  "updates": [
+    {
+      "timestamp": 1495817082327,
+      "identifier": {
+        "doi": "10.1007/bf02772825"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02755910"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Superfluid ground state of neutron matter and other strongly interacting many-fermion systems"
+}

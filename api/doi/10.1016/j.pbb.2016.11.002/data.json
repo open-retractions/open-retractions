@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.pbb.2016.12.004","type":"erratum"},"doi":"10.1016/j.pbb.2016.11.002","journal":"Pharmacology Biochemistry and Behavior","publisher":"Elsevier BV","title":"Corrigendum to: “Hydrogen sulfide ameliorates learning memory impairment in APP/PS1 transgenic mice: A novel mechanism mediated by the activation of Nrf2” [Pharmacol. Biochem. Behav. 150–151 (2016) 207–216]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495667362189,
+      "identifier": {
+        "doi": "10.1016/j.pbb.2016.12.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pbb.2016.11.002"
+  },
+  "journal": "Pharmacology Biochemistry and Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Hydrogen sulfide ameliorates learning memory impairment in APP/PS1 transgenic mice: A novel mechanism mediated by the activation of Nrf2” [Pharmacol. Biochem. Behav. 150–151 (2016) 207–216]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jpowsour.2015.03.031","type":"err"},"doi":"10.1016/j.jpowsour.2015.01.082","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Electrocatalytic activities of cathode electrodes for water electrolysis using tetra-alkyl-ammonium-sulfonic acid ionic liquid as electrolyte” [J. Power Sources 280 (2015) 12–17]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496052685216,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2015.03.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2015.01.082"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electrocatalytic activities of cathode electrodes for water electrolysis using tetra-alkyl-ammonium-sulfonic acid ionic liquid as electrolyte” [J. Power Sources 280 (2015) 12–17]"
+}

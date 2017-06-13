@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.earscirev.2013.12.001","type":"err"},"doi":"10.1016/j.earscirev.2013.05.006","journal":"Earth-Science Reviews","publisher":"Elsevier BV","title":"Erratum to ‘Tonalite–granodiorite suites as cotectic systems: A review of experimental studies with applications to granitoid petrogenesis’ [Earth Sci. Rev. 124 (2013) 68–95]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496009482043,
+      "identifier": {
+        "doi": "10.1016/j.earscirev.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.earscirev.2013.05.006"
+  },
+  "journal": "Earth-Science Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Tonalite–granodiorite suites as cotectic systems: A review of experimental studies with applications to granitoid petrogenesis’ [Earth Sci. Rev. 124 (2013) 68–95]"
+}

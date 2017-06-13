@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.ecoenv.2013.10.003","type":"err"},"doi":"10.1016/j.ecoenv.2013.05.036","journal":"Ecotoxicology and Environmental Safety","publisher":"Elsevier BV","title":"Erratum to “Substituent contribution to the genotoxicity of benzophenone-type UV filters” [Ecotoxicol. Environ. Saf. 95 (2013) 241–246]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496054607468,
+      "identifier": {
+        "doi": "10.1016/j.ecoenv.2013.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoenv.2013.05.036"
+  },
+  "journal": "Ecotoxicology and Environmental Safety",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Substituent contribution to the genotoxicity of benzophenone-type UV filters” [Ecotoxicol. Environ. Saf. 95 (2013) 241–246]"
+}

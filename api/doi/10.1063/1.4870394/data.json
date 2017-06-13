@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398124800000,"doi":"10.1063/1.4872368","type":"correction"},"doi":"10.1063/1.4870394","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Conservative and dissipative force field for simulation of coarse-grained alkane molecules: A bottom-up approach” [J. Chem. Phys. 140, 134113 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1398124800000,
+  "updates": [
+    {
+      "timestamp": 1496034843945,
+      "identifier": {
+        "doi": "10.1063/1.4872368"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4870394"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Conservative and dissipative force field for simulation of coarse-grained alkane molecules: A bottom-up approach” [J. Chem. Phys. 140, 134113 (2014)]"
+}

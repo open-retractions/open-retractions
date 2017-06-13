@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1016/j.compstruct.2016.01.102","type":"erratum"},"doi":"10.1016/j.compstruct.2014.12.018","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to: “In-plane shear failure properties of a chopped glass-reinforced polyester by means of traction–compression biaxial testing” [Compos. Struct. 122 (2015) 440–444]"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495645394659,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2016.01.102"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2014.12.018"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “In-plane shear failure properties of a chopped glass-reinforced polyester by means of traction–compression biaxial testing” [Compos. Struct. 122 (2015) 440–444]"
+}

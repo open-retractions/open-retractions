@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423440000000,"doi":"10.1073/pnas.1501871112","type":"correction"},"doi":"10.1073/pnas.1401871111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Rockwell et al., Eukaryotic algal phytochromes span the visible spectrum"}
+{
+  "retracted": false,
+  "timestamp": 1423440000000,
+  "updates": [
+    {
+      "timestamp": 1496043105496,
+      "identifier": {
+        "doi": "10.1073/pnas.1501871112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1401871111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Rockwell et al., Eukaryotic algal phytochromes span the visible spectrum"
+}

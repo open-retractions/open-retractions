@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423008000000,"doi":"10.1007/s10008-015-2761-7","type":"correction"},"doi":"10.1007/s10008-012-1993-z","journal":"Journal of Solid State Electrochemistry","publisher":"Springer Nature","title":"Erratum to: Effect of wetted graphene on the performance of Pt/PPy-graphene electrocatalyst for methanol electrooxidation in acid medium"}
+{
+  "retracted": false,
+  "timestamp": 1423008000000,
+  "updates": [
+    {
+      "timestamp": 1496041617041,
+      "identifier": {
+        "doi": "10.1007/s10008-015-2761-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10008-012-1993-z"
+  },
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of wetted graphene on the performance of Pt/PPy-graphene electrocatalyst for methanol electrooxidation in acid medium"
+}

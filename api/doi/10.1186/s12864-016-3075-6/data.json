@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480636800000,"doi":"10.1186/s12864-016-3349-z","type":"correction"},"doi":"10.1186/s12864-016-3075-6","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Non-linear interactions between candidate genes of myocardial infarction revealed in mRNA expression profiles"}
+{
+  "retracted": false,
+  "timestamp": 1480636800000,
+  "updates": [
+    {
+      "timestamp": 1495663165536,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3349-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-3075-6"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Non-linear interactions between candidate genes of myocardial infarction revealed in mRNA expression profiles"
+}

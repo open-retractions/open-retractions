@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349654400000,"doi":"10.1371/annotation/6fe0199e-7916-4bb9-9c9e-b854c5cee029","type":"correction"},"doi":"10.1371/journal.pone.0042760","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Quantifying Phylogenetic Beta Diversity: Distinguishing between ‘True’ Turnover of Lineages and Phylogenetic Diversity Gradients"}
+{
+  "retracted": false,
+  "timestamp": 1349654400000,
+  "updates": [
+    {
+      "timestamp": 1495979832899,
+      "identifier": {
+        "doi": "10.1371/annotation/6fe0199e-7916-4bb9-9c9e-b854c5cee029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0042760"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Quantifying Phylogenetic Beta Diversity: Distinguishing between ‘True’ Turnover of Lineages and Phylogenetic Diversity Gradients"
+}

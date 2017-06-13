@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.biologicals.2016.11.003","type":"erratum"},"doi":"10.1016/j.biologicals.2014.11.007","journal":"Biologicals","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of the cell growth analysis for detection of immortal cellular impurities in human mesenchymal stem cells” [Biologicals 43 (2) (March 2015) 146–149]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495660145849,
+      "identifier": {
+        "doi": "10.1016/j.biologicals.2016.11.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biologicals.2014.11.007"
+  },
+  "journal": "Biologicals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of the cell growth analysis for detection of immortal cellular impurities in human mesenchymal stem cells” [Biologicals 43 (2) (March 2015) 146–149]"
+}

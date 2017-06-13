@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1395100800000,"doi":"10.1063/1.4869375","type":"correction"},"doi":"10.1063/1.4817771","journal":"Biomicrofluidics","publisher":"AIP Publishing","title":"Erratum: “Label-free electronic probing of nucleic acids and proteins at the nanoscale using the nanoneedle biosensor” [Biomicrofluidics 7, 044114 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1395100800000,
+  "updates": [
+    {
+      "timestamp": 1496026667357,
+      "identifier": {
+        "doi": "10.1063/1.4869375"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4817771"
+  },
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Label-free electronic probing of nucleic acids and proteins at the nanoscale using the nanoneedle biosensor” [Biomicrofluidics 7, 044114 (2013)]"
+}

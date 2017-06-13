@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460332800000,"doi":"10.3109/10428194.2016.1157317","type":"correction"},"doi":"10.3109/10428191003596835","journal":"Leukemia & Lymphoma","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1460332800000,
+  "updates": [
+    {
+      "timestamp": 1495663873364,
+      "identifier": {
+        "doi": "10.3109/10428194.2016.1157317"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/10428191003596835"
+  },
+  "journal": "Leukemia & Lymphoma",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

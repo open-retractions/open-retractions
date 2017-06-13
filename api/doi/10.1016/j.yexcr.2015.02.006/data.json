@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.yexcr.2015.05.010","type":"erratum"},"doi":"10.1016/j.yexcr.2015.02.006","journal":"Experimental Cell Research","publisher":"Elsevier BV","title":"Corrigendum to: “The sGC activator inhibits the proliferation and migration, promotes the apoptosis of human pulmonary arterial smooth muscle cells via the up regulation of plasminogen activator inhibitor-2” [Exp. Cell Res. 332 (2) (2015) 278–287]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1496002777603,
+      "identifier": {
+        "doi": "10.1016/j.yexcr.2015.05.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yexcr.2015.02.006"
+  },
+  "journal": "Experimental Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “The sGC activator inhibits the proliferation and migration, promotes the apoptosis of human pulmonary arterial smooth muscle cells via the up regulation of plasminogen activator inhibitor-2” [Exp. Cell Res. 332 (2) (2015) 278–287]"
+}

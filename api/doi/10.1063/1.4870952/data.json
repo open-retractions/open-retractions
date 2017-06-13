@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447200000000,"doi":"10.1063/1.4935816","type":"correction"},"doi":"10.1063/1.4870952","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Effects of alloy disorder and confinement on phonon modes and Raman scattering in SixGe1−x nanocrystals: A microscopic modeling” [J. Appl. Phys. 115, 143505 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1447200000000,
+  "updates": [
+    {
+      "timestamp": 1496045109452,
+      "identifier": {
+        "doi": "10.1063/1.4935816"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4870952"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effects of alloy disorder and confinement on phonon modes and Raman scattering in SixGe1−x nanocrystals: A microscopic modeling” [J. Appl. Phys. 115, 143505 (2014)]"
+}

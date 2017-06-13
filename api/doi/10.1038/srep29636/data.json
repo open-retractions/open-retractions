@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1038/srep33426","type":"correction"},"doi":"10.1038/srep29636","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Polymorphisms in the Mannose-Binding Lectin Gene are Associated with Defective Mannose-Binding Lectin Functional Activity in Crohn’s Disease Patients"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640274120,
+      "identifier": {
+        "doi": "10.1038/srep33426"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep29636"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Polymorphisms in the Mannose-Binding Lectin Gene are Associated with Defective Mannose-Binding Lectin Functional Activity in Crohn’s Disease Patients"
+}

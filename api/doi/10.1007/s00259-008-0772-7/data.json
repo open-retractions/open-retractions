@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1227139200000,"doi":"10.1007/s00259-008-0999-3","type":"correction"},"doi":"10.1007/s00259-008-0772-7","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Correlation of [18F]FMISO autoradiography and pimonidazole immunohistochemistry in human head and neck carcinoma xenografts"}
+{
+  "retracted": false,
+  "timestamp": 1227139200000,
+  "updates": [
+    {
+      "timestamp": 1495873680481,
+      "identifier": {
+        "doi": "10.1007/s00259-008-0999-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-008-0772-7"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Correlation of [18F]FMISO autoradiography and pimonidazole immunohistochemistry in human head and neck carcinoma xenografts"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419292800000,"doi":"10.1007/s10836-014-5500-6","type":"correction"},"doi":"10.1007/s10836-014-5486-0","journal":"Journal of Electronic Testing","publisher":"Springer Nature","title":"Erratum to: A Small Chip Area Stochastic Calibration for TDC Using Ring Oscillator"}
+{
+  "retracted": false,
+  "timestamp": 1419292800000,
+  "updates": [
+    {
+      "timestamp": 1496028610445,
+      "identifier": {
+        "doi": "10.1007/s10836-014-5500-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10836-014-5486-0"
+  },
+  "journal": "Journal of Electronic Testing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Small Chip Area Stochastic Calibration for TDC Using Ring Oscillator"
+}

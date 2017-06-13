@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1186/s12868-017-0338-3","type":"correction"},"doi":"10.1186/s12868-015-0202-2","journal":"BMC Neuroscience","publisher":"Springer Nature","title":"Erratum to: High-fat diet-induced obesity exacerbates kainic acid-induced hippocampal cell death"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495678080414,
+      "identifier": {
+        "doi": "10.1186/s12868-017-0338-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12868-015-0202-2"
+  },
+  "journal": "BMC Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High-fat diet-induced obesity exacerbates kainic acid-induced hippocampal cell death"
+}

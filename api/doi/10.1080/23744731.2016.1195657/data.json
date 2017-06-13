@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487635200000,"doi":"10.1080/23744731.2017.1296733","type":"correction"},"doi":"10.1080/23744731.2016.1195657","journal":"Science and Technology for the Built Environment","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487635200000,
+  "updates": [
+    {
+      "timestamp": 1495714688423,
+      "identifier": {
+        "doi": "10.1080/23744731.2017.1296733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23744731.2016.1195657"
+  },
+  "journal": "Science and Technology for the Built Environment",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

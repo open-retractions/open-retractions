@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":688953600000,"doi":"10.1073/pnas.88.21.9907c","type":"correction"},"doi":"10.1073/pnas.88.13.5592","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Splicing-defective mutants of the yeast mitochondrial COXI gene can be corrected by transformation with a hybrid maturase gene"}
+{
+  "retracted": false,
+  "timestamp": 688953600000,
+  "updates": [
+    {
+      "timestamp": 1495825798297,
+      "identifier": {
+        "doi": "10.1073/pnas.88.21.9907c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.88.13.5592"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Splicing-defective mutants of the yeast mitochondrial COXI gene can be corrected by transformation with a hybrid maturase gene"
+}

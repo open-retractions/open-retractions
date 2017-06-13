@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.advwatres.2015.03.002","type":"err"},"doi":"10.1016/j.advwatres.2014.06.005","journal":"Advances in Water Resources","publisher":"Elsevier BV","title":"Erratum to “Geostatistical radar–raingauge merging: A novel method for the quantification of rain estimation accuracy” [Advances in Water Resources 71 (2014) 110–124]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496052149269,
+      "identifier": {
+        "doi": "10.1016/j.advwatres.2015.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.advwatres.2014.06.005"
+  },
+  "journal": "Advances in Water Resources",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Geostatistical radar–raingauge merging: A novel method for the quantification of rain estimation accuracy” [Advances in Water Resources 71 (2014) 110–124]"
+}

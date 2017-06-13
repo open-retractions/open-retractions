@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.ajem.2014.04.001","type":"err"},"doi":"10.1016/j.ajem.2013.09.019","journal":"The American Journal of Emergency Medicine","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1491876617225,
+      "identifier": {
+        "doi": "10.1016/j.ajem.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajem.2013.09.019"
+  },
+  "journal": "The American Journal of Emergency Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

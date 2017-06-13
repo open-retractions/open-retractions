@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450656000000,"doi":"10.1007/s13311-015-0406-2","type":"correction"},"doi":"10.1007/s13311-014-0315-9","journal":"Neurotherapeutics","publisher":"Springer Nature","title":"Erratum to: Interaction of Paroxetine with Mitochondrial Proteins Mediates Neuroprotection"}
+{
+  "retracted": false,
+  "timestamp": 1450656000000,
+  "updates": [
+    {
+      "timestamp": 1496055180971,
+      "identifier": {
+        "doi": "10.1007/s13311-015-0406-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13311-014-0315-9"
+  },
+  "journal": "Neurotherapeutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Interaction of Paroxetine with Mitochondrial Proteins Mediates Neuroprotection"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1250121600000,"doi":"10.1371/annotation/e06b31ef-6b29-44ae-aec1-1740daa93f4b","type":"correction"},"doi":"10.1371/journal.pone.0006364","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Roles and Interactions of Symbiont, Host and Environment in Defining Coral Fitness"}
+{
+  "retracted": false,
+  "timestamp": 1250121600000,
+  "updates": [
+    {
+      "timestamp": 1496025196124,
+      "identifier": {
+        "doi": "10.1371/annotation/e06b31ef-6b29-44ae-aec1-1740daa93f4b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0006364"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Roles and Interactions of Symbiont, Host and Environment in Defining Coral Fitness"
+}

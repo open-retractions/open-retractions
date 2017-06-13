@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1266019200000,"doi":"10.1007/s00535-010-0212-x","type":"correction"},"doi":"10.1007/s00535-009-0167-y","journal":"Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Serotonin transporter activity and serotonin concentration in platelets of patients with irritable bowel syndrome: effect of gender"}
+{
+  "retracted": false,
+  "timestamp": 1266019200000,
+  "updates": [
+    {
+      "timestamp": 1495819735592,
+      "identifier": {
+        "doi": "10.1007/s00535-010-0212-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00535-009-0167-y"
+  },
+  "journal": "Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Serotonin transporter activity and serotonin concentration in platelets of patients with irritable bowel syndrome: effect of gender"
+}

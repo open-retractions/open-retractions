@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447372800000,"doi":"10.1080/07421656.2015.1088255","type":"correction"},"doi":"10.1080/07421656.2015.965117","journal":"Art Therapy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1447372800000,
+  "updates": [
+    {
+      "timestamp": 1496045860619,
+      "identifier": {
+        "doi": "10.1080/07421656.2015.1088255"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07421656.2015.965117"
+  },
+  "journal": "Art Therapy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

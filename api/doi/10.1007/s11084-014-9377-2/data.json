@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422144000000,"doi":"10.1007/s11084-015-9399-4","type":"correction"},"doi":"10.1007/s11084-014-9377-2","journal":"Origins of Life and Evolution of Biospheres","publisher":"Springer Nature","title":"Erratum to: Papers from EANA 2013"}
+{
+  "retracted": false,
+  "timestamp": 1422144000000,
+  "updates": [
+    {
+      "timestamp": 1496039393024,
+      "identifier": {
+        "doi": "10.1007/s11084-015-9399-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11084-014-9377-2"
+  },
+  "journal": "Origins of Life and Evolution of Biospheres",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Papers from EANA 2013"
+}

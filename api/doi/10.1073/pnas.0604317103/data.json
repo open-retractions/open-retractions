@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1160438400000,"doi":"10.1073/pnas.0607192103","type":"correction"},"doi":"10.1073/pnas.0604317103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chaparro et al., Nonobese diabetic mice express aspects of both type 1 and type 2 diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1160438400000,
+  "updates": [
+    {
+      "timestamp": 1495867341468,
+      "identifier": {
+        "doi": "10.1073/pnas.0607192103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0604317103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chaparro et al., Nonobese diabetic mice express aspects of both type 1 and type 2 diabetes"
+}

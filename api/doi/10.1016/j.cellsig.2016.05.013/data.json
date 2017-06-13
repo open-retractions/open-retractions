@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.cellsig.2016.07.018","type":"err"},"doi":"10.1016/j.cellsig.2016.05.013","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to CSF-1 receptor signalling is governed by pre-requisite EHD1 mediated receptor display on the macrophage cell surface [Cell Signalling 2016 Sep.; 28(9): 1325–35]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495735564352,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2016.07.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2016.05.013"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to CSF-1 receptor signalling is governed by pre-requisite EHD1 mediated receptor display on the macrophage cell surface [Cell Signalling 2016 Sep.; 28(9): 1325–35]"
+}

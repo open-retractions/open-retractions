@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":415324800000,"doi":"10.1007/bf01474176","type":"correction"},"doi":"10.1007/bf01457020","journal":"Mathematische Annalen","publisher":"Springer Nature","title":"Erratum to: Free actions of finite groups on varieties. II"}
+{
+  "retracted": false,
+  "timestamp": 415324800000,
+  "updates": [
+    {
+      "timestamp": 1495934954827,
+      "identifier": {
+        "doi": "10.1007/bf01474176"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01457020"
+  },
+  "journal": "Mathematische Annalen",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Free actions of finite groups on varieties. II"
+}

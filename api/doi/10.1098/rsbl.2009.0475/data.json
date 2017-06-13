@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1261526400000,"doi":"10.1098/rsbl.2010.0743","type":"correction"},"doi":"10.1098/rsbl.2009.0475","journal":"Biology Letters","publisher":"The Royal Society","title":"Sexual selection against deleterious mutations via variable male search success"}
+{
+  "retracted": false,
+  "timestamp": 1261526400000,
+  "updates": [
+    {
+      "timestamp": 1495881883738,
+      "identifier": {
+        "doi": "10.1098/rsbl.2010.0743"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2009.0475"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Sexual selection against deleterious mutations via variable male search success"
+}

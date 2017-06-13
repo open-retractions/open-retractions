@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.ijsolstr.2015.05.029","type":"err"},"doi":"10.1016/j.ijsolstr.2013.03.004","journal":"International Journal of Solids and Structures","publisher":"Elsevier BV","title":"Corrigendum to: “Empirical plasticity models applied for paper sheets having different anisotropy and dry solids content levels” [Int. J. Solids Struct. 50 (2013) 2151–2179]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496004965704,
+      "identifier": {
+        "doi": "10.1016/j.ijsolstr.2015.05.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijsolstr.2013.03.004"
+  },
+  "journal": "International Journal of Solids and Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Empirical plasticity models applied for paper sheets having different anisotropy and dry solids content levels” [Int. J. Solids Struct. 50 (2013) 2151–2179]"
+}

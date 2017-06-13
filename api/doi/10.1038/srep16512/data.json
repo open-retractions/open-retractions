@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454025600000,"doi":"10.1038/srep20269","type":"correction"},"doi":"10.1038/srep16512","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Dynamic changes in host gene expression associated with H5N8 avian influenza virus infection in mice"}
+{
+  "retracted": false,
+  "timestamp": 1454025600000,
+  "updates": [
+    {
+      "timestamp": 1495641021450,
+      "identifier": {
+        "doi": "10.1038/srep20269"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep16512"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Dynamic changes in host gene expression associated with H5N8 avian influenza virus infection in mice"
+}

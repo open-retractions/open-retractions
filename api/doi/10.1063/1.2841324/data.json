@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379030400000,"doi":"10.1063/1.4821200","type":"correction"},"doi":"10.1063/1.2841324","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: On the eigensolutions of one-dimensional Duffin-Kemmer-Petiau oscillator [J. Math. Phys. 49, 022302 (2008)]"}
+{
+  "retracted": false,
+  "timestamp": 1379030400000,
+  "updates": [
+    {
+      "timestamp": 1496046117048,
+      "identifier": {
+        "doi": "10.1063/1.4821200"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2841324"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: On the eigensolutions of one-dimensional Duffin-Kemmer-Petiau oscillator [J. Math. Phys. 49, 022302 (2008)]"
+}

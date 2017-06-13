@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1239753600000,"doi":"10.1140/epjc/s10052-009-1024-0","type":"correction"},"doi":"10.1140/epjc/s10052-009-0959-5","journal":"The European Physical Journal C","publisher":"Springer Nature","title":"The CMS barrel calorimeter response to particle beams from 2 to 350 GeV/c"}
+{
+  "retracted": false,
+  "timestamp": 1239753600000,
+  "updates": [
+    {
+      "timestamp": 1495946019850,
+      "identifier": {
+        "doi": "10.1140/epjc/s10052-009-1024-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epjc/s10052-009-0959-5"
+  },
+  "journal": "The European Physical Journal C",
+  "publisher": "Springer Nature",
+  "title": "The CMS barrel calorimeter response to particle beams from 2 to 350 GeV/c"
+}

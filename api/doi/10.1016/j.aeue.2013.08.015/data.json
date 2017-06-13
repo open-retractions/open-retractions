@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.aeue.2014.03.007","type":"err"},"doi":"10.1016/j.aeue.2013.08.015","journal":"AEU - International Journal of Electronics and Communications","publisher":"Elsevier BV","title":"Corrigendum to “A fast and efficient color image enhancement method based on fuzzy-logic and histogram” [Int. J. Electron. Commun. (AEÜ) 68 (2014) 237–243]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496028316743,
+      "identifier": {
+        "doi": "10.1016/j.aeue.2014.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aeue.2013.08.015"
+  },
+  "journal": "AEU - International Journal of Electronics and Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A fast and efficient color image enhancement method based on fuzzy-logic and histogram” [Int. J. Electron. Commun. (AEÜ) 68 (2014) 237–243]"
+}

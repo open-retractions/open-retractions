@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421020800000,"doi":"10.1016/j.carres.2014.05.019","type":"err"},"doi":"10.1016/s0008-6215(97)00248-6","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “β-Glucosylation of chitooligomers by galactosyltransferase” [Carbohydr. Res. 305 (1998) 517–523]"}
+{
+  "retracted": false,
+  "timestamp": 1421020800000,
+  "updates": [
+    {
+      "timestamp": 1496027437564,
+      "identifier": {
+        "doi": "10.1016/j.carres.2014.05.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0008-6215(97)00248-6"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “β-Glucosylation of chitooligomers by galactosyltransferase” [Carbohydr. Res. 305 (1998) 517–523]"
+}

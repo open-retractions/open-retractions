@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1073952000000,"doi":"10.1073/pnas.0811424106","type":"correction"},"doi":"10.1073/pnas.2533829100","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ayora et al., Bacillus subtilis RecU protein cleaves Holliday junctions and anneals single-stranded DNA"}
+{
+  "retracted": false,
+  "timestamp": 1073952000000,
+  "updates": [
+    {
+      "timestamp": 1495907882131,
+      "identifier": {
+        "doi": "10.1073/pnas.0811424106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.2533829100"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ayora et al., Bacillus subtilis RecU protein cleaves Holliday junctions and anneals single-stranded DNA"
+}

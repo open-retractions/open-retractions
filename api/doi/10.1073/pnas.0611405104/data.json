@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1176163200000,"doi":"10.1073/pnas.0702345104","type":"correction"},"doi":"10.1073/pnas.0611405104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Duriez et al., A common variant in combination with a nonsense mutation in a member of the thioredoxin family causes primary ciliary dyskinesia"}
+{
+  "retracted": false,
+  "timestamp": 1176163200000,
+  "updates": [
+    {
+      "timestamp": 1495943143058,
+      "identifier": {
+        "doi": "10.1073/pnas.0702345104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0611405104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Duriez et al., A common variant in combination with a nonsense mutation in a member of the thioredoxin family causes primary ciliary dyskinesia"
+}

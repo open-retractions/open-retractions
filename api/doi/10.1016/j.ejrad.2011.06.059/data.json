@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.ejrad.2013.07.021","type":"err"},"doi":"10.1016/j.ejrad.2011.06.059","journal":"European Journal of Radiology","publisher":"Elsevier BV","title":"Corrigendum to ‘CT patterns of fungal pulmonary infections of the lung: Comparison of standard-dose and simulated low-dose CT’ [Eur. J. Radiol. 81 (2012) 2860–2866]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496039288649,
+      "identifier": {
+        "doi": "10.1016/j.ejrad.2013.07.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejrad.2011.06.059"
+  },
+  "journal": "European Journal of Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘CT patterns of fungal pulmonary infections of the lung: Comparison of standard-dose and simulated low-dose CT’ [Eur. J. Radiol. 81 (2012) 2860–2866]"
+}

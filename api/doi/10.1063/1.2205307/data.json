@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1154390400000,"doi":"10.1063/1.2337090","type":"erratum"},"doi":"10.1063/1.2205307","journal":"Physics of Fluids","publisher":"AIP Publishing","title":"Erratum: “A theoretical prediction of friction drag reduction in turbulent flow by superhydrophobic surfaces” [Phys. Fluids 18, 051703 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1154390400000,
+  "updates": [
+    {
+      "timestamp": 1495838477776,
+      "identifier": {
+        "doi": "10.1063/1.2337090"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2205307"
+  },
+  "journal": "Physics of Fluids",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A theoretical prediction of friction drag reduction in turbulent           flow by superhydrophobic surfaces” [Phys. Fluids 18, 051703           (2006)]"
+}

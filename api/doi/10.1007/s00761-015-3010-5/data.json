@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1471305600000,"doi":"10.1007/s00761-016-0104-7","type":"correction"},"doi":"10.1007/s00761-015-3010-5","journal":"Der Onkologe","publisher":"Springer Nature","title":"Erratum zu: Metastasiertes kolorektales Karzinom"}
+{
+  "retracted": false,
+  "timestamp": 1471305600000,
+  "updates": [
+    {
+      "timestamp": 1495738621167,
+      "identifier": {
+        "doi": "10.1007/s00761-016-0104-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00761-015-3010-5"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Metastasiertes kolorektales Karzinom"
+}

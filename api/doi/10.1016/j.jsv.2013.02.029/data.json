@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jsv.2014.04.002","type":"err"},"doi":"10.1016/j.jsv.2013.02.029","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Retraction notice to: “Flap side edge noise modeling and prediction” [J. Sound Vibr. 332 (2013) 3846–3868]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496042471059,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2013.02.029"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “Flap side edge noise modeling and prediction” [J. Sound Vibr. 332 (2013) 3846–3868]"
+}

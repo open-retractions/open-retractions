@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.actbio.2014.11.008","type":"err"},"doi":"10.1016/j.actbio.2013.09.041","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “The effect of nanoparticle degradation on poly(methacrylic acid)-coated quantum dot toxicity: The importance of particle functionality assessment in toxicology” [Acta Biomater. 10 (2014) 732–741]"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496022355508,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2014.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2013.09.041"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effect of nanoparticle degradation on poly(methacrylic acid)-coated quantum dot toxicity: The importance of particle functionality assessment in toxicology” [Acta Biomater. 10 (2014) 732–741]"
+}

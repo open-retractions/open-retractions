@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466121600000,"doi":"10.1186/s13059-016-0958-4","type":"correction"},"doi":"10.1186/s13059-016-0871-x","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Variation in 5-hydroxymethylcytosine across human cortex and cerebellum"}
+{
+  "retracted": false,
+  "timestamp": 1466121600000,
+  "updates": [
+    {
+      "timestamp": 1495721137837,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0958-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-0871-x"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Variation in 5-hydroxymethylcytosine across human cortex and cerebellum"
+}

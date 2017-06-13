@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435017600000,"doi":"10.1073/pnas.1509993112","type":"correction"},"doi":"10.1073/pnas.1502000112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Migliore et al., Sensing of molecules using quantum dynamics"}
+{
+  "retracted": false,
+  "timestamp": 1435017600000,
+  "updates": [
+    {
+      "timestamp": 1496002818968,
+      "identifier": {
+        "doi": "10.1073/pnas.1509993112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1502000112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Migliore et al., Sensing of molecules using quantum dynamics"
+}

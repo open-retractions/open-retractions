@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.knosys.2015.01.012","type":"err"},"doi":"10.1016/j.knosys.2013.05.011","journal":"Knowledge-Based Systems","publisher":"Elsevier BV","title":"Erratum to “Hesitant fuzzy multi-attribute decision making based on TOPSIS with incomplete weight information” [Knowl. Based Syst. 52 (2013) 53–64]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496041082128,
+      "identifier": {
+        "doi": "10.1016/j.knosys.2015.01.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.knosys.2013.05.011"
+  },
+  "journal": "Knowledge-Based Systems",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hesitant fuzzy multi-attribute decision making based on TOPSIS with incomplete weight information” [Knowl. Based Syst. 52 (2013) 53–64]"
+}

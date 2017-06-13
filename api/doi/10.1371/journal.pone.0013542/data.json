@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1296432000000,"doi":"10.1371/annotation/a67c3a69-ce0c-49bf-a592-761c3e741c73","type":"correction"},"doi":"10.1371/journal.pone.0013542","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Single Cell Deposition and Patterning with a Robotic System"}
+{
+  "retracted": false,
+  "timestamp": 1296432000000,
+  "updates": [
+    {
+      "timestamp": 1495923543951,
+      "identifier": {
+        "doi": "10.1371/annotation/a67c3a69-ce0c-49bf-a592-761c3e741c73"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0013542"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Single Cell Deposition and Patterning with a Robotic System"
+}

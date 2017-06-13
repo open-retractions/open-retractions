@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435795200000,"doi":"10.1007/s00795-015-0113-4","type":"correction"},"doi":"10.1007/s00795-015-0105-4","journal":"Medical Molecular Morphology","publisher":"Springer Nature","title":"Erratum to: ATP-association to intrabacterial nanotransportation system in Vibrio cholerae"}
+{
+  "retracted": false,
+  "timestamp": 1435795200000,
+  "updates": [
+    {
+      "timestamp": 1496010150002,
+      "identifier": {
+        "doi": "10.1007/s00795-015-0113-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00795-015-0105-4"
+  },
+  "journal": "Medical Molecular Morphology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ATP-association to intrabacterial nanotransportation system in Vibrio cholerae"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456876800000,"doi":"10.1186/s12918-016-0267-2","type":"correction"},"doi":"10.1186/s12918-015-0216-5","journal":"BMC Systems Biology","publisher":"Springer Nature","title":"Erratum to: ‘Conditional robustness analysis for fragility discovery and target identification in biochemical networks and in cancer systems biology’"}
+{
+  "retracted": false,
+  "timestamp": 1456876800000,
+  "updates": [
+    {
+      "timestamp": 1495649565324,
+      "identifier": {
+        "doi": "10.1186/s12918-016-0267-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12918-015-0216-5"
+  },
+  "journal": "BMC Systems Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Conditional robustness analysis for fragility discovery and target identification in biochemical networks and in cancer systems biology’"
+}

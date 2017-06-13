@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409702400000,"doi":"10.4161/rna.36205","type":"correction"},"doi":"10.4161/rna.24604","journal":"RNA Biology","publisher":"Informa UK Limited","title":"Correction to RNA Biology Volume 10, Issue 6"}
+{
+  "retracted": false,
+  "timestamp": 1409702400000,
+  "updates": [
+    {
+      "timestamp": 1496005030343,
+      "identifier": {
+        "doi": "10.4161/rna.36205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/rna.24604"
+  },
+  "journal": "RNA Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Correction to RNA Biology Volume 10, Issue 6"
+}

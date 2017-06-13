@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1038/srep31677","type":"correction"},"doi":"10.1038/srep24396","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Electron pair escape from fullerene cage via collective modes"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495740763719,
+      "identifier": {
+        "doi": "10.1038/srep31677"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep24396"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Electron pair escape from fullerene cage via collective modes"
+}

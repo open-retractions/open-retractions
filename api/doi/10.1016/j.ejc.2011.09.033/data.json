@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.ejc.2013.04.003","type":"err"},"doi":"10.1016/j.ejc.2011.09.033","journal":"European Journal of Combinatorics","publisher":"Elsevier BV","title":"Corrigendum to “Preface, EuroComb ’09” [European J. Combin. 33 (2012) 685–687]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496014792331,
+      "identifier": {
+        "doi": "10.1016/j.ejc.2013.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejc.2011.09.033"
+  },
+  "journal": "European Journal of Combinatorics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preface, EuroComb ’09” [European J. Combin. 33 (2012) 685–687]"
+}

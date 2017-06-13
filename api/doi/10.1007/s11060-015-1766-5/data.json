@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443484800000,"doi":"10.1007/s11060-015-1946-3","type":"correction"},"doi":"10.1007/s11060-015-1766-5","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Survival prediction in high-grade gliomas using CT perfusion imaging"}
+{
+  "retracted": false,
+  "timestamp": 1443484800000,
+  "updates": [
+    {
+      "timestamp": 1496033431421,
+      "identifier": {
+        "doi": "10.1007/s11060-015-1946-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-015-1766-5"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Survival prediction in high-grade gliomas using CT perfusion imaging"
+}

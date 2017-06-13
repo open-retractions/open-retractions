@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.bandc.2016.09.001","type":"err"},"doi":"10.1016/j.bandc.2012.01.006","journal":"Brain and Cognition","publisher":"Elsevier BV","title":"Erratum to “Impaired executive functions in subjects with frequent nightmares as reflected by performance in different neuropsychological tasks” [Brain Cognit. 78 (2012) 274–283]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495644190955,
+      "identifier": {
+        "doi": "10.1016/j.bandc.2016.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bandc.2012.01.006"
+  },
+  "journal": "Brain and Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Impaired executive functions in subjects with frequent nightmares as reflected by performance in different neuropsychological tasks” [Brain Cognit. 78 (2012) 274–283]"
+}

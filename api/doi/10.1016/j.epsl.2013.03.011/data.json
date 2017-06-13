@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1016/j.epsl.2015.10.011","type":"erratum"},"doi":"10.1016/j.epsl.2013.03.011","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “Wind as the primary driver of erosion in the Qaidam Basin, China” [Earth Planet. Sci. Lett. 374 (2013) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496039414397,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2015.10.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2013.03.011"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Wind as the primary driver of erosion in the Qaidam Basin, China” [Earth Planet. Sci. Lett. 374 (2013) 1–10]"
+}

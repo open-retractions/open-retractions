@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392422400000,"doi":"10.1016/j.optcom.2013.09.069","type":"err"},"doi":"10.1016/s0030-4018(02)01863-1","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Optical radiation flux illuminating a circular disk from an off-axis point source through two different homogeneous refractive media” [Opt. Commun. 211 (2002) 15–30]"}
+{
+  "retracted": false,
+  "timestamp": 1392422400000,
+  "updates": [
+    {
+      "timestamp": 1495992135593,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.09.069"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0030-4018(02)01863-1"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Optical radiation flux illuminating a circular disk from an off-axis point source through two different homogeneous refractive media” [Opt. Commun. 211 (2002) 15–30]"
+}

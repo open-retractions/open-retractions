@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405641600000,"doi":"10.1007/s10600-014-1029-2","type":"correction"},"doi":"10.1007/s10600-014-0950-8","journal":"Chemistry of Natural Compounds","publisher":"Springer Nature","title":"Erratum to: Anthraquinones of Rubia jesoensis Roots"}
+{
+  "retracted": false,
+  "timestamp": 1405641600000,
+  "updates": [
+    {
+      "timestamp": 1496054454812,
+      "identifier": {
+        "doi": "10.1007/s10600-014-1029-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10600-014-0950-8"
+  },
+  "journal": "Chemistry of Natural Compounds",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Anthraquinones of Rubia jesoensis Roots"
+}

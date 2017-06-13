@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371081600000,"doi":"10.1007/s00484-013-0694-3","type":"correction"},"doi":"10.1007/s00484-012-0615-x","journal":"International Journal of Biometeorology","publisher":"Springer Nature","title":"Erratum to: IPHEN—a real-time network for phenological monitoring and modelling in Italy"}
+{
+  "retracted": false,
+  "timestamp": 1371081600000,
+  "updates": [
+    {
+      "timestamp": 1496025246319,
+      "identifier": {
+        "doi": "10.1007/s00484-013-0694-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00484-012-0615-x"
+  },
+  "journal": "International Journal of Biometeorology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: IPHEN—a real-time network for phenological monitoring and modelling in Italy"
+}

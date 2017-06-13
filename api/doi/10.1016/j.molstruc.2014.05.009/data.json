@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415145600000,"doi":"10.1016/j.molstruc.2014.08.017","type":"err"},"doi":"10.1016/j.molstruc.2014.05.009","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis, characterization and density functional theory study of some new 2-anilinothiazoles” [J. Mol. Struct. 1072 (2014) 221–227]"}
+{
+  "retracted": false,
+  "timestamp": 1415145600000,
+  "updates": [
+    {
+      "timestamp": 1496002808294,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2014.08.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2014.05.009"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis, characterization and density functional theory study of some new 2-anilinothiazoles” [J. Mol. Struct. 1072 (2014) 221–227]"
+}

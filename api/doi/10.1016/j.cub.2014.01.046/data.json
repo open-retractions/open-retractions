@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402876800000,"doi":"10.1016/j.cub.2014.05.051","type":"err"},"doi":"10.1016/j.cub.2014.01.046","journal":"Current Biology","publisher":"Elsevier BV","title":"Human Hippocampus Arbitrates Approach-Avoidance Conflict"}
+{
+  "retracted": false,
+  "timestamp": 1402876800000,
+  "updates": [
+    {
+      "timestamp": 1496045966319,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.05.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2014.01.046"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Human Hippocampus Arbitrates Approach-Avoidance Conflict"
+}

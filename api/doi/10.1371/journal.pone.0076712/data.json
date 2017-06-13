@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386892800000,"doi":"10.1371/annotation/4e8e4899-e014-4b98-962d-d2bf44a35229","type":"correction"},"doi":"10.1371/journal.pone.0076712","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Evaluating Status Change of Soil Potassium from Path Model"}
+{
+  "retracted": false,
+  "timestamp": 1386892800000,
+  "updates": [
+    {
+      "timestamp": 1496004985722,
+      "identifier": {
+        "doi": "10.1371/annotation/4e8e4899-e014-4b98-962d-d2bf44a35229"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0076712"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evaluating Status Change of Soil Potassium from Path Model"
+}

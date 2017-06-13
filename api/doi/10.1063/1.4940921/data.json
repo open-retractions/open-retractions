@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.1063/1.4942616","type":"correction"},"doi":"10.1063/1.4940921","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “H-bonding of an NH3 gas molecule to H2O/Pt(111) — A barrier-free path” [J. Chem. Phys. 144, 054701 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495646663418,
+      "identifier": {
+        "doi": "10.1063/1.4942616"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4940921"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “H-bonding of an NH3 gas molecule to H2O/Pt(111) — A barrier-free path” [J. Chem. Phys. 144, 054701 (2016)]"
+}

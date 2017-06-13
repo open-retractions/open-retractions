@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1080/10717544.2016.1261764","type":"correction"},"doi":"10.1080/10717544.2016.1178824","journal":"Drug Delivery","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495658420729,
+      "identifier": {
+        "doi": "10.1080/10717544.2016.1261764"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10717544.2016.1178824"
+  },
+  "journal": "Drug Delivery",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

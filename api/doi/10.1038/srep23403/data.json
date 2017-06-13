@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464652800000,"doi":"10.1038/srep26917","type":"correction"},"doi":"10.1038/srep23403","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Glucagon-like peptide-1 prevents methylglyoxal-induced apoptosis of beta cells through improving mitochondrial function and suppressing prolonged AMPK activation"}
+{
+  "retracted": false,
+  "timestamp": 1464652800000,
+  "updates": [
+    {
+      "timestamp": 1495717069485,
+      "identifier": {
+        "doi": "10.1038/srep26917"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep23403"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Glucagon-like peptide-1 prevents methylglyoxal-induced apoptosis of beta cells through improving mitochondrial function and suppressing prolonged AMPK activation"
+}

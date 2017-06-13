@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-47433600000,"doi":"10.1063/1.1669857","type":"erratum"},"doi":"10.1063/1.1701808","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Resonance Absorption of p‐Benzosemiquinone in the Zeeman Region"}
+{
+  "retracted": false,
+  "timestamp": -47433600000,
+  "updates": [
+    {
+      "timestamp": 1495807648360,
+      "identifier": {
+        "doi": "10.1063/1.1669857"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1701808"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Resonance Absorption of p‐Benzosemiquinone in the Zeeman Region"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.cemconcomp.2013.06.001","type":"err"},"doi":"10.1016/j.cemconcomp.2013.04.004","journal":"Cement and Concrete Composites","publisher":"Elsevier BV","title":"Corrigendum to “A numerical recipe for modelling hydration and heat flow in hardening concrete” [Cem. Concr. Compos. 40 (2013) 48–58]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496029230422,
+      "identifier": {
+        "doi": "10.1016/j.cemconcomp.2013.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cemconcomp.2013.04.004"
+  },
+  "journal": "Cement and Concrete Composites",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A numerical recipe for modelling hydration and heat flow in hardening concrete” [Cem. Concr. Compos. 40 (2013) 48–58]"
+}

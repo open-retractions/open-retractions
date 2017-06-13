@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.marpetgeo.2013.01.005","type":"err"},"doi":"10.1016/j.marpetgeo.2012.01.009","journal":"Marine and Petroleum Geology","publisher":"Elsevier BV","title":"Erratum to “Madbi-Biyadh/Qishn (!) petroleum system in the onshore Masila Basin of the Eastern Yemen” [Mar. Pet. Geol. 35 (2012), 116–127]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496013011168,
+      "identifier": {
+        "doi": "10.1016/j.marpetgeo.2013.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marpetgeo.2012.01.009"
+  },
+  "journal": "Marine and Petroleum Geology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Madbi-Biyadh/Qishn (!) petroleum system in the onshore Masila Basin of the Eastern Yemen” [Mar. Pet. Geol. 35 (2012), 116–127]"
+}

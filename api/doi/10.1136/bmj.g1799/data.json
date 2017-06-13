@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400544000000,"doi":"10.1136/bmj.g3440","type":"correction"},"doi":"10.1136/bmj.g1799","journal":"BMJ","publisher":"BMJ","title":"Painful diabetic neuropathy"}
+{
+  "retracted": false,
+  "timestamp": 1400544000000,
+  "updates": [
+    {
+      "timestamp": 1496039958589,
+      "identifier": {
+        "doi": "10.1136/bmj.g3440"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g1799"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Painful diabetic neuropathy"
+}

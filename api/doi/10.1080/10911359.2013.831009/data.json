@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442534400000,"doi":"10.1080/10911359.2015.1083833","type":"correction"},"doi":"10.1080/10911359.2013.831009","journal":"Journal of Human Behavior in the Social Environment","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1442534400000,
+  "updates": [
+    {
+      "timestamp": 1496031484252,
+      "identifier": {
+        "doi": "10.1080/10911359.2015.1083833"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10911359.2013.831009"
+  },
+  "journal": "Journal of Human Behavior in the Social Environment",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

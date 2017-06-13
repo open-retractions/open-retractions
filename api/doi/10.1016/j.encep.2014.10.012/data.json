@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.encep.2015.04.002","type":"err"},"doi":"10.1016/j.encep.2014.10.012","journal":"L'Encéphale","publisher":"Elsevier BV","title":"Erratum à « Bénéfices de la réduction de la consommation d’alcool : comment le faire avec nalméfène »[L’Encéphale 40 (6) (2014) 495–50]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496001328816,
+      "identifier": {
+        "doi": "10.1016/j.encep.2015.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.encep.2014.10.012"
+  },
+  "journal": "L'Encéphale",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Bénéfices de la réduction de la consommation d’alcool : comment le faire avec nalméfène »[L’Encéphale 40 (6) (2014) 495–50]"
+}

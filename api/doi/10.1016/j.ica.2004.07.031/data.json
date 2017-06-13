@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393200000000,"doi":"10.1016/j.ica.2014.01.004","type":"err"},"doi":"10.1016/j.ica.2004.07.031","journal":"Inorganica Chimica Acta","publisher":"Elsevier BV","title":"Retraction notice to “Advances in Organic Electro-Optic Materials and Processing” [Inorganica Chimica Acta 357 (2004) 3957–3966]"}
+{
+  "retracted": false,
+  "timestamp": 1393200000000,
+  "updates": [
+    {
+      "timestamp": 1496014823947,
+      "identifier": {
+        "doi": "10.1016/j.ica.2014.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ica.2004.07.031"
+  },
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Advances in Organic Electro-Optic Materials and Processing” [Inorganica Chimica Acta 357 (2004) 3957–3966]"
+}

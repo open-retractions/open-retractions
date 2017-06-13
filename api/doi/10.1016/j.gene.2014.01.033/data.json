@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1016/j.gene.2014.02.019","type":"err"},"doi":"10.1016/j.gene.2014.01.033","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “The first Japanese case of the arthrochalasia type of Ehlers–Danlos syndrome with COL1A2 gene mutation” [Gene 538 (2014) 199–203]"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496019613869,
+      "identifier": {
+        "doi": "10.1016/j.gene.2014.02.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2014.01.033"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The first Japanese case of the arthrochalasia type of Ehlers–Danlos syndrome with COL1A2 gene mutation” [Gene 538 (2014) 199–203]"
+}

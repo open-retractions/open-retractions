@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434412800000,"doi":"10.1080/1062726x.2015.1060841","type":"correction"},"doi":"10.1080/1062726x.2014.976827","journal":"Journal of Public Relations Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1434412800000,
+  "updates": [
+    {
+      "timestamp": 1496007951485,
+      "identifier": {
+        "doi": "10.1080/1062726x.2015.1060841"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1062726x.2014.976827"
+  },
+  "journal": "Journal of Public Relations Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

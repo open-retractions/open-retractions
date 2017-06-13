@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1007/s10495-016-1239-0","type":"correction"},"doi":"10.1007/s10495-016-1228-3","journal":"Apoptosis","publisher":"Springer Nature","title":"Erratum to: Suppression of c-Myc induces apoptosis via an AMPK/mTOR-dependent pathway by 4-O-methyl-ascochlorin in leukemia cells"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495658322298,
+      "identifier": {
+        "doi": "10.1007/s10495-016-1239-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10495-016-1228-3"
+  },
+  "journal": "Apoptosis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Suppression of c-Myc induces apoptosis via an AMPK/mTOR-dependent pathway by 4-O-methyl-ascochlorin in leukemia cells"
+}

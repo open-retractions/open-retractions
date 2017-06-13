@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489622400000,"doi":"10.1186/s13148-017-0323-9","type":"correction"},"doi":"10.1186/s13148-015-0167-0","journal":"Clinical Epigenetics","publisher":"Springer Nature","title":"Erratum to: “Monoallelic germline methylation and sequence variant in the promoter of the RB1 gene: a possible constitutive epimutation in hereditary retinoblastoma”"}
+{
+  "retracted": false,
+  "timestamp": 1489622400000,
+  "updates": [
+    {
+      "timestamp": 1495726685667,
+      "identifier": {
+        "doi": "10.1186/s13148-017-0323-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13148-015-0167-0"
+  },
+  "journal": "Clinical Epigenetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: “Monoallelic germline methylation and sequence variant in the promoter of the RB1 gene: a possible constitutive epimutation in hereditary retinoblastoma”"
+}

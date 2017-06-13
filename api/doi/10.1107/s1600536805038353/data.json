@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1137283200000,"doi":"10.1107/s1600536805041942","type":"correction"},"doi":"10.1107/s1600536805038353","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"Bis(thiosemicarbazide)zinc(II) bis(maleate) dihydrate. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1137283200000,
+  "updates": [
+    {
+      "timestamp": 1495980405532,
+      "identifier": {
+        "doi": "10.1107/s1600536805041942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536805038353"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Bis(thiosemicarbazide)zinc(II) bis(maleate) dihydrate. Erratum"
+}

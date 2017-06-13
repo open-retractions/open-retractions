@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.media.2015.01.006","type":"err"},"doi":"10.1016/j.media.2013.10.012","journal":"Medical Image Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Contour tracking in echocardiographic sequences via sparse representation and dictionary learning” [Med. Image Anal. 18 (2) (2014) 253–271]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496046166145,
+      "identifier": {
+        "doi": "10.1016/j.media.2015.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.media.2013.10.012"
+  },
+  "journal": "Medical Image Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Contour tracking in echocardiographic sequences via sparse representation and dictionary learning” [Med. Image Anal. 18 (2) (2014) 253–271]"
+}

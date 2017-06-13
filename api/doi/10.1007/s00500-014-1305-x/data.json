@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1007/s00500-014-1566-4","type":"correction"},"doi":"10.1007/s00500-014-1305-x","journal":"Soft Computing","publisher":"Springer Nature","title":"Erratum to: Application of soft computing techniques for modeling and analysis of MRR and taper in laser machining process as well as weld strength and weld width in laser welding process"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496034078079,
+      "identifier": {
+        "doi": "10.1007/s00500-014-1566-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00500-014-1305-x"
+  },
+  "journal": "Soft Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Application of soft computing techniques for modeling and analysis of MRR and taper in laser machining process as well as weld strength and weld width in laser welding process"
+}

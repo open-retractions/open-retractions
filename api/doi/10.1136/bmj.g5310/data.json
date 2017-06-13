@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410825600000,"doi":"10.1136/bmj.g5624","type":"correction"},"doi":"10.1136/bmj.g5310","journal":"BMJ","publisher":"BMJ","title":"Pitfalls of statistical hypothesis testing: multiple testing"}
+{
+  "retracted": false,
+  "timestamp": 1410825600000,
+  "updates": [
+    {
+      "timestamp": 1496006497180,
+      "identifier": {
+        "doi": "10.1136/bmj.g5624"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g5310"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Pitfalls of statistical hypothesis testing: multiple testing"
+}

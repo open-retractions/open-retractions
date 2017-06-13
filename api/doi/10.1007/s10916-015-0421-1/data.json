@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454544000000,"doi":"10.1007/s10916-016-0447-z","type":"correction"},"doi":"10.1007/s10916-015-0421-1","journal":"Journal of Medical Systems","publisher":"Springer Nature","title":"Erratum to: New Minimum Relative Humidity Requirements Are Expected to Lead to More Medical Device Failures"}
+{
+  "retracted": false,
+  "timestamp": 1454544000000,
+  "updates": [
+    {
+      "timestamp": 1495641812243,
+      "identifier": {
+        "doi": "10.1007/s10916-016-0447-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10916-015-0421-1"
+  },
+  "journal": "Journal of Medical Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: New Minimum Relative Humidity Requirements Are Expected to Lead to More Medical Device Failures"
+}

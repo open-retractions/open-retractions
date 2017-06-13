@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.cct.2016.09.001","type":"err"},"doi":"10.1016/j.cct.2016.07.013","journal":"Contemporary Clinical Trials","publisher":"Elsevier BV","title":"Corrigendum to “Design of the NIDA clinical trials network validation study of tobacco, alcohol, prescription medications, and substance use/misuse (TAPS) tool” [Contemporary Clinical Trials. 2016 Jul. 19; 50: 90–97]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495642531760,
+      "identifier": {
+        "doi": "10.1016/j.cct.2016.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cct.2016.07.013"
+  },
+  "journal": "Contemporary Clinical Trials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design of the NIDA clinical trials network validation study of tobacco, alcohol, prescription medications, and substance use/misuse (TAPS) tool” [Contemporary Clinical Trials. 2016 Jul. 19; 50: 90–97]"
+}

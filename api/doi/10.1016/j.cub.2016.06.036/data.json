@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1016/j.cub.2016.08.046","type":"err"},"doi":"10.1016/j.cub.2016.06.036","journal":"Current Biology","publisher":"Elsevier BV","title":"Neural Inhibition of Dopaminergic Signaling Enhances Immunity in a Cell-Non-autonomous Manner"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495641339133,
+      "identifier": {
+        "doi": "10.1016/j.cub.2016.08.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2016.06.036"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Neural Inhibition of Dopaminergic Signaling Enhances Immunity in a Cell-Non-autonomous Manner"
+}

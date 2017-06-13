@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1359417600000,"doi":"10.1007/s10838-012-9203-3","type":"correction"},"doi":"10.1007/s10838-012-9188-y","journal":"Journal for General Philosophy of Science","publisher":"Springer Nature","title":"Erratum to: Issue 43, 1 (2012)"}
+{
+  "retracted": false,
+  "timestamp": 1359417600000,
+  "updates": [
+    {
+      "timestamp": 1495990494025,
+      "identifier": {
+        "doi": "10.1007/s10838-012-9203-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10838-012-9188-y"
+  },
+  "journal": "Journal for General Philosophy of Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Issue 43, 1 (2012)"
+}

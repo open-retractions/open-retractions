@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387411200000,"doi":"10.1371/annotation/7e304601-fc5c-40fe-857c-d6ea894d1647","type":"correction"},"doi":"10.1371/journal.pone.0062803","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Equivalent Indels – Ambiguous Functional Classes and Redundancy in Databases"}
+{
+  "retracted": false,
+  "timestamp": 1387411200000,
+  "updates": [
+    {
+      "timestamp": 1496006089185,
+      "identifier": {
+        "doi": "10.1371/annotation/7e304601-fc5c-40fe-857c-d6ea894d1647"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0062803"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Equivalent Indels – Ambiguous Functional Classes and Redundancy in Databases"
+}

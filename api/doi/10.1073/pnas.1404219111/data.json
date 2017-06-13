@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412035200000,"doi":"10.1073/pnas.1416630111","type":"correction"},"doi":"10.1073/pnas.1404219111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sun et al., Kaposi’s sarcoma-associated herpesvirus LANA recruits the DNA polymerase clamp loader to mediate efficient replication and virus persistence"}
+{
+  "retracted": false,
+  "timestamp": 1412035200000,
+  "updates": [
+    {
+      "timestamp": 1496006117343,
+      "identifier": {
+        "doi": "10.1073/pnas.1416630111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1404219111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sun et al., Kaposi’s sarcoma-associated herpesvirus LANA recruits the DNA polymerase clamp loader to mediate efficient replication and virus persistence"
+}

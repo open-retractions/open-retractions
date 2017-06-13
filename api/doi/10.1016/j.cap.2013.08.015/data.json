@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.cap.2014.01.009","type":"err"},"doi":"10.1016/j.cap.2013.08.015","journal":"Current Applied Physics","publisher":"Elsevier BV","title":"Corrigendum to “Low-temperature sintering of KNN with excess alkaline elements and the study of its ferroelectric domain structure” [Curr. Appl. Phys. 13 (2013) 2082–2086]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496019203676,
+      "identifier": {
+        "doi": "10.1016/j.cap.2014.01.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cap.2013.08.015"
+  },
+  "journal": "Current Applied Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low-temperature sintering of KNN with excess alkaline elements and the study of its ferroelectric domain structure” [Curr. Appl. Phys. 13 (2013) 2082–2086]"
+}

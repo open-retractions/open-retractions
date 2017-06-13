@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.econlet.2016.06.004","type":"err"},"doi":"10.1016/j.econlet.2016.01.028","journal":"Economics Letters","publisher":"Elsevier BV","title":"Corrigendum to “The impossibility of extending random dictatorship to weak preferences” [Econom. Lett. 141 (2016) 44–47]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495721524832,
+      "identifier": {
+        "doi": "10.1016/j.econlet.2016.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.econlet.2016.01.028"
+  },
+  "journal": "Economics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The impossibility of extending random dictatorship to weak preferences” [Econom. Lett. 141 (2016) 44–47]"
+}

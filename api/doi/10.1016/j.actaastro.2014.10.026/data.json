@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.actaastro.2016.12.017","type":"erratum"},"doi":"10.1016/j.actaastro.2014.10.026","journal":"Acta Astronautica","publisher":"Elsevier BV","title":"Corrigendum to “Dynamic modeling and optimization for space logistics using time-expanded networks” [Acta Astronaut. 105 (2014) 428–443]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495668431633,
+      "identifier": {
+        "doi": "10.1016/j.actaastro.2016.12.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actaastro.2014.10.026"
+  },
+  "journal": "Acta Astronautica",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dynamic modeling and optimization for space logistics using time-expanded networks” [Acta Astronaut. 105 (2014) 428–443]"
+}

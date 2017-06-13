@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357257600000,"doi":"10.1118/1.4770282","type":"erratum"},"doi":"10.1118/1.4754587","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Optimization of K-edge imaging with spectral CT” [Med. Phys. 39(11), 6572-6579 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1357257600000,
+  "updates": [
+    {
+      "timestamp": 1495983281831,
+      "identifier": {
+        "doi": "10.1118/1.4770282"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4754587"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Optimization of K-edge imaging with spectral CT” [Med. Phys. 39(11), 6572-6579 (2012)]"
+}

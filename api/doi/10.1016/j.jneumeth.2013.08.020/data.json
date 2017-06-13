@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.jneumeth.2015.05.002","type":"err"},"doi":"10.1016/j.jneumeth.2013.08.020","journal":"Journal of Neuroscience Methods","publisher":"Elsevier BV","title":"Corrigendum to “Bayesian reconstruction of multiscale local contrast images from brain activity” [J. Neurosci. Methods 220 (2013) 39–45]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1496000288289,
+      "identifier": {
+        "doi": "10.1016/j.jneumeth.2015.05.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneumeth.2013.08.020"
+  },
+  "journal": "Journal of Neuroscience Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bayesian reconstruction of multiscale local contrast images from brain activity” [J. Neurosci. Methods 220 (2013) 39–45]"
+}

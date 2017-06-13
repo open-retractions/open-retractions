@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1325376000000,"doi":"10.1016/j.ijoa.2011.10.004","type":"err"},"doi":"10.1016/j.ijoa.2011.05.002","journal":"International Journal of Obstetric Anesthesia","publisher":"Elsevier BV","title":"Erratum to “In reply: The use of thromboelastography for the peripartum management of a patient with storage pool disorder” [Int J Obstet Anesth 20 (2011) 361]"}
+{
+  "retracted": false,
+  "timestamp": 1325376000000,
+  "updates": [
+    {
+      "timestamp": 1495833944519,
+      "identifier": {
+        "doi": "10.1016/j.ijoa.2011.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijoa.2011.05.002"
+  },
+  "journal": "International Journal of Obstetric Anesthesia",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “In reply: The use of thromboelastography for the peripartum management of a patient with storage pool disorder” [Int J Obstet Anesth 20 (2011) 361]"
+}

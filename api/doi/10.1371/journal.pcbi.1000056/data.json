@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1246406400000,"doi":"10.1371/annotation/43fd4ca3-0996-462c-ad89-395c369cbaa2","type":"correction"},"doi":"10.1371/journal.pcbi.1000056","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: A Generalized Allosteric Mechanism for cis-Regulated Cyclic Nucleotide Binding Domains"}
+{
+  "retracted": false,
+  "timestamp": 1246406400000,
+  "updates": [
+    {
+      "timestamp": 1496025198054,
+      "identifier": {
+        "doi": "10.1371/annotation/43fd4ca3-0996-462c-ad89-395c369cbaa2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000056"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Generalized Allosteric Mechanism for cis-Regulated Cyclic Nucleotide Binding Domains"
+}

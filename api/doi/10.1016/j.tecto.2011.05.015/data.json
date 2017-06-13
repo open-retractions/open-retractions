@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390608000000,"doi":"10.1016/j.tecto.2013.11.031","type":"err"},"doi":"10.1016/j.tecto.2011.05.015","journal":"Tectonophysics","publisher":"Elsevier BV","title":"Corrigendum to “Numerical modelling of magma transport in dykes” [Tectonophysics 526–529 (2012) 97–109]"}
+{
+  "retracted": false,
+  "timestamp": 1390608000000,
+  "updates": [
+    {
+      "timestamp": 1496003632509,
+      "identifier": {
+        "doi": "10.1016/j.tecto.2013.11.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tecto.2011.05.015"
+  },
+  "journal": "Tectonophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Numerical modelling of magma transport in dykes” [Tectonophysics 526–529 (2012) 97–109]"
+}

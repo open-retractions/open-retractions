@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457568000000,"doi":"10.1016/j.electacta.2016.03.045","type":"erratum"},"doi":"10.1016/j.electacta.2016.01.130","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Electrochemical processes for the environmental remediation of toxic Cr(VI) : A review’ [Electrochimica Acta 191 (2016) 1044–1055]"}
+{
+  "retracted": false,
+  "timestamp": 1457568000000,
+  "updates": [
+    {
+      "timestamp": 1495655337591,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2016.03.045"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2016.01.130"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Electrochemical processes for the environmental remediation of toxic Cr(VI) : A review’ [Electrochimica Acta 191 (2016) 1044–1055]"
+}

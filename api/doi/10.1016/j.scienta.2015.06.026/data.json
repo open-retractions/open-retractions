@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1016/j.scienta.2015.07.033","type":"err"},"doi":"10.1016/j.scienta.2015.06.026","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Corrigendum to “the significance of postharvest disinfection for prevention of internal decay of table grapes after storage” Sci. Hortic. 192 (2015) 346–349"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1496059761474,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2015.07.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2015.06.026"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “the significance of postharvest disinfection for prevention of internal decay of table grapes after storage” Sci. Hortic. 192 (2015) 346–349"
+}

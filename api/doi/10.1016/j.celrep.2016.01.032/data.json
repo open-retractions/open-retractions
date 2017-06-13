@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1455580800000,"update":{"timestamp":null,"doi":null,"pmid":27145170,"type":"retraction"},"doi":"10.1016/j.celrep.2016.01.032","journal":"Cell reports","publisher":null,"title":"Gut-Colonizing Bacteria Promote C. elegans Innate Immunity by Producing Nitric Oxide."}
+{
+  "retracted": false,
+  "timestamp": 1462233600000,
+  "updates": [
+    {
+      "timestamp": 1495672725264,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.04.068"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2016.01.032"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: Gut-Colonizing Bacteria Promote C. elegans Innate Immunity by Producing Nitric Oxide"
+}

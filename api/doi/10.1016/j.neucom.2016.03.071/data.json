@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1016/j.neucom.2016.09.047","type":"erratum"},"doi":"10.1016/j.neucom.2016.03.071","journal":"Neurocomputing","publisher":"Elsevier BV","title":"Corrigendum to “How many clusters? A robust PSO-based local density model” [Neurocomputing 207 (2016) 264–275]"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495649570085,
+      "identifier": {
+        "doi": "10.1016/j.neucom.2016.09.047"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neucom.2016.03.071"
+  },
+  "journal": "Neurocomputing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “How many clusters? A robust PSO-based local density model” [Neurocomputing 207 (2016) 264–275]"
+}

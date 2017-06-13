@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.ijggc.2014.08.005","type":"err"},"doi":"10.1016/j.ijggc.2013.01.009","journal":"International Journal of Greenhouse Gas Control","publisher":"Elsevier BV","title":"Corrigendum to “A new simplified pressure/vacuum swing adsorption model for rapid adsorbent screening for CO2 capture applications” [Int. J. Greenh. Gas Control 15 (2013) 16–31]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496004008488,
+      "identifier": {
+        "doi": "10.1016/j.ijggc.2014.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijggc.2013.01.009"
+  },
+  "journal": "International Journal of Greenhouse Gas Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new simplified pressure/vacuum swing adsorption model for rapid adsorbent screening for CO2 capture applications” [Int. J. Greenh. Gas Control 15 (2013) 16–31]"
+}

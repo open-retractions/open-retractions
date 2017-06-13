@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.icarus.2016.11.006","type":"erratum"},"doi":"10.1016/j.icarus.2016.07.013","journal":"Icarus","publisher":"Elsevier BV","title":"Corrigendum to “Laboratory measurements of the 5–20 cm wavelength opacity of ammonia, water vapor, and methane under simulated conditions for the deep jovian atmosphere” [Icarus 280 (2016) 255–267]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495656085669,
+      "identifier": {
+        "doi": "10.1016/j.icarus.2016.11.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.icarus.2016.07.013"
+  },
+  "journal": "Icarus",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Laboratory measurements of the 5–20 cm wavelength opacity of ammonia, water vapor, and methane under simulated conditions for the deep jovian atmosphere” [Icarus 280 (2016) 255–267]"
+}

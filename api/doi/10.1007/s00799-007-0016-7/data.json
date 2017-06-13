@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1183075200000,"doi":"10.1007/s00799-007-0025-6","type":"correction"},"doi":"10.1007/s00799-007-0016-7","journal":"International Journal on Digital Libraries","publisher":"Springer Nature","title":"Pathways: augmenting interoperability across scholarly repositories"}
+{
+  "retracted": false,
+  "timestamp": 1183075200000,
+  "updates": [
+    {
+      "timestamp": 1495903190390,
+      "identifier": {
+        "doi": "10.1007/s00799-007-0025-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00799-007-0016-7"
+  },
+  "journal": "International Journal on Digital Libraries",
+  "publisher": "Springer Nature",
+  "title": "Pathways: augmenting interoperability across scholarly repositories"
+}

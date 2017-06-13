@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366761600000,"doi":"10.1063/1.4802826","type":"correction"},"doi":"10.1063/1.4750239","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Hopping photoconductivity in an exponential density of states” [Appl. Phys. Lett. 101, 103307 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1366761600000,
+  "updates": [
+    {
+      "timestamp": 1496014624710,
+      "identifier": {
+        "doi": "10.1063/1.4802826"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4750239"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Hopping photoconductivity in an exponential density of states” [Appl. Phys. Lett. 101, 103307 (2012)]"
+}

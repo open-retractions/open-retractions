@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481587200000,"doi":"10.1016/j.celrep.2016.12.007","type":"erratum"},"doi":"10.1016/j.celrep.2016.09.065","journal":"Cell Reports","publisher":"Elsevier BV","title":"Sustained Rhythmic Brain Activity Underlies Visual Motion Perception in Zebrafish"}
+{
+  "retracted": false,
+  "timestamp": 1481587200000,
+  "updates": [
+    {
+      "timestamp": 1495666721807,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.12.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2016.09.065"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Sustained Rhythmic Brain Activity Underlies Visual Motion Perception in Zebrafish"
+}

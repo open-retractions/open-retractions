@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1080/1060586x.2015.1073906","type":"correction"},"doi":"10.1080/1060586x.2015.1053723","journal":"Post-Soviet Affairs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496019553364,
+      "identifier": {
+        "doi": "10.1080/1060586x.2015.1073906"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1060586x.2015.1053723"
+  },
+  "journal": "Post-Soviet Affairs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

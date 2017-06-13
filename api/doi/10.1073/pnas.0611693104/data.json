@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1191283200000,"doi":"10.1073/pnas.0708144104","type":"correction"},"doi":"10.1073/pnas.0611693104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Scott et al., A phase I clinical trial with monoclonal antibody ch806 targeting transitional state and mutant epidermal growth factor receptors"}
+{
+  "retracted": false,
+  "timestamp": 1191283200000,
+  "updates": [
+    {
+      "timestamp": 1495976942233,
+      "identifier": {
+        "doi": "10.1073/pnas.0708144104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0611693104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Scott et al., A phase I clinical trial with monoclonal antibody ch806 targeting transitional state and mutant epidermal growth factor receptors"
+}

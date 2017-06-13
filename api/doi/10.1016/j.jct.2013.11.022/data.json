@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jct.2015.03.025","type":"err"},"doi":"10.1016/j.jct.2013.11.022","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Studies on sodium dodecylsulfate in aqueous and in aqueous amino acid solutions: Volumetric and viscometric approaches” [J. Chem. Thermodyn. 71 (2014) 6–13]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496058277319,
+      "identifier": {
+        "doi": "10.1016/j.jct.2015.03.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.11.022"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Studies on sodium dodecylsulfate in aqueous and in aqueous amino acid solutions: Volumetric and viscometric approaches” [J. Chem. Thermodyn. 71 (2014) 6–13]"
+}

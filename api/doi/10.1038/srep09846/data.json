@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1038/srep14588","type":"correction"},"doi":"10.1038/srep09846","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Sound Packing DNA: packing open circular DNA with low-intensity ultrasound"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496035007570,
+      "identifier": {
+        "doi": "10.1038/srep14588"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09846"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Sound Packing DNA: packing open circular DNA with low-intensity ultrasound"
+}

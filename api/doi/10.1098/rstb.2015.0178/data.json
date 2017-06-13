@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478304000000,"doi":"10.1098/rstb.2016.0373","type":"correction"},"doi":"10.1098/rstb.2015.0178","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Increasing western US forest wildfire activity: sensitivity to changes in the timing of spring’: Table 3."}
+{
+  "retracted": false,
+  "timestamp": 1478304000000,
+  "updates": [
+    {
+      "timestamp": 1495643358725,
+      "identifier": {
+        "doi": "10.1098/rstb.2016.0373"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2015.0178"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Increasing western US forest wildfire activity: sensitivity to changes in the timing of spring’: Table 3."
+}

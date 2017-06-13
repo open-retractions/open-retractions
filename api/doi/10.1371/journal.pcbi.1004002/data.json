@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1371/journal.pcbi.1004380","type":"correction"},"doi":"10.1371/journal.pcbi.1004002","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: When Less Is More: Non-monotonic Spike Sequence Processing in Neurons"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496035102164,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004380"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004002"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: When Less Is More: Non-monotonic Spike Sequence Processing in Neurons"
+}

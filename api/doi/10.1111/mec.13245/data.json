@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458864000000,"doi":"10.1111/mec.13600","type":"correction"},"doi":"10.1111/mec.13245","journal":"Molecular Ecology","publisher":"Wiley-Blackwell","title":"Erratum- Benestanet al. 2015"}
+{
+  "retracted": false,
+  "timestamp": 1458864000000,
+  "updates": [
+    {
+      "timestamp": 1495659425012,
+      "identifier": {
+        "doi": "10.1111/mec.13600"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/mec.13245"
+  },
+  "journal": "Molecular Ecology",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum- Benestanet al. 2015"
+}

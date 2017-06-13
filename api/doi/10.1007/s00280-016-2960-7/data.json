@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461024000000,"doi":"10.1007/s00280-016-3023-9","type":"correction"},"doi":"10.1007/s00280-016-2960-7","journal":"Cancer Chemotherapy and Pharmacology","publisher":"Springer Nature","title":"Erratum to: Investigation of ototoxicity of artesunate as add-on therapy in patients with metastatic or locally advanced breast cancer: new audiological results from a prospective, open, uncontrolled, monocentric phase I study"}
+{
+  "retracted": false,
+  "timestamp": 1461024000000,
+  "updates": [
+    {
+      "timestamp": 1495667442284,
+      "identifier": {
+        "doi": "10.1007/s00280-016-3023-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00280-016-2960-7"
+  },
+  "journal": "Cancer Chemotherapy and Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Investigation of ototoxicity of artesunate as add-on therapy in patients with metastatic or locally advanced breast cancer: new audiological results from a prospective, open, uncontrolled, monocentric phase I study"
+}

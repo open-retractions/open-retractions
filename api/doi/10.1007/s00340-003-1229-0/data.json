@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1104537600000,"doi":"10.1007/s00340-004-1690-4","type":"correction"},"doi":"10.1007/s00340-003-1229-0","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Optimization of a 1 mm thick PVA/acrylamide recording material to obtain holographic memories: method of preparation and holographic properties"}
+{
+  "retracted": false,
+  "timestamp": 1104537600000,
+  "updates": [
+    {
+      "timestamp": 1495837740016,
+      "identifier": {
+        "doi": "10.1007/s00340-004-1690-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-003-1229-0"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optimization of a 1 mm thick PVA/acrylamide recording material to obtain holographic memories: method of preparation and holographic properties"
+}

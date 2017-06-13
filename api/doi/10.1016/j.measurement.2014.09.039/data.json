@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.measurement.2014.11.001","type":"err"},"doi":"10.1016/j.measurement.2014.09.039","journal":"Measurement","publisher":"Elsevier BV","title":"Corrigendum to “Frequency estimation by iterative interpolation based on leakage compensation” [Measurement 59 (2015) 44–50]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496024225344,
+      "identifier": {
+        "doi": "10.1016/j.measurement.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.measurement.2014.09.039"
+  },
+  "journal": "Measurement",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Frequency estimation by iterative interpolation based on leakage compensation” [Measurement 59 (2015) 44–50]"
+}

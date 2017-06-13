@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452470400000,"doi":"10.1007/s10482-016-0648-y","type":"correction"},"doi":"10.1007/s10482-015-0583-3","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Faecalibaculum rodentium gen. nov., sp. nov., isolated from the faeces of a laboratory mouse"}
+{
+  "retracted": false,
+  "timestamp": 1452470400000,
+  "updates": [
+    {
+      "timestamp": 1496059238966,
+      "identifier": {
+        "doi": "10.1007/s10482-016-0648-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-015-0583-3"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Faecalibaculum rodentium gen. nov., sp. nov., isolated from the faeces of a laboratory mouse"
+}

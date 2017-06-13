@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1128/jvi.01711-15","type":"correction"},"doi":"10.1128/jvi.03219-12","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Bitzegeio et al., Adaptation to the Interferon-Induced Antiviral State by Human and Simian Immunodeficiency Viruses"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496026600193,
+      "identifier": {
+        "doi": "10.1128/jvi.01711-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.03219-12"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Bitzegeio et al., Adaptation to the Interferon-Induced Antiviral State by Human and Simian Immunodeficiency Viruses"
+}

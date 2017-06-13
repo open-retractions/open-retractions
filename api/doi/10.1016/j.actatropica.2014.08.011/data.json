@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.actatropica.2015.03.005","type":"err"},"doi":"10.1016/j.actatropica.2014.08.011","journal":"Acta Tropica","publisher":"Elsevier BV","title":"Corrigendum to “Retrospective study of human cystic echinococcosis in Italy based on the analysis of hospital discharge records between 2001 and 2012” [Acta Trop. 140 (2014) 91–96]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496049681864,
+      "identifier": {
+        "doi": "10.1016/j.actatropica.2015.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actatropica.2014.08.011"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Retrospective study of human cystic echinococcosis in Italy based on the analysis of hospital discharge records between 2001 and 2012” [Acta Trop. 140 (2014) 91–96]"
+}

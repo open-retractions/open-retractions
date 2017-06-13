@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395273600000,"doi":"10.1080/02582473.2014.903034","type":"correction"},"doi":"10.1080/02582473.2014.886810","journal":"South African Historical Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1395273600000,
+  "updates": [
+    {
+      "timestamp": 1496024626691,
+      "identifier": {
+        "doi": "10.1080/02582473.2014.903034"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02582473.2014.886810"
+  },
+  "journal": "South African Historical Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

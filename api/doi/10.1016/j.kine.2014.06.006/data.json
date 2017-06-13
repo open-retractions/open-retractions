@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.kine.2014.09.010","type":"err"},"doi":"10.1016/j.kine.2014.06.006","journal":"Kinésithérapie, la Revue","publisher":"Elsevier BV","title":"Erratum à « Cryothérapie corps entier : le frisson salvateur » [Kinesither. Rev. 14 (152–153) (2014) 38–40]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496008595554,
+      "identifier": {
+        "doi": "10.1016/j.kine.2014.09.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.kine.2014.06.006"
+  },
+  "journal": "Kinésithérapie, la Revue",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Cryothérapie corps entier : le frisson salvateur » [Kinesither. Rev. 14 (152–153) (2014) 38–40]"
+}

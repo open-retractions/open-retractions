@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202428800000,"doi":"10.1007/bf02733982","type":"correction"},"doi":"10.1007/bf02828811","journal":"Il Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Polarization effects in high-energy weak interactions"}
+{
+  "retracted": false,
+  "timestamp": 1202428800000,
+  "updates": [
+    {
+      "timestamp": 1495830247693,
+      "identifier": {
+        "doi": "10.1007/bf02733982"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02828811"
+  },
+  "journal": "Il Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Polarization effects in high-energy weak interactions"
+}

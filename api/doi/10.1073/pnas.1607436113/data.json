@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1073/pnas.1615763113","type":"correction"},"doi":"10.1073/pnas.1607436113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Pageon et al., Functional role of T-cell receptor nanoclusters in signal initiation and antigen discrimination"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495650096328,
+      "identifier": {
+        "doi": "10.1073/pnas.1615763113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1607436113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Pageon et al., Functional role of T-cell receptor nanoclusters in signal initiation and antigen discrimination"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394668800000,"doi":"10.1080/14786419.2014.899082","type":"correction"},"doi":"10.1080/14786419.2013.856903","journal":"Natural Product Research","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394668800000,
+  "updates": [
+    {
+      "timestamp": 1496025442194,
+      "identifier": {
+        "doi": "10.1080/14786419.2014.899082"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14786419.2013.856903"
+  },
+  "journal": "Natural Product Research",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.lfs.2016.12.014","type":"erratum"},"doi":"10.1016/j.lfs.2015.07.022","journal":"Life Sciences","publisher":"Elsevier BV","title":"Erratum to “Erythropoietin protects neuroblastoma cells against etoposide and vincristine by activating ERK and AKT pathways but has no effect in kidney cells” [Life Sci. 137(2015) 142–149]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495681534150,
+      "identifier": {
+        "doi": "10.1016/j.lfs.2016.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lfs.2015.07.022"
+  },
+  "journal": "Life Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Erythropoietin protects neuroblastoma cells against etoposide and vincristine by activating ERK and AKT pathways but has no effect in kidney cells” [Life Sci. 137(2015) 142–149]"
+}

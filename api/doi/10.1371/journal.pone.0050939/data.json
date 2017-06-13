@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366588800000,"doi":"10.1371/annotation/c4d2aff9-0c5c-4ebb-b1ed-efa69fc84d78","type":"correction"},"doi":"10.1371/journal.pone.0050939","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Probabilistic MRI Brain Anatomical Atlases Based on 1,000 Chinese Subjects"}
+{
+  "retracted": false,
+  "timestamp": 1366588800000,
+  "updates": [
+    {
+      "timestamp": 1496014292533,
+      "identifier": {
+        "doi": "10.1371/annotation/c4d2aff9-0c5c-4ebb-b1ed-efa69fc84d78"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050939"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Probabilistic MRI Brain Anatomical Atlases Based on 1,000 Chinese Subjects"
+}

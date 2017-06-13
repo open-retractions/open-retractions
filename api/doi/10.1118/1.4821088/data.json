@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1118/1.4886898","type":"erratum"},"doi":"10.1118/1.4821088","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Resolution modeling enhances PET imaging” [Med. Phys. 40, 120601 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496051430736,
+      "identifier": {
+        "doi": "10.1118/1.4886898"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4821088"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Resolution modeling enhances PET imaging” [Med. Phys. 40, 120601 (2013)]"
+}

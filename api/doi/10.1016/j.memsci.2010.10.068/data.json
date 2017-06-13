@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1016/j.memsci.2013.04.043","type":"err"},"doi":"10.1016/j.memsci.2010.10.068","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Membrane morphology and phase diagrams of mangiferin modified poly(amide)/poly(vinyl pyrrolidone) blends” [J. Membr. Sci. 367 (2011) 240–248]"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496019321457,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2013.04.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2010.10.068"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Membrane morphology and phase diagrams of mangiferin modified poly(amide)/poly(vinyl pyrrolidone) blends” [J. Membr. Sci. 367 (2011) 240–248]"
+}

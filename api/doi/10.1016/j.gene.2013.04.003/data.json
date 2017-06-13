@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487548800000,"doi":"10.1016/j.gene.2016.06.021","type":"erratum"},"doi":"10.1016/j.gene.2013.04.003","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Lactoferricin enhances BMP7-stimulated anabolic pathways in intervertebral disc cells” [Gene. 2013 Jul. 25; 524(2):282–91]"}
+{
+  "retracted": false,
+  "timestamp": 1487548800000,
+  "updates": [
+    {
+      "timestamp": 1495714993748,
+      "identifier": {
+        "doi": "10.1016/j.gene.2016.06.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2013.04.003"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lactoferricin enhances BMP7-stimulated anabolic pathways in intervertebral disc cells” [Gene. 2013 Jul. 25; 524(2):282–91]"
+}

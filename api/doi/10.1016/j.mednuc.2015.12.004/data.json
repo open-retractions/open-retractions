@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.mednuc.2016.03.138","type":"err"},"doi":"10.1016/j.mednuc.2015.12.004","journal":"Médecine Nucléaire","publisher":"Elsevier BV","title":"Erratum to “Recommendations to stage and assess the response to therapy of lymphomas with [18F]FDG-PET-CT” [Med. Nucl. 40 (1) (2016) 55–64]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495668788907,
+      "identifier": {
+        "doi": "10.1016/j.mednuc.2016.03.138"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mednuc.2015.12.004"
+  },
+  "journal": "Médecine Nucléaire",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Recommendations to stage and assess the response to therapy of lymphomas with [18F]FDG-PET-CT” [Med. Nucl. 40 (1) (2016) 55–64]"
+}

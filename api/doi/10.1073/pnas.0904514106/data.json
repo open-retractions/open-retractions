@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1253577600000,"doi":"10.1073/pnas.0910387106","type":"correction"},"doi":"10.1073/pnas.0904514106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Brantly et al., Sustained transgene expression despite T lymphocyte responses in a clinical trial of rAAV1-AAT gene therapy"}
+{
+  "retracted": false,
+  "timestamp": 1253577600000,
+  "updates": [
+    {
+      "timestamp": 1495973111387,
+      "identifier": {
+        "doi": "10.1073/pnas.0910387106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0904514106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Brantly et al., Sustained transgene expression despite T lymphocyte responses in a clinical trial of rAAV1-AAT gene therapy"
+}

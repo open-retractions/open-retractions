@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jnucmat.2014.12.091","type":"err"},"doi":"10.1016/j.jnucmat.2011.05.024","journal":"Journal of Nuclear Materials","publisher":"Elsevier BV","title":"Corrigendum to “Ab initio based rate theory model of radiation induced amorphization in β-SiC” [J. Nucl. Mater. 414 (2011) 431–439]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496033927835,
+      "identifier": {
+        "doi": "10.1016/j.jnucmat.2014.12.091"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnucmat.2011.05.024"
+  },
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ab initio based rate theory model of radiation induced amorphization in β-SiC” [J. Nucl. Mater. 414 (2011) 431–439]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.oceaneng.2015.06.027","type":"erratum"},"doi":"10.1016/j.oceaneng.2015.04.023","journal":"Ocean Engineering","publisher":"Elsevier BV","title":"Erratum to “Estimation of air pollution from the OGVs and its dispersion in a coastal area” [Ocean Eng. 101 (2015) 275–284]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496014265068,
+      "identifier": {
+        "doi": "10.1016/j.oceaneng.2015.06.027"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oceaneng.2015.04.023"
+  },
+  "journal": "Ocean Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Estimation of air pollution from the OGVs and its dispersion in a coastal area” [Ocean Eng. 101 (2015) 275–284]"
+}

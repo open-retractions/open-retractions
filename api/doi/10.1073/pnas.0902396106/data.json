@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1241481600000,"doi":"10.1073/pnas.1016270107","type":"correction"},"doi":"10.1073/pnas.0902396106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Friling et al., Efficient production of mesencephalic dopamine neurons by Lmx1a expression in embryonic stem cells"}
+{
+  "retracted": false,
+  "timestamp": 1241481600000,
+  "updates": [
+    {
+      "timestamp": 1495906861873,
+      "identifier": {
+        "doi": "10.1073/pnas.1016270107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0902396106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Friling et al., Efficient production of mesencephalic dopamine neurons by Lmx1a expression in embryonic stem cells"
+}

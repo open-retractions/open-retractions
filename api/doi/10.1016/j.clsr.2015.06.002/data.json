@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.clsr.2015.07.006","type":"err"},"doi":"10.1016/j.clsr.2015.06.002","journal":"Computer Law & Security Review","publisher":"Elsevier BV","title":"Erratum to “Editor's foreword” [2015] 31 CLSR 448–449"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496023803339,
+      "identifier": {
+        "doi": "10.1016/j.clsr.2015.07.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clsr.2015.06.002"
+  },
+  "journal": "Computer Law & Security Review",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Editor's foreword” [2015] 31 CLSR 448–449"
+}

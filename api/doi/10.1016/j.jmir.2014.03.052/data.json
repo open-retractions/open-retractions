@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jmir.2014.07.012","type":"err"},"doi":"10.1016/j.jmir.2014.03.052","journal":"Journal of Medical Imaging and Radiation Sciences","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496049772577,
+      "identifier": {
+        "doi": "10.1016/j.jmir.2014.07.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmir.2014.03.052"
+  },
+  "journal": "Journal of Medical Imaging and Radiation Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

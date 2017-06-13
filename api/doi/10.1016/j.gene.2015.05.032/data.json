@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.gene.2015.05.033","type":"err"},"doi":"10.1016/j.gene.2015.05.032","journal":"Gene","publisher":"Elsevier BV","title":"Erratum to ‘The Effect of Genetic Polymorphisms of TLR2 and TLR4 in Turkish Patients with Coronary Artery Disease’ [GENE (2015) 99–102]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496000654135,
+      "identifier": {
+        "doi": "10.1016/j.gene.2015.05.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2015.05.032"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘The Effect of Genetic Polymorphisms of TLR2 and TLR4 in Turkish Patients with Coronary Artery Disease’ [GENE (2015) 99–102]"
+}

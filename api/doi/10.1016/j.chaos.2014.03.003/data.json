@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.chaos.2015.08.013","type":"err"},"doi":"10.1016/j.chaos.2014.03.003","journal":"Chaos, Solitons & Fractals","publisher":"Elsevier BV","title":"Corrigendum to “Existence of quasi-periodic solutions of the real pendulum equation” [Chaos, Solitons & Fractals 62–63 (2014) 23–33]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496030080579,
+      "identifier": {
+        "doi": "10.1016/j.chaos.2015.08.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chaos.2014.03.003"
+  },
+  "journal": "Chaos, Solitons & Fractals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Existence of quasi-periodic solutions of the real pendulum equation” [Chaos, Solitons & Fractals 62–63 (2014) 23–33]"
+}

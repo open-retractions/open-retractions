@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.ejca.2016.11.001","type":"erratum"},"doi":"10.1016/j.ejca.2016.03.068","journal":"European Journal of Cancer","publisher":"Elsevier BV","title":"Corrigendum to ‘Targeting FGFR2 with alofanib (RPT835) shows potent activity in tumour models’ [Eur J Cancer 61 (2016) 20–28]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495663376404,
+      "identifier": {
+        "doi": "10.1016/j.ejca.2016.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejca.2016.03.068"
+  },
+  "journal": "European Journal of Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Targeting FGFR2 with alofanib (RPT835) shows potent activity in tumour models’ [Eur J Cancer 61 (2016) 20–28]"
+}

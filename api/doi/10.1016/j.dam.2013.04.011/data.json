@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434672000000,"doi":"10.1016/j.dam.2015.02.001","type":"err"},"doi":"10.1016/j.dam.2013.04.011","journal":"Discrete Applied Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “The distance spectral radius of digraphs”: [Discrete Appl. Math. 161 (2013) 2537–2543]"}
+{
+  "retracted": false,
+  "timestamp": 1434672000000,
+  "updates": [
+    {
+      "timestamp": 1495997449722,
+      "identifier": {
+        "doi": "10.1016/j.dam.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dam.2013.04.011"
+  },
+  "journal": "Discrete Applied Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The distance spectral radius of digraphs”: [Discrete Appl. Math. 161 (2013) 2537–2543]"
+}

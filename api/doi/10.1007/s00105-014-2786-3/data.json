@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1007/s00105-014-2806-3","type":"correction"},"doi":"10.1007/s00105-014-2786-3","journal":"Der Hautarzt","publisher":"Springer Nature","title":"Erratum zu: Basiswissen Hautadnextumoren"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038023409,
+      "identifier": {
+        "doi": "10.1007/s00105-014-2806-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00105-014-2786-3"
+  },
+  "journal": "Der Hautarzt",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Basiswissen Hautadnextumoren"
+}

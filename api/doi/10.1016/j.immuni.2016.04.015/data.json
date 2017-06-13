@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466467200000,"doi":"10.1016/j.immuni.2016.05.011","type":"erratum"},"doi":"10.1016/j.immuni.2016.04.015","journal":"Immunity","publisher":"Elsevier BV","title":"PSGL-1 Is an Immune Checkpoint Regulator that Promotes T Cell Exhaustion"}
+{
+  "retracted": false,
+  "timestamp": 1466467200000,
+  "updates": [
+    {
+      "timestamp": 1495722046672,
+      "identifier": {
+        "doi": "10.1016/j.immuni.2016.05.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.immuni.2016.04.015"
+  },
+  "journal": "Immunity",
+  "publisher": "Elsevier BV",
+  "title": "PSGL-1 Is an Immune Checkpoint Regulator that Promotes T Cell Exhaustion"
+}

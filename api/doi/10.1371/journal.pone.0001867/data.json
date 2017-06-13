@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1210896000000,"doi":"10.1371/annotation/9282f173-df82-4b70-9120-b4e62b3dacb1","type":"correction"},"doi":"10.1371/journal.pone.0001867","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Formation of Toxic Oligomeric α-Synuclein Species in Living Cells"}
+{
+  "retracted": false,
+  "timestamp": 1210896000000,
+  "updates": [
+    {
+      "timestamp": 1496213043473,
+      "identifier": {
+        "doi": "10.1371/annotation/9282f173-df82-4b70-9120-b4e62b3dacb1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0001867"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Formation of Toxic Oligomeric α-Synuclein Species in Living Cells"
+}

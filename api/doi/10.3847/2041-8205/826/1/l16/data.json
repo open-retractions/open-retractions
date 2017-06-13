@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491264000000,"doi":"10.3847/2041-8213/aa67e5","type":"correction"},"doi":"10.3847/2041-8205/826/1/l16","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"Erratum: “A Cloudiness Index for Transiting Exoplanets Based on the Sodium and Potassium Lines: Tentative Evidence for Hotter Atmospheres Being Less Cloudy at Visible Wavelengths” (2016, ApJL, 826, L16)"}
+{
+  "retracted": false,
+  "timestamp": 1491264000000,
+  "updates": [
+    {
+      "timestamp": 1495736524378,
+      "identifier": {
+        "doi": "10.3847/2041-8213/aa67e5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/2041-8205/826/1/l16"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "Erratum: “A Cloudiness Index for Transiting Exoplanets Based on the Sodium and Potassium Lines: Tentative Evidence for Hotter Atmospheres Being Less Cloudy at Visible Wavelengths” (2016, ApJL, 826, L16)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1312156800000,"doi":"10.1085/jgp.2010105791382c","type":"correction"},"doi":"10.1085/jgp.201010579","journal":"The Journal of General Physiology","publisher":"Rockefeller University Press","title":"Design principles for K+selectivity in membrane transport: Table I."}
+{
+  "retracted": false,
+  "timestamp": 1312156800000,
+  "updates": [
+    {
+      "timestamp": 1495969755504,
+      "identifier": {
+        "doi": "10.1085/jgp.2010105791382c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1085/jgp.201010579"
+  },
+  "journal": "The Journal of General Physiology",
+  "publisher": "Rockefeller University Press",
+  "title": "Design principles for K+selectivity in membrane transport: Table I."
+}

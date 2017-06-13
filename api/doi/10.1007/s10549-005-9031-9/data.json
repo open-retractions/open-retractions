@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1142467200000,"doi":"10.1007/s10549-006-9165-4","type":"correction"},"doi":"10.1007/s10549-005-9031-9","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: The latest is the greatest? Results of a structured lecture about aromatase inhibitor use for breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1142467200000,
+  "updates": [
+    {
+      "timestamp": 1495988287251,
+      "identifier": {
+        "doi": "10.1007/s10549-006-9165-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-005-9031-9"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The latest is the greatest? Results of a structured lecture about aromatase inhibitor use for breast cancer"
+}

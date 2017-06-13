@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jim.2017.01.004","type":"erratum"},"doi":"10.1016/j.jim.2016.08.008","journal":"Journal of Immunological Methods","publisher":"Elsevier BV","title":"Corrigendum to “A novel method of sampling gingival crevicular fluid from a mouse model of periodontitis” [J Immunol Methods 438 (2016) 21-25]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495678478561,
+      "identifier": {
+        "doi": "10.1016/j.jim.2017.01.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jim.2016.08.008"
+  },
+  "journal": "Journal of Immunological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel method of sampling gingival crevicular fluid from a mouse model of periodontitis” [J Immunol Methods 438 (2016) 21-25]"
+}

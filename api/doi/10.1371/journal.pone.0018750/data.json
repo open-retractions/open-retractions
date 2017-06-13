@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1309392000000,"doi":"10.1371/annotation/64462bfc-a7c6-48e2-9710-8ecea202e4a8","type":"correction"},"doi":"10.1371/journal.pone.0018750","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The LSD1-Interacting Protein GILP Is a LITAF Domain Protein That Negatively Regulates Hypersensitive Cell Death in Arabidopsis"}
+{
+  "retracted": false,
+  "timestamp": 1309392000000,
+  "updates": [
+    {
+      "timestamp": 1495968118443,
+      "identifier": {
+        "doi": "10.1371/annotation/64462bfc-a7c6-48e2-9710-8ecea202e4a8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0018750"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The LSD1-Interacting Protein GILP Is a LITAF Domain Protein That Negatively Regulates Hypersensitive Cell Death in Arabidopsis"
+}

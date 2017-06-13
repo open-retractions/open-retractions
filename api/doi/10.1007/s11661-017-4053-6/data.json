@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491523200000,"doi":"10.1007/s11661-017-4091-0","type":"correction"},"doi":"10.1007/s11661-017-4053-6","journal":"Metallurgical and Materials Transactions A","publisher":"Springer Nature","title":"Erratum to: Thermophysical Properties of Liquid Aluminum"}
+{
+  "retracted": false,
+  "timestamp": 1491523200000,
+  "updates": [
+    {
+      "timestamp": 1495735620995,
+      "identifier": {
+        "doi": "10.1007/s11661-017-4091-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11661-017-4053-6"
+  },
+  "journal": "Metallurgical and Materials Transactions A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermophysical Properties of Liquid Aluminum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1016/j.bios.2016.06.004","type":"err"},"doi":"10.1016/j.bios.2016.04.021","journal":"Biosensors and Bioelectronics","publisher":"Elsevier BV","title":"Corrigendum to: “Multiplexed lateral flow biosensors: Technological advances for radically improving point-of-care diagnoses” [J. Biosens. Bioelectron. (2016) 177–192]"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1495721544998,
+      "identifier": {
+        "doi": "10.1016/j.bios.2016.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bios.2016.04.021"
+  },
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Multiplexed lateral flow biosensors: Technological advances for radically improving point-of-care diagnoses” [J. Biosens. Bioelectron. (2016) 177–192]"
+}

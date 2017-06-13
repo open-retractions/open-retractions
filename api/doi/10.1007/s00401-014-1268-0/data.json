@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412812800000,"doi":"10.1007/s00401-014-1346-3","type":"correction"},"doi":"10.1007/s00401-014-1268-0","journal":"Acta Neuropathologica","publisher":"Springer Nature","title":"Erratum to: Amyloidogenic α-synuclein seeds do not invariably induce rapid, widespread pathology in mice"}
+{
+  "retracted": false,
+  "timestamp": 1412812800000,
+  "updates": [
+    {
+      "timestamp": 1496012819094,
+      "identifier": {
+        "doi": "10.1007/s00401-014-1346-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00401-014-1268-0"
+  },
+  "journal": "Acta Neuropathologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Amyloidogenic α-synuclein seeds do not invariably induce rapid, widespread pathology in mice"
+}

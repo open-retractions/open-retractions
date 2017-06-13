@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442448000000,"doi":"10.1186/s12890-015-0098-8","type":"correction"},"doi":"10.1186/s12890-015-0087-y","journal":"BMC Pulmonary Medicine","publisher":"Springer Nature","title":"Erratum to: ‘Ventilator-associated Pneumonia caused by commensal oropharyngeal a retrospective Analysis of a prospectively collected Database’"}
+{
+  "retracted": false,
+  "timestamp": 1442448000000,
+  "updates": [
+    {
+      "timestamp": 1496031280582,
+      "identifier": {
+        "doi": "10.1186/s12890-015-0098-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12890-015-0087-y"
+  },
+  "journal": "BMC Pulmonary Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Ventilator-associated Pneumonia caused by commensal oropharyngeal a retrospective Analysis of a prospectively collected Database’"
+}

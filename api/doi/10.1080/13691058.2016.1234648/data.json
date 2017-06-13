@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478563200000,"doi":"10.1080/13691058.2017.1256628","type":"correction"},"doi":"10.1080/13691058.2016.1234648","journal":"Culture, Health & Sexuality","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1478563200000,
+  "updates": [
+    {
+      "timestamp": 1495721449958,
+      "identifier": {
+        "doi": "10.1080/13691058.2017.1256628"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13691058.2016.1234648"
+  },
+  "journal": "Culture, Health & Sexuality",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

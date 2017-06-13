@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444003200000,"doi":"10.1007/s00106-015-0066-x","type":"correction"},"doi":"10.1007/s00106-014-2926-1","journal":"HNO","publisher":"Springer Nature","title":"Erratum zu: Die wichtigsten Studienergebnisse in der Primärtherapie von Kopf-Hals-Tumoren"}
+{
+  "retracted": false,
+  "timestamp": 1444003200000,
+  "updates": [
+    {
+      "timestamp": 1496034991624,
+      "identifier": {
+        "doi": "10.1007/s00106-015-0066-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00106-014-2926-1"
+  },
+  "journal": "HNO",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Die wichtigsten Studienergebnisse in der Primärtherapie von Kopf-Hals-Tumoren"
+}

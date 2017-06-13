@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426118400000,"doi":"10.1063/1.4914831","type":"correction"},"doi":"10.1063/1.4898676","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Pseudopotential calculations of strained-GeSn/SiGeSn hetero-structures” [Appl. Phys. Lett. 105, 162101 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1426118400000,
+  "updates": [
+    {
+      "timestamp": 1496049690958,
+      "identifier": {
+        "doi": "10.1063/1.4914831"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4898676"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Pseudopotential calculations of strained-GeSn/SiGeSn hetero-structures” [Appl. Phys. Lett. 105, 162101 (2014)]"
+}

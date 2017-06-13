@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jflm.2015.11.010","type":"err"},"doi":"10.1016/j.jflm.2015.05.010","journal":"Journal of Forensic and Legal Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Light microscopy can reveal the consumption of a mixture of psychotropic plant and fungal material in suspicious death” [34 (August 2015) 73–80]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496054766999,
+      "identifier": {
+        "doi": "10.1016/j.jflm.2015.11.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jflm.2015.05.010"
+  },
+  "journal": "Journal of Forensic and Legal Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Light microscopy can reveal the consumption of a mixture of psychotropic plant and fungal material in suspicious death” [34 (August 2015) 73–80]"
+}

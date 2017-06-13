@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459209600000,"doi":"10.1007/s00411-016-0638-5","type":"correction"},"doi":"10.1007/s00411-011-0382-9","journal":"Radiation and Environmental Biophysics","publisher":"Springer Nature","title":"Erratum to: Mutation induction by inhaled radon progeny modeled at the tissue level"}
+{
+  "retracted": false,
+  "timestamp": 1459209600000,
+  "updates": [
+    {
+      "timestamp": 1495660064206,
+      "identifier": {
+        "doi": "10.1007/s00411-016-0638-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00411-011-0382-9"
+  },
+  "journal": "Radiation and Environmental Biophysics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mutation induction by inhaled radon progeny modeled at the tissue level"
+}

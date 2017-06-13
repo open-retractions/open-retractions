@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.hal.2014.01.002","type":"err"},"doi":"10.1016/j.hal.2013.11.003","journal":"Harmful Algae","publisher":"Elsevier BV","title":"Erratum to “Satellite discrimination of Karenia mikimotoi and Phaeocystis harmful algal blooms in European coastal waters: Merged classification of ocean colour data” [Harmful Algae 31 (2014) 163–176]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496016669401,
+      "identifier": {
+        "doi": "10.1016/j.hal.2014.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hal.2013.11.003"
+  },
+  "journal": "Harmful Algae",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Satellite discrimination of Karenia mikimotoi and Phaeocystis harmful algal blooms in European coastal waters: Merged classification of ocean colour data” [Harmful Algae 31 (2014) 163–176]"
+}

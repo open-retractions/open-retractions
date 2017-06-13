@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.ajo.2015.03.021","type":"erratum"},"doi":"10.1016/j.ajo.2014.10.016","journal":"American Journal of Ophthalmology","publisher":"Elsevier BV","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496057076158,
+      "identifier": {
+        "doi": "10.1016/j.ajo.2015.03.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajo.2014.10.016"
+  },
+  "journal": "American Journal of Ophthalmology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum"
+}

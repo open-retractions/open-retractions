@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.actamat.2014.02.025","type":"erratum"},"doi":"10.1016/j.actamat.2011.07.052","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to: A more accurate three-dimensional grain growth algorithm [Acta Mater. 59 (2011) 6837–6847]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496027367535,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.02.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2011.07.052"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: A more accurate three-dimensional grain growth algorithm [Acta Mater. 59 (2011) 6837–6847]"
+}

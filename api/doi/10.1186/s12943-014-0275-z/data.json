@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447632000000,"doi":"10.1186/s12943-015-0451-9","type":"correction"},"doi":"10.1186/s12943-014-0275-z","journal":"Molecular Cancer","publisher":"Springer Nature","title":"Erratum to: miR-29b defines the pro-/anti-proliferative effects of S100A7 in breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1447632000000,
+  "updates": [
+    {
+      "timestamp": 1496046141942,
+      "identifier": {
+        "doi": "10.1186/s12943-015-0451-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12943-014-0275-z"
+  },
+  "journal": "Molecular Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: miR-29b defines the pro-/anti-proliferative effects of S100A7 in breast cancer"
+}

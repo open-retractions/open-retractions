@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.carbon.2013.09.046","type":"erratum"},"doi":"10.1016/j.carbon.2013.07.050","journal":"Carbon","publisher":"Elsevier BV","title":"Erratum to ‘Electronic states of disordered grain boundaries in graphene prepared by chemical vapor deposition’ [Carbon 64 (2013) 178–186]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496052009890,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2013.09.046"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2013.07.050"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Electronic states of disordered grain boundaries in graphene prepared by chemical vapor deposition’ [Carbon 64 (2013) 178–186]"
+}

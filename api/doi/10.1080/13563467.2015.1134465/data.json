@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1080/13563467.2016.1179421","type":"correction"},"doi":"10.1080/13563467.2015.1134465","journal":"New Political Economy","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495670007406,
+      "identifier": {
+        "doi": "10.1080/13563467.2016.1179421"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13563467.2015.1134465"
+  },
+  "journal": "New Political Economy",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

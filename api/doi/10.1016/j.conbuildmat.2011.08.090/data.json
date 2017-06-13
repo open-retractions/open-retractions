@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479168000000,"doi":"10.1016/j.conbuildmat.2016.07.099","type":"err"},"doi":"10.1016/j.conbuildmat.2011.08.090","journal":"Construction and Building Materials","publisher":"Elsevier BV","title":"Retraction notice to “Fracture mechanism in bitumen, modified bitumen and asphalt mixes” [Constr. Build. Mater. 29 (2012) 142–148]"}
+{
+  "retracted": false,
+  "timestamp": 1479168000000,
+  "updates": [
+    {
+      "timestamp": 1496108402971,
+      "identifier": {
+        "doi": "10.1016/j.conbuildmat.2016.07.099"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.conbuildmat.2011.08.090"
+  },
+  "journal": "Construction and Building Materials",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Fracture mechanism in bitumen, modified bitumen and asphalt mixes” [Constr. Build. Mater. 29 (2012) 142–148]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.cognition.2013.04.005","type":"err"},"doi":"10.1016/j.cognition.2012.09.001","journal":"Cognition","publisher":"Elsevier BV","title":"Corrigendum to ‘The long and short of it: Closing the description-experience “gap” by taking the long-run view’ [Cognition 126 (1) (2012) 54–71]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496019665088,
+      "identifier": {
+        "doi": "10.1016/j.cognition.2013.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cognition.2012.09.001"
+  },
+  "journal": "Cognition",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘The long and short of it: Closing the description-experience “gap” by taking the long-run view’ [Cognition 126 (1) (2012) 54–71]"
+}

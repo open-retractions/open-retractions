@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1282089600000,"doi":"10.1371/annotation/84d00e99-8566-4e44-b68f-a8d5b46db459","type":"correction"},"doi":"10.1371/journal.pone.0011708","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Adhesion and Degranulation Promoting Adapter Protein (ADAP) Is a Central Hub for Phosphotyrosine-Mediated Interactions in T Cells"}
+{
+  "retracted": false,
+  "timestamp": 1282089600000,
+  "updates": [
+    {
+      "timestamp": 1495878297262,
+      "identifier": {
+        "doi": "10.1371/annotation/84d00e99-8566-4e44-b68f-a8d5b46db459"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0011708"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Adhesion and Degranulation Promoting Adapter Protein (ADAP) Is a Central Hub for Phosphotyrosine-Mediated Interactions in T Cells"
+}

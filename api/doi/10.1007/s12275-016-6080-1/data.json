@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1007/s12275-016-0648-7","type":"correction"},"doi":"10.1007/s12275-016-6080-1","journal":"Journal of Microbiology","publisher":"Springer Nature","title":"Erratum to: Transcriptional control of sexual development in Cryptococcus neoformans"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495644255144,
+      "identifier": {
+        "doi": "10.1007/s12275-016-0648-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12275-016-6080-1"
+  },
+  "journal": "Journal of Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transcriptional control of sexual development in Cryptococcus neoformans"
+}

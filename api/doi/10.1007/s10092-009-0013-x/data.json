@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1007/s10092-013-0086-4","type":"correction"},"doi":"10.1007/s10092-009-0013-x","journal":"Calcolo","publisher":"Springer Nature","title":"Erratum to: On Gauss-type quadrature formulas with prescribed nodes anywhere on the real line"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496016069452,
+      "identifier": {
+        "doi": "10.1007/s10092-013-0086-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10092-009-0013-x"
+  },
+  "journal": "Calcolo",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On Gauss-type quadrature formulas with prescribed nodes anywhere on the real line"
+}

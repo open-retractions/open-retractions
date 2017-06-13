@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369353600000,"doi":"10.1016/j.carres.2013.04.020","type":"err"},"doi":"10.1016/j.carres.2011.04.043","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “Enzymatic synthesis of dimeric glycomimetic ligands of NK cell activation receptors” [Carbohydr. Res. 346 (2011) 1599–1609]"}
+{
+  "retracted": false,
+  "timestamp": 1369353600000,
+  "updates": [
+    {
+      "timestamp": 1496017930822,
+      "identifier": {
+        "doi": "10.1016/j.carres.2013.04.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2011.04.043"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enzymatic synthesis of dimeric glycomimetic ligands of NK cell activation receptors” [Carbohydr. Res. 346 (2011) 1599–1609]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427241600000,"doi":"10.1063/1.4916381","type":"correction"},"doi":"10.1063/1.4829056","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Electron impact excitation of the low-lying 3s[3/2]1 and 3s′[1/2]1 levels in neon for incident energies between 20 and 300 eV” [J. Chem. Phys. 139, 184301 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1427241600000,
+  "updates": [
+    {
+      "timestamp": 1496044732929,
+      "identifier": {
+        "doi": "10.1063/1.4916381"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4829056"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electron impact excitation of the low-lying 3s[3/2]1 and 3s′[1/2]1 levels in neon for incident energies between 20 and 300 eV” [J. Chem. Phys. 139, 184301 (2013)]"
+}

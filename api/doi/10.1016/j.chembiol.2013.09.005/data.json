@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1382572800000,"update":{"timestamp":null,"doi":null,"pmid":25368881,"type":"retraction"},"doi":"10.1016/j.chembiol.2013.09.005","journal":"Chemistry &amp; biology","publisher":null,"title":"Peptide-based inhibitors of Plk1 polo-box domain containing mono-anionic phosphothreonine esters and their pivaloyloxymethyl prodrugs."}
+{
+  "retracted": false,
+  "timestamp": 1410998400000,
+  "updates": [
+    {
+      "timestamp": 1496006991821,
+      "identifier": {
+        "doi": "10.1016/j.chembiol.2014.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chembiol.2013.09.005"
+  },
+  "journal": "Chemistry & Biology",
+  "publisher": "Elsevier BV",
+  "title": "Peptide-Based Inhibitors of Plk1 Polo-box Domain Containing Mono-anionic Phosphothreonine Esters and Their Pivaloyloxymethyl Prodrugs"
+}

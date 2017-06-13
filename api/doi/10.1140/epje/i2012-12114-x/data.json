@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380499200000,"doi":"10.1140/epje/i2013-13110-4","type":"correction"},"doi":"10.1140/epje/i2012-12114-x","journal":"The European Physical Journal E","publisher":"Springer Nature","title":"Erratum to: Numerical solutions of thin-film equations for polymer flows"}
+{
+  "retracted": false,
+  "timestamp": 1380499200000,
+  "updates": [
+    {
+      "timestamp": 1496048651277,
+      "identifier": {
+        "doi": "10.1140/epje/i2013-13110-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epje/i2012-12114-x"
+  },
+  "journal": "The European Physical Journal E",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Numerical solutions of thin-film equations for polymer flows"
+}

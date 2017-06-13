@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jphotobiol.2015.02.004","type":"err"},"doi":"10.1016/j.jphotobiol.2014.12.008","journal":"Journal of Photochemistry and Photobiology B: Biology","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of the chemical diversity of glycosylated mycosporine-like amino acids in the terrestrial cyanobacterium Nostoc commune” [J. Photochem. Photobiol. B: Biol. 142 (2015) 154–168]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496047559424,
+      "identifier": {
+        "doi": "10.1016/j.jphotobiol.2015.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jphotobiol.2014.12.008"
+  },
+  "journal": "Journal of Photochemistry and Photobiology B: Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of the chemical diversity of glycosylated mycosporine-like amino acids in the terrestrial cyanobacterium Nostoc commune” [J. Photochem. Photobiol. B: Biol. 142 (2015) 154–168]"
+}

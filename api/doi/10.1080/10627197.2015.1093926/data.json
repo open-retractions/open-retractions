@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1080/10627197.2016.1141025","type":"correction"},"doi":"10.1080/10627197.2015.1093926","journal":"Educational Assessment","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648344068,
+      "identifier": {
+        "doi": "10.1080/10627197.2016.1141025"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10627197.2015.1093926"
+  },
+  "journal": "Educational Assessment",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

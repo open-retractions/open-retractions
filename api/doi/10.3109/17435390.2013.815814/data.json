@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456876800000,"doi":"10.3109/17435390.2016.1149963","type":"correction"},"doi":"10.3109/17435390.2013.815814","journal":"Nanotoxicology","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456876800000,
+  "updates": [
+    {
+      "timestamp": 1495650106313,
+      "identifier": {
+        "doi": "10.3109/17435390.2016.1149963"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/17435390.2013.815814"
+  },
+  "journal": "Nanotoxicology",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

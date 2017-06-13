@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467676800000,"doi":"10.1016/j.ejphar.2016.05.002","type":"err"},"doi":"10.1016/j.ejphar.2016.02.052","journal":"European Journal of Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Restoration of sirt1 function by pterostilbene attenuates hypoxia-reoxygenation injury in cardiomyocytes” [Eur. J. Pharmacol. 776 (2016) 26–33]"}
+{
+  "retracted": false,
+  "timestamp": 1467676800000,
+  "updates": [
+    {
+      "timestamp": 1495675917161,
+      "identifier": {
+        "doi": "10.1016/j.ejphar.2016.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejphar.2016.02.052"
+  },
+  "journal": "European Journal of Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Restoration of sirt1 function by pterostilbene attenuates hypoxia-reoxygenation injury in cardiomyocytes” [Eur. J. Pharmacol. 776 (2016) 26–33]"
+}

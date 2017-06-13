@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":283996800000,"doi":"10.1057/jors.1979.21","type":"correction"},"doi":"10.1057/jors.1978.188","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum to: Towards Diocesan Planning"}
+{
+  "retracted": false,
+  "timestamp": 283996800000,
+  "updates": [
+    {
+      "timestamp": 1495887721042,
+      "identifier": {
+        "doi": "10.1057/jors.1979.21"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1978.188"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Towards Diocesan Planning"
+}

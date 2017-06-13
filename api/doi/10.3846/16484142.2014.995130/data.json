@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458604800000,"doi":"10.3846/16484142.2016.1161935","type":"correction"},"doi":"10.3846/16484142.2014.995130","journal":"Transport","publisher":"Vilnius Gediminas Technical University","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1458604800000,
+  "updates": [
+    {
+      "timestamp": 1495657419066,
+      "identifier": {
+        "doi": "10.3846/16484142.2016.1161935"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/16484142.2014.995130"
+  },
+  "journal": "Transport",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Corrigendum"
+}

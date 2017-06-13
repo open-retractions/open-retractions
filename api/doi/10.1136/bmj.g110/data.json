@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389139200000,"doi":"10.1136/bmj.g134","type":"correction"},"doi":"10.1136/bmj.g110","journal":"BMJ","publisher":"BMJ","title":"Minimum alcohol pricing: a shameful episode"}
+{
+  "retracted": false,
+  "timestamp": 1389139200000,
+  "updates": [
+    {
+      "timestamp": 1496012255612,
+      "identifier": {
+        "doi": "10.1136/bmj.g134"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g110"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Minimum alcohol pricing: a shameful episode"
+}

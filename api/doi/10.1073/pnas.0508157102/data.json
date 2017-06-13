@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1163462400000,"doi":"10.1073/pnas.0608601103","type":"correction"},"doi":"10.1073/pnas.0508157102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ceppi et al., Two tail-anchored protein variants, differing in transmembrane domain length and intracellular sorting, interact differently with lipids"}
+{
+  "retracted": false,
+  "timestamp": 1163462400000,
+  "updates": [
+    {
+      "timestamp": 1495876911269,
+      "identifier": {
+        "doi": "10.1073/pnas.0608601103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0508157102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ceppi et al., Two tail-anchored protein variants, differing in transmembrane domain length and intracellular sorting, interact differently with lipids"
+}

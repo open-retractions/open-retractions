@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464048000000,"doi":"10.1080/00140139.2016.1179501","type":"correction"},"doi":"10.1080/00140139.2015.1081412","journal":"Ergonomics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464048000000,
+  "updates": [
+    {
+      "timestamp": 1495715700768,
+      "identifier": {
+        "doi": "10.1080/00140139.2016.1179501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00140139.2015.1081412"
+  },
+  "journal": "Ergonomics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.ygyno.2014.08.010","type":"err"},"doi":"10.1016/j.ygyno.2012.04.017","journal":"Gynecologic Oncology","publisher":"Elsevier BV","title":"Corrigendum to: A novel approach to the treatment of lower extremity lymphedema by transferring a vascularized submental lymph node flap to the ankle [Gynecol Oncol 126, 93–98, 2012]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495999874021,
+      "identifier": {
+        "doi": "10.1016/j.ygyno.2014.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ygyno.2012.04.017"
+  },
+  "journal": "Gynecologic Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: A novel approach to the treatment of lower extremity lymphedema by transferring a vascularized submental lymph node flap to the ankle [Gynecol Oncol 126, 93–98, 2012]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1007/s41061-016-0034-2","type":"correction"},"doi":"10.1007/s41061-016-0027-1","journal":"Topics in Current Chemistry","publisher":"Springer Nature","title":"Erratum to: N-Alkylation by Hydrogen Autotransfer Reactions"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495670891665,
+      "identifier": {
+        "doi": "10.1007/s41061-016-0034-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s41061-016-0027-1"
+  },
+  "journal": "Topics in Current Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: N-Alkylation by Hydrogen Autotransfer Reactions"
+}

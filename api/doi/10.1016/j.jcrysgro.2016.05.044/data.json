@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.jcrysgro.2017.02.002","type":"erratum"},"doi":"10.1016/j.jcrysgro.2016.05.044","journal":"Journal of Crystal Growth","publisher":"Elsevier BV","title":"Corrigendum to “Modeling high speed growth of large rods of cesium iodide crystals by edge-defined film-fed growth (EFG)” [J. Cryst. Growth 449 (2016) 75–85]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495714484373,
+      "identifier": {
+        "doi": "10.1016/j.jcrysgro.2017.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrysgro.2016.05.044"
+  },
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling high speed growth of large rods of cesium iodide crystals by edge-defined film-fed growth (EFG)” [J. Cryst. Growth 449 (2016) 75–85]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364774400000,"doi":"10.1016/j.epsl.2013.03.047","type":"err"},"doi":"10.1016/j.epsl.2013.01.033","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Erratum to “Mantle flow and deformation of subducting slab at a plate junction” [Earth Planet. Sci. Lett. 365 (2013) 132-142]"}
+{
+  "retracted": false,
+  "timestamp": 1364774400000,
+  "updates": [
+    {
+      "timestamp": 1496013409593,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2013.03.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2013.01.033"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Mantle flow and deformation of subducting slab at a plate junction” [Earth Planet. Sci. Lett. 365 (2013) 132-142]"
+}

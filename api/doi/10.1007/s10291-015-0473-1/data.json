@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1007/s10291-015-0482-0","type":"correction"},"doi":"10.1007/s10291-015-0473-1","journal":"GPS Solutions","publisher":"Springer Nature","title":"Erratum to: Effectiveness of observation-domain sidereal filtering for GPS precise point positioning"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1496021949653,
+      "identifier": {
+        "doi": "10.1007/s10291-015-0482-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10291-015-0473-1"
+  },
+  "journal": "GPS Solutions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effectiveness of observation-domain sidereal filtering for GPS precise point positioning"
+}

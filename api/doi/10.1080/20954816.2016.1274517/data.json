@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489622400000,"doi":"10.1080/20954816.2017.1301848","type":"correction"},"doi":"10.1080/20954816.2016.1274517","journal":"Economic and Political Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1489622400000,
+  "updates": [
+    {
+      "timestamp": 1495729631397,
+      "identifier": {
+        "doi": "10.1080/20954816.2017.1301848"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/20954816.2016.1274517"
+  },
+  "journal": "Economic and Political Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

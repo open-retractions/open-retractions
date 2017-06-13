@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402531200000,"doi":"10.1080/19415257.2014.929298","type":"correction"},"doi":"10.1080/19415257.2011.616102","journal":"Professional Development in Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1402531200000,
+  "updates": [
+    {
+      "timestamp": 1496045407089,
+      "identifier": {
+        "doi": "10.1080/19415257.2014.929298"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19415257.2011.616102"
+  },
+  "journal": "Professional Development in Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

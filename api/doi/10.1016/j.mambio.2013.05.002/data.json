@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.mambio.2014.09.001","type":"err"},"doi":"10.1016/j.mambio.2013.05.002","journal":"Mammalian Biology - Zeitschrift für Säugetierkunde","publisher":"Elsevier BV","title":"Retraction notice to “Impact of anthropogenic disturbance on the density and activity pattern of deer evaluated with respect to spatial scale-dependency” [Mamm. Biol. 79 (1) (2014) 44–51]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496007419616,
+      "identifier": {
+        "doi": "10.1016/j.mambio.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mambio.2013.05.002"
+  },
+  "journal": "Mammalian Biology - Zeitschrift für Säugetierkunde",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Impact of anthropogenic disturbance on the density and activity pattern of deer evaluated with respect to spatial scale-dependency” [Mamm. Biol. 79 (1) (2014) 44–51]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.eururo.2016.04.020","type":"err"},"doi":"10.1016/j.eururo.2015.09.004","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum re: “Associations Between iCOGS Single Nucleotide Polymorphisms and Upgrading in Both Surgical and Active Surveillance Cohorts of Men with Prostate Cancer” [Eur Urol 2016;69:223–8]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495672416231,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2016.04.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2015.09.004"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum re: “Associations Between iCOGS Single Nucleotide Polymorphisms and Upgrading in Both Surgical and Active Surveillance Cohorts of Men with Prostate Cancer” [Eur Urol 2016;69:223–8]"
+}

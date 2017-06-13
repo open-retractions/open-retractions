@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.aquaculture.2014.11.019","type":"err"},"doi":"10.1016/j.aquaculture.2013.04.001","journal":"Aquaculture","publisher":"Elsevier BV","title":"Corrigendum to “Viability of white spot syndrome virus (WSSV) in sediment during sun-drying (drainable pond) and under non-drainable pond conditions indicated by infectivity to shrimp” [Aquaculture, 402–403 (2013) 119–126]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496048005282,
+      "identifier": {
+        "doi": "10.1016/j.aquaculture.2014.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquaculture.2013.04.001"
+  },
+  "journal": "Aquaculture",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Viability of white spot syndrome virus (WSSV) in sediment during sun-drying (drainable pond) and under non-drainable pond conditions indicated by infectivity to shrimp” [Aquaculture, 402–403 (2013) 119–126]"
+}

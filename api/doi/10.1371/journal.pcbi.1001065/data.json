@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1297382400000,"doi":"10.1371/annotation/22c5808a-56cf-46e5-ba1b-456e838a5428","type":"correction"},"doi":"10.1371/journal.pcbi.1001065","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Digital Atlasing and Standardization in the Mouse Brain"}
+{
+  "retracted": false,
+  "timestamp": 1297382400000,
+  "updates": [
+    {
+      "timestamp": 1495924870058,
+      "identifier": {
+        "doi": "10.1371/annotation/22c5808a-56cf-46e5-ba1b-456e838a5428"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1001065"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Digital Atlasing and Standardization in the Mouse Brain"
+}

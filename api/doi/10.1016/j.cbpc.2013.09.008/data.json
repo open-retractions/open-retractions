@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.cbpc.2014.03.002","type":"err"},"doi":"10.1016/j.cbpc.2013.09.008","journal":"Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Nanosilver cytotoxicity in rainbow trout (Oncorhynchus mykiss) erythrocytes and hepatocytes” [Comp. Biochem. Physiol. C 159 (2014) 10–21]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496027368707,
+      "identifier": {
+        "doi": "10.1016/j.cbpc.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpc.2013.09.008"
+  },
+  "journal": "Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nanosilver cytotoxicity in rainbow trout (Oncorhynchus mykiss) erythrocytes and hepatocytes” [Comp. Biochem. Physiol. C 159 (2014) 10–21]"
+}

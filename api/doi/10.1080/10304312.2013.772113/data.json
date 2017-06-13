@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402963200000,"doi":"10.1080/10304312.2013.843734","type":"correction"},"doi":"10.1080/10304312.2013.772113","journal":"Continuum","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1402963200000,
+  "updates": [
+    {
+      "timestamp": 1496053127094,
+      "identifier": {
+        "doi": "10.1080/10304312.2013.843734"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10304312.2013.772113"
+  },
+  "journal": "Continuum",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

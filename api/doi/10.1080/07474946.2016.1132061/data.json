@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466985600000,"doi":"10.1080/07474946.2016.1186934","type":"correction"},"doi":"10.1080/07474946.2016.1132061","journal":"Sequential Analysis","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1466985600000,
+  "updates": [
+    {
+      "timestamp": 1495723088292,
+      "identifier": {
+        "doi": "10.1080/07474946.2016.1186934"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07474946.2016.1132061"
+  },
+  "journal": "Sequential Analysis",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

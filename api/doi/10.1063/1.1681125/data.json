@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":170812800000,"doi":"10.1063/1.431029","type":"erratum"},"doi":"10.1063/1.1681125","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Track–core radius of charged particles at relativistic speed in condensed media"}
+{
+  "retracted": false,
+  "timestamp": 170812800000,
+  "updates": [
+    {
+      "timestamp": 1495948190946,
+      "identifier": {
+        "doi": "10.1063/1.431029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1681125"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Track–core radius of charged particles at relativistic speed in condensed media"
+}

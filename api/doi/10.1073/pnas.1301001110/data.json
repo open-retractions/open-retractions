@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438646400000,"doi":"10.1073/pnas.1512310112","type":"correction"},"doi":"10.1073/pnas.1301001110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Seeling et al., Inflammatory monocytes and Fcγ receptor IV on osteoclasts are critical for bone destruction during inflammatory arthritis in mice"}
+{
+  "retracted": false,
+  "timestamp": 1438646400000,
+  "updates": [
+    {
+      "timestamp": 1496015221208,
+      "identifier": {
+        "doi": "10.1073/pnas.1512310112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1301001110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Seeling et al., Inflammatory monocytes and Fcγ receptor IV on osteoclasts are critical for bone destruction during inflammatory arthritis in mice"
+}

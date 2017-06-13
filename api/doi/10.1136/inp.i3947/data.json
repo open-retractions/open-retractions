@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1136/inp.i3947corr1","type":"correction"},"doi":"10.1136/inp.i3947","journal":"In Practice","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495644297877,
+      "identifier": {
+        "doi": "10.1136/inp.i3947corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/inp.i3947"
+  },
+  "journal": "In Practice",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

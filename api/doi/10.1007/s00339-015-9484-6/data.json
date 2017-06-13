@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1007/s00339-016-0162-0","type":"correction"},"doi":"10.1007/s00339-015-9484-6","journal":"Applied Physics A","publisher":"Springer Nature","title":"Erratum to: Isosteric heat of hydrogen adsorption on MOFs: comparison between adsorption calorimetry, sorption isosteric method, and analytical models"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717278874,
+      "identifier": {
+        "doi": "10.1007/s00339-016-0162-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00339-015-9484-6"
+  },
+  "journal": "Applied Physics A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isosteric heat of hydrogen adsorption on MOFs: comparison between adsorption calorimetry, sorption isosteric method, and analytical models"
+}

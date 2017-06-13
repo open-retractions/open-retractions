@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.biochi.2017.01.011","type":"erratum"},"doi":"10.1016/j.biochi.2016.09.002","journal":"Biochimie","publisher":"Elsevier BV","title":"Corrigendum to “Fragile X syndrome: Are signaling lipids the missing culprits?” [Biochimie 130C (2016) 188–194]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495716077388,
+      "identifier": {
+        "doi": "10.1016/j.biochi.2017.01.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biochi.2016.09.002"
+  },
+  "journal": "Biochimie",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fragile X syndrome: Are signaling lipids the missing culprits?” [Biochimie 130C (2016) 188–194]"
+}

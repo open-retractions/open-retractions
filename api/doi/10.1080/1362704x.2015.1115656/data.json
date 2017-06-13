@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466553600000,"doi":"10.1080/1362704x.2016.1197503","type":"correction"},"doi":"10.1080/1362704x.2015.1115656","journal":"Fashion Theory","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1466553600000,
+  "updates": [
+    {
+      "timestamp": 1495722232920,
+      "identifier": {
+        "doi": "10.1080/1362704x.2016.1197503"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1362704x.2015.1115656"
+  },
+  "journal": "Fashion Theory",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462752000000,"doi":"10.1080/0144929x.2016.1183298","type":"correction"},"doi":"10.1080/0144929x.2016.1171396","journal":"Behaviour & Information Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1462752000000,
+  "updates": [
+    {
+      "timestamp": 1495674888373,
+      "identifier": {
+        "doi": "10.1080/0144929x.2016.1183298"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0144929x.2016.1171396"
+  },
+  "journal": "Behaviour & Information Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

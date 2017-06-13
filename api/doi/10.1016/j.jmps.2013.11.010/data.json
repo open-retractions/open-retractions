@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.jmps.2014.03.002","type":"err"},"doi":"10.1016/j.jmps.2013.11.010","journal":"Journal of the Mechanics and Physics of Solids","publisher":"Elsevier BV","title":"Erratum to “A multiscale quasicontinuum method for dissipative lattice models and discrete networks” [J. Mech. Phys. Solids 64 (2014) 154–169]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496029647282,
+      "identifier": {
+        "doi": "10.1016/j.jmps.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmps.2013.11.010"
+  },
+  "journal": "Journal of the Mechanics and Physics of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A multiscale quasicontinuum method for dissipative lattice models and discrete networks” [J. Mech. Phys. Solids 64 (2014) 154–169]"
+}

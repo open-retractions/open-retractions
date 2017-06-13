@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400889600000,"doi":"10.1007/s00371-014-0992-8","type":"correction"},"doi":"10.1007/s00371-014-0969-7","journal":"The Visual Computer","publisher":"Springer Nature","title":"Erratum to: Dynamic BFECC Characteristic Mapping method for fluid simulations"}
+{
+  "retracted": false,
+  "timestamp": 1400889600000,
+  "updates": [
+    {
+      "timestamp": 1496040961642,
+      "identifier": {
+        "doi": "10.1007/s00371-014-0992-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00371-014-0969-7"
+  },
+  "journal": "The Visual Computer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamic BFECC Characteristic Mapping method for fluid simulations"
+}

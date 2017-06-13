@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.chemolab.2013.10.004","type":"err"},"doi":"10.1016/j.chemolab.2013.06.002","journal":"Chemometrics and Intelligent Laboratory Systems","publisher":"Elsevier BV","title":"Corrigendum to “Strategic Parameter Search Method Based on Prediction Errors and Data Density for Efficient Product Design” [Chemom. Intell. Lab. Syst. 127 (2013) 70–79]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496056410998,
+      "identifier": {
+        "doi": "10.1016/j.chemolab.2013.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemolab.2013.06.002"
+  },
+  "journal": "Chemometrics and Intelligent Laboratory Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Strategic Parameter Search Method Based on Prediction Errors and Data Density for Efficient Product Design” [Chemom. Intell. Lab. Syst. 127 (2013) 70–79]"
+}

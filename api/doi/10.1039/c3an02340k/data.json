@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421193600000,"doi":"10.1039/c4an90101k","type":"correction"},"doi":"10.1039/c3an02340k","journal":"The Analyst","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Imaging mass spectrometry of a mouse brain by tapping-mode scanning probe electrospray ionization"}
+{
+  "retracted": false,
+  "timestamp": 1421193600000,
+  "updates": [
+    {
+      "timestamp": 1496035745159,
+      "identifier": {
+        "doi": "10.1039/c4an90101k"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c3an02340k"
+  },
+  "journal": "The Analyst",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Imaging mass spectrometry of a mouse brain by tapping-mode scanning probe electrospray ionization"
+}

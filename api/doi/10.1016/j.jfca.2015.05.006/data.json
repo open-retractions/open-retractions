@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jfca.2016.06.011","type":"err"},"doi":"10.1016/j.jfca.2015.05.006","journal":"Journal of Food Composition and Analysis","publisher":"Elsevier BV","title":"Corrigendum to “Physico-chemical characteristics of thermally processed purée from different strawberry genotypes” [J. Food Compos. Anal. 43C (2015) 106–118]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495726091487,
+      "identifier": {
+        "doi": "10.1016/j.jfca.2016.06.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfca.2015.05.006"
+  },
+  "journal": "Journal of Food Composition and Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Physico-chemical characteristics of thermally processed purée from different strawberry genotypes” [J. Food Compos. Anal. 43C (2015) 106–118]"
+}

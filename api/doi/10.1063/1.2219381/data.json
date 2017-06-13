@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1163376000000,"doi":"10.1063/1.2382722","type":"erratum"},"doi":"10.1063/1.2219381","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Strong electric field and nonuniformity effects in GaN∕AlN quantum dots revealed by high pressure studies” [Appl. Phys. Lett. 89, 051902 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1163376000000,
+  "updates": [
+    {
+      "timestamp": 1495915405758,
+      "identifier": {
+        "doi": "10.1063/1.2382722"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2219381"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Strong electric field and nonuniformity effects in GaN∕AlN quantum dots revealed by high pressure studies” [Appl. Phys. Lett. 89, 051902 (2006)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1128/genomea.01349-15","type":"correction"},"doi":"10.1128/genomea.01084-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Chen et al., Complete Genome Sequence ofBifidobacterium actinocoloniiformeType Strain DSM 22766T, Isolated from Bumblebee Digestive Tracts"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496040340633,
+      "identifier": {
+        "doi": "10.1128/genomea.01349-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01084-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Chen et al., Complete Genome Sequence ofBifidobacterium actinocoloniiformeType Strain DSM 22766T, Isolated from Bumblebee Digestive Tracts"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356998400000,"doi":"10.1016/j.rmed.2012.10.015","type":"err"},"doi":"10.1016/j.rmed.2012.08.022","journal":"Respiratory Medicine","publisher":"Elsevier BV","title":"Erratum to “Indacaterol therapy in patients with COPD not receiving other maintenance treatment” [Respir Med 106 (2012) 1706–1714]"}
+{
+  "retracted": false,
+  "timestamp": 1356998400000,
+  "updates": [
+    {
+      "timestamp": 1495964010605,
+      "identifier": {
+        "doi": "10.1016/j.rmed.2012.10.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rmed.2012.08.022"
+  },
+  "journal": "Respiratory Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Indacaterol therapy in patients with COPD not receiving other maintenance treatment” [Respir Med 106 (2012) 1706–1714]"
+}

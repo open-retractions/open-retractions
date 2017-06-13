@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480291200000,"doi":"10.3847/2041-8205/832/2/l26","type":"correction"},"doi":"10.3847/2041-8205/826/2/l32","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “MEGAMASER DISKS REVEAL A BROAD DISTRIBUTION OF BLACK HOLE MASS IN SPIRAL GALAXIES” (2016, ApJL, 826, L32)"}
+{
+  "retracted": false,
+  "timestamp": 1480291200000,
+  "updates": [
+    {
+      "timestamp": 1495658588176,
+      "identifier": {
+        "doi": "10.3847/2041-8205/832/2/l26"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3847/2041-8205/826/2/l32"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “MEGAMASER DISKS REVEAL A BROAD DISTRIBUTION OF BLACK HOLE MASS IN SPIRAL GALAXIES” (2016, ApJL, 826, L32)"
+}

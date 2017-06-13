@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469145600000,"doi":"10.1038/srep30101","type":"correction"},"doi":"10.1038/srep26693","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: An ultra-high density linkage map and QTL mapping for sex and growth-related traits of common carp (Cyprinus carpio)"}
+{
+  "retracted": false,
+  "timestamp": 1469145600000,
+  "updates": [
+    {
+      "timestamp": 1495731241524,
+      "identifier": {
+        "doi": "10.1038/srep30101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep26693"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: An ultra-high density linkage map and QTL mapping for sex and growth-related traits of common carp (Cyprinus carpio)"
+}

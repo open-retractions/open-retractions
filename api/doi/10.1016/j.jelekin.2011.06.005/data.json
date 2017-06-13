@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jelekin.2016.08.009","type":"erratum"},"doi":"10.1016/j.jelekin.2011.06.005","journal":"Journal of Electromyography and Kinesiology","publisher":"Elsevier BV","title":"Corrigendum to “Effects of changes in the shape of the intracellular action potential on the peak-to-peak ratio of single muscle fibre potentials” [J. Electromyogr. Kinesiol. 22(1) (2012) 88–97]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495639019599,
+      "identifier": {
+        "doi": "10.1016/j.jelekin.2016.08.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jelekin.2011.06.005"
+  },
+  "journal": "Journal of Electromyography and Kinesiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of changes in the shape of the intracellular action potential on the peak-to-peak ratio of single muscle fibre potentials” [J. Electromyogr. Kinesiol. 22(1) (2012) 88–97]"
+}

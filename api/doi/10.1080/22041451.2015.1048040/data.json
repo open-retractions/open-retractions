@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1080/22041451.2015.1065005","type":"correction"},"doi":"10.1080/22041451.2015.1048040","journal":"Communication Research and Practice","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495672346705,
+      "identifier": {
+        "doi": "10.1080/22041451.2015.1065005"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/22041451.2015.1048040"
+  },
+  "journal": "Communication Research and Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

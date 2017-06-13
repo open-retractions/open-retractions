@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.tetlet.2015.05.046","type":"err"},"doi":"10.1016/j.tetlet.2014.08.099","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Channel-dependent conformations of single-strand polymers in organic networks composed of tetrapodal adamantanes with N-heterocyclic moieties” [Tetrahedron Lett. 55 (2014) 5789–5792]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496004355656,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2015.05.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2014.08.099"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Channel-dependent conformations of single-strand polymers in organic networks composed of tetrapodal adamantanes with N-heterocyclic moieties” [Tetrahedron Lett. 55 (2014) 5789–5792]"
+}

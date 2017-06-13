@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455840000000,"doi":"10.1107/s2053230x16000340","type":"correction"},"doi":"10.1107/s2053230x1400867x","journal":"Acta Crystallographica Section F Structural Biology Communications","publisher":"International Union of Crystallography (IUCr)","title":"Applications of the second virial coefficient: protein crystallization and solubility. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1455840000000,
+  "updates": [
+    {
+      "timestamp": 1495646131892,
+      "identifier": {
+        "doi": "10.1107/s2053230x16000340"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s2053230x1400867x"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Applications of the second virial coefficient: protein crystallization and solubility. Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477094400000,"doi":"10.1007/s13313-016-0451-2","type":"correction"},"doi":"10.1007/s13313-016-0445-0","journal":"Australasian Plant Pathology","publisher":"Springer Nature","title":"Erratum to: Identification of rust fungi (Pucciniales) on species of Allium in Australia"}
+{
+  "retracted": false,
+  "timestamp": 1477094400000,
+  "updates": [
+    {
+      "timestamp": 1495651007424,
+      "identifier": {
+        "doi": "10.1007/s13313-016-0451-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13313-016-0445-0"
+  },
+  "journal": "Australasian Plant Pathology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification of rust fungi (Pucciniales) on species of Allium in Australia"
+}

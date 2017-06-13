@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1073/pnas.1600771113","type":"correction"},"doi":"10.1073/pnas.1313420110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Upadhyay et al., Intracranial microcapsule chemotherapy delivery for the localized treatment of rodent metastatic breast adenocarcinoma in the brain"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495645573071,
+      "identifier": {
+        "doi": "10.1073/pnas.1600771113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1313420110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Upadhyay et al., Intracranial microcapsule chemotherapy delivery for the localized treatment of rodent metastatic breast adenocarcinoma in the brain"
+}

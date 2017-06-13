@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.anucene.2013.12.010","type":"err"},"doi":"10.1016/j.anucene.2013.09.008","journal":"Annals of Nuclear Energy","publisher":"Elsevier BV","title":"Corrigendum to “Particle clustering in Monte Carlo criticality simulations” [Ann. Nucl. Energy 63 (2014) 612–618]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496011323062,
+      "identifier": {
+        "doi": "10.1016/j.anucene.2013.12.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anucene.2013.09.008"
+  },
+  "journal": "Annals of Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Particle clustering in Monte Carlo criticality simulations” [Ann. Nucl. Energy 63 (2014) 612–618]"
+}

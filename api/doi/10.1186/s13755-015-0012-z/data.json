@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1186/s13755-016-0014-5","type":"correction"},"doi":"10.1186/s13755-015-0012-z","journal":"Health Information Science and Systems","publisher":"Springer Nature","title":"Erratum to: Usability study of a simplified electroencephalograph as a health-care system"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495643986597,
+      "identifier": {
+        "doi": "10.1186/s13755-016-0014-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13755-015-0012-z"
+  },
+  "journal": "Health Information Science and Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Usability study of a simplified electroencephalograph as a health-care system"
+}

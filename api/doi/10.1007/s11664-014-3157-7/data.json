@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409788800000,"doi":"10.1007/s11664-014-3388-7","type":"correction"},"doi":"10.1007/s11664-014-3157-7","journal":"Journal of Electronic Materials","publisher":"Springer Nature","title":"Erratum to: European Conference on Thermoelectrics 2013"}
+{
+  "retracted": false,
+  "timestamp": 1409788800000,
+  "updates": [
+    {
+      "timestamp": 1496004617620,
+      "identifier": {
+        "doi": "10.1007/s11664-014-3388-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11664-014-3157-7"
+  },
+  "journal": "Journal of Electronic Materials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: European Conference on Thermoelectrics 2013"
+}

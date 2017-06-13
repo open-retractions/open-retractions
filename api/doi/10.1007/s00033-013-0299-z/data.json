@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401494400000,"doi":"10.1007/s00033-014-0427-4","type":"correction"},"doi":"10.1007/s00033-013-0299-z","journal":"Zeitschrift für angewandte Mathematik und Physik","publisher":"Springer Nature","title":"Erratum to: Stress field around an arbitrary thin inclusion in a transversely isotropic elastic half-space"}
+{
+  "retracted": false,
+  "timestamp": 1401494400000,
+  "updates": [
+    {
+      "timestamp": 1496042688083,
+      "identifier": {
+        "doi": "10.1007/s00033-014-0427-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00033-013-0299-z"
+  },
+  "journal": "Zeitschrift für angewandte Mathematik und Physik",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Stress field around an arbitrary thin inclusion in a transversely isotropic elastic half-space"
+}

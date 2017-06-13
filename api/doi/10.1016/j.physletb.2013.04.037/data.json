@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383523200000,"doi":"10.1016/j.physletb.2013.09.028","type":"erratum"},"doi":"10.1016/j.physletb.2013.04.037","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “The effective chiral Lagrangian for a light dynamical “Higgs Particle” ” [Phys. Lett. B 722 (2013) 330–335]"}
+{
+  "retracted": false,
+  "timestamp": 1383523200000,
+  "updates": [
+    {
+      "timestamp": 1496047953755,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2013.09.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2013.04.037"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effective chiral Lagrangian for a light dynamical “Higgs Particle” ” [Phys. Lett. B 722 (2013) 330–335]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jvsv.2016.08.005","type":"erratum"},"doi":"10.1016/j.jvsv.2014.12.002","journal":"Journal of Vascular Surgery: Venous and Lymphatic Disorders","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495720737670,
+      "identifier": {
+        "doi": "10.1016/j.jvsv.2016.08.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvsv.2014.12.002"
+  },
+  "journal": "Journal of Vascular Surgery: Venous and Lymphatic Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

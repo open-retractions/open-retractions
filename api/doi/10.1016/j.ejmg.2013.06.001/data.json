@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.ejmg.2014.01.001","type":"err"},"doi":"10.1016/j.ejmg.2013.06.001","journal":"European Journal of Medical Genetics","publisher":"Elsevier BV","title":"Corrigendum to “Post-axial polydactyly type A2, overgrowth and autistic traits associated with a chromosome 13q31.3 microduplication encompassing miR-17-92 and GPC5” [Eur J Med Genet 56 (8) (2013) 452–457]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496014126707,
+      "identifier": {
+        "doi": "10.1016/j.ejmg.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejmg.2013.06.001"
+  },
+  "journal": "European Journal of Medical Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Post-axial polydactyly type A2, overgrowth and autistic traits associated with a chromosome 13q31.3 microduplication encompassing miR-17-92 and GPC5” [Eur J Med Genet 56 (8) (2013) 452–457]"
+}

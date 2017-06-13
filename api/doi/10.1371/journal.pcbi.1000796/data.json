@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1276214400000,"doi":"10.1371/annotation/80bc1e50-d623-464f-817f-a5e776b75717","type":"correction"},"doi":"10.1371/journal.pcbi.1000796","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Optimal Drug Synergy in Antimicrobial Treatments"}
+{
+  "retracted": false,
+  "timestamp": 1278633600000,
+  "updates": [
+    {
+      "timestamp": 1496025196052,
+      "identifier": {
+        "doi": "10.1371/annotation/80bc1e50-d623-464f-817f-a5e776b75717"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000796"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Optimal Drug Synergy in Antimicrobial Treatments"
+}

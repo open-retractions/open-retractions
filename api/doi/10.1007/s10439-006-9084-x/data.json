@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1149120000000,"doi":"10.1007/s10439-006-9118-4","type":"correction"},"doi":"10.1007/s10439-006-9084-x","journal":"Annals of Biomedical Engineering","publisher":"Springer Nature","title":"Multiresolution Analysis of Heart Rate Variability as Investigational Tool in Experimental Fetal Cardiac Surgery"}
+{
+  "retracted": false,
+  "timestamp": 1149120000000,
+  "updates": [
+    {
+      "timestamp": 1495825892053,
+      "identifier": {
+        "doi": "10.1007/s10439-006-9118-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10439-006-9084-x"
+  },
+  "journal": "Annals of Biomedical Engineering",
+  "publisher": "Springer Nature",
+  "title": "Multiresolution Analysis of Heart Rate Variability as Investigational Tool in Experimental Fetal Cardiac Surgery"
+}

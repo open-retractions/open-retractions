@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1074/jbc.a115.661611","type":"correction"},"doi":"10.1074/jbc.m115.661611","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Poly(ADP-ribosyl)ation of FOXP3 protein mediated by PARP-1 regulates the function of regulatory T cells."}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496060270511,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.661611"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.661611"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Poly(ADP-ribosyl)ation of FOXP3 protein mediated by PARP-1 regulates the function of regulatory T cells."
+}

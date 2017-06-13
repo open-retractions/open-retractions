@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429142400000,"doi":"10.1186/s12916-015-0338-z","type":"correction"},"doi":"10.1186/s12916-015-0294-7","journal":"BMC Medicine","publisher":"Springer Nature","title":"Erratum: Consumption of whole grains and cereal fiber and total and cause-specific mortality: prospective analysis of 367,442 individuals"}
+{
+  "retracted": false,
+  "timestamp": 1429142400000,
+  "updates": [
+    {
+      "timestamp": 1496058306606,
+      "identifier": {
+        "doi": "10.1186/s12916-015-0338-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12916-015-0294-7"
+  },
+  "journal": "BMC Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Consumption of whole grains and cereal fiber and total and cause-specific mortality: prospective analysis of 367,442 individuals"
+}

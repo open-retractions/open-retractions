@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.cor.2016.09.001","type":"err"},"doi":"10.1016/j.cor.2012.02.024","journal":"Computers & Operations Research","publisher":"Elsevier BV","title":"An corrigendum on the paper: Solving the job-shop scheduling problem optimally by dynamic programming"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495638990179,
+      "identifier": {
+        "doi": "10.1016/j.cor.2016.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cor.2012.02.024"
+  },
+  "journal": "Computers & Operations Research",
+  "publisher": "Elsevier BV",
+  "title": "An corrigendum on the paper: Solving the job-shop scheduling problem optimally by dynamic programming"
+}

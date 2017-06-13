@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460073600000,"doi":"10.1007/s10549-016-3772-5","type":"correction"},"doi":"10.1007/s10549-011-1396-3","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: FOXC1, a target of polycomb, inhibits metastasis of breast cancer cells"}
+{
+  "retracted": false,
+  "timestamp": 1460073600000,
+  "updates": [
+    {
+      "timestamp": 1495663257695,
+      "identifier": {
+        "doi": "10.1007/s10549-016-3772-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-011-1396-3"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: FOXC1, a target of polycomb, inhibits metastasis of breast cancer cells"
+}

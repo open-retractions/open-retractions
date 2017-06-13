@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.jpowsour.2013.04.098","type":"err"},"doi":"10.1016/j.jpowsour.2011.02.090","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Enhanced capacitance and rate capability of graphene/polypyrrole composite as electrode material for supercapacitors” [J. Power Sources 196 (2011) 5990–5996]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496018944211,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.04.098"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2011.02.090"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enhanced capacitance and rate capability of graphene/polypyrrole composite as electrode material for supercapacitors” [J. Power Sources 196 (2011) 5990–5996]"
+}

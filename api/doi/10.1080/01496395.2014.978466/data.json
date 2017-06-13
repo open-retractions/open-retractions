@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1080/01496395.2016.1176841","type":"correction"},"doi":"10.1080/01496395.2014.978466","journal":"Separation Science and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495670103997,
+      "identifier": {
+        "doi": "10.1080/01496395.2016.1176841"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01496395.2014.978466"
+  },
+  "journal": "Separation Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

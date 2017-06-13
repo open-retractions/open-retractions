@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.earscirev.2014.07.005","type":"err"},"doi":"10.1016/j.earscirev.2013.12.007","journal":"Earth-Science Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Wildland fire ash: Production, composition and eco-hydro-geomorphic effects”, Earth Sci. Rev. 130 (2014) [103–127]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495999882408,
+      "identifier": {
+        "doi": "10.1016/j.earscirev.2014.07.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.earscirev.2013.12.007"
+  },
+  "journal": "Earth-Science Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Wildland fire ash: Production, composition and eco-hydro-geomorphic effects”, Earth Sci. Rev. 130 (2014) [103–127]"
+}

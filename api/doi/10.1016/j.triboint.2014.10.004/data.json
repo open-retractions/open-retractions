@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.triboint.2015.12.001","type":"erratum"},"doi":"10.1016/j.triboint.2014.10.004","journal":"Tribology International","publisher":"Elsevier BV","title":"Corrigendum to “Influence of vibrated area and normal force on friction reduction ratio between NBR/aluminum couple” [Tribol. Int. 82 (2015) 95–100]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495642202884,
+      "identifier": {
+        "doi": "10.1016/j.triboint.2015.12.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.triboint.2014.10.004"
+  },
+  "journal": "Tribology International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of vibrated area and normal force on friction reduction ratio between NBR/aluminum couple” [Tribol. Int. 82 (2015) 95–100]"
+}

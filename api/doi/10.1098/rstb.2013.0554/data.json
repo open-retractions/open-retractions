@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443225600000,"doi":"10.1098/rstb.2015.0246","type":"correction"},"doi":"10.1098/rstb.2013.0554","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to ‘Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation’"}
+{
+  "retracted": false,
+  "timestamp": 1443225600000,
+  "updates": [
+    {
+      "timestamp": 1496027417691,
+      "identifier": {
+        "doi": "10.1098/rstb.2015.0246"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2013.0554"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation’"
+}

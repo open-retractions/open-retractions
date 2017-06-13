@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470182400000,"doi":"10.1016/j.neulet.2016.05.024","type":"erratum"},"doi":"10.1016/j.neulet.2016.04.015","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Treadmill exercise facilitates synaptic plasticity on dopaminergic neurons and fibers in the mouse model with Parkinson's disease” [Neurosci. Lett. (2016) 28-33]"}
+{
+  "retracted": false,
+  "timestamp": 1470182400000,
+  "updates": [
+    {
+      "timestamp": 1495721948497,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2016.05.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2016.04.015"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Treadmill exercise facilitates synaptic plasticity on dopaminergic neurons and fibers in the mouse model with Parkinson's disease” [Neurosci. Lett. (2016) 28-33]"
+}

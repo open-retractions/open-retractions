@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405123200000,"doi":"10.1631/jzus.c13e0204","type":"correction"},"doi":"10.1631/jzus.c1300204","journal":"Journal of Zhejiang University SCIENCE C","publisher":"Zhejiang University Press","title":"Erratum to: Dynamic task scheduling modeling in unstructured heterogeneous multiprocessor systems"}
+{
+  "retracted": false,
+  "timestamp": 1405123200000,
+  "updates": [
+    {
+      "timestamp": 1496052633686,
+      "identifier": {
+        "doi": "10.1631/jzus.c13e0204"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1631/jzus.c1300204"
+  },
+  "journal": "Journal of Zhejiang University SCIENCE C",
+  "publisher": "Zhejiang University Press",
+  "title": "Erratum to: Dynamic task scheduling modeling in unstructured heterogeneous multiprocessor systems"
+}

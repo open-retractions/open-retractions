@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473811200000,"doi":"10.1038/srep32904","type":"correction"},"doi":"10.1038/srep16697","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Ultra-low Thermal Conductivity in Si/Ge Hierarchical Superlattice Nanowire"}
+{
+  "retracted": false,
+  "timestamp": 1473811200000,
+  "updates": [
+    {
+      "timestamp": 1495639448513,
+      "identifier": {
+        "doi": "10.1038/srep32904"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep16697"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Ultra-low Thermal Conductivity in Si/Ge Hierarchical Superlattice Nanowire"
+}

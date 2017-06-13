@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208131200000,"doi":"10.1007/bf02725449","type":"correction"},"doi":"10.1007/bf02745300","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: The1H(t,n)3He reaction as monoenergetic neutron source in the (10÷20) MeV energy interval"}
+{
+  "retracted": false,
+  "timestamp": 1208131200000,
+  "updates": [
+    {
+      "timestamp": 1495844965122,
+      "identifier": {
+        "doi": "10.1007/bf02725449"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02745300"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The1H(t,n)3He reaction as monoenergetic neutron source in the (10÷20) MeV energy interval"
+}

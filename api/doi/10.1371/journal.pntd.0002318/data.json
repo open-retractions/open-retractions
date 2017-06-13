@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374796800000,"doi":"10.1371/annotation/13ca0354-e5eb-42bd-b99c-606fe873df2c","type":"correction"},"doi":"10.1371/journal.pntd.0002318","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Ilheus Virus Isolation in the Pantanal, West-Central Brazil"}
+{
+  "retracted": false,
+  "timestamp": 1374796800000,
+  "updates": [
+    {
+      "timestamp": 1496035935859,
+      "identifier": {
+        "doi": "10.1371/annotation/13ca0354-e5eb-42bd-b99c-606fe873df2c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0002318"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Ilheus Virus Isolation in the Pantanal, West-Central Brazil"
+}

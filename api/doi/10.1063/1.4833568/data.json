@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388966400000,"doi":"10.1063/1.4861181","type":"correction"},"doi":"10.1063/1.4833568","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Simulations of magnetic vortex dynamics in exchange-biased sub-micron-sized disks” [J. Appl. Phys. 114, 203903 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1388966400000,
+  "updates": [
+    {
+      "timestamp": 1496009990299,
+      "identifier": {
+        "doi": "10.1063/1.4861181"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4833568"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Simulations of magnetic vortex dynamics in exchange-biased sub-micron-sized disks” [J. Appl. Phys. 114, 203903 (2013)]"
+}

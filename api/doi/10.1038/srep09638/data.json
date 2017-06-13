@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435795200000,"doi":"10.1038/srep10497","type":"correction"},"doi":"10.1038/srep09638","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Near-shore Antarctic pH variability has implications for the design of ocean acidification experiments"}
+{
+  "retracted": false,
+  "timestamp": 1435795200000,
+  "updates": [
+    {
+      "timestamp": 1496065465471,
+      "identifier": {
+        "doi": "10.1038/srep10497"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09638"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Near-shore Antarctic pH variability has implications for the design of ocean acidification experiments"
+}

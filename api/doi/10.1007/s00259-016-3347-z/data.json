@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459814400000,"doi":"10.1007/s00259-016-3387-4","type":"correction"},"doi":"10.1007/s00259-016-3347-z","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: FDG-PET/ceCT is useful to predict recurrence of Pseudomyxoma peritonei"}
+{
+  "retracted": false,
+  "timestamp": 1459814400000,
+  "updates": [
+    {
+      "timestamp": 1495662263532,
+      "identifier": {
+        "doi": "10.1007/s00259-016-3387-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-016-3347-z"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: FDG-PET/ceCT is useful to predict recurrence of Pseudomyxoma peritonei"
+}

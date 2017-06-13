@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.jveb.2015.10.007","type":"err"},"doi":"10.1016/j.jveb.2015.07.019","journal":"Journal of Veterinary Behavior: Clinical Applications and Research","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496046692747,
+      "identifier": {
+        "doi": "10.1016/j.jveb.2015.10.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jveb.2015.07.019"
+  },
+  "journal": "Journal of Veterinary Behavior: Clinical Applications and Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

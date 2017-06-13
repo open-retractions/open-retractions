@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471392000000,"doi":"10.1007/s10549-016-3941-6","type":"correction"},"doi":"10.1007/s10549-016-3878-9","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: The effect of trastuzumab-based chemotherapy in small node-negative HER2-positive breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1471392000000,
+  "updates": [
+    {
+      "timestamp": 1495736241546,
+      "identifier": {
+        "doi": "10.1007/s10549-016-3941-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-016-3878-9"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The effect of trastuzumab-based chemotherapy in small node-negative HER2-positive breast cancer"
+}

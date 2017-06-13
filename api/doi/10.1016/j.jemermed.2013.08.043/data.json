@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jemermed.2014.07.001","type":"err"},"doi":"10.1016/j.jemermed.2013.08.043","journal":"The Journal of Emergency Medicine","publisher":"Elsevier BV","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496002102794,
+      "identifier": {
+        "doi": "10.1016/j.jemermed.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jemermed.2013.08.043"
+  },
+  "journal": "The Journal of Emergency Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Errata"
+}

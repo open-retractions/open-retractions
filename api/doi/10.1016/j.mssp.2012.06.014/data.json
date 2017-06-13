@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.mssp.2013.10.001","type":"err"},"doi":"10.1016/j.mssp.2012.06.014","journal":"Materials Science in Semiconductor Processing","publisher":"Elsevier BV","title":"On the diffusion and activation of n-type dopants in Ge [Mater. Sci. Semicond. Process. 15 (2012) 642–655]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496055750673,
+      "identifier": {
+        "doi": "10.1016/j.mssp.2013.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mssp.2012.06.014"
+  },
+  "journal": "Materials Science in Semiconductor Processing",
+  "publisher": "Elsevier BV",
+  "title": "On the diffusion and activation of n-type dopants in Ge [Mater. Sci. Semicond. Process. 15 (2012) 642–655]"
+}

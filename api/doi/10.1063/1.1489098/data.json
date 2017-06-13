@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1122854400000,"doi":"10.1063/1.2006219","type":"erratum"},"doi":"10.1063/1.1489098","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “A method for measuring barrier heights, metal work functions and fixed charge densities in metal/SiO2/Si capacitors”[Appl. Phys. Lett. 80, 4858 (2002)]"}
+{
+  "retracted": false,
+  "timestamp": 1122854400000,
+  "updates": [
+    {
+      "timestamp": 1495897858813,
+      "identifier": {
+        "doi": "10.1063/1.2006219"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1489098"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A method for measuring barrier heights, metal work functions and           fixed charge densities in metal/SiO2/Si capacitors”[Appl. Phys. Lett. 80, 4858           (2002)]"
+}

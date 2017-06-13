@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489622400000,"doi":"10.1007/s00335-017-9685-8","type":"correction"},"doi":"10.1007/s00335-017-9678-7","journal":"Mammalian Genome","publisher":"Springer Nature","title":"Erratum to: The Valdostana goat: a genome-wide investigation of the distinctiveness of its selective sweep regions"}
+{
+  "retracted": false,
+  "timestamp": 1489622400000,
+  "updates": [
+    {
+      "timestamp": 1495729665881,
+      "identifier": {
+        "doi": "10.1007/s00335-017-9685-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00335-017-9678-7"
+  },
+  "journal": "Mammalian Genome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Valdostana goat: a genome-wide investigation of the distinctiveness of its selective sweep regions"
+}

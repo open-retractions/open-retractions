@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389225600000,"doi":"10.1063/1.4860059","type":"correction"},"doi":"10.1063/1.3687431","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Power spectrum and Allan variance methods for calibrating single-molecule video-tracking instruments” [Rev. Sci. Instrum. 83, 025115 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1389225600000,
+  "updates": [
+    {
+      "timestamp": 1496012307220,
+      "identifier": {
+        "doi": "10.1063/1.4860059"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3687431"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Power spectrum and Allan variance methods for calibrating single-molecule video-tracking instruments” [Rev. Sci. Instrum. 83, 025115 (2012)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1128/mcb.00656-16","type":"correction"},"doi":"10.1128/mcb.26.2.413-424.2006","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Correction for Zhang et al., RACK1 Recruits STAT3 Specifically to Insulin and Insulin-Like Growth Factor 1 Receptors for Activation, Which Is Important for Regulating Anchorage-Independent Growth"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495724947350,
+      "identifier": {
+        "doi": "10.1128/mcb.00656-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.26.2.413-424.2006"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Zhang et al., RACK1 Recruits STAT3 Specifically to Insulin and Insulin-Like Growth Factor 1 Receptors for Activation, Which Is Important for Regulating Anchorage-Independent Growth"
+}

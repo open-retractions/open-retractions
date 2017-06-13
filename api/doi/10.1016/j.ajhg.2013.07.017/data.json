@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380758400000,"doi":"10.1016/j.ajhg.2013.09.003","type":"err"},"doi":"10.1016/j.ajhg.2013.07.017","journal":"The American Journal of Human Genetics","publisher":"Elsevier BV","title":"Mutations in FBXL4 Cause Mitochondrial Encephalopathy and a Disorder of Mitochondrial DNA Maintenance"}
+{
+  "retracted": false,
+  "timestamp": 1380758400000,
+  "updates": [
+    {
+      "timestamp": 1496051248774,
+      "identifier": {
+        "doi": "10.1016/j.ajhg.2013.09.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajhg.2013.07.017"
+  },
+  "journal": "The American Journal of Human Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Mutations in FBXL4 Cause Mitochondrial Encephalopathy and a Disorder of Mitochondrial DNA Maintenance"
+}

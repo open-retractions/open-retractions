@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404950400000,"doi":"10.1007/s10482-014-0222-4","type":"correction"},"doi":"10.1007/s10482-013-0012-4","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Nonhongiella spirulinensis gen. nov., sp. nov., a bacterium isolated from a cultivation pond of Spirulina platensis in Sanya, China"}
+{
+  "retracted": false,
+  "timestamp": 1404950400000,
+  "updates": [
+    {
+      "timestamp": 1496052527992,
+      "identifier": {
+        "doi": "10.1007/s10482-014-0222-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-013-0012-4"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nonhongiella spirulinensis gen. nov., sp. nov., a bacterium isolated from a cultivation pond of Spirulina platensis in Sanya, China"
+}

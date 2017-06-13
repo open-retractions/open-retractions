@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441152000000,"doi":"10.1038/srep13507","type":"correction"},"doi":"10.1038/srep10980","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: 18 GHz electromagnetic field induces permeability of Gram-positive cocci"}
+{
+  "retracted": false,
+  "timestamp": 1441152000000,
+  "updates": [
+    {
+      "timestamp": 1496026800491,
+      "identifier": {
+        "doi": "10.1038/srep13507"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10980"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: 18 GHz electromagnetic field induces permeability of Gram-positive cocci"
+}

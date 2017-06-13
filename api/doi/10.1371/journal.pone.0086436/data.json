@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391040000000,"doi":"10.1371/annotation/755a38b9-ccc1-4042-baa2-1249c9da8670","type":"correction"},"doi":"10.1371/journal.pone.0086436","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identification of Immunity-Related Genes in Ostrinia furnacalis against Entomopathogenic Fungi by RNA-Seq Analysis"}
+{
+  "retracted": false,
+  "timestamp": 1391040000000,
+  "updates": [
+    {
+      "timestamp": 1496015512760,
+      "identifier": {
+        "doi": "10.1371/annotation/755a38b9-ccc1-4042-baa2-1249c9da8670"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0086436"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identification of Immunity-Related Genes in Ostrinia furnacalis against Entomopathogenic Fungi by RNA-Seq Analysis"
+}

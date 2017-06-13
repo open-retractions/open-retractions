@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1346803200000,"doi":"10.1371/annotation/e3c063c3-fd5a-4ce0-83d9-9a8891d3d11f","type":"correction"},"doi":"10.1371/journal.pone.0038420","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Discovery of a Novel hsp65 Genotype within Mycobacterium massiliense Associated with the Rough Colony Morphology"}
+{
+  "retracted": false,
+  "timestamp": 1346803200000,
+  "updates": [
+    {
+      "timestamp": 1495949331290,
+      "identifier": {
+        "doi": "10.1371/annotation/e3c063c3-fd5a-4ce0-83d9-9a8891d3d11f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0038420"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Discovery of a Novel hsp65 Genotype within Mycobacterium massiliense Associated with the Rough Colony Morphology"
+}

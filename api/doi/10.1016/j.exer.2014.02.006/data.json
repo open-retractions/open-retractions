@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.exer.2014.04.024","type":"err"},"doi":"10.1016/j.exer.2014.02.006","journal":"Experimental Eye Research","publisher":"Elsevier BV","title":"Corrigendum to “Disease-causing mutations associated with four bestrophinopathies exhibit disparate effects on the localization, but not the oligomerization, of Bestrophin-1” [Exp. Eye Res. 121 (2014) 74–85]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496037876513,
+      "identifier": {
+        "doi": "10.1016/j.exer.2014.04.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.exer.2014.02.006"
+  },
+  "journal": "Experimental Eye Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Disease-causing mutations associated with four bestrophinopathies exhibit disparate effects on the localization, but not the oligomerization, of Bestrophin-1” [Exp. Eye Res. 121 (2014) 74–85]"
+}

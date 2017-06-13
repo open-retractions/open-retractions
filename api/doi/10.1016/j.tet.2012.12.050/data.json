@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366588800000,"doi":"10.1016/j.tet.2013.03.003","type":"err"},"doi":"10.1016/j.tet.2012.12.050","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Ionic liquid mediated synthesis of peptide nucleic acids dimers” [Tetrahedron 69 (2013) 1940–1944]"}
+{
+  "retracted": false,
+  "timestamp": 1366588800000,
+  "updates": [
+    {
+      "timestamp": 1496004436888,
+      "identifier": {
+        "doi": "10.1016/j.tet.2013.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2012.12.050"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ionic liquid mediated synthesis of peptide nucleic acids dimers” [Tetrahedron 69 (2013) 1940–1944]"
+}

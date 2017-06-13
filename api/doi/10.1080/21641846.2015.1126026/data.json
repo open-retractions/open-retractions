@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.1080/21641846.2016.1148912","type":"correction"},"doi":"10.1080/21641846.2015.1126026","journal":"Fatigue: Biomedicine, Health & Behavior","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643153530,
+      "identifier": {
+        "doi": "10.1080/21641846.2016.1148912"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21641846.2015.1126026"
+  },
+  "journal": "Fatigue: Biomedicine, Health & Behavior",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.critrevonc.2016.04.007","type":"err"},"doi":"10.1016/j.critrevonc.2016.01.001","journal":"Critical Reviews in Oncology/Hematology","publisher":"Elsevier BV","title":"Erratum to “Role of radiation therapy in non-melanoma cancers, lymphomas and sarcomas of the skin: Systematic review and best practice in 2016” [Crit. Rev. Oncol./Hematol. 99 (2016) 200–213]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495674631794,
+      "identifier": {
+        "doi": "10.1016/j.critrevonc.2016.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.critrevonc.2016.01.001"
+  },
+  "journal": "Critical Reviews in Oncology/Hematology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Role of radiation therapy in non-melanoma cancers, lymphomas and sarcomas of the skin: Systematic review and best practice in 2016” [Crit. Rev. Oncol./Hematol. 99 (2016) 200–213]"
+}

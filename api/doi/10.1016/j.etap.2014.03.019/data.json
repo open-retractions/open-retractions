@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.etap.2015.01.001","type":"err"},"doi":"10.1016/j.etap.2014.03.019","journal":"Environmental Toxicology and Pharmacology","publisher":"Elsevier BV","title":"Erratum to “Biomarkers for monitoring profluthrin exposure: Urinary excretion kinetics of profluthrin metabolites in rats” [Environ. Toxicol. Pharmacol. 37 (2014) 1123–1128]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496043956315,
+      "identifier": {
+        "doi": "10.1016/j.etap.2015.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.etap.2014.03.019"
+  },
+  "journal": "Environmental Toxicology and Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Biomarkers for monitoring profluthrin exposure: Urinary excretion kinetics of profluthrin metabolites in rats” [Environ. Toxicol. Pharmacol. 37 (2014) 1123–1128]"
+}

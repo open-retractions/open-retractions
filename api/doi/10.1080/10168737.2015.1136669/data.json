@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1080/10168737.2016.1228327","type":"correction"},"doi":"10.1080/10168737.2015.1136669","journal":"International Economic Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495740836321,
+      "identifier": {
+        "doi": "10.1080/10168737.2016.1228327"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10168737.2015.1136669"
+  },
+  "journal": "International Economic Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.matchar.2015.05.037","type":"err"},"doi":"10.1016/j.matchar.2015.01.012","journal":"Materials Characterization","publisher":"Elsevier BV","title":"Retraction notice to “Characterization of SPD processed ultrafine-grained pure copper tubes via Tube Cyclic Expansion–Extrusion” [Materials Characterization 101 (2015) 114–121]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496003558852,
+      "identifier": {
+        "doi": "10.1016/j.matchar.2015.05.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matchar.2015.01.012"
+  },
+  "journal": "Materials Characterization",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Characterization of SPD processed ultrafine-grained pure copper tubes via Tube Cyclic Expansion–Extrusion” [Materials Characterization 101 (2015) 114–121]"
+}

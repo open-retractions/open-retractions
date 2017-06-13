@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480032000000,"doi":"10.1186/s40645-016-0113-6","type":"correction"},"doi":"10.1186/s40645-016-0107-4","journal":"Progress in Earth and Planetary Science","publisher":"Springer Nature","title":"Erratum to: Reconstruction of a 2D seismic wavefield by seismic gradiometry"}
+{
+  "retracted": false,
+  "timestamp": 1480032000000,
+  "updates": [
+    {
+      "timestamp": 1495661426964,
+      "identifier": {
+        "doi": "10.1186/s40645-016-0113-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40645-016-0107-4"
+  },
+  "journal": "Progress in Earth and Planetary Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reconstruction of a 2D seismic wavefield by seismic gradiometry"
+}

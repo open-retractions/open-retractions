@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1136/bjophthalmol-2012-303050corr1","type":"correction"},"doi":"10.1136/bjophthalmol-2012-303050","journal":"British Journal of Ophthalmology","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496018695246,
+      "identifier": {
+        "doi": "10.1136/bjophthalmol-2012-303050corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bjophthalmol-2012-303050"
+  },
+  "journal": "British Journal of Ophthalmology",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

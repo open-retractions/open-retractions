@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1197331200000,"doi":"10.1073/pnas.0710559104","type":"correction"},"doi":"10.1073/pnas.0701895104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Panfilov et al., Drift and breakup of spiral waves in reaction-diffusion-mechanics systems"}
+{
+  "retracted": false,
+  "timestamp": 1197331200000,
+  "updates": [
+    {
+      "timestamp": 1495807003856,
+      "identifier": {
+        "doi": "10.1073/pnas.0710559104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0701895104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Panfilov et al., Drift and breakup of spiral waves in reaction-diffusion-mechanics systems"
+}

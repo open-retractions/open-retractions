@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1063/1.4947558","type":"correction"},"doi":"10.1063/1.4930201","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Rapid characterization of microscopic two-level systems using Landau-Zener transitions in a superconducting qubit” [Appl. Phys. Lett. 107, 102601 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669778428,
+      "identifier": {
+        "doi": "10.1063/1.4947558"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4930201"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Rapid characterization of microscopic two-level systems using Landau-Zener transitions in a superconducting qubit” [Appl. Phys. Lett. 107, 102601 (2015)]"
+}

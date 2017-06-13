@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393977600000,"doi":"10.1080/10588167.2014.889543","type":"correction"},"doi":"10.1080/10588167.2012.676348","journal":"Music Reference Services Quarterly","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1393977600000,
+  "updates": [
+    {
+      "timestamp": 1496022761542,
+      "identifier": {
+        "doi": "10.1080/10588167.2014.889543"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10588167.2012.676348"
+  },
+  "journal": "Music Reference Services Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

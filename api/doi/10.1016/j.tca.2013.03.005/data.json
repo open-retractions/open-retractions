@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1016/j.tca.2014.04.014","type":"err"},"doi":"10.1016/j.tca.2013.03.005","journal":"Thermochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “The effects of Cr on isothermal oxidation behavior of Fe–30Mn–6Si alloy” [Thermochim. Acta 560 (2013) 43–46]"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496033421993,
+      "identifier": {
+        "doi": "10.1016/j.tca.2014.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tca.2013.03.005"
+  },
+  "journal": "Thermochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The effects of Cr on isothermal oxidation behavior of Fe–30Mn–6Si alloy” [Thermochim. Acta 560 (2013) 43–46]"
+}

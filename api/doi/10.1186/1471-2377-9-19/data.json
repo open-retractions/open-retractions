@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1296777600000,"doi":"10.1186/1471-2377-11-19","type":"correction"},"doi":"10.1186/1471-2377-9-19","journal":"BMC Neurology","publisher":"Springer Nature","title":"Erratum to: Prognostic implications of a carefully performed neurological assessment in patients with a first event suggestive of multiple sclerosis"}
+{
+  "retracted": false,
+  "timestamp": 1296777600000,
+  "updates": [
+    {
+      "timestamp": 1495934445725,
+      "identifier": {
+        "doi": "10.1186/1471-2377-11-19"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2377-9-19"
+  },
+  "journal": "BMC Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Prognostic implications of a carefully performed neurological assessment in patients with a first event suggestive of multiple sclerosis"
+}

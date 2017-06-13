@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401753600000,"doi":"10.1007/s00214-014-1500-y","type":"correction"},"doi":"10.1007/s00214-011-1075-9","journal":"Theoretical Chemistry Accounts","publisher":"Springer Nature","title":"Erratum to: Time-dependent wave packet propagation using quantum hydrodynamics"}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496043116695,
+      "identifier": {
+        "doi": "10.1007/s00214-014-1500-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00214-011-1075-9"
+  },
+  "journal": "Theoretical Chemistry Accounts",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Time-dependent wave packet propagation using quantum hydrodynamics"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1190/tle35080719.1","type":"correction"},"doi":"10.1190/tle35060528.1","journal":"The Leading Edge","publisher":"Society of Exploration Geophysicists","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495733961374,
+      "identifier": {
+        "doi": "10.1190/tle35080719.1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1190/tle35060528.1"
+  },
+  "journal": "The Leading Edge",
+  "publisher": "Society of Exploration Geophysicists",
+  "title": "Erratum"
+}

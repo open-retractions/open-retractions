@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1016/j.ccell.2015.11.007","type":"erratum"},"doi":"10.1016/j.ccell.2015.10.001","journal":"Cancer Cell","publisher":"Elsevier BV","title":"NEMO Prevents Steatohepatitis and Hepatocellular Carcinoma by Inhibiting RIPK1 Kinase Activity-Mediated Hepatocyte Apoptosis"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496053054361,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2015.11.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2015.10.001"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "NEMO Prevents Steatohepatitis and Hepatocellular Carcinoma by Inhibiting RIPK1 Kinase Activity-Mediated Hepatocyte Apoptosis"
+}

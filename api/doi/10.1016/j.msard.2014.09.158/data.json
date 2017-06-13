@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.msard.2014.12.003","type":"err"},"doi":"10.1016/j.msard.2014.09.158","journal":"Multiple Sclerosis and Related Disorders","publisher":"Elsevier BV","title":"Corrigendum to “Inflammatory cytokines in relapsing-remitting multiple sclerosis (RRMS) patients” [Mult. Scler. Relat. Disord. 3 (2014) 741]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496034853289,
+      "identifier": {
+        "doi": "10.1016/j.msard.2014.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msard.2014.09.158"
+  },
+  "journal": "Multiple Sclerosis and Related Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Inflammatory cytokines in relapsing-remitting multiple sclerosis (RRMS) patients” [Mult. Scler. Relat. Disord. 3 (2014) 741]"
+}

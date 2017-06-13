@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423094400000,"doi":"10.1007/s12307-015-0165-y","type":"correction"},"doi":"10.1007/s12307-014-0161-7","journal":"Cancer Microenvironment","publisher":"Springer Nature","title":"Erratum to: Biomodulatory Treatment of Patients with Castration-Resistant Prostate Cancer: A Phase II Study of Imatinib with Pioglitazone, Etoricoxib, Dexamethasone and Low-Dose Treosulfan"}
+{
+  "retracted": false,
+  "timestamp": 1423094400000,
+  "updates": [
+    {
+      "timestamp": 1496042017903,
+      "identifier": {
+        "doi": "10.1007/s12307-015-0165-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12307-014-0161-7"
+  },
+  "journal": "Cancer Microenvironment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Biomodulatory Treatment of Patients with Castration-Resistant Prostate Cancer: A Phase II Study of Imatinib with Pioglitazone, Etoricoxib, Dexamethasone and Low-Dose Treosulfan"
+}

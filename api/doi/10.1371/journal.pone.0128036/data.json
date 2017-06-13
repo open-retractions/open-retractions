@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1371/journal.pone.0131262","type":"correction"},"doi":"10.1371/journal.pone.0128036","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inexpensive Multiplexed Library Preparation for Megabase-Sized Genomes"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008972990,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0131262"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0128036"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inexpensive Multiplexed Library Preparation for Megabase-Sized Genomes"
+}

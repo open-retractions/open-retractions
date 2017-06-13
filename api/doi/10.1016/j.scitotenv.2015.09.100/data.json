@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.scitotenv.2016.01.169","type":"erratum"},"doi":"10.1016/j.scitotenv.2015.09.100","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Risk assessment of down-the-drain chemicals at large spatial scales: Model development and application to contaminants originating from urban areas in the Saint Lawrence River Basin” [Sci. Total Environ. Vol 541, (2016) 825–838]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495648913579,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2016.01.169"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2015.09.100"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Risk assessment of down-the-drain chemicals at large spatial scales: Model development and application to contaminants originating from urban areas in the Saint Lawrence River Basin” [Sci. Total Environ. Vol 541, (2016) 825–838]"
+}

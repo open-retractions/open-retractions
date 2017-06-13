@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1007/s00415-015-7976-0","type":"correction"},"doi":"10.1007/s00415-015-7659-x","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Neurogenic muscle cramps"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1496058132609,
+      "identifier": {
+        "doi": "10.1007/s00415-015-7976-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-015-7659-x"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neurogenic muscle cramps"
+}

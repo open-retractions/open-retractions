@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.3938/npsm.66.255","type":"Erratum"},"doi":"10.3938/npsm.66.1","journal":"New Physics: Sae Mulli","publisher":"Korean Physical Society","title":"Erratum: Electrical Properties of Tantalum-nitride Films Prepared by Using Reactive Sputter Deposition"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495648990160,
+      "identifier": {
+        "doi": "10.3938/npsm.66.255"
+      },
+      "type": "Erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3938/npsm.66.1"
+  },
+  "journal": "New Physics: Sae Mulli",
+  "publisher": "Korean Physical Society",
+  "title": "Erratum: Electrical Properties of Tantalum-nitride Films Prepared by Using Reactive Sputter Deposition"
+}

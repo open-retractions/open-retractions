@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416441600000,"doi":"10.1063/1.4902413","type":"correction"},"doi":"10.1063/1.4900511","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Microscopic mechanism of electron transfer through the hydrogen bonds between carboxylated alkanethiol molecules connected to gold electrodes” [J. Chem. Phys. 141, 174702 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1416441600000,
+  "updates": [
+    {
+      "timestamp": 1496023914481,
+      "identifier": {
+        "doi": "10.1063/1.4902413"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4900511"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Microscopic mechanism of electron transfer through the hydrogen bonds between carboxylated alkanethiol molecules connected to gold electrodes” [J. Chem. Phys. 141, 174702 (2014)]"
+}

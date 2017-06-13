@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225929600000,"doi":"10.1007/bf02529953","type":"correction"},"doi":"10.1007/bf02529087","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: Nutshell tables of mathematical functions for interpolation with calculating machines"}
+{
+  "retracted": false,
+  "timestamp": 1225929600000,
+  "updates": [
+    {
+      "timestamp": 1495919000257,
+      "identifier": {
+        "doi": "10.1007/bf02529953"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02529087"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nutshell tables of mathematical functions for interpolation with calculating machines"
+}

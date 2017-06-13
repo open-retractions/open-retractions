@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.immuni.2016.02.022","type":"erratum"},"doi":"10.1016/j.immuni.2016.01.028","journal":"Immunity","publisher":"Elsevier BV","title":"The Proteomic Landscape of Human Ex Vivo Regulatory and Conventional T Cells Reveals Specific Metabolic Requirements"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495654095100,
+      "identifier": {
+        "doi": "10.1016/j.immuni.2016.02.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.immuni.2016.01.028"
+  },
+  "journal": "Immunity",
+  "publisher": "Elsevier BV",
+  "title": "The Proteomic Landscape of Human Ex Vivo Regulatory and Conventional T Cells Reveals Specific Metabolic Requirements"
+}

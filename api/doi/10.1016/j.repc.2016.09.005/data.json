@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.repce.2016.11.001","type":"err"},"doi":"10.1016/j.repc.2016.09.005","journal":"Revista Portuguesa de Cardiologia (English Edition)","publisher":"Elsevier BV","title":"Erratum to “Do we need P2Y12 inhibitor pretreatment in non-ST elevation acute coronary syndrome?”"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495657391641,
+      "identifier": {
+        "doi": "10.1016/j.repce.2016.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.repc.2016.09.005"
+  },
+  "journal": "Revista Portuguesa de Cardiologia (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Do we need P2Y12 inhibitor pretreatment in non-ST elevation acute coronary syndrome?”"
+}

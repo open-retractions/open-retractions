@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":844128000000,"doi":"10.1007/bf02658520","type":"correction"},"doi":"10.1007/bf00418542","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Troglitazone, an insulin action enhancer, improves metabolic control in NIDDM patients"}
+{
+  "retracted": false,
+  "timestamp": 844128000000,
+  "updates": [
+    {
+      "timestamp": 1495907528246,
+      "identifier": {
+        "doi": "10.1007/bf02658520"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf00418542"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Troglitazone, an insulin action enhancer, improves metabolic control in NIDDM patients"
+}

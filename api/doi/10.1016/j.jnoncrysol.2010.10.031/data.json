@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379203200000,"doi":"10.1016/j.jnoncrysol.2013.04.069","type":"err"},"doi":"10.1016/j.jnoncrysol.2010.10.031","journal":"Journal of Non-Crystalline Solids","publisher":"Elsevier BV","title":"Erratum to “Effect of ion beam irradiation on the corrosion behavior of the melt spun ribbon Ti60Ni40” [J. Non-Cryst. Solids 357 (2011) 966–969]"}
+{
+  "retracted": false,
+  "timestamp": 1379203200000,
+  "updates": [
+    {
+      "timestamp": 1496024385185,
+      "identifier": {
+        "doi": "10.1016/j.jnoncrysol.2013.04.069"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnoncrysol.2010.10.031"
+  },
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effect of ion beam irradiation on the corrosion behavior of the melt spun ribbon Ti60Ni40” [J. Non-Cryst. Solids 357 (2011) 966–969]"
+}

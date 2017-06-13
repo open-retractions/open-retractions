@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.cellsig.2015.12.017","type":"err"},"doi":"10.1016/j.cellsig.2015.10.018","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “The Breast Cancer Susceptibility Gene Product (γ-Synuclein) Alters Cell Behavior through it Interaction with Phospholipase Cβ” [Cell. Signal. 28 (2016) 91–99]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495640080722,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2015.12.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2015.10.018"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Breast Cancer Susceptibility Gene Product (γ-Synuclein) Alters Cell Behavior through it Interaction with Phospholipase Cβ” [Cell. Signal. 28 (2016) 91–99]"
+}

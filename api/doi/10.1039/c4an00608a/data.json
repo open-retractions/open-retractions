@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462320000000,"doi":"10.1039/c6an90037b","type":"correction"},"doi":"10.1039/c4an00608a","journal":"The Analyst","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Micropatterning neuronal networks"}
+{
+  "retracted": false,
+  "timestamp": 1462320000000,
+  "updates": [
+    {
+      "timestamp": 1495672837552,
+      "identifier": {
+        "doi": "10.1039/c6an90037b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4an00608a"
+  },
+  "journal": "The Analyst",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Micropatterning neuronal networks"
+}

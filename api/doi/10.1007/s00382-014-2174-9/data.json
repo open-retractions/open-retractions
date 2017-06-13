@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409097600000,"doi":"10.1007/s00382-014-2311-5","type":"correction"},"doi":"10.1007/s00382-014-2174-9","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: The cloud radiative effect on the atmospheric energy budget and global mean precipitation"}
+{
+  "retracted": false,
+  "timestamp": 1409097600000,
+  "updates": [
+    {
+      "timestamp": 1496002777975,
+      "identifier": {
+        "doi": "10.1007/s00382-014-2311-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-014-2174-9"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The cloud radiative effect on the atmospheric energy budget and global mean precipitation"
+}

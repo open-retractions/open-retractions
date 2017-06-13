@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469059200000,"doi":"10.1088/1367-2630/18/7/079501","type":"correction"},"doi":"10.1088/1367-2630/16/10/103032","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: Randomized benchmarking with confidence (2014 New J. Phys.16103032)"}
+{
+  "retracted": false,
+  "timestamp": 1469059200000,
+  "updates": [
+    {
+      "timestamp": 1495727552605,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/7/079501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/16/10/103032"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Randomized benchmarking with confidence (2014 New J. Phys.16103032)"
+}

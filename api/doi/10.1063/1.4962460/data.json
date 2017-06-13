@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1063/1.4964849","type":"correction"},"doi":"10.1063/1.4962460","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “A model for Be-related photo-absorption in compensated GaN:Be substrates” [J. Appl. Phys. 120, 115701 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647127514,
+      "identifier": {
+        "doi": "10.1063/1.4964849"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4962460"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A model for Be-related photo-absorption in compensated GaN:Be substrates” [J. Appl. Phys. 120, 115701 (2016)]"
+}

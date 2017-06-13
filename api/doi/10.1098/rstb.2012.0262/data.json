@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374192000000,"doi":"10.1098/rstb.2013.0416","type":"correction"},"doi":"10.1098/rstb.2012.0262","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Controlling the delicate balance of tetrapyrrole biosynthesis"}
+{
+  "retracted": false,
+  "timestamp": 1374192000000,
+  "updates": [
+    {
+      "timestamp": 1496041695195,
+      "identifier": {
+        "doi": "10.1098/rstb.2013.0416"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2012.0262"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Controlling the delicate balance of tetrapyrrole biosynthesis"
+}

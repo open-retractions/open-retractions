@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.soilbio.2014.06.003","type":"err"},"doi":"10.1016/j.soilbio.2010.09.014","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Kinetic studies of proteolytic enzyme activity of arctic soils under varying toluene concentrations” [Soil Biol. Biochem. 43 (2011) 70–77]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496054146341,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2010.09.014"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Kinetic studies of proteolytic enzyme activity of arctic soils under varying toluene concentrations” [Soil Biol. Biochem. 43 (2011) 70–77]"
+}

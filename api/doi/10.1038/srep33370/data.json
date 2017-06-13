@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1038/srep37484","type":"correction"},"doi":"10.1038/srep33370","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Exposure to Sound Vibrations Lead to Transcriptomic, Proteomic and Hormonal Changes in Arabidopsis"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661171735,
+      "identifier": {
+        "doi": "10.1038/srep37484"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep33370"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Exposure to Sound Vibrations Lead to Transcriptomic, Proteomic and Hormonal Changes in Arabidopsis"
+}

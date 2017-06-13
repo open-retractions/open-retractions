@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jad.2014.12.029","type":"err"},"doi":"10.1016/j.jad.2013.04.054","journal":"Journal of Affective Disorders","publisher":"Elsevier BV","title":"Erratum to “Infants at familial risk for depression show a distinct pattern of cortisol response to experimental challenges” [J. Affect. Disord. 150(3) (2013) 955–960]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496039142364,
+      "identifier": {
+        "doi": "10.1016/j.jad.2014.12.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jad.2013.04.054"
+  },
+  "journal": "Journal of Affective Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Infants at familial risk for depression show a distinct pattern of cortisol response to experimental challenges” [J. Affect. Disord. 150(3) (2013) 955–960]"
+}

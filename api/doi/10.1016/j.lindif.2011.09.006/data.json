@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.lindif.2014.07.014","type":"err"},"doi":"10.1016/j.lindif.2011.09.006","journal":"Learning and Individual Differences","publisher":"Elsevier BV","title":"Corrigendum to “Prediction of self-reported knowledge with over-claiming, fluid and crystallized intelligence and typical intellectual engagement” [Learning and Individual Differences 21 (6) (2011) 742–746]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495996470185,
+      "identifier": {
+        "doi": "10.1016/j.lindif.2014.07.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lindif.2011.09.006"
+  },
+  "journal": "Learning and Individual Differences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Prediction of self-reported knowledge with over-claiming, fluid and crystallized intelligence and typical intellectual engagement” [Learning and Individual Differences 21 (6) (2011) 742–746]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1134/s1063774515030128","type":"correction"},"doi":"10.1134/s1063774514060108","journal":"Crystallography Reports","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Structural and electrical properties of InAlAs/InGaAs/InAlAs HEMT heterostructures on InP substrates with InAs inserts in quantum well”"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1495999758320,
+      "identifier": {
+        "doi": "10.1134/s1063774515030128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063774514060108"
+  },
+  "journal": "Crystallography Reports",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Structural and electrical properties of InAlAs/InGaAs/InAlAs HEMT heterostructures on InP substrates with InAs inserts in quantum well”"
+}

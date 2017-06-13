@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1371/annotation/1144e132-9e69-47bb-8e65-1414dbb01db7","type":"correction"},"doi":"10.1371/journal.pone.0061655","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Inactivation of the CovR/S Virulence Regulator Impairs Infection in an Improved Murine Model of Streptococcus pyogenes Naso-Pharyngeal Infection"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1496053923806,
+      "identifier": {
+        "doi": "10.1371/annotation/1144e132-9e69-47bb-8e65-1414dbb01db7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0061655"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inactivation of the CovR/S Virulence Regulator Impairs Infection in an Improved Murine Model of Streptococcus pyogenes Naso-Pharyngeal Infection"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374192000000,"doi":"10.1063/1.4813109","type":"correction"},"doi":"10.1063/1.4800778","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Seebeck coefficient in silicon nanowire arrays” [Appl. Phys. Lett. 102, 143102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1374192000000,
+  "updates": [
+    {
+      "timestamp": 1496034391072,
+      "identifier": {
+        "doi": "10.1063/1.4813109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4800778"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Seebeck coefficient in silicon nanowire arrays” [Appl. Phys. Lett. 102, 143102 (2013)]"
+}

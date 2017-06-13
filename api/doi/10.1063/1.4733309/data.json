@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1063/1.4958821","type":"erratum"},"doi":"10.1063/1.4733309","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Multi-point, high-speed passive ion velocity distribution diagnostic on the Pegasus Toroidal Experiment” [Rev. Sci. Instrum. 83, 10D516 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495726710846,
+      "identifier": {
+        "doi": "10.1063/1.4958821"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4733309"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Multi-point, high-speed passive ion velocity distribution diagnostic on the Pegasus Toroidal Experiment” [Rev. Sci. Instrum. 83, 10D516 (2012)]"
+}

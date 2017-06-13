@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361404800000,"doi":"10.1208/s12249-013-9938-0","type":"correction"},"doi":"10.1208/s12249-012-9796-1","journal":"AAPS PharmSciTech","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Design of Experiments-Based Monitoring of Critical Quality Attributes for the Spray-Drying Process of Insulin by NIR Spectroscopy"}
+{
+  "retracted": false,
+  "timestamp": 1361404800000,
+  "updates": [
+    {
+      "timestamp": 1495997008813,
+      "identifier": {
+        "doi": "10.1208/s12249-013-9938-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12249-012-9796-1"
+  },
+  "journal": "AAPS PharmSciTech",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Design of Experiments-Based Monitoring of Critical Quality Attributes for the Spray-Drying Process of Insulin by NIR Spectroscopy"
+}

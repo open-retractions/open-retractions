@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409443200000,"doi":"10.1007/s12205-014-1138-2","type":"correction"},"doi":"10.1007/s12205-014-0138-6","journal":"KSCE Journal of Civil Engineering","publisher":"Springer Nature","title":"Erratum to: Simplified passive earth pressure element"}
+{
+  "retracted": false,
+  "timestamp": 1409443200000,
+  "updates": [
+    {
+      "timestamp": 1496003915345,
+      "identifier": {
+        "doi": "10.1007/s12205-014-1138-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12205-014-0138-6"
+  },
+  "journal": "KSCE Journal of Civil Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simplified passive earth pressure element"
+}

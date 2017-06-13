@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1134/s1061830916090096","type":"correction"},"doi":"10.1007/s11181-005-0194-6","journal":"Russian Journal of Nondestructive Testing","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Thermal nondestructive testing of thermal-barrier coatings of turbine buckets”"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495658367240,
+      "identifier": {
+        "doi": "10.1134/s1061830916090096"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11181-005-0194-6"
+  },
+  "journal": "Russian Journal of Nondestructive Testing",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Thermal nondestructive testing of thermal-barrier coatings of turbine buckets”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439337600000,"doi":"10.1371/journal.pbio.1002232","type":"correction"},"doi":"10.1371/journal.pbio.1002191","journal":"PLOS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Biofilm Formation As a Response to Ecological Competition"}
+{
+  "retracted": false,
+  "timestamp": 1439337600000,
+  "updates": [
+    {
+      "timestamp": 1496022959818,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1002232"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1002191"
+  },
+  "journal": "PLOS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Biofilm Formation As a Response to Ecological Competition"
+}

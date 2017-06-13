@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1371/journal.pone.0133945","type":"correction"},"doi":"10.1371/journal.pone.0121056","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Germline-Transmitted Genome Editing in Arabidopsis thaliana Using TAL-Effector-Nucleases"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496016933724,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0133945"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0121056"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Germline-Transmitted Genome Editing in Arabidopsis thaliana Using TAL-Effector-Nucleases"
+}

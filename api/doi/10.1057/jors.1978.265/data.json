@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":302313600000,"doi":"10.1057/jors.1979.187","type":"correction"},"doi":"10.1057/jors.1978.265","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: On Handling Dependent Random Variables in Risk Analysis"}
+{
+  "retracted": false,
+  "timestamp": 302313600000,
+  "updates": [
+    {
+      "timestamp": 1495887723770,
+      "identifier": {
+        "doi": "10.1057/jors.1979.187"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1978.265"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: On Handling Dependent Random Variables in Risk Analysis"
+}

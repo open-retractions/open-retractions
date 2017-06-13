@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1128988800000,"doi":"10.1371/journal.pbio.0030350","type":"correction"},"doi":"10.1371/journal.pbio.0030068","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Highly Nonrandom Features of Synaptic Connectivity in Local Cortical Circuits"}
+{
+  "retracted": false,
+  "timestamp": 1128988800000,
+  "updates": [
+    {
+      "timestamp": 1495963064749,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0030350"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0030068"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Highly Nonrandom Features of Synaptic Connectivity in Local Cortical Circuits"
+}

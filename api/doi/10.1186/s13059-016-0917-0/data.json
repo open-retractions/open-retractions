@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461801600000,"doi":"10.1186/s13059-016-0961-9","type":"correction"},"doi":"10.1186/s13059-016-0917-0","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: The real cost of sequencing: scaling computation to keep pace with data generation"}
+{
+  "retracted": false,
+  "timestamp": 1461801600000,
+  "updates": [
+    {
+      "timestamp": 1495669766427,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0961-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-0917-0"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The real cost of sequencing: scaling computation to keep pace with data generation"
+}

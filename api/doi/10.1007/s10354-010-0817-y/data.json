@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288569600000,"doi":"10.1007/s10354-010-0839-5","type":"correction"},"doi":"10.1007/s10354-010-0817-y","journal":"Wiener Medizinische Wochenschrift","publisher":"Springer Nature","title":"Erratum zu: Grundlagen und Wirkungsweise von zielgerichteten Therapien"}
+{
+  "retracted": false,
+  "timestamp": 1288569600000,
+  "updates": [
+    {
+      "timestamp": 1495907131885,
+      "identifier": {
+        "doi": "10.1007/s10354-010-0839-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10354-010-0817-y"
+  },
+  "journal": "Wiener Medizinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Grundlagen und Wirkungsweise von zielgerichteten Therapien"
+}

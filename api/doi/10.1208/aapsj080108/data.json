@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1157068800000,"doi":"10.1208/aapsj080370c","type":"correction"},"doi":"10.1208/aapsj080108","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to Current status of immunologic approaches to treating tobacco dependence: Vaccines and nicotine-specific antibodies"}
+{
+  "retracted": false,
+  "timestamp": 1157068800000,
+  "updates": [
+    {
+      "timestamp": 1495913241685,
+      "identifier": {
+        "doi": "10.1208/aapsj080370c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/aapsj080108"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to Current status of immunologic approaches to treating tobacco dependence: Vaccines and nicotine-specific antibodies"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304899200000,"doi":"10.1057/rpm.2011.2","type":"correction"},"doi":"10.1057/rpm.2010.52","journal":"Journal of Revenue and Pricing Management","publisher":"Springer Nature","title":"Erratum: Revenue management in the car rental industry: A stochastic programming approach"}
+{
+  "retracted": false,
+  "timestamp": 1304899200000,
+  "updates": [
+    {
+      "timestamp": 1495955555663,
+      "identifier": {
+        "doi": "10.1057/rpm.2011.2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/rpm.2010.52"
+  },
+  "journal": "Journal of Revenue and Pricing Management",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Revenue management in the car rental industry: A stochastic programming approach"
+}

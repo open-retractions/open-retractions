@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.cellsig.2013.03.006","type":"err"},"doi":"10.1016/j.cellsig.2011.03.011","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “Suppression of uPA and uPAR Blocks Radiation-induced MCP-1 mediated Recruitment of Endothelial Cells in meningioma” [Cell. Signal 23 (2011) 1299 -1310]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496006461008,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2013.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2011.03.011"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Suppression of uPA and uPAR Blocks Radiation-induced MCP-1 mediated Recruitment of Endothelial Cells in meningioma” [Cell. Signal 23 (2011) 1299 -1310]"
+}

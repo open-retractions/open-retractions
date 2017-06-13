@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461024000000,"doi":"10.1073/pnas.1605200113","type":"correction"},"doi":"10.1073/pnas.1600798113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Venton, Inner Workings: Exploring ancient storms in marshes, corals, and caves"}
+{
+  "retracted": false,
+  "timestamp": 1461024000000,
+  "updates": [
+    {
+      "timestamp": 1495665818307,
+      "identifier": {
+        "doi": "10.1073/pnas.1605200113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1600798113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Venton, Inner Workings: Exploring ancient storms in marshes, corals, and caves"
+}

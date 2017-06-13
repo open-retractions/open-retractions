@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461024000000,"doi":"10.1007/s12094-016-1513-1","type":"correction"},"doi":"10.1007/s12094-015-1320-0","journal":"Clinical and Translational Oncology","publisher":"Springer Nature","title":"Erratum to: Autologous tumor lysate/Bacillus Calmette–Guérin immunotherapy as an adjuvant to conventional breast cancer therapy"}
+{
+  "retracted": false,
+  "timestamp": 1461024000000,
+  "updates": [
+    {
+      "timestamp": 1495667449534,
+      "identifier": {
+        "doi": "10.1007/s12094-016-1513-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12094-015-1320-0"
+  },
+  "journal": "Clinical and Translational Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Autologous tumor lysate/Bacillus Calmette–Guérin immunotherapy as an adjuvant to conventional breast cancer therapy"
+}

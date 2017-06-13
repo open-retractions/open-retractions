@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1371/journal.pone.0097393","type":"correction"},"doi":"10.1371/journal.pone.0023785","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Metagenomics of the Water Column in the Pristine Upper Course of the Amazon River"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496036971011,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0097393"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0023785"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Metagenomics of the Water Column in the Pristine Upper Course of the Amazon River"
+}

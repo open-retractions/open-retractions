@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1007/s12328-015-0583-x","type":"correction"},"doi":"10.1007/s12328-014-0540-0","journal":"Clinical Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Intestinal necrosis due to norovirus enteritis"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496019017900,
+      "identifier": {
+        "doi": "10.1007/s12328-015-0583-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12328-014-0540-0"
+  },
+  "journal": "Clinical Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intestinal necrosis due to norovirus enteritis"
+}

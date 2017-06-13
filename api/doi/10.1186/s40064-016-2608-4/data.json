@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1186/s40064-016-3388-6","type":"correction"},"doi":"10.1186/s40064-016-2608-4","journal":"SpringerPlus","publisher":"Springer Nature","title":"Erratum to: OnCampus: a mobile platform towards a smart campus"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647816699,
+      "identifier": {
+        "doi": "10.1186/s40064-016-3388-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40064-016-2608-4"
+  },
+  "journal": "SpringerPlus",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: OnCampus: a mobile platform towards a smart campus"
+}

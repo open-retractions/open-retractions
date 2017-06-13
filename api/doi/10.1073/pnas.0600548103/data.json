@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1152057600000,"doi":"10.1073/pnas.0604332103","type":"correction"},"doi":"10.1073/pnas.0600548103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wani et al., Familial hypercatabolic hypoproteinemia caused by deficiency of the neonatal Fc receptor, FcRn, due to a mutant beta2-microglobulin gene"}
+{
+  "retracted": false,
+  "timestamp": 1152057600000,
+  "updates": [
+    {
+      "timestamp": 1495829787037,
+      "identifier": {
+        "doi": "10.1073/pnas.0604332103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0600548103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wani et al., Familial hypercatabolic hypoproteinemia caused by deficiency of the neonatal Fc receptor, FcRn, due to a mutant beta2-microglobulin gene"
+}

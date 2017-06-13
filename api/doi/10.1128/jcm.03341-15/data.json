@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1128/jcm.01181-16","type":"correction"},"doi":"10.1128/jcm.03341-15","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Molina-Moya et al., Evaluation of GenoFlow DR-MTB Array Test for Detection of Rifampin and Isoniazid Resistance in Mycobacterium tuberculosis"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495731648393,
+      "identifier": {
+        "doi": "10.1128/jcm.01181-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.03341-15"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Molina-Moya et al., Evaluation of GenoFlow DR-MTB Array Test for Detection of Rifampin and Isoniazid Resistance in Mycobacterium tuberculosis"
+}

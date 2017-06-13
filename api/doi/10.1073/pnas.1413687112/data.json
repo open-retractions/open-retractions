@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1073/pnas.1504374112","type":"correction"},"doi":"10.1073/pnas.1413687112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Park et al., RORγt-specific transcriptional interactomic inhibition suppresses autoimmunity associated with TH17 cells"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496054291423,
+      "identifier": {
+        "doi": "10.1073/pnas.1504374112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1413687112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Park et al., RORγt-specific transcriptional interactomic inhibition suppresses autoimmunity associated with TH17 cells"
+}

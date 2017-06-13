@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402012800000,"doi":"10.1098/rsfs.2014.0023","type":"correction"},"doi":"10.1098/rsfs.2013.0013","journal":"Interface Focus","publisher":"The Royal Society","title":"Identification of ovarian cancer driver genes by using module network integration of multi-omics data"}
+{
+  "retracted": false,
+  "timestamp": 1402012800000,
+  "updates": [
+    {
+      "timestamp": 1496035192078,
+      "identifier": {
+        "doi": "10.1098/rsfs.2014.0023"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsfs.2013.0013"
+  },
+  "journal": "Interface Focus",
+  "publisher": "The Royal Society",
+  "title": "Identification of ovarian cancer driver genes by using module network integration of multi-omics data"
+}

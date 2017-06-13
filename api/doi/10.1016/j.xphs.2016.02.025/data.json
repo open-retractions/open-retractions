@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1462060800000,"update":{"timestamp":null,"doi":null,"pmid":27620699,"type":"retraction"},"doi":"10.1016/j.xphs.2016.02.025","journal":"Journal of pharmaceutical sciences","publisher":null,"title":"pH-Responsive Polymer Conjugate of Pirarubicin With Styrene Maleic Acid Copolymer as a Potential Therapeutic for Ovarian Cancer."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495639852209,
+      "identifier": {
+        "doi": "10.1016/j.xphs.2016.07.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.xphs.2016.02.025"
+  },
+  "journal": "Journal of Pharmaceutical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "RETRACTED: pH-Responsive Polymer Conjugate of Pirarubicin With Styrene Maleic Acid Copolymer as a Potential Therapeutic for Ovarian Cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.msea.2013.10.033","type":"erratum"},"doi":"10.1016/j.msea.2003.10.215","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to “The e/a criterion of Zr-based bulk metallic glasses” [Mater. Sci. Eng. A 375–377 (2004) 411–416]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495991436378,
+      "identifier": {
+        "doi": "10.1016/j.msea.2013.10.033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2003.10.215"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The e/a criterion of Zr-based bulk metallic glasses” [Mater. Sci. Eng. A 375–377 (2004) 411–416]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339718400000,"doi":"10.1371/annotation/6d71b282-8e08-43ba-bef7-7ad45cd48784","type":"correction"},"doi":"10.1371/journal.pone.0028498","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Dietary Essential Amino Acids Affect the Reproduction of the Keystone Herbivore Daphnia pulex"}
+{
+  "retracted": false,
+  "timestamp": 1339718400000,
+  "updates": [
+    {
+      "timestamp": 1495915609145,
+      "identifier": {
+        "doi": "10.1371/annotation/6d71b282-8e08-43ba-bef7-7ad45cd48784"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0028498"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Dietary Essential Amino Acids Affect the Reproduction of the Keystone Herbivore Daphnia pulex"
+}

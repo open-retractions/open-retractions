@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.ecoinf.2014.05.007","type":"err"},"doi":"10.1016/j.ecoinf.2012.09.003","journal":"Ecological Informatics","publisher":"Elsevier BV","title":"Corrigendum to “A web-based semantic tagging and activity recognition system for species' accelerometry data” [Ecol. Inf. 13 (2013) 47–56]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496044396974,
+      "identifier": {
+        "doi": "10.1016/j.ecoinf.2014.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecoinf.2012.09.003"
+  },
+  "journal": "Ecological Informatics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A web-based semantic tagging and activity recognition system for species' accelerometry data” [Ecol. Inf. 13 (2013) 47–56]"
+}

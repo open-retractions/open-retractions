@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443052800000,"doi":"10.1080/02786826.2015.1086172","type":"correction"},"doi":"10.1080/02786826.2015.1013521","journal":"Aerosol Science and Technology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1443052800000,
+  "updates": [
+    {
+      "timestamp": 1496032687483,
+      "identifier": {
+        "doi": "10.1080/02786826.2015.1086172"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02786826.2015.1013521"
+  },
+  "journal": "Aerosol Science and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

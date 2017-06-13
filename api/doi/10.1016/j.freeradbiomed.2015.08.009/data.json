@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.freeradbiomed.2016.06.022","type":"err"},"doi":"10.1016/j.freeradbiomed.2015.08.009","journal":"Free Radical Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Metallothionein plays a prominent role in the prevention of diabetic nephropathy by sulforaphane via up-regulation of Nrf2’’ [Free Radic. Biol. Med. 89 (2015) 431–42]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495728000243,
+      "identifier": {
+        "doi": "10.1016/j.freeradbiomed.2016.06.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.freeradbiomed.2015.08.009"
+  },
+  "journal": "Free Radical Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Metallothionein plays a prominent role in the prevention of diabetic nephropathy by sulforaphane via up-regulation of Nrf2’’ [Free Radic. Biol. Med. 89 (2015) 431–42]"
+}

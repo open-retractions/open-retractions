@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1343952000000,"doi":"10.1371/annotation/1957ad3b-e192-4faa-bf4c-5dce22c5560e","type":"correction"},"doi":"10.1371/journal.pone.0041562","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Diabetes Care Provision in UK Primary Care Practices"}
+{
+  "retracted": false,
+  "timestamp": 1343952000000,
+  "updates": [
+    {
+      "timestamp": 1495940322814,
+      "identifier": {
+        "doi": "10.1371/annotation/1957ad3b-e192-4faa-bf4c-5dce22c5560e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041562"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Diabetes Care Provision in UK Primary Care Practices"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.bone.2016.05.007","type":"err"},"doi":"10.1016/j.bone.2016.02.005","journal":"Bone","publisher":"Elsevier BV","title":"Erratum to Sclerostin antibody prevented progressive bone loss in combined ovariectomized and concurrent functional disuse [Bone 87 (2016) 161–168]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495717779145,
+      "identifier": {
+        "doi": "10.1016/j.bone.2016.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2016.02.005"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to Sclerostin antibody prevented progressive bone loss in combined ovariectomized and concurrent functional disuse [Bone 87 (2016) 161–168]"
+}

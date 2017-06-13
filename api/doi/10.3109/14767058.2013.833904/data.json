@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475452800000,"doi":"10.1080/14767058.2016.1237279","type":"correction"},"doi":"10.3109/14767058.2013.833904","journal":"The Journal of Maternal-Fetal & Neonatal Medicine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1475452800000,
+  "updates": [
+    {
+      "timestamp": 1495645126992,
+      "identifier": {
+        "doi": "10.1080/14767058.2016.1237279"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/14767058.2013.833904"
+  },
+  "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

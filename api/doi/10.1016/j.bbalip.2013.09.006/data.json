@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.bbalip.2014.07.004","type":"err"},"doi":"10.1016/j.bbalip.2013.09.006","journal":"Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids","publisher":"Elsevier BV","title":"Corrigendum to “The role of abnormalities in the distal pathway of cholesterol synthesis in the Congenital Hemidysplasia with Ichthyosiform erythroderma and Limb Defects (CHILD) syndrome” [Biochim. Biophys. Acta 1841 (2014) 345–352]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496053517594,
+      "identifier": {
+        "doi": "10.1016/j.bbalip.2014.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbalip.2013.09.006"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The role of abnormalities in the distal pathway of cholesterol synthesis in the Congenital Hemidysplasia with Ichthyosiform erythroderma and Limb Defects (CHILD) syndrome” [Biochim. Biophys. Acta 1841 (2014) 345–352]"
+}

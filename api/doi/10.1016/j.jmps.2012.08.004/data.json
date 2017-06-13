@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jmps.2016.12.003","type":"erratum"},"doi":"10.1016/j.jmps.2012.08.004","journal":"Journal of the Mechanics and Physics of Solids","publisher":"Elsevier BV","title":"Corrigendum to ‘Mechanism of friction in rotating carbon nanotube bearings’ [J. Mech. Phys. Solids 61(2) (2013) 652–673]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495674694578,
+      "identifier": {
+        "doi": "10.1016/j.jmps.2016.12.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmps.2012.08.004"
+  },
+  "journal": "Journal of the Mechanics and Physics of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Mechanism of friction in rotating carbon nanotube bearings’ [J. Mech. Phys. Solids 61(2) (2013) 652–673]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487030400000,"doi":"10.1186/s12974-017-0810-0","type":"correction"},"doi":"10.1186/1742-2094-8-16","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: SDF1 in the dorsal corticospinal tract promotes CXCR4+ cell migration after spinal cord injury"}
+{
+  "retracted": false,
+  "timestamp": 1487030400000,
+  "updates": [
+    {
+      "timestamp": 1495720431356,
+      "identifier": {
+        "doi": "10.1186/s12974-017-0810-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1742-2094-8-16"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: SDF1 in the dorsal corticospinal tract promotes CXCR4+ cell migration after spinal cord injury"
+}

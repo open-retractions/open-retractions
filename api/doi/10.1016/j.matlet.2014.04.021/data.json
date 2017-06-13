@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.matlet.2016.05.069","type":"erratum"},"doi":"10.1016/j.matlet.2014.04.021","journal":"Materials Letters","publisher":"Elsevier BV","title":"Corrigendum to “Formation of bone-like apatite on plasma-carboxylated poly(etheretherketone) surface” [Mater. Lett. 126 (2014) 147–150]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495715802363,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2016.05.069"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matlet.2014.04.021"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Formation of bone-like apatite on plasma-carboxylated poly(etheretherketone) surface” [Mater. Lett. 126 (2014) 147–150]"
+}

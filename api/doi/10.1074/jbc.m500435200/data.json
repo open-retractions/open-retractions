@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480032000000,"doi":"10.1074/jbc.a116.500435","type":"correction"},"doi":"10.1074/jbc.m500435200","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Schlafen-1 causes a cell cycle arrest by inhibiting induction of cyclin D1."}
+{
+  "retracted": false,
+  "timestamp": 1480032000000,
+  "updates": [
+    {
+      "timestamp": 1495658433827,
+      "identifier": {
+        "doi": "10.1074/jbc.a116.500435"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m500435200"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Schlafen-1 causes a cell cycle arrest by inhibiting induction of cyclin D1."
+}

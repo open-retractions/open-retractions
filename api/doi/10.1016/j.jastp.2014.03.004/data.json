@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jastp.2014.05.011","type":"err"},"doi":"10.1016/j.jastp.2014.03.004","journal":"Journal of Atmospheric and Solar-Terrestrial Physics","publisher":"Elsevier BV","title":"Corrigendum to “The occurrence of coronal holes during the sunspot cycle” [J. Atmos. Sol.–Terr. Phys. 113 (2014) 44–46]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496055675293,
+      "identifier": {
+        "doi": "10.1016/j.jastp.2014.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jastp.2014.03.004"
+  },
+  "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The occurrence of coronal holes during the sunspot cycle” [J. Atmos. Sol.–Terr. Phys. 113 (2014) 44–46]"
+}

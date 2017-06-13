@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.tube.2014.06.001","type":"err"},"doi":"10.1016/j.tube.2014.03.004","journal":"Tuberculosis","publisher":"Elsevier BV","title":"Corrigendum to “Mycobacterium tuberculosis pili (MTP), a putative biomarker for a tuberculosis diagnostic test” [Tuberculosis 94 (3) (May 2014) 338–345]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496045350215,
+      "identifier": {
+        "doi": "10.1016/j.tube.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tube.2014.03.004"
+  },
+  "journal": "Tuberculosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mycobacterium tuberculosis pili (MTP), a putative biomarker for a tuberculosis diagnostic test” [Tuberculosis 94 (3) (May 2014) 338–345]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.1063/1.4979997","type":"correction"},"doi":"10.1063/1.4976997","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Parameter independent low-power heteronuclear decoupling for fast magic-angle spinning solid-state NMR” [J. Chem. Phys. 146, 084202 (2017)]"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495736876586,
+      "identifier": {
+        "doi": "10.1063/1.4979997"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4976997"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Parameter independent low-power heteronuclear decoupling for fast magic-angle spinning solid-state NMR” [J. Chem. Phys. 146, 084202 (2017)]"
+}

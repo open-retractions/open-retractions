@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478131200000,"doi":"10.1016/j.cell.2016.10.034","type":"erratum"},"doi":"10.1016/j.cell.2016.05.018","journal":"Cell","publisher":"Elsevier BV","title":"The Colonic Crypt Protects Stem Cells from Microbiota-Derived Metabolites"}
+{
+  "retracted": false,
+  "timestamp": 1478131200000,
+  "updates": [
+    {
+      "timestamp": 1495652051089,
+      "identifier": {
+        "doi": "10.1016/j.cell.2016.10.034"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2016.05.018"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "The Colonic Crypt Protects Stem Cells from Microbiota-Derived Metabolites"
+}

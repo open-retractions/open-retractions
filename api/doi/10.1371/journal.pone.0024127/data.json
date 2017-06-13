@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1345680000000,"doi":"10.1371/annotation/8a7e2019-c039-4a54-b797-e9adb2ce4efc","type":"correction"},"doi":"10.1371/journal.pone.0024127","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Positive Darwinian Selection in the Piston That Powers Proton Pumps in Complex I of the Mitochondria of Pacific Salmon"}
+{
+  "retracted": false,
+  "timestamp": 1345680000000,
+  "updates": [
+    {
+      "timestamp": 1495948648651,
+      "identifier": {
+        "doi": "10.1371/annotation/8a7e2019-c039-4a54-b797-e9adb2ce4efc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0024127"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Positive Darwinian Selection in the Piston That Powers Proton Pumps in Complex I of the Mitochondria of Pacific Salmon"
+}

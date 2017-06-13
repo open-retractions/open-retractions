@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1160870400000,"doi":"10.1107/s1600536806037408","type":"correction"},"doi":"10.1107/s1600536806022987","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"{5-[4′-(2,2,5,5-Tetramethyl-3-pyrroline-1-oxyl-3-carbonyl)biphenyl-4-ylethynyl]-2,3,7,8,12,13,17,18-octaethylporphyrinato}copper(II) benzene solvate. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1160870400000,
+  "updates": [
+    {
+      "timestamp": 1495869174129,
+      "identifier": {
+        "doi": "10.1107/s1600536806037408"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536806022987"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "{5-[4′-(2,2,5,5-Tetramethyl-3-pyrroline-1-oxyl-3-carbonyl)biphenyl-4-ylethynyl]-2,3,7,8,12,13,17,18-octaethylporphyrinato}copper(II) benzene solvate. Corrigendum"
+}

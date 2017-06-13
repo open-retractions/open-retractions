@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447545600000,"doi":"10.1016/j.optcom.2015.09.003","type":"err"},"doi":"10.1016/j.optcom.2015.01.038","journal":"Optics Communications","publisher":"Elsevier BV","title":"Erratum to: “A full-duplex WDM-RoF system based on tunable optical frequency comb generator” [Opt. Commun. 344C (2015) 65–70]"}
+{
+  "retracted": false,
+  "timestamp": 1447545600000,
+  "updates": [
+    {
+      "timestamp": 1496033056608,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2015.09.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2015.01.038"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “A full-duplex WDM-RoF system based on tunable optical frequency comb generator” [Opt. Commun. 344C (2015) 65–70]"
+}

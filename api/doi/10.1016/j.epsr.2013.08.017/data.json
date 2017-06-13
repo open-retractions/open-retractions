@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.epsr.2013.10.011","type":"err"},"doi":"10.1016/j.epsr.2013.08.017","journal":"Electric Power Systems Research","publisher":"Elsevier BV","title":"Erratum to “Combining the Demand Response of direct electric space heating and partial thermal storage using LP optimization” [Electr. Power Syst. Res. 106 (2013) 160–167]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495995965744,
+      "identifier": {
+        "doi": "10.1016/j.epsr.2013.10.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsr.2013.08.017"
+  },
+  "journal": "Electric Power Systems Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Combining the Demand Response of direct electric space heating and partial thermal storage using LP optimization” [Electr. Power Syst. Res. 106 (2013) 160–167]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1005782400000,"doi":"10.1107/s1600536801007085","type":"correction"},"doi":"10.1107/s1600536801001684","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"5-(1,3-Benzothiazol-2-yliminomethyl)-2,2-dimethyl-1,3-dioxane-4,6-dione. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1005782400000,
+  "updates": [
+    {
+      "timestamp": 1495915398279,
+      "identifier": {
+        "doi": "10.1107/s1600536801007085"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536801001684"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "5-(1,3-Benzothiazol-2-yliminomethyl)-2,2-dimethyl-1,3-dioxane-4,6-dione. Erratum"
+}

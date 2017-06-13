@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1007/s00339-017-0851-3","type":"correction"},"doi":"10.1007/s00339-016-0359-2","journal":"Applied Physics A","publisher":"Springer Nature","title":"Erratum to: Enhancing the efficiency of luminescent solar concentrators (LSCs)"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495727970158,
+      "identifier": {
+        "doi": "10.1007/s00339-017-0851-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00339-016-0359-2"
+  },
+  "journal": "Applied Physics A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Enhancing the efficiency of luminescent solar concentrators (LSCs)"
+}

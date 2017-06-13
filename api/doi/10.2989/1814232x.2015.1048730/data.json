@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444176000000,"doi":"10.2989/1814232x.2015.1097052","type":"correction"},"doi":"10.2989/1814232x.2015.1048730","journal":"African Journal of Marine Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1444176000000,
+  "updates": [
+    {
+      "timestamp": 1496035662292,
+      "identifier": {
+        "doi": "10.2989/1814232x.2015.1097052"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2989/1814232x.2015.1048730"
+  },
+  "journal": "African Journal of Marine Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

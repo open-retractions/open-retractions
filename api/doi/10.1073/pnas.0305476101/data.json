@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1234224000000,"doi":"10.1073/pnas.0811993106","type":"correction"},"doi":"10.1073/pnas.0305476101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sanchezet al., Linear-After-The-Exponential (LATE)–PCR: An advanced method of asymmetric PCR and its uses in quantitative real-time analysis"}
+{
+  "retracted": false,
+  "timestamp": 1234224000000,
+  "updates": [
+    {
+      "timestamp": 1495915085335,
+      "identifier": {
+        "doi": "10.1073/pnas.0811993106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0305476101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sanchezet al., Linear-After-The-Exponential (LATE)–PCR: An advanced method of asymmetric PCR and its uses in quantitative real-time analysis"
+}

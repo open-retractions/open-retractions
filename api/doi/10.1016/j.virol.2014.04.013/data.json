@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.virol.2014.05.011","type":"err"},"doi":"10.1016/j.virol.2014.04.013","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Cell entry of lymphocytic choriomeningitis virus is restricted in myotubes” [Virology 458–459 (2014) 22–32]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496042436592,
+      "identifier": {
+        "doi": "10.1016/j.virol.2014.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2014.04.013"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cell entry of lymphocytic choriomeningitis virus is restricted in myotubes” [Virology 458–459 (2014) 22–32]"
+}

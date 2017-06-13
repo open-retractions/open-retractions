@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332979200000,"doi":"10.1007/s10695-012-9636-y","type":"correction"},"doi":"10.1007/s10695-011-9586-9","journal":"Fish Physiology and Biochemistry","publisher":"Springer Nature","title":"Erratum to: Physiological and behavioral responses to an electrical stimulus in Mozambique tilapia (Oreochromis mossambicus)"}
+{
+  "retracted": false,
+  "timestamp": 1332979200000,
+  "updates": [
+    {
+      "timestamp": 1495872500849,
+      "identifier": {
+        "doi": "10.1007/s10695-012-9636-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10695-011-9586-9"
+  },
+  "journal": "Fish Physiology and Biochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Physiological and behavioral responses to an electrical stimulus in Mozambique tilapia (Oreochromis mossambicus)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426550400000,"doi":"10.1121/1.4908215","type":"correction"},"doi":"10.1121/1.4828824","journal":"The Journal of the Acoustical Society of America","publisher":"Acoustical Society of America (ASA)","title":"Erratum: The diffracted field near the edge of a thin screen [J. Acoust. Soc. Am. 134(6), 4303–4306 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1426550400000,
+  "updates": [
+    {
+      "timestamp": 1496051729315,
+      "identifier": {
+        "doi": "10.1121/1.4908215"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1121/1.4828824"
+  },
+  "journal": "The Journal of the Acoustical Society of America",
+  "publisher": "Acoustical Society of America (ASA)",
+  "title": "Erratum: The diffracted field near the edge of a thin screen [J. Acoust. Soc. Am. 134(6), 4303–4306 (2013)]"
+}

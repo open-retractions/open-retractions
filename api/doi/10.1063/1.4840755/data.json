@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405468800000,"doi":"10.1063/1.4890076","type":"correction"},"doi":"10.1063/1.4840755","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Global reaction route mapping of isomerization pathways of exotic C6H molecular species” [J. Chem. Phys. 139, 224311 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1405468800000,
+  "updates": [
+    {
+      "timestamp": 1496054611806,
+      "identifier": {
+        "doi": "10.1063/1.4890076"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4840755"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Global reaction route mapping of isomerization pathways of exotic C6H molecular species” [J. Chem. Phys. 139, 224311 (2013)]"
+}

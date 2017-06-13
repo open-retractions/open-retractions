@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.metabol.2016.11.005","type":"erratum"},"doi":"10.1016/j.metabol.2012.11.005","journal":"Metabolism","publisher":"Elsevier BV","title":"Corrigendum to “Variants of the adiponectin gene and diabetic microvascular complications in patients with type 2 diabetes” [Metab. Clin. Exp. 62 (2013) 677–685]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495662014880,
+      "identifier": {
+        "doi": "10.1016/j.metabol.2016.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.metabol.2012.11.005"
+  },
+  "journal": "Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Variants of the adiponectin gene and diabetic microvascular complications in patients with type 2 diabetes” [Metab. Clin. Exp. 62 (2013) 677–685]"
+}

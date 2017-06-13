@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488758400000,"doi":"10.1007/s40629-017-0016-0","type":"correction"},"doi":"10.1007/s40629-016-0124-2","journal":"Allergo Journal International","publisher":"Springer Nature","title":"Erratum to: Allergens and molecular diagnostics of shellfish allergy"}
+{
+  "retracted": false,
+  "timestamp": 1488758400000,
+  "updates": [
+    {
+      "timestamp": 1495726513518,
+      "identifier": {
+        "doi": "10.1007/s40629-017-0016-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40629-016-0124-2"
+  },
+  "journal": "Allergo Journal International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Allergens and molecular diagnostics of shellfish allergy"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414108800000,"doi":"10.1007/s00384-014-2039-z","type":"correction"},"doi":"10.1007/s00384-014-2008-6","journal":"International Journal of Colorectal Disease","publisher":"Springer Nature","title":"Erratum to: A large polyp in the rectum: not always an epithelial lesion"}
+{
+  "retracted": false,
+  "timestamp": 1414108800000,
+  "updates": [
+    {
+      "timestamp": 1496016101259,
+      "identifier": {
+        "doi": "10.1007/s00384-014-2039-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00384-014-2008-6"
+  },
+  "journal": "International Journal of Colorectal Disease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A large polyp in the rectum: not always an epithelial lesion"
+}

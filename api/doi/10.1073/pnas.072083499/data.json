@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1033430400000,"doi":"10.1073/pnas.212281299","type":"correction"},"doi":"10.1073/pnas.072083499","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1033430400000,
+  "updates": [
+    {
+      "timestamp": 1491682277407,
+      "identifier": {
+        "doi": "10.1073/pnas.212281299"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.072083499"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction"
+}

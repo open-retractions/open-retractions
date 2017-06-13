@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398038400000,"doi":"10.1080/00431672.2014.899791","type":"correction"},"doi":"10.1080/00431672.2014.859936","journal":"Weatherwise","publisher":"Informa UK Limited","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1398038400000,
+  "updates": [
+    {
+      "timestamp": 1496034490592,
+      "identifier": {
+        "doi": "10.1080/00431672.2014.899791"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00431672.2014.859936"
+  },
+  "journal": "Weatherwise",
+  "publisher": "Informa UK Limited",
+  "title": "Correction"
+}

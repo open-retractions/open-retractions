@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392249600000,"doi":"10.1586/14760584.2014.883215","type":"correction"},"doi":"10.1586/14760584.2013.825454","journal":"Expert Review of Vaccines","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1392249600000,
+  "updates": [
+    {
+      "timestamp": 1496016167908,
+      "identifier": {
+        "doi": "10.1586/14760584.2014.883215"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1586/14760584.2013.825454"
+  },
+  "journal": "Expert Review of Vaccines",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

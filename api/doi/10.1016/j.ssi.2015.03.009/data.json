@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.ssi.2015.12.014","type":"erratum"},"doi":"10.1016/j.ssi.2015.03.009","journal":"Solid State Ionics","publisher":"Elsevier BV","title":"Corrigendum to “Preparation and characterization of sol–gel derived high lithium ion conductive NZP-type ceramics Li1+xAlxTi2-x(PO4)3” [Solid State Ion., 274 (2015), 77–82 ]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496057886511,
+      "identifier": {
+        "doi": "10.1016/j.ssi.2015.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ssi.2015.03.009"
+  },
+  "journal": "Solid State Ionics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preparation and characterization of sol–gel derived high lithium ion conductive NZP-type ceramics Li 1+x Al x Ti 2-x (PO 4 ) 3 ” [Solid State Ion., 274 (2015), 77–82 ]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366848000000,"doi":"10.1016/j.molcel.2013.04.008","type":"err"},"doi":"10.1016/j.molcel.2012.06.027","journal":"Molecular Cell","publisher":"Elsevier BV","title":"LincRNA-p21 Suppresses Target mRNA Translation"}
+{
+  "retracted": false,
+  "timestamp": 1366848000000,
+  "updates": [
+    {
+      "timestamp": 1496014789820,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2013.04.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2012.06.027"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "LincRNA-p21 Suppresses Target mRNA Translation"
+}

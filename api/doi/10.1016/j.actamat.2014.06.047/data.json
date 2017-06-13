@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.actamat.2015.03.005","type":"err"},"doi":"10.1016/j.actamat.2014.06.047","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Steady spatially-periodic eutectic growth with the effect of triple point in directional solidification” [Acta Mater. 80 (2014) 220–238]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496054078197,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2015.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2014.06.047"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Steady spatially-periodic eutectic growth with the effect of triple point in directional solidification” [Acta Mater. 80 (2014) 220–238]"
+}

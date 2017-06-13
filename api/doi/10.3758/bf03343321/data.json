@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393718400000,"doi":"10.3758/bf03343330","type":"correction"},"doi":"10.3758/bf03343321","journal":"Psychonomic Science","publisher":"Springer Nature","title":"Erratum to The effect of brain lesions on prism-adaptation in monkey"}
+{
+  "retracted": false,
+  "timestamp": 1393718400000,
+  "updates": [
+    {
+      "timestamp": 1496021901696,
+      "identifier": {
+        "doi": "10.3758/bf03343330"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/bf03343321"
+  },
+  "journal": "Psychonomic Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to The effect of brain lesions on prism-adaptation in monkey"
+}

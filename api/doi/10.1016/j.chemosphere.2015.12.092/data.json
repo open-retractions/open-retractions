@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1456790400000,"update":{"timestamp":null,"doi":null,"pmid":27516053,"type":"retraction"},"doi":"10.1016/j.chemosphere.2015.12.092","journal":"Chemosphere","publisher":null,"title":"Bioreduction and reoxidation of uranium enhanced by thiol functional groups in natural organic matter."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495735832568,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.07.059"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2015.12.092"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Bioreduction and reoxidation of uranium enhanced by thiol functional groups in natural organic matter” [Chemosphere 147C (2015) 20–24]"
+}

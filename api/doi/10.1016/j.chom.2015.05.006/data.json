@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436313600000,"doi":"10.1016/j.chom.2015.06.005","type":"err"},"doi":"10.1016/j.chom.2015.05.006","journal":"Cell Host & Microbe","publisher":"Elsevier BV","title":"The PAMP c-di-AMP Is Essential for Listeria monocytogenes Growth in Rich but Not Minimal Media due to a Toxic Increase in (p)ppGpp"}
+{
+  "retracted": false,
+  "timestamp": 1436313600000,
+  "updates": [
+    {
+      "timestamp": 1496014194218,
+      "identifier": {
+        "doi": "10.1016/j.chom.2015.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chom.2015.05.006"
+  },
+  "journal": "Cell Host & Microbe",
+  "publisher": "Elsevier BV",
+  "title": "The PAMP c-di-AMP Is Essential for Listeria monocytogenes Growth in Rich but Not Minimal Media due to a Toxic Increase in (p)ppGpp"
+}

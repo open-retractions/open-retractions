@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1186/s12915-016-0297-7","type":"correction"},"doi":"10.1186/s12915-016-0281-2","journal":"BMC Biology","publisher":"Springer Nature","title":"Erratum to: Type IV collagen drives alveolar epithelial–endothelial association and the morphogenetic movements of septation"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495742169387,
+      "identifier": {
+        "doi": "10.1186/s12915-016-0297-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12915-016-0281-2"
+  },
+  "journal": "BMC Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Type IV collagen drives alveolar epithelial–endothelial association and the morphogenetic movements of septation"
+}

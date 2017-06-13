@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453680000000,"doi":"10.1007/s11207-016-0848-7","type":"correction"},"doi":"10.1007/s11207-015-0734-8","journal":"Solar Physics","publisher":"Springer Nature","title":"Erratum to: Ionisation Equilibrium for the Non-Maxwellian Electron n $n$ -Distributions in Solar Flares: Updated Calculations"}
+{
+  "retracted": false,
+  "timestamp": 1453680000000,
+  "updates": [
+    {
+      "timestamp": 1495639285380,
+      "identifier": {
+        "doi": "10.1007/s11207-016-0848-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11207-015-0734-8"
+  },
+  "journal": "Solar Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ionisation Equilibrium for the Non-Maxwellian Electron n $n$ -Distributions in Solar Flares: Updated Calculations"
+}

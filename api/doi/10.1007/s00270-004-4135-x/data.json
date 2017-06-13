@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1122854400000,"doi":"10.1007/s00270-005-8845-5","type":"correction"},"doi":"10.1007/s00270-004-4135-x","journal":"CardioVascular and Interventional Radiology","publisher":"Springer Nature","title":"Erratum to Endovascular Placement of an Extraluminal Femoropopliteal Bypass Graft in Human Cadavers"}
+{
+  "retracted": false,
+  "timestamp": 1122854400000,
+  "updates": [
+    {
+      "timestamp": 1495901340961,
+      "identifier": {
+        "doi": "10.1007/s00270-005-8845-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00270-004-4135-x"
+  },
+  "journal": "CardioVascular and Interventional Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Endovascular Placement of an Extraluminal Femoropopliteal Bypass Graft in Human Cadavers"
+}

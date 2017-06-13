@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373587200000,"doi":"10.1007/s10107-013-0699-z","type":"correction"},"doi":"10.1007/s10107-003-0434-2","journal":"Mathematical Programming","publisher":"Springer Nature","title":"Erratum to: Convex approximations for complete integer recourse models"}
+{
+  "retracted": false,
+  "timestamp": 1373587200000,
+  "updates": [
+    {
+      "timestamp": 1496032163468,
+      "identifier": {
+        "doi": "10.1007/s10107-013-0699-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10107-003-0434-2"
+  },
+  "journal": "Mathematical Programming",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Convex approximations for complete integer recourse models"
+}

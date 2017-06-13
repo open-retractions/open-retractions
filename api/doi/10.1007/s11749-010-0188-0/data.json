@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416873600000,"doi":"10.1007/s11749-014-0420-4","type":"correction"},"doi":"10.1007/s11749-010-0188-0","journal":"TEST","publisher":"Springer Nature","title":"Erratum to: A general result on the uniform in bandwidth consistency of kernel-type function estimators"}
+{
+  "retracted": false,
+  "timestamp": 1416873600000,
+  "updates": [
+    {
+      "timestamp": 1496025743968,
+      "identifier": {
+        "doi": "10.1007/s11749-014-0420-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11749-010-0188-0"
+  },
+  "journal": "TEST",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A general result on the uniform in bandwidth consistency of kernel-type function estimators"
+}

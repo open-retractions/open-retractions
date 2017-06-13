@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.ijpharm.2015.03.066","type":"err"},"doi":"10.1016/j.ijpharm.2014.04.057","journal":"International Journal of Pharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to ‘Preclinical evaluation of a ricinoleic acid poloxamer gel system for transdermal eyelid delivery’ [Int. J. Pharm. 470 (1–2) (2014) 158–161]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496056214794,
+      "identifier": {
+        "doi": "10.1016/j.ijpharm.2015.03.066"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpharm.2014.04.057"
+  },
+  "journal": "International Journal of Pharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Preclinical evaluation of a ricinoleic acid poloxamer gel system for transdermal eyelid delivery’ [Int. J. Pharm. 470 (1–2) (2014) 158–161]"
+}

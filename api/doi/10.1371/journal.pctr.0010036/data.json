@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1170374400000,"doi":"10.1371/journal.pctr.0020003","type":"correction"},"doi":"10.1371/journal.pctr.0010036","journal":"PLoS Clinical Trials","publisher":"Public Library of Science (PLoS)","title":"Correction: Evolution and Translation of Research Findings: From Bench to Where."}
+{
+  "retracted": false,
+  "timestamp": 1170374400000,
+  "updates": [
+    {
+      "timestamp": 1495928784255,
+      "identifier": {
+        "doi": "10.1371/journal.pctr.0020003"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pctr.0010036"
+  },
+  "journal": "PLoS Clinical Trials",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evolution and Translation of Research Findings: From Bench to Where."
+}

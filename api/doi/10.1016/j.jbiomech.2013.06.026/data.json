@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1016/j.jbiomech.2015.05.003","type":"err"},"doi":"10.1016/j.jbiomech.2013.06.026","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “A new method to analyze postural stability during a transition task from double-leg stance to single-leg stance”"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496004813979,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2013.06.026"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new method to analyze postural stability during a transition task from double-leg stance to single-leg stance”"
+}

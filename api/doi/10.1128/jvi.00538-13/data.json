@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1128/jvi.00507-16","type":"correction"},"doi":"10.1128/jvi.00538-13","journal":"Journal of Virology","publisher":"American Society for Microbiology","title":"Correction for Colman et al., Genome-Wide Analysis of Host mRNA Translation during Hepatitis C Virus Infection"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495680768687,
+      "identifier": {
+        "doi": "10.1128/jvi.00507-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jvi.00538-13"
+  },
+  "journal": "Journal of Virology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Colman et al., Genome-Wide Analysis of Host mRNA Translation during Hepatitis C Virus Infection"
+}

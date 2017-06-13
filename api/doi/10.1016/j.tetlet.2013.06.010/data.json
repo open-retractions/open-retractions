@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378857600000,"doi":"10.1016/j.tetlet.2013.07.086","type":"err"},"doi":"10.1016/j.tetlet.2013.06.010","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Erratum to “Fluorogenic probes for chemical transformations: 9-anthracene derivatives for monitoring reaction progress by an increase in fluorescence” [Tetrahedron Lett. 54 (2013) 4306–4308]"}
+{
+  "retracted": false,
+  "timestamp": 1378857600000,
+  "updates": [
+    {
+      "timestamp": 1496035934912,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.07.086"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2013.06.010"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Fluorogenic probes for chemical transformations: 9-anthracene derivatives for monitoring reaction progress by an increase in fluorescence” [Tetrahedron Lett. 54 (2013) 4306–4308]"
+}

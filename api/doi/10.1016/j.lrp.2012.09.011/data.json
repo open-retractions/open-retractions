@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.lrp.2013.08.015","type":"err"},"doi":"10.1016/j.lrp.2012.09.011","journal":"Long Range Planning","publisher":"Elsevier BV","title":"Corrigendum to “Editorial Partial Least Squares: The Better Approach to Structural Equation Modeling?” [LRP 45/5-6 (2012) 312–319]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496045396864,
+      "identifier": {
+        "doi": "10.1016/j.lrp.2013.08.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lrp.2012.09.011"
+  },
+  "journal": "Long Range Planning",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Editorial Partial Least Squares: The Better Approach to Structural Equation Modeling?” [LRP 45/5-6 (2012) 312–319]"
+}

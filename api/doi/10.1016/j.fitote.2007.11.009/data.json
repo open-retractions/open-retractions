@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.fitote.2013.05.002","type":"err"},"doi":"10.1016/j.fitote.2007.11.009","journal":"Fitoterapia","publisher":"Elsevier BV","title":"Corrigendum to “New coumarin glycosides from Rhododendron lepidotum” [Fitoterapia 79/3 (April 2008) 232–233]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496019825831,
+      "identifier": {
+        "doi": "10.1016/j.fitote.2013.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fitote.2007.11.009"
+  },
+  "journal": "Fitoterapia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New coumarin glycosides from Rhododendron lepidotum” [Fitoterapia 79/3 (April 2008) 232–233]"
+}

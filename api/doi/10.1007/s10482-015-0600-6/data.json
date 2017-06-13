@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448236800000,"doi":"10.1007/s10482-015-0624-y","type":"correction"},"doi":"10.1007/s10482-015-0600-6","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Roseovarius algicolus sp. nov., isolated from culture fluid of Cochlodinium polykrikoides"}
+{
+  "retracted": false,
+  "timestamp": 1448236800000,
+  "updates": [
+    {
+      "timestamp": 1496047900700,
+      "identifier": {
+        "doi": "10.1007/s10482-015-0624-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-015-0600-6"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Roseovarius algicolus sp. nov., isolated from culture fluid of Cochlodinium polykrikoides"
+}

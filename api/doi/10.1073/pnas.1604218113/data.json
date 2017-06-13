@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1073/pnas.1617861113","type":"correction"},"doi":"10.1073/pnas.1604218113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sakata et al., Voltage-dependent motion of the catalytic region of voltage-sensing phosphatase monitored by a fluorescent amino acid"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495657380216,
+      "identifier": {
+        "doi": "10.1073/pnas.1617861113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1604218113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sakata et al., Voltage-dependent motion of the catalytic region of voltage-sensing phosphatase monitored by a fluorescent amino acid"
+}

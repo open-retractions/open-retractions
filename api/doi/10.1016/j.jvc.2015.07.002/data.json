@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jvc.2016.01.002","type":"err"},"doi":"10.1016/j.jvc.2015.07.002","journal":"Journal of Veterinary Cardiology","publisher":"Elsevier BV","title":"Corrigendum to “Left ventricular structural and functional abnormalities in dogs with hyperadrenocorticism” [J Vet Cardiol 17 (3) (2015) 173–181]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495650273635,
+      "identifier": {
+        "doi": "10.1016/j.jvc.2016.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvc.2015.07.002"
+  },
+  "journal": "Journal of Veterinary Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Left ventricular structural and functional abnormalities in dogs with hyperadrenocorticism” [J Vet Cardiol 17 (3) (2015) 173–181]"
+}

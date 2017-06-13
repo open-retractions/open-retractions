@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405641600000,"doi":"10.1016/j.bbrc.2014.06.070","type":"erratum"},"doi":"10.1016/j.bbrc.2014.03.135","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “miR-612 suppresses the stemness of liver cancer via Wnt/β-catenin signaling” [Biochem. Biophys. Res. Commun. 447 (2014) 210–215]"}
+{
+  "retracted": false,
+  "timestamp": 1405641600000,
+  "updates": [
+    {
+      "timestamp": 1496047997835,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2014.06.070"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2014.03.135"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “miR-612 suppresses the stemness of liver cancer via Wnt/β-catenin signaling” [Biochem. Biophys. Res. Commun. 447 (2014) 210–215]"
+}

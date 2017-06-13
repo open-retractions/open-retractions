@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":767836800000,"doi":"10.1007/bf02353543","type":"correction"},"doi":"10.1007/bf01113501","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Simplified methods for the evaluation of the parameters of the time course of plasma concentration in the one-compartment body model with first-order invasion and first-order drug elimination including methods for ascertaining when such rate constants are equal"}
+{
+  "retracted": false,
+  "timestamp": 767836800000,
+  "updates": [
+    {
+      "timestamp": 1495990965721,
+      "identifier": {
+        "doi": "10.1007/bf02353543"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01113501"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simplified methods for the evaluation of the parameters of the time course of plasma concentration in the one-compartment body model with first-order invasion and first-order drug elimination including methods for ascertaining when such rate constants are equal"
+}

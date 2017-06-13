@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452729600000,"doi":"10.1371/journal.ppat.1005402","type":"correction"},"doi":"10.1371/journal.ppat.1003845","journal":"PLOS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Suppression of Interferon Lambda Signaling by SOCS-1 Results in Their Excessive Production during Influenza Virus Infection"}
+{
+  "retracted": false,
+  "timestamp": 1452729600000,
+  "updates": [
+    {
+      "timestamp": 1496060150251,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.1005402"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003845"
+  },
+  "journal": "PLOS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Suppression of Interferon Lambda Signaling by SOCS-1 Results in Their Excessive Production during Influenza Virus Infection"
+}

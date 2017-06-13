@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389225600000,"doi":"10.1371/annotation/f1b2fa68-726c-4f30-b061-d05c8a281eb8","type":"correction"},"doi":"10.1371/journal.pone.0077907","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Brown Adipose Tissue Quantification in Human Neonates Using Water-Fat Separated MRI"}
+{
+  "retracted": false,
+  "timestamp": 1389225600000,
+  "updates": [
+    {
+      "timestamp": 1496011836649,
+      "identifier": {
+        "doi": "10.1371/annotation/f1b2fa68-726c-4f30-b061-d05c8a281eb8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0077907"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Brown Adipose Tissue Quantification in Human Neonates Using Water-Fat Separated MRI"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425340800000,"doi":"10.1007/s10162-015-0514-z","type":"correction"},"doi":"10.1007/s10162-015-0510-3","journal":"Journal of the Association for Research in Otolaryngology","publisher":"Springer Nature","title":"Erratum to: Dynamics of cochlear synaptopathy after acoustic overexposure"}
+{
+  "retracted": false,
+  "timestamp": 1425340800000,
+  "updates": [
+    {
+      "timestamp": 1496047878696,
+      "identifier": {
+        "doi": "10.1007/s10162-015-0514-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10162-015-0510-3"
+  },
+  "journal": "Journal of the Association for Research in Otolaryngology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamics of cochlear synaptopathy after acoustic overexposure"
+}

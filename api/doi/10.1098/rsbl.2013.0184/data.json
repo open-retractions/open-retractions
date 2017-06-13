@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1098/rsbl.2017.0128","type":"correction"},"doi":"10.1098/rsbl.2013.0184","journal":"Biology Letters","publisher":"The Royal Society","title":"Correction to ‘Experimental maturation of feathers: implications for reconstructions of fossil feather colour’"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495731247365,
+      "identifier": {
+        "doi": "10.1098/rsbl.2017.0128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2013.0184"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Experimental maturation of feathers: implications for reconstructions of fossil feather colour’"
+}

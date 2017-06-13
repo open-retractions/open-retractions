@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.intimp.2013.04.022","type":"err"},"doi":"10.1016/j.intimp.2013.01.006","journal":"International Immunopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Sorafenib induces autophagy and suppresses activation of human macrophage” [Int. Immunopharmacol. 15 (2013) 333–339]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1496017095337,
+      "identifier": {
+        "doi": "10.1016/j.intimp.2013.04.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intimp.2013.01.006"
+  },
+  "journal": "International Immunopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sorafenib induces autophagy and suppresses activation of human macrophage” [Int. Immunopharmacol. 15 (2013) 333–339]"
+}

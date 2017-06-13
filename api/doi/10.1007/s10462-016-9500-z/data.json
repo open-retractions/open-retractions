@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472515200000,"doi":"10.1007/s10462-016-9512-8","type":"correction"},"doi":"10.1007/s10462-016-9500-z","journal":"Artificial Intelligence Review","publisher":"Springer Nature","title":"Erratum to: IIR model identification using a modified inclined planes system optimization algorithm"}
+{
+  "retracted": false,
+  "timestamp": 1472515200000,
+  "updates": [
+    {
+      "timestamp": 1495741443036,
+      "identifier": {
+        "doi": "10.1007/s10462-016-9512-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10462-016-9500-z"
+  },
+  "journal": "Artificial Intelligence Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: IIR model identification using a modified inclined planes system optimization algorithm"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.soilbio.2014.07.001","type":"err"},"doi":"10.1016/j.soilbio.2013.09.011","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Impacts of organic matter amendments on carbon and nitrogen dynamics in grassland soils” [Soil Biol. Biochem. 68 (2014) 52–61]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496051426597,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2013.09.011"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impacts of organic matter amendments on carbon and nitrogen dynamics in grassland soils” [Soil Biol. Biochem. 68 (2014) 52–61]"
+}

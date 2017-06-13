@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388707200000,"doi":"10.1016/j.bbrc.2013.11.080","type":"erratum"},"doi":"10.1016/j.bbrc.2013.09.060","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “TFEB activation promotes the recruitment of lysosomal glycohydrolases β-hexosaminidase and β-galactosidase to the plasma membrane” [Biochem. Biophys. Res. Commun. 440 (2013) 251–257]"}
+{
+  "retracted": false,
+  "timestamp": 1388707200000,
+  "updates": [
+    {
+      "timestamp": 1496000025179,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2013.11.080"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2013.09.060"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “TFEB activation promotes the recruitment of lysosomal glycohydrolases β-hexosaminidase and β-galactosidase to the plasma membrane” [Biochem. Biophys. Res. Commun. 440 (2013) 251–257]"
+}

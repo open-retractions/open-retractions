@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378771200000,"doi":"10.1371/annotation/83c5e6a5-2633-46d8-b138-2ac1f0f2706a","type":"correction"},"doi":"10.1371/journal.pone.0064481","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Transcriptome Analysis of Barbarea vulgaris Infested with Diamondback Moth (Plutella xylostella) Larvae"}
+{
+  "retracted": false,
+  "timestamp": 1378771200000,
+  "updates": [
+    {
+      "timestamp": 1496702549015,
+      "identifier": {
+        "doi": "10.1371/annotation/83c5e6a5-2633-46d8-b138-2ac1f0f2706a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0064481"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Transcriptome Analysis of Barbarea vulgaris Infested with Diamondback Moth (Plutella xylostella) Larvae"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":486432000000,"doi":"10.1057/jors.1985.91","type":"correction"},"doi":"10.1057/jors.1984.194","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Modelling Alternative Realities in Conflict and Negotiation"}
+{
+  "retracted": false,
+  "timestamp": 486432000000,
+  "updates": [
+    {
+      "timestamp": 1495887695996,
+      "identifier": {
+        "doi": "10.1057/jors.1985.91"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1984.194"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Modelling Alternative Realities in Conflict and Negotiation"
+}

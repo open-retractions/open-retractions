@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1279670400000,"doi":"10.1007/s00216-010-3938-7","type":"correction"},"doi":"10.1007/s00216-010-3764-y","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Simultaneous speciation of arsenic (As(III), MMA, DMA, and As(V)) and selenium (Se(IV), Se(VI), and SeCN−) in petroleum refinery aqueous streams"}
+{
+  "retracted": false,
+  "timestamp": 1279670400000,
+  "updates": [
+    {
+      "timestamp": 1495863006636,
+      "identifier": {
+        "doi": "10.1007/s00216-010-3938-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-010-3764-y"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simultaneous speciation of arsenic (As(III), MMA, DMA, and As(V)) and selenium (Se(IV), Se(VI), and SeCN−) in petroleum refinery aqueous streams"
+}

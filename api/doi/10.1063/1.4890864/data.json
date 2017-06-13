@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.1063/1.4894638","type":"correction"},"doi":"10.1063/1.4890864","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Nonpolar III-nitride vertical-cavity surface emitting lasers with a polarization ratio of 100% fabricated using photoelectrochemical etching” [Appl. Phys. Lett. 105, 031111 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1496004437878,
+      "identifier": {
+        "doi": "10.1063/1.4894638"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4890864"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Nonpolar III-nitride vertical-cavity surface emitting lasers with a polarization ratio of 100% fabricated using photoelectrochemical etching” [Appl. Phys. Lett. 105, 031111 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402876800000,"doi":"10.1016/j.cub.2014.05.054","type":"err"},"doi":"10.1016/j.cub.2009.05.031","journal":"Current Biology","publisher":"Elsevier BV","title":"Mechanical Forces of Fission Yeast Growth"}
+{
+  "retracted": false,
+  "timestamp": 1402876800000,
+  "updates": [
+    {
+      "timestamp": 1496045966396,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.05.054"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2009.05.031"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Mechanical Forces of Fission Yeast Growth"
+}

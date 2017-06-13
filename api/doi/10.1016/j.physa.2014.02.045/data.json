@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.physa.2015.05.100","type":"err"},"doi":"10.1016/j.physa.2014.02.045","journal":"Physica A: Statistical Mechanics and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “The influence of air on period doubling motion in vertically vibrated grains beds” [Physica A 403 (2014) 265–275]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496007720203,
+      "identifier": {
+        "doi": "10.1016/j.physa.2015.05.100"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physa.2014.02.045"
+  },
+  "journal": "Physica A: Statistical Mechanics and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The influence of air on period doubling motion in vertically vibrated grains beds” [Physica A 403 (2014) 265–275]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1007/s10910-014-0471-5","type":"correction"},"doi":"10.1007/s10910-014-0439-5","journal":"Journal of Mathematical Chemistry","publisher":"Springer Nature","title":"Erratum to: Dimension of the Gibbs function topological manifold: 1. Graph representation of the thermodynamic equilibrium state"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496033758639,
+      "identifier": {
+        "doi": "10.1007/s10910-014-0471-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10910-014-0439-5"
+  },
+  "journal": "Journal of Mathematical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dimension of the Gibbs function topological manifold: 1. Graph representation of the thermodynamic equilibrium state"
+}

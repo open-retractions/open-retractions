@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.apsusc.2015.02.144","type":"err"},"doi":"10.1016/s0169-4332(00)00779-0","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Commissioning of surface chemistry end-station in BL23SU of SPring-8” [Appl. Surf. Sci. 169–170 (2001) 738–741]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496052426617,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2015.02.144"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0169-4332(00)00779-0"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Commissioning of surface chemistry end-station in BL23SU of SPring-8” [Appl. Surf. Sci. 169–170 (2001) 738–741]"
+}

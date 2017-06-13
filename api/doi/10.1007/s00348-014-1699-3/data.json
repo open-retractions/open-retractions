@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1007/s00348-015-2086-4","type":"correction"},"doi":"10.1007/s00348-014-1699-3","journal":"Experiments in Fluids","publisher":"Springer Nature","title":"Erratum to: Bayesian inference applied to spatio-temporal reconstruction of flows around a NACA0012 airfoil"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496052889481,
+      "identifier": {
+        "doi": "10.1007/s00348-015-2086-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00348-014-1699-3"
+  },
+  "journal": "Experiments in Fluids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bayesian inference applied to spatio-temporal reconstruction of flows around a NACA0012 airfoil"
+}

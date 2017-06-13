@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419379200000,"doi":"10.1007/s11771-014-2486-2","type":"correction"},"doi":"10.1007/s11771-014-2366-9","journal":"Journal of Central South University","publisher":"Springer Nature","title":"Erratum to: An advanced segmentation using area and boundary tracing technique in extraction of lungs region"}
+{
+  "retracted": false,
+  "timestamp": 1419379200000,
+  "updates": [
+    {
+      "timestamp": 1496032633120,
+      "identifier": {
+        "doi": "10.1007/s11771-014-2486-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11771-014-2366-9"
+  },
+  "journal": "Journal of Central South University",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An advanced segmentation using area and boundary tracing technique in extraction of lungs region"
+}

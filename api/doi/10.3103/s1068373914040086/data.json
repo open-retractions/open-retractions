@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405641600000,"doi":"10.3103/s1068373914060107","type":"correction"},"doi":"10.3103/s1068373914040086","journal":"Russian Meteorology and Hydrology","publisher":"Allerton Press","title":"Erratum to: “Application of statistical downscaling in GCMs at constructing the map of precipitation in the Mekong River basin"}
+{
+  "retracted": false,
+  "timestamp": 1405641600000,
+  "updates": [
+    {
+      "timestamp": 1496054606577,
+      "identifier": {
+        "doi": "10.3103/s1068373914060107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1068373914040086"
+  },
+  "journal": "Russian Meteorology and Hydrology",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Application of statistical downscaling in GCMs at constructing the map of precipitation in the Mekong River basin"
+}

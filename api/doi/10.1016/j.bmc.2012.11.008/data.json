@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.bmc.2013.10.043","type":"err"},"doi":"10.1016/j.bmc.2012.11.008","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “3-Thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile (S1) derivatives as pan-Bcl-2-inhibitors of Bcl-2, Bcl-xL and Mcl-1” [Bioorg. Med. Chem. 21 (2013) 11–20]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495999470495,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2013.10.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2012.11.008"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “3-Thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile (S1) derivatives as pan-Bcl-2-inhibitors of Bcl-2, Bcl-xL and Mcl-1” [Bioorg. Med. Chem. 21 (2013) 11–20]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.eswa.2016.10.032","type":"erratum"},"doi":"10.1016/j.eswa.2014.10.013","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Corrigendum to “Adaptive neuro-fuzzy system for quantitative evaluation of woven fabrics’ pilling resistance” Expert Systems with Applications Volume 42 Issue 4 (2015) 2098–2113"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495650487459,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2016.10.032"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2014.10.013"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adaptive neuro-fuzzy system for quantitative evaluation of woven fabrics’ pilling resistance” Expert Systems with Applications Volume 42 Issue 4 (2015) 2098–2113"
+}

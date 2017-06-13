@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.bmc.2016.05.014","type":"err"},"doi":"10.1016/j.bmc.2016.03.055","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Purinylpyridinylamino-based DFG-in/αC-helix-out B-Raf inhibitors: Applying mutant versus wild-type B-Raf selectivity indices for compound profiling” [Bioorg. Med. Chem. 24 (2016) 2215–2234]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495715446132,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2016.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2016.03.055"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Purinylpyridinylamino-based DFG-in/αC-helix-out B-Raf inhibitors: Applying mutant versus wild-type B-Raf selectivity indices for compound profiling” [Bioorg. Med. Chem. 24 (2016) 2215–2234]"
+}

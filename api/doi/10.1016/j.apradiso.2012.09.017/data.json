@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.apradiso.2013.09.017","type":"err"},"doi":"10.1016/j.apradiso.2012.09.017","journal":"Applied Radiation and Isotopes","publisher":"Elsevier BV","title":"Erratum to “The production of 82Sr using larger format RbCl targets” [Appl. Radiat. Isotopes 72 (2013) 96–99]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495996253571,
+      "identifier": {
+        "doi": "10.1016/j.apradiso.2013.09.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apradiso.2012.09.017"
+  },
+  "journal": "Applied Radiation and Isotopes",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The production of 82Sr using larger format RbCl targets” [Appl. Radiat. Isotopes 72 (2013) 96–99]"
+}

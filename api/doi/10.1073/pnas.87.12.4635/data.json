@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":652147200000,"doi":"10.1073/pnas.87.18.7344","type":"correction"},"doi":"10.1073/pnas.87.12.4635","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Membrane localization of the pertussis toxin-sensitive G-protein subunits  i-2 and  i-3 and expression of a metallothionein- i-2 fusion gene in LLC-PK1 cells"}
+{
+  "retracted": false,
+  "timestamp": 652147200000,
+  "updates": [
+    {
+      "timestamp": 1495847304783,
+      "identifier": {
+        "doi": "10.1073/pnas.87.18.7344"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.87.12.4635"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Membrane localization of the pertussis toxin-sensitive G-protein subunits  i-2 and  i-3 and expression of a metallothionein- i-2 fusion gene in LLC-PK1 cells"
+}

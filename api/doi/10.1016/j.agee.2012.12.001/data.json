@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.agee.2016.01.035","type":"err"},"doi":"10.1016/j.agee.2012.12.001","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Corrigendum to “Quantifying and mapping multiple ecosystem services change in West Africa”"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495645557505,
+      "identifier": {
+        "doi": "10.1016/j.agee.2016.01.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2012.12.001"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantifying and mapping multiple ecosystem services change in West Africa”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.anbehav.2016.01.014","type":"err"},"doi":"10.1016/j.anbehav.2015.10.019","journal":"Animal Behaviour","publisher":"Elsevier BV","title":"Corrigendum to “An unsuspected cost of mate familiarity: increased loss of paternity” [Animal Behaviour, 111 (2016), 213–216]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495648376244,
+      "identifier": {
+        "doi": "10.1016/j.anbehav.2016.01.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anbehav.2015.10.019"
+  },
+  "journal": "Animal Behaviour",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An unsuspected cost of mate familiarity: increased loss of paternity” [Animal Behaviour, 111 (2016), 213–216]"
+}

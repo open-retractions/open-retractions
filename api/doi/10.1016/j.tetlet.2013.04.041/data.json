@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377043200000,"doi":"10.1016/j.tetlet.2013.06.074","type":"err"},"doi":"10.1016/j.tetlet.2013.04.041","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “An effective one-pot conversion of acid chlorides to aldehydes and ketones” [Tetrahedron Lett. 54 (2013), 3199–3203]"}
+{
+  "retracted": false,
+  "timestamp": 1377043200000,
+  "updates": [
+    {
+      "timestamp": 1496030126996,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2013.06.074"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2013.04.041"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An effective one-pot conversion of acid chlorides to aldehydes and ketones” [Tetrahedron Lett. 54 (2013), 3199–3203]"
+}

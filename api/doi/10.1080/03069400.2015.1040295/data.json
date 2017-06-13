@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1080/03069400.2015.1060004","type":"correction"},"doi":"10.1080/03069400.2015.1040295","journal":"The Law Teacher","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008931678,
+      "identifier": {
+        "doi": "10.1080/03069400.2015.1060004"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03069400.2015.1040295"
+  },
+  "journal": "The Law Teacher",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

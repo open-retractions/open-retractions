@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370649600000,"doi":"10.1007/s00401-013-1134-5","type":"correction"},"doi":"10.1007/s00401-012-1016-2","journal":"Acta Neuropathologica","publisher":"Springer Nature","title":"Erratum to: MGMT methylation analysis of glioblastoma on the Infinium methylation BeadChip identifies two distinct CpG regions associated with gene silencing and outcome, yielding a prediction model for comparisons across datasets, tumor grades, and CIMP-status"}
+{
+  "retracted": false,
+  "timestamp": 1370649600000,
+  "updates": [
+    {
+      "timestamp": 1496024257545,
+      "identifier": {
+        "doi": "10.1007/s00401-013-1134-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00401-012-1016-2"
+  },
+  "journal": "Acta Neuropathologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: MGMT methylation analysis of glioblastoma on the Infinium methylation BeadChip identifies two distinct CpG regions associated with gene silencing and outcome, yielding a prediction model for comparisons across datasets, tumor grades, and CIMP-status"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jmva.2014.10.004","type":"err"},"doi":"10.1016/j.jmva.2014.05.004","journal":"Journal of Multivariate Analysis","publisher":"Elsevier BV","title":"Corrigendum to “The spatial sign covariance matrix with unknown location” [J. Multivariate Anal. 130 (2014) 107–117]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496023901330,
+      "identifier": {
+        "doi": "10.1016/j.jmva.2014.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmva.2014.05.004"
+  },
+  "journal": "Journal of Multivariate Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The spatial sign covariance matrix with unknown location” [J. Multivariate Anal. 130 (2014) 107–117]"
+}

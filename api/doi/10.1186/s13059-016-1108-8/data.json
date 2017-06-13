@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482105600000,"doi":"10.1186/s13059-016-1132-8","type":"correction"},"doi":"10.1186/s13059-016-1108-8","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Rapid scoring of genes in microbial pan-genome-wide association studies with Scoary"}
+{
+  "retracted": false,
+  "timestamp": 1482105600000,
+  "updates": [
+    {
+      "timestamp": 1495667995482,
+      "identifier": {
+        "doi": "10.1186/s13059-016-1132-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-1108-8"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rapid scoring of genes in microbial pan-genome-wide association studies with Scoary"
+}

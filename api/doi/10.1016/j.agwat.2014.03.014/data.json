@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454198400000,"doi":"10.1016/j.agwat.2015.11.001","type":"err"},"doi":"10.1016/j.agwat.2014.03.014","journal":"Agricultural Water Management","publisher":"Elsevier BV","title":"Corrigendum to “Estimating evapotranspiration from temperature and wind speed data using artificial and wavelet neural networks (WNNs)” [Agric. Water Manag. 140 (2014) 26–36]"}
+{
+  "retracted": false,
+  "timestamp": 1454198400000,
+  "updates": [
+    {
+      "timestamp": 1496044751158,
+      "identifier": {
+        "doi": "10.1016/j.agwat.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agwat.2014.03.014"
+  },
+  "journal": "Agricultural Water Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Estimating evapotranspiration from temperature and wind speed data using artificial and wavelet neural networks (WNNs)” [Agric. Water Manag. 140 (2014) 26–36]"
+}

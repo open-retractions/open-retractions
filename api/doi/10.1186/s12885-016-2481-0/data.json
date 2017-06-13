@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1186/s12885-016-2649-7","type":"correction"},"doi":"10.1186/s12885-016-2481-0","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: The anti-tumor effect of the quinoline-3-carboxamide tasquinimod: blockade of recruitment of CD11b+ Ly6Chi cells to tumor tissue reduces tumor growth"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495735692562,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2649-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-016-2481-0"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The anti-tumor effect of the quinoline-3-carboxamide tasquinimod: blockade of recruitment of CD11b+ Ly6Chi cells to tumor tissue reduces tumor growth"
+}

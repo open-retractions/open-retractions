@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404950400000,"doi":"10.1007/s00726-014-1791-2","type":"correction"},"doi":"10.1007/s00726-014-1728-9","journal":"Amino Acids","publisher":"Springer Nature","title":"Erratum to: Radiation protection from whole-body gamma irradiation (6.7 Gy): behavioural effects and brain protein-level changes by an aminothiol compound GL2011 in the Wistar rat"}
+{
+  "retracted": false,
+  "timestamp": 1404950400000,
+  "updates": [
+    {
+      "timestamp": 1496052509117,
+      "identifier": {
+        "doi": "10.1007/s00726-014-1791-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00726-014-1728-9"
+  },
+  "journal": "Amino Acids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiation protection from whole-body gamma irradiation (6.7 Gy): behavioural effects and brain protein-level changes by an aminothiol compound GL2011 in the Wistar rat"
+}

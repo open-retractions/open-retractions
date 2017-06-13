@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1022889600000,"doi":"10.1007/s00223-002-0007-z","type":"correction"},"doi":"10.1007/bf02678149","journal":"Calcified Tissue International","publisher":"Springer Nature","title":"Erratum to: Quantification of the Expression Levels of Lysosomal Cysteine Proteinases in Purified Human Osteoclastic Cells by Competitive RT-PCR"}
+{
+  "retracted": false,
+  "timestamp": 1022889600000,
+  "updates": [
+    {
+      "timestamp": 1495989210649,
+      "identifier": {
+        "doi": "10.1007/s00223-002-0007-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02678149"
+  },
+  "journal": "Calcified Tissue International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantification of the Expression Levels of Lysosomal Cysteine Proteinases in Purified Human Osteoclastic Cells by Competitive RT-PCR"
+}

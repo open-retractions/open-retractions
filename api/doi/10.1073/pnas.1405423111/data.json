@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430784000000,"doi":"10.1073/pnas.1505880112","type":"correction"},"doi":"10.1073/pnas.1405423111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Yang et al., Interleukin 1 receptor-associated kinase 1 (IRAK1) mutation is a common, essential driver for Kaposi sarcoma herpesvirus lymphoma"}
+{
+  "retracted": false,
+  "timestamp": 1430784000000,
+  "updates": [
+    {
+      "timestamp": 1496058582774,
+      "identifier": {
+        "doi": "10.1073/pnas.1505880112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1405423111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Yang et al., Interleukin 1 receptor-associated kinase 1 (IRAK1) mutation is a common, essential driver for Kaposi sarcoma herpesvirus lymphoma"
+}

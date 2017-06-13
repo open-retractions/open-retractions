@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.clnme.2013.07.004","type":"err"},"doi":"10.1016/j.clnme.2013.06.002","journal":"e-SPEN Journal","publisher":"Elsevier BV","title":"Evaluation of the nutritional profile of patients with total laryngectomy"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496039187044,
+      "identifier": {
+        "doi": "10.1016/j.clnme.2013.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clnme.2013.06.002"
+  },
+  "journal": "e-SPEN Journal",
+  "publisher": "Elsevier BV",
+  "title": "Evaluation of the nutritional profile of patients with total laryngectomy"
+}

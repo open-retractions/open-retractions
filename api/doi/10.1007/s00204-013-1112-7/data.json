@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407456000000,"doi":"10.1007/s00204-014-1307-6","type":"correction"},"doi":"10.1007/s00204-013-1112-7","journal":"Archives of Toxicology","publisher":"Springer Nature","title":"Erratum to: Lanthanum-induced neurotoxicity: solving the riddle of its involvement in cognitive impairment?"}
+{
+  "retracted": false,
+  "timestamp": 1407456000000,
+  "updates": [
+    {
+      "timestamp": 1495998553273,
+      "identifier": {
+        "doi": "10.1007/s00204-014-1307-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00204-013-1112-7"
+  },
+  "journal": "Archives of Toxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lanthanum-induced neurotoxicity: solving the riddle of its involvement in cognitive impairment?"
+}

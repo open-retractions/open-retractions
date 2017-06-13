@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.vetpar.2014.07.021","type":"err"},"doi":"10.1016/j.vetpar.2013.04.025","journal":"Veterinary Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “The pathology and pathogenicity of a novel Haemoproteus spp. infection in wild Little Penguins (Eudyptula minor)” [Vet. Parasitol. 197 (1–2) (2013) 74–84]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1495997525562,
+      "identifier": {
+        "doi": "10.1016/j.vetpar.2014.07.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetpar.2013.04.025"
+  },
+  "journal": "Veterinary Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The pathology and pathogenicity of a novel Haemoproteus spp. infection in wild Little Penguins (Eudyptula minor)” [Vet. Parasitol. 197 (1–2) (2013) 74–84]"
+}

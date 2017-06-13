@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481587200000,"doi":"10.1016/j.cmet.2016.11.007","type":"erratum"},"doi":"10.1016/j.cmet.2016.10.016","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Macrophage Metabolism Shapes Angiogenesis in Tumors"}
+{
+  "retracted": false,
+  "timestamp": 1481587200000,
+  "updates": [
+    {
+      "timestamp": 1495666724620,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2016.11.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2016.10.016"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Macrophage Metabolism Shapes Angiogenesis in Tumors"
+}

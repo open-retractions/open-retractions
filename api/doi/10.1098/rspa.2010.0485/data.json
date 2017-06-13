@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304812800000,"doi":"10.1098/rspa.2011.0222","type":"correction"},"doi":"10.1098/rspa.2010.0485","journal":"Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences","publisher":"The Royal Society","title":"Excitability in ramped systems: the compost-bomb instability"}
+{
+  "retracted": false,
+  "timestamp": 1304812800000,
+  "updates": [
+    {
+      "timestamp": 1495956052841,
+      "identifier": {
+        "doi": "10.1098/rspa.2011.0222"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspa.2010.0485"
+  },
+  "journal": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+  "publisher": "The Royal Society",
+  "title": "Excitability in ramped systems: the compost-bomb instability"
+}

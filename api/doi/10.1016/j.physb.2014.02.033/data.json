@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.physb.2014.06.013","type":"err"},"doi":"10.1016/j.physb.2014.02.033","journal":"Physica B: Condensed Matter","publisher":"Elsevier BV","title":"Corrigendum to “Interface effects on elastic behavior of a screw dislocation around double nanowires” [Physica B 442 (2014) 6–11]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496047753253,
+      "identifier": {
+        "doi": "10.1016/j.physb.2014.06.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physb.2014.02.033"
+  },
+  "journal": "Physica B: Condensed Matter",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Interface effects on elastic behavior of a screw dislocation around double nanowires” [Physica B 442 (2014) 6–11]"
+}

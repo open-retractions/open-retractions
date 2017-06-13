@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.seizure.2015.09.008","type":"err"},"doi":"10.1016/j.seizure.2015.03.020","journal":"Seizure","publisher":"Elsevier BV","title":"Corrigendum to “Clinical and genetic analysis of a family with two rare reflex epilepsies” [Seizure – Eur. J. Epilepsy 29 (2015) 90–96]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496036288001,
+      "identifier": {
+        "doi": "10.1016/j.seizure.2015.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.seizure.2015.03.020"
+  },
+  "journal": "Seizure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Clinical and genetic analysis of a family with two rare reflex epilepsies” [Seizure – Eur. J. Epilepsy 29 (2015) 90–96]"
+}

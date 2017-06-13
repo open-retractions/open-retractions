@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349395200000,"doi":"10.1371/annotation/1131431f-8b78-4fdf-8c35-a48bde1cf1f1","type":"correction"},"doi":"10.1371/journal.pone.0038799","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Probabilistic Fragment-Based Protein Structure Prediction Algorithm"}
+{
+  "retracted": false,
+  "timestamp": 1349395200000,
+  "updates": [
+    {
+      "timestamp": 1495963744127,
+      "identifier": {
+        "doi": "10.1371/annotation/1131431f-8b78-4fdf-8c35-a48bde1cf1f1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0038799"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Probabilistic Fragment-Based Protein Structure Prediction Algorithm"
+}

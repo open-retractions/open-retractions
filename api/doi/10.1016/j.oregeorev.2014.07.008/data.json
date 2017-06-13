@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.oregeorev.2014.11.019","type":"err"},"doi":"10.1016/j.oregeorev.2014.07.008","journal":"Ore Geology Reviews","publisher":"Elsevier BV","title":"Corrigendum to “In situ U–Pb isotopic dating of columbite–tantalite by LA-ICP-MS” [Ore Geol. Rev. 65 (2015) 979-989]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496030097921,
+      "identifier": {
+        "doi": "10.1016/j.oregeorev.2014.11.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.oregeorev.2014.07.008"
+  },
+  "journal": "Ore Geology Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “In situ U–Pb isotopic dating of columbite–tantalite by LA-ICP-MS” [Ore Geol. Rev. 65 (2015) 979-989]"
+}

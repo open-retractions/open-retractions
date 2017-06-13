@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390262400000,"doi":"10.1016/j.nima.2013.09.004","type":"erratum"},"doi":"10.1016/j.nima.2010.06.317","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to “The PANDA GEM-based TPC prototype” [Nucl. Instrum. Methods Phys. Res. A 628 (1) (2011) 204–208]"}
+{
+  "retracted": false,
+  "timestamp": 1390262400000,
+  "updates": [
+    {
+      "timestamp": 1496046843011,
+      "identifier": {
+        "doi": "10.1016/j.nima.2013.09.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2010.06.317"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The PANDA GEM-based TPC prototype” [Nucl. Instrum. Methods Phys. Res. A 628 (1) (2011) 204–208]"
+}

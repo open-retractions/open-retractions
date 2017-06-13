@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jim.2015.04.003","type":"err"},"doi":"10.1016/j.jim.2015.01.009","journal":"Journal of Immunological Methods","publisher":"Elsevier BV","title":"Corrigendum to “The pre-analytical processing of blood samples for detecting biomarkers on protein microarrays” [Journal of Immunological Methods volume 418 (2015) 39–51]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496057896046,
+      "identifier": {
+        "doi": "10.1016/j.jim.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jim.2015.01.009"
+  },
+  "journal": "Journal of Immunological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The pre-analytical processing of blood samples for detecting biomarkers on protein microarrays” [Journal of Immunological Methods volume 418 (2015) 39–51]"
+}

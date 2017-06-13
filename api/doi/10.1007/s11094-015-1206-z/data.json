@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1007/s11094-015-1242-8","type":"correction"},"doi":"10.1007/s11094-015-1206-z","journal":"Pharmaceutical Chemistry Journal","publisher":"Springer Nature","title":"Erratum to: Reaction of an Antioxidant (Sodium Sulfite) with 3-Hydroxy-6-Methyl-2-Ethylpyridinium Salts"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496004898610,
+      "identifier": {
+        "doi": "10.1007/s11094-015-1242-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11094-015-1206-z"
+  },
+  "journal": "Pharmaceutical Chemistry Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reaction of an Antioxidant (Sodium Sulfite) with 3-Hydroxy-6-Methyl-2-Ethylpyridinium Salts"
+}

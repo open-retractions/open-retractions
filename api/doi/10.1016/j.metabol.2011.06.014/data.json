@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.metabol.2014.03.005","type":"err"},"doi":"10.1016/j.metabol.2011.06.014","journal":"Metabolism","publisher":"Elsevier BV","title":"Mitochondrial regulators of fatty acid metabolism reflect metabolic dysfunction in type 2 diabetes, Kulkarni et al., Metabolism, 61(2):175–85"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496029611174,
+      "identifier": {
+        "doi": "10.1016/j.metabol.2014.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.metabol.2011.06.014"
+  },
+  "journal": "Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Mitochondrial regulators of fatty acid metabolism reflect metabolic dysfunction in type 2 diabetes, Kulkarni et al., Metabolism, 61(2):175–85"
+}

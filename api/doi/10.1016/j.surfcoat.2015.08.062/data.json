@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1016/j.surfcoat.2016.07.019","type":"err"},"doi":"10.1016/j.surfcoat.2015.08.062","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Ceramic coating for corrosion (c3) resistance of nuclear fuel cladding” [Surf. Coat. Technol. (2015) 133–143]"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495734182395,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2016.07.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2015.08.062"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ceramic coating for corrosion (c3) resistance of nuclear fuel cladding” [Surf. Coat. Technol. (2015) 133–143]"
+}

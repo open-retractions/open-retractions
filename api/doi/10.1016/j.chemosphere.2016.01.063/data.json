@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.chemosphere.2016.04.122","type":"err"},"doi":"10.1016/j.chemosphere.2016.01.063","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Ozonation of chlortetracycline in the aqueous phase: Degradation intermediates and pathway confirmed by NMR” [Chemosphere 152 (2016) 31–38]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495718554638,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.04.122"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2016.01.063"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ozonation of chlortetracycline in the aqueous phase: Degradation intermediates and pathway confirmed by NMR” [Chemosphere 152 (2016) 31–38]"
+}

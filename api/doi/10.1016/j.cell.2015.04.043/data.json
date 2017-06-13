@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441843200000,"doi":"10.1016/j.cell.2015.08.045","type":"err"},"doi":"10.1016/j.cell.2015.04.043","journal":"Cell","publisher":"Elsevier BV","title":"Structural Insights into the Dynamic Process of β2-Adrenergic Receptor Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1441843200000,
+  "updates": [
+    {
+      "timestamp": 1496029414101,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.08.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2015.04.043"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Structural Insights into the Dynamic Process of β2-Adrenergic Receptor Signaling"
+}

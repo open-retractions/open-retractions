@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.clinph.2014.01.002","type":"err"},"doi":"10.1016/j.clinph.2013.05.023","journal":"Clinical Neurophysiology","publisher":"Elsevier BV","title":"Corrigendum to “Early electro-clinical features may contribute to diagnosis of the anti-NMDA receptor encephalitis in children” [Clin. Neurophysiol. 124 (2013) 2354–2361]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496013723662,
+      "identifier": {
+        "doi": "10.1016/j.clinph.2014.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinph.2013.05.023"
+  },
+  "journal": "Clinical Neurophysiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Early electro-clinical features may contribute to diagnosis of the anti-NMDA receptor encephalitis in children” [Clin. Neurophysiol. 124 (2013) 2354–2361]"
+}

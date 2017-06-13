@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484697600000,"doi":"10.1186/s13059-017-1154-x","type":"correction"},"doi":"10.1186/gb-2013-14-4-r31","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity"}
+{
+  "retracted": false,
+  "timestamp": 1484697600000,
+  "updates": [
+    {
+      "timestamp": 1495676903491,
+      "identifier": {
+        "doi": "10.1186/s13059-017-1154-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/gb-2013-14-4-r31"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity"
+}

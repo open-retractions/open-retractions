@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.cma.2016.11.031","type":"erratum"},"doi":"10.1016/j.cma.2015.11.012","journal":"Computer Methods in Applied Mechanics and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “An inverse model and mathematical solution for inferring viscoelastic properties and dynamic deformations of heterogeneous structures” [Comput. Methods Appl. Mech. Engrg. 300 (2016) 798–833]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495666775374,
+      "identifier": {
+        "doi": "10.1016/j.cma.2016.11.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cma.2015.11.012"
+  },
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An inverse model and mathematical solution for inferring viscoelastic properties and dynamic deformations of heterogeneous structures” [Comput. Methods Appl. Mech. Engrg. 300 (2016) 798–833]"
+}

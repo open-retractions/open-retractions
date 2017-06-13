@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1162857600000,"doi":"10.1073/pnas.0608504103","type":"correction"},"doi":"10.1073/pnas.0605962103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kadener et al., Neurotoxic protein expression reveals connections between the circadian clock and mating behavior in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1162857600000,
+  "updates": [
+    {
+      "timestamp": 1495910458977,
+      "identifier": {
+        "doi": "10.1073/pnas.0608504103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0605962103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kadener et al., Neurotoxic protein expression reveals connections between the circadian clock and mating behavior in Drosophila"
+}

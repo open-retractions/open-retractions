@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443398400000,"doi":"10.1063/1.4931955","type":"correction"},"doi":"10.1063/1.4922531","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Thin-layer black phosphorus/GaAs heterojunction p-n diodes” [Appl. Phys. Lett. 106, 233110 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1443398400000,
+  "updates": [
+    {
+      "timestamp": 1496033321723,
+      "identifier": {
+        "doi": "10.1063/1.4931955"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4922531"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Thin-layer black phosphorus/GaAs heterojunction p-n diodes” [Appl. Phys. Lett. 106, 233110 (2015)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jhep.2015.07.017","type":"err"},"doi":"10.1016/j.jhep.2014.04.038","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Efficacy and safety of tenofovir disoproxil fumarate (TDF) in pregnancy to prevent perinatal transmission of hepatitis B virus” [J Hepatol 2014;61:502–507]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496021080247,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2015.07.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2014.04.038"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficacy and safety of tenofovir disoproxil fumarate (TDF) in pregnancy to prevent perinatal transmission of hepatitis B virus” [J Hepatol 2014;61:502–507]"
+}

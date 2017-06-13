@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.advwatres.2016.03.009","type":"erratum"},"doi":"10.1016/j.advwatres.2015.09.025","journal":"Advances in Water Resources","publisher":"Elsevier BV","title":"Erratum to ‘Salinization in a stratified aquifer induced by heat transfer from well casings’ [Advances in water resources 86A(2015)32-45]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495665039315,
+      "identifier": {
+        "doi": "10.1016/j.advwatres.2016.03.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.advwatres.2015.09.025"
+  },
+  "journal": "Advances in Water Resources",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Salinization in a stratified aquifer induced by heat transfer from well casings’ [Advances in water resources 86A(2015)32-45]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-228873600000,"doi":"10.1007/bf02175871","type":"correction"},"doi":"10.1007/bf02151850","journal":"Experientia","publisher":"Springer Nature","title":"Erratum to: Lipids of epiphyseal cartilage"}
+{
+  "retracted": false,
+  "timestamp": -228873600000,
+  "updates": [
+    {
+      "timestamp": 1495902519367,
+      "identifier": {
+        "doi": "10.1007/bf02175871"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02151850"
+  },
+  "journal": "Experientia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lipids of epiphyseal cartilage"
+}

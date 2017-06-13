@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433980800000,"doi":"10.1186/s12934-015-0265-x","type":"correction"},"doi":"10.1186/s12934-015-0241-5","journal":"Microbial Cell Factories","publisher":"Springer Nature","title":"Erratum to: Detoxifying Escherichia coli for endotoxin-free production of recombinant proteins"}
+{
+  "retracted": false,
+  "timestamp": 1433980800000,
+  "updates": [
+    {
+      "timestamp": 1496005897206,
+      "identifier": {
+        "doi": "10.1186/s12934-015-0265-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12934-015-0241-5"
+  },
+  "journal": "Microbial Cell Factories",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Detoxifying Escherichia coli for endotoxin-free production of recombinant proteins"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439510400000,"doi":"10.1016/j.carres.2015.03.013","type":"err"},"doi":"10.1016/j.carres.2014.09.006","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Erratum to “Carbohydrate conjugation through microwave-assisted functionalization of single-walled carbon nanotubes using perfluorophenyl azides” [Carbohydr Res 405 (2015) 33–38]"}
+{
+  "retracted": false,
+  "timestamp": 1439510400000,
+  "updates": [
+    {
+      "timestamp": 1496013033957,
+      "identifier": {
+        "doi": "10.1016/j.carres.2015.03.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2014.09.006"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Carbohydrate conjugation through microwave-assisted functionalization of single-walled carbon nanotubes using perfluorophenyl azides” [Carbohydr Res 405 (2015) 33–38]"
+}

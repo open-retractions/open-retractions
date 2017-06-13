@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415059200000,"doi":"10.1039/c4lc90113d","type":"correction"},"doi":"10.1039/c4lc00819g","journal":"Lab Chip","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Miniaturized, multiplexed readout of droplet-based microfluidic assays using time-domain modulation"}
+{
+  "retracted": false,
+  "timestamp": 1415059200000,
+  "updates": [
+    {
+      "timestamp": 1496019018856,
+      "identifier": {
+        "doi": "10.1039/c4lc90113d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4lc00819g"
+  },
+  "journal": "Lab Chip",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Miniaturized, multiplexed readout of droplet-based microfluidic assays using time-domain modulation"
+}

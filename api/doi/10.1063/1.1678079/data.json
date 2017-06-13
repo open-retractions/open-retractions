@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":170812800000,"doi":"10.1063/1.431033","type":"erratum"},"doi":"10.1063/1.1678079","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Hydrogen bond strength and charge distribution in the bifluoride ion, HF−2. Lattice energies of LiHF2, NaHF2, KHF2, RbHF2, and CsHF2"}
+{
+  "retracted": false,
+  "timestamp": 170812800000,
+  "updates": [
+    {
+      "timestamp": 1495896790587,
+      "identifier": {
+        "doi": "10.1063/1.431033"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1678079"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Hydrogen bond strength and charge distribution in the bifluoride ion, HF−2. Lattice energies of LiHF2, NaHF2, KHF2, RbHF2, and CsHF2"
+}

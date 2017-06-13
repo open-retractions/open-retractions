@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462492800000,"doi":"10.1063/1.4948327","type":"correction"},"doi":"10.1063/1.4942881","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Mechanism of hole injection enhancement in light-emitting diodes by inserting multiple hole-reservoir layers in electron blocking layer” [J. Appl. Phys. 119, 105703 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1462492800000,
+  "updates": [
+    {
+      "timestamp": 1495670810768,
+      "identifier": {
+        "doi": "10.1063/1.4948327"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4942881"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Mechanism of hole injection enhancement in light-emitting diodes by inserting multiple hole-reservoir layers in electron blocking layer” [J. Appl. Phys. 119, 105703 (2016)]"
+}

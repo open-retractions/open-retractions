@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453420800000,"doi":"10.3847/0004-637x/817/1/83","type":"correction"},"doi":"10.1088/0004-637x/797/1/71","journal":"The Astrophysical Journal","publisher":"American Astronomical Society","title":"ERRATUM: “PROBING THE INTERGALACTIC MEDIUM WITH FAST RADIO BURSTS” (2014, ApJ, 797, 71)"}
+{
+  "retracted": false,
+  "timestamp": 1453420800000,
+  "updates": [
+    {
+      "timestamp": 1495638963972,
+      "identifier": {
+        "doi": "10.3847/0004-637x/817/1/83"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0004-637x/797/1/71"
+  },
+  "journal": "The Astrophysical Journal",
+  "publisher": "American Astronomical Society",
+  "title": "ERRATUM: “PROBING THE INTERGALACTIC MEDIUM WITH FAST RADIO BURSTS” (2014, ApJ, 797, 71)"
+}

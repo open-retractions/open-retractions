@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1073/pnas.1513950112","type":"correction"},"doi":"10.1073/pnas.96.24.14147","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Voinnet et al., Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496018486817,
+      "identifier": {
+        "doi": "10.1073/pnas.1513950112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.96.24.14147"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Voinnet et al., Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants"
+}

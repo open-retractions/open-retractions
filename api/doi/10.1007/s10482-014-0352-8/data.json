@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421971200000,"doi":"10.1007/s10482-015-0385-7","type":"correction"},"doi":"10.1007/s10482-014-0352-8","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Pedobacter bambusae sp. nov., isolated from soil of a bamboo plantation"}
+{
+  "retracted": false,
+  "timestamp": 1421971200000,
+  "updates": [
+    {
+      "timestamp": 1496039093596,
+      "identifier": {
+        "doi": "10.1007/s10482-015-0385-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-014-0352-8"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pedobacter bambusae sp. nov., isolated from soil of a bamboo plantation"
+}

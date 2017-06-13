@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433376000000,"doi":"10.1007/s10773-015-2686-z","type":"correction"},"doi":"10.1007/s10773-014-2478-x","journal":"International Journal of Theoretical Physics","publisher":"Springer Nature","title":"Erratum to: The Quantum Steganography Protocol via Quantum Noisy Channels"}
+{
+  "retracted": false,
+  "timestamp": 1433376000000,
+  "updates": [
+    {
+      "timestamp": 1496003786525,
+      "identifier": {
+        "doi": "10.1007/s10773-015-2686-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10773-014-2478-x"
+  },
+  "journal": "International Journal of Theoretical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Quantum Steganography Protocol via Quantum Noisy Channels"
+}

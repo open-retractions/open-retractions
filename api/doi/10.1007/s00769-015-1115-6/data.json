@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426809600000,"doi":"10.1007/s00769-015-1118-3","type":"correction"},"doi":"10.1007/s00769-015-1115-6","journal":"Accreditation and Quality Assurance","publisher":"Springer Nature","title":"Erratum to: Uncertainty factor: an alternative way to express measurement uncertainty in chemical measurement"}
+{
+  "retracted": false,
+  "timestamp": 1426809600000,
+  "updates": [
+    {
+      "timestamp": 1496051963368,
+      "identifier": {
+        "doi": "10.1007/s00769-015-1118-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00769-015-1115-6"
+  },
+  "journal": "Accreditation and Quality Assurance",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Uncertainty factor: an alternative way to express measurement uncertainty in chemical measurement"
+}

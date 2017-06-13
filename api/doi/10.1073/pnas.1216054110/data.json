@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1073/pnas.1421130111","type":"correction"},"doi":"10.1073/pnas.1216054110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Reich et al., Biogeographic variation in evergreen conifer needle longevity and impacts on boreal forest carbon cycle projections"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496020286436,
+      "identifier": {
+        "doi": "10.1073/pnas.1421130111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1216054110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Reich et al., Biogeographic variation in evergreen conifer needle longevity and impacts on boreal forest carbon cycle projections"
+}

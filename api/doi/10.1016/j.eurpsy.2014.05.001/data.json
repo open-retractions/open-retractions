@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.eurpsy.2014.10.006","type":"err"},"doi":"10.1016/j.eurpsy.2014.05.001","journal":"European Psychiatry","publisher":"Elsevier BV","title":"Erratum to “Psychiatric disorders, suicidality, and personality among young men by sexual orientation” [Eur. Psych. 29 (2014) 514–22]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1495679419324,
+      "identifier": {
+        "doi": "10.1016/j.eurpsy.2014.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eurpsy.2014.05.001"
+  },
+  "journal": "European Psychiatry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Psychiatric disorders, suicidality, and personality among young men by sexual orientation” [Eur. Psych. 29 (2014) 514–22]"
+}

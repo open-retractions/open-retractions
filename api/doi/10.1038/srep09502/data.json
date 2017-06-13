@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442793600000,"doi":"10.1038/srep14029","type":"correction"},"doi":"10.1038/srep09502","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Sestrin2 inhibits mTORC1 through modulation of GATOR complexes"}
+{
+  "retracted": false,
+  "timestamp": 1442793600000,
+  "updates": [
+    {
+      "timestamp": 1496031733100,
+      "identifier": {
+        "doi": "10.1038/srep14029"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09502"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Sestrin2 inhibits mTORC1 through modulation of GATOR complexes"
+}

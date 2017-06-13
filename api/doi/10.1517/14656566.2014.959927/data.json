@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416009600000,"doi":"10.1517/14656566.2014.986033","type":"correction"},"doi":"10.1517/14656566.2014.959927","journal":"Expert Opinion on Pharmacotherapy","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1416009600000,
+  "updates": [
+    {
+      "timestamp": 1496021714860,
+      "identifier": {
+        "doi": "10.1517/14656566.2014.986033"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/14656566.2014.959927"
+  },
+  "journal": "Expert Opinion on Pharmacotherapy",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

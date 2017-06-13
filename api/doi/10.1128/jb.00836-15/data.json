@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1128/jb.00479-16","type":"correction"},"doi":"10.1128/jb.00836-15","journal":"Journal of Bacteriology","publisher":"American Society for Microbiology","title":"Erratum for Osorio-Valeriano et al., Biochemical Characterization of the Flagellar Rod Components of Rhodobacter sphaeroides: Properties and Interactions"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495729728936,
+      "identifier": {
+        "doi": "10.1128/jb.00479-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jb.00836-15"
+  },
+  "journal": "Journal of Bacteriology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Osorio-Valeriano et al., Biochemical Characterization of the Flagellar Rod Components of Rhodobacter sphaeroides: Properties and Interactions"
+}

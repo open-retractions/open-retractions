@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464393600000,"doi":"10.1007/s12031-016-0767-y","type":"correction"},"doi":"10.1007/s12031-016-0717-8","journal":"Journal of Molecular Neuroscience","publisher":"Springer Nature","title":"Erratum to: The Mitogen-Activated Protein Kinase (MAPK) Signaling Pathway as a Discovery Target in Stroke"}
+{
+  "retracted": false,
+  "timestamp": 1464393600000,
+  "updates": [
+    {
+      "timestamp": 1495716741777,
+      "identifier": {
+        "doi": "10.1007/s12031-016-0767-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12031-016-0717-8"
+  },
+  "journal": "Journal of Molecular Neuroscience",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Mitogen-Activated Protein Kinase (MAPK) Signaling Pathway as a Discovery Target in Stroke"
+}

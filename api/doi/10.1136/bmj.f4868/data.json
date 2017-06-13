@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1136/bmj.f5139","type":"correction"},"doi":"10.1136/bmj.f4868","journal":"BMJ","publisher":"BMJ","title":"Author's reply to Steer"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496039991158,
+      "identifier": {
+        "doi": "10.1136/bmj.f5139"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f4868"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Author's reply to Steer"
+}

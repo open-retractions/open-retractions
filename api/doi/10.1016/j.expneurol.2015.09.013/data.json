@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.expneurol.2016.03.003","type":"err"},"doi":"10.1016/j.expneurol.2015.09.013","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “Chronic stress and peripheral pain: Evidence for distinct, region-specific changes in visceral and somatosensory pain regulatory pathways” [Exp Neurol. 2015 Nov.; 273: 301–11]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495651954175,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2016.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2015.09.013"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Chronic stress and peripheral pain: Evidence for distinct, region-specific changes in visceral and somatosensory pain regulatory pathways” [Exp Neurol. 2015 Nov.; 273: 301–11]"
+}

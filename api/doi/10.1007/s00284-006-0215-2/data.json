@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1244851200000,"doi":"10.1007/s00284-009-9441-8","type":"correction"},"doi":"10.1007/s00284-006-0215-2","journal":"Current Microbiology","publisher":"Springer Nature","title":"Absence of Classical Heat Shock Response in the Citrus Pathogen Xylella fastidiosa"}
+{
+  "retracted": false,
+  "timestamp": 1244851200000,
+  "updates": [
+    {
+      "timestamp": 1495957740720,
+      "identifier": {
+        "doi": "10.1007/s00284-009-9441-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00284-006-0215-2"
+  },
+  "journal": "Current Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Absence of Classical Heat Shock Response in the Citrus Pathogen Xylella fastidiosa"
+}

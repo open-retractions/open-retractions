@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421020800000,"doi":"10.1016/j.ijhydene.2014.11.092","type":"err"},"doi":"10.1016/j.ijhydene.2012.02.002","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Stimulatory effect of ascorbate, the alternative electron donor of photosystem II, on the hydrogen production of sulphur-deprived Chlamydomonas reinhardtii” [Int J Hydrogen Energy 37 (2012) 8864–8871]"}
+{
+  "retracted": false,
+  "timestamp": 1421020800000,
+  "updates": [
+    {
+      "timestamp": 1496029325643,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2014.11.092"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2012.02.002"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stimulatory effect of ascorbate, the alternative electron donor of photosystem II, on the hydrogen production of sulphur-deprived Chlamydomonas reinhardtii” [Int J Hydrogen Energy 37 (2012) 8864–8871]"
+}

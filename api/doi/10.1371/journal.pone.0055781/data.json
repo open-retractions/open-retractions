@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389830400000,"doi":"10.1371/annotation/9c1e150f-b310-45b9-b835-220e15489781","type":"correction"},"doi":"10.1371/journal.pone.0055781","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: ITN Mixtures of Chlorfenapyr (Pyrrole) and Alphacypermethrin (Pyrethroid) for Control of Pyrethroid Resistant Anopheles arabiensis and Culex quinquefasciatus"}
+{
+  "retracted": false,
+  "timestamp": 1389830400000,
+  "updates": [
+    {
+      "timestamp": 1496013024358,
+      "identifier": {
+        "doi": "10.1371/annotation/9c1e150f-b310-45b9-b835-220e15489781"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0055781"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ITN Mixtures of Chlorfenapyr (Pyrrole) and Alphacypermethrin (Pyrethroid) for Control of Pyrethroid Resistant Anopheles arabiensis and Culex quinquefasciatus"
+}

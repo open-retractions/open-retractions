@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1186/s13068-016-0482-5","type":"correction"},"doi":"10.1186/s13068-015-0369-x","journal":"Biotechnology for Biofuels","publisher":"Springer Nature","title":"Erratum to: Enhanced short chain fatty acids production from waste activated sludge conditioning with typical agricultural residues: carbon source composition regulates community functions"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655717852,
+      "identifier": {
+        "doi": "10.1186/s13068-016-0482-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13068-015-0369-x"
+  },
+  "journal": "Biotechnology for Biofuels",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Enhanced short chain fatty acids production from waste activated sludge conditioning with typical agricultural residues: carbon source composition regulates community functions"
+}

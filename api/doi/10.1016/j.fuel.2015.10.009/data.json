@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.fuel.2015.12.002","type":"err"},"doi":"10.1016/j.fuel.2015.10.009","journal":"Fuel","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of flotation performances of intruded and conventional coals in the absence of collectors” [Fuel 164 (2016) 186–190]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1496053422123,
+      "identifier": {
+        "doi": "10.1016/j.fuel.2015.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fuel.2015.10.009"
+  },
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of flotation performances of intruded and conventional coals in the absence of collectors” [Fuel 164 (2016) 186–190]"
+}

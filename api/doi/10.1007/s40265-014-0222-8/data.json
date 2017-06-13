@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1007/s40265-014-0237-1","type":"correction"},"doi":"10.1007/s40265-014-0222-8","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Therapeutic Drug Monitoring in the Treatment of Tuberculosis: An Update"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496043493975,
+      "identifier": {
+        "doi": "10.1007/s40265-014-0237-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-014-0222-8"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Therapeutic Drug Monitoring in the Treatment of Tuberculosis: An Update"
+}

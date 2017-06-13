@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.desal.2013.07.013","type":"err"},"doi":"10.1016/j.desal.2012.08.001","journal":"Desalination","publisher":"Elsevier BV","title":"Corrigendum to “Preparation of high flux thin film composite polyamide membrane: The effect of alkyl phosphate additives during interfacial polymerization” [Desalination 308 (2013) 111–114]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496038286866,
+      "identifier": {
+        "doi": "10.1016/j.desal.2013.07.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.desal.2012.08.001"
+  },
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preparation of high flux thin film composite polyamide membrane: The effect of alkyl phosphate additives during interfacial polymerization” [Desalination 308 (2013) 111–114]"
+}

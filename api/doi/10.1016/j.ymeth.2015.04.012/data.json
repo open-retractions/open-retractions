@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1016/j.ymeth.2015.12.016","type":"err"},"doi":"10.1016/j.ymeth.2015.04.012","journal":"Methods","publisher":"Elsevier BV","title":"Corrigendum to “Quantifying the strength of miRNA–target interactions” [Methods (2015) 90–99]"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1496047040977,
+      "identifier": {
+        "doi": "10.1016/j.ymeth.2015.12.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ymeth.2015.04.012"
+  },
+  "journal": "Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantifying the strength of miRNA–target interactions” [Methods (2015) 90–99]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438732800000,"doi":"10.1186/s13073-015-0194-7","type":"correction"},"doi":"10.1186/s13073-015-0185-8","journal":"Genome Medicine","publisher":"Springer Nature","title":"Erratum to: Brave new epigenomes: the dawn of epigenetic engineering"}
+{
+  "retracted": false,
+  "timestamp": 1438732800000,
+  "updates": [
+    {
+      "timestamp": 1496017561979,
+      "identifier": {
+        "doi": "10.1186/s13073-015-0194-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13073-015-0185-8"
+  },
+  "journal": "Genome Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Brave new epigenomes: the dawn of epigenetic engineering"
+}

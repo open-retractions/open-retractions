@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1495670400000,"doi":"10.1016/j.fluid.2017.02.014","type":"erratum"},"doi":"10.1016/j.fluid.2014.12.042","journal":"Fluid Phase Equilibria","publisher":"Elsevier BV","title":"Corrigendum to “New modified UNIFAC parameters using critically evaluated phase equilibrium data” [Fluid Phase Equilib. 388 (2015) 128–141]"}
+{
+  "retracted": false,
+  "timestamp": 1495670400000,
+  "updates": [
+    {
+      "timestamp": 1495724712014,
+      "identifier": {
+        "doi": "10.1016/j.fluid.2017.02.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fluid.2014.12.042"
+  },
+  "journal": "Fluid Phase Equilibria",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New modified UNIFAC parameters using critically evaluated phase equilibrium data” [Fluid Phase Equilib. 388 (2015) 128–141]"
+}

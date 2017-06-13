@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400803200000,"doi":"10.1007/bf03191331","type":"correction"},"doi":"10.1007/bf02983823","journal":"International Journal of Hematology","publisher":"Springer Nature","title":"Erratum to: Clinical evaluation of a recombinant factor VIII preparation (kogenate) in previously untreated patients with hemophilia A"}
+{
+  "retracted": false,
+  "timestamp": 1400803200000,
+  "updates": [
+    {
+      "timestamp": 1495877377470,
+      "identifier": {
+        "doi": "10.1007/bf03191331"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02983823"
+  },
+  "journal": "International Journal of Hematology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical evaluation of a recombinant factor VIII preparation (kogenate) in previously untreated patients with hemophilia A"
+}

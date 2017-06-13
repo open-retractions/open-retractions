@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475712000000,"doi":"10.1016/j.molcel.2016.09.035","type":"err"},"doi":"10.1016/j.molcel.2015.07.008","journal":"Molecular Cell","publisher":"Elsevier BV","title":"SpDamID: Marking DNA Bound by Protein Complexes Identifies Notch-Dimer Responsive Enhancers"}
+{
+  "retracted": false,
+  "timestamp": 1475712000000,
+  "updates": [
+    {
+      "timestamp": 1495646575441,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.09.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2015.07.008"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "SpDamID: Marking DNA Bound by Protein Complexes Identifies Notch-Dimer Responsive Enhancers"
+}

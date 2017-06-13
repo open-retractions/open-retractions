@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288656000000,"doi":"10.1371/annotation/d618ce28-5010-47df-a44e-148ecdc0fef6","type":"correction"},"doi":"10.1371/journal.pgen.1001162","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Pervasive Cryptic Epistasis in Molecular Evolution"}
+{
+  "retracted": false,
+  "timestamp": 1288656000000,
+  "updates": [
+    {
+      "timestamp": 1495902726835,
+      "identifier": {
+        "doi": "10.1371/annotation/d618ce28-5010-47df-a44e-148ecdc0fef6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001162"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Pervasive Cryptic Epistasis in Molecular Evolution"
+}

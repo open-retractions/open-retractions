@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.jspd.2016.02.002","type":"err"},"doi":"10.1016/j.jspd.2015.12.007","journal":"Spine Deformity","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495667160904,
+      "identifier": {
+        "doi": "10.1016/j.jspd.2016.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jspd.2015.12.007"
+  },
+  "journal": "Spine Deformity",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

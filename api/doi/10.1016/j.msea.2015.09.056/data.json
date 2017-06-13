@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452384000000,"doi":"10.1016/j.msea.2015.10.117","type":"err"},"doi":"10.1016/j.msea.2015.09.056","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to ‘Effect of nitrogen on the microstructures and mechanical properties in simulated CGHAZ of vanadium microalloyed steel varied with different heat inputs’"}
+{
+  "retracted": false,
+  "timestamp": 1452384000000,
+  "updates": [
+    {
+      "timestamp": 1496046390558,
+      "identifier": {
+        "doi": "10.1016/j.msea.2015.10.117"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2015.09.056"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Effect of nitrogen on the microstructures and mechanical properties in simulated CGHAZ of vanadium microalloyed steel varied with different heat inputs’"
+}

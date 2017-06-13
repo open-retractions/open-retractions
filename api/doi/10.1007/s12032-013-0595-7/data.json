@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378339200000,"doi":"10.1007/s12032-013-0716-3","type":"correction"},"doi":"10.1007/s12032-013-0595-7","journal":"Medical Oncology","publisher":"Springer Nature","title":"Erratum to: Notch3 overexpression associates with poor prognosis in human non-small-cell lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1378339200000,
+  "updates": [
+    {
+      "timestamp": 1496043863670,
+      "identifier": {
+        "doi": "10.1007/s12032-013-0716-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12032-013-0595-7"
+  },
+  "journal": "Medical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Notch3 overexpression associates with poor prognosis in human non-small-cell lung cancer"
+}

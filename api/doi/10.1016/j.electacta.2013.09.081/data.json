@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.electacta.2014.09.003","type":"err"},"doi":"10.1016/j.electacta.2013.09.081","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “An electrochemical study on the positive electrode side of the zinc–cerium hybrid redox flow battery” [115 (2014) 621–629]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1495994106972,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2014.09.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2013.09.081"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An electrochemical study on the positive electrode side of the zinc–cerium hybrid redox flow battery” [115 (2014) 621–629]"
+}

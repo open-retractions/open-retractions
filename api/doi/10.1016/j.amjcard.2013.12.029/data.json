@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408060800000,"doi":"10.1016/j.amjcard.2014.05.052","type":"err"},"doi":"10.1016/j.amjcard.2013.12.029","journal":"The American Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum for Minha et al. “Impact of Previous Coronary Artery Bypass Grafting on Patients Undergoing Transcatheter Aortic Valve Implantation for Aortic Stenosis”. Am J Cardiol 2014;113:1222–1227."}
+{
+  "retracted": false,
+  "timestamp": 1408060800000,
+  "updates": [
+    {
+      "timestamp": 1495996278435,
+      "identifier": {
+        "doi": "10.1016/j.amjcard.2014.05.052"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjcard.2013.12.029"
+  },
+  "journal": "The American Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for Minha et al. “Impact of Previous Coronary Artery Bypass Grafting on Patients Undergoing Transcatheter Aortic Valve Implantation for Aortic Stenosis”. Am J Cardiol 2014;113:1222–1227."
+}

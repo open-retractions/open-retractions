@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1259020800000,"doi":"10.1073/pnas.1001400107","type":"correction"},"doi":"10.1073/pnas.0910887106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Budzik et al., Intramolecular amide bonds stabilize pili on the surface of bacilli"}
+{
+  "retracted": false,
+  "timestamp": 1259020800000,
+  "updates": [
+    {
+      "timestamp": 1495820668692,
+      "identifier": {
+        "doi": "10.1073/pnas.1001400107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0910887106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Budzik et al., Intramolecular amide bonds stabilize pili on the surface of bacilli"
+}

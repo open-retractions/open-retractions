@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397088000000,"doi":"10.1007/s003400050619","type":"correction"},"doi":"10.1007/s003400050499","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Appl. Phys. B 67, 235–239 (1998)"}
+{
+  "retracted": false,
+  "timestamp": 1397088000000,
+  "updates": [
+    {
+      "timestamp": 1495809884852,
+      "identifier": {
+        "doi": "10.1007/s003400050619"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s003400050499"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Appl. Phys. B 67, 235–239 (1998)"
+}

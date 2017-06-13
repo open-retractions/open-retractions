@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1107/s2056989015013742","type":"correction"},"doi":"10.1107/s2056989015010488","journal":"Acta Crystallographica Section E Crystallographic Communications","publisher":"International Union of Crystallography (IUCr)","title":"Crystal structure of 2-cyano-N-(furan-2-ylmethyl)acetamide. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496019091724,
+      "identifier": {
+        "doi": "10.1107/s2056989015013742"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s2056989015010488"
+  },
+  "journal": "Acta Crystallographica Section E Crystallographic Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Crystal structure of 2-cyano-N-(furan-2-ylmethyl)acetamide. Corrigendum"
+}

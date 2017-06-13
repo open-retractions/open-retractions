@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421107200000,"doi":"10.1080/02602938.2014.1000001","type":"correction"},"doi":"10.1080/02602938.2013.870122","journal":"Assessment & Evaluation in Higher Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1421107200000,
+  "updates": [
+    {
+      "timestamp": 1496036164788,
+      "identifier": {
+        "doi": "10.1080/02602938.2014.1000001"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02602938.2013.870122"
+  },
+  "journal": "Assessment & Evaluation in Higher Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

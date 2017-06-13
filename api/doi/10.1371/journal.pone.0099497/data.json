@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406505600000,"doi":"10.1371/journal.pone.0104331","type":"correction"},"doi":"10.1371/journal.pone.0099497","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Bayesian Genome Assembly and Assessment by Markov Chain Monte Carlo Sampling"}
+{
+  "retracted": false,
+  "timestamp": 1406505600000,
+  "updates": [
+    {
+      "timestamp": 1496056713562,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0104331"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0099497"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bayesian Genome Assembly and Assessment by Markov Chain Monte Carlo Sampling"
+}

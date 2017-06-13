@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":973814400000,"doi":"10.1007/s002590000422","type":"correction"},"doi":"10.1007/pl00006652","journal":"European Journal of Nuclear Medicine","publisher":"Springer Nature","title":"Erratum to: Kinetics of 3-[123I]iodo-L-α-methyltyrosine transport in rat C6 glioma cells"}
+{
+  "retracted": false,
+  "timestamp": 973814400000,
+  "updates": [
+    {
+      "timestamp": 1495921172190,
+      "identifier": {
+        "doi": "10.1007/s002590000422"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/pl00006652"
+  },
+  "journal": "European Journal of Nuclear Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Kinetics of 3-[123I]iodo-L-α-methyltyrosine transport in rat C6 glioma cells"
+}

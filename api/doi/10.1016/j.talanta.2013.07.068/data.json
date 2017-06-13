@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.talanta.2016.02.028","type":"err"},"doi":"10.1016/j.talanta.2013.07.068","journal":"Talanta","publisher":"Elsevier BV","title":"Corrigendum to “A high-performance glucose biosensor using covalently immobilised glucose oxidase on a poly(2,6-diaminopyridine)/carbon nanotube electrode”"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495658237684,
+      "identifier": {
+        "doi": "10.1016/j.talanta.2016.02.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.talanta.2013.07.068"
+  },
+  "journal": "Talanta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A high-performance glucose biosensor using covalently immobilised glucose oxidase on a poly(2,6-diaminopyridine)/carbon nanotube electrode”"
+}

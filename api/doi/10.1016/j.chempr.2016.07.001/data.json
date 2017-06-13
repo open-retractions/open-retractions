@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473292800000,"doi":"10.1016/j.chempr.2016.08.001","type":"err"},"doi":"10.1016/j.chempr.2016.07.001","journal":"Chem","publisher":"Elsevier BV","title":"Tunable Supramolecular Hydrogels for Selection of Lineage-Guiding Metabolites in Stem Cell Cultures"}
+{
+  "retracted": false,
+  "timestamp": 1473292800000,
+  "updates": [
+    {
+      "timestamp": 1495638606856,
+      "identifier": {
+        "doi": "10.1016/j.chempr.2016.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chempr.2016.07.001"
+  },
+  "journal": "Chem",
+  "publisher": "Elsevier BV",
+  "title": "Tunable Supramolecular Hydrogels for Selection of Lineage-Guiding Metabolites in Stem Cell Cultures"
+}

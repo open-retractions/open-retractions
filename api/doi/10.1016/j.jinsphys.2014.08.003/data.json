@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jinsphys.2015.01.010","type":"err"},"doi":"10.1016/j.jinsphys.2014.08.003","journal":"Journal of Insect Physiology","publisher":"Elsevier BV","title":"Erratum to “microRNAs as mediators of insect host–pathogen interactions and immunity” [Journal of Insect Physiology 70 (2014) 151–158]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496044053978,
+      "identifier": {
+        "doi": "10.1016/j.jinsphys.2015.01.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jinsphys.2014.08.003"
+  },
+  "journal": "Journal of Insect Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “microRNAs as mediators of insect host–pathogen interactions and immunity” [Journal of Insect Physiology 70 (2014) 151–158]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469750400000,"doi":"10.1186/s13059-016-1031-z","type":"correction"},"doi":"10.1186/s13059-016-0967-3","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: The shocking consequences of hybrid epigenomes"}
+{
+  "retracted": false,
+  "timestamp": 1469750400000,
+  "updates": [
+    {
+      "timestamp": 1495732906242,
+      "identifier": {
+        "doi": "10.1186/s13059-016-1031-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-0967-3"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The shocking consequences of hybrid epigenomes"
+}

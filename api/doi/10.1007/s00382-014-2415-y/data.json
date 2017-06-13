@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445040000000,"doi":"10.1007/s00382-015-2839-z","type":"correction"},"doi":"10.1007/s00382-014-2415-y","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: Influence of ocean–atmospheric oscillations on lake ice phenology in eastern North America"}
+{
+  "retracted": false,
+  "timestamp": 1445040000000,
+  "updates": [
+    {
+      "timestamp": 1496036667460,
+      "identifier": {
+        "doi": "10.1007/s00382-015-2839-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-014-2415-y"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Influence of ocean–atmospheric oscillations on lake ice phenology in eastern North America"
+}

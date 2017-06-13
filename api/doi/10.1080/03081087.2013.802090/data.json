@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407801600000,"doi":"10.1080/03081087.2013.820034","type":"correction"},"doi":"10.1080/03081087.2013.802090","journal":"Linear and Multilinear Algebra","publisher":"Informa UK Limited","title":"About the matrix functionX→AX+XA"}
+{
+  "retracted": false,
+  "timestamp": 1407801600000,
+  "updates": [
+    {
+      "timestamp": 1496046373529,
+      "identifier": {
+        "doi": "10.1080/03081087.2013.820034"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03081087.2013.802090"
+  },
+  "journal": "Linear and Multilinear Algebra",
+  "publisher": "Informa UK Limited",
+  "title": "About the matrix functionX→AX+XA"
+}

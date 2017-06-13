@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440720000000,"doi":"10.1007/s00707-015-1449-5","type":"correction"},"doi":"10.1007/s00707-015-1314-6","journal":"Acta Mechanica","publisher":"Springer Nature","title":"Erratum to: Modeling of dynamic train–bridge interaction in high-speed railways"}
+{
+  "retracted": false,
+  "timestamp": 1440720000000,
+  "updates": [
+    {
+      "timestamp": 1496025733801,
+      "identifier": {
+        "doi": "10.1007/s00707-015-1449-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00707-015-1314-6"
+  },
+  "journal": "Acta Mechanica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Modeling of dynamic train–bridge interaction in high-speed railways"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365984000000,"doi":"10.1016/j.jcbs.2013.04.002","type":"err"},"doi":"10.1016/j.jcbs.2012.06.001","journal":"Journal of Contextual Behavioral Science","publisher":"Elsevier BV","title":"Corrigendum to “Modelling the direct and indirect effects of thought suppression on personal choice” [J. Contextual Behav. Sci. 1 (2012) 73–82]"}
+{
+  "retracted": false,
+  "timestamp": 1365984000000,
+  "updates": [
+    {
+      "timestamp": 1496013452739,
+      "identifier": {
+        "doi": "10.1016/j.jcbs.2013.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcbs.2012.06.001"
+  },
+  "journal": "Journal of Contextual Behavioral Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modelling the direct and indirect effects of thought suppression on personal choice” [J. Contextual Behav. Sci. 1 (2012) 73–82]"
+}

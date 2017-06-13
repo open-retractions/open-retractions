@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.jpowsour.2014.12.115","type":"erratum"},"doi":"10.1016/j.jpowsour.2014.10.048","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Insight into cobalt-doping in Li2FeSiO4 cathode material for lithium-ion battery” [J. Power Sources 274C (2014) 194–202]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496033887937,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2014.12.115"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.10.048"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Insight into cobalt-doping in Li2FeSiO4 cathode material for lithium-ion battery” [J. Power Sources 274C (2014) 194–202]"
+}

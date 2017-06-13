@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402876800000,"doi":"10.1016/j.ccr.2014.05.014","type":"err"},"doi":"10.1016/j.ccr.2014.04.018","journal":"Cancer Cell","publisher":"Elsevier BV","title":"Combinatorial Haplo-Deficient Tumor Suppression in 7q-Deficient Myelodysplastic Syndrome and Acute Myeloid Leukemia"}
+{
+  "retracted": false,
+  "timestamp": 1402876800000,
+  "updates": [
+    {
+      "timestamp": 1496045966701,
+      "identifier": {
+        "doi": "10.1016/j.ccr.2014.05.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccr.2014.04.018"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "Combinatorial Haplo-Deficient Tumor Suppression in 7q-Deficient Myelodysplastic Syndrome and Acute Myeloid Leukemia"
+}

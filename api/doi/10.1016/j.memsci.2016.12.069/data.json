@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1494806400000,"doi":"10.1016/j.memsci.2017.02.028","type":"erratum"},"doi":"10.1016/j.memsci.2016.12.069","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Dehydration performance of double-network poly(vinyl alcohol) nanocomposite membranes (PVAs-DN)” [J. Membr. Sci. 528 (2017) 284–295]"}
+{
+  "retracted": false,
+  "timestamp": 1494806400000,
+  "updates": [
+    {
+      "timestamp": 1495722654190,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2017.02.028"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2016.12.069"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dehydration performance of double-network poly(vinyl alcohol) nanocomposite membranes (PVAs-DN)” [J. Membr. Sci. 528 (2017) 284–295]"
+}

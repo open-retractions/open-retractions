@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1007/jhep07(2015)103","type":"correction"},"doi":"10.1007/jhep03(2015)171","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: A taste of dark matter: flavour constraints on pseudoscalar mediators"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496010769608,
+      "identifier": {
+        "doi": "10.1007/jhep07(2015)103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep03(2015)171"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A taste of dark matter: flavour constraints on pseudoscalar mediators"
+}

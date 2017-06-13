@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453420800000,"doi":"10.1063/1.4940777","type":"correction"},"doi":"10.1063/1.4811795","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Going beyond ‘no-pair relativistic quantum chemistry’” [J. Chem. Phys. 139, 014108 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1453420800000,
+  "updates": [
+    {
+      "timestamp": 1495638937966,
+      "identifier": {
+        "doi": "10.1063/1.4940777"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4811795"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Going beyond ‘no-pair relativistic quantum chemistry’” [J. Chem. Phys. 139, 014108 (2013)]"
+}

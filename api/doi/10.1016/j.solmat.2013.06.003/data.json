@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.solmat.2015.07.005","type":"erratum"},"doi":"10.1016/j.solmat.2013.06.003","journal":"Solar Energy Materials and Solar Cells","publisher":"Elsevier BV","title":"Corrigendum to nano-domain behaviour in P3HT:PCBM nanoparticles, relating material properties to morphological changes (Solar Energy Materials & Solar Cells 117 (2013) 437–445)"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496016484873,
+      "identifier": {
+        "doi": "10.1016/j.solmat.2015.07.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solmat.2013.06.003"
+  },
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to nano-domain behaviour in P3HT:PCBM nanoparticles, relating material properties to morphological changes (Solar Energy Materials & Solar Cells 117 (2013) 437–445)"
+}

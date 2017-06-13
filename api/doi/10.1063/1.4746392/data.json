@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409616000000,"doi":"10.1063/1.4894754","type":"correction"},"doi":"10.1063/1.4746392","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Exact dynamic properties of molecular motors” [J. Chem. Phys. 137, 084102 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1409616000000,
+  "updates": [
+    {
+      "timestamp": 1496004623012,
+      "identifier": {
+        "doi": "10.1063/1.4894754"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4746392"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Exact dynamic properties of molecular motors” [J. Chem. Phys. 137, 084102 (2012)]"
+}

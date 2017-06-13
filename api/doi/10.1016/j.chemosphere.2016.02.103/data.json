@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1462060800000,"update":{"timestamp":null,"doi":null,"pmid":27516054,"type":"retraction"},"doi":"10.1016/j.chemosphere.2016.02.103","journal":"Chemosphere","publisher":null,"title":"Effect of thiols enrichment on Cr(VI) photo-reduction by natural organic matter (NOM)."}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495735822122,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.07.060"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2016.02.103"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to ‘Effect of thiols enrichment on Cr(VI) photo-reduction by natural organic matter (NOM) [Chemosphere 151C (2015) 234–240]’"
+}

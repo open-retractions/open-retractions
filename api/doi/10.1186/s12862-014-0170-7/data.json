@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427241600000,"doi":"10.1186/s12862-015-0305-5","type":"correction"},"doi":"10.1186/s12862-014-0170-7","journal":"BMC Evolutionary Biology","publisher":"Springer Nature","title":"Erratum: Phylogeny of Myzostomida (Annelida) and their relationships with echinoderm hosts."}
+{
+  "retracted": false,
+  "timestamp": 1427241600000,
+  "updates": [
+    {
+      "timestamp": 1496052764310,
+      "identifier": {
+        "doi": "10.1186/s12862-015-0305-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12862-014-0170-7"
+  },
+  "journal": "BMC Evolutionary Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Phylogeny of Myzostomida (Annelida) and their relationships with echinoderm hosts."
+}

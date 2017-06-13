@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.repbio.2013.11.003","type":"err"},"doi":"10.1016/j.repbio.2012.10.002","journal":"Reproductive Biology","publisher":"Elsevier BV","title":"Corrigendum to “Testosterone, gonadotropins and androgen receptor during spermatogenesis of Biomphalaria alexandrina snails (Pulmonata: Basommatophora)” [Reprod. Biol. 12 (November (3)) (2012) 301–308]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496003262647,
+      "identifier": {
+        "doi": "10.1016/j.repbio.2013.11.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.repbio.2012.10.002"
+  },
+  "journal": "Reproductive Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Testosterone, gonadotropins and androgen receptor during spermatogenesis of Biomphalaria alexandrina snails (Pulmonata: Basommatophora)” [Reprod. Biol. 12 (November (3)) (2012) 301–308]"
+}

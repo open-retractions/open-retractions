@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1016/j.jbiotec.2016.03.048","type":"err"},"doi":"10.1016/j.jbiotec.2012.10.021","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “Development of fed-batch strategies for the production of streptavidin by Streptomyces avidinii based on power input and oxygen supply studies” [J. Biotechnol. 163 (2013) 325–332]"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495665766796,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2016.03.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2012.10.021"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Development of fed-batch strategies for the production of streptavidin by Streptomyces avidinii based on power input and oxygen supply studies” [J. Biotechnol. 163 (2013) 325–332]"
+}

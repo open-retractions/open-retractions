@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482105600000,"doi":"10.1016/j.devcel.2016.12.011","type":"erratum"},"doi":"10.1016/j.devcel.2014.04.006","journal":"Developmental Cell","publisher":"Elsevier BV","title":"Redox Regulation by Pitx2 and Pitx3 Is Critical for Fetal Myogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1482105600000,
+  "updates": [
+    {
+      "timestamp": 1495668072772,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2016.12.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2014.04.006"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "Redox Regulation by Pitx2 and Pitx3 Is Critical for Fetal Myogenesis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410134400000,"doi":"10.1080/09687599.2014.881509","type":"correction"},"doi":"10.1080/09687599.2013.844096","journal":"Disability & Society","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1410134400000,
+  "updates": [
+    {
+      "timestamp": 1496012162980,
+      "identifier": {
+        "doi": "10.1080/09687599.2014.881509"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09687599.2013.844096"
+  },
+  "journal": "Disability & Society",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

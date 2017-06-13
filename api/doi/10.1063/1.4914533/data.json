@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1063/1.4922123","type":"correction"},"doi":"10.1063/1.4914533","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Effects of repetitive bending on the magnetoresistance of a flexible spin-valve” [J. Appl. Phys. 117, 17E120 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496003524916,
+      "identifier": {
+        "doi": "10.1063/1.4922123"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4914533"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effects of repetitive bending on the magnetoresistance of a flexible spin-valve” [J. Appl. Phys. 117, 17E120 (2015)]"
+}

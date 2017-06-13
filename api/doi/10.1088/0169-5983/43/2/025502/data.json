@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479772800000,"doi":"10.1088/0169-5983/49/1/019501","type":"correction"},"doi":"10.1088/0169-5983/43/2/025502","journal":"Fluid Dynamics Research","publisher":"IOP Publishing","title":"Corrigendum: Convective instability in a ferrofluid layer with temperature-modulated rigid boundaries (2011 Fluid Dyn. Res. 43 025502)"}
+{
+  "retracted": false,
+  "timestamp": 1479772800000,
+  "updates": [
+    {
+      "timestamp": 1495660492771,
+      "identifier": {
+        "doi": "10.1088/0169-5983/49/1/019501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0169-5983/43/2/025502"
+  },
+  "journal": "Fluid Dynamics Research",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Convective instability in a ferrofluid layer with temperature-modulated rigid boundaries (2011 Fluid Dyn. Res.  43  025502)"
+}

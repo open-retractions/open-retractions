@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.pnucene.2014.01.001","type":"err"},"doi":"10.1016/j.pnucene.2013.10.005","journal":"Progress in Nuclear Energy","publisher":"Elsevier BV","title":"Corrigendum to “Entrainment at T-junction: A review work” [Prog. Nucl. Energy 70 (January 2014) 221–241]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496012786377,
+      "identifier": {
+        "doi": "10.1016/j.pnucene.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnucene.2013.10.005"
+  },
+  "journal": "Progress in Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Entrainment at T-junction: A review work” [Prog. Nucl. Energy 70 (January 2014) 221–241]"
+}

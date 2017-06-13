@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431475200000,"doi":"10.1186/s13059-015-0649-6","type":"correction"},"doi":"10.1186/gb-2013-14-10-r115","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: DNA methylation age of human tissues and cell types"}
+{
+  "retracted": false,
+  "timestamp": 1431475200000,
+  "updates": [
+    {
+      "timestamp": 1496831032204,
+      "identifier": {
+        "doi": "10.1186/s13059-015-0649-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/gb-2013-14-10-r115"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: DNA methylation age of human tissues and cell types"
+}

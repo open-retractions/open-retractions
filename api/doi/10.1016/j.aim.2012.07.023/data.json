@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487635200000,"doi":"10.1016/j.aim.2016.12.030","type":"erratum"},"doi":"10.1016/j.aim.2012.07.023","journal":"Advances in Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “Generators of the Hecke algebra of (S2n,Bn)” [Adv. Math. 231 (2012) 2465–2483]"}
+{
+  "retracted": false,
+  "timestamp": 1487635200000,
+  "updates": [
+    {
+      "timestamp": 1495675216686,
+      "identifier": {
+        "doi": "10.1016/j.aim.2016.12.030"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aim.2012.07.023"
+  },
+  "journal": "Advances in Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Generators of the Hecke algebra of (S2n,Bn)” [Adv. Math. 231 (2012) 2465–2483]"
+}

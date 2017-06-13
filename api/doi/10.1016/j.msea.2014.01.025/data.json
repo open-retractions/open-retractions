@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452384000000,"doi":"10.1016/j.msea.2015.11.094","type":"err"},"doi":"10.1016/j.msea.2014.01.025","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Retraction notice to ‘Tube cyclic extrusion–compression (TCEC) as a novel severe plastic deformation method for cylindrical tubes’ [Mater. Sci. Eng. A 598 (2014) 1–6]"}
+{
+  "retracted": false,
+  "timestamp": 1452384000000,
+  "updates": [
+    {
+      "timestamp": 1496053964963,
+      "identifier": {
+        "doi": "10.1016/j.msea.2015.11.094"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2014.01.025"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to ‘Tube cyclic extrusion–compression (TCEC) as a novel severe plastic deformation method for cylindrical tubes’ [Mater. Sci. Eng. A 598 (2014) 1–6]"
+}

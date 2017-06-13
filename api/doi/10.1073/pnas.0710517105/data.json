@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1197936000000,"doi":"10.1073/pnas.0808557105","type":"correction"},"doi":"10.1073/pnas.0710517105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Shroff et al., Dual-color superresolution imaging of genetically expressed probes within individual adhesion complexes"}
+{
+  "retracted": false,
+  "timestamp": 1197936000000,
+  "updates": [
+    {
+      "timestamp": 1495882654513,
+      "identifier": {
+        "doi": "10.1073/pnas.0808557105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0710517105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Shroff et al., Dual-color superresolution imaging of genetically expressed probes within individual adhesion complexes"
+}

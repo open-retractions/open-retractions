@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.msec.2016.07.001","type":"err"},"doi":"10.1016/j.msec.2016.04.073","journal":"Materials Science and Engineering: C","publisher":"Elsevier BV","title":"Corrigendum to “Surface modification of electrospun PLGA scaffold with collagen for bioengineered skin substitutes” [J. Mater. Sci. Eng. C 66 (2016) 130–137]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495730770511,
+      "identifier": {
+        "doi": "10.1016/j.msec.2016.07.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msec.2016.04.073"
+  },
+  "journal": "Materials Science and Engineering: C",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Surface modification of electrospun PLGA scaffold with collagen for bioengineered skin substitutes” [J. Mater. Sci. Eng. C 66 (2016) 130–137]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482105600000,"doi":"10.1038/srep39441","type":"correction"},"doi":"10.1038/srep33491","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Self-Assembly of Amphiphilic Block Copolypeptoids – Micelles, Worms and Polymersomes"}
+{
+  "retracted": false,
+  "timestamp": 1482105600000,
+  "updates": [
+    {
+      "timestamp": 1495667999957,
+      "identifier": {
+        "doi": "10.1038/srep39441"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep33491"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Self-Assembly of Amphiphilic Block Copolypeptoids – Micelles, Worms and Polymersomes"
+}

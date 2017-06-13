@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1022889600000,"doi":"10.1085/jgp.20020507119487cor","type":"correction"},"doi":"10.1085/jgp.20028551","journal":"The Journal of General Physiology","publisher":"Rockefeller University Press","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1022889600000,
+  "updates": [
+    {
+      "timestamp": 1495841865859,
+      "identifier": {
+        "doi": "10.1085/jgp.20020507119487cor"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1085/jgp.20028551"
+  },
+  "journal": "The Journal of General Physiology",
+  "publisher": "Rockefeller University Press",
+  "title": "Correction"
+}

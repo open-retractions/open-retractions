@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441756800000,"doi":"10.1007/jhep09(2015)048","type":"correction"},"doi":"10.1007/jhep08(2013)016","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Continuum interpretation of the dynamical-triangulation formulation of quantum Einstein gravity"}
+{
+  "retracted": false,
+  "timestamp": 1441756800000,
+  "updates": [
+    {
+      "timestamp": 1496030173078,
+      "identifier": {
+        "doi": "10.1007/jhep09(2015)048"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep08(2013)016"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Continuum interpretation of the dynamical-triangulation formulation of quantum Einstein gravity"
+}

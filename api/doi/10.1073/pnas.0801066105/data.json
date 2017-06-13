@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1227571200000,"doi":"10.1073/pnas.0901510106","type":"correction"},"doi":"10.1073/pnas.0801066105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wiseman et al., Mass Spectrometry Across the Sciences Special Feature: Desorption electrospray ionization mass spectrometry: Imaging drugs and metabolites in tissues"}
+{
+  "retracted": false,
+  "timestamp": 1227571200000,
+  "updates": [
+    {
+      "timestamp": 1495937739323,
+      "identifier": {
+        "doi": "10.1073/pnas.0901510106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0801066105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wiseman et al., Mass Spectrometry Across the Sciences Special Feature: Desorption electrospray ionization mass spectrometry: Imaging drugs and metabolites in tissues"
+}

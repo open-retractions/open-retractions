@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450742400000,"doi":"10.1007/s11005-015-0815-5","type":"correction"},"doi":"10.1007/s11005-015-0801-y","journal":"Letters in Mathematical Physics","publisher":"Springer Nature","title":"Erratum to: The Universal C*-Algebra of the Electromagnetic Field"}
+{
+  "retracted": false,
+  "timestamp": 1450742400000,
+  "updates": [
+    {
+      "timestamp": 1496055596432,
+      "identifier": {
+        "doi": "10.1007/s11005-015-0815-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11005-015-0801-y"
+  },
+  "journal": "Letters in Mathematical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Universal C*-Algebra of the Electromagnetic Field"
+}

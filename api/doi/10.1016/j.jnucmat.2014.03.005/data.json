@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jnucmat.2014.05.074","type":"err"},"doi":"10.1016/j.jnucmat.2014.03.005","journal":"Journal of Nuclear Materials","publisher":"Elsevier BV","title":"Erratum to “A multiscale approach to study the effect of chromium and nickel concentration in the hardening of iron alloys” [J. Nucl. Mater. 449 (2014) 101–110]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496047415178,
+      "identifier": {
+        "doi": "10.1016/j.jnucmat.2014.05.074"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnucmat.2014.03.005"
+  },
+  "journal": "Journal of Nuclear Materials",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A multiscale approach to study the effect of chromium and nickel concentration in the hardening of iron alloys” [J. Nucl. Mater. 449 (2014) 101–110]"
+}

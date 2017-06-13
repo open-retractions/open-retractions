@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1007/s00066-014-0704-3","type":"correction"},"doi":"10.1007/s00066-014-0606-4","journal":"Strahlentherapie und Onkologie","publisher":"Springer Nature","title":"Erratum to: Incidental dose to coronary arteries is higher in prone than in supine whole breast irradiation"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050794576,
+      "identifier": {
+        "doi": "10.1007/s00066-014-0704-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00066-014-0606-4"
+  },
+  "journal": "Strahlentherapie und Onkologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Incidental dose to coronary arteries is higher in prone than in supine whole breast irradiation"
+}

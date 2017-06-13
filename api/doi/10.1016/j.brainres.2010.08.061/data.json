@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425945600000,"doi":"10.1016/j.brainres.2014.11.039","type":"err"},"doi":"10.1016/j.brainres.2010.08.061","journal":"Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “DL-3-n-butylphthalide prevents neuronal cell death after focal cerebral ischemia in mice via the JNK pathway” [Brain Res. 1359 (2010) 216–226]"}
+{
+  "retracted": false,
+  "timestamp": 1425945600000,
+  "updates": [
+    {
+      "timestamp": 1496026875389,
+      "identifier": {
+        "doi": "10.1016/j.brainres.2014.11.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainres.2010.08.061"
+  },
+  "journal": "Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “DL-3-n-butylphthalide prevents neuronal cell death after focal cerebral ischemia in mice via the JNK pathway” [Brain Res. 1359 (2010) 216–226]"
+}

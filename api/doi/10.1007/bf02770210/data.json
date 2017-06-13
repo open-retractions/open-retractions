@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1222041600000,"doi":"10.1007/bf02770396","type":"correction"},"doi":"10.1007/bf02770210","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Remarks on inclusive experiments and high-energy models"}
+{
+  "retracted": false,
+  "timestamp": 1222041600000,
+  "updates": [
+    {
+      "timestamp": 1495881397463,
+      "identifier": {
+        "doi": "10.1007/bf02770396"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02770210"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Remarks on inclusive experiments and high-energy models"
+}

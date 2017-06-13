@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399420800000,"doi":"10.1016/j.tetlet.2014.04.012","type":"err"},"doi":"10.1016/j.tetlet.2013.05.093","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Xyolide, a bioactive nonenolide from an Amazonian endophytic fungus, Xylaria feejeensis” [Tetrahedron Lett. 54 (2013) 4058–4060]"}
+{
+  "retracted": false,
+  "timestamp": 1399420800000,
+  "updates": [
+    {
+      "timestamp": 1496032789462,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2014.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2013.05.093"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Xyolide, a bioactive nonenolide from an Amazonian endophytic fungus, Xylaria feejeensis” [Tetrahedron Lett. 54 (2013) 4058–4060]"
+}

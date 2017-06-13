@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476662400000,"doi":"10.1007/s10147-016-1052-3","type":"correction"},"doi":"10.1007/s10147-016-1039-0","journal":"International Journal of Clinical Oncology","publisher":"Springer Nature","title":"Erratum to: Final overall survival in JO22903, a phase II, open-label study of first-line erlotinib for Japanese patients with EGFR mutation-positive non-small-cell lung cancer"}
+{
+  "retracted": false,
+  "timestamp": 1476662400000,
+  "updates": [
+    {
+      "timestamp": 1495649182039,
+      "identifier": {
+        "doi": "10.1007/s10147-016-1052-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10147-016-1039-0"
+  },
+  "journal": "International Journal of Clinical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Final overall survival in JO22903, a phase II, open-label study of first-line erlotinib for Japanese patients with EGFR mutation-positive non-small-cell lung cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.amjoto.2015.05.001","type":"err"},"doi":"10.1016/j.amjoto.2014.10.017","journal":"American Journal of Otolaryngology","publisher":"Elsevier BV","title":"Erratum to “Postoperative radiotherapy for diffuse pigmented villonodular synovitis of the temporomandibular joint” [(American Journal of Otolaryngology) vol. 36 (2015) 106–113]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496001385116,
+      "identifier": {
+        "doi": "10.1016/j.amjoto.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjoto.2014.10.017"
+  },
+  "journal": "American Journal of Otolaryngology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Postoperative radiotherapy for diffuse pigmented villonodular synovitis of the temporomandibular joint” [(American Journal of Otolaryngology) vol. 36 (2015) 106–113]"
+}

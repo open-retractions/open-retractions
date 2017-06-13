@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374624000000,"doi":"10.1063/1.4816674","type":"correction"},"doi":"10.1063/1.4811285","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Monte Carlo and theoretical calculations of the first four perturbation coefficients in the high temperature series expansion of the free energy for discrete and core-softened potential models” [J. Chem. Phys. 138, 244115 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1374624000000,
+  "updates": [
+    {
+      "timestamp": 1496035115043,
+      "identifier": {
+        "doi": "10.1063/1.4816674"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4811285"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Monte Carlo and theoretical calculations of the first four perturbation coefficients in the high temperature series expansion of the free energy for discrete and core-softened potential models” [J. Chem. Phys. 138, 244115 (2013)]"
+}

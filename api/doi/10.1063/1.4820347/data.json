@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1063/1.4906212","type":"correction"},"doi":"10.1063/1.4820347","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “An analytical model for bio-electronic organic field-effect transistor sensors” [Appl. Phys. Lett. 103, 103301 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496037541052,
+      "identifier": {
+        "doi": "10.1063/1.4906212"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820347"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “An analytical model for bio-electronic organic field-effect transistor sensors” [Appl. Phys. Lett. 103, 103301 (2013)]"
+}

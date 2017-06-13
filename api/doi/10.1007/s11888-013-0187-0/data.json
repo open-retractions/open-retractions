@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s11888-014-0228-3","type":"correction"},"doi":"10.1007/s11888-013-0187-0","journal":"Current Colorectal Cancer Reports","publisher":"Springer Nature","title":"Erratum to: Do We Need another Antiangiogenesis Agent for Colorectal Cancer: are Bevacizumab and Aflibercept the Same?"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496041896856,
+      "identifier": {
+        "doi": "10.1007/s11888-014-0228-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11888-013-0187-0"
+  },
+  "journal": "Current Colorectal Cancer Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Do We Need another Antiangiogenesis Agent for Colorectal Cancer: are Bevacizumab and Aflibercept the Same?"
+}

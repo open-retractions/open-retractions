@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373846400000,"doi":"10.1371/annotation/e33066ea-f500-4d34-8981-7cfd68497e73","type":"correction"},"doi":"10.1371/journal.pone.0037152","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identification of New Delhi Metallo-β-lactamase 1 in Acinetobacter lwoffii of Food Animal Origin"}
+{
+  "retracted": false,
+  "timestamp": 1373846400000,
+  "updates": [
+    {
+      "timestamp": 1496038090806,
+      "identifier": {
+        "doi": "10.1371/annotation/e33066ea-f500-4d34-8981-7cfd68497e73"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037152"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identification of New Delhi Metallo-β-lactamase 1 in Acinetobacter lwoffii of Food Animal Origin"
+}

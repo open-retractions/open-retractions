@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1009843200000,"doi":"10.1107/s0907444901021126","type":"correction"},"doi":"10.1107/s090744490101825x","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"The X-ray structure of a recombinant major urinary protein at 1.75 Å resolution. A comparative study of X-ray and NMR-derived structures. Addendum"}
+{
+  "retracted": false,
+  "timestamp": 1009843200000,
+  "updates": [
+    {
+      "timestamp": 1495878222765,
+      "identifier": {
+        "doi": "10.1107/s0907444901021126"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s090744490101825x"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "The X-ray structure of a recombinant major urinary protein at 1.75 Å resolution. A comparative study of X-ray and NMR-derived structures. Addendum"
+}

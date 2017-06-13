@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398038400000,"doi":"10.1007/s00464-002-0021-2","type":"correction"},"doi":"10.1007/s00464-001-9040-7","journal":"Surgical Endoscopy And Other Interventional Techniques","publisher":"Springer Nature","title":"Erratum to: Laparoscopic vs open approach for the treatment of gastroesophageal reflux in children"}
+{
+  "retracted": false,
+  "timestamp": 1398038400000,
+  "updates": [
+    {
+      "timestamp": 1495989223932,
+      "identifier": {
+        "doi": "10.1007/s00464-002-0021-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-001-9040-7"
+  },
+  "journal": "Surgical Endoscopy And Other Interventional Techniques",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Laparoscopic vs open approach for the treatment of gastroesophageal reflux in children"
+}

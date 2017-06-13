@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446768000000,"doi":"10.1098/rsif.2015.0915","type":"correction"},"doi":"10.1098/rsif.2014.0419","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Biophysics of protein evolution and evolutionary protein biophysics’"}
+{
+  "retracted": false,
+  "timestamp": 1446768000000,
+  "updates": [
+    {
+      "timestamp": 1496044931659,
+      "identifier": {
+        "doi": "10.1098/rsif.2015.0915"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2014.0419"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Biophysics of protein evolution and evolutionary protein biophysics’"
+}

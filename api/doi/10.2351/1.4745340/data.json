@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":786240000000,"doi":"10.2351/1.4745361","type":"erratum"},"doi":"10.2351/1.4745340","journal":"Journal of Laser Applications","publisher":"Laser Institute of America","title":"Erratum: Excimer laser processing of Ti–6Al–4V"}
+{
+  "retracted": false,
+  "timestamp": 786240000000,
+  "updates": [
+    {
+      "timestamp": 1495945640902,
+      "identifier": {
+        "doi": "10.2351/1.4745361"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2351/1.4745340"
+  },
+  "journal": "Journal of Laser Applications",
+  "publisher": "Laser Institute of America",
+  "title": "Erratum: Excimer laser processing of Ti–6Al–4V"
+}

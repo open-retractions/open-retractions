@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.pnucene.2016.06.009","type":"err"},"doi":"10.1016/j.pnucene.2016.02.017","journal":"Progress in Nuclear Energy","publisher":"Elsevier BV","title":"Corrigendum to “An experimental study of pool entrainment in high gas flux region” [Prog. Nucl. Energy 89C (2016) 191–196]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495724247474,
+      "identifier": {
+        "doi": "10.1016/j.pnucene.2016.06.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnucene.2016.02.017"
+  },
+  "journal": "Progress in Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An experimental study of pool entrainment in high gas flux region” [Prog. Nucl. Energy 89C (2016) 191–196]"
+}

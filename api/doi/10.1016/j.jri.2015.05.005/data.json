@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jri.2016.05.007","type":"erratum"},"doi":"10.1016/j.jri.2015.05.005","journal":"Journal of Reproductive Immunology","publisher":"Elsevier BV","title":"Corrigendum to “The CD200 tolerance-signaling molecule and its receptor, CD200R1, are expressed in human placental villus trophoblast and in peri-implant decidua by 5 weeks’ gestation” [J. Reprod. Immunol. 112 (2015) 20–23]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495718669032,
+      "identifier": {
+        "doi": "10.1016/j.jri.2016.05.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jri.2015.05.005"
+  },
+  "journal": "Journal of Reproductive Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The CD200 tolerance-signaling molecule and its receptor, CD200R1, are expressed in human placental villus trophoblast and in peri-implant decidua by 5 weeks’ gestation” [J. Reprod. Immunol. 112 (2015) 20–23]"
+}

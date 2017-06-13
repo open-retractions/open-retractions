@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1257465600000,"doi":"10.1371/annotation/ae7f86ff-0aca-4411-aed3-3eeea9303abb","type":"correction"},"doi":"10.1371/journal.pone.0006996","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Molecular Evolution of the Two-Component System BvgAS Involved in Virulence Regulation in Bordetella"}
+{
+  "retracted": false,
+  "timestamp": 1257465600000,
+  "updates": [
+    {
+      "timestamp": 1496025196352,
+      "identifier": {
+        "doi": "10.1371/annotation/ae7f86ff-0aca-4411-aed3-3eeea9303abb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0006996"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Molecular Evolution of the Two-Component System BvgAS Involved in Virulence Regulation in Bordetella"
+}

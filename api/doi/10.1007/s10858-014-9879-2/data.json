@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425686400000,"doi":"10.1007/s10858-015-9915-x","type":"correction"},"doi":"10.1007/s10858-014-9879-2","journal":"Journal of Biomolecular NMR","publisher":"Springer Nature","title":"Erratum to: Correlation of chemical shifts predicted by molecular dynamics simulations for partially disordered proteins"}
+{
+  "retracted": false,
+  "timestamp": 1425686400000,
+  "updates": [
+    {
+      "timestamp": 1496048952986,
+      "identifier": {
+        "doi": "10.1007/s10858-015-9915-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10858-014-9879-2"
+  },
+  "journal": "Journal of Biomolecular NMR",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Correlation of chemical shifts predicted by molecular dynamics simulations for partially disordered proteins"
+}

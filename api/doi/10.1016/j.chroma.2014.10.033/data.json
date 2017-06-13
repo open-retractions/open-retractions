@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476403200000,"doi":"10.1016/j.chroma.2016.09.003","type":"erratum"},"doi":"10.1016/j.chroma.2014.10.033","journal":"Journal of Chromatography A","publisher":"Elsevier BV","title":"Corrigendum to “Using mass spectrometry to detect hydrolysed gluten in beer that is responsible for false negatives by ELISA” [J. Chromatogr. A 1370 (2014) 105–114]"}
+{
+  "retracted": false,
+  "timestamp": 1476403200000,
+  "updates": [
+    {
+      "timestamp": 1495639906373,
+      "identifier": {
+        "doi": "10.1016/j.chroma.2016.09.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chroma.2014.10.033"
+  },
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Using mass spectrometry to detect hydrolysed gluten in beer that is responsible for false negatives by ELISA” [J. Chromatogr. A 1370 (2014) 105–114]"
+}

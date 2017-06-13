@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.anclin.2015.10.001","type":"err"},"doi":"10.1016/j.anclin.2014.11.006","journal":"Anesthesiology Clinics","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496040742521,
+      "identifier": {
+        "doi": "10.1016/j.anclin.2015.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anclin.2014.11.006"
+  },
+  "journal": "Anesthesiology Clinics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

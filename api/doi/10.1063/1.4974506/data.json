@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486512000000,"doi":"10.1063/1.4976556","type":"correction"},"doi":"10.1063/1.4974506","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Finite-size scaling study of dynamic critical phenomena in a vapor-liquid transition” [J. Chem. Phys. 146, 044503 (2017)]"}
+{
+  "retracted": false,
+  "timestamp": 1486512000000,
+  "updates": [
+    {
+      "timestamp": 1495719170947,
+      "identifier": {
+        "doi": "10.1063/1.4976556"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4974506"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Finite-size scaling study of dynamic critical phenomena in a vapor-liquid transition” [J. Chem. Phys. 146, 044503 (2017)]"
+}

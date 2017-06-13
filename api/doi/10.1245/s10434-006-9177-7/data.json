@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1185580800000,"doi":"10.1245/s10434-006-9297-0","type":"correction"},"doi":"10.1245/s10434-006-9177-7","journal":"Annals of Surgical Oncology","publisher":"Springer Nature","title":"Outcome of Metastatic GIST in the Era before Tyrosine Kinase Inhibitors"}
+{
+  "retracted": false,
+  "timestamp": 1185580800000,
+  "updates": [
+    {
+      "timestamp": 1495980245122,
+      "identifier": {
+        "doi": "10.1245/s10434-006-9297-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1245/s10434-006-9177-7"
+  },
+  "journal": "Annals of Surgical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Outcome of Metastatic GIST in the Era before Tyrosine Kinase Inhibitors"
+}

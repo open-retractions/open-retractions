@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.mod.2013.07.003","type":"err"},"doi":"10.1016/j.mod.2012.09.005","journal":"Mechanisms of Development","publisher":"Elsevier BV","title":"Corrigendum to “Maternal pak4 expression is required for primitive myelopoiesis in zebrafish” [Mech. Dev. 130 (2013) 181–194]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496038087532,
+      "identifier": {
+        "doi": "10.1016/j.mod.2013.07.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mod.2012.09.005"
+  },
+  "journal": "Mechanisms of Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Maternal pak4 expression is required for primitive myelopoiesis in zebrafish” [Mech. Dev. 130 (2013) 181–194]"
+}

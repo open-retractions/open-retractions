@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.parkreldis.2013.10.012","type":"err"},"doi":"10.1016/j.parkreldis.2011.09.011","journal":"Parkinsonism & Related Disorders","publisher":"Elsevier BV","title":"Corrigendum to “Clinical and genetic characteristics in patients with Huntington's Disease from Argentina” [Parkinsonism Relat Disord 18 (2012) 166–169]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495992435370,
+      "identifier": {
+        "doi": "10.1016/j.parkreldis.2013.10.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.parkreldis.2011.09.011"
+  },
+  "journal": "Parkinsonism & Related Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Clinical and genetic characteristics in patients with Huntington's Disease from Argentina” [Parkinsonism Relat Disord 18 (2012) 166–169]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388361600000,"doi":"10.1371/annotation/d96769fb-4e7d-4f47-98cf-443447c1471e","type":"correction"},"doi":"10.1371/journal.pone.0074604","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Super-Resolution Imaging Strategies for Cell Biologists Using a Spinning Disk Microscope"}
+{
+  "retracted": false,
+  "timestamp": 1388361600000,
+  "updates": [
+    {
+      "timestamp": 1496008401874,
+      "identifier": {
+        "doi": "10.1371/annotation/d96769fb-4e7d-4f47-98cf-443447c1471e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0074604"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Super-Resolution Imaging Strategies for Cell Biologists Using a Spinning Disk Microscope"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491436800000,"doi":"10.1186/s12974-017-0857-y","type":"correction"},"doi":"10.1186/s12974-016-0770-9","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Mannose-binding lectin-associated serine protease 2 (MASP-2) contributes to poor disease outcome in humans and mice with pneumococcal meningitis"}
+{
+  "retracted": false,
+  "timestamp": 1491436800000,
+  "updates": [
+    {
+      "timestamp": 1495736824225,
+      "identifier": {
+        "doi": "10.1186/s12974-017-0857-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12974-016-0770-9"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mannose-binding lectin-associated serine protease 2 (MASP-2) contributes to poor disease outcome in humans and mice with pneumococcal meningitis"
+}

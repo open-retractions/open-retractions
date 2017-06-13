@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379980800000,"doi":"10.1016/j.scienta.2013.07.023","type":"err"},"doi":"10.1016/j.scienta.2012.12.018","journal":"Scientia Horticulturae","publisher":"Elsevier BV","title":"Retraction notice to “Water stress effects on Cumin (Cuminum cyminum L.) yield and oil essential components” [Sci. Hortic. 151 (2013) 135–141]"}
+{
+  "retracted": false,
+  "timestamp": 1379980800000,
+  "updates": [
+    {
+      "timestamp": 1496045502992,
+      "identifier": {
+        "doi": "10.1016/j.scienta.2013.07.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scienta.2012.12.018"
+  },
+  "journal": "Scientia Horticulturae",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Water stress effects on Cumin (Cuminum cyminum L.) yield and oil essential components” [Sci. Hortic. 151 (2013) 135–141]"
+}

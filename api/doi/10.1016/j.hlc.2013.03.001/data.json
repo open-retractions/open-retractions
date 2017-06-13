@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.hlc.2013.12.006","type":"err"},"doi":"10.1016/j.hlc.2013.03.001","journal":"Heart, Lung and Circulation","publisher":"Elsevier BV","title":"Corrigendum to ‘Pathophysiology of Atherosclerosis Plaque Progression’ [Heart, Lung and Circulation (2013) 399–411]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496010266160,
+      "identifier": {
+        "doi": "10.1016/j.hlc.2013.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hlc.2013.03.001"
+  },
+  "journal": "Heart, Lung and Circulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Pathophysiology of Atherosclerosis Plaque Progression’ [Heart, Lung and Circulation (2013) 399–411]"
+}

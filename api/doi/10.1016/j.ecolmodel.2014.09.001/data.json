@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429833600000,"doi":"10.1016/j.ecolmodel.2015.01.003","type":"err"},"doi":"10.1016/j.ecolmodel.2014.09.001","journal":"Ecological Modelling","publisher":"Elsevier BV","title":"Erratum to “New method to calculate the work energy of information and organisms” [J. Ecol. Model. 295 (2015) 18–20]"}
+{
+  "retracted": false,
+  "timestamp": 1429833600000,
+  "updates": [
+    {
+      "timestamp": 1496038968741,
+      "identifier": {
+        "doi": "10.1016/j.ecolmodel.2015.01.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolmodel.2014.09.001"
+  },
+  "journal": "Ecological Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “New method to calculate the work energy of information and organisms” [J. Ecol. Model. 295 (2015) 18–20]"
+}

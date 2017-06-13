@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428451200000,"doi":"10.1517/13543784.2015.1027859","type":"correction"},"doi":"10.1517/13543784.2013.784743","journal":"Expert Opinion on Investigational Drugs","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1428451200000,
+  "updates": [
+    {
+      "timestamp": 1496051127781,
+      "identifier": {
+        "doi": "10.1517/13543784.2015.1027859"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/13543784.2013.784743"
+  },
+  "journal": "Expert Opinion on Investigational Drugs",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

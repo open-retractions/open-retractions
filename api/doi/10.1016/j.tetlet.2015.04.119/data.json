@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437523200000,"doi":"10.1016/j.tetlet.2015.06.007","type":"err"},"doi":"10.1016/j.tetlet.2015.04.119","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Diphenylprolinol silyl ether-derived thioureas as highly efficient catalysts for the asymmetric Michael addition of aldehydes to nitroalkenes” [Tetrahedron Lett. 56/26 (2015) 4036–4038]"}
+{
+  "retracted": false,
+  "timestamp": 1437523200000,
+  "updates": [
+    {
+      "timestamp": 1496007718500,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2015.06.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2015.04.119"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Diphenylprolinol silyl ether-derived thioureas as highly efficient catalysts for the asymmetric Michael addition of aldehydes to nitroalkenes” [Tetrahedron Lett. 56/26 (2015) 4036–4038]"
+}

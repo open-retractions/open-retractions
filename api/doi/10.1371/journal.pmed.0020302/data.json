@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1130198400000,"doi":"10.1371/journal.pmed.0020376","type":"correction"},"doi":"10.1371/journal.pmed.0020302","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: A Breakthrough in R&D for Neglected Diseases: New Ways to Get the Drugs We Need"}
+{
+  "retracted": false,
+  "timestamp": 1130198400000,
+  "updates": [
+    {
+      "timestamp": 1495964830217,
+      "identifier": {
+        "doi": "10.1371/journal.pmed.0020376"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0020302"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Breakthrough in R&D for Neglected Diseases: New Ways to Get the Drugs We Need"
+}

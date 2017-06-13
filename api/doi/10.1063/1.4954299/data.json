@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1063/1.4960990","type":"correction"},"doi":"10.1063/1.4954299","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Plasma anisotropy and the radial particle flux in a rippled tokamak” [Phys. Plasmas 23, 062510 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495734797477,
+      "identifier": {
+        "doi": "10.1063/1.4960990"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4954299"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Plasma anisotropy and the radial particle flux in a rippled tokamak” [Phys. Plasmas 23, 062510 (2016)]"
+}

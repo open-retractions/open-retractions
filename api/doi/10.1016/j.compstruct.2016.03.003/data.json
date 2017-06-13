@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1016/j.compstruct.2016.04.026","type":"erratum"},"doi":"10.1016/j.compstruct.2016.03.003","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to: “First flexural and interlaminar shear failure in symmetric cross-ply carbon-fibre laminates with different response under tension and compression” [Compos Struct 146 (2016) 62–68]"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495670379005,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2016.04.026"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2016.03.003"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “First flexural and interlaminar shear failure in symmetric cross-ply carbon-fibre laminates with different response under tension and compression” [Compos Struct 146 (2016) 62–68]"
+}

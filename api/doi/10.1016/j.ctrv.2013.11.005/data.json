@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ctrv.2014.05.002","type":"err"},"doi":"10.1016/j.ctrv.2013.11.005","journal":"Cancer Treatment Reviews","publisher":"Elsevier BV","title":"Corrigendum to “Role of the immune system in pancreatic cancer progression and immune modulating treatment strategies” [Cancer Treat. Rev. 40 (2014) 513–522]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496039958917,
+      "identifier": {
+        "doi": "10.1016/j.ctrv.2014.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ctrv.2013.11.005"
+  },
+  "journal": "Cancer Treatment Reviews",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Role of the immune system in pancreatic cancer progression and immune modulating treatment strategies” [Cancer Treat. Rev. 40 (2014) 513–522]"
+}

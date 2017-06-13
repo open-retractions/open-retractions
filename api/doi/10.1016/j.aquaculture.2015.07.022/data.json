@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.aquaculture.2016.03.040","type":"err"},"doi":"10.1016/j.aquaculture.2015.07.022","journal":"Aquaculture","publisher":"Elsevier BV","title":"Erratum to “Comparison of Nessler, phenate, salicylate and ion selective electrode procedures for determination of total ammonia nitrogen in aquaculture”[Aquaculture 450 (2016) 187–193]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495662849634,
+      "identifier": {
+        "doi": "10.1016/j.aquaculture.2016.03.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquaculture.2015.07.022"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Comparison of Nessler, phenate, salicylate and ion selective electrode procedures for determination of total ammonia nitrogen in aquaculture”[Aquaculture 450 (2016) 187–193]"
+}

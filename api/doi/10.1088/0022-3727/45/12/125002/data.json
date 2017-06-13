@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424995200000,"doi":"10.1088/0022-3727/48/11/119501","type":"correction"},"doi":"10.1088/0022-3727/45/12/125002","journal":"Journal of Physics D: Applied Physics","publisher":"IOP Publishing","title":"Corrigendum: Structural transformation and magnetoelectric behaviour in Bi1 − xGdxFeO3 multiferroics (2012 J. Phys. D: Appl. Phys. 45 125002)"}
+{
+  "retracted": false,
+  "timestamp": 1424995200000,
+  "updates": [
+    {
+      "timestamp": 1496047312845,
+      "identifier": {
+        "doi": "10.1088/0022-3727/48/11/119501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0022-3727/45/12/125002"
+  },
+  "journal": "Journal of Physics D: Applied Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Structural transformation and magnetoelectric behaviour in Bi1 − xGdxFeO3 multiferroics (2012 J. Phys. D: Appl. Phys. 45 125002)"
+}

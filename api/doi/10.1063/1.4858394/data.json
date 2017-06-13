@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394064000000,"doi":"10.1063/1.4867539","type":"correction"},"doi":"10.1063/1.4858394","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “In situ tensile and creep testing of lithiated silicon nanowires” [Appl. Phys. Lett. 103, 263906 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1394064000000,
+  "updates": [
+    {
+      "timestamp": 1496023586878,
+      "identifier": {
+        "doi": "10.1063/1.4867539"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4858394"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “In situ tensile and creep testing of lithiated silicon nanowires” [Appl. Phys. Lett. 103, 263906 (2013)]"
+}

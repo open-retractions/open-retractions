@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456099200000,"doi":"10.1371/journal.pgen.1005899","type":"correction"},"doi":"10.1371/journal.pgen.1005698","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Developmental Dynamics of X-Chromosome Dosage Compensation by the DCC and H4K20me1 in C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1456099200000,
+  "updates": [
+    {
+      "timestamp": 1495646479707,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1005899"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1005698"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Developmental Dynamics of X-Chromosome Dosage Compensation by the DCC and H4K20me1 in C. elegans"
+}

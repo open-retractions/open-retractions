@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400976000000,"doi":"10.1016/j.rse.2014.03.026","type":"err"},"doi":"10.1016/j.rse.2013.12.001","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Corrigendum to “A novel method for estimation of aerosol radiance and its extrapolation in the atmospheric correction of satellite data over optically complex oceanic waters” [Remote Sensing of Environment 142 (2014) 188–206]"}
+{
+  "retracted": false,
+  "timestamp": 1400976000000,
+  "updates": [
+    {
+      "timestamp": 1496033568058,
+      "identifier": {
+        "doi": "10.1016/j.rse.2014.03.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2013.12.001"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A novel method for estimation of aerosol radiance and its extrapolation in the atmospheric correction of satellite data over optically complex oceanic waters” [Remote Sensing of Environment 142 (2014) 188–206]"
+}

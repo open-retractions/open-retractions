@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.jcis.2015.09.052","type":"err"},"doi":"10.1016/j.jcis.2015.08.001","journal":"Journal of Colloid and Interface Science","publisher":"Elsevier BV","title":"Corrigendum to “Influence of ionic strength and polyelectrolyte concentration on the electrical conductivity of suspensions of soft colloidal polysaccharides” [J. Colloid Interface Sci. 459 (2015) 212–217]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496036709534,
+      "identifier": {
+        "doi": "10.1016/j.jcis.2015.09.052"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcis.2015.08.001"
+  },
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of ionic strength and polyelectrolyte concentration on the electrical conductivity of suspensions of soft colloidal polysaccharides” [J. Colloid Interface Sci. 459 (2015) 212–217]"
+}

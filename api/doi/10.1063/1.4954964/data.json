@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1063/1.4975774","type":"erratum"},"doi":"10.1063/1.4954964","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Dynamic signature of molecular association in methanol” [J. Chem. Phys. 145, 014502 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495718694687,
+      "identifier": {
+        "doi": "10.1063/1.4975774"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4954964"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Dynamic signature of molecular association in methanol” [J. Chem. Phys. 145, 014502 (2016)]"
+}

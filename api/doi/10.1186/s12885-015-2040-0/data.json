@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457049600000,"doi":"10.1186/s12885-016-2216-2","type":"correction"},"doi":"10.1186/s12885-015-2040-0","journal":"BMC Cancer","publisher":"Springer Nature","title":"Erratum to: Population attributable risks of modifiable reproductive factors for breast and ovarian cancers in Korea"}
+{
+  "retracted": false,
+  "timestamp": 1457049600000,
+  "updates": [
+    {
+      "timestamp": 1495650601254,
+      "identifier": {
+        "doi": "10.1186/s12885-016-2216-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12885-015-2040-0"
+  },
+  "journal": "BMC Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Population attributable risks of modifiable reproductive factors for breast and ovarian cancers in Korea"
+}

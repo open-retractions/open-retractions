@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.chb.2013.10.063","type":"err"},"doi":"10.1016/j.chb.2012.10.023","journal":"Computers in Human Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Computerized working memory training: Can it lead to gains in cognitive skills in students?” [Comput. Hum. Behav. 29 (2012) 632–638]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496022865228,
+      "identifier": {
+        "doi": "10.1016/j.chb.2013.10.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chb.2012.10.023"
+  },
+  "journal": "Computers in Human Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Computerized working memory training: Can it lead to gains in cognitive skills in students?” [Comput. Hum. Behav. 29 (2012) 632–638]"
+}

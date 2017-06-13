@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434758400000,"doi":"10.1016/j.electacta.2015.04.135","type":"err"},"doi":"10.1016/j.electacta.2013.10.113","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “An investigation of spinel NiCo2O4 as anode for Na-ion capacitors” [Electrochimica Acta, 114 (2013) 726–735]"}
+{
+  "retracted": false,
+  "timestamp": 1434758400000,
+  "updates": [
+    {
+      "timestamp": 1495998227822,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2015.04.135"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2013.10.113"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An investigation of spinel NiCo2O4 as anode for Na-ion capacitors” [Electrochimica Acta, 114 (2013) 726–735]"
+}

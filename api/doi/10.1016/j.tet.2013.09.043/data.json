@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387152000000,"doi":"10.1016/j.tet.2013.10.081","type":"err"},"doi":"10.1016/j.tet.2013.09.043","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Enantioselective synthesis of N-heterocycles via intramolecular Pd(0)-catalysed allylic amination” [Tetrahedron 69 (2013) 9551–9556]"}
+{
+  "retracted": false,
+  "timestamp": 1387152000000,
+  "updates": [
+    {
+      "timestamp": 1495994594170,
+      "identifier": {
+        "doi": "10.1016/j.tet.2013.10.081"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2013.09.043"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enantioselective synthesis of N-heterocycles via intramolecular Pd(0)-catalysed allylic amination” [Tetrahedron 69 (2013) 9551–9556]"
+}

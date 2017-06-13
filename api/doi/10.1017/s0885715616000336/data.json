@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477612800000,"doi":"10.1017/s0885715616000580","type":"correction"},"doi":"10.1017/s0885715616000336","journal":"Powder Diffraction","publisher":"Cambridge University Press (CUP)","title":"Certification of standard reference material 1878b respirable α-quartz – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1477612800000,
+  "updates": [
+    {
+      "timestamp": 1495652606843,
+      "identifier": {
+        "doi": "10.1017/s0885715616000580"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0885715616000336"
+  },
+  "journal": "Powder Diffraction",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Certification of standard reference material 1878b respirable α-quartz – CORRIGENDUM"
+}

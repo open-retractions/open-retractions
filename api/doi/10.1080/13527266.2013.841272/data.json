@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382313600000,"doi":"10.1080/13527266.2013.857475","type":"correction"},"doi":"10.1080/13527266.2013.841272","journal":"Journal of Marketing Communications","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1382313600000,
+  "updates": [
+    {
+      "timestamp": 1496055397746,
+      "identifier": {
+        "doi": "10.1080/13527266.2013.857475"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13527266.2013.841272"
+  },
+  "journal": "Journal of Marketing Communications",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

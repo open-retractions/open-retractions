@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.insmatheco.2014.12.005","type":"err"},"doi":"10.1016/j.insmatheco.2013.11.002","journal":"Insurance: Mathematics and Economics","publisher":"Elsevier BV","title":"Erratum to: “Risk models with dependence between claim occurrences and severities for Atlantic hurricanes” [Insurance Math. Econom. 54 (2014) 123–132]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496037130455,
+      "identifier": {
+        "doi": "10.1016/j.insmatheco.2014.12.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.insmatheco.2013.11.002"
+  },
+  "journal": "Insurance: Mathematics and Economics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “Risk models with dependence between claim occurrences and severities for Atlantic hurricanes” [Insurance Math. Econom. 54 (2014) 123–132]"
+}

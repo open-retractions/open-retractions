@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409184000000,"doi":"10.1016/j.cell.2014.08.003","type":"err"},"doi":"10.1016/j.cell.2012.07.018","journal":"Cell","publisher":"Elsevier BV","title":"PKM2 Phosphorylates Histone H3 and Promotes Gene Transcription and Tumorigenesis"}
+{
+  "retracted": false,
+  "timestamp": 1409184000000,
+  "updates": [
+    {
+      "timestamp": 1496003565103,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.07.018"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "PKM2 Phosphorylates Histone H3 and Promotes Gene Transcription and Tumorigenesis"
+}

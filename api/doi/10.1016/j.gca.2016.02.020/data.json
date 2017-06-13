@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.gca.2016.05.016","type":"err"},"doi":"10.1016/j.gca.2016.02.020","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Erratum to “Reassessing the cooling rate and geologic setting of Martian meteorites MIL 03346 and NWA 817” [Geochim. Cosmochim. Acta 182 (2016) 1–23]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495716915172,
+      "identifier": {
+        "doi": "10.1016/j.gca.2016.05.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2016.02.020"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Reassessing the cooling rate and geologic setting of Martian meteorites MIL 03346 and NWA 817” [Geochim. Cosmochim. Acta 182 (2016) 1–23]"
+}

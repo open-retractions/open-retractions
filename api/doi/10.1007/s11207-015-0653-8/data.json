@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1007/s11207-016-1005-z","type":"correction"},"doi":"10.1007/s11207-015-0653-8","journal":"Solar Physics","publisher":"Springer Nature","title":"Erratum to: Dynamics of CMEs in the LASCO Field of View"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649601815,
+      "identifier": {
+        "doi": "10.1007/s11207-016-1005-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11207-015-0653-8"
+  },
+  "journal": "Solar Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dynamics of CMEs in the LASCO Field of View"
+}

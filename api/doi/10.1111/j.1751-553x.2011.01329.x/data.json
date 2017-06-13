@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1313971200000,"doi":"10.1111/j.1751-553x.2011.01366.x","type":"correction"},"doi":"10.1111/j.1751-553x.2011.01329.x","journal":"International Journal of Laboratory Hematology","publisher":"Wiley-Blackwell","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1313971200000,
+  "updates": [
+    {
+      "timestamp": 1496037215534,
+      "identifier": {
+        "doi": "10.1111/j.1751-553x.2011.01366.x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/j.1751-553x.2011.01329.x"
+  },
+  "journal": "International Journal of Laboratory Hematology",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum"
+}

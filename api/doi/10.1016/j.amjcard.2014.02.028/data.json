@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408060800000,"doi":"10.1016/j.amjcard.2014.05.024","type":"err"},"doi":"10.1016/j.amjcard.2014.02.028","journal":"The American Journal of Cardiology","publisher":"Elsevier BV","title":"Erratum for Zou et al. “Frequency and Predictors of Normalization of Left Ventricular Ejection Fraction in Recent-Onset Nonischemic Cardiomyopathy”. Am J Cardiol 2014;113:1705–1710"}
+{
+  "retracted": false,
+  "timestamp": 1408060800000,
+  "updates": [
+    {
+      "timestamp": 1495996278297,
+      "identifier": {
+        "doi": "10.1016/j.amjcard.2014.05.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjcard.2014.02.028"
+  },
+  "journal": "The American Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum for Zou et al. “Frequency and Predictors of Normalization of Left Ventricular Ejection Fraction in Recent-Onset Nonischemic Cardiomyopathy”. Am J Cardiol 2014;113:1705–1710"
+}

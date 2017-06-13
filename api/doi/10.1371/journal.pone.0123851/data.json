@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1371/journal.pone.0133816","type":"correction"},"doi":"10.1371/journal.pone.0123851","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: TreeSeq, a Fast and Intuitive Tool for Analysis of Whole Genome and Metagenomic Sequence Data"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496016932342,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0133816"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0123851"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: TreeSeq, a Fast and Intuitive Tool for Analysis of Whole Genome and Metagenomic Sequence Data"
+}

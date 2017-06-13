@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458604800000,"doi":"10.1007/s12325-016-0321-x","type":"correction"},"doi":"10.1007/s12325-016-0308-7","journal":"Advances in Therapy","publisher":"Springer Nature","title":"Erratum to: Healthcare Cost of Over-Diagnosis of Low-Grade Dysplasia in Barrett’s Esophagus"}
+{
+  "retracted": false,
+  "timestamp": 1458604800000,
+  "updates": [
+    {
+      "timestamp": 1495657322859,
+      "identifier": {
+        "doi": "10.1007/s12325-016-0321-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12325-016-0308-7"
+  },
+  "journal": "Advances in Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Healthcare Cost of Over-Diagnosis of Low-Grade Dysplasia in Barrett’s Esophagus"
+}

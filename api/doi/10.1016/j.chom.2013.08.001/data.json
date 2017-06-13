@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381881600000,"doi":"10.1016/j.chom.2013.09.003","type":"err"},"doi":"10.1016/j.chom.2013.08.001","journal":"Cell Host & Microbe","publisher":"Elsevier BV","title":"Cholera Toxin Disrupts Barrier Function by Inhibiting Exocyst-Mediated Trafficking of Host Proteins to Intestinal Cell Junctions"}
+{
+  "retracted": false,
+  "timestamp": 1381881600000,
+  "updates": [
+    {
+      "timestamp": 1496054270169,
+      "identifier": {
+        "doi": "10.1016/j.chom.2013.09.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chom.2013.08.001"
+  },
+  "journal": "Cell Host & Microbe",
+  "publisher": "Elsevier BV",
+  "title": "Cholera Toxin Disrupts Barrier Function by Inhibiting Exocyst-Mediated Trafficking of Host Proteins to Intestinal Cell Junctions"
+}

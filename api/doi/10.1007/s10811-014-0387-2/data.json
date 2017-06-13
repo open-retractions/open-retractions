@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431043200000,"doi":"10.1007/s10811-015-0582-9","type":"correction"},"doi":"10.1007/s10811-014-0387-2","journal":"Journal of Applied Phycology","publisher":"Springer Nature","title":"Erratum to: Morphological, biochemical, and phylogenetic assessments of eight Botryococcus terribilis strains collected from freshwaters of Transylvania"}
+{
+  "retracted": false,
+  "timestamp": 1431043200000,
+  "updates": [
+    {
+      "timestamp": 1495998251350,
+      "identifier": {
+        "doi": "10.1007/s10811-015-0582-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10811-014-0387-2"
+  },
+  "journal": "Journal of Applied Phycology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Morphological, biochemical, and phylogenetic assessments of eight Botryococcus terribilis strains collected from freshwaters of Transylvania"
+}

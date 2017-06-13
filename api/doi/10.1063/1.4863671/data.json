@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421366400000,"doi":"10.1063/1.4905450","type":"correction"},"doi":"10.1063/1.4863671","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Imaging of free carriers in semiconductors via optical feedback in terahertz quantum cascade lasers” [Appl. Phys. Lett. 104, 041112 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1421366400000,
+  "updates": [
+    {
+      "timestamp": 1496037541749,
+      "identifier": {
+        "doi": "10.1063/1.4905450"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4863671"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Imaging of free carriers in semiconductors via optical feedback in terahertz quantum cascade lasers” [Appl. Phys. Lett. 104, 041112 (2014)]"
+}

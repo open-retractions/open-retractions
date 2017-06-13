@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464912000000,"doi":"10.1016/j.pnpbp.2016.01.014","type":"err"},"doi":"10.1016/j.pnpbp.2013.07.021","journal":"Progress in Neuro-Psychopharmacology and Biological Psychiatry","publisher":"Elsevier BV","title":"Corrigendum to “Increased frequency of T cells expressing IL-10 in Alzheimer disease but not in late-onset depression patients” [Prog. Neuro-Psychopharmacol. Biol. Psychiatry 47 (2 December 2013) 40–45]"}
+{
+  "retracted": false,
+  "timestamp": 1464912000000,
+  "updates": [
+    {
+      "timestamp": 1495645857057,
+      "identifier": {
+        "doi": "10.1016/j.pnpbp.2016.01.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnpbp.2013.07.021"
+  },
+  "journal": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Increased frequency of T cells expressing IL-10 in Alzheimer disease but not in late-onset depression patients” [Prog. Neuro-Psychopharmacol. Biol. Psychiatry 47 (2 December 2013) 40–45]"
+}

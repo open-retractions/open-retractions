@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467244800000,"doi":"10.1016/j.ijpharm.2016.04.001","type":"err"},"doi":"10.1016/j.ijpharm.2016.02.026","journal":"International Journal of Pharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to “Formulation and characterization of self-nanoemulsifying drug delivery systems containing monoacyl phosphatidylcholine” [Int. J. Pharm. 502 (1–2) (2016) 151–160]"}
+{
+  "retracted": false,
+  "timestamp": 1467244800000,
+  "updates": [
+    {
+      "timestamp": 1495716683097,
+      "identifier": {
+        "doi": "10.1016/j.ijpharm.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijpharm.2016.02.026"
+  },
+  "journal": "International Journal of Pharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Formulation and characterization of self-nanoemulsifying drug delivery systems containing monoacyl phosphatidylcholine” [Int. J. Pharm. 502 (1–2) (2016) 151–160]"
+}

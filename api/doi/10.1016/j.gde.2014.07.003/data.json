@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.gde.2015.05.001","type":"err"},"doi":"10.1016/j.gde.2014.07.003","journal":"Current Opinion in Genetics & Development","publisher":"Elsevier BV","title":"Corrigendum to “Trinucleotide expansion in disease: Why is there a length threshold?” [Curr. Opin. Genet. Dev. 26 (2014) 131–140]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496003190423,
+      "identifier": {
+        "doi": "10.1016/j.gde.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gde.2014.07.003"
+  },
+  "journal": "Current Opinion in Genetics & Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Trinucleotide expansion in disease: Why is there a length threshold?” [Curr. Opin. Genet. Dev. 26 (2014) 131–140]"
+}

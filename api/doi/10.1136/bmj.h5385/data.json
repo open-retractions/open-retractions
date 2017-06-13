@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454025600000,"doi":"10.1136/bmj.i613","type":"correction"},"doi":"10.1136/bmj.h5385","journal":"BMJ","publisher":"BMJ","title":"Double vision"}
+{
+  "retracted": false,
+  "timestamp": 1454025600000,
+  "updates": [
+    {
+      "timestamp": 1495641071667,
+      "identifier": {
+        "doi": "10.1136/bmj.i613"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h5385"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Double vision"
+}

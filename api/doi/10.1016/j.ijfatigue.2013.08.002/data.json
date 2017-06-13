@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.ijfatigue.2013.12.006","type":"err"},"doi":"10.1016/j.ijfatigue.2013.08.002","journal":"International Journal of Fatigue","publisher":"Elsevier BV","title":"Corrigendum to “Lifetime behaviour of unidirectionally wire reinforced lightweight metal matrix composites” [Int. J. Fatigue 56 (2013) 60–68]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496008152305,
+      "identifier": {
+        "doi": "10.1016/j.ijfatigue.2013.12.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijfatigue.2013.08.002"
+  },
+  "journal": "International Journal of Fatigue",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lifetime behaviour of unidirectionally wire reinforced lightweight metal matrix composites” [Int. J. Fatigue 56 (2013) 60–68]"
+}

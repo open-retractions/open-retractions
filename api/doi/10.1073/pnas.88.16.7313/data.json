@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":687484800000,"doi":"10.1073/pnas.88.20.9375b","type":"correction"},"doi":"10.1073/pnas.88.16.7313","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Expression, secretion, and lipid-binding characterization of the N-terminal 17% of apolipoprotein B"}
+{
+  "retracted": false,
+  "timestamp": 687484800000,
+  "updates": [
+    {
+      "timestamp": 1495825798068,
+      "identifier": {
+        "doi": "10.1073/pnas.88.20.9375b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.88.16.7313"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Expression, secretion, and lipid-binding characterization of the N-terminal 17% of apolipoprotein B"
+}

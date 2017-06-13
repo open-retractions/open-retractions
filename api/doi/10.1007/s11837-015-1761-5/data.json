@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455148800000,"doi":"10.1007/s11837-016-1843-z","type":"correction"},"doi":"10.1007/s11837-015-1761-5","journal":"JOM","publisher":"Springer Nature","title":"Erratum to: Computer Simulation of the Mechanical Behaviour of Implanted Biodegradable Stents in a Remodelling Artery"}
+{
+  "retracted": false,
+  "timestamp": 1455148800000,
+  "updates": [
+    {
+      "timestamp": 1495643779581,
+      "identifier": {
+        "doi": "10.1007/s11837-016-1843-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11837-015-1761-5"
+  },
+  "journal": "JOM",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Computer Simulation of the Mechanical Behaviour of Implanted Biodegradable Stents in a Remodelling Artery"
+}

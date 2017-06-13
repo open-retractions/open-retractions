@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1313712000000,"doi":"10.1007/s10336-011-0728-8","type":"correction"},"doi":"10.1007/s10336-011-0662-9","journal":"Journal of Ornithology","publisher":"Springer Nature","title":"Erratum to: Predicting the potential distribution of the invasive Common Waxbill Estrilda astrild (Passeriformes: Estrildidae)"}
+{
+  "retracted": false,
+  "timestamp": 1313712000000,
+  "updates": [
+    {
+      "timestamp": 1495987684370,
+      "identifier": {
+        "doi": "10.1007/s10336-011-0728-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10336-011-0662-9"
+  },
+  "journal": "Journal of Ornithology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Predicting the potential distribution of the invasive Common Waxbill Estrilda astrild (Passeriformes: Estrildidae)"
+}

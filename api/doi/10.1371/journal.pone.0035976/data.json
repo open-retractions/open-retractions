@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341792000000,"doi":"10.1371/annotation/9d3d22ed-dc5a-4484-9254-1584864f4aac","type":"correction"},"doi":"10.1371/journal.pone.0035976","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Functional Characterization of Circulating Tumor Cells with a Prostate-Cancer-Specific Microfluidic Device"}
+{
+  "retracted": false,
+  "timestamp": 1341792000000,
+  "updates": [
+    {
+      "timestamp": 1495921287348,
+      "identifier": {
+        "doi": "10.1371/annotation/9d3d22ed-dc5a-4484-9254-1584864f4aac"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0035976"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Functional Characterization of Circulating Tumor Cells with a Prostate-Cancer-Specific Microfluidic Device"
+}

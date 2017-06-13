@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1136/postgradmedj-2014-132800corr1","type":"correction"},"doi":"10.1136/postgradmedj-2014-132800","journal":"Postgraduate Medical Journal","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496025292620,
+      "identifier": {
+        "doi": "10.1136/postgradmedj-2014-132800corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/postgradmedj-2014-132800"
+  },
+  "journal": "Postgraduate Medical Journal",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442188800000,"doi":"10.1186/s12902-015-0046-x","type":"correction"},"doi":"10.1186/s12902-015-0031-4","journal":"BMC Endocrine Disorders","publisher":"Springer Nature","title":"Erratum to: Ectopic ACTH secretion associated to a well-differentiated peritoneal mesothelioma"}
+{
+  "retracted": false,
+  "timestamp": 1442188800000,
+  "updates": [
+    {
+      "timestamp": 1496028196725,
+      "identifier": {
+        "doi": "10.1186/s12902-015-0046-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12902-015-0031-4"
+  },
+  "journal": "BMC Endocrine Disorders",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ectopic ACTH secretion associated to a well-differentiated peritoneal mesothelioma"
+}

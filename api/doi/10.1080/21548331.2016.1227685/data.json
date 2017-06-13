@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480464000000,"doi":"10.1080/21548331.2016.1266823","type":"correction"},"doi":"10.1080/21548331.2016.1227685","journal":"Hospital Practice","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1480464000000,
+  "updates": [
+    {
+      "timestamp": 1495658768821,
+      "identifier": {
+        "doi": "10.1080/21548331.2016.1266823"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21548331.2016.1227685"
+  },
+  "journal": "Hospital Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

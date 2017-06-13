@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445385600000,"doi":"10.1371/journal.pbio.1002284","type":"correction"},"doi":"10.1371/journal.pbio.1001518","journal":"PLOS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Selecting One of Several Mating Types through Gene Segment Joining and Deletion in Tetrahymena thermophila"}
+{
+  "retracted": false,
+  "timestamp": 1445385600000,
+  "updates": [
+    {
+      "timestamp": 1496039497763,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.1002284"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.1001518"
+  },
+  "journal": "PLOS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Selecting One of Several Mating Types through Gene Segment Joining and Deletion in Tetrahymena thermophila"
+}

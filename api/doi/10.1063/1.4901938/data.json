@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422576000000,"doi":"10.1063/1.4906268","type":"correction"},"doi":"10.1063/1.4901938","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Suppression of self-heating effect in AlGaN/GaN high electron mobility transistors by substrate-transfer technology using h-BN” [Appl. Phys. Lett. 105, 193509 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1422576000000,
+  "updates": [
+    {
+      "timestamp": 1496038492046,
+      "identifier": {
+        "doi": "10.1063/1.4906268"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4901938"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Suppression of self-heating effect in AlGaN/GaN high electron mobility transistors by substrate-transfer technology using h-BN” [Appl. Phys. Lett. 105, 193509 (2014)]"
+}

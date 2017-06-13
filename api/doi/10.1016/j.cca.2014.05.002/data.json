@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437350400000,"doi":"10.1016/j.cca.2015.04.004","type":"err"},"doi":"10.1016/j.cca.2014.05.002","journal":"Clinica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Biological variation of immunoglobulin heavy chain–light chain pairs in serum” [Clin Chim Acta 436 (2014) 68–71]"}
+{
+  "retracted": false,
+  "timestamp": 1437350400000,
+  "updates": [
+    {
+      "timestamp": 1496057064656,
+      "identifier": {
+        "doi": "10.1016/j.cca.2015.04.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cca.2014.05.002"
+  },
+  "journal": "Clinica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Biological variation of immunoglobulin heavy chain–light chain pairs in serum” [Clin Chim Acta 436 (2014) 68–71]"
+}

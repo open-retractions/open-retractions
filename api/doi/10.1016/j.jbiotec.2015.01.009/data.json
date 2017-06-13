@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1016/j.jbiotec.2016.02.037","type":"err"},"doi":"10.1016/j.jbiotec.2015.01.009","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “Advanced targeted nanomedicine” [J. Biotechnol. 202 (2015) 88–97]"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495654080724,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2016.02.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2015.01.009"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Advanced targeted nanomedicine” [J. Biotechnol. 202 (2015) 88–97]"
+}

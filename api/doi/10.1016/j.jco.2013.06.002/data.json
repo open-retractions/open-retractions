@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jco.2016.04.002","type":"err"},"doi":"10.1016/j.jco.2013.06.002","journal":"Journal of Complexity","publisher":"Elsevier BV","title":"Corrigendum to “Multivariate approximation by translates of the Korobov function on Smolyak grids” [J. Complexity 29 (2013) 424–437]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495715391627,
+      "identifier": {
+        "doi": "10.1016/j.jco.2016.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jco.2013.06.002"
+  },
+  "journal": "Journal of Complexity",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multivariate approximation by translates of the Korobov function on Smolyak grids” [J. Complexity 29 (2013) 424–437]"
+}

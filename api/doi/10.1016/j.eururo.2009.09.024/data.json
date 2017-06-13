@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.eururo.2015.02.007","type":"err"},"doi":"10.1016/j.eururo.2009.09.024","journal":"European Urology","publisher":"Elsevier BV","title":"Corrigendum to “Characteristics and Outcomes of Patients with Clinical T1 Grade 3 Urothelial Carcinoma Treated with Radical Cystectomy: Results from an International Cohort” [Eur Urol 2010;57:300–9]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496042331698,
+      "identifier": {
+        "doi": "10.1016/j.eururo.2015.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eururo.2009.09.024"
+  },
+  "journal": "European Urology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characteristics and Outcomes of Patients with Clinical T1 Grade 3 Urothelial Carcinoma Treated with Radical Cystectomy: Results from an International Cohort” [Eur Urol 2010;57:300–9]"
+}

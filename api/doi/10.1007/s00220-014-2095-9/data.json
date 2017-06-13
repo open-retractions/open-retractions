@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431043200000,"doi":"10.1007/s00220-015-2370-4","type":"correction"},"doi":"10.1007/s00220-014-2095-9","journal":"Communications in Mathematical Physics","publisher":"Springer Nature","title":"Erratum to: On the Ginzburg–Landau Functional in the Surface Superconductivity Regime"}
+{
+  "retracted": false,
+  "timestamp": 1431043200000,
+  "updates": [
+    {
+      "timestamp": 1495998447716,
+      "identifier": {
+        "doi": "10.1007/s00220-015-2370-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00220-014-2095-9"
+  },
+  "journal": "Communications in Mathematical Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On the Ginzburg–Landau Functional in the Surface Superconductivity Regime"
+}

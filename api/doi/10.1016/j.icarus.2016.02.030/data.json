@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.icarus.2016.10.020","type":"erratum"},"doi":"10.1016/j.icarus.2016.02.030","journal":"Icarus","publisher":"Elsevier BV","title":"Corrigendum to “Observation of Neon at mid and high latitudes in the sunlit Lunar Exosphere: Results from CHACE aboard MIP/Chandrayaan-1”, Vol. 272 (2016), pp 206-211, doi 10.1016/j.icarus.2016.02.030"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495651489926,
+      "identifier": {
+        "doi": "10.1016/j.icarus.2016.10.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.icarus.2016.02.030"
+  },
+  "journal": "Icarus",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Observation of Neon at mid and high latitudes in the sunlit Lunar Exosphere: Results from CHACE aboard MIP/Chandrayaan-1”, Vol. 272 (2016), pp 206-211, doi 10.1016/j.icarus.2016.02.030"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.braindev.2016.04.012","type":"err"},"doi":"10.1016/j.braindev.2015.10.011","journal":"Brain and Development","publisher":"Elsevier BV","title":"Corrigendum to “Efficacy and tolerability of high-dose phenobarbital in children with focal seizures” [Brain Dev. 38 (2016) 414–418]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495724265900,
+      "identifier": {
+        "doi": "10.1016/j.braindev.2016.04.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.braindev.2015.10.011"
+  },
+  "journal": "Brain and Development",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Efficacy and tolerability of high-dose phenobarbital in children with focal seizures” [Brain Dev. 38 (2016) 414–418]"
+}

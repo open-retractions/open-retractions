@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411776000000,"doi":"10.1016/j.ces.2014.06.007","type":"err"},"doi":"10.1016/j.ces.2013.09.038","journal":"Chemical Engineering Science","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Numerical modeling of stagnation-flows on porous catalytic surfaces: CO oxidation on Rh/Al2O3” [Chem. Eng. Sci. 104 (2013) 899–907]"}
+{
+  "retracted": false,
+  "timestamp": 1411776000000,
+  "updates": [
+    {
+      "timestamp": 1496052768855,
+      "identifier": {
+        "doi": "10.1016/j.ces.2014.06.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ces.2013.09.038"
+  },
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Numerical modeling of stagnation-flows on porous catalytic surfaces: CO oxidation on Rh/Al2O3” [Chem. Eng. Sci. 104 (2013) 899–907]"
+}

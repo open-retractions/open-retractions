@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bbadis.2014.07.019","type":"err"},"doi":"10.1016/j.bbadis.2013.12.006","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease","publisher":"Elsevier BV","title":"Corrigendum to “Deletion of PARP-2 induces hepatic cholesterol accumulation and decrease in HDL levels” [Biochim. Biophys. Acta (BBA) — Mol. Basis Dis., Volume 1842, Issue 4, April 2014, 594–602]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496056678758,
+      "identifier": {
+        "doi": "10.1016/j.bbadis.2014.07.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbadis.2013.12.006"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Deletion of PARP-2 induces hepatic cholesterol accumulation and decrease in HDL levels” [Biochim. Biophys. Acta (BBA) — Mol. Basis Dis., Volume 1842, Issue 4, April 2014, 594–602]"
+}

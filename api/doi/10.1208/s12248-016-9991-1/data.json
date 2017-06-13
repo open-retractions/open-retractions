@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1208/s12248-016-0035-7","type":"correction"},"doi":"10.1208/s12248-016-9991-1","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Tumor Static Concentration Curves in Combination Therapy"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495672640087,
+      "identifier": {
+        "doi": "10.1208/s12248-016-0035-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-016-9991-1"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Tumor Static Concentration Curves in Combination Therapy"
+}

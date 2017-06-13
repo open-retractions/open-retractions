@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.tifs.2014.06.004","type":"err"},"doi":"10.1016/j.tifs.2011.05.006","journal":"Trends in Food Science & Technology","publisher":"Elsevier BV","title":"RETRACTED: Probiotics intake and metabolic syndrome: A proposal"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496003268837,
+      "identifier": {
+        "doi": "10.1016/j.tifs.2014.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tifs.2011.05.006"
+  },
+  "journal": "Trends in Food Science & Technology",
+  "publisher": "Elsevier BV",
+  "title": "RETRACTED: Probiotics intake and metabolic syndrome: A proposal"
+}

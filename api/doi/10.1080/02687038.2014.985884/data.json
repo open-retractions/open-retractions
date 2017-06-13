@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1080/02687038.2015.1052262","type":"correction"},"doi":"10.1080/02687038.2014.985884","journal":"Aphasiology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496006273897,
+      "identifier": {
+        "doi": "10.1080/02687038.2015.1052262"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02687038.2014.985884"
+  },
+  "journal": "Aphasiology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

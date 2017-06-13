@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.14366/usg.15007","type":"correction"},"doi":"10.14366/usg.15007","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Ultrasound elastography for evaluation of cervical lymph nodes"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496935346163,
+      "identifier": {
+        "doi": "10.14366/usg.15007"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.15007"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Ultrasound elastography for evaluation of cervical lymph nodes"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405987200000,"doi":"10.1063/1.4890335","type":"correction"},"doi":"10.1063/1.4820345","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Note: Determination of torsional spring constant of atomic force microscopy cantilevers: Combining normal spring constant and classical beam theory” [Rev. Sci. Instrum. 84, 096102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1405987200000,
+  "updates": [
+    {
+      "timestamp": 1496055958018,
+      "identifier": {
+        "doi": "10.1063/1.4890335"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820345"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Note: Determination of torsional spring constant of atomic force microscopy cantilevers: Combining normal spring constant and classical beam theory” [Rev. Sci. Instrum. 84, 096102 (2013)]"
+}

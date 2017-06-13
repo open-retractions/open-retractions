@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.bbamcr.2015.09.006","type":"err"},"doi":"10.1016/j.bbamcr.2015.07.011","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “Syndecan-4 ectodomain evokes mobilization of podocyte TRPC6 channels and their associated pathways: An essential role for integrin signaling” [Biochim. Biophys. Acta 1853/10PA (2015) 2610–2620]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496028543827,
+      "identifier": {
+        "doi": "10.1016/j.bbamcr.2015.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamcr.2015.07.011"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Syndecan-4 ectodomain evokes mobilization of podocyte TRPC6 channels and their associated pathways: An essential role for integrin signaling” [Biochim. Biophys. Acta 1853/10PA (2015) 2610–2620]"
+}

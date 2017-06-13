@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1228953600000,"doi":"10.1371/annotation/df340d50-1f94-4d8b-a252-1a82a7fa5cc7","type":"correction"},"doi":"10.1371/journal.ppat.0030178","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Predominant Infection of CD150+ Lymphocytes and Dendritic Cells during Measles Virus Infection of Macaques"}
+{
+  "retracted": false,
+  "timestamp": 1228953600000,
+  "updates": [
+    {
+      "timestamp": 1496025199206,
+      "identifier": {
+        "doi": "10.1371/annotation/df340d50-1f94-4d8b-a252-1a82a7fa5cc7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.0030178"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Predominant Infection of CD150+ Lymphocytes and Dendritic Cells during Measles Virus Infection of Macaques"
+}

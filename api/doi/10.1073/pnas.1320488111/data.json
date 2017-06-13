@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422230400000,"doi":"10.1073/pnas.1500047112","type":"correction"},"doi":"10.1073/pnas.1320488111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Barcellos et al., Preparedness of Americans for the Affordable Care Act"}
+{
+  "retracted": false,
+  "timestamp": 1422230400000,
+  "updates": [
+    {
+      "timestamp": 1496039772052,
+      "identifier": {
+        "doi": "10.1073/pnas.1500047112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1320488111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Barcellos et al., Preparedness of Americans for the Affordable Care Act"
+}

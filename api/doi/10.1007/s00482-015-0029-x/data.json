@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442793600000,"doi":"10.1007/s00482-015-0064-7","type":"correction"},"doi":"10.1007/s00482-015-0029-x","journal":"Der Schmerz","publisher":"Springer Nature","title":"Erratum zu: Opioide bei Nichttumorschmerz im höheren Lebensalter"}
+{
+  "retracted": false,
+  "timestamp": 1442793600000,
+  "updates": [
+    {
+      "timestamp": 1496031688425,
+      "identifier": {
+        "doi": "10.1007/s00482-015-0064-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00482-015-0029-x"
+  },
+  "journal": "Der Schmerz",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Opioide bei Nichttumorschmerz im höheren Lebensalter"
+}

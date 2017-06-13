@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467590400000,"doi":"10.1186/s40168-016-0180-3","type":"correction"},"doi":"10.1186/s40168-015-0121-6","journal":"Microbiome","publisher":"Springer Nature","title":"Erratum to: Phenotypic differentiation of gastrointestinal microbes is reflected in their encoded metabolic repertoires"}
+{
+  "retracted": false,
+  "timestamp": 1467590400000,
+  "updates": [
+    {
+      "timestamp": 1495724439269,
+      "identifier": {
+        "doi": "10.1186/s40168-016-0180-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40168-015-0121-6"
+  },
+  "journal": "Microbiome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phenotypic differentiation of gastrointestinal microbes is reflected in their encoded metabolic repertoires"
+}

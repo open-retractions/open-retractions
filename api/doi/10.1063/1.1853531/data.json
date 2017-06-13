@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1151884800000,"doi":"10.1063/1.2219129","type":"erratum"},"doi":"10.1063/1.1853531","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: Recording of cell action potentials with AlGaN∕GaN field-effect transistors [Appl. Phys. Lett. 86, 033901 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1151884800000,
+  "updates": [
+    {
+      "timestamp": 1495832069230,
+      "identifier": {
+        "doi": "10.1063/1.2219129"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1853531"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Recording of cell action potentials with AlGaN∕GaN field-effect transistors [Appl. Phys. Lett. 86, 033901           (2005)]"
+}

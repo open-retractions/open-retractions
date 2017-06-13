@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384128000000,"doi":"10.1371/annotation/8d68730b-e348-413a-9d06-a1bf90629bde","type":"correction"},"doi":"10.1371/journal.pone.0075222","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Established Thymic Epithelial Progenitor/Stem Cell-Like Cell Lines Differentiate into Mature Thymic Epithelial Cells and Support T Cell Development"}
+{
+  "retracted": false,
+  "timestamp": 1384128000000,
+  "updates": [
+    {
+      "timestamp": 1495991554508,
+      "identifier": {
+        "doi": "10.1371/annotation/8d68730b-e348-413a-9d06-a1bf90629bde"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075222"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Established Thymic Epithelial Progenitor/Stem Cell-Like Cell Lines Differentiate into Mature Thymic Epithelial Cells and Support T Cell Development"
+}

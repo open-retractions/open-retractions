@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399939200000,"doi":"10.1063/1.4878122","type":"correction"},"doi":"10.1063/1.2397555","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Relativistic quaternionic wave equation” [J. Math. Phys. 47, 122301 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1399939200000,
+  "updates": [
+    {
+      "timestamp": 1496038406447,
+      "identifier": {
+        "doi": "10.1063/1.4878122"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2397555"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Relativistic quaternionic wave equation” [J. Math. Phys. 47, 122301 (2006)]"
+}

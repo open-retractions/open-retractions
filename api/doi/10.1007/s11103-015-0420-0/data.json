@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455580800000,"doi":"10.1007/s11103-016-0447-x","type":"correction"},"doi":"10.1007/s11103-015-0420-0","journal":"Plant Molecular Biology","publisher":"Springer Nature","title":"Erratum to: Rice GDP-mannose pyrophosphorylase OsVTC1-1 and OsVTC1-3 play different roles in ascorbic acid synthesis"}
+{
+  "retracted": false,
+  "timestamp": 1455580800000,
+  "updates": [
+    {
+      "timestamp": 1495645149243,
+      "identifier": {
+        "doi": "10.1007/s11103-016-0447-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11103-015-0420-0"
+  },
+  "journal": "Plant Molecular Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rice GDP-mannose pyrophosphorylase OsVTC1-1 and OsVTC1-3 play different roles in ascorbic acid synthesis"
+}

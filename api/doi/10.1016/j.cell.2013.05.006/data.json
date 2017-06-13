@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374105600000,"doi":"10.1016/j.cell.2013.06.042","type":"erratum"},"doi":"10.1016/j.cell.2013.05.006","journal":"Cell","publisher":"Elsevier BV","title":"Human Embryonic Stem Cells Derived by Somatic Cell Nuclear Transfer"}
+{
+  "retracted": false,
+  "timestamp": 1374105600000,
+  "updates": [
+    {
+      "timestamp": 1496034076781,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.06.042"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.05.006"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Human Embryonic Stem Cells Derived by Somatic Cell Nuclear Transfer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471996800000,"doi":"10.1038/srep32051","type":"correction"},"doi":"10.1038/srep29309","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Static and Dynamical Properties of heavy actinide Monopnictides of Lutetium"}
+{
+  "retracted": false,
+  "timestamp": 1471996800000,
+  "updates": [
+    {
+      "timestamp": 1495738489595,
+      "identifier": {
+        "doi": "10.1038/srep32051"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep29309"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Static and Dynamical Properties of heavy actinide Monopnictides of Lutetium"
+}

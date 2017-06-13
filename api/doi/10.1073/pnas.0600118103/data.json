@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1170115200000,"doi":"10.1073/pnas.0610582103","type":"correction"},"doi":"10.1073/pnas.0600118103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wagoner and Baker, Assessing implicit models for nonpolar mean solvation forces: The importance of dispersion and volume terms"}
+{
+  "retracted": false,
+  "timestamp": 1170115200000,
+  "updates": [
+    {
+      "timestamp": 1495885801604,
+      "identifier": {
+        "doi": "10.1073/pnas.0610582103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0600118103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wagoner and Baker, Assessing implicit models for nonpolar mean solvation forces: The importance of dispersion and volume terms"
+}

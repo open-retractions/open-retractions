@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425600000000,"doi":"10.1080/10464883.2015.979644","type":"correction"},"doi":"10.1080/10464883.2014.937241","journal":"Journal of Architectural Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1425600000000,
+  "updates": [
+    {
+      "timestamp": 1496049100255,
+      "identifier": {
+        "doi": "10.1080/10464883.2015.979644"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10464883.2014.937241"
+  },
+  "journal": "Journal of Architectural Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

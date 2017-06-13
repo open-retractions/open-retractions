@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471910400000,"doi":"10.1007/s12045-016-0372-y","type":"correction"},"doi":"10.1007/s12045-016-0357-x","journal":"Resonance","publisher":"Springer Nature","title":"Erratum to: Hamilton’s optics: The power of wavefronts"}
+{
+  "retracted": false,
+  "timestamp": 1471910400000,
+  "updates": [
+    {
+      "timestamp": 1495737826719,
+      "identifier": {
+        "doi": "10.1007/s12045-016-0372-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12045-016-0357-x"
+  },
+  "journal": "Resonance",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hamilton’s optics: The power of wavefronts"
+}

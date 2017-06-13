@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1080/09555803.2015.1066988","type":"correction"},"doi":"10.1080/09555803.2015.1040818","journal":"Japan Forum","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496012779713,
+      "identifier": {
+        "doi": "10.1080/09555803.2015.1066988"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09555803.2015.1040818"
+  },
+  "journal": "Japan Forum",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

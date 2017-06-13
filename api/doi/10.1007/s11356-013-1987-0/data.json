@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385596800000,"doi":"10.1007/s11356-013-2296-3","type":"correction"},"doi":"10.1007/s11356-013-1987-0","journal":"Environmental Science and Pollution Research","publisher":"Springer Nature","title":"Erratum to: Zn biomineralization processes and microbial biofilm in a metal-rich stream (Naracauli, Sardinia)"}
+{
+  "retracted": false,
+  "timestamp": 1385596800000,
+  "updates": [
+    {
+      "timestamp": 1496000189037,
+      "identifier": {
+        "doi": "10.1007/s11356-013-2296-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11356-013-1987-0"
+  },
+  "journal": "Environmental Science and Pollution Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Zn biomineralization processes and microbial biofilm in a metal-rich stream (Naracauli, Sardinia)"
+}

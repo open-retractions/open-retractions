@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.1007/s10100-015-0396-5","type":"correction"},"doi":"10.1007/s10100-013-0311-x","journal":"Central European Journal of Operations Research","publisher":"Springer Nature","title":"Erratum to: A heuristic rating estimation algorithm for the pairwise comparisons method"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996358135,
+      "identifier": {
+        "doi": "10.1007/s10100-015-0396-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10100-013-0311-x"
+  },
+  "journal": "Central European Journal of Operations Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A heuristic rating estimation algorithm for the pairwise comparisons method"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429142400000,"doi":"10.1134/s1070363215030445","type":"correction"},"doi":"10.1134/s1070363215010156","journal":"Russian Journal of General Chemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Synthesis and Study of New Nitrogen-Containing Heterocycles Based on Glycoluril Derivatives”"}
+{
+  "retracted": false,
+  "timestamp": 1429142400000,
+  "updates": [
+    {
+      "timestamp": 1496046135099,
+      "identifier": {
+        "doi": "10.1134/s1070363215030445"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1070363215010156"
+  },
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Synthesis and Study of New Nitrogen-Containing Heterocycles Based on Glycoluril Derivatives”"
+}

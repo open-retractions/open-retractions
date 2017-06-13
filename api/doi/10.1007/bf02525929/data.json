@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225929600000,"doi":"10.1007/bf02527424","type":"correction"},"doi":"10.1007/bf02525929","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum zu: Théodolite de Précision Askania d’après Gigas avec enregistrement photographique"}
+{
+  "retracted": false,
+  "timestamp": 1225929600000,
+  "updates": [
+    {
+      "timestamp": 1495880638020,
+      "identifier": {
+        "doi": "10.1007/bf02527424"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02525929"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Théodolite de Précision Askania d’après Gigas avec enregistrement photographique"
+}

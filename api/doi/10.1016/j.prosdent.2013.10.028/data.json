@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.prosdent.2016.08.001","type":"erratum"},"doi":"10.1016/j.prosdent.2013.10.028","journal":"The Journal of Prosthetic Dentistry","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495640649249,
+      "identifier": {
+        "doi": "10.1016/j.prosdent.2016.08.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.prosdent.2013.10.028"
+  },
+  "journal": "The Journal of Prosthetic Dentistry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1134/s1064562416110016","type":"correction"},"doi":"10.1134/s1064562415060058","journal":"Doklady Mathematics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Derivation of preservation conditions for properties of mathematical models”"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495658282039,
+      "identifier": {
+        "doi": "10.1134/s1064562416110016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1064562415060058"
+  },
+  "journal": "Doklady Mathematics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Derivation of preservation conditions for properties of mathematical models”"
+}

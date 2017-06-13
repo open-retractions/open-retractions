@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.vetpar.2013.12.026","type":"err"},"doi":"10.1016/j.vetpar.2013.04.002","journal":"Veterinary Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “World Association for the Advancement of Veterinary Parasitology (WAAVP): The 50th anniversary in 2013—History, achievements, and future perspectives” [Vet. Parasitol. 195 (2013) 206–217]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496012329030,
+      "identifier": {
+        "doi": "10.1016/j.vetpar.2013.12.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetpar.2013.04.002"
+  },
+  "journal": "Veterinary Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “World Association for the Advancement of Veterinary Parasitology (WAAVP): The 50th anniversary in 2013—History, achievements, and future perspectives” [Vet. Parasitol. 195 (2013) 206–217]"
+}

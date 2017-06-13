@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406246400000,"doi":"10.1371/journal.pone.0103663","type":"correction"},"doi":"10.1371/journal.pone.0084475","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mining Rare Associations between Biological Ontologies"}
+{
+  "retracted": false,
+  "timestamp": 1406246400000,
+  "updates": [
+    {
+      "timestamp": 1496056547399,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0103663"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0084475"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mining Rare Associations between Biological Ontologies"
+}

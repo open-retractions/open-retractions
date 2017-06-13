@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.transproceed.2016.08.032","type":"err"},"doi":"10.1016/j.transproceed.2012.06.015","journal":"Transplantation Proceedings","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495651432834,
+      "identifier": {
+        "doi": "10.1016/j.transproceed.2016.08.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.transproceed.2012.06.015"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

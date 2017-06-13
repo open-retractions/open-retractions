@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459814400000,"doi":"10.1007/s10734-016-9983-1","type":"correction"},"doi":"10.1007/s10734-014-9843-9","journal":"Higher Education","publisher":"Springer Nature","title":"Erratum to: Higher Education, Volume 70, Issue 3"}
+{
+  "retracted": false,
+  "timestamp": 1459814400000,
+  "updates": [
+    {
+      "timestamp": 1495662349367,
+      "identifier": {
+        "doi": "10.1007/s10734-016-9983-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10734-014-9843-9"
+  },
+  "journal": "Higher Education",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Higher Education, Volume 70, Issue 3"
+}

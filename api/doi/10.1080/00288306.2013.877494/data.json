@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403222400000,"doi":"10.1080/00288306.2014.902010","type":"correction"},"doi":"10.1080/00288306.2013.877494","journal":"New Zealand Journal of Geology and Geophysics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1403222400000,
+  "updates": [
+    {
+      "timestamp": 1496035819251,
+      "identifier": {
+        "doi": "10.1080/00288306.2014.902010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00288306.2013.877494"
+  },
+  "journal": "New Zealand Journal of Geology and Geophysics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

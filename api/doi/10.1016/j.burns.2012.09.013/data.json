@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.burns.2013.10.018","type":"err"},"doi":"10.1016/j.burns.2012.09.013","journal":"Burns","publisher":"Elsevier BV","title":"Erratum to “Delayed wound healing in aged skin rat models after thermal injury is associated with an increased MMP-9, K6 and CD44 expression” [Burns, 39 (2013) 776–787]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495997244773,
+      "identifier": {
+        "doi": "10.1016/j.burns.2013.10.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.burns.2012.09.013"
+  },
+  "journal": "Burns",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Delayed wound healing in aged skin rat models after thermal injury is associated with an increased MMP-9, K6 and CD44 expression” [Burns, 39 (2013) 776–787]"
+}

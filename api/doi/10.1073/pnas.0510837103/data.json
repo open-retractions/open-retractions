@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1143504000000,"doi":"10.1073/pnas.0601677103","type":"correction"},"doi":"10.1073/pnas.0510837103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gottenberg et al., Activation of IFN pathways and plasmacytoid dendritic cell recruitment in target organs of primary Sjogren's syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1143504000000,
+  "updates": [
+    {
+      "timestamp": 1495977372416,
+      "identifier": {
+        "doi": "10.1073/pnas.0601677103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0510837103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gottenberg et al., Activation of IFN pathways and plasmacytoid dendritic cell recruitment in target organs of primary Sjogren's syndrome"
+}

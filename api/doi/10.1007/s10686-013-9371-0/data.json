@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436918400000,"doi":"10.1007/s10686-014-9420-3","type":"correction"},"doi":"10.1007/s10686-013-9371-0","journal":"Experimental Astronomy","publisher":"Springer Nature","title":"Erratum to: Performances of JEM-EUSO: angular reconstruction"}
+{
+  "retracted": false,
+  "timestamp": 1436918400000,
+  "updates": [
+    {
+      "timestamp": 1496015349147,
+      "identifier": {
+        "doi": "10.1007/s10686-014-9420-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10686-013-9371-0"
+  },
+  "journal": "Experimental Astronomy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Performances of JEM-EUSO: angular reconstruction"
+}

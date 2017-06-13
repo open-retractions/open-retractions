@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1346976000000,"update":{"timestamp":null,"doi":null,"pmid":24344354,"type":"retraction"},"doi":"10.1016/j.bbrc.2012.08.009","journal":"Biochemical and biophysical research communications","publisher":null,"title":"UHRF2, another E3 ubiquitin ligase for p53."}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495993713462,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2013.10.069"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2012.08.009"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “UHRF2, another E3 ubiquitin ligase for p53” [Biochem. Biophys. Res. Commun. 425 (2012) 908–911]"
+}

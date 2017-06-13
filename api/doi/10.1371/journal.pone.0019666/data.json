@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306800000000,"doi":"10.1371/annotation/01ecd7b0-1be0-4e2f-87c7-079d5f1a1c32","type":"correction"},"doi":"10.1371/journal.pone.0019666","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Evaluating the Potential Efficacy of Invasive Lionfish (Pterois volitans) Removals"}
+{
+  "retracted": false,
+  "timestamp": 1306800000000,
+  "updates": [
+    {
+      "timestamp": 1495959997658,
+      "identifier": {
+        "doi": "10.1371/annotation/01ecd7b0-1be0-4e2f-87c7-079d5f1a1c32"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0019666"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evaluating the Potential Efficacy of Invasive Lionfish (Pterois volitans) Removals"
+}

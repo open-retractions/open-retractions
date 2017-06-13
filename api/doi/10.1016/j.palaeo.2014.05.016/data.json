@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410739200000,"doi":"10.1016/j.palaeo.2014.07.004","type":"err"},"doi":"10.1016/j.palaeo.2014.05.016","journal":"Palaeogeography, Palaeoclimatology, Palaeoecology","publisher":"Elsevier BV","title":"Corrigendum to “Evidence for climate shifts in the ~2.0Ga upper Makgabeng Formation erg, South Africa” [PALAEO: 409 (2014) 265–279]"}
+{
+  "retracted": false,
+  "timestamp": 1410739200000,
+  "updates": [
+    {
+      "timestamp": 1496053893484,
+      "identifier": {
+        "doi": "10.1016/j.palaeo.2014.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.palaeo.2014.05.016"
+  },
+  "journal": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evidence for climate shifts in the ~2.0Ga upper Makgabeng Formation erg, South Africa” [PALAEO: 409 (2014) 265–279]"
+}

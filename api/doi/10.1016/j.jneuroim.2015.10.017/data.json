@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458000000000,"doi":"10.1016/j.jneuroim.2016.02.007","type":"err"},"doi":"10.1016/j.jneuroim.2015.10.017","journal":"Journal of Neuroimmunology","publisher":"Elsevier BV","title":"Corrigendum to “Identification and characterization of natural antibodies against tau protein in an intravenous immunoglobulin product” [J. Neuroimmunol. 289 (2015) 121–129]"}
+{
+  "retracted": false,
+  "timestamp": 1458000000000,
+  "updates": [
+    {
+      "timestamp": 1495645579826,
+      "identifier": {
+        "doi": "10.1016/j.jneuroim.2016.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneuroim.2015.10.017"
+  },
+  "journal": "Journal of Neuroimmunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification and characterization of natural antibodies against tau protein in an intravenous immunoglobulin product” [J. Neuroimmunol. 289 (2015) 121–129]"
+}

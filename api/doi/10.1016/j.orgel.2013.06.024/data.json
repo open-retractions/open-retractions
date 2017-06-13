@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.orgel.2013.10.030","type":"err"},"doi":"10.1016/j.orgel.2013.06.024","journal":"Organic Electronics","publisher":"Elsevier BV","title":"Corrigendum to “Selective charge transfer in donor/acceptor systems bridged by Tröger base derivatives” [Org. Electron. 14 (2013) 2564–2572]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495995399893,
+      "identifier": {
+        "doi": "10.1016/j.orgel.2013.10.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.orgel.2013.06.024"
+  },
+  "journal": "Organic Electronics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Selective charge transfer in donor/acceptor systems bridged by Tröger base derivatives” [Org. Electron. 14 (2013) 2564–2572]"
+}

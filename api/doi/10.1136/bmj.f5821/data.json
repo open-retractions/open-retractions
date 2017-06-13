@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380067200000,"doi":"10.1136/bmj.f5858","type":"correction"},"doi":"10.1136/bmj.f5821","journal":"BMJ","publisher":"BMJ","title":"Gaza is running out of medicines as Egypt limits movement through the Rafah crossing"}
+{
+  "retracted": false,
+  "timestamp": 1380067200000,
+  "updates": [
+    {
+      "timestamp": 1496049112748,
+      "identifier": {
+        "doi": "10.1136/bmj.f5858"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5821"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Gaza is running out of medicines as Egypt limits movement through the Rafah crossing"
+}

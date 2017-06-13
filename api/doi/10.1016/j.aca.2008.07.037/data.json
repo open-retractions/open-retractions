@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372291200000,"doi":"10.1016/j.aca.2013.05.001","type":"err"},"doi":"10.1016/j.aca.2008.07.037","journal":"Analytica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Rapid and selective detection of cysteine based on its induced aggregates of cetyltrimethylammonium bromide capped gold nanoparticles” [Anal. Chim. Acta 626 (2008) 37–43]"}
+{
+  "retracted": false,
+  "timestamp": 1372291200000,
+  "updates": [
+    {
+      "timestamp": 1496021857150,
+      "identifier": {
+        "doi": "10.1016/j.aca.2013.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aca.2008.07.037"
+  },
+  "journal": "Analytica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Rapid and selective detection of cysteine based on its induced aggregates of cetyltrimethylammonium bromide capped gold nanoparticles” [Anal. Chim. Acta 626 (2008) 37–43]"
+}

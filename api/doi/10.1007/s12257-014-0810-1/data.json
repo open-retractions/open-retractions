@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443139200000,"doi":"10.1007/s12257-014-1810-x","type":"correction"},"doi":"10.1007/s12257-014-0810-1","journal":"Biotechnology and Bioprocess Engineering","publisher":"Springer Nature","title":"Erratum to: Paired-termini antisense RNA mediated inhibition of DoxR in Streptomyces peucetius ATCC 27952"}
+{
+  "retracted": false,
+  "timestamp": 1443139200000,
+  "updates": [
+    {
+      "timestamp": 1496032466330,
+      "identifier": {
+        "doi": "10.1007/s12257-014-1810-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12257-014-0810-1"
+  },
+  "journal": "Biotechnology and Bioprocess Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Paired-termini antisense RNA mediated inhibition of DoxR in Streptomyces peucetius ATCC 27952"
+}

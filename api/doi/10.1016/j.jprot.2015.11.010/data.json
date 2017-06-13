@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463443200000,"doi":"10.1016/j.jprot.2016.04.035","type":"err"},"doi":"10.1016/j.jprot.2015.11.010","journal":"Journal of Proteomics","publisher":"Elsevier BV","title":"Corrigendum to: A Fusarium graminearum strain-comparative proteomic approach identifies regulatory changes triggered by agmatine [J. Proteomics (2016) 137; 107–116]"}
+{
+  "retracted": false,
+  "timestamp": 1463443200000,
+  "updates": [
+    {
+      "timestamp": 1495671687078,
+      "identifier": {
+        "doi": "10.1016/j.jprot.2016.04.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jprot.2015.11.010"
+  },
+  "journal": "Journal of Proteomics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: A Fusarium graminearum strain-comparative proteomic approach identifies regulatory changes triggered by agmatine [J. Proteomics (2016) 137; 107–116]"
+}

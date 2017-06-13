@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.envint.2015.02.012","type":"err"},"doi":"10.1016/j.envint.2014.04.009","journal":"Environment International","publisher":"Elsevier BV","title":"Corrigendum to ‘Child exposure to indoor and outdoor air pollutants in schools in Barcelona, Spain’[Environment International 69C (2014) 200–212]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049053658,
+      "identifier": {
+        "doi": "10.1016/j.envint.2015.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envint.2014.04.009"
+  },
+  "journal": "Environment International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Child exposure to indoor and outdoor air pollutants in schools in Barcelona, Spain’[Environment International 69C (2014) 200–212]"
+}

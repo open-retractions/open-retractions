@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.iheduc.2015.05.001","type":"err"},"doi":"10.1016/j.iheduc.2015.02.002","journal":"The Internet and Higher Education","publisher":"Elsevier BV","title":"Corrigendum to “The use of flipped classrooms in higher education: A scoping review” [The Internet and Higher Education 25 (2015) 85–95]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496001447837,
+      "identifier": {
+        "doi": "10.1016/j.iheduc.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.iheduc.2015.02.002"
+  },
+  "journal": "The Internet and Higher Education",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The use of flipped classrooms in higher education: A scoping review” [The Internet and Higher Education 25 (2015) 85–95]"
+}

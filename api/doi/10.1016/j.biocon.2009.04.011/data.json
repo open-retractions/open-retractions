@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.biocon.2014.02.024","type":"err"},"doi":"10.1016/j.biocon.2009.04.011","journal":"Biological Conservation","publisher":"Elsevier BV","title":"Corrigendum to “A survey method for evaluating drought-sensitive bryophytes in fragmented forests: A bryophyte life-form based approach” [Biol. Conserv. 142 (12) (2009) 2854–2861]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496029734595,
+      "identifier": {
+        "doi": "10.1016/j.biocon.2014.02.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocon.2009.04.011"
+  },
+  "journal": "Biological Conservation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A survey method for evaluating drought-sensitive bryophytes in fragmented forests: A bryophyte life-form based approach” [Biol. Conserv. 142 (12) (2009) 2854–2861]"
+}

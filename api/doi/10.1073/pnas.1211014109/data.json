@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1342396800000,"doi":"10.1073/pnas.1319913110","type":"correction"},"doi":"10.1073/pnas.1211014109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Bart et al., High-throughput genomic sequencing of cassava bacterial blight strains identifies conserved effectors to target for durable resistance"}
+{
+  "retracted": false,
+  "timestamp": 1342396800000,
+  "updates": [
+    {
+      "timestamp": 1495996067413,
+      "identifier": {
+        "doi": "10.1073/pnas.1319913110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1211014109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Bart et al., High-throughput genomic sequencing of cassava bacterial blight strains identifies conserved effectors to target for durable resistance"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429747200000,"doi":"10.1080/09018328.2015.1043711","type":"correction"},"doi":"10.1080/09018328.2015.1033177","journal":"Scandinavian Journal of the Old Testament","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1429747200000,
+  "updates": [
+    {
+      "timestamp": 1495995405995,
+      "identifier": {
+        "doi": "10.1080/09018328.2015.1043711"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09018328.2015.1033177"
+  },
+  "journal": "Scandinavian Journal of the Old Testament",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

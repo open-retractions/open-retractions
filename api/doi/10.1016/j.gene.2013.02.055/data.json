@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1373414400000,"update":{"timestamp":null,"doi":null,"pmid":27195334,"type":"retraction"},"doi":"10.1016/j.gene.2013.02.055","journal":"Gene","publisher":null,"title":"Microarray analysis of microRNA expression in liver cancer tissues and normal control."}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495637897070,
+      "identifier": {
+        "doi": "10.1016/j.gene.2015.10.057"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2013.02.055"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to microarray analysis of microRNA expression in liver cancer tissues and normal control [GENE 523/2 (2014) 158–160]"
+}

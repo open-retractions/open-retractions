@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1205884800000,"doi":"10.1371/annotation/0b1a375a-ea43-4586-824f-05bc5b359d63","type":"correction"},"doi":"10.1371/journal.pone.0001780","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Small-Bodied Humans from Palau, Micronesia"}
+{
+  "retracted": false,
+  "timestamp": 1205884800000,
+  "updates": [
+    {
+      "timestamp": 1496023929378,
+      "identifier": {
+        "doi": "10.1371/annotation/0b1a375a-ea43-4586-824f-05bc5b359d63"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0001780"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Small-Bodied Humans from Palau, Micronesia"
+}

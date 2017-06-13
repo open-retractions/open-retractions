@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411084800000,"doi":"10.1007/s00259-014-2913-5","type":"correction"},"doi":"10.1007/s00259-014-2872-x","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: Impact of 11C-choline PET/CT on clinical decision making in recurrent prostate cancer: results from a retrospective two-centre trial"}
+{
+  "retracted": false,
+  "timestamp": 1411084800000,
+  "updates": [
+    {
+      "timestamp": 1496006946223,
+      "identifier": {
+        "doi": "10.1007/s00259-014-2913-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-014-2872-x"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Impact of 11C-choline PET/CT on clinical decision making in recurrent prostate cancer: results from a retrospective two-centre trial"
+}

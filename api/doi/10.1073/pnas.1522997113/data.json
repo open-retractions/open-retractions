@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468281600000,"doi":"10.1073/pnas.1609366113","type":"correction"},"doi":"10.1073/pnas.1522997113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chappell and Rausher, Evolution of host range inColeosporium ipomoeae, a plant pathogen with multiple hosts"}
+{
+  "retracted": false,
+  "timestamp": 1468281600000,
+  "updates": [
+    {
+      "timestamp": 1495724857790,
+      "identifier": {
+        "doi": "10.1073/pnas.1609366113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1522997113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chappell and Rausher, Evolution of host range inColeosporium ipomoeae, a plant pathogen with multiple hosts"
+}

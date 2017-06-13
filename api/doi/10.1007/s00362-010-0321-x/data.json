@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1007/s00362-014-0626-2","type":"correction"},"doi":"10.1007/s00362-010-0321-x","journal":"Statistical Papers","publisher":"Springer Nature","title":"Erratum to: Multivariate normal distribution approaches for dependently truncated data"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496005578282,
+      "identifier": {
+        "doi": "10.1007/s00362-014-0626-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00362-010-0321-x"
+  },
+  "journal": "Statistical Papers",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Multivariate normal distribution approaches for dependently truncated data"
+}

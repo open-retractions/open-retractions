@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463961600000,"doi":"10.1208/s12248-016-9933-y","type":"correction"},"doi":"10.1208/s12248-016-9913-2","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Use of Modeling and Simulation Tools for Understanding the Impact of Formulation on the Absorption of a Low Solubility Compound: Ciprofloxacin"}
+{
+  "retracted": false,
+  "timestamp": 1463961600000,
+  "updates": [
+    {
+      "timestamp": 1495715219601,
+      "identifier": {
+        "doi": "10.1208/s12248-016-9933-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-016-9913-2"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Use of Modeling and Simulation Tools for Understanding the Impact of Formulation on the Absorption of a Low Solubility Compound: Ciprofloxacin"
+}

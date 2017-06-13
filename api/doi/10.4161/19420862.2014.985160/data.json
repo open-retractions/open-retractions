@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451433600000,"doi":"10.1080/19420862.2015.1116915","type":"correction"},"doi":"10.4161/19420862.2014.985160","journal":"mAbs","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1451433600000,
+  "updates": [
+    {
+      "timestamp": 1496057109671,
+      "identifier": {
+        "doi": "10.1080/19420862.2015.1116915"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4161/19420862.2014.985160"
+  },
+  "journal": "mAbs",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

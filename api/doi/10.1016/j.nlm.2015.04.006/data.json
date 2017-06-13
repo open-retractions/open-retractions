@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.nlm.2016.10.001","type":"erratum"},"doi":"10.1016/j.nlm.2015.04.006","journal":"Neurobiology of Learning and Memory","publisher":"Elsevier BV","title":"Corrigendum to “Functional basis of associative learning and its relationships with long-term potentiation evoked in the involved neural circuits: Lessons from studies in behaving mammals”[Neurobiol. Learn. Memory 124 (2015) 3–18]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495647286030,
+      "identifier": {
+        "doi": "10.1016/j.nlm.2016.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nlm.2015.04.006"
+  },
+  "journal": "Neurobiology of Learning and Memory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Functional basis of associative learning and its relationships with long-term potentiation evoked in the involved neural circuits: Lessons from studies in behaving mammals”[Neurobiol. Learn. Memory 124 (2015) 3–18]"
+}

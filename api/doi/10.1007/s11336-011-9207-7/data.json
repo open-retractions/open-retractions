@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1304553600000,"doi":"10.1007/s11336-011-9214-8","type":"correction"},"doi":"10.1007/s11336-011-9207-7","journal":"Psychometrika","publisher":"Springer Nature","title":"Erratum to: The Generalized DINA Model Framework"}
+{
+  "retracted": false,
+  "timestamp": 1304553600000,
+  "updates": [
+    {
+      "timestamp": 1495954824062,
+      "identifier": {
+        "doi": "10.1007/s11336-011-9214-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11336-011-9207-7"
+  },
+  "journal": "Psychometrika",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Generalized DINA Model Framework"
+}

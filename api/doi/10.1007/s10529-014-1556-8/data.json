@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1007/s10529-014-1607-1","type":"correction"},"doi":"10.1007/s10529-014-1556-8","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Gene fragment polymerization for increased yield of recombinant HIV fusion inhibitor Enfuvirtide"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496053451108,
+      "identifier": {
+        "doi": "10.1007/s10529-014-1607-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-014-1556-8"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Gene fragment polymerization for increased yield of recombinant HIV fusion inhibitor Enfuvirtide"
+}

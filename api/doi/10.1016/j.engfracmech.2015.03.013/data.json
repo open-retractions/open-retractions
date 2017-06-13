@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.engfracmech.2015.04.021","type":"err"},"doi":"10.1016/j.engfracmech.2015.03.013","journal":"Engineering Fracture Mechanics","publisher":"Elsevier BV","title":"Publisher’s Note to “Peer review report 2 on A porous-based discontinuous model for ductile fracture in metals”"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496009928893,
+      "identifier": {
+        "doi": "10.1016/j.engfracmech.2015.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engfracmech.2015.03.013"
+  },
+  "journal": "Engineering Fracture Mechanics",
+  "publisher": "Elsevier BV",
+  "title": "Publisher’s Note to “Peer review report 2 on A porous-based discontinuous model for ductile fracture in metals”"
+}

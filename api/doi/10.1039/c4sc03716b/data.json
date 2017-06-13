@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439164800000,"doi":"10.1039/c5sc90044a","type":"correction"},"doi":"10.1039/c4sc03716b","journal":"Chem. Sci.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Humidity-dependent surface tension measurements of individual inorganic and organic submicrometre liquid particles"}
+{
+  "retracted": false,
+  "timestamp": 1439164800000,
+  "updates": [
+    {
+      "timestamp": 1496021167794,
+      "identifier": {
+        "doi": "10.1039/c5sc90044a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4sc03716b"
+  },
+  "journal": "Chem. Sci.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Humidity-dependent surface tension measurements of individual inorganic and organic submicrometre liquid particles"
+}

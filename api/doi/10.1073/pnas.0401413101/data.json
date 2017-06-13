@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1150761600000,"doi":"10.1073/pnas.0603447103","type":"correction"},"doi":"10.1073/pnas.0401413101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gingrich et al., Unique domain anchoring of Src to synaptic NMDA receptors via the mitochondrial protein NADH dehydrogenase subunit 2"}
+{
+  "retracted": false,
+  "timestamp": 1150761600000,
+  "updates": [
+    {
+      "timestamp": 1495827215920,
+      "identifier": {
+        "doi": "10.1073/pnas.0603447103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0401413101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gingrich et al., Unique domain anchoring of Src to synaptic NMDA receptors via the mitochondrial protein NADH dehydrogenase subunit 2"
+}

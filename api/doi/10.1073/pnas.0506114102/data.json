@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1191888000000,"doi":"10.1073/pnas.0708463104","type":"correction"},"doi":"10.1073/pnas.0506114102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Uenoyama and Miyata, Gliding ghosts of Mycoplasma mobile"}
+{
+  "retracted": false,
+  "timestamp": 1191888000000,
+  "updates": [
+    {
+      "timestamp": 1495989929117,
+      "identifier": {
+        "doi": "10.1073/pnas.0708463104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0506114102"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Uenoyama and Miyata, Gliding ghosts of Mycoplasma mobile"
+}

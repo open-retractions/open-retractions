@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1352160000000,"doi":"10.1371/annotation/4526d447-db8e-4bb7-831c-752b8498a63d","type":"correction"},"doi":"10.1371/journal.pone.0041962","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A New Estimation of Global Soil Greenhouse Gas Fluxes Using a Simple Data-Oriented Model"}
+{
+  "retracted": false,
+  "timestamp": 1352160000000,
+  "updates": [
+    {
+      "timestamp": 1495978850215,
+      "identifier": {
+        "doi": "10.1371/annotation/4526d447-db8e-4bb7-831c-752b8498a63d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041962"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A New Estimation of Global Soil Greenhouse Gas Fluxes Using a Simple Data-Oriented Model"
+}

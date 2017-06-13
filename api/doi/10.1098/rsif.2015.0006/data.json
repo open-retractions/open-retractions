@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430870400000,"doi":"10.1098/rsif.2015.0221","type":"correction"},"doi":"10.1098/rsif.2015.0006","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Regional ejection fraction and regional area strain for left ventricular function assessment in male patients after first-time myocardial infarction"}
+{
+  "retracted": false,
+  "timestamp": 1430870400000,
+  "updates": [
+    {
+      "timestamp": 1496054340417,
+      "identifier": {
+        "doi": "10.1098/rsif.2015.0221"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2015.0006"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Regional ejection fraction and regional area strain for left ventricular function assessment in male patients after first-time myocardial infarction"
+}

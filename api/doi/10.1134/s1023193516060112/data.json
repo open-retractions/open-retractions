@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482019200000,"doi":"10.1134/s1023193516990015","type":"correction"},"doi":"10.1134/s1023193516060112","journal":"Russian Journal of Electrochemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Electrocatalytic oxidation of hydrazine on poly(4-aminobenzene sulfonic acid)-modified glassy carbon electrode”"}
+{
+  "retracted": false,
+  "timestamp": 1482019200000,
+  "updates": [
+    {
+      "timestamp": 1495667579753,
+      "identifier": {
+        "doi": "10.1134/s1023193516990015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1023193516060112"
+  },
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Electrocatalytic oxidation of hydrazine on poly(4-aminobenzene sulfonic acid)-modified glassy carbon electrode”"
+}

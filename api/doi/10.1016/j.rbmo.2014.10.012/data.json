@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.rbmo.2015.02.011","type":"err"},"doi":"10.1016/j.rbmo.2014.10.012","journal":"Reproductive BioMedicine Online","publisher":"Elsevier BV","title":"Erratum to ‘Efficiency of an automatic dehydrated carrier for the vitrification of human embryos derived from three pronuclei fertilized zygotes’ [Reproductive BioMedicine Online 30 (2015) 144–149]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496047462434,
+      "identifier": {
+        "doi": "10.1016/j.rbmo.2015.02.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rbmo.2014.10.012"
+  },
+  "journal": "Reproductive BioMedicine Online",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Efficiency of an automatic dehydrated carrier for the vitrification of human embryos derived from three pronuclei fertilized zygotes’ [Reproductive BioMedicine Online 30 (2015) 144–149]"
+}

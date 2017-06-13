@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1143849600000,"doi":"10.1007/s11265-006-8456-7","type":"correction"},"doi":"10.1007/s11265-005-4187-4","journal":"Journal of VLSI signal processing systems for signal, image and video technology","publisher":"Springer Nature","title":"Erratum to: Hardware efficient fast computation of the discrete fourier transform"}
+{
+  "retracted": false,
+  "timestamp": 1143849600000,
+  "updates": [
+    {
+      "timestamp": 1495812723352,
+      "identifier": {
+        "doi": "10.1007/s11265-006-8456-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11265-005-4187-4"
+  },
+  "journal": "Journal of VLSI signal processing systems for signal, image and video technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hardware efficient fast computation of the discrete fourier transform"
+}

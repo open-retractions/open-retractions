@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1411689600000,"doi":"10.1007/s12043-014-0812-8","type":"correction"},"doi":"10.1007/s12043-009-0041-8","journal":"Pramana","publisher":"Springer Nature","title":"Erratum to: An integral transform of Green’s function, off-shell Jost solution and T-matrix for Coulomb–Yamaguchi potential in coordinate representation"}
+{
+  "retracted": false,
+  "timestamp": 1411689600000,
+  "updates": [
+    {
+      "timestamp": 1496008506159,
+      "identifier": {
+        "doi": "10.1007/s12043-014-0812-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12043-009-0041-8"
+  },
+  "journal": "Pramana",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An integral transform of Green’s function, off-shell Jost solution and T-matrix for Coulomb–Yamaguchi potential in coordinate representation"
+}

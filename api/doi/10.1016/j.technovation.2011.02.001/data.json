@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.technovation.2014.10.001","type":"err"},"doi":"10.1016/j.technovation.2011.02.001","journal":"Technovation","publisher":"Elsevier BV","title":"Retraction notice to “Technology development projects in road infrastructure: The relevance of government championing behavior” [Technovation 31 (5–6) (2011) 270–283]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496014643647,
+      "identifier": {
+        "doi": "10.1016/j.technovation.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.technovation.2011.02.001"
+  },
+  "journal": "Technovation",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Technology development projects in road infrastructure: The relevance of government championing behavior” [Technovation 31 (5–6) (2011) 270–283]"
+}

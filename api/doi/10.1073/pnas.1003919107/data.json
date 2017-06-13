@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1287446400000,"doi":"10.1073/pnas.1015385107","type":"correction"},"doi":"10.1073/pnas.1003919107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ding et al., Inhibition of brain tumor growth by intravenous poly( -L-malic) acid nanobioconjugate with pH-dependent drug release"}
+{
+  "retracted": false,
+  "timestamp": 1287446400000,
+  "updates": [
+    {
+      "timestamp": 1495900402966,
+      "identifier": {
+        "doi": "10.1073/pnas.1015385107"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1003919107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ding et al., Inhibition of brain tumor growth by intravenous poly( -L-malic) acid nanobioconjugate with pH-dependent drug release"
+}

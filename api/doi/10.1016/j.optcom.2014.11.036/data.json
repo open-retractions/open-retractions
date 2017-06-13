@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447545600000,"doi":"10.1016/j.optcom.2015.09.006","type":"err"},"doi":"10.1016/j.optcom.2014.11.036","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to ‘Tunable slow and fast light in an atom-assisted optomechanical system’ [Opt. Commun. 338C (2015) 569–573]"}
+{
+  "retracted": false,
+  "timestamp": 1447545600000,
+  "updates": [
+    {
+      "timestamp": 1496033056650,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2015.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2014.11.036"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Tunable slow and fast light in an atom-assisted optomechanical system’ [Opt. Commun. 338C (2015) 569–573]"
+}

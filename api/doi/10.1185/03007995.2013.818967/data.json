@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387238400000,"doi":"10.1185/03007995.2013.864486","type":"correction"},"doi":"10.1185/03007995.2013.818967","journal":"Current Medical Research and Opinion","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1387238400000,
+  "updates": [
+    {
+      "timestamp": 1495999211217,
+      "identifier": {
+        "doi": "10.1185/03007995.2013.864486"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1185/03007995.2013.818967"
+  },
+  "journal": "Current Medical Research and Opinion",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

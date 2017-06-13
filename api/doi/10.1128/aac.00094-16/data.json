@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1128/aac.02367-16","type":"correction"},"doi":"10.1128/aac.00094-16","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Siccardi et al., Validation of Computational Approaches for Antiretroviral Dose Optimization"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495669694990,
+      "identifier": {
+        "doi": "10.1128/aac.02367-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.00094-16"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Siccardi et al., Validation of Computational Approaches for Antiretroviral Dose Optimization"
+}

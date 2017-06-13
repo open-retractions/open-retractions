@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341878400000,"doi":"10.1371/annotation/cee00b5b-4def-4684-b02c-fdcc5eaf51e6","type":"correction"},"doi":"10.1371/journal.pone.0039205","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Effect of Chemical Mutagens and Carcinogens on Gene Expression Profiles in Human TK6 Cells"}
+{
+  "retracted": false,
+  "timestamp": 1341878400000,
+  "updates": [
+    {
+      "timestamp": 1495922788411,
+      "identifier": {
+        "doi": "10.1371/annotation/cee00b5b-4def-4684-b02c-fdcc5eaf51e6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0039205"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effect of Chemical Mutagens and Carcinogens on Gene Expression Profiles in Human TK6 Cells"
+}

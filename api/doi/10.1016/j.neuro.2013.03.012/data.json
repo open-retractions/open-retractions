@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.neuro.2014.10.001","type":"err"},"doi":"10.1016/j.neuro.2013.03.012","journal":"NeuroToxicology","publisher":"Elsevier BV","title":"Corrigendum to “Mercury, APOE, and children's neurodevelopment” [Neurotoxicology 37 (2013) 85–92]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496013618218,
+      "identifier": {
+        "doi": "10.1016/j.neuro.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuro.2013.03.012"
+  },
+  "journal": "NeuroToxicology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mercury, APOE, and children's neurodevelopment” [Neurotoxicology 37 (2013) 85–92]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.matcom.2014.08.003","type":"err"},"doi":"10.1016/j.matcom.2012.08.004","journal":"Mathematics and Computers in Simulation","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of the DPC-based inclusive payment system in Japan for cataract operations by a new model” [Math. Comput. Simulation 93 (2013) 76–85]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496005604892,
+      "identifier": {
+        "doi": "10.1016/j.matcom.2014.08.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matcom.2012.08.004"
+  },
+  "journal": "Mathematics and Computers in Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of the DPC-based inclusive payment system in Japan for cataract operations by a new model” [Math. Comput. Simulation 93 (2013) 76–85]"
+}

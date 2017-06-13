@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1242691200000,"doi":"10.1073/pnas.0905298106","type":"correction"},"doi":"10.1073/pnas.0810399106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Morelli et al., DNA looping provides stability and robustness to the bacteriophage   switch"}
+{
+  "retracted": false,
+  "timestamp": 1242691200000,
+  "updates": [
+    {
+      "timestamp": 1495952980910,
+      "identifier": {
+        "doi": "10.1073/pnas.0905298106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0810399106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Morelli et al., DNA looping provides stability and robustness to the bacteriophage   switch"
+}

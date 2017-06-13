@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1016/j.jmmm.2016.03.033","type":"err"},"doi":"10.1016/j.jmmm.2016.02.012","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"Corrigendum to: “Magnetic mechanism investigations on K and Mn co-doped diluted magnetic semiconductor (Sr,K)(Zn,Mn)2As2” [J. Magn. Magn. Mater. 407 (2016) 334–340]"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495653001466,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2016.03.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2016.02.012"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Magnetic mechanism investigations on K and Mn co-doped diluted magnetic semiconductor (Sr,K)(Zn,Mn)2As2” [J. Magn. Magn. Mater. 407 (2016) 334–340]"
+}

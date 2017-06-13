@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476316800000,"doi":"10.1007/s00259-016-3547-6","type":"correction"},"doi":"10.1007/s00259-016-3453-y","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: Characterization of the radiolabeled metabolite of tau PET tracer 18F-THK5351"}
+{
+  "retracted": false,
+  "timestamp": 1476316800000,
+  "updates": [
+    {
+      "timestamp": 1495648234911,
+      "identifier": {
+        "doi": "10.1007/s00259-016-3547-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-016-3453-y"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Characterization of the radiolabeled metabolite of tau PET tracer 18F-THK5351"
+}

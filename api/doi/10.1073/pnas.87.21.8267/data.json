@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":681004800000,"doi":"10.1073/pnas.88.15.6899-a","type":"correction"},"doi":"10.1073/pnas.87.21.8267","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Extracellular ATP in T-lymphocyte activation: Possible role in effector functions"}
+{
+  "retracted": false,
+  "timestamp": 681004800000,
+  "updates": [
+    {
+      "timestamp": 1495936237216,
+      "identifier": {
+        "doi": "10.1073/pnas.88.15.6899-a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.87.21.8267"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Extracellular ATP in T-lymphocyte activation: Possible role in effector functions"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.ajem.2015.07.038","type":"err"},"doi":"10.1016/j.ajem.2015.02.037","journal":"The American Journal of Emergency Medicine","publisher":"Elsevier BV","title":"Corrigendum to “The Authors Reply: further consideration in evaluation of right ventricular infarction” [Am J Emerg Med. 2015 Jun;33(6):836–7]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496022826588,
+      "identifier": {
+        "doi": "10.1016/j.ajem.2015.07.038"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajem.2015.02.037"
+  },
+  "journal": "The American Journal of Emergency Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The Authors Reply: further consideration in evaluation of right ventricular infarction” [Am J Emerg Med. 2015 Jun;33(6):836–7]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474070400000,"doi":"10.1007/s11630-016-0888-1","type":"correction"},"doi":"10.1007/s11630-016-0847-x","journal":"Journal of Thermal Science","publisher":"Springer Nature","title":"Erratum to: CFD study on local fluid-to-wall heat transfer in packed beds and field synergy analysis"}
+{
+  "retracted": false,
+  "timestamp": 1474070400000,
+  "updates": [
+    {
+      "timestamp": 1495640309717,
+      "identifier": {
+        "doi": "10.1007/s11630-016-0888-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11630-016-0847-x"
+  },
+  "journal": "Journal of Thermal Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CFD study on local fluid-to-wall heat transfer in packed beds and field synergy analysis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465862400000,"doi":"10.1007/s00103-016-2390-z","type":"correction"},"doi":"10.1007/s00103-015-2226-2","journal":"Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz","publisher":"Springer Nature","title":"Erratum zu: Die Rolle von Integrating the Healthcare Enterprise (IHE) in der Telemedizin"}
+{
+  "retracted": false,
+  "timestamp": 1465862400000,
+  "updates": [
+    {
+      "timestamp": 1495720434803,
+      "identifier": {
+        "doi": "10.1007/s00103-016-2390-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00103-015-2226-2"
+  },
+  "journal": "Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Die Rolle von Integrating the Healthcare Enterprise (IHE) in der Telemedizin"
+}

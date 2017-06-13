@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480291200000,"doi":"10.1186/s12864-016-3305-y","type":"correction"},"doi":"10.1186/s12864-016-2944-3","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: A new transcriptome and transcriptome profiling of adult and larval tissue in the box jellyfish Alatina alata: an emerging model for studying venom, vision and sex"}
+{
+  "retracted": false,
+  "timestamp": 1480291200000,
+  "updates": [
+    {
+      "timestamp": 1495661745133,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3305-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2944-3"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new transcriptome and transcriptome profiling of adult and larval tissue in the box jellyfish Alatina alata: an emerging model for studying venom, vision and sex"
+}

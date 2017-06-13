@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398729600000,"doi":"10.1371/journal.pone.0096968","type":"correction"},"doi":"10.1371/journal.pone.0092280","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Comparison of the Pac-X Trans-Pacific Wave Glider Data and Satellite Data (MODIS, Aquarius, TRMM and VIIRS)"}
+{
+  "retracted": false,
+  "timestamp": 1398729600000,
+  "updates": [
+    {
+      "timestamp": 1496035773752,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0096968"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0092280"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Comparison of the Pac-X Trans-Pacific Wave Glider Data and Satellite Data (MODIS, Aquarius, TRMM and VIIRS)"
+}

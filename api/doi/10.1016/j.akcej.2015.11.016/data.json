@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.akcej.2016.01.002","type":"err"},"doi":"10.1016/j.akcej.2015.11.016","journal":"AKCE International Journal of Graphs and Combinatorics","publisher":"Elsevier BV","title":"Corrigendum to “Even harmonious labelings of disjoint graphs with a small component” [AKCE Inter. J. Graphs Combin. 12 (2015) 204–215]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495642886366,
+      "identifier": {
+        "doi": "10.1016/j.akcej.2016.01.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.akcej.2015.11.016"
+  },
+  "journal": "AKCE International Journal of Graphs and Combinatorics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Even harmonious labelings of disjoint graphs with a small component” [AKCE Inter. J. Graphs Combin. 12 (2015) 204–215]"
+}

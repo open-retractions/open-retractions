@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1088/1367-2630/18/8/089501","type":"correction"},"doi":"10.1088/1367-2630/18/3/035003","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: Bose–Einstein condensation in large time-averaged optical ring potentials (2016New J. Phys.18035003)"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495733737433,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/8/089501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/18/3/035003"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Bose–Einstein condensation in large time-averaged optical ring potentials (2016New J. Phys.18035003)"
+}

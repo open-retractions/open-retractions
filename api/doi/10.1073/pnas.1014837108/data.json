@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315872000000,"doi":"10.1073/pnas.1107174108","type":"correction"},"doi":"10.1073/pnas.1014837108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Benjamini et al., Quantifying the buildup in extent and complexity of free exploration in mice"}
+{
+  "retracted": false,
+  "timestamp": 1315872000000,
+  "updates": [
+    {
+      "timestamp": 1495956463516,
+      "identifier": {
+        "doi": "10.1073/pnas.1107174108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1014837108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Benjamini et al., Quantifying the buildup in extent and complexity of free exploration in mice"
+}

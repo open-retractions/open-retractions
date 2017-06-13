@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1007/s11075-014-9868-2","type":"correction"},"doi":"10.1007/s11075-012-9591-9","journal":"Numerical Algorithms","publisher":"Springer Nature","title":"Erratum to: On computing quadrature-based bounds for the A-norm of the error in conjugate gradients"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496041832550,
+      "identifier": {
+        "doi": "10.1007/s11075-014-9868-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11075-012-9591-9"
+  },
+  "journal": "Numerical Algorithms",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On computing quadrature-based bounds for the A-norm of the error in conjugate gradients"
+}

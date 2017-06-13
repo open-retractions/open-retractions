@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.steroids.2016.02.002","type":"err"},"doi":"10.1016/j.steroids.2015.05.012","journal":"Steroids","publisher":"Elsevier BV","title":"Corrigendum to “Design, characterization and skin permeating potential of Fluocinolone acetonide loaded nanostructured lipid carriers for topical treatment of psoriasis” [Steroids 101 (2015) 56–63]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495642981346,
+      "identifier": {
+        "doi": "10.1016/j.steroids.2016.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.steroids.2015.05.012"
+  },
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design, characterization and skin permeating potential of Fluocinolone acetonide loaded nanostructured lipid carriers for topical treatment of psoriasis” [Steroids 101 (2015) 56–63]"
+}

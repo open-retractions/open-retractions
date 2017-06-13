@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478131200000,"doi":"10.1088/0031-8949/91/12/129601","type":"correction"},"doi":"10.1088/0031-8949/91/11/113002","journal":"Physica Scripta","publisher":"IOP Publishing","title":"Erratum: ‘A physicists guide to The Los Alamos Primer’ (2016 Physica Scripta 91 113002)"}
+{
+  "retracted": false,
+  "timestamp": 1478131200000,
+  "updates": [
+    {
+      "timestamp": 1495653861912,
+      "identifier": {
+        "doi": "10.1088/0031-8949/91/12/129601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0031-8949/91/11/113002"
+  },
+  "journal": "Physica Scripta",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: ‘A physicists guide to The Los Alamos Primer’ (2016 Physica Scripta 91 113002)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403136000000,"doi":"10.1016/j.cell.2014.05.020","type":"err"},"doi":"10.1016/j.cell.2013.04.010","journal":"Cell","publisher":"Elsevier BV","title":"Diverse Mechanisms of Somatic Structural Variations in Human Cancer Genomes"}
+{
+  "retracted": false,
+  "timestamp": 1403136000000,
+  "updates": [
+    {
+      "timestamp": 1496047509465,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.05.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.04.010"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Diverse Mechanisms of Somatic Structural Variations in Human Cancer Genomes"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.foodchem.2015.05.046","type":"erratum"},"doi":"10.1016/j.foodchem.2015.03.094","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Identification of novel allergen in edible insect, Gryllus bimaculatus and its cross-reactivity with Macrobrachium spp. allergens” [Food Chem. 184 (2015) 160–166]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496002867520,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2015.05.046"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.03.094"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of novel allergen in edible insect, Gryllus bimaculatus and its cross-reactivity with Macrobrachium spp. allergens” [Food Chem. 184 (2015) 160–166]"
+}

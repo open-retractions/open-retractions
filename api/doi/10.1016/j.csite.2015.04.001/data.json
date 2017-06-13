@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.csite.2016.01.004","type":"err"},"doi":"10.1016/j.csite.2015.04.001","journal":"Case Studies in Thermal Engineering","publisher":"Elsevier BV","title":"Corrigendum to: “Energy survey of the coal based sponge iron industry” [CSITE 6C (2015) 1–15]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495640548236,
+      "identifier": {
+        "doi": "10.1016/j.csite.2016.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.csite.2015.04.001"
+  },
+  "journal": "Case Studies in Thermal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Energy survey of the coal based sponge iron industry” [CSITE 6C (2015) 1–15]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1303862400000,"doi":"10.1007/s10750-011-0712-6","type":"correction"},"doi":"10.1007/s10750-011-0656-x","journal":"Hydrobiologia","publisher":"Springer Nature","title":"Erratum to: Analysing the content of the European Ocean Biogeographic Information System (EurOBIS): available data, limitations, prospects and a look at the future"}
+{
+  "retracted": false,
+  "timestamp": 1303862400000,
+  "updates": [
+    {
+      "timestamp": 1495952978571,
+      "identifier": {
+        "doi": "10.1007/s10750-011-0712-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10750-011-0656-x"
+  },
+  "journal": "Hydrobiologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysing the content of the European Ocean Biogeographic Information System (EurOBIS): available data, limitations, prospects and a look at the future"
+}

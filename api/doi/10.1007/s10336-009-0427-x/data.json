@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1256774400000,"doi":"10.1007/s10336-009-0465-4","type":"correction"},"doi":"10.1007/s10336-009-0427-x","journal":"Journal of Ornithology","publisher":"Springer Nature","title":"Erratum to: Reduced blood parasite prevalence with age in the Seychelles Warbler: selective mortality or suppression of infection?"}
+{
+  "retracted": false,
+  "timestamp": 1256774400000,
+  "updates": [
+    {
+      "timestamp": 1495986900902,
+      "identifier": {
+        "doi": "10.1007/s10336-009-0465-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10336-009-0427-x"
+  },
+  "journal": "Journal of Ornithology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Reduced blood parasite prevalence with age in the Seychelles Warbler: selective mortality or suppression of infection?"
+}

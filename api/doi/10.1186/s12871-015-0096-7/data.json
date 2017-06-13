@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445817600000,"doi":"10.1186/s12871-015-0136-3","type":"correction"},"doi":"10.1186/s12871-015-0096-7","journal":"BMC Anesthesiology","publisher":"Springer Nature","title":"Erratum to: Obesity – a risk factor for postoperative complications in general surgery?"}
+{
+  "retracted": false,
+  "timestamp": 1445817600000,
+  "updates": [
+    {
+      "timestamp": 1497302622915,
+      "identifier": {
+        "doi": "10.1186/s12871-015-0136-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12871-015-0096-7"
+  },
+  "journal": "BMC Anesthesiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Obesity – a risk factor for postoperative complications in general surgery?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.enpol.2015.03.007","type":"err"},"doi":"10.1016/j.enpol.2014.08.033","journal":"Energy Policy","publisher":"Elsevier BV","title":"Corrigendum to “A global sustainability perspective on 3D printing technologies” [Energy Policy 74 (2014) 158–167]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496053737330,
+      "identifier": {
+        "doi": "10.1016/j.enpol.2015.03.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enpol.2014.08.033"
+  },
+  "journal": "Energy Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A global sustainability perspective on 3D printing technologies” [Energy Policy 74 (2014) 158–167]"
+}

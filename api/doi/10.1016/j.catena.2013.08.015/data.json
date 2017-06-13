@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.catena.2014.11.005","type":"err"},"doi":"10.1016/j.catena.2013.08.015","journal":"CATENA","publisher":"Elsevier BV","title":"Corrigendum: Comment on “Predicting event soil loss from bare plots at two Italian sites” by Bagarello et al. 2013"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496023473696,
+      "identifier": {
+        "doi": "10.1016/j.catena.2014.11.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.catena.2013.08.015"
+  },
+  "journal": "CATENA",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum: Comment on “Predicting event soil loss from bare plots at two Italian sites” by Bagarello et al. 2013"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":473385600000,"doi":"10.1057/fr.1985.25","type":"correction"},"doi":"10.1057/fr.1985.18","journal":"Feminist Review","publisher":"Springer Nature","title":"Erratum: Erratum: What Do Women Want? Woman-Centred Values and the World As It Is"}
+{
+  "retracted": false,
+  "timestamp": 473385600000,
+  "updates": [
+    {
+      "timestamp": 1495979605434,
+      "identifier": {
+        "doi": "10.1057/fr.1985.25"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/fr.1985.18"
+  },
+  "journal": "Feminist Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: What Do Women Want? Woman-Centred Values and the World As It Is"
+}

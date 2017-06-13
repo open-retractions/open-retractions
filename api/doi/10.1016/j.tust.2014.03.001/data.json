@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.tust.2015.03.010","type":"err"},"doi":"10.1016/j.tust.2014.03.001","journal":"Tunnelling and Underground Space Technology","publisher":"Elsevier BV","title":"Corrigendum to “Tunnel face stability under seepage flow conditions” [Tunnel. Underg. Space Technol. 43 (2014) 459–469]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496059135056,
+      "identifier": {
+        "doi": "10.1016/j.tust.2015.03.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tust.2014.03.001"
+  },
+  "journal": "Tunnelling and Underground Space Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Tunnel face stability under seepage flow conditions” [Tunnel. Underg. Space Technol. 43 (2014) 459–469]"
+}

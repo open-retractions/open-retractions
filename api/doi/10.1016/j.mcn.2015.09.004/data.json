@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.mcn.2016.03.002","type":"err"},"doi":"10.1016/j.mcn.2015.09.004","journal":"Molecular and Cellular Neuroscience","publisher":"Elsevier BV","title":"Corrigendum to “ApoER2 and reelin are expressed in regenerating peripheral nerve and regulate Schwann cell migration by activating the Rac1 GEF protein, Tiam1”[Mol Cell Neurosci 69C (2015) 1–11]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495655309503,
+      "identifier": {
+        "doi": "10.1016/j.mcn.2016.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mcn.2015.09.004"
+  },
+  "journal": "Molecular and Cellular Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ApoER2 and reelin are expressed in regenerating peripheral nerve and regulate Schwann cell migration by activating the Rac1 GEF protein, Tiam1”[Mol Cell Neurosci 69C (2015) 1–11]"
+}

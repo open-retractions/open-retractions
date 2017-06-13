@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409356800000,"doi":"10.1134/s0012496614040103","type":"correction"},"doi":"10.1134/s0012496614020203","journal":"Doklady Biological Sciences","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “The use of DNA SCAR markers for differentiation of Kamchatka mykiss (Parasalmo (Oncorhynchus) mykiss)”"}
+{
+  "retracted": false,
+  "timestamp": 1409356800000,
+  "updates": [
+    {
+      "timestamp": 1496003781170,
+      "identifier": {
+        "doi": "10.1134/s0012496614040103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0012496614020203"
+  },
+  "journal": "Doklady Biological Sciences",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “The use of DNA SCAR markers for differentiation of Kamchatka mykiss (Parasalmo (Oncorhynchus) mykiss)”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.enpol.2016.05.017","type":"err"},"doi":"10.1016/j.enpol.2016.04.024","journal":"Energy Policy","publisher":"Elsevier BV","title":"Corrigendum to: “Variance risk premia in CO2 markets: A political perspective” [Energy Policy 94 (2016) 345–354]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495676106515,
+      "identifier": {
+        "doi": "10.1016/j.enpol.2016.05.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enpol.2016.04.024"
+  },
+  "journal": "Energy Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Variance risk premia in CO2 markets: A political perspective” [Energy Policy 94 (2016) 345–354]"
+}

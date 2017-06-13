@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448496000000,"doi":"10.1186/s40793-015-0107-9","type":"correction"},"doi":"10.1186/1944-3277-9-11","journal":"Standards in Genomic Sciences","publisher":"Springer Nature","title":"Erratum to: An updated genome annotation for the model marine bacterium Ruegeria pomeroyi DSS-3"}
+{
+  "retracted": false,
+  "timestamp": 1448496000000,
+  "updates": [
+    {
+      "timestamp": 1496048908540,
+      "identifier": {
+        "doi": "10.1186/s40793-015-0107-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1944-3277-9-11"
+  },
+  "journal": "Standards in Genomic Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An updated genome annotation for the model marine bacterium Ruegeria pomeroyi DSS-3"
+}

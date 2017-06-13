@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.lfs.2016.07.003","type":"erratum"},"doi":"10.1016/j.lfs.2016.04.006","journal":"Life Sciences","publisher":"Elsevier BV","title":"Erratum to “Hypothalamic glucagon signaling in fasting hypoglycemia” [Life Sci. 153 (2016) 118–123]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495731966420,
+      "identifier": {
+        "doi": "10.1016/j.lfs.2016.07.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lfs.2016.04.006"
+  },
+  "journal": "Life Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hypothalamic glucagon signaling in fasting hypoglycemia” [Life Sci. 153 (2016) 118–123]"
+}

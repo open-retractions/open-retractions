@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405814400000,"doi":"10.1016/j.marchem.2014.04.005","type":"err"},"doi":"10.1016/j.marchem.2014.01.004","journal":"Marine Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Pelagic iron cycling during the subtropical spring bloom, east of New Zealand” [MARCHE: 160 (2014) 18–33]"}
+{
+  "retracted": false,
+  "timestamp": 1405814400000,
+  "updates": [
+    {
+      "timestamp": 1496042082123,
+      "identifier": {
+        "doi": "10.1016/j.marchem.2014.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marchem.2014.01.004"
+  },
+  "journal": "Marine Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Pelagic iron cycling during the subtropical spring bloom, east of New Zealand” [MARCHE: 160 (2014) 18–33]"
+}

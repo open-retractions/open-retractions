@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424649600000,"doi":"10.1080/00344893.2015.1011938","type":"correction"},"doi":"10.1080/00344893.2014.982694","journal":"Representation","publisher":"Informa UK Limited","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1424649600000,
+  "updates": [
+    {
+      "timestamp": 1496045748552,
+      "identifier": {
+        "doi": "10.1080/00344893.2015.1011938"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00344893.2014.982694"
+  },
+  "journal": "Representation",
+  "publisher": "Informa UK Limited",
+  "title": "CORRIGENDUM"
+}

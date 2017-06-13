@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428883200000,"doi":"10.1016/j.jbiomech.2015.01.043","type":"err"},"doi":"10.1016/j.jbiomech.2014.07.025","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Heart rate, arterial distensibility, and optimal performance of the arterial tree” [J. Biomech. 47 (12) 2878–2882]"}
+{
+  "retracted": false,
+  "timestamp": 1428883200000,
+  "updates": [
+    {
+      "timestamp": 1496042704204,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2015.01.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2014.07.025"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Heart rate, arterial distensibility, and optimal performance of the arterial tree” [J. Biomech. 47 (12) 2878–2882]"
+}

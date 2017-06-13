@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421107200000,"doi":"10.1016/j.stemcr.2014.12.011","type":"erratum"},"doi":"10.1016/j.stemcr.2014.09.005","journal":"Stem Cell Reports","publisher":"Elsevier BV","title":"Efficient Differentiation of Human Pluripotent Stem Cells to Endothelial Progenitors via Small-Molecule Activation of WNT Signaling"}
+{
+  "retracted": false,
+  "timestamp": 1421107200000,
+  "updates": [
+    {
+      "timestamp": 1496036370544,
+      "identifier": {
+        "doi": "10.1016/j.stemcr.2014.12.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stemcr.2014.09.005"
+  },
+  "journal": "Stem Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Efficient Differentiation of Human Pluripotent Stem Cells to Endothelial Progenitors via Small-Molecule Activation of WNT Signaling"
+}

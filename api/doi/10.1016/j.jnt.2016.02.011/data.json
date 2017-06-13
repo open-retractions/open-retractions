@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.jnt.2016.06.002","type":"erratum"},"doi":"10.1016/j.jnt.2016.02.011","journal":"Journal of Number Theory","publisher":"Elsevier BV","title":"Corrigendum to “On the field of definition of a cubic rational function and its critical points” [J. Number Theory 167 (2016) 1–6]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495729213301,
+      "identifier": {
+        "doi": "10.1016/j.jnt.2016.06.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnt.2016.02.011"
+  },
+  "journal": "Journal of Number Theory",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the field of definition of a cubic rational function and its critical points” [J. Number Theory 167 (2016) 1–6]"
+}

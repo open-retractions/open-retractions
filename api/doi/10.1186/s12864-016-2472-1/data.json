@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465171200000,"doi":"10.1186/s12864-016-2758-3","type":"correction"},"doi":"10.1186/s12864-016-2472-1","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Unraveling the pectinolytic function of Bacteroides xylanisolvens using a RNA-seq approach and mutagenesis"}
+{
+  "retracted": false,
+  "timestamp": 1465171200000,
+  "updates": [
+    {
+      "timestamp": 1495718401263,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2758-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2472-1"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Unraveling the pectinolytic function of Bacteroides xylanisolvens using a RNA-seq approach and mutagenesis"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382486400000,"doi":"10.1371/annotation/8dffa635-e876-48e1-958a-0016d3618d64","type":"correction"},"doi":"10.1371/journal.pone.0040086","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Harborview Burns – 1974 to 2009"}
+{
+  "retracted": false,
+  "timestamp": 1382486400000,
+  "updates": [
+    {
+      "timestamp": 1496056494736,
+      "identifier": {
+        "doi": "10.1371/annotation/8dffa635-e876-48e1-958a-0016d3618d64"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0040086"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Harborview Burns – 1974 to 2009"
+}

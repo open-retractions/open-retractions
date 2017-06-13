@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453766400000,"doi":"10.1186/s40793-016-0133-2","type":"correction"},"doi":"10.1186/s40793-015-0075-0","journal":"Standards in Genomic Sciences","publisher":"Springer Nature","title":"Erratum to: Complete genome sequences of Geobacillus sp. Y412MC52, a xylan-degrading strain isolated from obsidian hot spring in Yellowstone National Park"}
+{
+  "retracted": false,
+  "timestamp": 1453766400000,
+  "updates": [
+    {
+      "timestamp": 1495640048685,
+      "identifier": {
+        "doi": "10.1186/s40793-016-0133-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40793-015-0075-0"
+  },
+  "journal": "Standards in Genomic Sciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Complete genome sequences of Geobacillus sp. Y412MC52, a xylan-degrading strain isolated from obsidian hot spring in Yellowstone National Park"
+}

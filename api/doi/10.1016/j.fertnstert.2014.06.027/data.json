@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.fertnstert.2014.10.003","type":"err"},"doi":"10.1016/j.fertnstert.2014.06.027","journal":"Fertility and Sterility","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1491858611984,
+      "identifier": {
+        "doi": "10.1016/j.fertnstert.2014.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fertnstert.2014.06.027"
+  },
+  "journal": "Fertility and Sterility",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

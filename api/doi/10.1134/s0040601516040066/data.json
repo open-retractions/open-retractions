@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1134/s004060151614010x","type":"correction"},"doi":"10.1134/s0040601516040066","journal":"Thermal Engineering","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Computational investigations of low-emission burner facilities for char gas burning in a power boiler”"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678052132,
+      "identifier": {
+        "doi": "10.1134/s004060151614010x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0040601516040066"
+  },
+  "journal": "Thermal Engineering",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Computational investigations of low-emission burner facilities for char gas burning in a power boiler”"
+}

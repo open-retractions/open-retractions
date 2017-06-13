@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231459200000,"doi":"10.1007/s00428-008-0712-8","type":"correction"},"doi":"10.1007/s00428-008-0665-y","journal":"Virchows Archiv","publisher":"Springer Nature","title":"KRAS mutation testing for predicting response to anti-EGFR therapy for colorectal carcinoma: proposal for an European quality assurance program"}
+{
+  "retracted": false,
+  "timestamp": 1231459200000,
+  "updates": [
+    {
+      "timestamp": 1495910330330,
+      "identifier": {
+        "doi": "10.1007/s00428-008-0712-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00428-008-0665-y"
+  },
+  "journal": "Virchows Archiv",
+  "publisher": "Springer Nature",
+  "title": "KRAS mutation testing for predicting response to anti-EGFR therapy for colorectal carcinoma: proposal for an European quality assurance program"
+}

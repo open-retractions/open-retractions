@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474329600000,"doi":"10.1080/02670844.2016.1225365","type":"correction"},"doi":"10.1080/02670844.2016.1164276","journal":"Surface Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1474329600000,
+  "updates": [
+    {
+      "timestamp": 1495641271937,
+      "identifier": {
+        "doi": "10.1080/02670844.2016.1225365"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02670844.2016.1164276"
+  },
+  "journal": "Surface Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

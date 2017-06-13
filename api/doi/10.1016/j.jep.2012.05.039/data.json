@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1426204800000,"doi":"10.1016/j.jep.2014.12.037","type":"err"},"doi":"10.1016/j.jep.2012.05.039","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Antiallergic effect of KOB03, a polyherbal medicine, on mast cell-mediated allergic responses in ovalbumin-induced allergic rhinitis mouse and human mast cells” [J. Ethnopharmacol. 142(3) (2012) 684–693]"}
+{
+  "retracted": false,
+  "timestamp": 1426204800000,
+  "updates": [
+    {
+      "timestamp": 1496034865412,
+      "identifier": {
+        "doi": "10.1016/j.jep.2014.12.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2012.05.039"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Antiallergic effect of KOB03, a polyherbal medicine, on mast cell-mediated allergic responses in ovalbumin-induced allergic rhinitis mouse and human mast cells” [J. Ethnopharmacol. 142(3) (2012) 684–693]"
+}

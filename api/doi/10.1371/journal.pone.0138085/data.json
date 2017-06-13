@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445990400000,"doi":"10.1371/journal.pone.0141518","type":"correction"},"doi":"10.1371/journal.pone.0138085","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: DNA Damage Response Checkpoint Activation Drives KP1019 Dependent Pre-Anaphase Cell Cycle Delay in S. cerevisiae"}
+{
+  "retracted": false,
+  "timestamp": 1445990400000,
+  "updates": [
+    {
+      "timestamp": 1496041933805,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0141518"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0138085"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: DNA Damage Response Checkpoint Activation Drives KP1019 Dependent Pre-Anaphase Cell Cycle Delay in S. cerevisiae"
+}

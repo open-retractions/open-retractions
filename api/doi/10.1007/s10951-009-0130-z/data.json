@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423958400000,"doi":"10.1007/s10951-015-0420-6","type":"correction"},"doi":"10.1007/s10951-009-0130-z","journal":"Journal of Scheduling","publisher":"Springer Nature","title":"Erratum to: Flow shops with WIP and value added costs"}
+{
+  "retracted": false,
+  "timestamp": 1423958400000,
+  "updates": [
+    {
+      "timestamp": 1496485355137,
+      "identifier": {
+        "doi": "10.1007/s10951-015-0420-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10951-009-0130-z"
+  },
+  "journal": "Journal of Scheduling",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Flow shops with WIP and value added costs"
+}

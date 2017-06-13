@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1007/s11001-015-9263-y","type":"correction"},"doi":"10.1007/s11001-015-9256-x","journal":"Marine Geophysical Research","publisher":"Springer Nature","title":"Erratum to: A geomorphological seabed classification for the Weddell Sea, Antarctica"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495668560495,
+      "identifier": {
+        "doi": "10.1007/s11001-015-9263-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11001-015-9256-x"
+  },
+  "journal": "Marine Geophysical Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A geomorphological seabed classification for the Weddell Sea, Antarctica"
+}

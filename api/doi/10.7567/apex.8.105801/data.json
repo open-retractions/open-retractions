@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454371200000,"doi":"10.7567/apex.9.039201","type":"correction"},"doi":"10.7567/apex.8.105801","journal":"Applied Physics Express","publisher":"Japan Society of Applied Physics","title":"Erratum: “Band gap tuning of Ni1−xMgxO films by radio-frequency sputter deposition for deep-ultraviolet photodetectors”"}
+{
+  "retracted": false,
+  "timestamp": 1454371200000,
+  "updates": [
+    {
+      "timestamp": 1495641919044,
+      "identifier": {
+        "doi": "10.7567/apex.9.039201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.7567/apex.8.105801"
+  },
+  "journal": "Applied Physics Express",
+  "publisher": "Japan Society of Applied Physics",
+  "title": "Erratum: “Band gap tuning of Ni1−xMgxO films by radio-frequency sputter deposition for deep-ultraviolet photodetectors”"
+}

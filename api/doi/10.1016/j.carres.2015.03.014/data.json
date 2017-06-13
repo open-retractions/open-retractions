@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482278400000,"doi":"10.1016/j.carres.2016.11.014","type":"erratum"},"doi":"10.1016/j.carres.2015.03.014","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “Structures and gene clusters of the closely related O-antigens of Escherichia coli O46 and O134, both containing d-glucuronoyl-d-allothreonine” [Carbohydr. Res. 409 (2015) 20–24]"}
+{
+  "retracted": false,
+  "timestamp": 1482278400000,
+  "updates": [
+    {
+      "timestamp": 1495658840058,
+      "identifier": {
+        "doi": "10.1016/j.carres.2016.11.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2015.03.014"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structures and gene clusters of the closely related O-antigens of Escherichia coli O46 and O134, both containing d-glucuronoyl-d-allothreonine” [Carbohydr. Res. 409 (2015) 20–24]"
+}

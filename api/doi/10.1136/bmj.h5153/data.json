@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446163200000,"doi":"10.1136/bmj.h5849","type":"correction"},"doi":"10.1136/bmj.h5153","journal":"BMJ","publisher":"BMJ","title":"Acute coronary syndromes"}
+{
+  "retracted": false,
+  "timestamp": 1446163200000,
+  "updates": [
+    {
+      "timestamp": 1496043094647,
+      "identifier": {
+        "doi": "10.1136/bmj.h5849"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h5153"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Acute coronary syndromes"
+}

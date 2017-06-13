@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.na.2016.10.021","type":"err"},"doi":"10.1016/j.na.2016.06.004","journal":"Nonlinear Analysis: Theory, Methods & Applications","publisher":"Elsevier BV","title":"Corrigendum to “From Arzelà-Ascoli to Riesz–Kolmogorov” [Nonlinear Anal. 144 (2016) 23–31]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495654798646,
+      "identifier": {
+        "doi": "10.1016/j.na.2016.10.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.na.2016.06.004"
+  },
+  "journal": "Nonlinear Analysis: Theory, Methods & Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “From Arzelà-Ascoli to Riesz–Kolmogorov” [Nonlinear Anal. 144 (2016) 23–31]"
+}

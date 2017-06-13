@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433203200000,"doi":"10.1016/j.neulet.2015.01.050","type":"err"},"doi":"10.1016/j.neulet.2014.10.014","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Chemotherapy-induced peripheral neuropathy: What do we know about mechanisms?” [Neuroscience Letters 596 (2015) 90–107]"}
+{
+  "retracted": false,
+  "timestamp": 1433203200000,
+  "updates": [
+    {
+      "timestamp": 1496038420444,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2015.01.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2014.10.014"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Chemotherapy-induced peripheral neuropathy: What do we know about mechanisms?” [Neuroscience Letters 596 (2015) 90–107]"
+}

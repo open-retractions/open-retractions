@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429488000000,"doi":"10.1016/j.aquaculture.2014.11.021","type":"err"},"doi":"10.1016/j.aquaculture.2013.09.019","journal":"Aquaculture","publisher":"Elsevier BV","title":"Erratum to “Description of three novel Flavobacterium species: Flavobacterium collinsii sp. nov., Flavobacterium branchiarumsp. nov., and Flavobacterium branchiicola sp. nov.“[Aquaculture 416–417 (2013) 346–353]"}
+{
+  "retracted": false,
+  "timestamp": 1429488000000,
+  "updates": [
+    {
+      "timestamp": 1496043479871,
+      "identifier": {
+        "doi": "10.1016/j.aquaculture.2014.11.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquaculture.2013.09.019"
+  },
+  "journal": "Aquaculture",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Description of three novel Flavobacterium species: Flavobacterium collinsii sp. nov., Flavobacterium branchiarumsp. nov., and Flavobacterium branchiicola sp. nov.“[Aquaculture 416–417 (2013) 346–353]"
+}

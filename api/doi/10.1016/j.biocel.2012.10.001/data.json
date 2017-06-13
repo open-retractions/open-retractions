@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.biocel.2015.12.013","type":"err"},"doi":"10.1016/j.biocel.2012.10.001","journal":"The International Journal of Biochemistry & Cell Biology","publisher":"Elsevier BV","title":"Corrigendum to “HSP70 increases extracellular matrix production by human vascular smooth muscle through TGF-β1 up-regulation” [Int. J. Biochem. Cell Biol. 45 (2013) 232–242]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496058174633,
+      "identifier": {
+        "doi": "10.1016/j.biocel.2015.12.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocel.2012.10.001"
+  },
+  "journal": "The International Journal of Biochemistry & Cell Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “HSP70 increases extracellular matrix production by human vascular smooth muscle through TGF-β1 up-regulation” [Int. J. Biochem. Cell Biol. 45 (2013) 232–242]"
+}

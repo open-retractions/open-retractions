@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1007/s00170-016-9544-x","type":"correction"},"doi":"10.1007/s00170-016-9223-y","journal":"The International Journal of Advanced Manufacturing Technology","publisher":"Springer Nature","title":"Erratum to: Note to: a mathematical model and ant colony algorithm for multi-manned assembly line balancing problem"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1497305406687,
+      "identifier": {
+        "doi": "10.1007/s00170-016-9544-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00170-016-9223-y"
+  },
+  "journal": "The International Journal of Advanced Manufacturing Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Note to: a mathematical model and ant colony algorithm for multi-manned assembly line balancing problem"
+}

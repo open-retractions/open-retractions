@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.robot.2014.10.015","type":"err"},"doi":"10.1016/j.robot.2014.07.009","journal":"Robotics and Autonomous Systems","publisher":"Elsevier BV","title":"Corrigendum to “3D face recognition: An automatic strategy based on geometrical descriptors and landmarks” [Robot. Auton. Syst. 62 (12) (2014) 1768–1776]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496022823129,
+      "identifier": {
+        "doi": "10.1016/j.robot.2014.10.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.robot.2014.07.009"
+  },
+  "journal": "Robotics and Autonomous Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “3D face recognition: An automatic strategy based on geometrical descriptors and landmarks” [Robot. Auton. Syst. 62 (12) (2014) 1768–1776]"
+}

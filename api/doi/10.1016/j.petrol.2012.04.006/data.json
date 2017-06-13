@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.petrol.2013.07.002","type":"err"},"doi":"10.1016/j.petrol.2012.04.006","journal":"Journal of Petroleum Science and Engineering","publisher":"Elsevier BV","title":"Retraction notice to: “Pressure transient analysis for multi-fractured horizontal well in shale gas reservoirs” [J. Pet. Sci. Eng. 90–91 (2012) 31–38]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496035234463,
+      "identifier": {
+        "doi": "10.1016/j.petrol.2013.07.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.petrol.2012.04.006"
+  },
+  "journal": "Journal of Petroleum Science and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “Pressure transient analysis for multi-fractured horizontal well in shale gas reservoirs” [J. Pet. Sci. Eng. 90–91 (2012) 31–38]"
+}

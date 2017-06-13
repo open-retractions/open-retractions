@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1016/j.jep.2014.11.044","type":"err"},"doi":"10.1016/j.jep.2014.02.010","journal":"Journal of Ethnopharmacology","publisher":"Elsevier BV","title":"Corrigendum to: “Baicalein, an active component of Scutellaria baicalensis, protects against lipopolysaccharide-induced acute lung injury in rats” [Journal of Ethnopharmacology 153 (1), (2014) 197–206]"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496027258448,
+      "identifier": {
+        "doi": "10.1016/j.jep.2014.11.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jep.2014.02.010"
+  },
+  "journal": "Journal of Ethnopharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Baicalein, an active component of Scutellaria baicalensis, protects against lipopolysaccharide-induced acute lung injury in rats” [Journal of Ethnopharmacology 153 (1), (2014) 197–206]"
+}

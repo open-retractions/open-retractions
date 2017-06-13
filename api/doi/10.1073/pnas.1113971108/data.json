@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1318896000000,"doi":"10.1073/pnas.1120302109","type":"correction"},"doi":"10.1073/pnas.1113971108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chuck et al., Overexpression of the maize Corngrass1 microRNA prevents flowering, improves digestibility, and increases starch content of switchgrass"}
+{
+  "retracted": false,
+  "timestamp": 1318896000000,
+  "updates": [
+    {
+      "timestamp": 1495851858847,
+      "identifier": {
+        "doi": "10.1073/pnas.1120302109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1113971108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chuck et al., Overexpression of the maize Corngrass1 microRNA prevents flowering, improves digestibility, and increases starch content of switchgrass"
+}

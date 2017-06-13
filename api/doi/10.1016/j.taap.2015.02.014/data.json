@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.taap.2015.07.021","type":"err"},"doi":"10.1016/j.taap.2015.02.014","journal":"Toxicology and Applied Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to Combination effects of AHR agonists and Wnt/β-catenin modulators in zebrafish embryos: Implications for physiological and toxicological AHR functions [Toxicol. Appl. Pharmacol. (2015) 163–179]"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496019758255,
+      "identifier": {
+        "doi": "10.1016/j.taap.2015.07.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.taap.2015.02.014"
+  },
+  "journal": "Toxicology and Applied Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Combination effects of AHR agonists and Wnt/β-catenin modulators in zebrafish embryos: Implications for physiological and toxicological AHR functions [Toxicol. Appl. Pharmacol. (2015) 163–179]"
+}

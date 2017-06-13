@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1063/1.4934358","type":"correction"},"doi":"10.1063/1.4893424","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Average local ionization energy generalized to correlated wavefunctions” [J. Chem. Phys. 141, 084107 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496038247639,
+      "identifier": {
+        "doi": "10.1063/1.4934358"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4893424"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Average local ionization energy generalized to correlated wavefunctions” [J. Chem. Phys. 141, 084107 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.1186/s12864-016-3220-2","type":"correction"},"doi":"10.1186/s12864-016-3081-8","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Exome genotyping, linkage disequilibrium and population structure in loblolly pine (Pinus taeda L.)"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495654096359,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3220-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-3081-8"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Exome genotyping, linkage disequilibrium and population structure in loblolly pine (Pinus taeda L.)"
+}

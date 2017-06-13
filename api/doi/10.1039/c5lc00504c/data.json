@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438214400000,"doi":"10.1039/c5lc90090e","type":"correction"},"doi":"10.1039/c5lc00504c","journal":"Lab Chip","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Microfluidic pumping, routing and metering by contactless metal-based electro-osmosis"}
+{
+  "retracted": false,
+  "timestamp": 1438214400000,
+  "updates": [
+    {
+      "timestamp": 1496019068389,
+      "identifier": {
+        "doi": "10.1039/c5lc90090e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5lc00504c"
+  },
+  "journal": "Lab Chip",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Microfluidic pumping, routing and metering by contactless metal-based electro-osmosis"
+}

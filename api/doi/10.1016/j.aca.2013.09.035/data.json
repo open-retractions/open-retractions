@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443052800000,"doi":"10.1016/j.aca.2015.08.039","type":"err"},"doi":"10.1016/j.aca.2013.09.035","journal":"Analytica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to: “Collision induced dissociation study of ester-based polyurethane fragmentation reactions” Anal. Chim. Acta 808 (2014) 199–219"}
+{
+  "retracted": false,
+  "timestamp": 1443052800000,
+  "updates": [
+    {
+      "timestamp": 1496028336582,
+      "identifier": {
+        "doi": "10.1016/j.aca.2015.08.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aca.2013.09.035"
+  },
+  "journal": "Analytica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Collision induced dissociation study of ester-based polyurethane fragmentation reactions” Anal. Chim. Acta 808 (2014) 199–219"
+}

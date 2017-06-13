@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469232000000,"doi":"10.1007/s10686-016-9504-3","type":"correction"},"doi":"10.1007/s10686-016-9492-3","journal":"Experimental Astronomy","publisher":"Springer Nature","title":"Erratum to: High precision radial velocities with GIANO spectra"}
+{
+  "retracted": false,
+  "timestamp": 1469232000000,
+  "updates": [
+    {
+      "timestamp": 1495727957384,
+      "identifier": {
+        "doi": "10.1007/s10686-016-9504-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10686-016-9492-3"
+  },
+  "journal": "Experimental Astronomy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: High precision radial velocities with GIANO spectra"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388620800000,"doi":"10.1371/annotation/f10a686b-b6e2-4630-8c6f-7a91191ae732","type":"correction"},"doi":"10.1371/journal.pone.0080104","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Hearing Loss in a Mouse Model of 22q11.2 Deletion Syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1388620800000,
+  "updates": [
+    {
+      "timestamp": 1496008814712,
+      "identifier": {
+        "doi": "10.1371/annotation/f10a686b-b6e2-4630-8c6f-7a91191ae732"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0080104"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hearing Loss in a Mouse Model of 22q11.2 Deletion Syndrome"
+}

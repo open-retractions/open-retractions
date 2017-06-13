@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362096000000,"doi":"10.1371/annotation/0b01096f-01ab-4063-a15f-357dff5c0270","type":"correction"},"doi":"10.1371/journal.pone.0046328","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Protein Folding Modulates the Swapped Dimerization Mechanism of Methyl-Accepting Chemotaxis Heme Sensors"}
+{
+  "retracted": false,
+  "timestamp": 1362096000000,
+  "updates": [
+    {
+      "timestamp": 1496002816234,
+      "identifier": {
+        "doi": "10.1371/annotation/0b01096f-01ab-4063-a15f-357dff5c0270"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0046328"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Protein Folding Modulates the Swapped Dimerization Mechanism of Methyl-Accepting Chemotaxis Heme Sensors"
+}

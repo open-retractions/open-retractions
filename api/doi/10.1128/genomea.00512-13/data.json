@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1128/genomea.00634-16","type":"correction"},"doi":"10.1128/genomea.00512-13","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Correction for Rimbara et al., Draft Genome Sequence ofHelicobacter fennelliaeStrain MRY12-0050, Isolated from a Bacteremia Patient"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495731146287,
+      "identifier": {
+        "doi": "10.1128/genomea.00634-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00512-13"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Rimbara et al., Draft Genome Sequence ofHelicobacter fennelliaeStrain MRY12-0050, Isolated from a Bacteremia Patient"
+}

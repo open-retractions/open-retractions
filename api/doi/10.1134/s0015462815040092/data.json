@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445558400000,"doi":"10.1134/s0015462815050142","type":"correction"},"doi":"10.1134/s0015462815040092","journal":"Fluid Dynamics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “a variational principle for problems of steady-state ground water flow with a free surface” [Fluid Dynamics 50, 543 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1445558400000,
+  "updates": [
+    {
+      "timestamp": 1496038014163,
+      "identifier": {
+        "doi": "10.1134/s0015462815050142"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0015462815040092"
+  },
+  "journal": "Fluid Dynamics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “a variational principle for problems of steady-state ground water flow with a free surface” [Fluid Dynamics 50, 543 (2015)]"
+}

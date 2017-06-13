@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490745600000,"doi":"10.1007/s12614-017-6757-9","type":"correction"},"doi":"10.1007/s12614-016-6265-3","journal":"Der Freie Zahnarzt","publisher":"Springer Nature","title":"Erratum zu: Unerwünschte Arzneimittelreaktionen in der Mundschleimhaut"}
+{
+  "retracted": false,
+  "timestamp": 1490745600000,
+  "updates": [
+    {
+      "timestamp": 1495733443881,
+      "identifier": {
+        "doi": "10.1007/s12614-017-6757-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12614-016-6265-3"
+  },
+  "journal": "Der Freie Zahnarzt",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Unerwünschte Arzneimittelreaktionen in der Mundschleimhaut"
+}

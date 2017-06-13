@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.yrtph.2015.01.003","type":"err"},"doi":"10.1016/j.yrtph.2014.06.010","journal":"Regulatory Toxicology and Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Safety evaluation of phytase 50104 enzyme preparation (also known as VR003), expressed in Pseudomonas fluorescens, intended for increasing digestibility of phytate in monogastrics” [Regul. Toxicol. Pharmacol. 70(2) (2014) 545–554]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496034899408,
+      "identifier": {
+        "doi": "10.1016/j.yrtph.2015.01.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yrtph.2014.06.010"
+  },
+  "journal": "Regulatory Toxicology and Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Safety evaluation of phytase 50104 enzyme preparation (also known as VR003), expressed in Pseudomonas fluorescens, intended for increasing digestibility of phytate in monogastrics” [Regul. Toxicol. Pharmacol. 70(2) (2014) 545–554]"
+}

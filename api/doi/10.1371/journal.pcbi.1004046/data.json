@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429056000000,"doi":"10.1371/journal.pcbi.1004243","type":"correction"},"doi":"10.1371/journal.pcbi.1004046","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Data-Driven Prediction and Design of bZIP Coiled-Coil Interactions"}
+{
+  "retracted": false,
+  "timestamp": 1429056000000,
+  "updates": [
+    {
+      "timestamp": 1496057954438,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004243"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004046"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Data-Driven Prediction and Design of bZIP Coiled-Coil Interactions"
+}

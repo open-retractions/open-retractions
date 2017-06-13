@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468454400000,"doi":"10.1134/s1063772916070040","type":"correction"},"doi":"10.1134/s1063772915120094","journal":"Astronomy Reports","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “The Force Function of Two Rigid Celestial Bodies in Delaunay–Andoyer Variables”"}
+{
+  "retracted": false,
+  "timestamp": 1468454400000,
+  "updates": [
+    {
+      "timestamp": 1495728269307,
+      "identifier": {
+        "doi": "10.1134/s1063772916070040"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063772915120094"
+  },
+  "journal": "Astronomy Reports",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “The Force Function of Two Rigid Celestial Bodies in Delaunay–Andoyer Variables”"
+}

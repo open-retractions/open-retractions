@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1007/s13105-016-0475-7","type":"correction"},"doi":"10.1007/s13105-015-0459-z","journal":"Journal of Physiology and Biochemistry","publisher":"Springer Nature","title":"Erratum to: MicroRNAs involved in the browning process of adipocytes"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495655678377,
+      "identifier": {
+        "doi": "10.1007/s13105-016-0475-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13105-015-0459-z"
+  },
+  "journal": "Journal of Physiology and Biochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: MicroRNAs involved in the browning process of adipocytes"
+}

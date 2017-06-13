@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.fsigen.2013.08.004","type":"err"},"doi":"10.1016/j.fsigen.2013.05.013","journal":"Forensic Science International: Genetics","publisher":"Elsevier BV","title":"Erratum to “High resolution mapping of Y haplogroup G in Tyrol (Austria)” [Forensic Sci. Int. Genet. 7 (2013) 529–536]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496043336835,
+      "identifier": {
+        "doi": "10.1016/j.fsigen.2013.08.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsigen.2013.05.013"
+  },
+  "journal": "Forensic Science International: Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “High resolution mapping of Y haplogroup G in Tyrol (Austria)” [Forensic Sci. Int. Genet. 7 (2013) 529–536]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1007/s11207-016-1042-7","type":"correction"},"doi":"10.1007/s11207-016-1023-x","journal":"Solar Physics","publisher":"Springer Nature","title":"Erratum to: A Recount of Sunspot Groups on Staudach’s Drawings"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495664685946,
+      "identifier": {
+        "doi": "10.1007/s11207-016-1042-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11207-016-1023-x"
+  },
+  "journal": "Solar Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Recount of Sunspot Groups on Staudach’s Drawings"
+}

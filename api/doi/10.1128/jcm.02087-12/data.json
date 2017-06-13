@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1128/jcm.03173-15","type":"correction"},"doi":"10.1128/jcm.02087-12","journal":"Journal of Clinical Microbiology","publisher":"American Society for Microbiology","title":"Correction for Ferreira et al., A Novel Method for Genotyping the Helicobacter pylorivacAIntermediate Region Directly in Gastric Biopsy Specimens"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495640708238,
+      "identifier": {
+        "doi": "10.1128/jcm.03173-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/jcm.02087-12"
+  },
+  "journal": "Journal of Clinical Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Ferreira et al., A Novel Method for Genotyping the Helicobacter pylorivacAIntermediate Region Directly in Gastric Biopsy Specimens"
+}

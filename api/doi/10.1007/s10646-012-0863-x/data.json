@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333411200000,"doi":"10.1007/s10646-012-0890-7","type":"correction"},"doi":"10.1007/s10646-012-0863-x","journal":"Ecotoxicology","publisher":"Springer Nature","title":"Erratum to: Neonicotinoids in bees: a review on concentrations, side-effects and risk assessment"}
+{
+  "retracted": false,
+  "timestamp": 1333411200000,
+  "updates": [
+    {
+      "timestamp": 1495889006094,
+      "identifier": {
+        "doi": "10.1007/s10646-012-0890-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10646-012-0863-x"
+  },
+  "journal": "Ecotoxicology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Neonicotinoids in bees: a review on concentrations, side-effects and risk assessment"
+}

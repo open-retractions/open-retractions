@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477094400000,"doi":"10.1134/s1063776116140016","type":"correction"},"doi":"10.1134/s1063776116070037","journal":"Journal of Experimental and Theoretical Physics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Pais approximation for slow scattered and resonant particles”"}
+{
+  "retracted": false,
+  "timestamp": 1477094400000,
+  "updates": [
+    {
+      "timestamp": 1495649989103,
+      "identifier": {
+        "doi": "10.1134/s1063776116140016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1063776116070037"
+  },
+  "journal": "Journal of Experimental and Theoretical Physics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Pais approximation for slow scattered and resonant particles”"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1007/s00415-015-7882-5","type":"correction"},"doi":"10.1007/s00415-014-7299-6","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Validation of the questionnaire for impulsive-compulsive disorders in Parkinson’s disease (QUIP) and the QUIP-rating scale in a German speaking sample"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027067828,
+      "identifier": {
+        "doi": "10.1007/s00415-015-7882-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-014-7299-6"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Validation of the questionnaire for impulsive-compulsive disorders in Parkinson’s disease (QUIP) and the QUIP-rating scale in a German speaking sample"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226361600000,"doi":"10.1073/pnas.0811812106","type":"correction"},"doi":"10.1073/pnas.0809581105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sugi et al., Direct demonstration of the cross-bridge recovery stroke in muscle thick filaments in aqueous solution by using the hydration chamber"}
+{
+  "retracted": false,
+  "timestamp": 1226361600000,
+  "updates": [
+    {
+      "timestamp": 1495911986641,
+      "identifier": {
+        "doi": "10.1073/pnas.0811812106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0809581105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sugi et al., Direct demonstration of the cross-bridge recovery stroke in muscle thick filaments in aqueous solution by using the hydration chamber"
+}

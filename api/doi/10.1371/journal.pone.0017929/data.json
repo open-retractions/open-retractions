@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1347321600000,"doi":"10.1371/annotation/b387ee8b-c672-4c19-9871-e5a4f6a59f57","type":"correction"},"doi":"10.1371/journal.pone.0017929","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Activation of Src Mediates PDGF-Induced Smad1 Phosphorylation and Contributes to the Progression of Glomerulosclerosis in Glomerulonephritis"}
+{
+  "retracted": false,
+  "timestamp": 1347321600000,
+  "updates": [
+    {
+      "timestamp": 1495929450937,
+      "identifier": {
+        "doi": "10.1371/annotation/b387ee8b-c672-4c19-9871-e5a4f6a59f57"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017929"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Activation of Src Mediates PDGF-Induced Smad1 Phosphorylation and Contributes to the Progression of Glomerulosclerosis in Glomerulonephritis"
+}

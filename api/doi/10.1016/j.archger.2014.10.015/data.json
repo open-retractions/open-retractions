@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.archger.2015.05.012","type":"err"},"doi":"10.1016/j.archger.2014.10.015","journal":"Archives of Gerontology and Geriatrics","publisher":"Elsevier BV","title":"Corrigendum to “Association between subjective memory complaints and impaired higher-level functional capacity in people aged 60 years or older” [Arch. Gerontol. Geriatr. (2015) 201–205]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496004324683,
+      "identifier": {
+        "doi": "10.1016/j.archger.2015.05.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.archger.2014.10.015"
+  },
+  "journal": "Archives of Gerontology and Geriatrics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Association between subjective memory complaints and impaired higher-level functional capacity in people aged 60 years or older” [Arch. Gerontol. Geriatr. (2015) 201–205]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339718400000,"doi":"10.1371/annotation/4a80d65a-35f9-4944-9254-4f8c566978f4","type":"correction"},"doi":"10.1371/journal.pone.0037906","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Yin and Yang of Yeast Transcription: Elements of a Global Feedback System between Metabolism and Chromatin"}
+{
+  "retracted": false,
+  "timestamp": 1339718400000,
+  "updates": [
+    {
+      "timestamp": 1495897263893,
+      "identifier": {
+        "doi": "10.1371/annotation/4a80d65a-35f9-4944-9254-4f8c566978f4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0037906"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Yin and Yang of Yeast Transcription: Elements of a Global Feedback System between Metabolism and Chromatin"
+}

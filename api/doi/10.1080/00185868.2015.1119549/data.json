@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466121600000,"doi":"10.1080/00185868.2016.1169739","type":"correction"},"doi":"10.1080/00185868.2015.1119549","journal":"Hospital Topics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1466121600000,
+  "updates": [
+    {
+      "timestamp": 1495721330952,
+      "identifier": {
+        "doi": "10.1080/00185868.2016.1169739"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00185868.2015.1119549"
+  },
+  "journal": "Hospital Topics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

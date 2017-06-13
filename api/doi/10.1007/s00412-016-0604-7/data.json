@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481760000000,"doi":"10.1007/s00412-016-0623-4","type":"correction"},"doi":"10.1007/s00412-016-0604-7","journal":"Chromosoma","publisher":"Springer Nature","title":"Erratum to: 3D genomics imposes evolution of the domain model of eukaryotic genome organization"}
+{
+  "retracted": false,
+  "timestamp": 1481760000000,
+  "updates": [
+    {
+      "timestamp": 1495667256618,
+      "identifier": {
+        "doi": "10.1007/s00412-016-0623-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00412-016-0604-7"
+  },
+  "journal": "Chromosoma",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: 3D genomics imposes evolution of the domain model of eukaryotic genome organization"
+}

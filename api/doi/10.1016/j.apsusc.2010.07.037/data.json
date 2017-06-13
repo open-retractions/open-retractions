@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.apsusc.2014.03.001","type":"err"},"doi":"10.1016/j.apsusc.2010.07.037","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Retraction notice to “Effect of hydrogenation vs. re-heating on intrinsic magnetization of Co doped In2O3” [Appl. Surf. Sci. 257 (2) (2010) 585–590]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496027271710,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2014.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2010.07.037"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Effect of hydrogenation vs. re-heating on intrinsic magnetization of Co doped In2O3” [Appl. Surf. Sci. 257 (2) (2010) 585–590]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.bmc.2015.04.042","type":"erratum"},"doi":"10.1016/j.bmc.2014.08.034","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Design, synthesis, and structure–activity relationships of a series of novel N-aryl-2-phenylcyclopropanecarboxamide that are potent and orally active orexin receptor antagonists” [Bioorg. Med. Chem. 22 (2014) 6071–6088]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495994761425,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.04.042"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2014.08.034"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Design, synthesis, and structure–activity relationships of a series of novel N-aryl-2-phenylcyclopropanecarboxamide that are potent and orally active orexin receptor antagonists” [Bioorg. Med. Chem. 22 (2014) 6071–6088]"
+}

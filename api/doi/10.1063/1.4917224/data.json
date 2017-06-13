@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460937600000,"doi":"10.1063/1.4947197","type":"correction"},"doi":"10.1063/1.4917224","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Electroluminescence from metal-oxide-semiconductor devices with erbium-doped CeO2 films on silicon” [Appl. Phys. Lett. 106, 141102 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1460937600000,
+  "updates": [
+    {
+      "timestamp": 1495667338211,
+      "identifier": {
+        "doi": "10.1063/1.4947197"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4917224"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electroluminescence from metal-oxide-semiconductor devices with erbium-doped CeO2 films on silicon” [Appl. Phys. Lett. 106, 141102 (2015)]"
+}

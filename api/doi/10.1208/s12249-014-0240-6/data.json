@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426723200000,"doi":"10.1208/s12249-015-0319-8","type":"correction"},"doi":"10.1208/s12249-014-0240-6","journal":"AAPS PharmSciTech","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Potential of Piperazinylalkylester Prodrugs of 6-Methoxy-2-Naphthylacetic Acid (6-MNA) for Percutaneous Drug Delivery"}
+{
+  "retracted": false,
+  "timestamp": 1426723200000,
+  "updates": [
+    {
+      "timestamp": 1496051818962,
+      "identifier": {
+        "doi": "10.1208/s12249-015-0319-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12249-014-0240-6"
+  },
+  "journal": "AAPS PharmSciTech",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Potential of Piperazinylalkylester Prodrugs of 6-Methoxy-2-Naphthylacetic Acid (6-MNA) for Percutaneous Drug Delivery"
+}

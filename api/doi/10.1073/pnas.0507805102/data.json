@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1184630400000,"doi":"10.1073/pnas.0705164104","type":"correction"},"doi":"10.1073/pnas.0507805102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zangerl and Berenbaum, Increase in toxicity of an invasive weed after reassociation with its coevolved herbivore"}
+{
+  "retracted": false,
+  "timestamp": 1184630400000,
+  "updates": [
+    {
+      "timestamp": 1495969221667,
+      "identifier": {
+        "doi": "10.1073/pnas.0705164104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0507805102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zangerl and Berenbaum, Increase in toxicity of an invasive weed after reassociation with its coevolved herbivore"
+}

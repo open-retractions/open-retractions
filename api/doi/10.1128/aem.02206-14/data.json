@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1128/aem.01390-16","type":"correction"},"doi":"10.1128/aem.02206-14","journal":"Applied and Environmental Microbiology","publisher":"American Society for Microbiology","title":"Erratum for Salipante et al., Performance Comparison of Illumina and Ion Torrent Next-Generation Sequencing Platforms for 16S rRNA-Based Bacterial Community Profiling"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495723832883,
+      "identifier": {
+        "doi": "10.1128/aem.01390-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aem.02206-14"
+  },
+  "journal": "Applied and Environmental Microbiology",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Salipante et al., Performance Comparison of Illumina and Ion Torrent Next-Generation Sequencing Platforms for 16S rRNA-Based Bacterial Community Profiling"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jqsrt.2014.10.014","type":"err"},"doi":"10.1016/j.jqsrt.2014.04.011","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Corrigendum to “Technical notes: A detailed study for the provision of measurement uncertainty and traceability for goniospectrometers” [J. Quant. Spectrosc. Radiat. Transf. 146 (2014) 376–390]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496018028595,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2014.10.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2014.04.011"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Technical notes: A detailed study for the provision of measurement uncertainty and traceability for goniospectrometers” [J. Quant. Spectrosc. Radiat. Transf. 146 (2014) 376–390]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.jafrearsci.2013.02.010","type":"err"},"doi":"10.1016/j.jafrearsci.2012.11.001","journal":"Journal of African Earth Sciences","publisher":"Elsevier BV","title":"Erratum to “Hydrogeochemical and vertical electrical soundings for groundwater investigations, Burg El-Arab area, Northwestern Coast of Egypt” [J. African Earth Sci. 80C (2013) 8–20]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496012881535,
+      "identifier": {
+        "doi": "10.1016/j.jafrearsci.2013.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jafrearsci.2012.11.001"
+  },
+  "journal": "Journal of African Earth Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Hydrogeochemical and vertical electrical soundings for groundwater investigations, Burg El-Arab area, Northwestern Coast of Egypt” [J. African Earth Sci. 80C (2013) 8–20]"
+}

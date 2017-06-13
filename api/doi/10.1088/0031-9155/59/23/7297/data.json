@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420588800000,"doi":"10.1088/0031-9155/60/2/929","type":"correction"},"doi":"10.1088/0031-9155/59/23/7297","journal":"Physics in Medicine and Biology","publisher":"IOP Publishing","title":"Corrigendum: Absorbed dose measurements for kV-cone beam computed tomography in image-guided radiation therapy (Phys. Med. Biol. 59 7297)"}
+{
+  "retracted": false,
+  "timestamp": 1420588800000,
+  "updates": [
+    {
+      "timestamp": 1496035114668,
+      "identifier": {
+        "doi": "10.1088/0031-9155/60/2/929"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0031-9155/59/23/7297"
+  },
+  "journal": "Physics in Medicine and Biology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Absorbed dose measurements for kV-cone beam computed tomography in image-guided radiation therapy (Phys. Med. Biol. 59 7297)"
+}

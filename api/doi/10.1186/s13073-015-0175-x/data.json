@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1186/s13073-015-0193-8","type":"correction"},"doi":"10.1186/s13073-015-0175-x","journal":"Genome Medicine","publisher":"Springer Nature","title":"Erratum to: The future of genomic medicine education in Africa"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496015351112,
+      "identifier": {
+        "doi": "10.1186/s13073-015-0193-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13073-015-0175-x"
+  },
+  "journal": "Genome Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The future of genomic medicine education in Africa"
+}

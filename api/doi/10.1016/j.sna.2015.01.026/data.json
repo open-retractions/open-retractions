@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.sna.2015.04.007","type":"err"},"doi":"10.1016/j.sna.2015.01.026","journal":"Sensors and Actuators A: Physical","publisher":"Elsevier BV","title":"Corrigendum to “Evolution of micromachined pressure transducers for cardiovascular applications” [Sens. Actuators A 225 (2015) 8–19]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495996315221,
+      "identifier": {
+        "doi": "10.1016/j.sna.2015.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sna.2015.01.026"
+  },
+  "journal": "Sensors and Actuators A: Physical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evolution of micromachined pressure transducers for cardiovascular applications” [Sens. Actuators A 225 (2015) 8–19]"
+}

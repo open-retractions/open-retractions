@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1631/jzus.c13e0320","type":"correction"},"doi":"10.1631/jzus.c1300320","journal":"Journal of Zhejiang University SCIENCE C","publisher":"Zhejiang University Press","title":"Erratum to: Fast global kernel fuzzy c-means clustering algorithm for consonant/vowel segmentation of speech signal"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496021341773,
+      "identifier": {
+        "doi": "10.1631/jzus.c13e0320"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1631/jzus.c1300320"
+  },
+  "journal": "Journal of Zhejiang University SCIENCE C",
+  "publisher": "Zhejiang University Press",
+  "title": "Erratum to: Fast global kernel fuzzy c-means clustering algorithm for consonant/vowel segmentation of speech signal"
+}

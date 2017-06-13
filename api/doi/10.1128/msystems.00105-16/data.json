@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493078400000,"doi":"10.1128/msystems.00023-17","type":"correction"},"doi":"10.1128/msystems.00105-16","journal":"mSystems","publisher":"American Society for Microbiology","title":"Correction for Gonzalez et al., “Migraines Are Correlated with Higher Levels of Nitrate-, Nitrite-, and Nitric Oxide-Reducing Oral Microbes in the American Gut Project Cohort”"}
+{
+  "retracted": false,
+  "timestamp": 1493078400000,
+  "updates": [
+    {
+      "timestamp": 1495738622745,
+      "identifier": {
+        "doi": "10.1128/msystems.00023-17"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/msystems.00105-16"
+  },
+  "journal": "mSystems",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Gonzalez et al., “Migraines Are Correlated with Higher Levels of Nitrate-, Nitrite-, and Nitric Oxide-Reducing Oral Microbes in the American Gut Project Cohort”"
+}

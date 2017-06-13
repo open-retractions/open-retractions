@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1355270400000,"doi":"10.1371/annotation/5c169544-7d19-40db-9a58-28b2fdf2c82c","type":"correction"},"doi":"10.1371/journal.ppat.1003052","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Unique Biofilm Signature, Drug Susceptibility and Decreased Virulence in Drosophila through the Pseudomonas aeruginosa Two-Component System PprAB"}
+{
+  "retracted": false,
+  "timestamp": 1355270400000,
+  "updates": [
+    {
+      "timestamp": 1495987312734,
+      "identifier": {
+        "doi": "10.1371/annotation/5c169544-7d19-40db-9a58-28b2fdf2c82c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1003052"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Unique Biofilm Signature, Drug Susceptibility and Decreased Virulence in Drosophila through the Pseudomonas aeruginosa Two-Component System PprAB"
+}

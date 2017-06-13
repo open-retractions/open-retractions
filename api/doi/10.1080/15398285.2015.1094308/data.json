@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489104000000,"doi":"10.1080/15398285.2016.1253361","type":"correction"},"doi":"10.1080/15398285.2015.1094308","journal":"Journal of Consumer Health on the Internet","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1489104000000,
+  "updates": [
+    {
+      "timestamp": 1495728120177,
+      "identifier": {
+        "doi": "10.1080/15398285.2016.1253361"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15398285.2015.1094308"
+  },
+  "journal": "Journal of Consumer Health on the Internet",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

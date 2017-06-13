@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454976000000,"doi":"10.1186/s13100-016-0060-1","type":"correction"},"doi":"10.1186/s13100-015-0053-5","journal":"Mobile DNA","publisher":"Springer Nature","title":"Erratum to: ribosomal protein and biogenesis factors affect multiple steps during movement of the Saccharomyces cerevisiae Ty1 retrotransposon"}
+{
+  "retracted": false,
+  "timestamp": 1454976000000,
+  "updates": [
+    {
+      "timestamp": 1495643270752,
+      "identifier": {
+        "doi": "10.1186/s13100-016-0060-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13100-015-0053-5"
+  },
+  "journal": "Mobile DNA",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ribosomal protein and biogenesis factors affect multiple steps during movement of the Saccharomyces cerevisiae Ty1 retrotransposon"
+}

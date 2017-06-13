@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.encep.2014.06.007","type":"err"},"doi":"10.1016/s0013-7006(10)70017-8","journal":"L'Encéphale","publisher":"Elsevier BV","title":"Erratum à « Risque suicidaire et tentative de suicide en Nord-Pas de Calais. Enseignements de l’enquête santé mentale en population générale » [Encéphale 36 (3 suppl. 1) (2010) 39–57]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1495999411399,
+      "identifier": {
+        "doi": "10.1016/j.encep.2014.06.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0013-7006(10)70017-8"
+  },
+  "journal": "L'Encéphale",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à « Risque suicidaire et tentative de suicide en Nord-Pas de Calais. Enseignements de l’enquête santé mentale en population générale » [Encéphale 36 (3 suppl. 1) (2010) 39–57]"
+}

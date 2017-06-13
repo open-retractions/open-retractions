@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477526400000,"doi":"10.1128/genomea.01018-16","type":"correction"},"doi":"10.1128/genomea.00610-16","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Dalmasso et al., Complete Genome Sequence of the Hyperthermophilic and Piezophilic ArchaeonThermococcus piezophilusCDGST, Able To Grow under Extreme Hydrostatic Pressures"}
+{
+  "retracted": false,
+  "timestamp": 1477526400000,
+  "updates": [
+    {
+      "timestamp": 1495640199334,
+      "identifier": {
+        "doi": "10.1128/genomea.01018-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00610-16"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Dalmasso et al., Complete Genome Sequence of the Hyperthermophilic and Piezophilic ArchaeonThermococcus piezophilusCDGST, Able To Grow under Extreme Hydrostatic Pressures"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486944000000,"doi":"10.1080/00049182.2016.1270265","type":"correction"},"doi":"10.1080/00049182.2016.1256750","journal":"Australian Geographer","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1486944000000,
+  "updates": [
+    {
+      "timestamp": 1495720287799,
+      "identifier": {
+        "doi": "10.1080/00049182.2016.1270265"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00049182.2016.1256750"
+  },
+  "journal": "Australian Geographer",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

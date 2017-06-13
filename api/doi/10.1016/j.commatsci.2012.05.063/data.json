@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.commatsci.2014.06.029","type":"err"},"doi":"10.1016/j.commatsci.2012.05.063","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Comparison of spherical and cubical statistical volume elements with respect to convergence, anisotropy and localization behavior” [Comput. Mater. Sci. 63 (2012) 91–104]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496052205481,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2014.06.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2012.05.063"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Comparison of spherical and cubical statistical volume elements with respect to convergence, anisotropy and localization behavior” [Comput. Mater. Sci. 63 (2012) 91–104]"
+}

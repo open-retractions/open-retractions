@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jsg.2013.09.007","type":"err"},"doi":"10.1016/j.jsg.2013.06.012","journal":"Journal of Structural Geology","publisher":"Elsevier BV","title":"Erratum to “3D seismic analysis of the structure and evolution of a salt-influenced normal fault zone: A test of competing fault growth models” [J. Struct. Geol. 54 (2013) 215–234]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496052961045,
+      "identifier": {
+        "doi": "10.1016/j.jsg.2013.09.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsg.2013.06.012"
+  },
+  "journal": "Journal of Structural Geology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “3D seismic analysis of the structure and evolution of a salt-influenced normal fault zone: A test of competing fault growth models” [J. Struct. Geol. 54 (2013) 215–234]"
+}

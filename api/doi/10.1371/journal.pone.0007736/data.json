@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1278892800000,"doi":"10.1371/annotation/a15728ad-c776-49e4-b39d-bb134c16345c","type":"correction"},"doi":"10.1371/journal.pone.0007736","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Comprehensive Sequence and Disease Correlation Analyses for the C-Terminal Region of CagA Protein of Helicobacter pylori"}
+{
+  "retracted": false,
+  "timestamp": 1278892800000,
+  "updates": [
+    {
+      "timestamp": 1496023932775,
+      "identifier": {
+        "doi": "10.1371/annotation/a15728ad-c776-49e4-b39d-bb134c16345c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0007736"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Comprehensive Sequence and Disease Correlation Analyses for the C-Terminal Region of CagA Protein of Helicobacter pylori"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1007/s13555-016-0110-0","type":"correction"},"doi":"10.1007/s13555-011-0003-1","journal":"Dermatology and Therapy","publisher":"Springer Nature","title":"Erratum to: Letter from the Editors"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495660348522,
+      "identifier": {
+        "doi": "10.1007/s13555-016-0110-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13555-011-0003-1"
+  },
+  "journal": "Dermatology and Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Letter from the Editors"
+}

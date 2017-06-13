@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1007/s10687-015-0237-x","type":"correction"},"doi":"10.1007/s10687-013-0176-3","journal":"Extremes","publisher":"Springer Nature","title":"Erratum to: Modeling clusters of extreme values"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1496058359160,
+      "identifier": {
+        "doi": "10.1007/s10687-015-0237-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10687-013-0176-3"
+  },
+  "journal": "Extremes",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Modeling clusters of extreme values"
+}

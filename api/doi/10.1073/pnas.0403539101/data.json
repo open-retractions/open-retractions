@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1107820800000,"doi":"10.1073/pnas.0500082102","type":"correction"},"doi":"10.1073/pnas.0403539101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Nicolas et al., Cell mechanosensitivity controls the anisotropy of focal adhesions, PNAS 2004 101:12520-12525"}
+{
+  "retracted": false,
+  "timestamp": 1107820800000,
+  "updates": [
+    {
+      "timestamp": 1495918426321,
+      "identifier": {
+        "doi": "10.1073/pnas.0500082102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0403539101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Nicolas et al., Cell mechanosensitivity controls the anisotropy of focal adhesions, PNAS 2004 101:12520-12525"
+}

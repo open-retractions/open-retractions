@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.elstat.2015.12.004","type":"err"},"doi":"10.1016/j.elstat.2013.07.003","journal":"Journal of Electrostatics","publisher":"Elsevier BV","title":"Effect of a combined treatment using both direct and alternating electric currents on hide bacteria in hide-soak liquor [J. Electrostat. 71(5) (2013) 898–904]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496060335229,
+      "identifier": {
+        "doi": "10.1016/j.elstat.2015.12.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.elstat.2013.07.003"
+  },
+  "journal": "Journal of Electrostatics",
+  "publisher": "Elsevier BV",
+  "title": "Effect of a combined treatment using both direct and alternating electric currents on hide bacteria in hide-soak liquor [J. Electrostat. 71(5) (2013) 898–904]"
+}

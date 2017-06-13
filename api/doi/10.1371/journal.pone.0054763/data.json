@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361923200000,"doi":"10.1371/annotation/dbc0d5dd-ab9b-4ae8-b5cf-507158f0761f","type":"correction"},"doi":"10.1371/journal.pone.0054763","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Scaffolding Protein SYD-2/Liprin-α Regulates the Mobility and Polarized Distribution of Dense-Core Vesicles in C. elegans Motor Neurons"}
+{
+  "retracted": false,
+  "timestamp": 1361923200000,
+  "updates": [
+    {
+      "timestamp": 1496002816038,
+      "identifier": {
+        "doi": "10.1371/annotation/dbc0d5dd-ab9b-4ae8-b5cf-507158f0761f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0054763"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Scaffolding Protein SYD-2/Liprin-α Regulates the Mobility and Polarized Distribution of Dense-Core Vesicles in C. elegans Motor Neurons"
+}

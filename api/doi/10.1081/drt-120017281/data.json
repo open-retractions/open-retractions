@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390521600000,"doi":"10.1080/07373937.2013.873306","type":"correction"},"doi":"10.1081/drt-120017281","journal":"Drying Technology","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1390521600000,
+  "updates": [
+    {
+      "timestamp": 1496010277144,
+      "identifier": {
+        "doi": "10.1080/07373937.2013.873306"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1081/drt-120017281"
+  },
+  "journal": "Drying Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

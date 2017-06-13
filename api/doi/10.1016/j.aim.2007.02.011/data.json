@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404950400000,"doi":"10.1016/j.aim.2014.02.032","type":"err"},"doi":"10.1016/j.aim.2007.02.011","journal":"Advances in Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “On homotopy varieties” [Adv. Math. 214 (2007) 525–550]"}
+{
+  "retracted": false,
+  "timestamp": 1404950400000,
+  "updates": [
+    {
+      "timestamp": 1496028867411,
+      "identifier": {
+        "doi": "10.1016/j.aim.2014.02.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aim.2007.02.011"
+  },
+  "journal": "Advances in Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On homotopy varieties” [Adv. Math. 214 (2007) 525–550]"
+}

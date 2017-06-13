@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1128/aac.02903-15","type":"correction"},"doi":"10.1128/aac.02220-15","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for Antonov et al., “Erratum for Antonov et al., High Prevalence of Pupirocin Resistance in Staphylococcus aureus Isolates from a Pediatric Population”"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496057275885,
+      "identifier": {
+        "doi": "10.1128/aac.02903-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.02220-15"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Antonov et al., “Erratum for Antonov et al., High Prevalence of Pupirocin Resistance in Staphylococcus aureus Isolates from a Pediatric Population”"
+}

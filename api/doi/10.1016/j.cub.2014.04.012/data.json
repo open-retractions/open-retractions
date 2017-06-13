@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404691200000,"doi":"10.1016/j.cub.2014.06.016","type":"err"},"doi":"10.1016/j.cub.2014.04.012","journal":"Current Biology","publisher":"Elsevier BV","title":"DNA Replication and Oncogene-Induced Replicative Stress"}
+{
+  "retracted": false,
+  "timestamp": 1404691200000,
+  "updates": [
+    {
+      "timestamp": 1496051612174,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.06.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2014.04.012"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "DNA Replication and Oncogene-Induced Replicative Stress"
+}

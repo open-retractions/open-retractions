@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362960000000,"doi":"10.1080/14783363.2012.760876","type":"correction"},"doi":"10.1080/14783363.2012.669550","journal":"Total Quality Management & Business Excellence","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1362960000000,
+  "updates": [
+    {
+      "timestamp": 1496001363566,
+      "identifier": {
+        "doi": "10.1080/14783363.2012.760876"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14783363.2012.669550"
+  },
+  "journal": "Total Quality Management & Business Excellence",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

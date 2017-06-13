@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393977600000,"doi":"10.1007/s10545-014-9699-2","type":"correction"},"doi":"10.1007/s10545-013-9625-z","journal":"Journal of Inherited Metabolic Disease","publisher":"Springer Nature","title":"Erratum to: Concordance rates of Wilson’s disease phenotype among siblings"}
+{
+  "retracted": false,
+  "timestamp": 1393977600000,
+  "updates": [
+    {
+      "timestamp": 1496022440644,
+      "identifier": {
+        "doi": "10.1007/s10545-014-9699-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10545-013-9625-z"
+  },
+  "journal": "Journal of Inherited Metabolic Disease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Concordance rates of Wilson’s disease phenotype among siblings"
+}

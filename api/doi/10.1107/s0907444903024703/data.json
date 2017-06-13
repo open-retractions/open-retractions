@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1075593600000,"doi":"10.1107/s0907444904001283","type":"correction"},"doi":"10.1107/s0907444903024703","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Structure of d(GCGAAAGC) (hexagonal form): a base-intercalated duplex as a stable structure. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1075593600000,
+  "updates": [
+    {
+      "timestamp": 1495804324353,
+      "identifier": {
+        "doi": "10.1107/s0907444904001283"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444903024703"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Structure of d(GCGAAAGC) (hexagonal form): a base-intercalated duplex as a stable structure. Erratum"
+}

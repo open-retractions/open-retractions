@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463184000000,"doi":"10.1007/s00382-016-3159-7","type":"correction"},"doi":"10.1007/s00382-016-3057-z","journal":"Climate Dynamics","publisher":"Springer Nature","title":"Erratum to: ENSO-driven energy budget perturbations in observations and CMIP models"}
+{
+  "retracted": false,
+  "timestamp": 1463184000000,
+  "updates": [
+    {
+      "timestamp": 1495676677773,
+      "identifier": {
+        "doi": "10.1007/s00382-016-3159-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00382-016-3057-z"
+  },
+  "journal": "Climate Dynamics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ENSO-driven energy budget perturbations in observations and CMIP models"
+}

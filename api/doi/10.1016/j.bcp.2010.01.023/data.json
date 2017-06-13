@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1275350400000,"update":{"timestamp":null,"doi":null,"pmid":26985468,"type":"retraction"},"doi":"10.1016/j.bcp.2010.01.023","journal":"Biochemical pharmacology","publisher":null,"title":"Thymoquinone poly (lactide-co-glycolide) nanoparticles exhibit enhanced anti-proliferative, anti-inflammatory, and chemosensitization potential."}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1495646262986,
+      "identifier": {
+        "doi": "10.1016/j.bcp.2015.11.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bcp.2010.01.023"
+  },
+  "journal": "Biochemical Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Thymoquinone poly(lactide-co-glycolide) nanoparticles exhibit enhanced anti-proliferative, anti-inflammatory, and chemosensitization potential” [Biochem. Pharmacol. 79 (2010) 1640–1647]"
+}

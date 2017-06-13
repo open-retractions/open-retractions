@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476057600000,"doi":"10.1016/j.ecolmodel.2016.06.012","type":"erratum"},"doi":"10.1016/j.ecolmodel.2010.03.012","journal":"Ecological Modelling","publisher":"Elsevier BV","title":"Corrigendum to “Adding rigor to ecological network models by evaluating a set of pre-balance diagnostics: A plea for PREBAL” [Ecol. Model. 221 (2010) 1582–1593]"}
+{
+  "retracted": false,
+  "timestamp": 1476057600000,
+  "updates": [
+    {
+      "timestamp": 1495726593987,
+      "identifier": {
+        "doi": "10.1016/j.ecolmodel.2016.06.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolmodel.2010.03.012"
+  },
+  "journal": "Ecological Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Adding rigor to ecological network models by evaluating a set of pre-balance diagnostics: A plea for PREBAL” [Ecol. Model. 221 (2010) 1582–1593]"
+}

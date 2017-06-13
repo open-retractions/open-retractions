@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1063/1.4945255","type":"correction"},"doi":"10.1063/1.3536482","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Spin torque switching of perpendicular Ta|CoFeB|MgO-based magnetic tunnel junctions” [Appl. Phys. Lett. 98, 022501 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495660456919,
+      "identifier": {
+        "doi": "10.1063/1.4945255"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3536482"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Spin torque switching of perpendicular Ta|CoFeB|MgO-based magnetic tunnel junctions” [Appl. Phys. Lett. 98, 022501 (2011)]"
+}

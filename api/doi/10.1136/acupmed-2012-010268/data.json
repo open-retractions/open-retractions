@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1136/acupmed-2012-010268corr1","type":"correction"},"doi":"10.1136/acupmed-2012-010268","journal":"Acupuncture in Medicine","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496043265269,
+      "identifier": {
+        "doi": "10.1136/acupmed-2012-010268corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/acupmed-2012-010268"
+  },
+  "journal": "Acupuncture in Medicine",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

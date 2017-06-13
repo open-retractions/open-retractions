@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424908800000,"doi":"10.1128/genomea.01546-14","type":"correction"},"doi":"10.1128/genomea.01255-14","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Sarker et al., Molecular Characterization of Genome Sequences of Beak and Feather Disease Virus from the Australian Twenty-Eight Parrot (Barnardius zonarius semitorquatus)"}
+{
+  "retracted": false,
+  "timestamp": 1424908800000,
+  "updates": [
+    {
+      "timestamp": 1496038958048,
+      "identifier": {
+        "doi": "10.1128/genomea.01546-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01255-14"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Sarker et al., Molecular Characterization of Genome Sequences of Beak and Feather Disease Virus from the Australian Twenty-Eight Parrot (Barnardius zonarius semitorquatus)"
+}

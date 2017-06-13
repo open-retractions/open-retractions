@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1219017600000,"doi":"10.1371/annotation/8d8e2649-c772-4363-b70b-b242c42f505f","type":"correction"},"doi":"10.1371/journal.pone.0002567","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Common Genomic Framework for a Diverse Assembly of Plasmids in the Symbiotic Nitrogen Fixing Bacteria"}
+{
+  "retracted": false,
+  "timestamp": 1219017600000,
+  "updates": [
+    {
+      "timestamp": 1491880237836,
+      "identifier": {
+        "doi": "10.1371/annotation/8d8e2649-c772-4363-b70b-b242c42f505f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002567"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Common Genomic Framework for a Diverse Assembly of Plasmids in the Symbiotic Nitrogen Fixing Bacteria"
+}

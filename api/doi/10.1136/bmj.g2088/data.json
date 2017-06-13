@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1136/bmj.g2088","type":"correction"},"doi":"10.1136/bmj.g2088","journal":"BMJ","publisher":"BMJ","title":"Removing the hype from hypertension"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1496024896482,
+      "identifier": {
+        "doi": "10.1136/bmj.g2088"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2088"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Removing the hype from hypertension"
+}

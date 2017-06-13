@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.cellsig.2016.11.020","type":"erratum"},"doi":"10.1016/j.cellsig.2016.10.012","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “Cathepsin L is involved in X-ray-induced invasion and migration of human glioma U251 cells” (Cell. Signal. 29 (2017) 181–191)"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495665836087,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2016.11.020"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2016.10.012"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cathepsin L is involved in X-ray-induced invasion and migration of human glioma U251 cells” (Cell. Signal. 29 (2017) 181–191)"
+}

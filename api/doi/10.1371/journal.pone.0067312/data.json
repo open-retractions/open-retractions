@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373500800000,"doi":"10.1371/annotation/b13cc66f-93c2-4582-99c1-359276235acc","type":"correction"},"doi":"10.1371/journal.pone.0067312","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The miRNA and mRNA Signatures of Peripheral Blood Cells in Humans Infected with Trypanosoma brucei gambiense"}
+{
+  "retracted": false,
+  "timestamp": 1373500800000,
+  "updates": [
+    {
+      "timestamp": 1496048524129,
+      "identifier": {
+        "doi": "10.1371/annotation/b13cc66f-93c2-4582-99c1-359276235acc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0067312"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The miRNA and mRNA Signatures of Peripheral Blood Cells in Humans Infected with Trypanosoma brucei gambiense"
+}

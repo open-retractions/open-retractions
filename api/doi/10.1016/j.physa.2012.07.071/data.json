@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1016/j.physa.2013.12.013","type":"err"},"doi":"10.1016/j.physa.2012.07.071","journal":"Physica A: Statistical Mechanics and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Self-consistency in non-extensive thermodynamics of highly excited hadronic states” [Physica A 391 (2012) 6380–6385]"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496008244491,
+      "identifier": {
+        "doi": "10.1016/j.physa.2013.12.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physa.2012.07.071"
+  },
+  "journal": "Physica A: Statistical Mechanics and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Self-consistency in non-extensive thermodynamics of highly excited hadronic states” [Physica A 391 (2012) 6380–6385]"
+}

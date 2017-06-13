@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.euromechsol.2014.03.005","type":"err"},"doi":"10.1016/j.euromechsol.2013.12.005","journal":"European Journal of Mechanics - A/Solids","publisher":"Elsevier BV","title":"Erratum to “On the dynamic behaviour of masonry beam-columns: An analytical approach” [Eur. J. Mech. A/Solids 45 (2014), 174–184]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496035404280,
+      "identifier": {
+        "doi": "10.1016/j.euromechsol.2014.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.euromechsol.2013.12.005"
+  },
+  "journal": "European Journal of Mechanics - A/Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “On the dynamic behaviour of masonry beam-columns: An analytical approach” [Eur. J. Mech. A/Solids 45 (2014), 174–184]"
+}

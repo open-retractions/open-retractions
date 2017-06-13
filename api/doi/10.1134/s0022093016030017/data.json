@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1134/s123456781605013x","type":"correction"},"doi":"10.1134/s0022093016030017","journal":"Journal of Evolutionary Biochemistry and Physiology","publisher":"Pleiades Publishing Ltd","title":"Erratum: “The brain leptin signaling system and its functional state in metabolic syndrome and type 2 diabetes mellitus”"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495663404360,
+      "identifier": {
+        "doi": "10.1134/s123456781605013x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0022093016030017"
+  },
+  "journal": "Journal of Evolutionary Biochemistry and Physiology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum: “The brain leptin signaling system and its functional state in metabolic syndrome and type 2 diabetes mellitus”"
+}

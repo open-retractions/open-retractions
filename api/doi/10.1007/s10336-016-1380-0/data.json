@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488153600000,"doi":"10.1007/s10336-017-1441-z","type":"correction"},"doi":"10.1007/s10336-016-1380-0","journal":"Journal of Ornithology","publisher":"Springer Nature","title":"Erratum to: Multilocus barcoding confirms the occurrence of Elegant Terns in Western Europe"}
+{
+  "retracted": false,
+  "timestamp": 1488153600000,
+  "updates": [
+    {
+      "timestamp": 1495723520282,
+      "identifier": {
+        "doi": "10.1007/s10336-017-1441-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10336-016-1380-0"
+  },
+  "journal": "Journal of Ornithology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Multilocus barcoding confirms the occurrence of Elegant Terns in Western Europe"
+}

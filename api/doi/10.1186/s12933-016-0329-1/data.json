@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455753600000,"doi":"10.1186/s12933-016-0354-0","type":"correction"},"doi":"10.1186/s12933-016-0329-1","journal":"Cardiovascular Diabetology","publisher":"Springer Nature","title":"Erratum to: Apolipoprotein E gene polymorphism and risk of type 2 diabetes and cardiovascular disease"}
+{
+  "retracted": false,
+  "timestamp": 1455753600000,
+  "updates": [
+    {
+      "timestamp": 1495645393968,
+      "identifier": {
+        "doi": "10.1186/s12933-016-0354-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12933-016-0329-1"
+  },
+  "journal": "Cardiovascular Diabetology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Apolipoprotein E gene polymorphism and risk of type 2 diabetes and cardiovascular disease"
+}

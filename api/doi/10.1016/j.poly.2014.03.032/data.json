@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420675200000,"doi":"10.1016/j.poly.2014.08.062","type":"err"},"doi":"10.1016/j.poly.2014.03.032","journal":"Polyhedron","publisher":"Elsevier BV","title":"Corrigendum to “One pot three component synthesis of mononuclear [M(1,1-dithiolato)2] {Mn(II), Co(II), Zn(II) and Cd(II)} complexes, spectral characterization, fluorescence, optical and thermogravimetric study” [Polyhedron 76 (2014) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1420675200000,
+  "updates": [
+    {
+      "timestamp": 1496013291798,
+      "identifier": {
+        "doi": "10.1016/j.poly.2014.08.062"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.poly.2014.03.032"
+  },
+  "journal": "Polyhedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “One pot three component synthesis of mononuclear [M(1,1-dithiolato)2] {Mn(II), Co(II), Zn(II) and Cd(II)} complexes, spectral characterization, fluorescence, optical and thermogravimetric study” [Polyhedron 76 (2014) 1–9]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441324800000,"doi":"10.1007/s10844-015-0381-4","type":"correction"},"doi":"10.1007/s10844-015-0362-7","journal":"Journal of Intelligent Information Systems","publisher":"Springer Nature","title":"Erratum to: A hierarchical multi-criteria sorting approach for recommender systems"}
+{
+  "retracted": false,
+  "timestamp": 1441324800000,
+  "updates": [
+    {
+      "timestamp": 1496027074005,
+      "identifier": {
+        "doi": "10.1007/s10844-015-0381-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10844-015-0362-7"
+  },
+  "journal": "Journal of Intelligent Information Systems",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A hierarchical multi-criteria sorting approach for recommender systems"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288742400000,"doi":"10.1371/annotation/00a3b22e-36a9-4d51-89e5-1e6561e7a1e9","type":"correction"},"doi":"10.1371/journal.pone.0012410","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Changes in Human Langerhans Cells Following Intradermal Injection of Influenza Virus-Like Particle Vaccines"}
+{
+  "retracted": false,
+  "timestamp": 1288742400000,
+  "updates": [
+    {
+      "timestamp": 1495894735070,
+      "identifier": {
+        "doi": "10.1371/annotation/00a3b22e-36a9-4d51-89e5-1e6561e7a1e9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0012410"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Changes in Human Langerhans Cells Following Intradermal Injection of Influenza Virus-Like Particle Vaccines"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.cca.2016.01.035","type":"err"},"doi":"10.1016/j.cca.2015.11.019","journal":"Clinica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “MMP-2 serum concentrations predict mortality in hemodialysis patients: A 5-year cohort study” [Clin. Chim. Acta 452 (January 15, 2016) 161–166]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495644581102,
+      "identifier": {
+        "doi": "10.1016/j.cca.2016.01.035"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cca.2015.11.019"
+  },
+  "journal": "Clinica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “MMP-2 serum concentrations predict mortality in hemodialysis patients: A 5-year cohort study” [Clin. Chim. Acta 452 (January 15, 2016) 161–166]"
+}

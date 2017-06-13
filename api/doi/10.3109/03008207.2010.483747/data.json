@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.3109/03008207.2014.947870","type":"correction"},"doi":"10.3109/03008207.2010.483747","journal":"Connective Tissue Research","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1495995035163,
+      "identifier": {
+        "doi": "10.3109/03008207.2014.947870"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/03008207.2010.483747"
+  },
+  "journal": "Connective Tissue Research",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

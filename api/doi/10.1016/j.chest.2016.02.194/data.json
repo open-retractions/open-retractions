@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1459468800000,"update":{"timestamp":null,"doi":null,"pmid":27396793,"type":"retraction"},"doi":"10.1016/j.chest.2016.02.194","journal":"Chest","publisher":null,"title":"WITHDRAWN: Impact of Initial Antibiotic Selection on Adverse Outcomes Among Patients With Severe Sepsis and Septic Shock."}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495729330029,
+      "identifier": {
+        "doi": "10.1016/j.chest.2016.06.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chest.2016.02.194"
+  },
+  "journal": "Chest",
+  "publisher": "Elsevier BV",
+  "title": "Withdrawn: Impact of Initial Antibiotic Selection on Adverse Outcomes Among Patients With Severe Sepsis and Septic Shock"
+}

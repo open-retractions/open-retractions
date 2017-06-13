@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407974400000,"doi":"10.1007/s00592-014-0622-y","type":"correction"},"doi":"10.1007/s00592-013-0501-y","journal":"Acta Diabetologica","publisher":"Springer Nature","title":"Erratum to: Hydrogen sulfide induces heme oxygenase-1 in human kidney cells"}
+{
+  "retracted": false,
+  "timestamp": 1407974400000,
+  "updates": [
+    {
+      "timestamp": 1495999991358,
+      "identifier": {
+        "doi": "10.1007/s00592-014-0622-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00592-013-0501-y"
+  },
+  "journal": "Acta Diabetologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hydrogen sulfide induces heme oxygenase-1 in human kidney cells"
+}

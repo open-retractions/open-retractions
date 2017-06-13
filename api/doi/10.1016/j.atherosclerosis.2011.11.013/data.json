@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.atherosclerosis.2013.08.001","type":"err"},"doi":"10.1016/j.atherosclerosis.2011.11.013","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"Corrigendum to “Deficiency of receptor-associated protein attenuates angiotensin II-induced atherosclerosis in hypercholesterolemic mice without influencing abdominal aortic aneurysms” [Atherosclerosis 220 (2) 375–380]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496041926529,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2013.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2011.11.013"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Deficiency of receptor-associated protein attenuates angiotensin II-induced atherosclerosis in hypercholesterolemic mice without influencing abdominal aortic aneurysms” [Atherosclerosis 220 (2) 375–380]"
+}

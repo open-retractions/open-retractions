@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447977600000,"doi":"10.1371/journal.pcbi.1004617","type":"correction"},"doi":"10.1371/journal.pcbi.1004127","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Microbial Forensics: Predicting Phenotypic Characteristics and Environmental Conditions from Large-Scale Gene Expression Profiles"}
+{
+  "retracted": false,
+  "timestamp": 1447977600000,
+  "updates": [
+    {
+      "timestamp": 1496047624634,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004617"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004127"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Microbial Forensics: Predicting Phenotypic Characteristics and Environmental Conditions from Large-Scale Gene Expression Profiles"
+}

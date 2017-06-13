@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332979200000,"doi":"10.1371/annotation/6ef317b6-c9eb-44a4-8e4d-556d064ce987","type":"correction"},"doi":"10.1371/journal.pone.0031225","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: TBC1D3, a Hominoid-Specific Gene, Delays IRS-1 Degradation and Promotes Insulin Signaling by Modulating p70 S6 Kinase Activity"}
+{
+  "retracted": false,
+  "timestamp": 1332979200000,
+  "updates": [
+    {
+      "timestamp": 1495890796289,
+      "identifier": {
+        "doi": "10.1371/annotation/6ef317b6-c9eb-44a4-8e4d-556d064ce987"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031225"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: TBC1D3, a Hominoid-Specific Gene, Delays IRS-1 Degradation and Promotes Insulin Signaling by Modulating p70 S6 Kinase Activity"
+}

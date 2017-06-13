@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231200000000,"doi":"10.1371/annotation/c9faa83b-3c7b-4f38-8d74-1a4309403688","type":"correction"},"doi":"10.1371/journal.pcbi.1000152","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Three-Phase Model of Brain Tissue Microstructure"}
+{
+  "retracted": false,
+  "timestamp": 1231200000000,
+  "updates": [
+    {
+      "timestamp": 1496023929331,
+      "identifier": {
+        "doi": "10.1371/annotation/c9faa83b-3c7b-4f38-8d74-1a4309403688"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000152"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Three-Phase Model of Brain Tissue Microstructure"
+}

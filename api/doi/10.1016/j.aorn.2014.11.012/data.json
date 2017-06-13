@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.aorn.2015.02.002","type":"err"},"doi":"10.1016/j.aorn.2014.11.012","journal":"AORN Journal","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496045457891,
+      "identifier": {
+        "doi": "10.1016/j.aorn.2015.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aorn.2014.11.012"
+  },
+  "journal": "AORN Journal",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

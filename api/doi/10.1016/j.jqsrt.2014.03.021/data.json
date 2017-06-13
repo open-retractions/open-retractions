@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jqsrt.2014.06.008","type":"erratum"},"doi":"10.1016/j.jqsrt.2014.03.021","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Corrigendum to “A new theory and its application to remove the effect of surface-reflected light in above-surface radiance data from clear and turbid waters” [J. Quant. Spectrosc. Radiat. Transfer 142 (2014) 75–92]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496048661009,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2014.06.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2014.03.021"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new theory and its application to remove the effect of surface-reflected light in above-surface radiance data from clear and turbid waters” [J. Quant. Spectrosc. Radiat. Transfer 142 (2014) 75–92]"
+}

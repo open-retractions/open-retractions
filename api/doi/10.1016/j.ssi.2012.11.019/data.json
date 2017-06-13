@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.ssi.2014.02.014","type":"err"},"doi":"10.1016/j.ssi.2012.11.019","journal":"Solid State Ionics","publisher":"Elsevier BV","title":"Corrigendum to “Currents under high driving forces” [Solid State Ionics 251 (2013) 2–8]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496026161888,
+      "identifier": {
+        "doi": "10.1016/j.ssi.2014.02.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ssi.2012.11.019"
+  },
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Currents under high driving forces” [Solid State Ionics 251 (2013) 2–8]"
+}

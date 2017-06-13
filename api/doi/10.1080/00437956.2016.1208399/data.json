@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1080/00437956.2016.1228343","type":"correction"},"doi":"10.1080/00437956.2016.1208399","journal":"<i>WORD</i>","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495739179701,
+      "identifier": {
+        "doi": "10.1080/00437956.2016.1228343"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00437956.2016.1208399"
+  },
+  "journal": "<i>WORD</i>",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

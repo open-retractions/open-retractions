@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1233100800000,"doi":"10.1186/1745-6215-10-7","type":"correction"},"doi":"10.1186/1745-6215-9-50","journal":"Trials","publisher":"Springer Nature","title":"Erratum to: A pragmatic cluster randomised controlled trial to evaluate the safety, clinical effectiveness, cost effectiveness and satisfaction with point of care testing in a general practice setting – rationale, design and baseline characteristics"}
+{
+  "retracted": false,
+  "timestamp": 1233100800000,
+  "updates": [
+    {
+      "timestamp": 1495897469823,
+      "identifier": {
+        "doi": "10.1186/1745-6215-10-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1745-6215-9-50"
+  },
+  "journal": "Trials",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A pragmatic cluster randomised controlled trial to evaluate the safety, clinical effectiveness, cost effectiveness and satisfaction with point of care testing in a general practice setting – rationale, design and baseline characteristics"
+}

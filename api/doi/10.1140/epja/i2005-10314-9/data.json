@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1160611200000,"doi":"10.1140/epja/i2006-10131-8","type":"correction"},"doi":"10.1140/epja/i2005-10314-9","journal":"The European Physical Journal A","publisher":"Springer Nature","title":"First measurements of the 16O(e, e'pn)14N reaction"}
+{
+  "retracted": false,
+  "timestamp": 1160611200000,
+  "updates": [
+    {
+      "timestamp": 1495871158226,
+      "identifier": {
+        "doi": "10.1140/epja/i2006-10131-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1140/epja/i2005-10314-9"
+  },
+  "journal": "The European Physical Journal A",
+  "publisher": "Springer Nature",
+  "title": "First measurements of the 16O(e, e'pn)14N reaction"
+}

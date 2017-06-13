@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480032000000,"doi":"10.1007/s10530-016-1337-5","type":"correction"},"doi":"10.1007/s10530-016-1318-8","journal":"Biological Invasions","publisher":"Springer Nature","title":"Erratum to: Quantifying how acquired interactions with native and invasive insects influence population growth rates of a non-indigenous plant"}
+{
+  "retracted": false,
+  "timestamp": 1480032000000,
+  "updates": [
+    {
+      "timestamp": 1495658426854,
+      "identifier": {
+        "doi": "10.1007/s10530-016-1337-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10530-016-1318-8"
+  },
+  "journal": "Biological Invasions",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantifying how acquired interactions with native and invasive insects influence population growth rates of a non-indigenous plant"
+}

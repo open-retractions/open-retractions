@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391472000000,"doi":"10.1073/pnas.1400120111","type":"correction"},"doi":"10.1073/pnas.1317191110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Trifari et al., MicroRNA-directed program of cytotoxic CD8+ T-cell differentiation"}
+{
+  "retracted": false,
+  "timestamp": 1391472000000,
+  "updates": [
+    {
+      "timestamp": 1496012337411,
+      "identifier": {
+        "doi": "10.1073/pnas.1400120111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1317191110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Trifari et al., MicroRNA-directed program of cytotoxic CD8+ T-cell differentiation"
+}

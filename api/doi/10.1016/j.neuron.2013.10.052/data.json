@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1016/j.neuron.2014.05.023","type":"err"},"doi":"10.1016/j.neuron.2013.10.052","journal":"Neuron","publisher":"Elsevier BV","title":"Histidine Decarboxylase Deficiency Causes Tourette Syndrome: Parallel Findings in Humans and Mice"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496043715328,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.05.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.10.052"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Histidine Decarboxylase Deficiency Causes Tourette Syndrome: Parallel Findings in Humans and Mice"
+}

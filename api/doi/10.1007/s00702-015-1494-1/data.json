@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1007/s00702-016-1599-1","type":"correction"},"doi":"10.1007/s00702-015-1494-1","journal":"Journal of Neural Transmission","publisher":"Springer Nature","title":"Erratum to: Why so many deep brain stimulation targets in Tourette’s syndrome? Toward a broadening of the definition of the syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495736125241,
+      "identifier": {
+        "doi": "10.1007/s00702-016-1599-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00702-015-1494-1"
+  },
+  "journal": "Journal of Neural Transmission",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Why so many deep brain stimulation targets in Tourette’s syndrome? Toward a broadening of the definition of the syndrome"
+}

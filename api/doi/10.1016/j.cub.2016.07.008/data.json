@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1016/j.cub.2016.07.078","type":"err"},"doi":"10.1016/j.cub.2016.07.008","journal":"Current Biology","publisher":"Elsevier BV","title":"Muscle- and Skin-Derived Cues Jointly Orchestrate Patterning of Somatosensory Dendrites"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495740122770,
+      "identifier": {
+        "doi": "10.1016/j.cub.2016.07.078"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2016.07.008"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Muscle- and Skin-Derived Cues Jointly Orchestrate Patterning of Somatosensory Dendrites"
+}

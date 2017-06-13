@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-2508883200000,"doi":"10.1007/bf02963581","type":"correction"},"doi":"10.1007/bf02972019","journal":"Dublin Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to: Acute confusional insanity"}
+{
+  "retracted": false,
+  "timestamp": -2508883200000,
+  "updates": [
+    {
+      "timestamp": 1495643559669,
+      "identifier": {
+        "doi": "10.1007/bf02963581"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02972019"
+  },
+  "journal": "Dublin Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Acute confusional insanity"
+}

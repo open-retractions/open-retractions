@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448323200000,"doi":"10.1186/s13058-015-0651-7","type":"correction"},"doi":"10.1186/s13058-015-0577-0","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Quantitative assessment of background parenchymal enhancement in breast MRI predicts response to risk-reducing salpingo-oophorectomy: preliminary evaluation in a cohort of BRCA1/2 mutation carriers"}
+{
+  "retracted": false,
+  "timestamp": 1448323200000,
+  "updates": [
+    {
+      "timestamp": 1496048117706,
+      "identifier": {
+        "doi": "10.1186/s13058-015-0651-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13058-015-0577-0"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantitative assessment of background parenchymal enhancement in breast MRI predicts response to risk-reducing salpingo-oophorectomy: preliminary evaluation in a cohort of BRCA1/2 mutation carriers"
+}

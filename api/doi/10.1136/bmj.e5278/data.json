@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409097600000,"doi":"10.1136/bmj.g5341","type":"correction"},"doi":"10.1136/bmj.e5278","journal":"BMJ","publisher":"BMJ","title":"Sample size calculations: should the emperor's clothes be off the peg or made to measure?"}
+{
+  "retracted": false,
+  "timestamp": 1409097600000,
+  "updates": [
+    {
+      "timestamp": 1496003103717,
+      "identifier": {
+        "doi": "10.1136/bmj.g5341"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.e5278"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Sample size calculations: should the emperor's clothes be off the peg or made to measure?"
+}

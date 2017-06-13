@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486684800000,"doi":"10.1371/journal.pgen.1006605","type":"correction"},"doi":"10.1371/journal.pgen.0030110","journal":"PLOS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: DNA Damage, Homology-Directed Repair, and DNA Methylation"}
+{
+  "retracted": false,
+  "timestamp": 1486684800000,
+  "updates": [
+    {
+      "timestamp": 1495681096273,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1006605"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.0030110"
+  },
+  "journal": "PLOS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: DNA Damage, Homology-Directed Repair, and DNA Methylation"
+}

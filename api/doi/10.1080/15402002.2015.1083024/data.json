@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480636800000,"doi":"10.1080/15402002.2016.1253940","type":"correction"},"doi":"10.1080/15402002.2015.1083024","journal":"Behavioral Sleep Medicine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1480636800000,
+  "updates": [
+    {
+      "timestamp": 1495663182660,
+      "identifier": {
+        "doi": "10.1080/15402002.2016.1253940"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15402002.2015.1083024"
+  },
+  "journal": "Behavioral Sleep Medicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

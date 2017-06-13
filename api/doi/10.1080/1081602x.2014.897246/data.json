@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1080/1081602x.2014.965563","type":"correction"},"doi":"10.1080/1081602x.2014.897246","journal":"The History of the Family","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496007632687,
+      "identifier": {
+        "doi": "10.1080/1081602x.2014.965563"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1081602x.2014.897246"
+  },
+  "journal": "The History of the Family",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

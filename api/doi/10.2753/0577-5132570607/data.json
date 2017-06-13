@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429315200000,"doi":"10.1080/05775132.2015.1026241","type":"correction"},"doi":"10.2753/0577-5132570607","journal":"Challenge","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1429315200000,
+  "updates": [
+    {
+      "timestamp": 1496058832253,
+      "identifier": {
+        "doi": "10.1080/05775132.2015.1026241"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2753/0577-5132570607"
+  },
+  "journal": "Challenge",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

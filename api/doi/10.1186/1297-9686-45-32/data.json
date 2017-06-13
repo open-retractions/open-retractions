@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1186/s12711-014-0062-8","type":"correction"},"doi":"10.1186/1297-9686-45-32","journal":"Genetics Selection Evolution","publisher":"Springer Nature","title":"Erratum to: On estimation of genetic variance within families using genome-wide identity-by-descent sharing"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496013833647,
+      "identifier": {
+        "doi": "10.1186/s12711-014-0062-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1297-9686-45-32"
+  },
+  "journal": "Genetics Selection Evolution",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On estimation of genetic variance within families using genome-wide identity-by-descent sharing"
+}

@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1336694400000,"update":{"timestamp":null,"doi":null,"pmid":27392148,"type":"retraction"},"doi":"10.1016/j.molcel.2012.03.002","journal":"Molecular cell","publisher":null,"title":"Lysyl oxidase-like 2 deaminates lysine 4 in histone H3."}
+{
+  "retracted": false,
+  "timestamp": 1467849600000,
+  "updates": [
+    {
+      "timestamp": 1495725090174,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.06.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2012.03.002"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: Lysyl Oxidase-like 2 Deaminates Lysine 4 in Histone H3"
+}

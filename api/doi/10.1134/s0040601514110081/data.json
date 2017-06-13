@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431475200000,"doi":"10.1134/s0040601515060129","type":"correction"},"doi":"10.1134/s0040601514110081","journal":"Thermal Engineering","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Enhancing the Calculation Accuracy of Performance Characteristics of Power-Generating Units by Correcting General Measurands Based on Matching Energy Balances”"}
+{
+  "retracted": false,
+  "timestamp": 1431475200000,
+  "updates": [
+    {
+      "timestamp": 1495999927705,
+      "identifier": {
+        "doi": "10.1134/s0040601515060129"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0040601514110081"
+  },
+  "journal": "Thermal Engineering",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Enhancing the Calculation Accuracy of Performance Characteristics of Power-Generating Units by Correcting General Measurands Based on Matching Energy Balances”"
+}

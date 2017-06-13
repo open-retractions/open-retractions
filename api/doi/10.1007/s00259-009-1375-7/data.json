@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1301788800000,"doi":"10.1007/s00259-011-1805-1","type":"correction"},"doi":"10.1007/s00259-009-1375-7","journal":"European Journal of Nuclear Medicine and Molecular Imaging","publisher":"Springer Nature","title":"Erratum to: Ultrafast nuclear myocardial perfusion imaging on a new gamma camera with semiconductor detector technique: first clinical validation"}
+{
+  "retracted": false,
+  "timestamp": 1301788800000,
+  "updates": [
+    {
+      "timestamp": 1495946406883,
+      "identifier": {
+        "doi": "10.1007/s00259-011-1805-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00259-009-1375-7"
+  },
+  "journal": "European Journal of Nuclear Medicine and Molecular Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Ultrafast nuclear myocardial perfusion imaging on a new gamma camera with semiconductor detector technique: first clinical validation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.biomaterials.2014.01.072","type":"err"},"doi":"10.1016/j.biomaterials.2013.08.036","journal":"Biomaterials","publisher":"Elsevier BV","title":"Corrigendum to ‘Delivery of siRNA to the brain using a combination of nose-to-brain delivery and cell-penetrating peptide-modified nano-micelles’ [Biomaterials 34 (2013) 9220–9226]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496016828071,
+      "identifier": {
+        "doi": "10.1016/j.biomaterials.2014.01.072"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biomaterials.2013.08.036"
+  },
+  "journal": "Biomaterials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Delivery of siRNA to the brain using a combination of nose-to-brain delivery and cell-penetrating peptide-modified nano-micelles’ [Biomaterials 34 (2013) 9220–9226]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bmc.2015.01.034","type":"err"},"doi":"10.1016/j.bmc.2013.02.009","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “VBP15: Preclinical characterization of a novel anti-inflammatory delta 9,11 steroid” [Bioorg. Med. Chem. 21 (2013) 2241–2249]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496045266330,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.01.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2013.02.009"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “VBP15: Preclinical characterization of a novel anti-inflammatory delta 9,11 steroid” [Bioorg. Med. Chem. 21 (2013) 2241–2249]"
+}

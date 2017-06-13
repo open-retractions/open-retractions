@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.actamat.2014.05.011","type":"err"},"doi":"10.1016/j.actamat.2011.11.051","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “A new approach to dislocation creep” [Acta Mater 60 (2012) 1695–1702]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496044425509,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.05.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2011.11.051"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new approach to dislocation creep” [Acta Mater 60 (2012) 1695–1702]"
+}

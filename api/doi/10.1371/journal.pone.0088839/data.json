@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399593600000,"doi":"10.1371/journal.pone.0097796","type":"correction"},"doi":"10.1371/journal.pone.0088839","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Data Simulation in Machine Olfaction with the R Package Chemosensors"}
+{
+  "retracted": false,
+  "timestamp": 1399593600000,
+  "updates": [
+    {
+      "timestamp": 1496037801937,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0097796"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0088839"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Data Simulation in Machine Olfaction with the R Package Chemosensors"
+}

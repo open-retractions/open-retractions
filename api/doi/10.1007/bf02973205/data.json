@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400716800000,"doi":"10.1007/bf02968972","type":"correction"},"doi":"10.1007/bf02973205","journal":"The Dublin Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to: Proceedings of the Pathological Society of Dublin"}
+{
+  "retracted": false,
+  "timestamp": 1400716800000,
+  "updates": [
+    {
+      "timestamp": 1496042830621,
+      "identifier": {
+        "doi": "10.1007/bf02968972"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02973205"
+  },
+  "journal": "The Dublin Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Proceedings of the Pathological Society of Dublin"
+}

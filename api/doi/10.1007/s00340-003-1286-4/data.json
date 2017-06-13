@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1070236800000,"doi":"10.1007/s00340-003-1356-7","type":"correction"},"doi":"10.1007/s00340-003-1286-4","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Allan-variance measurements of diode laser frequency-stabilized with a thin vapor cell"}
+{
+  "retracted": false,
+  "timestamp": 1070236800000,
+  "updates": [
+    {
+      "timestamp": 1495800616582,
+      "identifier": {
+        "doi": "10.1007/s00340-003-1356-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00340-003-1286-4"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Allan-variance measurements of diode laser frequency-stabilized with a thin vapor cell"
+}

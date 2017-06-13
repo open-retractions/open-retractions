@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.amjmed.2015.07.004","type":"err"},"doi":"10.1016/j.amjmed.2015.01.009","journal":"The American Journal of Medicine","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496024467915,
+      "identifier": {
+        "doi": "10.1016/j.amjmed.2015.07.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amjmed.2015.01.009"
+  },
+  "journal": "The American Journal of Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423958400000,"doi":"10.1016/j.apsusc.2014.12.178","type":"err"},"doi":"10.1016/j.apsusc.2012.12.053","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Facile single-step ammonia heat-treatment and quenching process for the synthesis of improved Pt/N-graphene catalysts” [Appl. Surf. Sci. 266 (2013) 433–439]"}
+{
+  "retracted": false,
+  "timestamp": 1423958400000,
+  "updates": [
+    {
+      "timestamp": 1496037251388,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2014.12.178"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2012.12.053"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Facile single-step ammonia heat-treatment and quenching process for the synthesis of improved Pt/N-graphene catalysts” [Appl. Surf. Sci. 266 (2013) 433–439]"
+}

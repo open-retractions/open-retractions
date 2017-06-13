@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1335398400000,"doi":"10.1371/annotation/fbdb6697-5b22-4ac5-b38a-b55fc6f86beb","type":"correction"},"doi":"10.1371/journal.pone.0021346","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Recombination Drives Genetic Diversification of Streptococcus dysgalactiae Subspecies equisimilis in a Region of Streptococcal Endemicity"}
+{
+  "retracted": false,
+  "timestamp": 1335398400000,
+  "updates": [
+    {
+      "timestamp": 1495903790350,
+      "identifier": {
+        "doi": "10.1371/annotation/fbdb6697-5b22-4ac5-b38a-b55fc6f86beb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0021346"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Recombination Drives Genetic Diversification of Streptococcus dysgalactiae Subspecies equisimilis in a Region of Streptococcal Endemicity"
+}

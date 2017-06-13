@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487116800000,"doi":"10.1007/s00228-017-2201-y","type":"correction"},"doi":"10.1007/s00228-016-2182-2","journal":"European Journal of Clinical Pharmacology","publisher":"Springer Nature","title":"Erratum to: Safety of zidovudine/lamivudine scored tablets in children with HIV infection in Europe and Thailand"}
+{
+  "retracted": false,
+  "timestamp": 1487116800000,
+  "updates": [
+    {
+      "timestamp": 1495720702079,
+      "identifier": {
+        "doi": "10.1007/s00228-017-2201-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00228-016-2182-2"
+  },
+  "journal": "European Journal of Clinical Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Safety of zidovudine/lamivudine scored tablets in children with HIV infection in Europe and Thailand"
+}

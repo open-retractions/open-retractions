@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.expneurol.2014.08.007","type":"err"},"doi":"10.1016/j.expneurol.2014.04.023","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “The paradox of chronic neuroinflammation, systemic immune suppression, autoimmunity after traumatic chronic spinal cord injury” [Experimental Neurology 258 (2014) 121–129]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496001154983,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2014.08.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2014.04.023"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The paradox of chronic neuroinflammation, systemic immune suppression, autoimmunity after traumatic chronic spinal cord injury” [Experimental Neurology 258 (2014) 121–129]"
+}

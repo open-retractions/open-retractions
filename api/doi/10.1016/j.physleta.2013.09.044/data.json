@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391126400000,"doi":"10.1016/j.physleta.2013.12.001","type":"err"},"doi":"10.1016/j.physleta.2013.09.044","journal":"Physics Letters A","publisher":"Elsevier BV","title":"Corrigendum to “The KdV–Burgers equation in a new continuum model with consideration of driverʼs forecast effect and numerical tests” [Phys. Lett. A 377 (2013) 3193–3198]"}
+{
+  "retracted": false,
+  "timestamp": 1391126400000,
+  "updates": [
+    {
+      "timestamp": 1496005197630,
+      "identifier": {
+        "doi": "10.1016/j.physleta.2013.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physleta.2013.09.044"
+  },
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The KdV–Burgers equation in a new continuum model with consideration of driverʼs forecast effect and numerical tests” [Phys. Lett. A 377 (2013) 3193–3198]"
+}

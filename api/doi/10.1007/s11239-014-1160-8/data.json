@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426636800000,"doi":"10.1007/s11239-015-1200-z","type":"correction"},"doi":"10.1007/s11239-014-1160-8","journal":"Journal of Thrombosis and Thrombolysis","publisher":"Springer Nature","title":"Erratum to: Platelet apoptosis in patients with acute coronary syndromes"}
+{
+  "retracted": false,
+  "timestamp": 1426636800000,
+  "updates": [
+    {
+      "timestamp": 1496051582962,
+      "identifier": {
+        "doi": "10.1007/s11239-015-1200-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11239-014-1160-8"
+  },
+  "journal": "Journal of Thrombosis and Thrombolysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Platelet apoptosis in patients with acute coronary syndromes"
+}

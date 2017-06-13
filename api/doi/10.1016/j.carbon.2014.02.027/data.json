@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.carbon.2014.12.056","type":"err"},"doi":"10.1016/j.carbon.2014.02.027","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to “Plasma-induced photoresponse in few-layer graphene” [Carbon 73 (2014) 25–33]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496033194898,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2014.12.056"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2014.02.027"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Plasma-induced photoresponse in few-layer graphene” [Carbon 73 (2014) 25–33]"
+}

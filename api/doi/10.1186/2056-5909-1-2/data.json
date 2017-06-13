@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1186/s40885-015-0023-8","type":"correction"},"doi":"10.1186/2056-5909-1-2","journal":"Clinical Hypertension","publisher":"Springer Nature","title":"Erratum to: Effects of adriamycin and candesartan on the collagen and elastin of the aorta in rats"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496012669022,
+      "identifier": {
+        "doi": "10.1186/s40885-015-0023-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/2056-5909-1-2"
+  },
+  "journal": "Clinical Hypertension",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effects of adriamycin and candesartan on the collagen and elastin of the aorta in rats"
+}

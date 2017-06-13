@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466726400000,"doi":"10.1038/srep27828","type":"correction"},"doi":"10.1038/srep17528","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Inhibition of NF-κB by deoxycholic acid induces miR-21/PDCD4-dependent hepatocellular apoptosis"}
+{
+  "retracted": false,
+  "timestamp": 1466726400000,
+  "updates": [
+    {
+      "timestamp": 1495722437266,
+      "identifier": {
+        "doi": "10.1038/srep27828"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep17528"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Inhibition of NF-κB by deoxycholic acid induces miR-21/PDCD4-dependent hepatocellular apoptosis"
+}

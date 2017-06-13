@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382313600000,"doi":"10.1016/j.cca.2013.09.015","type":"err"},"doi":"10.1016/j.cca.2011.01.021","journal":"Clinica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Relationship of neutrophil–lymphocyte ratio with arterial stiffness and coronary calcium score” published in Clinica Chimica Acta 412/11–12 (2011) 925–929"}
+{
+  "retracted": false,
+  "timestamp": 1382313600000,
+  "updates": [
+    {
+      "timestamp": 1496052038438,
+      "identifier": {
+        "doi": "10.1016/j.cca.2013.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cca.2011.01.021"
+  },
+  "journal": "Clinica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relationship of neutrophil–lymphocyte ratio with arterial stiffness and coronary calcium score” published in Clinica Chimica Acta 412/11–12 (2011) 925–929"
+}

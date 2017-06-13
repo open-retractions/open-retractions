@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1213056000000,"doi":"10.1371/annotation/e21d3565-fec6-44d9-8fab-83da49c7c0b8","type":"correction"},"doi":"10.1371/journal.pgen.1000032","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Global Analysis of Genetic, Epigenetic and Transcriptional Polymorphisms in Arabidopsis thaliana Using Whole Genome Tiling Arrays"}
+{
+  "retracted": false,
+  "timestamp": 1213056000000,
+  "updates": [
+    {
+      "timestamp": 1496023932346,
+      "identifier": {
+        "doi": "10.1371/annotation/e21d3565-fec6-44d9-8fab-83da49c7c0b8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000032"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Global Analysis of Genetic, Epigenetic and Transcriptional Polymorphisms in Arabidopsis thaliana Using Whole Genome Tiling Arrays"
+}

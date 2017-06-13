@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360886400000,"doi":"10.1371/annotation/7983e1b9-09e4-4123-b1d5-aaaa0121e76a","type":"correction"},"doi":"10.1371/journal.pone.0043164","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Specific Expression of Channelrhodopsin-2 in Single Neurons of Caenorhabditis elegans"}
+{
+  "retracted": false,
+  "timestamp": 1360886400000,
+  "updates": [
+    {
+      "timestamp": 1496000046432,
+      "identifier": {
+        "doi": "10.1371/annotation/7983e1b9-09e4-4123-b1d5-aaaa0121e76a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0043164"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Specific Expression of Channelrhodopsin-2 in Single Neurons of Caenorhabditis elegans"
+}

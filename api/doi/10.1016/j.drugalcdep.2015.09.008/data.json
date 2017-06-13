@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.drugalcdep.2015.12.003","type":"err"},"doi":"10.1016/j.drugalcdep.2015.09.008","journal":"Drug and Alcohol Dependence","publisher":"Elsevier BV","title":"Corrigendum to “Item banks for substance use from the Patient-Reported Outcomes Measurement Information System (PROMIS®): Severity of use and positive appeal of use” [Drug Alcohol Depend. 156 (2015) 184–192]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496056789668,
+      "identifier": {
+        "doi": "10.1016/j.drugalcdep.2015.12.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.drugalcdep.2015.09.008"
+  },
+  "journal": "Drug and Alcohol Dependence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Item banks for substance use from the Patient-Reported Outcomes Measurement Information System (PROMIS®): Severity of use and positive appeal of use” [Drug Alcohol Depend. 156 (2015) 184–192]"
+}

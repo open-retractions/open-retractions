@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.celrep.2015.11.049","type":"erratum"},"doi":"10.1016/j.celrep.2015.05.018","journal":"Cell Reports","publisher":"Elsevier BV","title":"NRP1 Regulates CDC42 Activation to Promote Filopodia Formation in Endothelial Tip Cells"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496050312637,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.11.049"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.05.018"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "NRP1 Regulates CDC42 Activation to Promote Filopodia Formation in Endothelial Tip Cells"
+}

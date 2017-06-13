@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1247184000000,"doi":"10.1371/annotation/93ab40c4-c4b0-4f77-a18f-804b74825fb7","type":"correction"},"doi":"10.1371/journal.pone.0002968","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Relaxation of Selective Constraints Causes Independent Selenoprotein Extinction in Insect Genomes"}
+{
+  "retracted": false,
+  "timestamp": 1247184000000,
+  "updates": [
+    {
+      "timestamp": 1496025196507,
+      "identifier": {
+        "doi": "10.1371/annotation/93ab40c4-c4b0-4f77-a18f-804b74825fb7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002968"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Relaxation of Selective Constraints Causes Independent Selenoprotein Extinction in Insect Genomes"
+}

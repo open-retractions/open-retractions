@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329782400000,"doi":"10.1371/annotation/3f0ddf41-2e7a-4b56-93c2-2731f2890b19","type":"correction"},"doi":"10.1371/journal.pone.0030794","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Highly Parallel Genome-Wide Expression Analysis of Single Mammalian Cells"}
+{
+  "retracted": false,
+  "timestamp": 1329782400000,
+  "updates": [
+    {
+      "timestamp": 1495877617815,
+      "identifier": {
+        "doi": "10.1371/annotation/3f0ddf41-2e7a-4b56-93c2-2731f2890b19"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030794"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Highly Parallel Genome-Wide Expression Analysis of Single Mammalian Cells"
+}

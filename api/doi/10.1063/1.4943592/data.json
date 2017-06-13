@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1063/1.4947183","type":"correction"},"doi":"10.1063/1.4943592","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Electron band bending of polar, semipolar and non-polar GaN surfaces” [J. Appl. Phys. 119, 105303 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495669314486,
+      "identifier": {
+        "doi": "10.1063/1.4947183"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4943592"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Electron band bending of polar, semipolar and non-polar GaN surfaces” [J. Appl. Phys. 119, 105303 (2016)]"
+}

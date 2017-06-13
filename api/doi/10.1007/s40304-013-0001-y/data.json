@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387497600000,"doi":"10.1007/s40304-013-0021-7","type":"correction"},"doi":"10.1007/s40304-013-0001-y","journal":"Communications in Mathematics and Statistics","publisher":"Springer Nature","title":"Erratum Concerning Incorrect Received Dates in Eight Articles"}
+{
+  "retracted": false,
+  "timestamp": 1387497600000,
+  "updates": [
+    {
+      "timestamp": 1496005734260,
+      "identifier": {
+        "doi": "10.1007/s40304-013-0021-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40304-013-0001-y"
+  },
+  "journal": "Communications in Mathematics and Statistics",
+  "publisher": "Springer Nature",
+  "title": "Erratum Concerning Incorrect Received Dates in Eight Articles"
+}

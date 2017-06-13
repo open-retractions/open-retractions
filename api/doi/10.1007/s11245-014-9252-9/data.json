@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1007/s11245-014-9258-3","type":"correction"},"doi":"10.1007/s11245-014-9252-9","journal":"Topoi","publisher":"Springer Nature","title":"Erratum to: Is There a Philosophy of Information?"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496049678990,
+      "identifier": {
+        "doi": "10.1007/s11245-014-9258-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11245-014-9252-9"
+  },
+  "journal": "Topoi",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Is There a Philosophy of Information?"
+}

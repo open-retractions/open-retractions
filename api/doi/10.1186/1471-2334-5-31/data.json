@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1124409600000,"doi":"10.1186/1471-2334-5-65","type":"correction"},"doi":"10.1186/1471-2334-5-31","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Investigation of Staphylococcus strains with heterogeneous resistance to glycopeptides in a Turkish university hospital"}
+{
+  "retracted": false,
+  "timestamp": 1124409600000,
+  "updates": [
+    {
+      "timestamp": 1495956676161,
+      "identifier": {
+        "doi": "10.1186/1471-2334-5-65"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2334-5-31"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Investigation of Staphylococcus strains with heterogeneous resistance to glycopeptides in a Turkish university hospital"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430179200000,"doi":"10.1016/j.celrep.2015.04.029","type":"err"},"doi":"10.1016/j.celrep.2015.03.004","journal":"Cell Reports","publisher":"Elsevier BV","title":"Structural Basis for Molecular Discrimination by a 3′,3′-cGAMP Sensing Riboswitch"}
+{
+  "retracted": false,
+  "timestamp": 1430179200000,
+  "updates": [
+    {
+      "timestamp": 1495996458193,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2015.04.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.03.004"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Structural Basis for Molecular Discrimination by a 3′,3′-cGAMP Sensing Riboswitch"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400976000000,"doi":"10.1007/s13730-014-0123-4","type":"correction"},"doi":"10.1007/s13730-014-0120-7","journal":"CEN Case Reports","publisher":"Springer Nature","title":"Erratum to: Diuretics-assisted treatment of chronic laxative abuse"}
+{
+  "retracted": false,
+  "timestamp": 1400976000000,
+  "updates": [
+    {
+      "timestamp": 1496041451866,
+      "identifier": {
+        "doi": "10.1007/s13730-014-0123-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13730-014-0120-7"
+  },
+  "journal": "CEN Case Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Diuretics-assisted treatment of chronic laxative abuse"
+}

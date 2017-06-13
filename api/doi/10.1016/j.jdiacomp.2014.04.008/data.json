@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jdiacomp.2014.10.006","type":"err"},"doi":"10.1016/j.jdiacomp.2014.04.008","journal":"Journal of Diabetes and its Complications","publisher":"Elsevier BV","title":"Erratum to “Serum phospholipid omega-3 polyunsaturated fatty acids and insulin resistance in type 2 diabetes mellitus and non-alcoholic fatty liver disease” [Journal of Diabetes and Its Complications 28 (2014) 711–714]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496018029880,
+      "identifier": {
+        "doi": "10.1016/j.jdiacomp.2014.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jdiacomp.2014.04.008"
+  },
+  "journal": "Journal of Diabetes and its Complications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Serum phospholipid omega-3 polyunsaturated fatty acids and insulin resistance in type 2 diabetes mellitus and non-alcoholic fatty liver disease” [Journal of Diabetes and Its Complications 28 (2014) 711–714]"
+}

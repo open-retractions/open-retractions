@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.hlpt.2014.08.010","type":"err"},"doi":"10.1016/j.hlpt.2014.01.002","journal":"Health Policy and Technology","publisher":"Elsevier BV","title":"Erratum to “Integrating remote follow-up into electronic health records workflow” [Health Policy Technol. (2014) 3 126–131]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496007018434,
+      "identifier": {
+        "doi": "10.1016/j.hlpt.2014.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hlpt.2014.01.002"
+  },
+  "journal": "Health Policy and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Integrating remote follow-up into electronic health records workflow” [Health Policy Technol. (2014) 3 126–131]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1303430400000,"doi":"10.1007/s11746-011-1766-3","type":"correction"},"doi":"10.1007/s11746-010-1606-x","journal":"Journal of the American Oil Chemists' Society","publisher":"Springer Nature","title":"Erratum to: Optimization of Physical Refining to Produce Rice Bran Oil with Light Color and High Oryzanol Content"}
+{
+  "retracted": false,
+  "timestamp": 1303430400000,
+  "updates": [
+    {
+      "timestamp": 1495928564133,
+      "identifier": {
+        "doi": "10.1007/s11746-011-1766-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11746-010-1606-x"
+  },
+  "journal": "Journal of the American Oil Chemists' Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Optimization of Physical Refining to Produce Rice Bran Oil with Light Color and High Oryzanol Content"
+}

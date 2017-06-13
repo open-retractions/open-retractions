@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.ecolind.2015.01.030","type":"err"},"doi":"10.1016/j.ecolind.2014.10.019","journal":"Ecological Indicators","publisher":"Elsevier BV","title":"Corrigendum to “Scenario simulations of future salinity and ecological consequences in the Baltic Sea and adjacent North Sea areas – Implications for environmental monitoring” [Ecol. Indic. 50 (2015) 196–205]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496044819151,
+      "identifier": {
+        "doi": "10.1016/j.ecolind.2015.01.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolind.2014.10.019"
+  },
+  "journal": "Ecological Indicators",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Scenario simulations of future salinity and ecological consequences in the Baltic Sea and adjacent North Sea areas – Implications for environmental monitoring” [Ecol. Indic. 50 (2015) 196–205]"
+}

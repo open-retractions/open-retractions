@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464825600000,"doi":"10.1016/j.cell.2016.05.056","type":"err"},"doi":"10.1016/j.cell.2016.04.007","journal":"Cell","publisher":"Elsevier BV","title":"Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans"}
+{
+  "retracted": false,
+  "timestamp": 1464825600000,
+  "updates": [
+    {
+      "timestamp": 1496738757940,
+      "identifier": {
+        "doi": "10.1016/j.cell.2016.05.056"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2016.04.007"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans"
+}

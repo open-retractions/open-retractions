@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475107200000,"doi":"10.1016/j.tet.2016.08.030","type":"erratum"},"doi":"10.1016/j.tet.2016.05.028","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to ‘Synthesis of (2R,8′S,3′E)-δ-tocodienol, a tocoflexol family member designed to have a superior pharmacokinetic profile compared to δ-tocotrienol’ [Tetrahedron 72 (2016) 4001–4006]"}
+{
+  "retracted": false,
+  "timestamp": 1475107200000,
+  "updates": [
+    {
+      "timestamp": 1495740918411,
+      "identifier": {
+        "doi": "10.1016/j.tet.2016.08.030"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2016.05.028"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Synthesis of (2R,8′S,3′E)-δ-tocodienol, a tocoflexol family member designed to have a superior pharmacokinetic profile compared to δ-tocotrienol’ [Tetrahedron 72 (2016) 4001–4006]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1353369600000,"doi":"10.1371/annotation/d08032c8-4a27-4c9c-8ef7-b3ec64351cde","type":"correction"},"doi":"10.1371/journal.pone.0041499","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Cytosolic Phospholipase A2alpha/Arachidonic Acid Signaling Mediates Depolarization-Induced Suppression of Excitation in the Cerebellum"}
+{
+  "retracted": false,
+  "timestamp": 1353369600000,
+  "updates": [
+    {
+      "timestamp": 1495974636154,
+      "identifier": {
+        "doi": "10.1371/annotation/d08032c8-4a27-4c9c-8ef7-b3ec64351cde"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0041499"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cytosolic Phospholipase A2alpha/Arachidonic Acid Signaling Mediates Depolarization-Induced Suppression of Excitation in the Cerebellum"
+}

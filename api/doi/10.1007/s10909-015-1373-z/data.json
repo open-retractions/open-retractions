@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1007/s10909-016-1608-7","type":"correction"},"doi":"10.1007/s10909-015-1373-z","journal":"Journal of Low Temperature Physics","publisher":"Springer Nature","title":"Erratum to: Developments in Time-Division Multiplexing of X-ray Transition-Edge Sensors"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495658458142,
+      "identifier": {
+        "doi": "10.1007/s10909-016-1608-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10909-015-1373-z"
+  },
+  "journal": "Journal of Low Temperature Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Developments in Time-Division Multiplexing of X-ray Transition-Edge Sensors"
+}

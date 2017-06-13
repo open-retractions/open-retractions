@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418947200000,"doi":"10.1098/rstb.2014.0314","type":"correction"},"doi":"10.1098/rstb.2013.0543","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Correction to 'Primoridal germ cell specification: a context-dependent cellular differentiation event'"}
+{
+  "retracted": false,
+  "timestamp": 1418947200000,
+  "updates": [
+    {
+      "timestamp": 1496020265042,
+      "identifier": {
+        "doi": "10.1098/rstb.2014.0314"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2013.0543"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Correction to 'Primoridal germ cell specification: a context-dependent cellular differentiation event'"
+}

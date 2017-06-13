@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jnutbio.2014.07.001","type":"err"},"doi":"10.1016/j.jnutbio.2009.08.006","journal":"The Journal of Nutritional Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to: High-calorie diet partially ameliorates dysregulation of intrarenal lipid metabolism in the remnant kidney [J Nutr Biochem 2010;21:999–1007]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496004747907,
+      "identifier": {
+        "doi": "10.1016/j.jnutbio.2014.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jnutbio.2009.08.006"
+  },
+  "journal": "The Journal of Nutritional Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: High-calorie diet partially ameliorates dysregulation of intrarenal lipid metabolism in the remnant kidney [J Nutr Biochem 2010;21:999–1007]"
+}

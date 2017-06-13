@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416009600000,"doi":"10.1007/s11239-014-1149-3","type":"correction"},"doi":"10.1007/s11239-014-1140-z","journal":"Journal of Thrombosis and Thrombolysis","publisher":"Springer Nature","title":"Erratum to: Differing coagulation profiles of patients with monoclonal gammopathy of undetermined significance and multiple myeloma"}
+{
+  "retracted": false,
+  "timestamp": 1416009600000,
+  "updates": [
+    {
+      "timestamp": 1496021505598,
+      "identifier": {
+        "doi": "10.1007/s11239-014-1149-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11239-014-1140-z"
+  },
+  "journal": "Journal of Thrombosis and Thrombolysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Differing coagulation profiles of patients with monoclonal gammopathy of undetermined significance and multiple myeloma"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389571200000,"doi":"10.1371/annotation/67f7aa15-31d8-4760-9dfc-4f4e0bd63ea9","type":"correction"},"doi":"10.1371/journal.pone.0056834","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Type A Francisella tularensis Acid Phosphatases Contribute to Pathogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1389571200000,
+  "updates": [
+    {
+      "timestamp": 1496012541791,
+      "identifier": {
+        "doi": "10.1371/annotation/67f7aa15-31d8-4760-9dfc-4f4e0bd63ea9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0056834"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Type A Francisella tularensis Acid Phosphatases Contribute to Pathogenesis"
+}

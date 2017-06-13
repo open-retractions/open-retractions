@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1224892800000,"doi":"10.1007/bf02950074","type":"correction"},"doi":"10.1007/bf02950060","journal":"The Irish Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to A Textbook of X-Ray Diagnosis"}
+{
+  "retracted": false,
+  "timestamp": 1224892800000,
+  "updates": [
+    {
+      "timestamp": 1496010285702,
+      "identifier": {
+        "doi": "10.1007/bf02950074"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02950060"
+  },
+  "journal": "The Irish Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to A Textbook of X-Ray Diagnosis"
+}

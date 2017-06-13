@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.bbagen.2013.05.002","type":"err"},"doi":"10.1016/j.bbagen.2012.11.010","journal":"Biochimica et Biophysica Acta (BBA) - General Subjects","publisher":"Elsevier BV","title":"Erratum to “Sustained ERK inhibition by EGFR targeting therapies is a predictive factor for synergistic cytotoxicity with PDT as neoadjuvant therapy” [Biochim. Biophys. Acta 1830 (2013) 2659–2670]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496018968001,
+      "identifier": {
+        "doi": "10.1016/j.bbagen.2013.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbagen.2012.11.010"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - General Subjects",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Sustained ERK inhibition by EGFR targeting therapies is a predictive factor for synergistic cytotoxicity with PDT as neoadjuvant therapy” [Biochim. Biophys. Acta 1830 (2013) 2659–2670]"
+}

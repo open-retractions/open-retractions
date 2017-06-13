@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430956800000,"doi":"10.1063/1.4919883","type":"correction"},"doi":"10.1063/1.4865208","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Upper bounds for flexoelectric coefficients in ferroelectrics” [Appl. Phys. Lett. 104, 082913 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1495998486835,
+      "identifier": {
+        "doi": "10.1063/1.4919883"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4865208"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Upper bounds for flexoelectric coefficients in ferroelectrics” [Appl. Phys. Lett. 104, 082913 (2014)]"
+}

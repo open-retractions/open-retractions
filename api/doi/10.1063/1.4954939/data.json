@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1063/1.4968222","type":"correction"},"doi":"10.1063/1.4954939","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Ab initio study of vacancy formation in cubic LaMnO3 and SmCoO3 as cathode materials in solid oxide fuel cells” [J. Chem. Phys. 145, 014703 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495658093910,
+      "identifier": {
+        "doi": "10.1063/1.4968222"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4954939"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Ab initio study of vacancy formation in cubic LaMnO3 and SmCoO3 as cathode materials in solid oxide fuel cells” [J. Chem. Phys. 145, 014703 (2016)]"
+}

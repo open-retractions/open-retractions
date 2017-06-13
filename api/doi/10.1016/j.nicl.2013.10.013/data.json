@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.nicl.2016.01.005","type":"erratum"},"doi":"10.1016/j.nicl.2013.10.013","journal":"NeuroImage: Clinical","publisher":"Elsevier BV","title":"Corrigendum to “Neuroanatomical correlates of Klinefelter syndrome studied in relation to the neuropsychological profile” [NeuroImage:Clin 4 (2014) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496059441420,
+      "identifier": {
+        "doi": "10.1016/j.nicl.2016.01.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nicl.2013.10.013"
+  },
+  "journal": "NeuroImage: Clinical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Neuroanatomical correlates of Klinefelter syndrome studied in relation to the neuropsychological profile” [NeuroImage:Clin 4 (2014) 1–9]"
+}

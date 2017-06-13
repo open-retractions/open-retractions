@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431993600000,"doi":"10.1007/s00439-015-1565-2","type":"correction"},"doi":"10.1007/s00439-015-1562-5","journal":"Human Genetics","publisher":"Springer Nature","title":"Erratum to: Copy number variation in the human Y chromosome in the UK population"}
+{
+  "retracted": false,
+  "timestamp": 1431993600000,
+  "updates": [
+    {
+      "timestamp": 1496000760299,
+      "identifier": {
+        "doi": "10.1007/s00439-015-1565-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00439-015-1562-5"
+  },
+  "journal": "Human Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Copy number variation in the human Y chromosome in the UK population"
+}

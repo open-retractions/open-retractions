@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421884800000,"doi":"10.1016/j.toxlet.2014.11.004","type":"err"},"doi":"10.1016/j.toxlet.2014.02.009","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “Coumarin derivatives, but not coumarin itself, cause skin irritation via topical delivery”. Toxicology letters 226(2014) 173–181"}
+{
+  "retracted": false,
+  "timestamp": 1421884800000,
+  "updates": [
+    {
+      "timestamp": 1496019557935,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2014.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2014.02.009"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Coumarin derivatives, but not coumarin itself, cause skin irritation via topical delivery”. Toxicology letters 226(2014) 173–181"
+}

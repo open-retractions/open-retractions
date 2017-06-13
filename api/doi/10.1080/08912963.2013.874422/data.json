@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397606400000,"doi":"10.1080/08912963.2014.908644","type":"correction"},"doi":"10.1080/08912963.2013.874422","journal":"Historical Biology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1397606400000,
+  "updates": [
+    {
+      "timestamp": 1496033604997,
+      "identifier": {
+        "doi": "10.1080/08912963.2014.908644"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08912963.2013.874422"
+  },
+  "journal": "Historical Biology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.renene.2016.06.031","type":"err"},"doi":"10.1016/j.renene.2011.08.032","journal":"Renewable Energy","publisher":"Elsevier BV","title":"Corrigendum to “Similarity and generalized analysis of efficiencies of thermal energy storage systems” [Renew. Energy 39 (2012) 388–402]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495722359328,
+      "identifier": {
+        "doi": "10.1016/j.renene.2016.06.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.renene.2011.08.032"
+  },
+  "journal": "Renewable Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Similarity and generalized analysis of efficiencies of thermal energy storage systems” [Renew. Energy 39 (2012) 388–402]"
+}

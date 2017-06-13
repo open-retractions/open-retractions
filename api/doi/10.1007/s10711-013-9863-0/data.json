@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415404800000,"doi":"10.1007/s10711-014-0023-y","type":"correction"},"doi":"10.1007/s10711-013-9863-0","journal":"Geometriae Dedicata","publisher":"Springer Nature","title":"Erratum to: Sharp upper bound for the first eigenvalue"}
+{
+  "retracted": false,
+  "timestamp": 1415404800000,
+  "updates": [
+    {
+      "timestamp": 1496020759728,
+      "identifier": {
+        "doi": "10.1007/s10711-014-0023-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10711-013-9863-0"
+  },
+  "journal": "Geometriae Dedicata",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Sharp upper bound for the first eigenvalue"
+}

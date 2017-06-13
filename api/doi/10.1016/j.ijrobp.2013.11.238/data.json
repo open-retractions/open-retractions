@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ijrobp.2014.03.010","type":"err"},"doi":"10.1016/j.ijrobp.2013.11.238","journal":"International Journal of Radiation Oncology*Biology*Physics","publisher":"Elsevier BV","title":"Erratum to: Lee CL, Min H, Befera N, et al. Assessing cardiac injury in mice with dual energy-microCT, 4D-microCT, and microSPECT imaging after partial heart irradiation. Int J Radiat Oncol Biol Phys 2014;88:686-693."}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496050464056,
+      "identifier": {
+        "doi": "10.1016/j.ijrobp.2014.03.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijrobp.2013.11.238"
+  },
+  "journal": "International Journal of Radiation Oncology*Biology*Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Lee CL, Min H, Befera N, et al. Assessing cardiac injury in mice with dual energy-microCT, 4D-microCT, and microSPECT imaging after partial heart irradiation. Int J Radiat Oncol Biol Phys 2014;88:686-693."
+}

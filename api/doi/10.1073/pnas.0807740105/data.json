@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229990400000,"doi":"10.1073/pnas.0901888106","type":"correction"},"doi":"10.1073/pnas.0807740105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Poon and Chen, Retinoic acid-gated sequence-specific translational control by RAR "}
+{
+  "retracted": false,
+  "timestamp": 1229990400000,
+  "updates": [
+    {
+      "timestamp": 1495947132628,
+      "identifier": {
+        "doi": "10.1073/pnas.0901888106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0807740105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Poon and Chen, Retinoic acid-gated sequence-specific translational control by RAR "
+}

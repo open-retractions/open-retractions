@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.orl.2015.01.006","type":"err"},"doi":"10.1016/j.orl.2013.07.009","journal":"Operations Research Letters","publisher":"Elsevier BV","title":"Corrigendum to “A scenario decomposition algorithm for 0–1 stochastic programs” [Oper. Res. Lett. 41(6) (2013) 565–569]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496040363642,
+      "identifier": {
+        "doi": "10.1016/j.orl.2015.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.orl.2013.07.009"
+  },
+  "journal": "Operations Research Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A scenario decomposition algorithm for 0–1 stochastic programs” [Oper. Res. Lett. 41(6) (2013) 565–569]"
+}

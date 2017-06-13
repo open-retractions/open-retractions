@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493596800000,"doi":"10.1016/j.nuclphysa.2017.03.003","type":"erratum"},"doi":"10.1016/j.nuclphysa.2016.03.045","journal":"Nuclear Physics A","publisher":"Elsevier BV","title":"Erratum to “Leptons from heavy-quark semileptonic decay in p A collisions within the CGC framework” [Nucl. Phys. A 951 (2016) 45]"}
+{
+  "retracted": false,
+  "timestamp": 1493596800000,
+  "updates": [
+    {
+      "timestamp": 1495730903003,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysa.2017.03.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nuclphysa.2016.03.045"
+  },
+  "journal": "Nuclear Physics A",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Leptons from heavy-quark semileptonic decay in p A  collisions within the CGC framework” [Nucl. Phys. A 951 (2016) 45]"
+}

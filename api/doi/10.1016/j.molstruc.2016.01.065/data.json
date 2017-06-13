@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471219200000,"doi":"10.1016/j.molstruc.2016.04.021","type":"err"},"doi":"10.1016/j.molstruc.2016.01.065","journal":"Journal of Molecular Structure","publisher":"Elsevier BV","title":"Corrigendum to “Theoretical investigation of non-covalent interactions and spectroscopic properties of a new mixed-ligand Co(II) complex” [J. Mol. Struct. 1111 (2016) 193–200]"}
+{
+  "retracted": false,
+  "timestamp": 1471219200000,
+  "updates": [
+    {
+      "timestamp": 1495672051902,
+      "identifier": {
+        "doi": "10.1016/j.molstruc.2016.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molstruc.2016.01.065"
+  },
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Theoretical investigation of non-covalent interactions and spectroscopic properties of a new mixed-ligand Co(II) complex” [J. Mol. Struct. 1111 (2016) 193–200]"
+}

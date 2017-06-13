@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jct.2015.05.017","type":"err"},"doi":"10.1016/j.jct.2013.09.039","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Experimental and Nitta–Chao model prediction of high pressure density of p-xylene with dialkyl carbonates or n-alkanes” [J. Chem. Thermodyn. 69 (2014) 193–200]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496007607239,
+      "identifier": {
+        "doi": "10.1016/j.jct.2015.05.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.09.039"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Experimental and Nitta–Chao model prediction of high pressure density of p-xylene with dialkyl carbonates or n-alkanes” [J. Chem. Thermodyn. 69 (2014) 193–200]"
+}

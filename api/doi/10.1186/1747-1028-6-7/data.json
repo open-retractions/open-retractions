@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475712000000,"doi":"10.1186/s13008-016-0018-1","type":"correction"},"doi":"10.1186/1747-1028-6-7","journal":"Cell Division","publisher":"Springer Nature","title":"Erratum to: The loop-less tmCdc34 E2 mutant defective polyubiquitination in vitro and in vivo supports yeast growth in a manner dependent on Ubp14 and Cka2"}
+{
+  "retracted": false,
+  "timestamp": 1475712000000,
+  "updates": [
+    {
+      "timestamp": 1495646571610,
+      "identifier": {
+        "doi": "10.1186/s13008-016-0018-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1747-1028-6-7"
+  },
+  "journal": "Cell Division",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The loop-less tmCdc34 E2 mutant defective polyubiquitination in vitro and in vivo supports yeast growth in a manner dependent on Ubp14 and Cka2"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458518400000,"doi":"10.1007/s10549-016-3754-7","type":"correction"},"doi":"10.1007/s10549-013-2737-1","journal":"Breast Cancer Research and Treatment","publisher":"Springer Nature","title":"Erratum to: RAGE-binding S100A8/A9 promotes the migration and invasion of human breast cancer cells through actin polymerization and epithelial–mesenchymal transition"}
+{
+  "retracted": false,
+  "timestamp": 1458518400000,
+  "updates": [
+    {
+      "timestamp": 1495654645988,
+      "identifier": {
+        "doi": "10.1007/s10549-016-3754-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10549-013-2737-1"
+  },
+  "journal": "Breast Cancer Research and Treatment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: RAGE-binding S100A8/A9 promotes the migration and invasion of human breast cancer cells through actin polymerization and epithelial–mesenchymal transition"
+}

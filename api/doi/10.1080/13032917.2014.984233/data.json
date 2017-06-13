@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1080/13032917.2014.997458","type":"correction"},"doi":"10.1080/13032917.2014.984233","journal":"Anatolia","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496034727576,
+      "identifier": {
+        "doi": "10.1080/13032917.2014.997458"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13032917.2014.984233"
+  },
+  "journal": "Anatolia",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

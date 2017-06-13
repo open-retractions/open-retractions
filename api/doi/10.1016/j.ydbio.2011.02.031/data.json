@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1016/j.ydbio.2014.04.009","type":"err"},"doi":"10.1016/j.ydbio.2011.02.031","journal":"Developmental Biology","publisher":"Elsevier BV","title":"Corrigendum to: “Six1 transcription factor is critical for coordination of epithelial, mesenchymal and vascular morphogenesis in the mammalian lung” [Dev. Biol. 353 (2011) 242–258]"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496034979172,
+      "identifier": {
+        "doi": "10.1016/j.ydbio.2014.04.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ydbio.2011.02.031"
+  },
+  "journal": "Developmental Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Six1 transcription factor is critical for coordination of epithelial, mesenchymal and vascular morphogenesis in the mammalian lung” [Dev. Biol. 353 (2011) 242–258]"
+}

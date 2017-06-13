@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491264000000,"doi":"10.1007/s12282-017-0771-2","type":"correction"},"doi":"10.1007/s12282-016-0730-3","journal":"Breast Cancer","publisher":"Springer Nature","title":"Erratum to: Post-relapse survival in patients with the early and late distant recurrence in estrogen receptor-positive HER2-negative breast cancer"}
+{
+  "retracted": false,
+  "timestamp": 1491264000000,
+  "updates": [
+    {
+      "timestamp": 1495736137339,
+      "identifier": {
+        "doi": "10.1007/s12282-017-0771-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12282-016-0730-3"
+  },
+  "journal": "Breast Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Post-relapse survival in patients with the early and late distant recurrence in estrogen receptor-positive HER2-negative breast cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1279584000000,"doi":"10.1073/pnas.1304972110","type":"correction"},"doi":"10.1073/pnas.1007586107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for McManus et al., Global analysis of trans-splicing in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1279584000000,
+  "updates": [
+    {
+      "timestamp": 1496011219924,
+      "identifier": {
+        "doi": "10.1073/pnas.1304972110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1007586107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for McManus et al., Global analysis of trans-splicing in Drosophila"
+}

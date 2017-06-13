@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329436800000,"doi":"10.1017/s0953820811000446","type":"correction"},"doi":"10.1017/s0953820811000318","journal":"Utilitas","publisher":"Cambridge University Press (CUP)","title":"Fred Feldman, What is This Thing Called Happiness? (Oxford: Oxford University Press, 2010), pp. xv + 286-ERRATUM."}
+{
+  "retracted": false,
+  "timestamp": 1329436800000,
+  "updates": [
+    {
+      "timestamp": 1495875966479,
+      "identifier": {
+        "doi": "10.1017/s0953820811000446"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0953820811000318"
+  },
+  "journal": "Utilitas",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Fred Feldman, What is This Thing Called Happiness? (Oxford: Oxford University Press, 2010), pp. xv + 286-ERRATUM."
+}

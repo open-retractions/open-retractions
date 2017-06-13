@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344988800000,"doi":"10.5555/10.1163-789004218833-01","type":"erratum"},"doi":"10.5555/10.1163-9789004218833","journal":"European History and Culture E-Books Online, Collection 2012","publisher":"CrossRef Test Account","title":"Erratum: Joost van den Vondel (1587-1679) example"}
+{
+  "retracted": false,
+  "timestamp": 1344988800000,
+  "updates": [
+    {
+      "timestamp": 1495955156198,
+      "identifier": {
+        "doi": "10.5555/10.1163-789004218833-01"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.5555/10.1163-9789004218833"
+  },
+  "journal": "European History and Culture E-Books Online, Collection 2012",
+  "publisher": "CrossRef Test Account",
+  "title": "Erratum: Joost van den Vondel (1587-1679) example"
+}

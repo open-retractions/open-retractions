@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.joms.2016.10.017","type":"erratum"},"doi":"10.1016/j.joms.2016.03.038","journal":"Journal of Oral and Maxillofacial Surgery","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495656786505,
+      "identifier": {
+        "doi": "10.1016/j.joms.2016.10.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.joms.2016.03.038"
+  },
+  "journal": "Journal of Oral and Maxillofacial Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

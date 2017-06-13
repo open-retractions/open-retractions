@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1063/1.4960996","type":"correction"},"doi":"10.1063/1.4948467","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Publisher's Note: “Investigation of the operating characteristics of a 12-cavity rising-sun relativistic magnetron with diffraction output using particle-in-cell simulations” [Phys. Plasmas 23, 052104 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495737307559,
+      "identifier": {
+        "doi": "10.1063/1.4960996"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4948467"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Investigation of the operating characteristics of a 12-cavity rising-sun relativistic magnetron with diffraction output using particle-in-cell simulations” [Phys. Plasmas 23, 052104 (2016)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452470400000,"doi":"10.1016/j.cub.2015.12.008","type":"erratum"},"doi":"10.1016/j.cub.2015.09.001","journal":"Current Biology","publisher":"Elsevier BV","title":"Learning and Memory: Do Bees Dream?"}
+{
+  "retracted": false,
+  "timestamp": 1452470400000,
+  "updates": [
+    {
+      "timestamp": 1496059345486,
+      "identifier": {
+        "doi": "10.1016/j.cub.2015.12.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2015.09.001"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Learning and Memory: Do Bees Dream?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.shpsb.2015.05.001","type":"err"},"doi":"10.1016/j.shpsb.2013.12.005","journal":"Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics","publisher":"Elsevier BV","title":"Corrigendum to “Dark matter, the Equivalence Principle and modified gravity” [Stud. Hist. Philos. Sci. Part B: Stud. Hist. Philos. Mod. Phys. 45 (2014) 66–71]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1495998270048,
+      "identifier": {
+        "doi": "10.1016/j.shpsb.2015.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.shpsb.2013.12.005"
+  },
+  "journal": "Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Dark matter, the Equivalence Principle and modified gravity” [Stud. Hist. Philos. Sci. Part B: Stud. Hist. Philos. Mod. Phys. 45 (2014) 66–71]"
+}

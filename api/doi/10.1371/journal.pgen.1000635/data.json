@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1262131200000,"doi":"10.1371/annotation/20bf08d1-07e9-451e-b079-166832ebe158","type":"correction"},"doi":"10.1371/journal.pgen.1000635","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: GASZ Is Essential for Male Meiosis and Suppression of Retrotransposon Expression in the Male Germline"}
+{
+  "retracted": false,
+  "timestamp": 1262131200000,
+  "updates": [
+    {
+      "timestamp": 1496025197912,
+      "identifier": {
+        "doi": "10.1371/annotation/20bf08d1-07e9-451e-b079-166832ebe158"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000635"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: GASZ Is Essential for Male Meiosis and Suppression of Retrotransposon Expression in the Male Germline"
+}

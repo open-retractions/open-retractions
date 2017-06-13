@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472169600000,"doi":"10.1186/s13059-016-1047-4","type":"correction"},"doi":"10.1186/s13059-016-0881-8","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: A survey of best practices for RNA-seq data analysis"}
+{
+  "retracted": false,
+  "timestamp": 1472169600000,
+  "updates": [
+    {
+      "timestamp": 1495741039614,
+      "identifier": {
+        "doi": "10.1186/s13059-016-1047-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-016-0881-8"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A survey of best practices for RNA-seq data analysis"
+}

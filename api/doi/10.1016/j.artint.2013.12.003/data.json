@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.artint.2014.04.002","type":"err"},"doi":"10.1016/j.artint.2013.12.003","journal":"Artificial Intelligence","publisher":"Elsevier BV","title":"Erratum to ‘A logic for reasoning about ambiguity’ [Artificial Intelligence 209 (2014) 1–10]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496032454707,
+      "identifier": {
+        "doi": "10.1016/j.artint.2014.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.artint.2013.12.003"
+  },
+  "journal": "Artificial Intelligence",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘A logic for reasoning about ambiguity’ [Artificial Intelligence 209 (2014) 1–10]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420416000000,"doi":"10.1063/1.4905390","type":"correction"},"doi":"10.1063/1.4798237","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Deep level defects in n-type GaAsBi and GaAs grown at low temperatures” [J. Appl. Phys. 113, 133708 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1420416000000,
+  "updates": [
+    {
+      "timestamp": 1496034537748,
+      "identifier": {
+        "doi": "10.1063/1.4905390"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4798237"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Deep level defects in n-type GaAsBi and GaAs grown at low temperatures” [J. Appl. Phys. 113, 133708 (2013)]"
+}

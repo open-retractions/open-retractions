@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.cbpb.2014.06.006","type":"err"},"doi":"10.1016/j.cbpb.2013.09.002","journal":"Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology","publisher":"Elsevier BV","title":"Corrigendum to “Chemical fingerprinting and phylogenetic mapping of saponin congeners from three tropical holothurian sea cucumbers” [Comp. Biochem. Physiol. B 166 (3–4) (2013) 182–193]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496049647987,
+      "identifier": {
+        "doi": "10.1016/j.cbpb.2014.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbpb.2013.09.002"
+  },
+  "journal": "Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Chemical fingerprinting and phylogenetic mapping of saponin congeners from three tropical holothurian sea cucumbers” [Comp. Biochem. Physiol. B 166 (3–4) (2013) 182–193]"
+}

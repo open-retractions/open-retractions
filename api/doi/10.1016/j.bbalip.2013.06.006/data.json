@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.bbalip.2014.08.002","type":"err"},"doi":"10.1016/j.bbalip.2013.06.006","journal":"Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids","publisher":"Elsevier BV","title":"Corrigendum to “Co-evolution of sphingomyelin and the ceramide transport protein CERT” [Biochim. Biophys. Acta 1841 (2014) 704–719]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496000029712,
+      "identifier": {
+        "doi": "10.1016/j.bbalip.2014.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbalip.2013.06.006"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Co-evolution of sphingomyelin and the ceramide transport protein CERT” [Biochim. Biophys. Acta 1841 (2014) 704–719]"
+}

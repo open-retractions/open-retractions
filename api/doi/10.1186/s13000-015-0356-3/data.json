@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442448000000,"doi":"10.1186/s13000-015-0410-1","type":"correction"},"doi":"10.1186/s13000-015-0356-3","journal":"Diagnostic Pathology","publisher":"Springer Nature","title":"Erratum to: The significance of NTR1 expression and its correlation with β-catenin and EGFR in gastric cancer"}
+{
+  "retracted": false,
+  "timestamp": 1442448000000,
+  "updates": [
+    {
+      "timestamp": 1496028374762,
+      "identifier": {
+        "doi": "10.1186/s13000-015-0410-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13000-015-0356-3"
+  },
+  "journal": "Diagnostic Pathology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The significance of NTR1 expression and its correlation with β-catenin and EGFR in gastric cancer"
+}

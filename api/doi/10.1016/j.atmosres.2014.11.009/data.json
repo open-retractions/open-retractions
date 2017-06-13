@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.atmosres.2015.10.019","type":"erratum"},"doi":"10.1016/j.atmosres.2014.11.009","journal":"Atmospheric Research","publisher":"Elsevier BV","title":"Corrigendum to “Vertical and horizontal concentration profiles from a tracer experiment in an heterogeneous urban area” [Atmos. Res. 154C (2015) 126–137]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496042785156,
+      "identifier": {
+        "doi": "10.1016/j.atmosres.2015.10.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosres.2014.11.009"
+  },
+  "journal": "Atmospheric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Vertical and horizontal concentration profiles from a tracer experiment in an heterogeneous urban area” [Atmos. Res. 154C (2015) 126–137]"
+}

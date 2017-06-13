@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.nuclphysb.2016.12.017","type":"erratum"},"doi":"10.1016/0550-3213(79)90158-5","journal":"Nuclear Physics B","publisher":"Elsevier BV","title":"Corrigendum to “Renormalization of the Cottingham formula” [Nucl. Phys. B 149 (1979) 90–100]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495670229050,
+      "identifier": {
+        "doi": "10.1016/j.nuclphysb.2016.12.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/0550-3213(79)90158-5"
+  },
+  "journal": "Nuclear Physics B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Renormalization of the Cottingham formula” [Nucl. Phys. B 149 (1979) 90–100]"
+}

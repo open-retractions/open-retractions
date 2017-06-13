@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.neuroimage.2013.05.059","type":"err"},"doi":"10.1016/j.neuroimage.2012.02.058","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Neuroimaging in aphasia treatment research: Consensus and practical guidelines for data analysis” [Neuroimage 73 (2013) 215–224]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496021427815,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2013.05.059"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2012.02.058"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Neuroimaging in aphasia treatment research: Consensus and practical guidelines for data analysis” [Neuroimage 73 (2013) 215–224]"
+}

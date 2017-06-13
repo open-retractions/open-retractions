@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473984000000,"doi":"10.1016/j.cplett.2016.09.050","type":"err"},"doi":"10.1016/j.cplett.2016.02.055","journal":"Chemical Physics Letters","publisher":"Elsevier BV","title":"Erratum to “Enhanced emission from an ensemble of inverted atoms in the presence of another isotopic species” [Chem. Phys Lett 650 (216) 16–18]"}
+{
+  "retracted": false,
+  "timestamp": 1473984000000,
+  "updates": [
+    {
+      "timestamp": 1495640667710,
+      "identifier": {
+        "doi": "10.1016/j.cplett.2016.09.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cplett.2016.02.055"
+  },
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Enhanced emission from an ensemble of inverted atoms in the presence of another isotopic species” [Chem. Phys Lett 650 (216) 16–18]"
+}

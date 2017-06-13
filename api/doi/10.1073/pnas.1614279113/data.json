@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1073/pnas.1621475114","type":"correction"},"doi":"10.1073/pnas.1614279113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Honda et al., Dual chromatin recognition by the histone deacetylase complex HCHC is required for proper DNA methylation inNeurospora crassa"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495679786102,
+      "identifier": {
+        "doi": "10.1073/pnas.1621475114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1614279113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Honda et al., Dual chromatin recognition by the histone deacetylase complex HCHC is required for proper DNA methylation inNeurospora crassa"
+}

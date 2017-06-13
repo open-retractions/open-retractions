@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464134400000,"doi":"10.1007/s10545-016-9944-y","type":"correction"},"doi":"10.1007/s10545-015-9843-7","journal":"Journal of Inherited Metabolic Disease","publisher":"Springer Nature","title":"Erratum to: Untargeted metabolomic analysis for the clinical screening of inborn errors of metabolism"}
+{
+  "retracted": false,
+  "timestamp": 1464134400000,
+  "updates": [
+    {
+      "timestamp": 1495715998852,
+      "identifier": {
+        "doi": "10.1007/s10545-016-9944-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10545-015-9843-7"
+  },
+  "journal": "Journal of Inherited Metabolic Disease",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Untargeted metabolomic analysis for the clinical screening of inborn errors of metabolism"
+}

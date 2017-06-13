@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370044800000,"doi":"10.1016/j.bpa.2013.04.001","type":"err"},"doi":"10.1016/j.bpa.2013.02.004","journal":"Best Practice & Research Clinical Anaesthesiology","publisher":"Elsevier BV","title":"Corrigendum to “Emerging haemostatic agents and patient blood management” [Best Pract Res Clin Anaesthesiol 27/1 (2013) 141–160]"}
+{
+  "retracted": false,
+  "timestamp": 1370044800000,
+  "updates": [
+    {
+      "timestamp": 1496044333260,
+      "identifier": {
+        "doi": "10.1016/j.bpa.2013.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpa.2013.02.004"
+  },
+  "journal": "Best Practice & Research Clinical Anaesthesiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Emerging haemostatic agents and patient blood management” [Best Pract Res Clin Anaesthesiol 27/1 (2013) 141–160]"
+}

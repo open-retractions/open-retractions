@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487203200000,"doi":"10.1134/s1990519x17010138","type":"correction"},"doi":"10.1134/s1990519x16060055","journal":"Cell and Tissue Biology","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Tip growth of Neurospora crassa upon resource shortage: Disturbances of the coordination of elongation, branching, and septation”"}
+{
+  "retracted": false,
+  "timestamp": 1487203200000,
+  "updates": [
+    {
+      "timestamp": 1495720738466,
+      "identifier": {
+        "doi": "10.1134/s1990519x17010138"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1990519x16060055"
+  },
+  "journal": "Cell and Tissue Biology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Tip growth of Neurospora crassa upon resource shortage: Disturbances of the coordination of elongation, branching, and septation”"
+}

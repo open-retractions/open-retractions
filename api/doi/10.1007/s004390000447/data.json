@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":990576000000,"doi":"10.1007/s004390100532","type":"correction"},"doi":"10.1007/s004390000447","journal":"Human Genetics","publisher":"Springer Nature","title":"Erratum to Back mutation can produce phenotype reversion in Bloom syndrome somatic cells"}
+{
+  "retracted": false,
+  "timestamp": 990576000000,
+  "updates": [
+    {
+      "timestamp": 1495896911221,
+      "identifier": {
+        "doi": "10.1007/s004390100532"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s004390000447"
+  },
+  "journal": "Human Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to Back mutation can produce phenotype reversion in Bloom syndrome somatic cells"
+}

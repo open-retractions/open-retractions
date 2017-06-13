@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464480000000,"doi":"10.1080/14712598.2016.1195557","type":"correction"},"doi":"10.1517/14712598.2016.1174211","journal":"Expert Opinion on Biological Therapy","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464480000000,
+  "updates": [
+    {
+      "timestamp": 1495716869959,
+      "identifier": {
+        "doi": "10.1080/14712598.2016.1195557"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1517/14712598.2016.1174211"
+  },
+  "journal": "Expert Opinion on Biological Therapy",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

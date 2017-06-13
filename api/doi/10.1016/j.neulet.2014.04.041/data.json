@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436486400000,"doi":"10.1016/j.neulet.2015.05.042","type":"erratum"},"doi":"10.1016/j.neulet.2014.04.041","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “The amyloid-beta degradation pattern in plasma—A possible tool for clinical trials in Alzheimer’s disease” [Neurosci. Lett. 573 (2014) 7–12]"}
+{
+  "retracted": false,
+  "timestamp": 1436486400000,
+  "updates": [
+    {
+      "timestamp": 1495998761305,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2015.05.042"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2014.04.041"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The amyloid-beta degradation pattern in plasma—A possible tool for clinical trials in Alzheimer’s disease” [Neurosci. Lett. 573 (2014) 7–12]"
+}

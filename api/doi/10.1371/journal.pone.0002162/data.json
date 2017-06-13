@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1213660800000,"doi":"10.1371/annotation/9ae0d68c-71ee-46af-b157-07c34a89bc1f","type":"correction"},"doi":"10.1371/journal.pone.0002162","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Expression of Aquaporin 5 (AQP5) Promotes Tumor Invasion in Human Non Small Cell Lung Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1213660800000,
+  "updates": [
+    {
+      "timestamp": 1496023932357,
+      "identifier": {
+        "doi": "10.1371/annotation/9ae0d68c-71ee-46af-b157-07c34a89bc1f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002162"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Expression of Aquaporin 5 (AQP5) Promotes Tumor Invasion in Human Non Small Cell Lung Cancer"
+}

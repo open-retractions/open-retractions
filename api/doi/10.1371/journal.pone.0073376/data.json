@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377734400000,"doi":"10.1371/annotation/6b2dd528-d9e8-41e1-ae58-db15f5936f2e","type":"correction"},"doi":"10.1371/journal.pone.0073376","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Livestock-Associated Methicillin-Resistant Staphylococcus aureus (LA-MRSA) Isolates of Swine Origin Form Robust Biofilms"}
+{
+  "retracted": false,
+  "timestamp": 1377734400000,
+  "updates": [
+    {
+      "timestamp": 1496044069239,
+      "identifier": {
+        "doi": "10.1371/annotation/6b2dd528-d9e8-41e1-ae58-db15f5936f2e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073376"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Livestock-Associated Methicillin-Resistant Staphylococcus aureus (LA-MRSA) Isolates of Swine Origin Form Robust Biofilms"
+}

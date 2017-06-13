@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483920000000,"doi":"10.1080/24699322.2016.1275268","type":"correction"},"doi":"10.1080/24699322.2016.1240305","journal":"Computer Assisted Surgery","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1483920000000,
+  "updates": [
+    {
+      "timestamp": 1495673599187,
+      "identifier": {
+        "doi": "10.1080/24699322.2016.1275268"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/24699322.2016.1240305"
+  },
+  "journal": "Computer Assisted Surgery",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

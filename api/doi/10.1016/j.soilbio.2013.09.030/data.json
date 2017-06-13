@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.soilbio.2014.03.018","type":"err"},"doi":"10.1016/j.soilbio.2013.09.030","journal":"Soil Biology and Biochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Enhancing ecosystem services in sustainable agriculture: Biofertilization and biofortification of chickpea (Cicer arietinum L.) by arbuscular mycorrhizal fungi.”"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496029459399,
+      "identifier": {
+        "doi": "10.1016/j.soilbio.2014.03.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soilbio.2013.09.030"
+  },
+  "journal": "Soil Biology and Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enhancing ecosystem services in sustainable agriculture: Biofertilization and biofortification of chickpea (Cicer arietinum L.) by arbuscular mycorrhizal fungi.”"
+}

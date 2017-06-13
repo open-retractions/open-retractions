@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406764800000,"doi":"10.1016/j.cell.2014.07.008","type":"err"},"doi":"10.1016/j.cell.2014.03.052","journal":"Cell","publisher":"Elsevier BV","title":"Protein and Nucleotide Biosynthesis Are Coupled by a Single Rate-Limiting Enzyme, PRPS2, to Drive Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1406764800000,
+  "updates": [
+    {
+      "timestamp": 1495996472371,
+      "identifier": {
+        "doi": "10.1016/j.cell.2014.07.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2014.03.052"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Protein and Nucleotide Biosynthesis Are Coupled by a Single Rate-Limiting Enzyme, PRPS2, to Drive Cancer"
+}

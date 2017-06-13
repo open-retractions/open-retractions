@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450310400000,"doi":"10.1007/s00330-015-4148-7","type":"correction"},"doi":"10.1007/s00330-015-4100-x","journal":"European Radiology","publisher":"Springer Nature","title":"Erratum to: Short- and long-term effects of clinical audits on compliance with procedures in CT scanning"}
+{
+  "retracted": false,
+  "timestamp": 1450310400000,
+  "updates": [
+    {
+      "timestamp": 1496054007874,
+      "identifier": {
+        "doi": "10.1007/s00330-015-4148-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00330-015-4100-x"
+  },
+  "journal": "European Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Short- and long-term effects of clinical audits on compliance with procedures in CT scanning"
+}

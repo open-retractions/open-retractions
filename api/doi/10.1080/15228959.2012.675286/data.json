@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1080/15228959.2016.1167440","type":"correction"},"doi":"10.1080/15228959.2012.675286","journal":"Public Services Quarterly","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717469170,
+      "identifier": {
+        "doi": "10.1080/15228959.2016.1167440"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15228959.2012.675286"
+  },
+  "journal": "Public Services Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

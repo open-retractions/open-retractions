@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394582400000,"doi":"10.1080/1747423x.2013.779138","type":"correction"},"doi":"10.1080/1747423x.2010.550694","journal":"Journal of Land Use Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394582400000,
+  "updates": [
+    {
+      "timestamp": 1496004800642,
+      "identifier": {
+        "doi": "10.1080/1747423x.2013.779138"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1747423x.2010.550694"
+  },
+  "journal": "Journal of Land Use Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

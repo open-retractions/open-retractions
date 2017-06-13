@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1016/j.vetpar.2015.12.015","type":"err"},"doi":"10.1016/j.vetpar.2010.09.021","journal":"Veterinary Parasitology","publisher":"Elsevier BV","title":"Corrigendum to “Genotypic characterization of Toxoplasma gondii in sheep from Brazilian slaughterhouses: New atypical genotypes and the clonal type II strain identified” [Vet. Parasitol. 175 (2011) 173–177]"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1496057673428,
+      "identifier": {
+        "doi": "10.1016/j.vetpar.2015.12.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetpar.2010.09.021"
+  },
+  "journal": "Veterinary Parasitology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genotypic characterization of Toxoplasma gondii in sheep from Brazilian slaughterhouses: New atypical genotypes and the clonal type II strain identified” [Vet. Parasitol. 175 (2011) 173–177]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.clinbiomech.2015.04.007","type":"err"},"doi":"10.1016/j.clinbiomech.2014.09.011","journal":"Clinical Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “Validity and reliability of an instrumented speculum designed to minimize the effect of intra-abdominal pressure on the measurement of pelvic floor muscle strength” [Clin. Biomech. 29,10, December 2014, 1146–1150]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495997466925,
+      "identifier": {
+        "doi": "10.1016/j.clinbiomech.2015.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clinbiomech.2014.09.011"
+  },
+  "journal": "Clinical Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Validity and reliability of an instrumented speculum designed to minimize the effect of intra-abdominal pressure on the measurement of pelvic floor muscle strength” [Clin. Biomech. 29,10, December 2014, 1146–1150]"
+}

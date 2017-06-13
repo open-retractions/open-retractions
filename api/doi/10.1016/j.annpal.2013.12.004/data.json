@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.annpal.2014.06.001","type":"err"},"doi":"10.1016/j.annpal.2013.12.004","journal":"Annales de Paléontologie","publisher":"Elsevier BV","title":"Erratum to the article “An evaluation of French amniote diversity through the Pennsylvanian-Cisuralian boundary”, [Ann. Paleontol. 100 (2014) 119–30]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496055736544,
+      "identifier": {
+        "doi": "10.1016/j.annpal.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.annpal.2013.12.004"
+  },
+  "journal": "Annales de Paléontologie",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to the article “An evaluation of French amniote diversity through the Pennsylvanian-Cisuralian boundary”, [Ann. Paleontol. 100 (2014) 119–30]"
+}

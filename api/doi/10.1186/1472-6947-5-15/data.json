@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1185321600000,"doi":"10.1186/1472-6947-7-21","type":"correction"},"doi":"10.1186/1472-6947-5-15","journal":"BMC Medical Informatics and Decision Making","publisher":"Springer Nature","title":"Erratum to: Manuscript Architect: a web application for scientific writing in virtual interdisciplinary groups"}
+{
+  "retracted": false,
+  "timestamp": 1185321600000,
+  "updates": [
+    {
+      "timestamp": 1495972943399,
+      "identifier": {
+        "doi": "10.1186/1472-6947-7-21"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1472-6947-5-15"
+  },
+  "journal": "BMC Medical Informatics and Decision Making",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Manuscript Architect: a web application for scientific writing in virtual interdisciplinary groups"
+}

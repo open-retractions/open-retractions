@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1484265600000,"doi":"10.1007/s00428-016-2054-2","type":"correction"},"doi":"10.1007/s00428-016-1997-7","journal":"Virchows Archiv","publisher":"Springer Nature","title":"Erratum to: Abstracts"}
+{
+  "retracted": false,
+  "timestamp": 1484265600000,
+  "updates": [
+    {
+      "timestamp": 1495670955012,
+      "identifier": {
+        "doi": "10.1007/s00428-016-2054-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00428-016-1997-7"
+  },
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Abstracts"
+}

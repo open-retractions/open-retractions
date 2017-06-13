@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.susc.2015.05.003","type":"err"},"doi":"10.1016/s0039-6028(03)00412-6","journal":"Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Time resolved photoemission spectroscopy on Si(001)-2×1 surface during oxidation controlled by translational kinetic energy of O2 at room temperature” [Surf. Sci. 532-535, 690-697 (2003)]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496000492118,
+      "identifier": {
+        "doi": "10.1016/j.susc.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0039-6028(03)00412-6"
+  },
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Time resolved photoemission spectroscopy on Si(001)-2×1 surface during oxidation controlled by translational kinetic energy of O2 at room temperature” [Surf. Sci. 532-535, 690-697 (2003)]"
+}

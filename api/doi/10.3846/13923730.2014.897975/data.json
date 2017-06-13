@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458777600000,"doi":"10.3846/13923730.2015.1129176","type":"correction"},"doi":"10.3846/13923730.2014.897975","journal":"Journal of Civil Engineering and Management","publisher":"Vilnius Gediminas Technical University","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1458777600000,
+  "updates": [
+    {
+      "timestamp": 1496045198407,
+      "identifier": {
+        "doi": "10.3846/13923730.2015.1129176"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3846/13923730.2014.897975"
+  },
+  "journal": "Journal of Civil Engineering and Management",
+  "publisher": "Vilnius Gediminas Technical University",
+  "title": "Erratum"
+}

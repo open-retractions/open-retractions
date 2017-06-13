@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1063/1.4895011","type":"correction"},"doi":"10.1063/1.3622634","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “The reproducibility of transport conditions at metal nanoparticle-semiconductor interfaces over a range of loading conditions” [Appl. Phys. Lett. 99(5), 053107 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496006102106,
+      "identifier": {
+        "doi": "10.1063/1.4895011"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3622634"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The reproducibility of transport conditions at metal nanoparticle-semiconductor interfaces over a range of loading conditions” [Appl. Phys. Lett. 99(5), 053107 (2011)]"
+}

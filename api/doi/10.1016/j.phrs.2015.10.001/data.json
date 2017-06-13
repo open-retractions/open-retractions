@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.phrs.2016.01.024","type":"err"},"doi":"10.1016/j.phrs.2015.10.001","journal":"Pharmacological Research","publisher":"Elsevier BV","title":"Corrigendum to “beta-Naphthoflavone protects from peritonitis by reducing TNF-alpha-induced endothelial cell activation” [Pharmacol. Res. 102 (2015) 192–199]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495646008628,
+      "identifier": {
+        "doi": "10.1016/j.phrs.2016.01.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phrs.2015.10.001"
+  },
+  "journal": "Pharmacological Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “beta-Naphthoflavone protects from peritonitis by reducing TNF-alpha-induced endothelial cell activation” [Pharmacol. Res. 102 (2015) 192–199]"
+}

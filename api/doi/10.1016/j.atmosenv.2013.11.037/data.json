@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.atmosenv.2014.03.014","type":"err"},"doi":"10.1016/j.atmosenv.2013.11.037","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Corrigendum to ‘Cold season ammonia emissions from land spreading with anaerobic digestates from biogas production’ [Atmos. Environ. 84 (2014) 35–38]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496029612511,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2014.03.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2013.11.037"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Cold season ammonia emissions from land spreading with anaerobic digestates from biogas production’ [Atmos. Environ. 84 (2014) 35–38]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435622400000,"doi":"10.1186/s12864-015-1630-1","type":"correction"},"doi":"10.1186/1471-2164-15-s7-s2","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum: Computational identification of multi-omic correlates of anticancer therapeutic response"}
+{
+  "retracted": false,
+  "timestamp": 1435622400000,
+  "updates": [
+    {
+      "timestamp": 1496011983734,
+      "identifier": {
+        "doi": "10.1186/s12864-015-1630-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2164-15-s7-s2"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Computational identification of multi-omic correlates of anticancer therapeutic response"
+}

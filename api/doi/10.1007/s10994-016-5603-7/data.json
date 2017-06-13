@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1007/s10994-017-5630-z","type":"correction"},"doi":"10.1007/s10994-016-5603-7","journal":"Machine Learning","publisher":"Springer Nature","title":"Erratum to: Preference Relation-based Markov Random Fields for Recommender Systems"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495718665898,
+      "identifier": {
+        "doi": "10.1007/s10994-017-5630-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10994-016-5603-7"
+  },
+  "journal": "Machine Learning",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Preference Relation-based Markov Random Fields for Recommender Systems"
+}

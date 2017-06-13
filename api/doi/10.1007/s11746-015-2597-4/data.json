@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427500800000,"doi":"10.1007/s11746-015-2637-0","type":"correction"},"doi":"10.1007/s11746-015-2597-4","journal":"Journal of the American Oil Chemists' Society","publisher":"Springer Nature","title":"Erratum to: Investigating Fatty Acid Composition of Various Meat and Offal Products from Turkey"}
+{
+  "retracted": false,
+  "timestamp": 1427500800000,
+  "updates": [
+    {
+      "timestamp": 1496053600693,
+      "identifier": {
+        "doi": "10.1007/s11746-015-2637-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11746-015-2597-4"
+  },
+  "journal": "Journal of the American Oil Chemists' Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Investigating Fatty Acid Composition of Various Meat and Offal Products from Turkey"
+}

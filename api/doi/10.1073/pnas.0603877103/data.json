@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1165881600000,"doi":"10.1073/pnas.0609565103","type":"correction"},"doi":"10.1073/pnas.0603877103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Pellegata et al., Germ-line mutations in p27Kip1 cause a multiple endocrine neoplasia syndrome in rats and humans"}
+{
+  "retracted": false,
+  "timestamp": 1165881600000,
+  "updates": [
+    {
+      "timestamp": 1495918171319,
+      "identifier": {
+        "doi": "10.1073/pnas.0609565103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0603877103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Pellegata et al., Germ-line mutations in p27Kip1 cause a multiple endocrine neoplasia syndrome in rats and humans"
+}

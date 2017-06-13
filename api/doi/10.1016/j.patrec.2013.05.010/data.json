@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.patrec.2013.09.001","type":"err"},"doi":"10.1016/j.patrec.2013.05.010","journal":"Pattern Recognition Letters","publisher":"Elsevier BV","title":"Retraction notice to “Model-based 3D tracking of an articulated hand from single depth images” [Pattern Recogn. Lett. 34 (12) (2013) 1437–1445]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496052003998,
+      "identifier": {
+        "doi": "10.1016/j.patrec.2013.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patrec.2013.05.010"
+  },
+  "journal": "Pattern Recognition Letters",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Model-based 3D tracking of an articulated hand from single depth images” [Pattern Recogn. Lett. 34 (12) (2013) 1437–1445]"
+}

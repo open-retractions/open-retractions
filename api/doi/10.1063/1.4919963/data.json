@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1063/1.4947030","type":"correction"},"doi":"10.1063/1.4919963","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Ab initio calculation of thermodynamic, transport, and optical properties of CH2 plastics” [Phys. Plasmas 22, 053303 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495666357880,
+      "identifier": {
+        "doi": "10.1063/1.4947030"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4919963"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Ab initio calculation of thermodynamic, transport, and optical properties of CH2 plastics” [Phys. Plasmas 22, 053303 (2015)]"
+}

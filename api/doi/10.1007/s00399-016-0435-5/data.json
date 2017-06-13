@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487808000000,"doi":"10.1007/s00399-017-0496-0","type":"correction"},"doi":"10.1007/s00399-016-0435-5","journal":"Herzschrittmachertherapie + Elektrophysiologie","publisher":"Springer Nature","title":"Erratum to: Noise from a dysfunctional atrial lead detected as atrial fibrillation by a cardiac implantable electronic device"}
+{
+  "retracted": false,
+  "timestamp": 1487808000000,
+  "updates": [
+    {
+      "timestamp": 1495714929316,
+      "identifier": {
+        "doi": "10.1007/s00399-017-0496-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00399-016-0435-5"
+  },
+  "journal": "Herzschrittmachertherapie + Elektrophysiologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Noise from a dysfunctional atrial lead detected as atrial fibrillation by a cardiac implantable electronic device"
+}

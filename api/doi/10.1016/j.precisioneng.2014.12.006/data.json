@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.precisioneng.2015.09.008","type":"err"},"doi":"10.1016/j.precisioneng.2014.12.006","journal":"Precision Engineering","publisher":"Elsevier BV","title":"Corrigendum to “A flexure-based electromagnetic nanopositioning actuator with predictable and re-configurable open-loop positioning resolution” [Precis. Eng. 40 (2015) 249–260]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496033091152,
+      "identifier": {
+        "doi": "10.1016/j.precisioneng.2015.09.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.precisioneng.2014.12.006"
+  },
+  "journal": "Precision Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A flexure-based electromagnetic nanopositioning actuator with predictable and re-configurable open-loop positioning resolution” [Precis. Eng. 40 (2015) 249–260]"
+}

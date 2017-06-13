@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.strusafe.2016.02.001","type":"erratum"},"doi":"10.1016/j.strusafe.2015.05.001","journal":"Structural Safety","publisher":"Elsevier BV","title":"Corrigendum to “An empirical comparison of machine learning techniques for dam behaviour modelling” [Struct. Saf. 56 (2015) 9–17]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649660722,
+      "identifier": {
+        "doi": "10.1016/j.strusafe.2016.02.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.strusafe.2015.05.001"
+  },
+  "journal": "Structural Safety",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An empirical comparison of machine learning techniques for dam behaviour modelling” [Struct. Saf. 56 (2015) 9–17]"
+}

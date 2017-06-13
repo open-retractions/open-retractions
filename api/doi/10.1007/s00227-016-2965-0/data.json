@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476403200000,"doi":"10.1007/s00227-016-2996-6","type":"correction"},"doi":"10.1007/s00227-016-2965-0","journal":"Marine Biology","publisher":"Springer Nature","title":"Erratum to: The deep-water squid Octopoteuthis sicula Rüppell, 1844(Cephalopoda: Octopoteuthidae) as the single species of the genus occurring in the Mediterranean Sea"}
+{
+  "retracted": false,
+  "timestamp": 1476403200000,
+  "updates": [
+    {
+      "timestamp": 1495648655457,
+      "identifier": {
+        "doi": "10.1007/s00227-016-2996-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00227-016-2965-0"
+  },
+  "journal": "Marine Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The deep-water squid Octopoteuthis sicula Rüppell, 1844(Cephalopoda: Octopoteuthidae) as the single species of the genus occurring in the Mediterranean Sea"
+}

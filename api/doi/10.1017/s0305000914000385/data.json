@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407369600000,"doi":"10.1017/s0305000914000518","type":"corrected-article"},"doi":"10.1017/s0305000914000385","journal":"Journal of Child Language","publisher":"Cambridge University Press (CUP)","title":"Introduction – CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1407369600000,
+  "updates": [
+    {
+      "timestamp": 1495998779232,
+      "identifier": {
+        "doi": "10.1017/s0305000914000518"
+      },
+      "type": "corrected-article"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s0305000914000385"
+  },
+  "journal": "Journal of Child Language",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Introduction – CORRIGENDUM"
+}

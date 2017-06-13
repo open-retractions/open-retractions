@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1356998400000,"doi":"10.1016/j.sjopt.2011.06.002","type":"err"},"doi":"10.1016/j.sjopt.2011.01.007","journal":"Saudi Journal of Ophthalmology","publisher":"Elsevier BV","title":"Validation of patient symptom diary in acute posterior vitreous detachment"}
+{
+  "retracted": false,
+  "timestamp": 1356998400000,
+  "updates": [
+    {
+      "timestamp": 1495976634393,
+      "identifier": {
+        "doi": "10.1016/j.sjopt.2011.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sjopt.2011.01.007"
+  },
+  "journal": "Saudi Journal of Ophthalmology",
+  "publisher": "Elsevier BV",
+  "title": "Validation of patient symptom diary in acute posterior vitreous detachment"
+}

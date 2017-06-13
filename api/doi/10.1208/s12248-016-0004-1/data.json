@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484611200000,"doi":"10.1208/s12248-017-0046-z","type":"correction"},"doi":"10.1208/s12248-016-0004-1","journal":"The AAPS Journal","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: Optimal Affinity of a Monoclonal Antibody: Guiding Principles Using Mechanistic Modeling"}
+{
+  "retracted": false,
+  "timestamp": 1484611200000,
+  "updates": [
+    {
+      "timestamp": 1495676706455,
+      "identifier": {
+        "doi": "10.1208/s12248-017-0046-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12248-016-0004-1"
+  },
+  "journal": "The AAPS Journal",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: Optimal Affinity of a Monoclonal Antibody: Guiding Principles Using Mechanistic Modeling"
+}

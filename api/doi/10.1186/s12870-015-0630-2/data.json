@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449100800000,"doi":"10.1186/s12870-015-0665-4","type":"correction"},"doi":"10.1186/s12870-015-0630-2","journal":"BMC Plant Biology","publisher":"Springer Nature","title":"Erratum to: Genome-wide transcriptional and physiological responses to drought stress in leaves and roots of two willow genotypes"}
+{
+  "retracted": false,
+  "timestamp": 1449100800000,
+  "updates": [
+    {
+      "timestamp": 1496050923227,
+      "identifier": {
+        "doi": "10.1186/s12870-015-0665-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12870-015-0630-2"
+  },
+  "journal": "BMC Plant Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genome-wide transcriptional and physiological responses to drought stress in leaves and roots of two willow genotypes"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1199750400000,"doi":"10.1073/pnas.0900927106","type":"correction"},"doi":"10.1073/pnas.0709036105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Glick et al., Interaction with host SGS3 is required for suppression of RNA silencing by tomato yellow leaf curl virus V2 protein"}
+{
+  "retracted": false,
+  "timestamp": 1199750400000,
+  "updates": [
+    {
+      "timestamp": 1495920299840,
+      "identifier": {
+        "doi": "10.1073/pnas.0900927106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0709036105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Glick et al., Interaction with host SGS3 is required for suppression of RNA silencing by tomato yellow leaf curl virus V2 protein"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.jviromet.2016.07.027","type":"err"},"doi":"10.1016/j.jviromet.2015.04.032","journal":"Journal of Virological Methods","publisher":"Elsevier BV","title":"Corrigendum to ‘Development of a duplex one-step RT-qPCR assay for the simultaneous detection of Apple scar skin viroidand plant RNA internal control’ [J. Virol. Methods (2015) 100–105]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495738964317,
+      "identifier": {
+        "doi": "10.1016/j.jviromet.2016.07.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jviromet.2015.04.032"
+  },
+  "journal": "Journal of Virological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Development of a duplex one-step RT-qPCR assay for the simultaneous detection of Apple scar skin viroidand plant RNA internal control’ [J. Virol. Methods (2015) 100–105]"
+}

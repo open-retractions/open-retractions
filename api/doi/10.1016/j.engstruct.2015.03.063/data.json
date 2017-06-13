@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.engstruct.2015.10.051","type":"erratum"},"doi":"10.1016/j.engstruct.2015.03.063","journal":"Engineering Structures","publisher":"Elsevier BV","title":"Corrigendum to “Modeling of asphalt roof shingle-sealant structures for prediction of local delamination under high wind loads” [Eng. Struct. 96 (2015) 100–110]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1496052624358,
+      "identifier": {
+        "doi": "10.1016/j.engstruct.2015.10.051"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engstruct.2015.03.063"
+  },
+  "journal": "Engineering Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeling of asphalt roof shingle-sealant structures for prediction of local delamination under high wind loads” [Eng. Struct. 96 (2015) 100–110]"
+}

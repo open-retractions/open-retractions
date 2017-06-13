@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.neures.2015.01.013","type":"err"},"doi":"10.1016/j.neures.2014.08.015","journal":"Neuroscience Research","publisher":"Elsevier BV","title":"Corrigendum to “Anxiety- and depression-like phenotype of the hph-1 mice deficient in tetrahydrobiopterin” [Neurosci. Res. 89 (2014) 44–53]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496038745271,
+      "identifier": {
+        "doi": "10.1016/j.neures.2015.01.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neures.2014.08.015"
+  },
+  "journal": "Neuroscience Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Anxiety- and depression-like phenotype of the hph-1 mice deficient in tetrahydrobiopterin” [Neurosci. Res. 89 (2014) 44–53]"
+}

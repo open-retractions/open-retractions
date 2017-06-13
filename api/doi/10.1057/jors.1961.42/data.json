@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-247363200000,"doi":"10.1057/jors.1962.24","type":"correction"},"doi":"10.1057/jors.1961.42","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Scheduling for a Known but Irregular Batch-Wise Demand"}
+{
+  "retracted": false,
+  "timestamp": -247363200000,
+  "updates": [
+    {
+      "timestamp": 1495887633599,
+      "identifier": {
+        "doi": "10.1057/jors.1962.24"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1961.42"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Scheduling for a Known but Irregular Batch-Wise Demand"
+}

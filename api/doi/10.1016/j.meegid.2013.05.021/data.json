@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.meegid.2013.05.022","type":"err"},"doi":"10.1016/j.meegid.2013.05.021","journal":"Infection, Genetics and Evolution","publisher":"Elsevier BV","title":"Avian-origin H3N2 canine influenza virus circulating in farmed dogs in Guangdong, China"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496025523588,
+      "identifier": {
+        "doi": "10.1016/j.meegid.2013.05.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.meegid.2013.05.021"
+  },
+  "journal": "Infection, Genetics and Evolution",
+  "publisher": "Elsevier BV",
+  "title": "Avian-origin H3N2 canine influenza virus circulating in farmed dogs in Guangdong, China"
+}

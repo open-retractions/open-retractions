@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1242345600000,"doi":"10.1371/annotation/bb336408-6ec5-480e-ae37-85e9cefe0454","type":"correction"},"doi":"10.1371/journal.pone.0004977","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Comparison of Gene Expression Profile in Embryonic Mesencephalon and Neuronal Primary Cultures"}
+{
+  "retracted": false,
+  "timestamp": 1242345600000,
+  "updates": [
+    {
+      "timestamp": 1496025197065,
+      "identifier": {
+        "doi": "10.1371/annotation/bb336408-6ec5-480e-ae37-85e9cefe0454"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004977"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comparison of Gene Expression Profile in Embryonic Mesencephalon and Neuronal Primary Cultures"
+}

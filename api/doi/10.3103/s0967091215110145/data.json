@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464912000000,"doi":"10.3103/s0967091216020182","type":"correction"},"doi":"10.3103/s0967091215110145","journal":"Steel in Translation","publisher":"Allerton Press","title":"Erratum to: “Distribution of Secondary Gas Emissions around Steel Plants”"}
+{
+  "retracted": false,
+  "timestamp": 1464912000000,
+  "updates": [
+    {
+      "timestamp": 1495717517373,
+      "identifier": {
+        "doi": "10.3103/s0967091216020182"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s0967091215110145"
+  },
+  "journal": "Steel in Translation",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Distribution of Secondary Gas Emissions around Steel Plants”"
+}

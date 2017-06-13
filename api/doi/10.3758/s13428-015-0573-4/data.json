@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430265600000,"doi":"10.3758/s13428-015-0595-y","type":"correction"},"doi":"10.3758/s13428-015-0573-4","journal":"Behavior Research Methods","publisher":"Springer Nature","title":"Erratum to: The Oriented Difference of Gaussians (ODOG) model of brightness perception: Overview and executable Mathematica notebooks"}
+{
+  "retracted": false,
+  "timestamp": 1430265600000,
+  "updates": [
+    {
+      "timestamp": 1495996494399,
+      "identifier": {
+        "doi": "10.3758/s13428-015-0595-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/s13428-015-0573-4"
+  },
+  "journal": "Behavior Research Methods",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Oriented Difference of Gaussians (ODOG) model of brightness perception: Overview and executable Mathematica notebooks"
+}

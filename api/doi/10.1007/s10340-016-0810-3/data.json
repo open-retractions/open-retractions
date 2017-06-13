@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482105600000,"doi":"10.1007/s10340-016-0821-0","type":"correction"},"doi":"10.1007/s10340-016-0810-3","journal":"Journal of Pest Science","publisher":"Springer Nature","title":"Erratum to: First record of the invasive pest Drosophila suzukii in Ukraine indicates multiple sources of invasion"}
+{
+  "retracted": false,
+  "timestamp": 1482105600000,
+  "updates": [
+    {
+      "timestamp": 1495667976066,
+      "identifier": {
+        "doi": "10.1007/s10340-016-0821-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10340-016-0810-3"
+  },
+  "journal": "Journal of Pest Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: First record of the invasive pest Drosophila suzukii in Ukraine indicates multiple sources of invasion"
+}

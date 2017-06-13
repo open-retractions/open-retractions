@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410825600000,"doi":"10.1007/s00261-014-0238-2","type":"correction"},"doi":"10.1007/s00261-014-0209-7","journal":"Abdominal Imaging","publisher":"Springer Nature","title":"Erratum to: Fluoroscopic findings post-peroral esophageal myotomy"}
+{
+  "retracted": false,
+  "timestamp": 1410825600000,
+  "updates": [
+    {
+      "timestamp": 1495994015400,
+      "identifier": {
+        "doi": "10.1007/s00261-014-0238-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00261-014-0209-7"
+  },
+  "journal": "Abdominal Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fluoroscopic findings post-peroral esophageal myotomy"
+}

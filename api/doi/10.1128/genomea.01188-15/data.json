@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451520000000,"doi":"10.1128/genomea.01585-15","type":"correction"},"doi":"10.1128/genomea.01188-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Erratum for Mehershahi et al., Complete Genome Sequence ofStreptococcus agalactiaeSerotype III, Multilocus Sequence Type 283 Strain SG-M1"}
+{
+  "retracted": false,
+  "timestamp": 1451520000000,
+  "updates": [
+    {
+      "timestamp": 1496057386897,
+      "identifier": {
+        "doi": "10.1128/genomea.01585-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.01188-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for Mehershahi et al., Complete Genome Sequence ofStreptococcus agalactiaeSerotype III, Multilocus Sequence Type 283 Strain SG-M1"
+}

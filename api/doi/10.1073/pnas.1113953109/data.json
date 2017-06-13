@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332806400000,"doi":"10.1073/pnas.1204371109","type":"correction"},"doi":"10.1073/pnas.1113953109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Duffy et al., Myelin-derived ephrinB3 restricts axonal regeneration and recovery after adult CNS injury"}
+{
+  "retracted": false,
+  "timestamp": 1332806400000,
+  "updates": [
+    {
+      "timestamp": 1495887250666,
+      "identifier": {
+        "doi": "10.1073/pnas.1204371109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1113953109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Duffy et al., Myelin-derived ephrinB3 restricts axonal regeneration and recovery after adult CNS injury"
+}

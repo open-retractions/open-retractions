@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397260800000,"doi":"10.1007/s10696-014-9191-1","type":"correction"},"doi":"10.1007/s10696-013-9186-3","journal":"Flexible Services and Manufacturing Journal","publisher":"Springer Nature","title":"Erratum to: Crane scheduling for opportunistic remarshaling of containers in an automated stacking yard"}
+{
+  "retracted": false,
+  "timestamp": 1397260800000,
+  "updates": [
+    {
+      "timestamp": 1496032234234,
+      "identifier": {
+        "doi": "10.1007/s10696-014-9191-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10696-013-9186-3"
+  },
+  "journal": "Flexible Services and Manufacturing Journal",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Crane scheduling for opportunistic remarshaling of containers in an automated stacking yard"
+}

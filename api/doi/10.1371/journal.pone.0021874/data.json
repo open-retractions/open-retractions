@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1322438400000,"doi":"10.1371/annotation/2088e0ac-4cdb-442d-9259-062f582e8097","type":"correction"},"doi":"10.1371/journal.pone.0021874","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Tissue Microlocalisation and Cellular Expression of CD163, VEGF, HLA-DR, iNOS, and MRP 8/14 Is Correlated to Clinical Outcome in NSCLC"}
+{
+  "retracted": false,
+  "timestamp": 1322438400000,
+  "updates": [
+    {
+      "timestamp": 1495845399030,
+      "identifier": {
+        "doi": "10.1371/annotation/2088e0ac-4cdb-442d-9259-062f582e8097"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0021874"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Tissue Microlocalisation and Cellular Expression of CD163, VEGF, HLA-DR, iNOS, and MRP 8/14 Is Correlated to Clinical Outcome in NSCLC"
+}

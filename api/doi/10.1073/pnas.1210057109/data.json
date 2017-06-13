@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1073/pnas.1618663114","type":"correction"},"doi":"10.1073/pnas.1210057109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Jabed et al., Targeted microRNA expression in dairy cattle directs production of β-lactoglobulin-free, high-casein milk"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495659169050,
+      "identifier": {
+        "doi": "10.1073/pnas.1618663114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1210057109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Jabed et al., Targeted microRNA expression in dairy cattle directs production of β-lactoglobulin-free, high-casein milk"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.chemosphere.2016.02.009","type":"err"},"doi":"10.1016/j.chemosphere.2015.10.077","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Enrichment, geo-accumulation and risk surveillance of toxic metals for different environmental compartments from Mehmood Booti dumping site, Lahore city, Pakistan” [Chemosphere 144 (2016) 2229–2237]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495650103318,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2016.02.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2015.10.077"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enrichment, geo-accumulation and risk surveillance of toxic metals for different environmental compartments from Mehmood Booti dumping site, Lahore city, Pakistan” [Chemosphere 144 (2016) 2229–2237]"
+}

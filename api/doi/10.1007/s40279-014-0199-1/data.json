@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1007/s40279-014-0219-1","type":"correction"},"doi":"10.1007/s40279-014-0199-1","journal":"Sports Medicine","publisher":"Springer Nature","title":"Erratum to: Applied Physiology of Female Soccer: An Update"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496049664427,
+      "identifier": {
+        "doi": "10.1007/s40279-014-0219-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40279-014-0199-1"
+  },
+  "journal": "Sports Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Applied Physiology of Female Soccer: An Update"
+}

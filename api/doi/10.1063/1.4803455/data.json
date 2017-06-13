@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1063/1.4871778","type":"correction"},"doi":"10.1063/1.4803455","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Classification of Lie point symmetries for quadratic Liénard type equation ẍ+f(x)ẋ2+g(x)=0” [J. Math. Phys. 54, 053506 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496036990851,
+      "identifier": {
+        "doi": "10.1063/1.4871778"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4803455"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Classification of Lie point symmetries for quadratic Liénard type equation ẍ+f(x)ẋ2+g(x)=0” [J. Math. Phys. 54, 053506 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436486400000,"doi":"10.1016/j.jconrel.2015.04.030","type":"erratum"},"doi":"10.1016/j.jconrel.2015.02.035","journal":"Journal of Controlled Release","publisher":"Elsevier BV","title":"Corrigendum to “A method of lyophilizing vaccines containing aluminum salts into a dry powder without causing particle aggregation or decreasing the immunogenicity following reconstitution” [J. Control. Release 204 (2015) 38–50]"}
+{
+  "retracted": false,
+  "timestamp": 1436486400000,
+  "updates": [
+    {
+      "timestamp": 1496000329269,
+      "identifier": {
+        "doi": "10.1016/j.jconrel.2015.04.030"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jconrel.2015.02.035"
+  },
+  "journal": "Journal of Controlled Release",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A method of lyophilizing vaccines containing aluminum salts into a dry powder without causing particle aggregation or decreasing the immunogenicity following reconstitution” [J. Control. Release 204 (2015) 38–50]"
+}

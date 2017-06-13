@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1073/pnas.1420648111","type":"correction"},"doi":"10.1073/pnas.1418402111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for McClendon et al., Dynamic architecture of a protein kinase"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496020286374,
+      "identifier": {
+        "doi": "10.1073/pnas.1420648111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1418402111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for McClendon et al., Dynamic architecture of a protein kinase"
+}

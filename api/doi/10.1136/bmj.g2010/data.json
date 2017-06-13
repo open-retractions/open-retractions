@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394064000000,"doi":"10.1136/bmj.g2010","type":"correction"},"doi":"10.1136/bmj.g2010","journal":"BMJ","publisher":"BMJ","title":"From promises to policies: is big pharma delivering on transparency?"}
+{
+  "retracted": false,
+  "timestamp": 1394064000000,
+  "updates": [
+    {
+      "timestamp": 1496023065182,
+      "identifier": {
+        "doi": "10.1136/bmj.g2010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2010"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "From promises to policies: is big pharma delivering on transparency?"
+}

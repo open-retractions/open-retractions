@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1118/1.4923801","type":"erratum"},"doi":"10.1118/1.4900821","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Three-dimensional texture analysis of contrast enhanced CT images for treatment response assessment in Hodgkin lymphoma: Comparison with F-18-FDG PET” [Med. Phys. 41(12), 121904 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496019564677,
+      "identifier": {
+        "doi": "10.1118/1.4923801"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4900821"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Three-dimensional texture analysis of contrast enhanced CT images for treatment response assessment in Hodgkin lymphoma: Comparison with F-18-FDG PET” [Med. Phys. 41(12), 121904 (2014)]"
+}

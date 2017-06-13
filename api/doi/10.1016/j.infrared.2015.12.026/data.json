@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.infrared.2016.03.005","type":"erratum"},"doi":"10.1016/j.infrared.2015.12.026","journal":"Infrared Physics & Technology","publisher":"Elsevier BV","title":"Corrigendum for “Optically and non-optically excited thermography for composites: A review”. [Infrared Phys. Technol. 75 (2016) 26–50]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495653869673,
+      "identifier": {
+        "doi": "10.1016/j.infrared.2016.03.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.infrared.2015.12.026"
+  },
+  "journal": "Infrared Physics & Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum for “Optically and non-optically excited thermography for composites: A review”. [Infrared Phys. Technol. 75 (2016) 26–50]"
+}

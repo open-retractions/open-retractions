@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.jplph.2013.06.003","type":"err"},"doi":"10.1016/j.jplph.2012.10.018","journal":"Journal of Plant Physiology","publisher":"Elsevier BV","title":"Erratum to “Differential response of methionine metabolism in two grain legumes, soybean and azuki bean, expressing a mutated form of Arabidopsis cystathionine γ-synthase” [J. Plant Physiol. 170 (January (3)) (2013) 338–345]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496030801191,
+      "identifier": {
+        "doi": "10.1016/j.jplph.2013.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jplph.2012.10.018"
+  },
+  "journal": "Journal of Plant Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Differential response of methionine metabolism in two grain legumes, soybean and azuki bean, expressing a mutated form of Arabidopsis cystathionine γ-synthase” [J. Plant Physiol. 170 (January (3)) (2013) 338–345]"
+}

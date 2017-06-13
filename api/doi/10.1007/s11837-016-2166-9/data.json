@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481068800000,"doi":"10.1007/s11837-016-2217-2","type":"correction"},"doi":"10.1007/s11837-016-2166-9","journal":"JOM","publisher":"Springer Nature","title":"Erratum to: Computational Modeling of Arc–Slag Interaction in DC Furnaces"}
+{
+  "retracted": false,
+  "timestamp": 1481068800000,
+  "updates": [
+    {
+      "timestamp": 1495665507656,
+      "identifier": {
+        "doi": "10.1007/s11837-016-2217-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11837-016-2166-9"
+  },
+  "journal": "JOM",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Computational Modeling of Arc–Slag Interaction in DC Furnaces"
+}

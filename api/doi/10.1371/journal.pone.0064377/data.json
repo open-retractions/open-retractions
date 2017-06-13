@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388966400000,"doi":"10.1371/annotation/d8bce646-4127-410a-b4dd-d2d2779a4745","type":"correction"},"doi":"10.1371/journal.pone.0064377","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Cell- and Tissue-Specific Transcriptome Analyses of Medicago truncatula Root Nodules"}
+{
+  "retracted": false,
+  "timestamp": 1388966400000,
+  "updates": [
+    {
+      "timestamp": 1496010525593,
+      "identifier": {
+        "doi": "10.1371/annotation/d8bce646-4127-410a-b4dd-d2d2779a4745"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0064377"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Cell- and Tissue-Specific Transcriptome Analyses of Medicago truncatula Root Nodules"
+}

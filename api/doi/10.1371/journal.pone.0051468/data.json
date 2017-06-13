@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376352000000,"doi":"10.1371/annotation/3724e791-2df4-4c75-8d60-4327fe0eb6d0","type":"correction"},"doi":"10.1371/journal.pone.0051468","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Constructing Compact Takagi-Sugeno Rule Systems: Identification of Complex Interactions in Epidemiological Data"}
+{
+  "retracted": false,
+  "timestamp": 1376352000000,
+  "updates": [
+    {
+      "timestamp": 1496040090601,
+      "identifier": {
+        "doi": "10.1371/annotation/3724e791-2df4-4c75-8d60-4327fe0eb6d0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0051468"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Constructing Compact Takagi-Sugeno Rule Systems: Identification of Complex Interactions in Epidemiological Data"
+}

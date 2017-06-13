@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1492214400000,"doi":"10.1016/j.ab.2017.02.002","type":"erratum"},"doi":"10.1016/j.ab.2016.10.020","journal":"Analytical Biochemistry","publisher":"Elsevier BV","title":"Erratum to “Virtual mutation and directional evolution of anti-amoxicillin ScFv antibody for immunoassay of penicillins in milk” [Anal. Biochem. 517 (2017) 9–17]"}
+{
+  "retracted": false,
+  "timestamp": 1492214400000,
+  "updates": [
+    {
+      "timestamp": 1495722168297,
+      "identifier": {
+        "doi": "10.1016/j.ab.2017.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ab.2016.10.020"
+  },
+  "journal": "Analytical Biochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Virtual mutation and directional evolution of anti-amoxicillin ScFv antibody for immunoassay of penicillins in milk” [Anal. Biochem. 517 (2017) 9–17]"
+}

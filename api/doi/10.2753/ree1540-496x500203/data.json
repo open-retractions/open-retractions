@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1080/1540496x.2015.1074486","type":"correction"},"doi":"10.2753/ree1540-496x500203","journal":"Emerging Markets Finance and Trade","publisher":"Informa UK Limited","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496025316699,
+      "identifier": {
+        "doi": "10.1080/1540496x.2015.1074486"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2753/ree1540-496x500203"
+  },
+  "journal": "Emerging Markets Finance and Trade",
+  "publisher": "Informa UK Limited",
+  "title": "Errata"
+}

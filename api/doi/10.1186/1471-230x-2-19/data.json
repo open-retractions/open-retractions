@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1068163200000,"doi":"10.1186/1471-230x-3-32","type":"correction"},"doi":"10.1186/1471-230x-2-19","journal":"BMC Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Treatment of achalasia: the short-term response to botulinum toxin injection seems to be independent of any kind of pretreatment"}
+{
+  "retracted": false,
+  "timestamp": 1068163200000,
+  "updates": [
+    {
+      "timestamp": 1495990022483,
+      "identifier": {
+        "doi": "10.1186/1471-230x-3-32"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-230x-2-19"
+  },
+  "journal": "BMC Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Treatment of achalasia: the short-term response to botulinum toxin injection seems to be independent of any kind of pretreatment"
+}

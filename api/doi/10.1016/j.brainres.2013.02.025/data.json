@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384300800000,"doi":"10.1016/j.brainres.2013.10.020","type":"err"},"doi":"10.1016/j.brainres.2013.02.025","journal":"Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “ADAM17 promotes U87 glioblastoma stem cell migration and invasion” [Brain Res. 1538 (2013) 151–158]"}
+{
+  "retracted": false,
+  "timestamp": 1384300800000,
+  "updates": [
+    {
+      "timestamp": 1495994344428,
+      "identifier": {
+        "doi": "10.1016/j.brainres.2013.10.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainres.2013.02.025"
+  },
+  "journal": "Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “ADAM17 promotes U87 glioblastoma stem cell migration and invasion” [Brain Res. 1538 (2013) 151–158]"
+}

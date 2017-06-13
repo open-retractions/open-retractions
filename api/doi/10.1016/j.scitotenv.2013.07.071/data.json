@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.scitotenv.2014.07.012","type":"err"},"doi":"10.1016/j.scitotenv.2013.07.071","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Occurrence and exposure assessment of polychlorinated biphenyls and organochlorine pesticides from homemade baby food in Korea” [Sci. Total Environ. 470–471 (2014) 1370–1375]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496054608198,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2014.07.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2013.07.071"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Occurrence and exposure assessment of polychlorinated biphenyls and organochlorine pesticides from homemade baby food in Korea” [Sci. Total Environ. 470–471 (2014) 1370–1375]"
+}

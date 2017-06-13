@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1258502400000,"doi":"10.1007/s00277-009-0860-1","type":"correction"},"doi":"10.1007/s00277-009-0817-4","journal":"Annals of Hematology","publisher":"Springer Nature","title":"Erratum to: Results of FLT3 mutation screening and correlations with immunophenotyping in 169 Brazilian patients with acute myeloid leukemia"}
+{
+  "retracted": false,
+  "timestamp": 1258502400000,
+  "updates": [
+    {
+      "timestamp": 1495990132366,
+      "identifier": {
+        "doi": "10.1007/s00277-009-0860-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00277-009-0817-4"
+  },
+  "journal": "Annals of Hematology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Results of FLT3 mutation screening and correlations with immunophenotyping in 169 Brazilian patients with acute myeloid leukemia"
+}

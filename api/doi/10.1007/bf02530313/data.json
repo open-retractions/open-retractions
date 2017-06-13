@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1231372800000,"doi":"10.1007/bf02525712","type":"correction"},"doi":"10.1007/bf02530313","journal":"Bulletin géodésique","publisher":"Springer Nature","title":"Erratum to: Global satellite triangulation and trilateration"}
+{
+  "retracted": false,
+  "timestamp": 1231372800000,
+  "updates": [
+    {
+      "timestamp": 1495880722534,
+      "identifier": {
+        "doi": "10.1007/bf02525712"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02530313"
+  },
+  "journal": "Bulletin géodésique",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Global satellite triangulation and trilateration"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375401600000,"doi":"10.1016/j.febslet.2013.05.044","type":"err"},"doi":"10.1016/j.febslet.2009.10.008","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “Adiponectin downregulates galectin-3 whose cellular form is elevated whereas its soluble form is reduced in type 2 diabetic monocytes” [FEBS Lett. 583 (2009) pp. 3718-3724]"}
+{
+  "retracted": false,
+  "timestamp": 1375401600000,
+  "updates": [
+    {
+      "timestamp": 1496021713237,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2013.05.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2009.10.008"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “Adiponectin downregulates galectin-3 whose cellular form is elevated whereas its soluble form is reduced in type 2 diabetic monocytes” [FEBS Lett. 583 (2009) pp. 3718-3724]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.actamat.2016.01.045","type":"err"},"doi":"10.1016/j.actamat.2015.12.029","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Copper nanoparticle@graphene composite arrays and their enhanced catalytic performance” [Acta Mater. 105 (2016) 59–67]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495652918480,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2016.01.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2015.12.029"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Copper nanoparticle@graphene composite arrays and their enhanced catalytic performance” [Acta Mater. 105 (2016) 59–67]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388620800000,"doi":"10.1371/annotation/64541b73-5ebc-4f5b-acab-241ecf2b3203","type":"correction"},"doi":"10.1371/journal.pone.0068358","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Improved Inference of Gene Regulatory Networks through Integrated Bayesian Clustering and Dynamic Modeling of Time-Course Expression Data"}
+{
+  "retracted": false,
+  "timestamp": 1388620800000,
+  "updates": [
+    {
+      "timestamp": 1496008678291,
+      "identifier": {
+        "doi": "10.1371/annotation/64541b73-5ebc-4f5b-acab-241ecf2b3203"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0068358"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Improved Inference of Gene Regulatory Networks through Integrated Bayesian Clustering and Dynamic Modeling of Time-Course Expression Data"
+}

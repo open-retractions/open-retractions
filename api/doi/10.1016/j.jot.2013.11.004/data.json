@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.jot.2014.03.003","type":"err"},"doi":"10.1016/j.jot.2013.11.004","journal":"Journal of Orthopaedic Translation","publisher":"Elsevier BV","title":"Corrigendum to “Importance of subchondral bone in the pathogenesis and management of osteoarthritis from bench to bed” [J Orthop Transl 2 (1) (2014) 16–25]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496027274173,
+      "identifier": {
+        "doi": "10.1016/j.jot.2014.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jot.2013.11.004"
+  },
+  "journal": "Journal of Orthopaedic Translation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Importance of subchondral bone in the pathogenesis and management of osteoarthritis from bench to bed” [J Orthop Transl 2 (1) (2014) 16–25]"
+}

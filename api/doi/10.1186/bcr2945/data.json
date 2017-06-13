@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437004800000,"doi":"10.1186/s13058-015-0597-9","type":"correction"},"doi":"10.1186/bcr2945","journal":"Breast Cancer Research","publisher":"Springer Nature","title":"Erratum to: Suppression of apoptosis inhibitor c-FLIP selectively eliminates breast cancer stem cell activity in response to the anti-cancer agent, TRAIL"}
+{
+  "retracted": false,
+  "timestamp": 1437004800000,
+  "updates": [
+    {
+      "timestamp": 1496015631150,
+      "identifier": {
+        "doi": "10.1186/s13058-015-0597-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/bcr2945"
+  },
+  "journal": "Breast Cancer Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Suppression of apoptosis inhibitor c-FLIP selectively eliminates breast cancer stem cell activity in response to the anti-cancer agent, TRAIL"
+}

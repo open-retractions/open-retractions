@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395360000000,"doi":"10.1080/19648189.2014.883769","type":"correction"},"doi":"10.1080/19648189.2013.856035","journal":"European Journal of Environmental and Civil Engineering","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1395360000000,
+  "updates": [
+    {
+      "timestamp": 1496015168052,
+      "identifier": {
+        "doi": "10.1080/19648189.2014.883769"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19648189.2013.856035"
+  },
+  "journal": "European Journal of Environmental and Civil Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

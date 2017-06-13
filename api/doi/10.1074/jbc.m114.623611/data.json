@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441929600000,"doi":"10.1074/jbc.a114.623611","type":"correction"},"doi":"10.1074/jbc.m114.623611","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"WD repeat-containing protein 5 (WDR5) localizes to the midbody and regulates abscission."}
+{
+  "retracted": false,
+  "timestamp": 1441929600000,
+  "updates": [
+    {
+      "timestamp": 1496029631231,
+      "identifier": {
+        "doi": "10.1074/jbc.a114.623611"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m114.623611"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "WD repeat-containing protein 5 (WDR5) localizes to the midbody and regulates abscission."
+}

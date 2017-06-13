@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.colsurfb.2013.07.041","type":"err"},"doi":"10.1016/j.colsurfb.2012.09.022","journal":"Colloids and Surfaces B: Biointerfaces","publisher":"Elsevier BV","title":"Erratum to “Decomposition of proteins by photocatalytic Ti(IV)-doped calcium hydroxyapatite particles” [Colloids Surf. B Biointerfaces 102 (2013) 908–914]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496043432518,
+      "identifier": {
+        "doi": "10.1016/j.colsurfb.2013.07.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.colsurfb.2012.09.022"
+  },
+  "journal": "Colloids and Surfaces B: Biointerfaces",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Decomposition of proteins by photocatalytic Ti(IV)-doped calcium hydroxyapatite particles” [Colloids Surf. B Biointerfaces 102 (2013) 908–914]"
+}

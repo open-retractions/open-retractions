@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370476800000,"doi":"10.1371/annotation/c002fbe1-712c-4608-9747-f1185f0b7cf4","type":"correction"},"doi":"10.1371/journal.pcbi.1002133","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Effective Stimuli for Constructing Reliable Neuron Models"}
+{
+  "retracted": false,
+  "timestamp": 1370476800000,
+  "updates": [
+    {
+      "timestamp": 1496025633849,
+      "identifier": {
+        "doi": "10.1371/annotation/c002fbe1-712c-4608-9747-f1185f0b7cf4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1002133"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effective Stimuli for Constructing Reliable Neuron Models"
+}

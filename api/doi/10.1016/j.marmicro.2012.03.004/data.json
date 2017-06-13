@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.marmicro.2012.08.001","type":"err"},"doi":"10.1016/j.marmicro.2012.03.004","journal":"Marine Micropaleontology","publisher":"Elsevier BV","title":"Corrigendum to ‘‘Central Arctic paleoceanography for the last 50kyr based on ostracode faunal assemblages’’ [Mar. Micropaleon. 88–89C (May 2012) 65–76]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495945006738,
+      "identifier": {
+        "doi": "10.1016/j.marmicro.2012.08.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marmicro.2012.03.004"
+  },
+  "journal": "Marine Micropaleontology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘‘Central Arctic paleoceanography for the last 50kyr based on ostracode faunal assemblages’’ [Mar. Micropaleon. 88–89C (May 2012) 65–76]"
+}

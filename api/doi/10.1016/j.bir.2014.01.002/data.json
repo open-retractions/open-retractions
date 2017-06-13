@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.bir.2014.06.002","type":"err"},"doi":"10.1016/j.bir.2014.01.002","journal":"Borsa Istanbul Review","publisher":"Elsevier BV","title":"Corrigendum to “A brief history of mathematics in finance” [Borsa Istanbul Rev 14 (2014) 57–63]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496044717710,
+      "identifier": {
+        "doi": "10.1016/j.bir.2014.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bir.2014.01.002"
+  },
+  "journal": "Borsa Istanbul Review",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A brief history of mathematics in finance” [Borsa Istanbul Rev 14 (2014) 57–63]"
+}

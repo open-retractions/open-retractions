@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219276800000,"doi":"10.1371/annotation/2aa6a20a-e63c-49b6-aeea-aae62435617f","type":"correction"},"doi":"10.1371/journal.pone.0002428","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Colorectal Cancer Stem Cells Are Enriched in Xenogeneic Tumors Following Chemotherapy"}
+{
+  "retracted": false,
+  "timestamp": 1219276800000,
+  "updates": [
+    {
+      "timestamp": 1496023932297,
+      "identifier": {
+        "doi": "10.1371/annotation/2aa6a20a-e63c-49b6-aeea-aae62435617f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002428"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Colorectal Cancer Stem Cells Are Enriched in Xenogeneic Tumors Following Chemotherapy"
+}

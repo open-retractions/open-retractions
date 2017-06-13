@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439856000000,"doi":"10.1016/j.neulet.2015.06.047","type":"erratum"},"doi":"10.1016/j.neulet.2015.05.007","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Direct intracerebral delivery of a miR-33 antisense oligonucleotide into mouse brain increases brain ABCA1 expression’’ [Neuroscience Letters 598 (2015) 66–72]"}
+{
+  "retracted": false,
+  "timestamp": 1439856000000,
+  "updates": [
+    {
+      "timestamp": 1496010316779,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2015.06.047"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2015.05.007"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Direct intracerebral delivery of a miR-33 antisense oligonucleotide into mouse brain increases brain ABCA1 expression’’ [Neuroscience Letters 598 (2015) 66–72]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1270080000000,"doi":"10.1007/s10334-010-0210-2","type":"correction"},"doi":"10.1007/s10334-009-0186-y","journal":"Magnetic Resonance Materials in Physics, Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: Grid-free interactive and automated data processing for MR chemical shift imaging data"}
+{
+  "retracted": false,
+  "timestamp": 1270080000000,
+  "updates": [
+    {
+      "timestamp": 1495833941249,
+      "identifier": {
+        "doi": "10.1007/s10334-010-0210-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10334-009-0186-y"
+  },
+  "journal": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Grid-free interactive and automated data processing for MR chemical shift imaging data"
+}

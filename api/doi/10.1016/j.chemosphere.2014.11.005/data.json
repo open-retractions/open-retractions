@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.chemosphere.2015.01.030","type":"err"},"doi":"10.1016/j.chemosphere.2014.11.005","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “A national statistical survey assessment of mercury concentrations in fillets of fish collected in the U.S. EPA national rivers and streams assessment of the continental USA” [Chemosphere 122 (2015) 52–61]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496040144332,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2015.01.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2014.11.005"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A national statistical survey assessment of mercury concentrations in fillets of fish collected in the U.S. EPA national rivers and streams assessment of the continental USA” [Chemosphere 122 (2015) 52–61]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.gca.2014.03.002","type":"err"},"doi":"10.1016/j.gca.2012.04.002","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “New constraints on the genesis and long-term stability of Os-rich alloys in the Earth’s mantle” [Geochim. Cosmochim. Acta 87 (2012) 227–242]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496029510290,
+      "identifier": {
+        "doi": "10.1016/j.gca.2014.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2012.04.002"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “New constraints on the genesis and long-term stability of Os-rich alloys in the Earth’s mantle” [Geochim. Cosmochim. Acta 87 (2012) 227–242]"
+}

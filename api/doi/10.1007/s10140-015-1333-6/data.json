@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440028800000,"doi":"10.1007/s10140-015-1337-2","type":"correction"},"doi":"10.1007/s10140-015-1333-6","journal":"Emergency Radiology","publisher":"Springer Nature","title":"Erratum to: CT of inferior vena cava filters: normal presentations and potential complications"}
+{
+  "retracted": false,
+  "timestamp": 1440028800000,
+  "updates": [
+    {
+      "timestamp": 1496022368472,
+      "identifier": {
+        "doi": "10.1007/s10140-015-1337-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10140-015-1333-6"
+  },
+  "journal": "Emergency Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CT of inferior vena cava filters: normal presentations and potential complications"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426464000000,"doi":"10.1016/j.ijhydene.2015.01.139","type":"err"},"doi":"10.1016/j.ijhydene.2014.11.131","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Aerosol-assisted chemical vapor deposition of metal oxide thin films for photoelectrochemical water splitting” [Int J Hydrogen Energy 40 (2015) 2115–2131]"}
+{
+  "retracted": false,
+  "timestamp": 1426464000000,
+  "updates": [
+    {
+      "timestamp": 1496043719127,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2015.01.139"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2014.11.131"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Aerosol-assisted chemical vapor deposition of metal oxide thin films for photoelectrochemical water splitting” [Int J Hydrogen Energy 40 (2015) 2115–2131]"
+}

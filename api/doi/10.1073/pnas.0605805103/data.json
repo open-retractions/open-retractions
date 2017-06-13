@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1157414400000,"update":{"timestamp":null,"doi":null,"pmid":19106305,"type":"retraction"},"doi":"10.1073/pnas.0605805103","journal":"Proceedings of the National Academy of Sciences of the United States of America","publisher":null,"title":"Characterization of capsaicin synthase and identification of its gene (csy1) for pungency factor capsaicin in pepper (Capsicum sp.)."}
+{
+  "retracted": false,
+  "timestamp": 1229990400000,
+  "updates": [
+    {
+      "timestamp": 1495945031811,
+      "identifier": {
+        "doi": "10.1073/pnas.0702350104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0605805103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Narasimha Prasad et al., Characterization of capsaicin synthase and identification of its gene (csy1) for pungency factor capsaicin in pepper (Capsicum sp.)"
+}

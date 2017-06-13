@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464307200000,"doi":"10.1016/j.physleta.2016.02.004","type":"erratum"},"doi":"10.1016/j.physleta.2015.09.045","journal":"Physics Letters A","publisher":"Elsevier BV","title":"Corrigendum to “On quintic equations with a linear window” [Phys. Lett. A 380 (2016) 135–141]"}
+{
+  "retracted": false,
+  "timestamp": 1464307200000,
+  "updates": [
+    {
+      "timestamp": 1495665983043,
+      "identifier": {
+        "doi": "10.1016/j.physleta.2016.02.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physleta.2015.09.045"
+  },
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On quintic equations with a linear window” [Phys. Lett. A 380 (2016) 135–141]"
+}

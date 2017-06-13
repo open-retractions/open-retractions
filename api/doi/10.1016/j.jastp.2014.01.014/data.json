@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jastp.2014.07.009","type":"err"},"doi":"10.1016/j.jastp.2014.01.014","journal":"Journal of Atmospheric and Solar-Terrestrial Physics","publisher":"Elsevier BV","title":"Corrigendum to “On the alleged coherence between the global temperature and the sun's movement”"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1495999424555,
+      "identifier": {
+        "doi": "10.1016/j.jastp.2014.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jastp.2014.01.014"
+  },
+  "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the alleged coherence between the global temperature and the sun's movement”"
+}

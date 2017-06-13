@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444694400000,"doi":"10.1186/s12951-015-0130-4","type":"correction"},"doi":"10.1186/s12951-015-0112-6","journal":"Journal of Nanobiotechnology","publisher":"Springer Nature","title":"Erratum to: A zeta potential value determines the aggregate’s size of penta-substituted [60]fullerene derivatives in aqueous suspension whereas positive charge is required for toxicity against bacterial cells"}
+{
+  "retracted": false,
+  "timestamp": 1444694400000,
+  "updates": [
+    {
+      "timestamp": 1496037165212,
+      "identifier": {
+        "doi": "10.1186/s12951-015-0130-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12951-015-0112-6"
+  },
+  "journal": "Journal of Nanobiotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A zeta potential value determines the aggregate’s size of penta-substituted [60]fullerene derivatives in aqueous suspension whereas positive charge is required for toxicity against bacterial cells"
+}

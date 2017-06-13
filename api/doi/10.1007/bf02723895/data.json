@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1192838400000,"doi":"10.1007/bf02725237","type":"correction"},"doi":"10.1007/bf02723895","journal":"Il Nuovo Cimento B Series 11","publisher":"Springer Nature","title":"Erratum to: Pulse propagation and superradiance.—II"}
+{
+  "retracted": false,
+  "timestamp": 1192838400000,
+  "updates": [
+    {
+      "timestamp": 1495811679346,
+      "identifier": {
+        "doi": "10.1007/bf02725237"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02723895"
+  },
+  "journal": "Il Nuovo Cimento B Series 11",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pulse propagation and superradiance.—II"
+}

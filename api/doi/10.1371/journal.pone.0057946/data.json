@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376352000000,"doi":"10.1371/annotation/47f8c256-07a4-44a1-88cb-8c461e0d45e4","type":"correction"},"doi":"10.1371/journal.pone.0057946","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Overhauser-Enhanced MRI of Elastase Activity from In Vitro Human Neutrophil Degranulation"}
+{
+  "retracted": false,
+  "timestamp": 1376352000000,
+  "updates": [
+    {
+      "timestamp": 1496040090603,
+      "identifier": {
+        "doi": "10.1371/annotation/47f8c256-07a4-44a1-88cb-8c461e0d45e4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0057946"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Overhauser-Enhanced MRI of Elastase Activity from In Vitro Human Neutrophil Degranulation"
+}

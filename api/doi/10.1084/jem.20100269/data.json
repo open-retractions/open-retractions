@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1302480000000,"doi":"10.1084/jem.201002692084c","type":"correction"},"doi":"10.1084/jem.20100269","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Contribution of IL-17–producing γδ T cells to the efficacy of anticancer chemotherapy"}
+{
+  "retracted": false,
+  "timestamp": 1302480000000,
+  "updates": [
+    {
+      "timestamp": 1495926309621,
+      "identifier": {
+        "doi": "10.1084/jem.201002692084c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20100269"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Contribution of IL-17–producing γδ T cells to the efficacy of anticancer chemotherapy"
+}

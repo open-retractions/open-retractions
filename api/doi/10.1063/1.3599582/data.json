@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374796800000,"doi":"10.1063/1.4816966","type":"correction"},"doi":"10.1063/1.3599582","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Hot electron injection effect on the microwave performance of type-I/II AlInP/GaAsSb/InP double-heterojunction bipolar transistors” [Appl. Phys. Lett. 98, 242103 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1374796800000,
+  "updates": [
+    {
+      "timestamp": 1496035935101,
+      "identifier": {
+        "doi": "10.1063/1.4816966"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3599582"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Hot electron injection effect on the microwave performance of type-I/II AlInP/GaAsSb/InP double-heterojunction bipolar transistors” [Appl. Phys. Lett. 98, 242103 (2011)]"
+}

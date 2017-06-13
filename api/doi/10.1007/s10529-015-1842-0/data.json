@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1007/s10529-016-2044-0","type":"correction"},"doi":"10.1007/s10529-015-1842-0","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Research advances in expansins and expansin-like proteins involved in lignocellulose degradation"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495649256335,
+      "identifier": {
+        "doi": "10.1007/s10529-016-2044-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-015-1842-0"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Research advances in expansins and expansin-like proteins involved in lignocellulose degradation"
+}

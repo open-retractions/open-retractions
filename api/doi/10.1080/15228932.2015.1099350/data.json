@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454025600000,"doi":"10.1080/15228932.2016.1130413","type":"correction"},"doi":"10.1080/15228932.2015.1099350","journal":"Journal of Forensic Psychology Practice","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1454025600000,
+  "updates": [
+    {
+      "timestamp": 1495640800292,
+      "identifier": {
+        "doi": "10.1080/15228932.2016.1130413"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15228932.2015.1099350"
+  },
+  "journal": "Journal of Forensic Psychology Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

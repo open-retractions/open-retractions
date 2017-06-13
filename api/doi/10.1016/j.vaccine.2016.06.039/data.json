@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1493683200000,"doi":"10.1016/j.vaccine.2017.03.011","type":"erratum"},"doi":"10.1016/j.vaccine.2016.06.039","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to “Preclinical studies on new proteins as carrier for glycoconjugate vaccines” [Vaccine 34 (2016) 4235–4242]"}
+{
+  "retracted": false,
+  "timestamp": 1493683200000,
+  "updates": [
+    {
+      "timestamp": 1495734603974,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2017.03.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2016.06.039"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preclinical studies on new proteins as carrier for glycoconjugate vaccines” [Vaccine 34 (2016) 4235–4242]"
+}

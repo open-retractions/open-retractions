@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460073600000,"doi":"10.1080/15592294.2016.1161273","type":"correction"},"doi":"10.1080/15592294.2015.1113798","journal":"Epigenetics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1460073600000,
+  "updates": [
+    {
+      "timestamp": 1495663322585,
+      "identifier": {
+        "doi": "10.1080/15592294.2016.1161273"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15592294.2015.1113798"
+  },
+  "journal": "Epigenetics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

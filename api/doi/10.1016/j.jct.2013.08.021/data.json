@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.jct.2014.03.011","type":"err"},"doi":"10.1016/j.jct.2013.08.021","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Physical properties of the pure 1-methyl-1-propylpyrrolidinium bis(trifluoromethylsulfonyl)imide ionic liquid and its binary mixtures with alcohols” [J. Chem. Thermodyn. 68 (2014) 109–116]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496030932087,
+      "identifier": {
+        "doi": "10.1016/j.jct.2014.03.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.08.021"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Physical properties of the pure 1-methyl-1-propylpyrrolidinium bis(trifluoromethylsulfonyl)imide ionic liquid and its binary mixtures with alcohols” [J. Chem. Thermodyn. 68 (2014) 109–116]"
+}

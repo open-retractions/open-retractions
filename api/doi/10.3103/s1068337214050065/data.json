@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436400000000,"doi":"10.3103/s1068337215020188","type":"correction"},"doi":"10.3103/s1068337214050065","journal":"Journal of Contemporary Physics (Armenian Academy of Sciences)","publisher":"Allerton Press","title":"Erratum to: “Preparation and investigation of rare earth magnesium hexaaluminate solid solutions”"}
+{
+  "retracted": false,
+  "timestamp": 1436400000000,
+  "updates": [
+    {
+      "timestamp": 1496013954287,
+      "identifier": {
+        "doi": "10.3103/s1068337215020188"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1068337214050065"
+  },
+  "journal": "Journal of Contemporary Physics (Armenian Academy of Sciences)",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Preparation and investigation of rare earth magnesium hexaaluminate solid solutions”"
+}

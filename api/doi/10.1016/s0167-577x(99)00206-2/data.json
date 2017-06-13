@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.matlet.2014.02.010","type":"err"},"doi":"10.1016/s0167-577x(99)00206-2","journal":"Materials Letters","publisher":"Elsevier BV","title":"Retraction notice to: “Absorption spectra of nanocrystalline silicon embedded in SiO2 matrix” [Mater. Lett. 42 (2000) 367–370]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496022804549,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2014.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0167-577x(99)00206-2"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to: “Absorption spectra of nanocrystalline silicon embedded in SiO2 matrix” [Mater. Lett. 42 (2000) 367–370]"
+}

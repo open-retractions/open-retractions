@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1038/srep21679","type":"correction"},"doi":"10.1038/srep14600","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Obesity changes the human gut mycobiome"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647367361,
+      "identifier": {
+        "doi": "10.1038/srep21679"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep14600"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Obesity changes the human gut mycobiome"
+}

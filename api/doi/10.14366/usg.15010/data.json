@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431993600000,"doi":"10.14366/usg.15010","type":"correction"},"doi":"10.14366/usg.15010","journal":"Ultrasonography","publisher":"Korean Society of Ultrasound in Medicine","title":"Ultrasonography of intrauterine devices"}
+{
+  "retracted": false,
+  "timestamp": 1431993600000,
+  "updates": [
+    {
+      "timestamp": 1496054337398,
+      "identifier": {
+        "doi": "10.14366/usg.15010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.14366/usg.15010"
+  },
+  "journal": "Ultrasonography",
+  "publisher": "Korean Society of Ultrasound in Medicine",
+  "title": "Ultrasonography of intrauterine devices"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461196800000,"doi":"10.1007/jhep04(2016)139","type":"correction"},"doi":"10.1007/jhep04(2013)012","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Note on integrability of marginally deformed ABJ(M) theories"}
+{
+  "retracted": false,
+  "timestamp": 1461196800000,
+  "updates": [
+    {
+      "timestamp": 1495668350434,
+      "identifier": {
+        "doi": "10.1007/jhep04(2016)139"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep04(2013)012"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Note on integrability of marginally deformed ABJ(M) theories"
+}

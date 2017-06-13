@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469750400000,"doi":"10.1080/01913123.2016.1212634","type":"correction"},"doi":"10.3109/01913123.2015.1027434","journal":"Ultrastructural Pathology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1469750400000,
+  "updates": [
+    {
+      "timestamp": 1495730278656,
+      "identifier": {
+        "doi": "10.1080/01913123.2016.1212634"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/01913123.2015.1027434"
+  },
+  "journal": "Ultrastructural Pathology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

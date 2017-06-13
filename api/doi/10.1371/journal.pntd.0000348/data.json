@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1230854400000,"doi":"10.1371/annotation/49748d99-fe4d-4c28-b77a-306d0cf7062e","type":"correction"},"doi":"10.1371/journal.pntd.0000348","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Leishmanicidal Metabolites from Cochliobolus sp., an Endophytic Fungus Isolated from Piptadenia adiantoides (Fabaceae)"}
+{
+  "retracted": false,
+  "timestamp": 1230854400000,
+  "updates": [
+    {
+      "timestamp": 1496023932743,
+      "identifier": {
+        "doi": "10.1371/annotation/49748d99-fe4d-4c28-b77a-306d0cf7062e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0000348"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Leishmanicidal Metabolites from Cochliobolus sp., an Endophytic Fungus Isolated from Piptadenia adiantoides (Fabaceae)"
+}

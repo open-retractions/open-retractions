@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489017600000,"doi":"10.1186/s12859-017-1573-4","type":"correction"},"doi":"10.1186/s12859-017-1493-3","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: BicPAMS: software for biological data analysis with pattern-based biclustering"}
+{
+  "retracted": false,
+  "timestamp": 1489017600000,
+  "updates": [
+    {
+      "timestamp": 1495727729049,
+      "identifier": {
+        "doi": "10.1186/s12859-017-1573-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-017-1493-3"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: BicPAMS: software for biological data analysis with pattern-based biclustering"
+}

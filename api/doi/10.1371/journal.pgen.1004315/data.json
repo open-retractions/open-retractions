@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401667200000,"doi":"10.1371/journal.pgen.1004472","type":"correction"},"doi":"10.1371/journal.pgen.1004315","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: The Challenges of Mitochondrial Replacement"}
+{
+  "retracted": false,
+  "timestamp": 1401667200000,
+  "updates": [
+    {
+      "timestamp": 1496042992757,
+      "identifier": {
+        "doi": "10.1371/journal.pgen.1004472"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1004315"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Challenges of Mitochondrial Replacement"
+}

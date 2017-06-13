@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398470400000,"doi":"10.1179/1547402x14z.00000000032","type":"correction"},"doi":"10.1179/1547402x13z.00000000020","journal":"The Chinese Historical Review","publisher":"Informa UK Limited","title":"CORRECTIONS"}
+{
+  "retracted": false,
+  "timestamp": 1398470400000,
+  "updates": [
+    {
+      "timestamp": 1496033025861,
+      "identifier": {
+        "doi": "10.1179/1547402x14z.00000000032"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1547402x13z.00000000020"
+  },
+  "journal": "The Chinese Historical Review",
+  "publisher": "Informa UK Limited",
+  "title": "CORRECTIONS"
+}

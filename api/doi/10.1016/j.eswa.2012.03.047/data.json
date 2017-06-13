@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.eswa.2013.06.028","type":"err"},"doi":"10.1016/j.eswa.2012.03.047","journal":"Expert Systems with Applications","publisher":"Elsevier BV","title":"Corrigendum to “Vision-based active safety system for automatic stopping” [Expert Systems with Applications 39/12 (2012) 11234–11242]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496030472228,
+      "identifier": {
+        "doi": "10.1016/j.eswa.2013.06.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eswa.2012.03.047"
+  },
+  "journal": "Expert Systems with Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Vision-based active safety system for automatic stopping” [Expert Systems with Applications 39/12 (2012) 11234–11242]"
+}

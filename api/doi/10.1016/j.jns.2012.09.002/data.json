@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360886400000,"doi":"10.1016/j.jns.2013.01.001","type":"err"},"doi":"10.1016/j.jns.2012.09.002","journal":"Journal of the Neurological Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Thrombin promotes the expression of thrombospondin-1 and -2 in a rat model of intracerebral hemorrhage” [J Neurol Sci 323 (2012) 141–146]"}
+{
+  "retracted": false,
+  "timestamp": 1360886400000,
+  "updates": [
+    {
+      "timestamp": 1495985088160,
+      "identifier": {
+        "doi": "10.1016/j.jns.2013.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jns.2012.09.002"
+  },
+  "journal": "Journal of the Neurological Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thrombin promotes the expression of thrombospondin-1 and -2 in a rat model of intracerebral hemorrhage” [J Neurol Sci 323 (2012) 141–146]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417737600000,"doi":"10.1016/j.vetmic.2014.10.003","type":"err"},"doi":"10.1016/j.vetmic.2014.06.030","journal":"Veterinary Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Genetic diversity of porcine group A rotavirus strains in the UK” [Vet. Microbiol. 173 (2014) 27–37]"}
+{
+  "retracted": false,
+  "timestamp": 1417737600000,
+  "updates": [
+    {
+      "timestamp": 1496016814095,
+      "identifier": {
+        "doi": "10.1016/j.vetmic.2014.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vetmic.2014.06.030"
+  },
+  "journal": "Veterinary Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Genetic diversity of porcine group A rotavirus strains in the UK” [Vet. Microbiol. 173 (2014) 27–37]"
+}

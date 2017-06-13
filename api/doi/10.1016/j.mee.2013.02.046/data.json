@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.mee.2013.06.011","type":"err"},"doi":"10.1016/j.mee.2013.02.046","journal":"Microelectronic Engineering","publisher":"Elsevier BV","title":"Corrigendum to: “Solvent features of cluster single-wall C, BC2N and BN nanotubes, cones and horns” [Microelectron. Eng. 108 (2013) 127–133]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496031191832,
+      "identifier": {
+        "doi": "10.1016/j.mee.2013.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mee.2013.02.046"
+  },
+  "journal": "Microelectronic Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Solvent features of cluster single-wall C, BC2N and BN nanotubes, cones and horns” [Microelectron. Eng. 108 (2013) 127–133]"
+}

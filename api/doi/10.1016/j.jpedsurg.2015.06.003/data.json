@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jpedsurg.2015.09.016","type":"err"},"doi":"10.1016/j.jpedsurg.2015.06.003","journal":"Journal of Pediatric Surgery","publisher":"Elsevier BV","title":"Reply to Letter to the Editor (J Pediatr Surg 2015;50(8):1434–1436)"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496041011028,
+      "identifier": {
+        "doi": "10.1016/j.jpedsurg.2015.09.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpedsurg.2015.06.003"
+  },
+  "journal": "Journal of Pediatric Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Reply to Letter to the Editor (J Pediatr Surg 2015;50(8):1434–1436)"
+}

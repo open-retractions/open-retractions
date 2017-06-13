@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486512000000,"doi":"10.1080/02699206.2017.1289330","type":"correction"},"doi":"10.3109/02699206.2012.752867","journal":"Clinical Linguistics & Phonetics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1486512000000,
+  "updates": [
+    {
+      "timestamp": 1495719169194,
+      "identifier": {
+        "doi": "10.1080/02699206.2017.1289330"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/02699206.2012.752867"
+  },
+  "journal": "Clinical Linguistics & Phonetics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

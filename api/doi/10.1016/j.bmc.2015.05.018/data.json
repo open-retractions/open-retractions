@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.bmc.2015.07.063","type":"err"},"doi":"10.1016/j.bmc.2015.05.018","journal":"Bioorganic & Medicinal Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Discovery and structural analyses of S-adenosyl-l-homocysteine hydrolase inhibitors based on non-adenosine analogs” [Bioorg. Med. Chem. 23 (2015) 4952–4969]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496021100212,
+      "identifier": {
+        "doi": "10.1016/j.bmc.2015.07.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmc.2015.05.018"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Discovery and structural analyses of S-adenosyl-l-homocysteine hydrolase inhibitors based on non-adenosine analogs” [Bioorg. Med. Chem. 23 (2015) 4952–4969]"
+}

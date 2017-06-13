@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jmmm.2015.05.055","type":"err"},"doi":"10.1016/j.jmmm.2011.10.011","journal":"Journal of Magnetism and Magnetic Materials","publisher":"Elsevier BV","title":"RETRACTED: Gd substituted NiCa ferrite/poly vinyl alcohol nanocomposite"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1495993731183,
+      "identifier": {
+        "doi": "10.1016/j.jmmm.2015.05.055"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmmm.2011.10.011"
+  },
+  "journal": "Journal of Magnetism and Magnetic Materials",
+  "publisher": "Elsevier BV",
+  "title": "RETRACTED: Gd substituted NiCa ferrite/poly vinyl alcohol nanocomposite"
+}

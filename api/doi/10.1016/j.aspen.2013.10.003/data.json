@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.aspen.2014.01.001","type":"err"},"doi":"10.1016/j.aspen.2013.10.003","journal":"Journal of Asia-Pacific Entomology","publisher":"Elsevier BV","title":"Erratum to “Description of a new species of the genus Tanna (Hemiptera: Cicadidae: Cicadini) from Xinjiang Uygur, China” [J. Asia Pac. Entomol. 17 (1) (2014) 59–61]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496019093268,
+      "identifier": {
+        "doi": "10.1016/j.aspen.2014.01.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aspen.2013.10.003"
+  },
+  "journal": "Journal of Asia-Pacific Entomology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Description of a new species of the genus Tanna (Hemiptera: Cicadidae: Cicadini) from Xinjiang Uygur, China” [J. Asia Pac. Entomol. 17 (1) (2014) 59–61]"
+}

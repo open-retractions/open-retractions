@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.phytochem.2015.02.010","type":"err"},"doi":"10.1016/j.phytochem.2014.08.010","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Furofuran lignans display schistosomicidal and trypanocidal activities” [Phytochemistry 107C (2014) 119–125]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496046766592,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2015.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2014.08.010"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Furofuran lignans display schistosomicidal and trypanocidal activities” [Phytochemistry 107C (2014) 119–125]"
+}

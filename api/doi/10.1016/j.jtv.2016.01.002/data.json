@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jtv.2016.06.002","type":"err"},"doi":"10.1016/j.jtv.2016.01.002","journal":"Journal of Tissue Viability","publisher":"Elsevier BV","title":"Corrigendum to “Editorial” [J. Tissue Viability 25 (2016) 1–2]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495714900420,
+      "identifier": {
+        "doi": "10.1016/j.jtv.2016.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtv.2016.01.002"
+  },
+  "journal": "Journal of Tissue Viability",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Editorial” [J. Tissue Viability 25 (2016) 1–2]"
+}

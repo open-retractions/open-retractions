@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jpsychires.2015.01.012","type":"err"},"doi":"10.1016/j.jpsychires.2014.10.011","journal":"Journal of Psychiatric Research","publisher":"Elsevier BV","title":"Corrigendum to “Stress biomarkers as predictors of transition to psychosis in at-risk mental states: Roles for cortisol, prolactin and albumin” [J. Psychiatr. Res. 60 (2015) 163–169]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496042765504,
+      "identifier": {
+        "doi": "10.1016/j.jpsychires.2015.01.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpsychires.2014.10.011"
+  },
+  "journal": "Journal of Psychiatric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stress biomarkers as predictors of transition to psychosis in at-risk mental states: Roles for cortisol, prolactin and albumin” [J. Psychiatr. Res. 60 (2015) 163–169]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470096000000,"doi":"10.1080/00063657.2016.1215087","type":"correction"},"doi":"10.1080/00063657.2016.1202889","journal":"Bird Study","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1470096000000,
+  "updates": [
+    {
+      "timestamp": 1495734106155,
+      "identifier": {
+        "doi": "10.1080/00063657.2016.1215087"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00063657.2016.1202889"
+  },
+  "journal": "Bird Study",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

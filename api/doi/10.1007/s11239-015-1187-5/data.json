@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433980800000,"doi":"10.1007/s11239-015-1240-4","type":"correction"},"doi":"10.1007/s11239-015-1187-5","journal":"Journal of Thrombosis and Thrombolysis","publisher":"Springer Nature","title":"Erratum to: Inferior vena cava filters: current best practices"}
+{
+  "retracted": false,
+  "timestamp": 1433980800000,
+  "updates": [
+    {
+      "timestamp": 1496005735191,
+      "identifier": {
+        "doi": "10.1007/s11239-015-1240-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11239-015-1187-5"
+  },
+  "journal": "Journal of Thrombosis and Thrombolysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Inferior vena cava filters: current best practices"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454630400000,"doi":"10.1038/srep20743","type":"correction"},"doi":"10.1038/srep18137","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: The pan-class I phosphatidyl-inositol-3 kinase inhibitor NVP-BKM120 demonstrates anti-leukemic activity in acute myeloid leukemia"}
+{
+  "retracted": false,
+  "timestamp": 1454630400000,
+  "updates": [
+    {
+      "timestamp": 1495642623427,
+      "identifier": {
+        "doi": "10.1038/srep20743"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep18137"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: The pan-class I phosphatidyl-inositol-3 kinase inhibitor NVP-BKM120 demonstrates anti-leukemic activity in acute myeloid leukemia"
+}

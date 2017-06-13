@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.scr.2015.05.008","type":"err"},"doi":"10.1016/j.scr.2015.02.005","journal":"Stem Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “Molecular profile of clonal strains of human skeletal stem/progenitor cells with different potencies” [stem cell res. 14 (2015) 297–306]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496002866541,
+      "identifier": {
+        "doi": "10.1016/j.scr.2015.05.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scr.2015.02.005"
+  },
+  "journal": "Stem Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecular profile of clonal strains of human skeletal stem/progenitor cells with different potencies” [stem cell res. 14 (2015) 297–306]"
+}

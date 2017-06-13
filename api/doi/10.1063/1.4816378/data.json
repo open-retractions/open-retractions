@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377043200000,"doi":"10.1063/1.4818979","type":"correction"},"doi":"10.1063/1.4816378","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Structure and properties of sodium aluminosilicate glasses from molecular dynamics simulations” [J. Chem. Phys. 139, 044507 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1377043200000,
+  "updates": [
+    {
+      "timestamp": 1496041061699,
+      "identifier": {
+        "doi": "10.1063/1.4818979"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4816378"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Structure and properties of sodium aluminosilicate glasses from molecular dynamics simulations” [J. Chem. Phys. 139, 044507 (2013)]"
+}

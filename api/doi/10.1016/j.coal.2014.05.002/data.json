@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.coal.2014.07.007","type":"err"},"doi":"10.1016/j.coal.2014.05.002","journal":"International Journal of Coal Geology","publisher":"Elsevier BV","title":"Corrigendum to “Petrographic maturity parameters of a Devonian shale maturation series, Appalachian Basin, USA. ICCP Thermal Indices Working Group interlaboratory exercise” [Int. J. Coal Geol. 130 (2014) 89–101]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496000140547,
+      "identifier": {
+        "doi": "10.1016/j.coal.2014.07.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coal.2014.05.002"
+  },
+  "journal": "International Journal of Coal Geology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Petrographic maturity parameters of a Devonian shale maturation series, Appalachian Basin, USA. ICCP Thermal Indices Working Group interlaboratory exercise” [Int. J. Coal Geol. 130 (2014) 89–101]"
+}

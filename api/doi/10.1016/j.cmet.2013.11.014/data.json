@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393891200000,"doi":"10.1016/j.cmet.2014.02.005","type":"err"},"doi":"10.1016/j.cmet.2013.11.014","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Jejunal Leptin-PI3K Signaling Lowers Glucose Production"}
+{
+  "retracted": false,
+  "timestamp": 1393891200000,
+  "updates": [
+    {
+      "timestamp": 1496022558015,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2014.02.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2013.11.014"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Jejunal Leptin-PI3K Signaling Lowers Glucose Production"
+}

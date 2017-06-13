@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452729600000,"doi":"10.1080/14787318.2016.1140934","type":"correction"},"doi":"10.1179/1478731815z.00000000077","journal":"Dix-Neuf","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1452729600000,
+  "updates": [
+    {
+      "timestamp": 1496060159392,
+      "identifier": {
+        "doi": "10.1080/14787318.2016.1140934"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1478731815z.00000000077"
+  },
+  "journal": "Dix-Neuf",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

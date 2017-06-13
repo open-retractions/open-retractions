@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481241600000,"doi":"10.1371/journal.pone.0167667","type":"correction"},"doi":"10.1371/journal.pone.0145586","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The BD FACSPresto Point of Care CD4 Test accurately enumerates CD4+ T cell counts"}
+{
+  "retracted": false,
+  "timestamp": 1481241600000,
+  "updates": [
+    {
+      "timestamp": 1495666093713,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0167667"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0145586"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The BD FACSPresto Point of Care CD4 Test accurately enumerates CD4+ T cell counts"
+}

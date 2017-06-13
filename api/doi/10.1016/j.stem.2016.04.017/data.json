@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478131200000,"doi":"10.1016/j.stem.2016.10.017","type":"err"},"doi":"10.1016/j.stem.2016.04.017","journal":"Cell Stem Cell","publisher":"Elsevier BV","title":"Zika Virus Disrupts Neural Progenitor Development and Leads to Microcephaly in Mice"}
+{
+  "retracted": false,
+  "timestamp": 1478131200000,
+  "updates": [
+    {
+      "timestamp": 1496785381907,
+      "identifier": {
+        "doi": "10.1016/j.stem.2016.10.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stem.2016.04.017"
+  },
+  "journal": "Cell Stem Cell",
+  "publisher": "Elsevier BV",
+  "title": "Zika Virus Disrupts Neural Progenitor Development and Leads to Microcephaly in Mice"
+}

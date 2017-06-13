@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373846400000,"doi":"10.1016/j.optcom.2013.04.046","type":"err"},"doi":"10.1016/j.optcom.2011.09.044","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Real-time dual-wavelength digital holographic microscopy based on polarizing separation” [Optics Communications 285/3 (2012) 233–237]"}
+{
+  "retracted": false,
+  "timestamp": 1373846400000,
+  "updates": [
+    {
+      "timestamp": 1496021616204,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2013.04.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2011.09.044"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Real-time dual-wavelength digital holographic microscopy based on polarizing separation” [Optics Communications 285/3 (2012) 233–237]"
+}

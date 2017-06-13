@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458864000000,"doi":"10.1080/10586458.2016.1149353","type":"correction"},"doi":"10.1080/10586458.2013.878674","journal":"Experimental Mathematics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1458864000000,
+  "updates": [
+    {
+      "timestamp": 1495659466805,
+      "identifier": {
+        "doi": "10.1080/10586458.2016.1149353"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10586458.2013.878674"
+  },
+  "journal": "Experimental Mathematics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

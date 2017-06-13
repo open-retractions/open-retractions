@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438041600000,"doi":"10.1073/pnas.1511978112","type":"correction"},"doi":"10.1073/pnas.1320646111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sullivan et al., Spatially robust estimates of biological nitrogen (N) fixation imply substantial human alteration of the tropical N cycle"}
+{
+  "retracted": false,
+  "timestamp": 1438041600000,
+  "updates": [
+    {
+      "timestamp": 1496012664173,
+      "identifier": {
+        "doi": "10.1073/pnas.1511978112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1320646111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sullivan et al., Spatially robust estimates of biological nitrogen (N) fixation imply substantial human alteration of the tropical N cycle"
+}

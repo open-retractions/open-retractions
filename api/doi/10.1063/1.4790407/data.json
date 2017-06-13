@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366329600000,"doi":"10.1063/1.4802916","type":"correction"},"doi":"10.1063/1.4790407","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Computational analysis of the quadrupole contribution in the second-harmonic generation spectroscopy for the water/vapor interface” [J. Chem. Phys. 138, 064704 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1366329600000,
+  "updates": [
+    {
+      "timestamp": 1496013749328,
+      "identifier": {
+        "doi": "10.1063/1.4802916"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4790407"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Computational analysis of the quadrupole contribution in the second-harmonic generation spectroscopy for the water/vapor interface” [J. Chem. Phys. 138, 064704 (2013)]"
+}

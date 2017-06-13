@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.cpc.2016.08.022","type":"erratum"},"doi":"10.1016/j.cpc.2012.09.031","journal":"Computer Physics Communications","publisher":"Elsevier BV","title":"Corrigendum to: “A Matlab-based finite difference solver for the Poisson problem with mixed Dirichlet–Neumann boundary conditions” [Comput. Phys. Comm. 184(3) (2013) 783–798]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495642811446,
+      "identifier": {
+        "doi": "10.1016/j.cpc.2016.08.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpc.2012.09.031"
+  },
+  "journal": "Computer Physics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “A Matlab-based finite difference solver for the Poisson problem with mixed Dirichlet–Neumann boundary conditions” [Comput. Phys. Comm. 184(3) (2013) 783–798]"
+}

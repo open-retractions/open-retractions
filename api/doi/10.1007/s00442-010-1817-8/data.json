@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1299628800000,"doi":"10.1007/s00442-011-1960-x","type":"correction"},"doi":"10.1007/s00442-010-1817-8","journal":"Oecologia","publisher":"Springer Nature","title":"Erratum to: Marking live conifer pollen for long-distance dispersal experiments"}
+{
+  "retracted": false,
+  "timestamp": 1299628800000,
+  "updates": [
+    {
+      "timestamp": 1495941180147,
+      "identifier": {
+        "doi": "10.1007/s00442-011-1960-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00442-010-1817-8"
+  },
+  "journal": "Oecologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Marking live conifer pollen for long-distance dispersal experiments"
+}

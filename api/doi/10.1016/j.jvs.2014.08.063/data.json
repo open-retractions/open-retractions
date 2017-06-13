@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jvs.2014.11.064","type":"erratum"},"doi":"10.1016/j.jvs.2014.08.063","journal":"Journal of Vascular Surgery","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496031651293,
+      "identifier": {
+        "doi": "10.1016/j.jvs.2014.11.064"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvs.2014.08.063"
+  },
+  "journal": "Journal of Vascular Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

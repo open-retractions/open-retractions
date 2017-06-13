@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454889600000,"doi":"10.3109/01443615.2016.1145180","type":"correction"},"doi":"10.3109/01443615.2015.1018820","journal":"Journal of Obstetrics and Gynaecology","publisher":"Informa Healthcare","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1454889600000,
+  "updates": [
+    {
+      "timestamp": 1495643144652,
+      "identifier": {
+        "doi": "10.3109/01443615.2016.1145180"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/01443615.2015.1018820"
+  },
+  "journal": "Journal of Obstetrics and Gynaecology",
+  "publisher": "Informa Healthcare",
+  "title": "Erratum"
+}

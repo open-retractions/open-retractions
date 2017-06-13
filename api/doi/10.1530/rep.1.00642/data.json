@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1125532800000,"doi":"10.1530/rep.1.00642e","type":"correction"},"doi":"10.1530/rep.1.00642","journal":"Reproduction","publisher":"BioScientifica","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1125532800000,
+  "updates": [
+    {
+      "timestamp": 1495970020178,
+      "identifier": {
+        "doi": "10.1530/rep.1.00642e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1530/rep.1.00642"
+  },
+  "journal": "Reproduction",
+  "publisher": "BioScientifica",
+  "title": "ERRATUM"
+}

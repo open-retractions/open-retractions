@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.jcsr.2014.11.004","type":"err"},"doi":"10.1016/j.jcsr.2014.01.012","journal":"Journal of Constructional Steel Research","publisher":"Elsevier BV","title":"Corrigendum to ‘Hot spot stress analysis on rib–deck welded joint in orthotropic steel decks’ [J Constr Steel Res 97 (2014) 1–9]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496024887718,
+      "identifier": {
+        "doi": "10.1016/j.jcsr.2014.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcsr.2014.01.012"
+  },
+  "journal": "Journal of Constructional Steel Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Hot spot stress analysis on rib–deck welded joint in orthotropic steel decks’ [J Constr Steel Res 97 (2014) 1–9]"
+}

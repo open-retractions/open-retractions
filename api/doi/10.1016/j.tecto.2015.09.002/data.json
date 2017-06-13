@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484524800000,"doi":"10.1016/j.tecto.2016.12.016","type":"erratum"},"doi":"10.1016/j.tecto.2015.09.002","journal":"Tectonophysics","publisher":"Elsevier BV","title":"Corrigendum to “Is the Lishan Fault active?” [Tectonophysics volume no: 661, pages range: 210–214]"}
+{
+  "retracted": false,
+  "timestamp": 1484524800000,
+  "updates": [
+    {
+      "timestamp": 1495668326601,
+      "identifier": {
+        "doi": "10.1016/j.tecto.2016.12.016"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tecto.2015.09.002"
+  },
+  "journal": "Tectonophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Is the Lishan Fault active?” [Tectonophysics volume no: 661, pages range: 210–214]"
+}

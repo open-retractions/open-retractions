@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1073/pnas.1508418112","type":"correction"},"doi":"10.1073/pnas.1322825111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Godar et al., Actor-specific contributions to the deforestation slowdown in the Brazilian Amazon"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1495999149397,
+      "identifier": {
+        "doi": "10.1073/pnas.1508418112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1322825111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Godar et al., Actor-specific contributions to the deforestation slowdown in the Brazilian Amazon"
+}

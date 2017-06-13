@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1247184000000,"doi":"10.1371/annotation/1087d9ce-af96-49c7-8074-8da2542cb005","type":"correction"},"doi":"10.1371/journal.pcbi.1000233","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: PSICIC: Noise and Asymmetry in Bacterial Division Revealed by Computational Image Analysis at Sub-Pixel Resolution"}
+{
+  "retracted": false,
+  "timestamp": 1247184000000,
+  "updates": [
+    {
+      "timestamp": 1496025197171,
+      "identifier": {
+        "doi": "10.1371/annotation/1087d9ce-af96-49c7-8074-8da2542cb005"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1000233"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: PSICIC: Noise and Asymmetry in Bacterial Division Revealed by Computational Image Analysis at Sub-Pixel Resolution"
+}

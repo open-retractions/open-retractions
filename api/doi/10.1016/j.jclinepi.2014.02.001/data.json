@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jclinepi.2015.04.001","type":"err"},"doi":"10.1016/j.jclinepi.2014.02.001","journal":"Journal of Clinical Epidemiology","publisher":"Elsevier BV","title":"Erratum to “A theoretical analysis showed that blinding cannot eliminate potential for bias associated with beliefs about allocation in randomized clinical trials” [J Clin Epidemiol 2014;67(6):667-671]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495997198432,
+      "identifier": {
+        "doi": "10.1016/j.jclinepi.2015.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jclinepi.2014.02.001"
+  },
+  "journal": "Journal of Clinical Epidemiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A theoretical analysis showed that blinding cannot eliminate potential for bias associated with beliefs about allocation in randomized clinical trials” [J Clin Epidemiol 2014;67(6):667-671]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.mmcr.2015.09.001","type":"err"},"doi":"10.1016/j.mmcr.2014.08.002","journal":"Medical Mycology Case Reports","publisher":"Elsevier BV","title":"Corrigendum to ‘Disseminated mucormycosis in a paediatric patient: Lictheimia corymbifera successfully treated with combination antifungal therapy’ [Medical Mycology Case Reports (2014) 18–21]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496040747977,
+      "identifier": {
+        "doi": "10.1016/j.mmcr.2015.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mmcr.2014.08.002"
+  },
+  "journal": "Medical Mycology Case Reports",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Disseminated mucormycosis in a paediatric patient: Lictheimia corymbifera successfully treated with combination antifungal therapy’ [Medical Mycology Case Reports (2014) 18–21]"
+}

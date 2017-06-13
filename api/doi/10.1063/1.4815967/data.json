@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378339200000,"doi":"10.1063/1.4819065","type":"correction"},"doi":"10.1063/1.4815967","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Dissociative electron attachment to DNA-diamine thin films: Impact of the DNA close environment on the OH− and O− decay channels” [J. Chem. Phys. 139, 055101 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1378339200000,
+  "updates": [
+    {
+      "timestamp": 1496044403031,
+      "identifier": {
+        "doi": "10.1063/1.4819065"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4815967"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Dissociative electron attachment to DNA-diamine thin films: Impact of the DNA close environment on the OH− and O− decay channels” [J. Chem. Phys. 139, 055101 (2013)]"
+}

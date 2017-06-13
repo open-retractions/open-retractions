@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.4143/crt.2013.218","type":"correction"},"doi":"10.4143/crt.2013.218","journal":"Cancer Research and Treatment","publisher":"Korean Cancer Association","title":"Phase I Dose-Escalation Study of Proton Beam Therapy for Inoperable Hepatocellular Carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496005784115,
+      "identifier": {
+        "doi": "10.4143/crt.2013.218"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.4143/crt.2013.218"
+  },
+  "journal": "Cancer Research and Treatment",
+  "publisher": "Korean Cancer Association",
+  "title": "Phase I Dose-Escalation Study of Proton Beam Therapy for Inoperable Hepatocellular Carcinoma"
+}

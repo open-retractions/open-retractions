@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1080/1059924x.2016.1156912","type":"correction"},"doi":"10.1080/1059924x.2015.1106373","journal":"Journal of Agromedicine","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495660621884,
+      "identifier": {
+        "doi": "10.1080/1059924x.2016.1156912"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1059924x.2015.1106373"
+  },
+  "journal": "Journal of Agromedicine",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

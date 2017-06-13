@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462406400000,"doi":"10.3109/15622975.2016.1173984","type":"correction"},"doi":"10.3109/15622975.2015.1077990","journal":"The World Journal of Biological Psychiatry","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1462406400000,
+  "updates": [
+    {
+      "timestamp": 1495670708517,
+      "identifier": {
+        "doi": "10.3109/15622975.2016.1173984"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15622975.2015.1077990"
+  },
+  "journal": "The World Journal of Biological Psychiatry",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

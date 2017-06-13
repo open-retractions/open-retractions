@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.foodchem.2013.04.088","type":"err"},"doi":"10.1016/j.foodchem.2010.08.062","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Phenolic compound profiles in selected Queensland red wines at all stages of the wine-making process” [Food Chem. 125 (2011) 823–834]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496022981471,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2013.04.088"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2010.08.062"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Phenolic compound profiles in selected Queensland red wines at all stages of the wine-making process” [Food Chem. 125 (2011) 823–834]"
+}

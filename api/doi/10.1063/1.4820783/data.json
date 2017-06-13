@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380758400000,"doi":"10.1063/1.4824733","type":"correction"},"doi":"10.1063/1.4820783","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Near-field single tractor-beam acoustical tweezers” [Appl. Phys. Lett. 103, 114102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1380758400000,
+  "updates": [
+    {
+      "timestamp": 1496051292132,
+      "identifier": {
+        "doi": "10.1063/1.4824733"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820783"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Near-field single tractor-beam acoustical tweezers” [Appl. Phys. Lett. 103, 114102 (2013)]"
+}

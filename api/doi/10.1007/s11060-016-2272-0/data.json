@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474502400000,"doi":"10.1007/s11060-016-2281-z","type":"correction"},"doi":"10.1007/s11060-016-2272-0","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: In vivo molecular profiling of human glioma using diffusion kurtosis imaging"}
+{
+  "retracted": false,
+  "timestamp": 1474502400000,
+  "updates": [
+    {
+      "timestamp": 1495642047749,
+      "identifier": {
+        "doi": "10.1007/s11060-016-2281-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-016-2272-0"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: In vivo molecular profiling of human glioma using diffusion kurtosis imaging"
+}

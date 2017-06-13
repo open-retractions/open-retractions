@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.copbio.2014.05.006","type":"err"},"doi":"10.1016/j.copbio.2014.03.004","journal":"Current Opinion in Biotechnology","publisher":"Elsevier BV","title":"Erratum to “Recent advances in genome-based polyketide discovery” [Curr. Opin. Biotechnol. 29 (2014) 107–115]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496045586112,
+      "identifier": {
+        "doi": "10.1016/j.copbio.2014.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.copbio.2014.03.004"
+  },
+  "journal": "Current Opinion in Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Recent advances in genome-based polyketide discovery” [Curr. Opin. Biotechnol. 29 (2014) 107–115]"
+}

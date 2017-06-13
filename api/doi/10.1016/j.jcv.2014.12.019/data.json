@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.jcv.2015.02.003","type":"err"},"doi":"10.1016/j.jcv.2014.12.019","journal":"Journal of Clinical Virology","publisher":"Elsevier BV","title":"Erratum to “Measles elimination in Italy: data from laboratory activity, 2011–2013” [J. Clin. Virol. 64 (2015) 34–39]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496042756875,
+      "identifier": {
+        "doi": "10.1016/j.jcv.2015.02.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcv.2014.12.019"
+  },
+  "journal": "Journal of Clinical Virology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Measles elimination in Italy: data from laboratory activity, 2011–2013” [J. Clin. Virol. 64 (2015) 34–39]"
+}

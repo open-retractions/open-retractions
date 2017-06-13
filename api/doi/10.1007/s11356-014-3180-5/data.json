@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447113600000,"doi":"10.1007/s11356-015-5692-z","type":"correction"},"doi":"10.1007/s11356-014-3180-5","journal":"Environmental Science and Pollution Research","publisher":"Springer Nature","title":"Erratum to: A review of the direct and indirect effects of neonicotinoids and fipronil on vertebrate wildlife"}
+{
+  "retracted": false,
+  "timestamp": 1447113600000,
+  "updates": [
+    {
+      "timestamp": 1496044835836,
+      "identifier": {
+        "doi": "10.1007/s11356-015-5692-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11356-014-3180-5"
+  },
+  "journal": "Environmental Science and Pollution Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A review of the direct and indirect effects of neonicotinoids and fipronil on vertebrate wildlife"
+}

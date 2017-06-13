@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.jpcs.2015.02.001","type":"err"},"doi":"10.1016/j.jpcs.2013.06.004","journal":"Journal of Physics and Chemistry of Solids","publisher":"Elsevier BV","title":"Corrigendum to “Electrocatalytic oxidation of methanol on Pt catalyst supported on nitrogen-doped graphene induced by hydrazine reduction” [J. Phys. Chem. Solids 74(2013)1608–1614]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496044054120,
+      "identifier": {
+        "doi": "10.1016/j.jpcs.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpcs.2013.06.004"
+  },
+  "journal": "Journal of Physics and Chemistry of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electrocatalytic oxidation of methanol on Pt catalyst supported on nitrogen-doped graphene induced by hydrazine reduction” [J. Phys. Chem. Solids 74(2013)1608–1614]"
+}

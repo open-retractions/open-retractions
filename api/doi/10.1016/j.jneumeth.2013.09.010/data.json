@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jneumeth.2015.11.021","type":"err"},"doi":"10.1016/j.jneumeth.2013.09.010","journal":"Journal of Neuroscience Methods","publisher":"Elsevier BV","title":"Corrigendum to ‘Meta-analysis of data from animal studies: A practical guide’"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496053407551,
+      "identifier": {
+        "doi": "10.1016/j.jneumeth.2015.11.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jneumeth.2013.09.010"
+  },
+  "journal": "Journal of Neuroscience Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Meta-analysis of data from animal studies: A practical guide’"
+}

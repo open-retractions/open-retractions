@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417996800000,"doi":"10.1080/1351847x.2014.993531","type":"correction"},"doi":"10.1080/1351847x.2013.769889","journal":"The European Journal of Finance","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1417996800000,
+  "updates": [
+    {
+      "timestamp": 1496029023218,
+      "identifier": {
+        "doi": "10.1080/1351847x.2014.993531"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1351847x.2013.769889"
+  },
+  "journal": "The European Journal of Finance",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

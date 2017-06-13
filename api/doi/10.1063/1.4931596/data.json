@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446508800000,"doi":"10.1063/1.4935109","type":"correction"},"doi":"10.1063/1.4931596","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Transition state ensemble optimization for reactions of arbitrary complexity” [J. Chem. Phys. 143, 134111 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1446508800000,
+  "updates": [
+    {
+      "timestamp": 1496043156052,
+      "identifier": {
+        "doi": "10.1063/1.4935109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4931596"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Transition state ensemble optimization for reactions of arbitrary complexity” [J. Chem. Phys. 143, 134111 (2015)]"
+}

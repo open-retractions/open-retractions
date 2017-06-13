@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1038/srep12369","type":"correction"},"doi":"10.1038/srep11127","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Structural and Dynamic Features of F-recruitment Site Driven Substrate Phosphorylation by ERK2"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496019558894,
+      "identifier": {
+        "doi": "10.1038/srep12369"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep11127"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Structural and Dynamic Features of F-recruitment Site Driven Substrate Phosphorylation by ERK2"
+}

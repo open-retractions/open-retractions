@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480377600000,"doi":"10.1080/10255842.2016.1265283","type":"correction"},"doi":"10.1080/10255842.2016.1181173","journal":"Computer Methods in Biomechanics and Biomedical Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1480377600000,
+  "updates": [
+    {
+      "timestamp": 1495662225084,
+      "identifier": {
+        "doi": "10.1080/10255842.2016.1265283"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10255842.2016.1181173"
+  },
+  "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

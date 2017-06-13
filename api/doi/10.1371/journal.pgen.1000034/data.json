@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1216252800000,"doi":"10.1371/annotation/7989839d-0677-4f59-a218-f4ebb6fd0b66","type":"correction"},"doi":"10.1371/journal.pgen.1000034","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: Genetic Networks of Liver Metabolism Revealed by Integration of Metabolic and Transcriptional Profiling"}
+{
+  "retracted": false,
+  "timestamp": 1216252800000,
+  "updates": [
+    {
+      "timestamp": 1496023930203,
+      "identifier": {
+        "doi": "10.1371/annotation/7989839d-0677-4f59-a218-f4ebb6fd0b66"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1000034"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Genetic Networks of Liver Metabolism Revealed by Integration of Metabolic and Transcriptional Profiling"
+}

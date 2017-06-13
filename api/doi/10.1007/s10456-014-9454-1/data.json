@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420675200000,"doi":"10.1007/s10456-014-9458-x","type":"correction"},"doi":"10.1007/s10456-014-9454-1","journal":"Angiogenesis","publisher":"Springer Nature","title":"Erratum to: CXCL1 promotes arteriogenesis through enhanced monocyte recruitment into the peri-collateral space"}
+{
+  "retracted": false,
+  "timestamp": 1420675200000,
+  "updates": [
+    {
+      "timestamp": 1496034930169,
+      "identifier": {
+        "doi": "10.1007/s10456-014-9458-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10456-014-9454-1"
+  },
+  "journal": "Angiogenesis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CXCL1 promotes arteriogenesis through enhanced monocyte recruitment into the peri-collateral space"
+}

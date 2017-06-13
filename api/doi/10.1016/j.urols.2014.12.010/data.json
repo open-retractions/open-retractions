@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.urols.2015.06.290","type":"err"},"doi":"10.1016/j.urols.2014.12.010","journal":"Urological Science","publisher":"Elsevier BV","title":"Corrigendum to “Results of a randomized, double-blind, placebo-controlled study of mirabegron in a Taiwanese population with overactive bladder and comparison with other clinical trials” [Urol Sci (2015) 41–48]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496014019748,
+      "identifier": {
+        "doi": "10.1016/j.urols.2015.06.290"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.urols.2014.12.010"
+  },
+  "journal": "Urological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Results of a randomized, double-blind, placebo-controlled study of mirabegron in a Taiwanese population with overactive bladder and comparison with other clinical trials” [Urol Sci (2015) 41–48]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384387200000,"doi":"10.1063/1.4831964","type":"correction"},"doi":"10.1063/1.4825207","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Fluctuation driven height reduction of crosslinked polymer brushes: A Monte Carlo study” [J. Chem. Phys. 139, 164903 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1384387200000,
+  "updates": [
+    {
+      "timestamp": 1495996925203,
+      "identifier": {
+        "doi": "10.1063/1.4831964"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4825207"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Fluctuation driven height reduction of crosslinked polymer brushes: A Monte Carlo study” [J. Chem. Phys. 139, 164903 (2013)]"
+}

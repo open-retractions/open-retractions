@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.jfs.2017.02.001","type":"erratum"},"doi":"10.1016/j.jfs.2016.11.009","journal":"Journal of Financial Stability","publisher":"Elsevier BV","title":"Corrigendum to “Editorial – Data Standards, Information and Financial Stability” [J. Financ. Stab. 27 (2016) 155–159]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495724709042,
+      "identifier": {
+        "doi": "10.1016/j.jfs.2017.02.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jfs.2016.11.009"
+  },
+  "journal": "Journal of Financial Stability",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Editorial – Data Standards, Information and Financial Stability” [J. Financ. Stab. 27 (2016) 155–159]"
+}

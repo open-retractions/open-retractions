@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491091200000,"doi":"10.1007/s11467-017-0680-z","type":"correction"},"doi":"10.1007/s11467-016-0583-4","journal":"Frontiers of Physics","publisher":"Springer Nature","title":"Erratum to: A survey of dark matter and related topics in cosmology"}
+{
+  "retracted": false,
+  "timestamp": 1491091200000,
+  "updates": [
+    {
+      "timestamp": 1495735091254,
+      "identifier": {
+        "doi": "10.1007/s11467-017-0680-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11467-016-0583-4"
+  },
+  "journal": "Frontiers of Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A survey of dark matter and related topics in cosmology"
+}

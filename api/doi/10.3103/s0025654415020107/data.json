@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436227200000,"doi":"10.3103/s0025654415030152","type":"correction"},"doi":"10.3103/s0025654415020107","journal":"Mechanics of Solids","publisher":"Allerton Press","title":"Erratum to: “Nonstationary 3D motion of an elastic spherical shell”"}
+{
+  "retracted": false,
+  "timestamp": 1436227200000,
+  "updates": [
+    {
+      "timestamp": 1496013613894,
+      "identifier": {
+        "doi": "10.3103/s0025654415030152"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s0025654415020107"
+  },
+  "journal": "Mechanics of Solids",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Nonstationary 3D motion of an elastic spherical shell”"
+}

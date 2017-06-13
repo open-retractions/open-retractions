@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397520000000,"doi":"10.1073/pnas.1404711111","type":"correction"},"doi":"10.1073/pnas.1322937111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Dong et al., Lipopeptide nanoparticles for potent and selective siRNA delivery in rodents and nonhuman primates"}
+{
+  "retracted": false,
+  "timestamp": 1397520000000,
+  "updates": [
+    {
+      "timestamp": 1496028637252,
+      "identifier": {
+        "doi": "10.1073/pnas.1404711111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1322937111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Dong et al., Lipopeptide nanoparticles for potent and selective siRNA delivery in rodents and nonhuman primates"
+}

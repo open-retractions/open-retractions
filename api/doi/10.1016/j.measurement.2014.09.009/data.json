@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1496275200000,"doi":"10.1016/j.measurement.2017.03.031","type":"erratum"},"doi":"10.1016/j.measurement.2014.09.009","journal":"Measurement","publisher":"Elsevier BV","title":"Corrigendum to “RF fingerprint measurements for the identification of devices in wireless communication networks based on feature reduction and subspace transformation” [Measurement 58 (2014) 468–475]"}
+{
+  "retracted": false,
+  "timestamp": 1496275200000,
+  "updates": [
+    {
+      "timestamp": 1495734499025,
+      "identifier": {
+        "doi": "10.1016/j.measurement.2017.03.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.measurement.2014.09.009"
+  },
+  "journal": "Measurement",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “RF fingerprint measurements for the identification of devices in wireless communication networks based on feature reduction and subspace transformation” [Measurement 58 (2014) 468–475]"
+}

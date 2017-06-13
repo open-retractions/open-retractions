@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417737600000,"doi":"10.1136/bmj.g7528","type":"correction"},"doi":"10.1136/bmj.g7327","journal":"BMJ","publisher":"BMJ","title":"Spearman's rank correlation coefficient"}
+{
+  "retracted": false,
+  "timestamp": 1417737600000,
+  "updates": [
+    {
+      "timestamp": 1496027613972,
+      "identifier": {
+        "doi": "10.1136/bmj.g7528"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g7327"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Spearman's rank correlation coefficient"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402617600000,"doi":"10.1371/journal.pcbi.1003717","type":"correction"},"doi":"10.1371/journal.pcbi.1002944","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Collective Cell Motion in an Epithelial Sheet Can be Quantitatively Described by a Stochastic Interacting Particle Model"}
+{
+  "retracted": false,
+  "timestamp": 1402617600000,
+  "updates": [
+    {
+      "timestamp": 1496045775743,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003717"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1002944"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Collective Cell Motion in an Epithelial Sheet Can be Quantitatively Described by a Stochastic Interacting Particle Model"
+}

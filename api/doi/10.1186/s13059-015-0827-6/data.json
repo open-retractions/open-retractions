@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465430400000,"doi":"10.1186/s13059-016-0949-5","type":"correction"},"doi":"10.1186/s13059-015-0827-6","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Trans effects of chromosome aneuploidies on DNA methylation patterns in human Down syndrome and mouse models"}
+{
+  "retracted": false,
+  "timestamp": 1465430400000,
+  "updates": [
+    {
+      "timestamp": 1495494995477,
+      "identifier": {
+        "doi": "10.1186/s13059-016-0949-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13059-015-0827-6"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Trans effects of chromosome aneuploidies on DNA methylation patterns in human Down syndrome and mouse models"
+}

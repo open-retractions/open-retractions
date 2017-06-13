@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468368000000,"doi":"10.1080/09540121.2016.1207904","type":"correction"},"doi":"10.1080/09540121.2016.1164294","journal":"AIDS Care","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1468368000000,
+  "updates": [
+    {
+      "timestamp": 1495726165421,
+      "identifier": {
+        "doi": "10.1080/09540121.2016.1207904"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09540121.2016.1164294"
+  },
+  "journal": "AIDS Care",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1007/s40265-016-0590-3","type":"correction"},"doi":"10.1007/s40265-016-0573-4","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Practical Considerations for the Use of Daratumumab, a Novel CD38 Monoclonal Antibody, in Myeloma"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495678657235,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0590-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-016-0573-4"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Practical Considerations for the Use of Daratumumab, a Novel CD38 Monoclonal Antibody, in Myeloma"
+}

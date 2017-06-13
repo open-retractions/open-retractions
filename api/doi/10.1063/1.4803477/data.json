@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377820800000,"doi":"10.1063/1.4819894","type":"correction"},"doi":"10.1063/1.4803477","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “High resolution photoelectron imaging of Au2−” [J. Chem. Phys. 138, 184304 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1377820800000,
+  "updates": [
+    {
+      "timestamp": 1496043740606,
+      "identifier": {
+        "doi": "10.1063/1.4819894"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4803477"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “High resolution photoelectron imaging of Au2−” [J. Chem. Phys. 138, 184304 (2013)]"
+}

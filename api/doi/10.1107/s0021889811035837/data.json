@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1107/s1600576715006111","type":"correction"},"doi":"10.1107/s0021889811035837","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Calculation of scattering patterns from phase-shifting objects using the Radon transform. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496057727394,
+      "identifier": {
+        "doi": "10.1107/s1600576715006111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0021889811035837"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Calculation of scattering patterns from phase-shifting objects using the Radon transform. Corrigendum"
+}

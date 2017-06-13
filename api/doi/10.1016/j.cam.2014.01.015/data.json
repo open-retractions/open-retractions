@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.cam.2014.09.004","type":"err"},"doi":"10.1016/j.cam.2014.01.015","journal":"Journal of Computational and Applied Mathematics","publisher":"Elsevier BV","title":"Corrigendum to “Petviashvili type methods for traveling wave computations: I. Analysis of convergence” [J. Comput. Appl. Math. 266 (2014) 39–51]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496011850667,
+      "identifier": {
+        "doi": "10.1016/j.cam.2014.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cam.2014.01.015"
+  },
+  "journal": "Journal of Computational and Applied Mathematics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Petviashvili type methods for traveling wave computations: I. Analysis of convergence” [J. Comput. Appl. Math. 266 (2014) 39–51]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.fct.2015.04.019","type":"err"},"doi":"10.1016/j.fct.2013.01.015","journal":"Food and Chemical Toxicology","publisher":"Elsevier BV","title":"Corrigendum to “Protective effects of curcumin on oxidative stress parameters and DNA damage in the livers and kidneys of rats with biliary obstruction”, Food and Chemical Toxicology, 61 (2013) 28–35"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1495997507050,
+      "identifier": {
+        "doi": "10.1016/j.fct.2015.04.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fct.2013.01.015"
+  },
+  "journal": "Food and Chemical Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protective effects of curcumin on oxidative stress parameters and DNA damage in the livers and kidneys of rats with biliary obstruction”, Food and Chemical Toxicology, 61 (2013) 28–35"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.foodcont.2013.04.028","type":"err"},"doi":"10.1016/j.foodcont.2013.01.042","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Assessing accumulation (growth and internal mobility) of Salmonella Typhimurium LT2 in fresh-cut cantaloupe (Cucumis melo L.) for optimization of decontamination strategies” [Food Control 32 (2013) 574–581]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496016573721,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2013.04.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2013.01.042"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessing accumulation (growth and internal mobility) of Salmonella Typhimurium LT2 in fresh-cut cantaloupe (Cucumis melo L.) for optimization of decontamination strategies” [Food Control 32 (2013) 574–581]"
+}

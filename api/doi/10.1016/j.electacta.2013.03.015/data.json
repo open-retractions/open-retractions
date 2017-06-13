@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423526400000,"doi":"10.1016/j.electacta.2015.01.124","type":"err"},"doi":"10.1016/j.electacta.2013.03.015","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to ‘Porous TiO2(B)/anatase microspheres with hierarchical nano and microstructures for high-performance lithium-ion batteries’ [Electrochimica Acta 97 (2013) 386–392]"}
+{
+  "retracted": false,
+  "timestamp": 1423526400000,
+  "updates": [
+    {
+      "timestamp": 1496043094809,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2015.01.124"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2013.03.015"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Porous TiO2(B)/anatase microspheres with hierarchical nano and microstructures for high-performance lithium-ion batteries’ [Electrochimica Acta 97 (2013) 386–392]"
+}

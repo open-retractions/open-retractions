@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.carbon.2014.02.034","type":"erratum"},"doi":"10.1016/j.carbon.2012.03.006","journal":"Carbon","publisher":"Elsevier BV","title":"Corrigendum to ‘Characterizing intrinsic charges in top gated bilayer graphene devices by Raman spectroscopy’ [Carbon 50 (10) (2012) 3435–3439]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496020365752,
+      "identifier": {
+        "doi": "10.1016/j.carbon.2014.02.034"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbon.2012.03.006"
+  },
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Characterizing intrinsic charges in top gated bilayer graphene devices by Raman spectroscopy’ [Carbon 50 (10) (2012) 3435–3439]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424736000000,"doi":"10.1007/s40092-015-0104-z","type":"correction"},"doi":"10.1007/s40092-015-0099-5","journal":"Journal of Industrial Engineering International","publisher":"Springer Nature","title":"Erratum to: Application of queuing theory in inventory systems with substitution flexibility"}
+{
+  "retracted": false,
+  "timestamp": 1424736000000,
+  "updates": [
+    {
+      "timestamp": 1496045760442,
+      "identifier": {
+        "doi": "10.1007/s40092-015-0104-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40092-015-0099-5"
+  },
+  "journal": "Journal of Industrial Engineering International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Application of queuing theory in inventory systems with substitution flexibility"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435881600000,"doi":"10.1017/pasa.2015.28","type":"correction"},"doi":"10.1017/pasa.2015.24","journal":"Publications of the Astronomical Society ofn Australia","publisher":"Cambridge University Press (CUP)","title":"Image Simulation for Mingantu Ultrawide Spectral Radioheliograph in the Decimetre Wave Range–CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1435881600000,
+  "updates": [
+    {
+      "timestamp": 1496013203865,
+      "identifier": {
+        "doi": "10.1017/pasa.2015.28"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/pasa.2015.24"
+  },
+  "journal": "Publications of the Astronomical Society of\n                    Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Image Simulation for Mingantu Ultrawide Spectral Radioheliograph in the Decimetre Wave Range–CORRIGENDUM"
+}

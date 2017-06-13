@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462752000000,"doi":"10.1016/j.devcel.2016.04.013","type":"err"},"doi":"10.1016/j.devcel.2015.12.009","journal":"Developmental Cell","publisher":"Elsevier BV","title":"Retraction Notice to: The Anaphase-Promoting Complex/Cyclosome Is Essential for Entry into Meiotic M-Phase"}
+{
+  "retracted": false,
+  "timestamp": 1462752000000,
+  "updates": [
+    {
+      "timestamp": 1495674805795,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2016.04.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2015.12.009"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: The Anaphase-Promoting Complex/Cyclosome Is Essential for Entry into Meiotic M-Phase"
+}

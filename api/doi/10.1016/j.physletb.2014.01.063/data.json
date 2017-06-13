@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431302400000,"doi":"10.1016/j.physletb.2015.04.010","type":"erratum"},"doi":"10.1016/j.physletb.2014.01.063","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to: “A first experimental limit on in-matter torsion from neutron spin rotation in liquid 4He” [Phys. Lett. B 730 (2014) 353]"}
+{
+  "retracted": false,
+  "timestamp": 1431302400000,
+  "updates": [
+    {
+      "timestamp": 1496058492016,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2015.04.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2014.01.063"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “A first experimental limit on in-matter torsion from neutron spin rotation in liquid 4He” [Phys. Lett. B 730 (2014) 353]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418860800000,"doi":"10.1007/s00253-014-6305-3","type":"correction"},"doi":"10.1007/s00253-013-5112-6","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: A novel thermophilic endo-β-1,4-mannanase from Aspergillus nidulans XZ3: functional roles of carbohydrate-binding module and Thr/Ser-rich linker region"}
+{
+  "retracted": false,
+  "timestamp": 1418860800000,
+  "updates": [
+    {
+      "timestamp": 1496030838619,
+      "identifier": {
+        "doi": "10.1007/s00253-014-6305-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-013-5112-6"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A novel thermophilic endo-β-1,4-mannanase from Aspergillus nidulans XZ3: functional roles of carbohydrate-binding module and Thr/Ser-rich linker region"
+}

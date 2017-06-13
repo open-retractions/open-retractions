@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1007/s15010-014-0663-8","type":"correction"},"doi":"10.1007/s15010-014-0641-1","journal":"Infection","publisher":"Springer Nature","title":"Erratum to: Oxacillin-susceptible methicillin-resistant Staphylococcus aureus (OS-MRSA), a hidden resistant mechanism among clinically significant isolates in the Wessex region/UK"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1495996345284,
+      "identifier": {
+        "doi": "10.1007/s15010-014-0663-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s15010-014-0641-1"
+  },
+  "journal": "Infection",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Oxacillin-susceptible methicillin-resistant Staphylococcus aureus (OS-MRSA), a hidden resistant mechanism among clinically significant isolates in the Wessex region/UK"
+}

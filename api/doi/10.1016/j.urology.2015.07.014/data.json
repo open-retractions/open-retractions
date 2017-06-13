@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.urology.2016.11.005","type":"erratum"},"doi":"10.1016/j.urology.2015.07.014","journal":"Urology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495665793067,
+      "identifier": {
+        "doi": "10.1016/j.urology.2016.11.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.urology.2015.07.014"
+  },
+  "journal": "Urology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.dsp.2013.02.002","type":"err"},"doi":"10.1016/j.dsp.2012.04.011","journal":"Digital Signal Processing","publisher":"Elsevier BV","title":"Corrigendum to “Graph structure analysis based on complex network” [Digital Signal Processing 22 (5) (2012) 713–725]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1495991185846,
+      "identifier": {
+        "doi": "10.1016/j.dsp.2013.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsp.2012.04.011"
+  },
+  "journal": "Digital Signal Processing",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Graph structure analysis based on complex network” [Digital Signal Processing 22 (5) (2012) 713–725]"
+}

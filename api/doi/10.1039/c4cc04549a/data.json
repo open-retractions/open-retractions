@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412035200000,"doi":"10.1039/c4cc90398f","type":"correction"},"doi":"10.1039/c4cc04549a","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Engineering β-lactamase zymogens for use in protease activity assays"}
+{
+  "retracted": false,
+  "timestamp": 1412035200000,
+  "updates": [
+    {
+      "timestamp": 1496010148748,
+      "identifier": {
+        "doi": "10.1039/c4cc90398f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c4cc04549a"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Engineering β-lactamase zymogens for use in protease activity assays"
+}

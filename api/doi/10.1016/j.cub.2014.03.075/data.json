@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404691200000,"doi":"10.1016/j.cub.2014.06.015","type":"err"},"doi":"10.1016/j.cub.2014.03.075","journal":"Current Biology","publisher":"Elsevier BV","title":"Organelle Evolution: A Mosaic of ‘Mitochondrial’ Functions"}
+{
+  "retracted": false,
+  "timestamp": 1404691200000,
+  "updates": [
+    {
+      "timestamp": 1496051612203,
+      "identifier": {
+        "doi": "10.1016/j.cub.2014.06.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cub.2014.03.075"
+  },
+  "journal": "Current Biology",
+  "publisher": "Elsevier BV",
+  "title": "Organelle Evolution: A Mosaic of ‘Mitochondrial’ Functions"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1314921600000,"doi":"10.1371/annotation/57a9c527-109a-435f-a78d-1b7bce0e578b","type":"correction"},"doi":"10.1371/journal.pone.0023616","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Prediction of Peptide Reactivity with Human IVIg through a Knowledge-Based Approach"}
+{
+  "retracted": false,
+  "timestamp": 1314921600000,
+  "updates": [
+    {
+      "timestamp": 1495802521973,
+      "identifier": {
+        "doi": "10.1371/annotation/57a9c527-109a-435f-a78d-1b7bce0e578b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0023616"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Prediction of Peptide Reactivity with Human IVIg through a Knowledge-Based Approach"
+}

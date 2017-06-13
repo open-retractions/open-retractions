@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jsv.2014.04.001","type":"err"},"doi":"10.1016/j.jsv.2007.11.013","journal":"Journal of Sound and Vibration","publisher":"Elsevier BV","title":"Retraction notice to “A component-based model for aircraft landing gear noise prediction” [J. Sound Vib. 312 (2008) 801–820]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496042471235,
+      "identifier": {
+        "doi": "10.1016/j.jsv.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsv.2007.11.013"
+  },
+  "journal": "Journal of Sound and Vibration",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “A component-based model for aircraft landing gear noise prediction” [J. Sound Vib. 312 (2008) 801–820]"
+}

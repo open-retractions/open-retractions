@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.ejrad.2014.01.002","type":"err"},"doi":"10.1016/j.ejrad.2013.05.019","journal":"European Journal of Radiology","publisher":"Elsevier BV","title":"Corrigendum to “Respiratory-gated 18F-FDG PET/CT for the diagnosis of liver metastasis” [Eur. J. Radiol. 82 (10) (2013) 1696–1701]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496013852892,
+      "identifier": {
+        "doi": "10.1016/j.ejrad.2014.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejrad.2013.05.019"
+  },
+  "journal": "European Journal of Radiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Respiratory-gated 18F-FDG PET/CT for the diagnosis of liver metastasis” [Eur. J. Radiol. 82 (10) (2013) 1696–1701]"
+}

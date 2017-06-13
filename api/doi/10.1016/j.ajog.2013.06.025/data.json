@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.ajog.2016.06.044","type":"erratum"},"doi":"10.1016/j.ajog.2013.06.025","journal":"American Journal of Obstetrics and Gynecology","publisher":"Elsevier BV","title":"October 2013 (vol. 209, no. 4, page 323.e4 online, 324 in print)"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495732189894,
+      "identifier": {
+        "doi": "10.1016/j.ajog.2016.06.044"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajog.2013.06.025"
+  },
+  "journal": "American Journal of Obstetrics and Gynecology",
+  "publisher": "Elsevier BV",
+  "title": "October 2013 (vol. 209, no. 4, page 323.e4 online, 324 in print)"
+}

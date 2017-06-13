@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.ijmm.2015.05.003","type":"err"},"doi":"10.1016/j.ijmm.2014.07.014","journal":"International Journal of Medical Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “Marker genes for the metabolic adaptation of Pseudomonas aeruginosa to the hypoxic cystic fibrosis lung environment” [Int. J. Med. Microbiol. 304 (2014) 1050–1061]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496004356080,
+      "identifier": {
+        "doi": "10.1016/j.ijmm.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijmm.2014.07.014"
+  },
+  "journal": "International Journal of Medical Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Marker genes for the metabolic adaptation of Pseudomonas aeruginosa to the hypoxic cystic fibrosis lung environment” [Int. J. Med. Microbiol. 304 (2014) 1050–1061]"
+}

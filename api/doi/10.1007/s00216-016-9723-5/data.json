@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478649600000,"doi":"10.1007/s00216-016-0071-2","type":"correction"},"doi":"10.1007/s00216-016-9723-5","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Monitoring antigenic protein integrity during glycoconjugate vaccine synthesis using capillary electrophoresis-mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1478649600000,
+  "updates": [
+    {
+      "timestamp": 1495655824451,
+      "identifier": {
+        "doi": "10.1007/s00216-016-0071-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-016-9723-5"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Monitoring antigenic protein integrity during glycoconjugate vaccine synthesis using capillary electrophoresis-mass spectrometry"
+}

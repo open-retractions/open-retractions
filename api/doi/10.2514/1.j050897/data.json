@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1357862400000,"doi":"10.2514/1.j051870","type":"correction"},"doi":"10.2514/1.j050897","journal":"AIAA Journal","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Comparison of Node-Centered and Cell-Centered Unstructured Finite-Volume Discretizations: Inviscid Fluxes"}
+{
+  "retracted": false,
+  "timestamp": 1357862400000,
+  "updates": [
+    {
+      "timestamp": 1495969140793,
+      "identifier": {
+        "doi": "10.2514/1.j051870"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.j050897"
+  },
+  "journal": "AIAA Journal",
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Comparison of Node-Centered and Cell-Centered Unstructured Finite-Volume Discretizations: Inviscid Fluxes"
+}

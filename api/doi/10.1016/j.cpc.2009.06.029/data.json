@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.cpc.2016.11.001","type":"erratum"},"doi":"10.1016/j.cpc.2009.06.029","journal":"Computer Physics Communications","publisher":"Elsevier BV","title":"Corrigendum to “The modified differential transform method for solving MHD boundary-layer equations” [Comput. Phys. Comm. 180 (2009) 2210–2217]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495660880238,
+      "identifier": {
+        "doi": "10.1016/j.cpc.2016.11.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cpc.2009.06.029"
+  },
+  "journal": "Computer Physics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The modified differential transform method for solving MHD boundary-layer equations” [Comput. Phys. Comm. 180 (2009) 2210–2217]"
+}

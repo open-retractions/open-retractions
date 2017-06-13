@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1361318400000,"doi":"10.1063/1.4792376","type":"correction"},"doi":"10.1063/1.4772628","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Determination of Schottky barrier profile at Pt/SrTiO3:Nb junction by x-ray photoemission” [Appl. Phys. Lett. 101, 251911 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1361318400000,
+  "updates": [
+    {
+      "timestamp": 1495997041979,
+      "identifier": {
+        "doi": "10.1063/1.4792376"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4772628"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Determination of Schottky barrier profile at Pt/SrTiO3:Nb junction by x-ray photoemission” [Appl. Phys. Lett. 101, 251911 (2012)]"
+}

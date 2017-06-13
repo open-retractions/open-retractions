@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1186/s12879-016-1518-y","type":"correction"},"doi":"10.1186/s12879-015-1269-1","journal":"BMC Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: The estimated incidence of pertussis in people aged 50 years old or older in the United States, 2006–2010"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495664867033,
+      "identifier": {
+        "doi": "10.1186/s12879-016-1518-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12879-015-1269-1"
+  },
+  "journal": "BMC Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The estimated incidence of pertussis in people aged 50 years old or older in the United States, 2006–2010"
+}

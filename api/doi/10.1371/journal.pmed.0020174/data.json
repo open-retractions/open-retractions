@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1125360000000,"doi":"10.1371/journal.pmed.0020320","type":"correction"},"doi":"10.1371/journal.pmed.0020174","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Appropriate Models for the Management of Infectious Diseases"}
+{
+  "retracted": false,
+  "timestamp": 1125360000000,
+  "updates": [
+    {
+      "timestamp": 1495957273431,
+      "identifier": {
+        "doi": "10.1371/journal.pmed.0020320"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.0020174"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Appropriate Models for the Management of Infectious Diseases"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1003795200000,"doi":"10.1007/s004240100706","type":"correction"},"doi":"10.1007/s00424-003-1161-5","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Lactate concentrations in human skeletal muscle biopsy, microdialysate and venous blood during dynamic exercise under blood flow restriction"}
+{
+  "retracted": false,
+  "timestamp": 1003795200000,
+  "updates": [
+    {
+      "timestamp": 1495809282460,
+      "identifier": {
+        "doi": "10.1007/s004240100706"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-003-1161-5"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lactate concentrations in human skeletal muscle biopsy, microdialysate and venous blood during dynamic exercise under blood flow restriction"
+}

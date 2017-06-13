@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-247363200000,"doi":"10.1057/jors.1962.22","type":"correction"},"doi":"10.1057/jors.1961.9","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: On Analyses of the Solution to a Linear Programming Problem"}
+{
+  "retracted": false,
+  "timestamp": -247363200000,
+  "updates": [
+    {
+      "timestamp": 1495887633590,
+      "identifier": {
+        "doi": "10.1057/jors.1962.22"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1961.9"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: On Analyses of the Solution to a Linear Programming Problem"
+}

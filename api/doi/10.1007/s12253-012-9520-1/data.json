@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1007/s12253-015-0039-0","type":"correction"},"doi":"10.1007/s12253-012-9520-1","journal":"Pathology & Oncology Research","publisher":"Springer Nature","title":"Erratum to: Menthol Inhibits the Proliferation and Motility of Prostate Cancer DU145 Cells"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640154048,
+      "identifier": {
+        "doi": "10.1007/s12253-015-0039-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12253-012-9520-1"
+  },
+  "journal": "Pathology & Oncology Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Menthol Inhibits the Proliferation and Motility of Prostate Cancer DU145 Cells"
+}

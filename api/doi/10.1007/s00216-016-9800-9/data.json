@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473379200000,"doi":"10.1007/s00216-016-9921-1","type":"correction"},"doi":"10.1007/s00216-016-9800-9","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Identification of Stachybotrys spp. by MALDI-TOF mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1473379200000,
+  "updates": [
+    {
+      "timestamp": 1495638614303,
+      "identifier": {
+        "doi": "10.1007/s00216-016-9921-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-016-9800-9"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification of Stachybotrys spp. by MALDI-TOF mass spectrometry"
+}

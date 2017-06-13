@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394064000000,"doi":"10.1016/j.ajhg.2014.02.002","type":"err"},"doi":"10.1016/j.ajhg.2013.11.005","journal":"The American Journal of Human Genetics","publisher":"Elsevier BV","title":"Whole-Exome Sequencing of 2,000 Danish Individuals and the Role of Rare Coding Variants in Type 2 Diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1394064000000,
+  "updates": [
+    {
+      "timestamp": 1496024037504,
+      "identifier": {
+        "doi": "10.1016/j.ajhg.2014.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ajhg.2013.11.005"
+  },
+  "journal": "The American Journal of Human Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Whole-Exome Sequencing of 2,000 Danish Individuals and the Role of Rare Coding Variants in Type 2 Diabetes"
+}

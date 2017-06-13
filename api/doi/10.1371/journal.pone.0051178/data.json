@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370476800000,"doi":"10.1371/annotation/55c7cbd5-433c-46e6-a44e-c73f66eae122","type":"correction"},"doi":"10.1371/journal.pone.0051178","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Hierarchic Stochastic Modelling Applied to Intracellular Ca2+Signals"}
+{
+  "retracted": false,
+  "timestamp": 1370476800000,
+  "updates": [
+    {
+      "timestamp": 1496024082610,
+      "identifier": {
+        "doi": "10.1371/annotation/55c7cbd5-433c-46e6-a44e-c73f66eae122"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0051178"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hierarchic Stochastic Modelling Applied to Intracellular Ca2+Signals"
+}

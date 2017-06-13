@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398384000000,"doi":"10.1136/bmj.g2869","type":"correction"},"doi":"10.1136/bmj.g2561","journal":"BMJ","publisher":"BMJ","title":"Has Britain solved its teenage pregnancy problem?"}
+{
+  "retracted": false,
+  "timestamp": 1398384000000,
+  "updates": [
+    {
+      "timestamp": 1496035257151,
+      "identifier": {
+        "doi": "10.1136/bmj.g2869"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2561"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Has Britain solved its teenage pregnancy problem?"
+}

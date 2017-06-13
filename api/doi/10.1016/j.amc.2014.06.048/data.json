@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.amc.2014.08.047","type":"err"},"doi":"10.1016/j.amc.2014.06.048","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Corrigendum to ‘Generalized Darboux transformation and rational soliton solutions for Chen–Lee–Liu equation’ [Applied Mathematics and Computation 242 (2014) 863–876]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1496004274935,
+      "identifier": {
+        "doi": "10.1016/j.amc.2014.08.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2014.06.048"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Generalized Darboux transformation and rational soliton solutions for Chen–Lee–Liu equation’ [Applied Mathematics and Computation 242 (2014) 863–876]"
+}

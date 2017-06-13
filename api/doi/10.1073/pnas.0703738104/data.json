@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1193097600000,"doi":"10.1073/pnas.0709141104","type":"correction"},"doi":"10.1073/pnas.0703738104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gungor et al., Proteasomal selection of multiprotein complexes recruited by LIM homeodomain transcription factors"}
+{
+  "retracted": false,
+  "timestamp": 1193097600000,
+  "updates": [
+    {
+      "timestamp": 1495991601471,
+      "identifier": {
+        "doi": "10.1073/pnas.0709141104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0703738104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gungor et al., Proteasomal selection of multiprotein complexes recruited by LIM homeodomain transcription factors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.mre.2016.05.002","type":"err"},"doi":"10.1016/j.mre.2016.02.001","journal":"Matter and Radiation at Extremes","publisher":"Elsevier BV","title":"Corrigendum to “First demonstration of improving laser propagation inside the spherical hohlraums by using the cylindrical laser entrance hole” [Matter Radiation Extremes 1 (1) (2016) 2–7]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495716939243,
+      "identifier": {
+        "doi": "10.1016/j.mre.2016.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mre.2016.02.001"
+  },
+  "journal": "Matter and Radiation at Extremes",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “First demonstration of improving laser propagation inside the spherical hohlraums by using the cylindrical laser entrance hole” [Matter Radiation Extremes 1 (1) (2016) 2–7]"
+}

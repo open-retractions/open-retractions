@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.anl.2017.01.001","type":"erratum"},"doi":"10.1016/j.anl.2016.01.008","journal":"Auris Nasus Larynx","publisher":"Elsevier BV","title":"Corrigendum to “Role of cancer stem cell in radioresistant head and neck cancer” [Auris Nasus Larynx 43 (October (5)) (2016) 556–561]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495678729702,
+      "identifier": {
+        "doi": "10.1016/j.anl.2017.01.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.anl.2016.01.008"
+  },
+  "journal": "Auris Nasus Larynx",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Role of cancer stem cell in radioresistant head and neck cancer” [Auris Nasus Larynx 43 (October (5)) (2016) 556–561]"
+}

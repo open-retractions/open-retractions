@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1371/annotation/5c57dcdc-e5d9-4999-a7d0-32004427cba5","type":"correction"},"doi":"10.1371/journal.pone.0061437","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Hybrid Approach for Predicting Coreceptor Used by HIV-1 from Its V3 Loop Amino Acid Sequence"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495995768647,
+      "identifier": {
+        "doi": "10.1371/annotation/5c57dcdc-e5d9-4999-a7d0-32004427cba5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0061437"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Hybrid Approach for Predicting Coreceptor Used by HIV-1 from Its V3 Loop Amino Acid Sequence"
+}

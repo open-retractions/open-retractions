@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.jhep.2015.12.011","type":"erratum"},"doi":"10.1016/j.jhep.2015.07.035","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Corrigendum to “Allo-transplantation of mesenchymal stem cells attenuates hepatic injury through IL1Ra dependent macrophage switch in a mouse model of liver disease” [J Hepatol 2015;63:1405–1412]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1496059627963,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2015.12.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2015.07.035"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Allo-transplantation of mesenchymal stem cells attenuates hepatic injury through IL1Ra dependent macrophage switch in a mouse model of liver disease” [J Hepatol 2015;63:1405–1412]"
+}

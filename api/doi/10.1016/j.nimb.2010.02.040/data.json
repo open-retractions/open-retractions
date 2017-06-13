@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.nimb.2014.09.015","type":"err"},"doi":"10.1016/j.nimb.2010.02.040","journal":"Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms","publisher":"Elsevier BV","title":"Corrigendum to “Nuclear microprobe investigation of the penetration of ultrafine zinc oxide into intact and tape-stripped human skin” [Nucl. Instr. Meth. B 268 (2010) 2160–2163]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496007149925,
+      "identifier": {
+        "doi": "10.1016/j.nimb.2014.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nimb.2010.02.040"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nuclear microprobe investigation of the penetration of ultrafine zinc oxide into intact and tape-stripped human skin” [Nucl. Instr. Meth. B 268 (2010) 2160–2163]"
+}

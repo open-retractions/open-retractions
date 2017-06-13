@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1007/s12297-014-0267-5","type":"correction"},"doi":"10.1007/s12297-011-0174-y","journal":"Zeitschrift für die gesamte Versicherungswissenschaft","publisher":"Springer Nature","title":"Erratum to: Proposal for correction of the SCR calculation bias in Solvency II"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496035847551,
+      "identifier": {
+        "doi": "10.1007/s12297-014-0267-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12297-011-0174-y"
+  },
+  "journal": "Zeitschrift für die gesamte Versicherungswissenschaft",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Proposal for correction of the SCR calculation bias in Solvency II"
+}

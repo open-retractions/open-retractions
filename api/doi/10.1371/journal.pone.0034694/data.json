@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1341273600000,"doi":"10.1371/annotation/024a8dbe-bc8c-40d1-8c0a-912bc94d04ef","type":"correction"},"doi":"10.1371/journal.pone.0034694","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Synthetic Chloride Channel Restores Chloride Conductance in Human Cystic Fibrosis Epithelial Cells"}
+{
+  "retracted": false,
+  "timestamp": 1341273600000,
+  "updates": [
+    {
+      "timestamp": 1495920972687,
+      "identifier": {
+        "doi": "10.1371/annotation/024a8dbe-bc8c-40d1-8c0a-912bc94d04ef"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0034694"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Synthetic Chloride Channel Restores Chloride Conductance in Human Cystic Fibrosis Epithelial Cells"
+}

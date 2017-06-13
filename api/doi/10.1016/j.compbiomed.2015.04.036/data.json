@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.compbiomed.2015.10.006","type":"err"},"doi":"10.1016/j.compbiomed.2015.04.036","journal":"Computers in Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to: Computational modeling of cardiac optogenetics: Methodology overview & review of findings from simulations [Comput. Biol. Med. 65C (2015) 200–208]"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496040698622,
+      "identifier": {
+        "doi": "10.1016/j.compbiomed.2015.10.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compbiomed.2015.04.036"
+  },
+  "journal": "Computers in Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Computational modeling of cardiac optogenetics: Methodology overview & review of findings from simulations [Comput. Biol. Med. 65C (2015) 200–208]"
+}

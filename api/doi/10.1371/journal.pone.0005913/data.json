@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1245801600000,"doi":"10.1371/annotation/654a1794-3ca1-45ac-bbf6-20ae9d33c016","type":"correction"},"doi":"10.1371/journal.pone.0005913","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Correlated Mutation Analysis on the Catalytic Domains of Serine/Threonine Protein Kinases"}
+{
+  "retracted": false,
+  "timestamp": 1245801600000,
+  "updates": [
+    {
+      "timestamp": 1496025195872,
+      "identifier": {
+        "doi": "10.1371/annotation/654a1794-3ca1-45ac-bbf6-20ae9d33c016"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005913"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Correlated Mutation Analysis on the Catalytic Domains of Serine/Threonine Protein Kinases"
+}

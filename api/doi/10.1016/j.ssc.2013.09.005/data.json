@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.ssc.2014.08.003","type":"erratum"},"doi":"10.1016/j.ssc.2013.09.005","journal":"Solid State Communications","publisher":"Elsevier BV","title":"Phase diagram of Ca1−xCexMnO3 thin films studied by X-ray magnetic circular dichroism"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496006535023,
+      "identifier": {
+        "doi": "10.1016/j.ssc.2014.08.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ssc.2013.09.005"
+  },
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "title": "Phase diagram of Ca1−xCexMnO3 thin films studied by X-ray magnetic circular dichroism"
+}

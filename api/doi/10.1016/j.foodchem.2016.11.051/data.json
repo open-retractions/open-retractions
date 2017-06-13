@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1497484800000,"doi":"10.1016/j.foodchem.2017.01.023","type":"erratum"},"doi":"10.1016/j.foodchem.2016.11.051","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Effect of dietary pomegranate seed oil on laying hen performance and physicochemical properties of eggs” [Food Chem. 221 (2017) 1096–1103]"}
+{
+  "retracted": false,
+  "timestamp": 1497484800000,
+  "updates": [
+    {
+      "timestamp": 1495678831858,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2017.01.023"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2016.11.051"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of dietary pomegranate seed oil on laying hen performance and physicochemical properties of eggs” [Food Chem. 221 (2017) 1096–1103]"
+}

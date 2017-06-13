@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381881600000,"doi":"10.1016/j.neuron.2013.10.001","type":"err"},"doi":"10.1016/j.neuron.2013.06.036","journal":"Neuron","publisher":"Elsevier BV","title":"Metabotropic Glutamate Receptor 5 Is a Coreceptor for Alzheimer Aβ Oligomer Bound to Cellular Prion Protein"}
+{
+  "retracted": false,
+  "timestamp": 1381881600000,
+  "updates": [
+    {
+      "timestamp": 1496053687840,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.06.036"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Metabotropic Glutamate Receptor 5 Is a Coreceptor for Alzheimer Aβ Oligomer Bound to Cellular Prion Protein"
+}

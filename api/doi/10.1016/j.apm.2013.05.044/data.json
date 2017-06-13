@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.apm.2013.11.024","type":"err"},"doi":"10.1016/j.apm.2013.05.044","journal":"Applied Mathematical Modelling","publisher":"Elsevier BV","title":"Erratum to “The Inventory Models under Conditional Trade Credit in a Supply Chain System” [Applied Mathematical Modelling 37 (2013) 10036–10052]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496001507908,
+      "identifier": {
+        "doi": "10.1016/j.apm.2013.11.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apm.2013.05.044"
+  },
+  "journal": "Applied Mathematical Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The Inventory Models under Conditional Trade Credit in a Supply Chain System” [Applied Mathematical Modelling 37 (2013) 10036–10052]"
+}

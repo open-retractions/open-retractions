@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417132800000,"doi":"10.1007/jhep11(2014)158","type":"correction"},"doi":"10.1007/jhep02(2014)036","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: Majorana physics through the Cabibbo haze"}
+{
+  "retracted": false,
+  "timestamp": 1417132800000,
+  "updates": [
+    {
+      "timestamp": 1496026269610,
+      "identifier": {
+        "doi": "10.1007/jhep11(2014)158"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep02(2014)036"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Majorana physics through the Cabibbo haze"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1186/s12931-015-0290-7","type":"correction"},"doi":"10.1186/s12931-015-0175-9","journal":"Respiratory Research","publisher":"Springer Nature","title":"Erratum to: A randomised dose-ranging study of tiotropium Respimat® in children with symptomatic asthma despite inhaled corticosteroids"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496039035347,
+      "identifier": {
+        "doi": "10.1186/s12931-015-0290-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12931-015-0175-9"
+  },
+  "journal": "Respiratory Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A randomised dose-ranging study of tiotropium Respimat® in children with symptomatic asthma despite inhaled corticosteroids"
+}

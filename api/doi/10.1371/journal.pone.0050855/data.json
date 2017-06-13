@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373846400000,"doi":"10.1371/annotation/acecbee6-7464-463e-9a10-700f51e9c4f5","type":"correction"},"doi":"10.1371/journal.pone.0050855","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Hormone Receptor-Based Transactivator Bridges Different Binary Systems to Precisely Control Spatial-Temporal Gene Expression in Drosophila"}
+{
+  "retracted": false,
+  "timestamp": 1373846400000,
+  "updates": [
+    {
+      "timestamp": 1496038090623,
+      "identifier": {
+        "doi": "10.1371/annotation/acecbee6-7464-463e-9a10-700f51e9c4f5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050855"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Hormone Receptor-Based Transactivator Bridges Different Binary Systems to Precisely Control Spatial-Temporal Gene Expression in Drosophila"
+}

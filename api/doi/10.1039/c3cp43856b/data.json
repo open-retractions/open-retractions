@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435795200000,"doi":"10.1039/c5cp90112j","type":"correction"},"doi":"10.1039/c3cp43856b","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Plasmonics in the ultraviolet with the poor metals Al, Ga, In, Sn, Tl, Pb, and Bi"}
+{
+  "retracted": false,
+  "timestamp": 1435795200000,
+  "updates": [
+    {
+      "timestamp": 1496012955373,
+      "identifier": {
+        "doi": "10.1039/c5cp90112j"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c3cp43856b"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Plasmonics in the ultraviolet with the poor metals Al, Ga, In, Sn, Tl, Pb, and Bi"
+}

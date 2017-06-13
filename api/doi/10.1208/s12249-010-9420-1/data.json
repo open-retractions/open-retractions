@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1272326400000,"doi":"10.1208/s12249-010-9433-9","type":"correction"},"doi":"10.1208/s12249-010-9420-1","journal":"AAPS PharmSciTech","publisher":"American Association of Pharmaceutical Scientists (AAPS)","title":"Erratum to: A Novel Transdermal Delivery System for the Anti-Inflammatory Lumiracoxib: Influence of Oleic Acid on In Vitro Percutaneous Absorption and In Vivo Potential Cutaneous Irritation"}
+{
+  "retracted": false,
+  "timestamp": 1272326400000,
+  "updates": [
+    {
+      "timestamp": 1495837716953,
+      "identifier": {
+        "doi": "10.1208/s12249-010-9433-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1208/s12249-010-9420-1"
+  },
+  "journal": "AAPS PharmSciTech",
+  "publisher": "American Association of Pharmaceutical Scientists (AAPS)",
+  "title": "Erratum to: A Novel Transdermal Delivery System for the Anti-Inflammatory Lumiracoxib: Influence of Oleic Acid on In Vitro Percutaneous Absorption and In Vivo Potential Cutaneous Irritation"
+}

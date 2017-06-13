@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1238025600000,"doi":"10.1371/annotation/71d78295-dc0f-4e78-9c99-45b730952d9b","type":"correction"},"doi":"10.1371/journal.pone.0004159","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Identification of Pax6-Dependent Gene Regulatory Networks in the Mouse Lens"}
+{
+  "retracted": false,
+  "timestamp": 1238025600000,
+  "updates": [
+    {
+      "timestamp": 1496023929502,
+      "identifier": {
+        "doi": "10.1371/annotation/71d78295-dc0f-4e78-9c99-45b730952d9b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0004159"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Identification of Pax6-Dependent Gene Regulatory Networks in the Mouse Lens"
+}

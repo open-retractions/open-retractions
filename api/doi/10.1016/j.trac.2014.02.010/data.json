@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.trac.2016.01.009","type":"err"},"doi":"10.1016/j.trac.2014.02.010","journal":"TrAC Trends in Analytical Chemistry","publisher":"Elsevier BV","title":"Corrigendum to: A review of sampling and pretreatment techniques for the collection of airborne amines"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496060307783,
+      "identifier": {
+        "doi": "10.1016/j.trac.2016.01.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.trac.2014.02.010"
+  },
+  "journal": "TrAC Trends in Analytical Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: A review of sampling and pretreatment techniques for the collection of airborne amines"
+}

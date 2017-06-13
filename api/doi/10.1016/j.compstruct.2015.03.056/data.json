@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.compstruct.2015.09.024","type":"err"},"doi":"10.1016/j.compstruct.2015.03.056","journal":"Composite Structures","publisher":"Elsevier BV","title":"Corrigendum to “Buckling of 120° stiffened composite cylindrical shell under axial compression – Experiment and simulation” [Composite Structures 128 (2015) 199–206]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496040845641,
+      "identifier": {
+        "doi": "10.1016/j.compstruct.2015.09.024"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compstruct.2015.03.056"
+  },
+  "journal": "Composite Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Buckling of 120° stiffened composite cylindrical shell under axial compression – Experiment and simulation” [Composite Structures 128 (2015) 199–206]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1351036800000,"doi":"10.1371/annotation/22d2ce95-f6c5-46fa-9e32-0d0fd21e20df","type":"correction"},"doi":"10.1371/journal.pone.0028566","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Endemic Acinetobacter baumannii in a New York Hospital"}
+{
+  "retracted": false,
+  "timestamp": 1351036800000,
+  "updates": [
+    {
+      "timestamp": 1495967877532,
+      "identifier": {
+        "doi": "10.1371/annotation/22d2ce95-f6c5-46fa-9e32-0d0fd21e20df"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0028566"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Endemic Acinetobacter baumannii in a New York Hospital"
+}

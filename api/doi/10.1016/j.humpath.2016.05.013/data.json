@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.humpath.2016.10.001","type":"erratum"},"doi":"10.1016/j.humpath.2016.05.013","journal":"Human Pathology","publisher":"Elsevier BV","title":"Corrigendum to “Does the distance between tumor and margin in radical prostatectomy specimens correlate with prognosis: relation to tumor location” (Hum Pathol 2016;56:11-15)"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495668850232,
+      "identifier": {
+        "doi": "10.1016/j.humpath.2016.10.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.humpath.2016.05.013"
+  },
+  "journal": "Human Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Does the distance between tumor and margin in radical prostatectomy specimens correlate with prognosis: relation to tumor location” (Hum Pathol 2016;56:11-15)"
+}

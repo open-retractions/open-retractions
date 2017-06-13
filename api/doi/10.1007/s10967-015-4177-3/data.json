@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451952000000,"doi":"10.1007/s10967-015-4616-1","type":"correction"},"doi":"10.1007/s10967-015-4177-3","journal":"Journal of Radioanalytical and Nuclear Chemistry","publisher":"Springer Nature","title":"Erratum to: Rapid quantification of alpha emitters in low- and intermediate-level dry radioactive waste"}
+{
+  "retracted": false,
+  "timestamp": 1451952000000,
+  "updates": [
+    {
+      "timestamp": 1496057813431,
+      "identifier": {
+        "doi": "10.1007/s10967-015-4616-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10967-015-4177-3"
+  },
+  "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Rapid quantification of alpha emitters in low- and intermediate-level dry radioactive waste"
+}

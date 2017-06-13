@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458604800000,"doi":"10.1080/14751798.2016.1140929","type":"correction"},"doi":"10.1080/14751798.2015.1056936","journal":"Defense & Security Analysis","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1458604800000,
+  "updates": [
+    {
+      "timestamp": 1495657478976,
+      "identifier": {
+        "doi": "10.1080/14751798.2016.1140929"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14751798.2015.1056936"
+  },
+  "journal": "Defense & Security Analysis",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

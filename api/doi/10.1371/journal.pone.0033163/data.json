@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1336608000000,"doi":"10.1371/annotation/b1e4ff60-ba18-4f92-b856-0f2dd27e9a65","type":"correction"},"doi":"10.1371/journal.pone.0033163","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Granzyme B Cleaves Decorin, Biglycan and Soluble Betaglycan, Releasing Active Transforming Growth Factor-β1"}
+{
+  "retracted": false,
+  "timestamp": 1336608000000,
+  "updates": [
+    {
+      "timestamp": 1495905728238,
+      "identifier": {
+        "doi": "10.1371/annotation/b1e4ff60-ba18-4f92-b856-0f2dd27e9a65"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0033163"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Granzyme B Cleaves Decorin, Biglycan and Soluble Betaglycan, Releasing Active Transforming Growth Factor-β1"
+}

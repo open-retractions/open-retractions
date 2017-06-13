@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477267200000,"doi":"10.1007/s00203-016-1302-9","type":"correction"},"doi":"10.1007/s00203-016-1280-y","journal":"Archives of Microbiology","publisher":"Springer Nature","title":"Erratum to: Aurantibacter crassamenti gen. nov., sp. nov., a bacterium isolated from marine sediment"}
+{
+  "retracted": false,
+  "timestamp": 1477267200000,
+  "updates": [
+    {
+      "timestamp": 1495651118079,
+      "identifier": {
+        "doi": "10.1007/s00203-016-1302-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00203-016-1280-y"
+  },
+  "journal": "Archives of Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Aurantibacter crassamenti gen. nov., sp. nov., a bacterium isolated from marine sediment"
+}

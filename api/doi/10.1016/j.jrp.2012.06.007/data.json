@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.jrp.2013.04.014","type":"err"},"doi":"10.1016/j.jrp.2012.06.007","journal":"Journal of Research in Personality","publisher":"Elsevier BV","title":"Corrigendum to “Personality and behavioral outcomes associated with risk-taking are accurately inferred from faces” [J. Res. Pers. 46 (2012) 760–764]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496023643786,
+      "identifier": {
+        "doi": "10.1016/j.jrp.2013.04.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jrp.2012.06.007"
+  },
+  "journal": "Journal of Research in Personality",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Personality and behavioral outcomes associated with risk-taking are accurately inferred from faces” [J. Res. Pers. 46 (2012) 760–764]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jcrysgro.2014.04.021","type":"erratum"},"doi":"10.1016/j.jcrysgro.2013.12.003","journal":"Journal of Crystal Growth","publisher":"Elsevier BV","title":"RETRACTED: Interactions between planar defects in bulk 3C-SiC"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496037201237,
+      "identifier": {
+        "doi": "10.1016/j.jcrysgro.2014.04.021"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcrysgro.2013.12.003"
+  },
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "title": "RETRACTED: Interactions between planar defects in bulk 3C-SiC"
+}

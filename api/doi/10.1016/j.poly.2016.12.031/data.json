@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1495929600000,"doi":"10.1016/j.poly.2017.02.034","type":"erratum"},"doi":"10.1016/j.poly.2016.12.031","journal":"Polyhedron","publisher":"Elsevier BV","title":"Corrigendum to “Enhanced catalytic activity towards one-pot hydroxylation of phenol with hydrogen peroxide by nickel(II) complex encompassing 3-formylchromone-S-methylisothiosemicarbazone derivatives” [Polyhedron 124 (2017) 77–85]"}
+{
+  "retracted": false,
+  "timestamp": 1495929600000,
+  "updates": [
+    {
+      "timestamp": 1495730136526,
+      "identifier": {
+        "doi": "10.1016/j.poly.2017.02.034"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.poly.2016.12.031"
+  },
+  "journal": "Polyhedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enhanced catalytic activity towards one-pot hydroxylation of phenol with hydrogen peroxide by nickel(II) complex encompassing 3-formylchromone-S-methylisothiosemicarbazone derivatives” [Polyhedron 124 (2017) 77–85]"
+}

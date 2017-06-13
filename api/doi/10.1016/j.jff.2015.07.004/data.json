@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jff.2016.11.017","type":"erratum"},"doi":"10.1016/j.jff.2015.07.004","journal":"Journal of Functional Foods","publisher":"Elsevier BV","title":"Corrigendum to “The ameliorating effect of Filipendula hexapetala extracts on hepatorenal toxicity of cisplatin” [J. Funct. Foods 18(A) (2015) 198–212]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495659941573,
+      "identifier": {
+        "doi": "10.1016/j.jff.2016.11.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jff.2015.07.004"
+  },
+  "journal": "Journal of Functional Foods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The ameliorating effect of Filipendula hexapetala extracts on hepatorenal toxicity of cisplatin” [J. Funct. Foods 18(A) (2015) 198–212]"
+}

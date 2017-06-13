@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1396396800000,"update":{"timestamp":null,"doi":null,"pmid":27576525,"type":"retraction"},"doi":"10.1098/rsbl.2013.1066","journal":"Biology letters","publisher":null,"title":"Predation selectively culls medium-sized species from island mammal faunas."}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496041914583,
+      "identifier": {
+        "doi": "10.1098/rsbl.2015.0821"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2013.1066"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Expression of concern: Predation selectively culls medium-sized species from island mammal faunas"
+}

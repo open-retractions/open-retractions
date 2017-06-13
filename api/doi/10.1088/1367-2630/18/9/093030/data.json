@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477267200000,"doi":"10.1088/1367-2630/18/10/109502","type":"correction"},"doi":"10.1088/1367-2630/18/9/093030","journal":"New Journal of Physics","publisher":"IOP Publishing","title":"Corrigendum: Two-way interconversion of millimeter-wave and optical fields in Rydberg gases (2016 New J. Phys. 18 093030)"}
+{
+  "retracted": false,
+  "timestamp": 1477267200000,
+  "updates": [
+    {
+      "timestamp": 1495651187296,
+      "identifier": {
+        "doi": "10.1088/1367-2630/18/10/109502"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1367-2630/18/9/093030"
+  },
+  "journal": "New Journal of Physics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Two-way interconversion of millimeter-wave and optical fields in Rydberg gases (2016 New J. Phys. 18 093030)"
+}

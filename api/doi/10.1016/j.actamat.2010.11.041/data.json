@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402790400000,"doi":"10.1016/j.actamat.2014.03.044","type":"err"},"doi":"10.1016/j.actamat.2010.11.041","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Electronic structure, mechanical properties and thermal conductivity of Ln2Zr2O7 (Ln=La, Pr, Nd, Sm, Eu and Gd) pyrochlore” [Acta Mater. 59 (12011) 1742–1760]"}
+{
+  "retracted": false,
+  "timestamp": 1402790400000,
+  "updates": [
+    {
+      "timestamp": 1496032789516,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.03.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2010.11.041"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Electronic structure, mechanical properties and thermal conductivity of Ln2Zr2O7 (Ln=La, Pr, Nd, Sm, Eu and Gd) pyrochlore” [Acta Mater. 59 (12011) 1742–1760]"
+}

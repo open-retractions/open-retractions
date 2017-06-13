@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1208217600000,"doi":"10.1107/s1600536808005564","type":"correction"},"doi":"10.1107/s1600536807064926","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"6′-Amino-3′-methyl-2-oxo-1′-phenyl-1′,3a′,4′,7a′-tetrahydrospiro[1H-indole-3(2H),4′-pyrano[2,3-d]pyrazole]-5′-carbonitrile. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1208217600000,
+  "updates": [
+    {
+      "timestamp": 1495842891960,
+      "identifier": {
+        "doi": "10.1107/s1600536808005564"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536807064926"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "6′-Amino-3′-methyl-2-oxo-1′-phenyl-1′,3a′,4′,7a′-tetrahydrospiro[1H-indole-3(2H),4′-pyrano[2,3-d]pyrazole]-5′-carbonitrile. Corrigendum"
+}

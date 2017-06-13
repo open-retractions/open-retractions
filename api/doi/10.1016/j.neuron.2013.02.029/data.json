@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366761600000,"doi":"10.1016/j.neuron.2013.04.020","type":"err"},"doi":"10.1016/j.neuron.2013.02.029","journal":"Neuron","publisher":"Elsevier BV","title":"VCP Is Essential for Mitochondrial Quality Control by PINK1/Parkin and this Function Is Impaired by VCP Mutations"}
+{
+  "retracted": false,
+  "timestamp": 1366761600000,
+  "updates": [
+    {
+      "timestamp": 1496014579620,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.04.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.02.029"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "VCP Is Essential for Mitochondrial Quality Control by PINK1/Parkin and this Function Is Impaired by VCP Mutations"
+}

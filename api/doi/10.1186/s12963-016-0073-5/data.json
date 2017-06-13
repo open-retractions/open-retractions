@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459728000000,"doi":"10.1186/s12963-016-0080-6","type":"correction"},"doi":"10.1186/s12963-016-0073-5","journal":"Population Health Metrics","publisher":"Springer Nature","title":"Erratum to: Estimation of country-specific and global prevalence of male circumcision"}
+{
+  "retracted": false,
+  "timestamp": 1459728000000,
+  "updates": [
+    {
+      "timestamp": 1495658697438,
+      "identifier": {
+        "doi": "10.1186/s12963-016-0080-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12963-016-0073-5"
+  },
+  "journal": "Population Health Metrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimation of country-specific and global prevalence of male circumcision"
+}

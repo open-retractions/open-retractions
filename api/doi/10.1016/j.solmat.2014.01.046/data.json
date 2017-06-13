@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.solmat.2014.04.005","type":"err"},"doi":"10.1016/j.solmat.2014.01.046","journal":"Solar Energy Materials and Solar Cells","publisher":"Elsevier BV","title":"Corrigendum to “Effects of spectral albedo on solar photovoltaic devices” [Sol. Energy Mater. Sol. Cells 124 (2014) 111–116]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496034894414,
+      "identifier": {
+        "doi": "10.1016/j.solmat.2014.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solmat.2014.01.046"
+  },
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of spectral albedo on solar photovoltaic devices” [Sol. Energy Mater. Sol. Cells 124 (2014) 111–116]"
+}

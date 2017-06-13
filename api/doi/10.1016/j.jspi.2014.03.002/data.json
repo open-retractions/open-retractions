@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jspi.2014.06.003","type":"err"},"doi":"10.1016/j.jspi.2014.03.002","journal":"Journal of Statistical Planning and Inference","publisher":"Elsevier BV","title":"Corrigendum to “On approximation of the backward stochastic differential equation” [J. Statist. Plann. Inference 150 (2014) 111–123]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496049674254,
+      "identifier": {
+        "doi": "10.1016/j.jspi.2014.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jspi.2014.03.002"
+  },
+  "journal": "Journal of Statistical Planning and Inference",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On approximation of the backward stochastic differential equation” [J. Statist. Plann. Inference 150 (2014) 111–123]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.injury.2014.02.030","type":"err"},"doi":"10.1016/j.injury.2013.11.032","journal":"Injury","publisher":"Elsevier BV","title":"Corrigendum to “Influence of plate–bone contact on cyclically loaded conically coupled locking plate failure” [Injury 45(3) (2014) 515–521]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496027111708,
+      "identifier": {
+        "doi": "10.1016/j.injury.2014.02.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.injury.2013.11.032"
+  },
+  "journal": "Injury",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Influence of plate–bone contact on cyclically loaded conically coupled locking plate failure” [Injury 45(3) (2014) 515–521]"
+}

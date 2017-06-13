@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430092800000,"doi":"10.1080/03610926.2015.1028839","type":"correction"},"doi":"10.1080/03610926.2012.701697","journal":"Communications in Statistics - Theory and Methods","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1430092800000,
+  "updates": [
+    {
+      "timestamp": 1495996160305,
+      "identifier": {
+        "doi": "10.1080/03610926.2015.1028839"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03610926.2012.701697"
+  },
+  "journal": "Communications in Statistics - Theory and Methods",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

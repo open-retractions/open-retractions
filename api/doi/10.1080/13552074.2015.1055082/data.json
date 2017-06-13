@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438560000000,"doi":"10.1080/13552074.2015.1074427","type":"correction"},"doi":"10.1080/13552074.2015.1055082","journal":"Gender & Development","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1438560000000,
+  "updates": [
+    {
+      "timestamp": 1496019854049,
+      "identifier": {
+        "doi": "10.1080/13552074.2015.1074427"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13552074.2015.1055082"
+  },
+  "journal": "Gender & Development",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

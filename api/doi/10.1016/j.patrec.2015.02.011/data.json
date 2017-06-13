@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.patrec.2015.05.002","type":"err"},"doi":"10.1016/j.patrec.2015.02.011","journal":"Pattern Recognition Letters","publisher":"Elsevier BV","title":"Corrigendum to ``Unsupervised learning via mixtures of skewed distributions with hypercube contours'' [Pattern Recognition Letters. 58(1), 69–76]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1495993719414,
+      "identifier": {
+        "doi": "10.1016/j.patrec.2015.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.patrec.2015.02.011"
+  },
+  "journal": "Pattern Recognition Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ``Unsupervised learning via mixtures of skewed distributions with hypercube contours'' [Pattern Recognition Letters. 58(1), 69–76]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1313625600000,"doi":"10.1371/annotation/b29086ef-e08d-444c-8113-18a6dd429a7c","type":"correction"},"doi":"10.1371/journal.ppat.1002141","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Thy1+Nk Cells from Vaccinia Virus-Primed Mice Confer Protection against Vaccinia Virus Challenge in the Absence of Adaptive Lymphocytes"}
+{
+  "retracted": false,
+  "timestamp": 1313625600000,
+  "updates": [
+    {
+      "timestamp": 1495988486930,
+      "identifier": {
+        "doi": "10.1371/annotation/b29086ef-e08d-444c-8113-18a6dd429a7c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002141"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Thy1+Nk Cells from Vaccinia Virus-Primed Mice Confer Protection against Vaccinia Virus Challenge in the Absence of Adaptive Lymphocytes"
+}

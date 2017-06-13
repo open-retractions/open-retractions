@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.supflu.2014.08.002","type":"err"},"doi":"10.1016/j.supflu.2012.10.012","journal":"The Journal of Supercritical Fluids","publisher":"Elsevier BV","title":"Corrigendum to “Supercritical carbon dioxide-soluble polyhedral oligomeric silsesquioxane (POSS) nanocages and polymer surface modification” [J. Supercrit. Fluids 73 (2013) 171–177]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496003987810,
+      "identifier": {
+        "doi": "10.1016/j.supflu.2014.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.supflu.2012.10.012"
+  },
+  "journal": "The Journal of Supercritical Fluids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Supercritical carbon dioxide-soluble polyhedral oligomeric silsesquioxane (POSS) nanocages and polymer surface modification” [J. Supercrit. Fluids 73 (2013) 171–177]"
+}

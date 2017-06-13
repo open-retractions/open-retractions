@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456531200000,"doi":"10.1007/s10815-016-0679-3","type":"correction"},"doi":"10.1007/s10815-015-0597-9","journal":"Journal of Assisted Reproduction and Genetics","publisher":"Springer Nature","title":"Erratum to: Clinical efficiency of Piezo-ICSI using micropipettes with a wall thickness of 0.625 μm"}
+{
+  "retracted": false,
+  "timestamp": 1456531200000,
+  "updates": [
+    {
+      "timestamp": 1495648834180,
+      "identifier": {
+        "doi": "10.1007/s10815-016-0679-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10815-015-0597-9"
+  },
+  "journal": "Journal of Assisted Reproduction and Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical efficiency of Piezo-ICSI using micropipettes with a wall thickness of 0.625 μm"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369872000000,"doi":"10.1016/j.celrep.2013.05.018","type":"err"},"doi":"10.1016/j.celrep.2013.02.025","journal":"Cell Reports","publisher":"Elsevier BV","title":"Substrate-Activated Conformational Switch on Chaperones Encodes a Targeting Signal in Type III Secretion"}
+{
+  "retracted": false,
+  "timestamp": 1369872000000,
+  "updates": [
+    {
+      "timestamp": 1496023134201,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2013.05.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2013.02.025"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Substrate-Activated Conformational Switch on Chaperones Encodes a Targeting Signal in Type III Secretion"
+}

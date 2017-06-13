@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.eplepsyres.2013.11.001","type":"err"},"doi":"10.1016/j.eplepsyres.2012.07.004","journal":"Epilepsy Research","publisher":"Elsevier BV","title":"Corrigendum to “Reflex myoclonic epilepsy in infancy: A multicenter clinical study” [Epilepsy Res. 103 (2013) 237–244]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496022670947,
+      "identifier": {
+        "doi": "10.1016/j.eplepsyres.2013.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eplepsyres.2012.07.004"
+  },
+  "journal": "Epilepsy Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reflex myoclonic epilepsy in infancy: A multicenter clinical study” [Epilepsy Res. 103 (2013) 237–244]"
+}

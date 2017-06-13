@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1080/03091929.2015.1110395","type":"correction"},"doi":"10.1080/03091929.2015.1092024","journal":"Geophysical & Astrophysical Fluid Dynamics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496042279892,
+      "identifier": {
+        "doi": "10.1080/03091929.2015.1110395"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03091929.2015.1092024"
+  },
+  "journal": "Geophysical & Astrophysical Fluid Dynamics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470355200000,"doi":"10.1007/s12274-016-1223-6","type":"correction"},"doi":"10.1007/s12274-016-1004-2","journal":"Nano Research","publisher":"Springer Nature","title":"Erratum to: The electronic structure and intervalley coupling of artificial and genuine graphene superlattices"}
+{
+  "retracted": false,
+  "timestamp": 1470355200000,
+  "updates": [
+    {
+      "timestamp": 1495735239019,
+      "identifier": {
+        "doi": "10.1007/s12274-016-1223-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12274-016-1004-2"
+  },
+  "journal": "Nano Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The electronic structure and intervalley coupling of artificial and genuine graphene superlattices"
+}

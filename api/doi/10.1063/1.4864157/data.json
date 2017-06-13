@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418342400000,"doi":"10.1063/1.4904366","type":"correction"},"doi":"10.1063/1.4864157","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “The M-band transmission flux of the plastic foil with a coated layer of silicon or germanium” [Appl. Phys. Lett. 104, 054106 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1418342400000,
+  "updates": [
+    {
+      "timestamp": 1496030214243,
+      "identifier": {
+        "doi": "10.1063/1.4904366"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4864157"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The M-band transmission flux of the plastic foil with a coated layer of silicon or germanium” [Appl. Phys. Lett. 104, 054106 (2014)]"
+}

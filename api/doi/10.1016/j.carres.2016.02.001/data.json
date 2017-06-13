@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463097600000,"doi":"10.1016/j.carres.2016.04.001","type":"err"},"doi":"10.1016/j.carres.2016.02.001","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “In vitro single-vessel enzymatic synthesis of novel resvera-A glucosides” [Carbohydr. Res. 424 (2016) 8–14]"}
+{
+  "retracted": false,
+  "timestamp": 1463097600000,
+  "updates": [
+    {
+      "timestamp": 1495663968993,
+      "identifier": {
+        "doi": "10.1016/j.carres.2016.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2016.02.001"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “In vitro single-vessel enzymatic synthesis of novel resvera-A glucosides” [Carbohydr. Res. 424 (2016) 8–14]"
+}

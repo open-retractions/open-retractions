@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366934400000,"doi":"10.1371/annotation/8301b5d4-1ba3-40e7-8fcd-3e169b967044","type":"correction"},"doi":"10.1371/journal.pone.0032131","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Validation of Protein Force Fields against Experimental Data"}
+{
+  "retracted": false,
+  "timestamp": 1366934400000,
+  "updates": [
+    {
+      "timestamp": 1496015090043,
+      "identifier": {
+        "doi": "10.1371/annotation/8301b5d4-1ba3-40e7-8fcd-3e169b967044"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032131"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Validation of Protein Force Fields against Experimental Data"
+}

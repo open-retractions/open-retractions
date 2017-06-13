@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1217548800000,"update":{"timestamp":null,"doi":null,"pmid":25025111,"type":"retraction"},"doi":"10.1016/j.cmet.2008.07.002","journal":"Cell metabolism","publisher":null,"title":"The hepcidin-binding site on ferroportin is evolutionarily conserved."}
+{
+  "retracted": false,
+  "timestamp": 1401753600000,
+  "updates": [
+    {
+      "timestamp": 1496043509090,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2014.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2008.07.002"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: The Hepcidin-Binding Site on Ferroportin Is Evolutionarily Conserved"
+}

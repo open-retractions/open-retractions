@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.engstruct.2013.09.036","type":"err"},"doi":"10.1016/j.engstruct.2013.02.028","journal":"Engineering Structures","publisher":"Elsevier BV","title":"Corrigendum to “Cyclic failure analysis of the beam-to-column dowel connections in precast industrial buildings” [Eng. Struct. 52 (2013) 179–191]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1495992449351,
+      "identifier": {
+        "doi": "10.1016/j.engstruct.2013.09.036"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engstruct.2013.02.028"
+  },
+  "journal": "Engineering Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cyclic failure analysis of the beam-to-column dowel connections in precast industrial buildings” [Eng. Struct. 52 (2013) 179–191]"
+}

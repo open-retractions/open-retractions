@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1186/s12864-016-3180-6","type":"correction"},"doi":"10.1186/s12864-016-2852-6","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: ISOexpresso: a web-based platform for isoform-level expression analysis in human cancer"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495651541918,
+      "identifier": {
+        "doi": "10.1186/s12864-016-3180-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2852-6"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ISOexpresso: a web-based platform for isoform-level expression analysis in human cancer"
+}

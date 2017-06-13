@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.mehy.2016.10.022","type":"erratum"},"doi":"10.1016/j.mehy.2015.10.009","journal":"Medical Hypotheses","publisher":"Elsevier BV","title":"Corrigendum to “Review of Amyotrophic Lateral Sclerosis, Parkinson’s and Alzheimer’s diseases helps further define proteomic events of the novel paradigm for Alzheimer’s with metals as primary disease cause” [Med. Hypotheses 85 (2015) 779–790]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495659798006,
+      "identifier": {
+        "doi": "10.1016/j.mehy.2016.10.022"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mehy.2015.10.009"
+  },
+  "journal": "Medical Hypotheses",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Review of Amyotrophic Lateral Sclerosis, Parkinson’s and Alzheimer’s diseases helps further define proteomic events of the novel paradigm for Alzheimer’s with metals as primary disease cause” [Med. Hypotheses 85 (2015) 779–790]"
+}

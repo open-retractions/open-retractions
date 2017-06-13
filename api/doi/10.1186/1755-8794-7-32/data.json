@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483574400000,"doi":"10.1186/s12920-016-0237-y","type":"correction"},"doi":"10.1186/1755-8794-7-32","journal":"BMC Medical Genomics","publisher":"Springer Nature","title":"Erratum to: Conserved recurrent gene mutations correlate with pathway deregulation and clinical outcomes of lung adenocarcinoma in never-smokers"}
+{
+  "retracted": false,
+  "timestamp": 1483574400000,
+  "updates": [
+    {
+      "timestamp": 1495672596232,
+      "identifier": {
+        "doi": "10.1186/s12920-016-0237-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1755-8794-7-32"
+  },
+  "journal": "BMC Medical Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Conserved recurrent gene mutations correlate with pathway deregulation and clinical outcomes of lung adenocarcinoma in never-smokers"
+}

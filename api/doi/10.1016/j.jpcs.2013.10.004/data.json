@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jpcs.2013.12.002","type":"err"},"doi":"10.1016/j.jpcs.2013.10.004","journal":"Journal of Physics and Chemistry of Solids","publisher":"Elsevier BV","title":"Erratum to “Comparative structural and photoluminescent study of Eu3+-doped La2O3 and La(OH)3 nanocrystalline powders” [J. Phys. Chem. Solids 75 (2014) 276–282]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496005512158,
+      "identifier": {
+        "doi": "10.1016/j.jpcs.2013.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpcs.2013.10.004"
+  },
+  "journal": "Journal of Physics and Chemistry of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Comparative structural and photoluminescent study of Eu3+-doped La2O3 and La(OH)3 nanocrystalline powders” [J. Phys. Chem. Solids 75 (2014) 276–282]"
+}

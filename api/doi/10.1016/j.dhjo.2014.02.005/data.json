@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.dhjo.2014.08.006","type":"err"},"doi":"10.1016/j.dhjo.2014.02.005","journal":"Disability and Health Journal","publisher":"Elsevier BV","title":"Erratum to Prevalence of physical activity, screen time, and obesity among US children by the service type of special health care needs"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496006512153,
+      "identifier": {
+        "doi": "10.1016/j.dhjo.2014.08.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dhjo.2014.02.005"
+  },
+  "journal": "Disability and Health Journal",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to Prevalence of physical activity, screen time, and obesity among US children by the service type of special health care needs"
+}

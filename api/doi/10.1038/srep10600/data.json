@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439337600000,"doi":"10.1038/srep12388","type":"correction"},"doi":"10.1038/srep10600","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Vacancy-controlled ultrastable nanoclusters in nanostructured ferritic alloys"}
+{
+  "retracted": false,
+  "timestamp": 1439337600000,
+  "updates": [
+    {
+      "timestamp": 1496022948485,
+      "identifier": {
+        "doi": "10.1038/srep12388"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10600"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Vacancy-controlled ultrastable nanoclusters in nanostructured ferritic alloys"
+}

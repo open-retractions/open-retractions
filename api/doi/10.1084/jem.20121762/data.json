@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391990400000,"doi":"10.1084/jem.2012176201242014c","type":"correction"},"doi":"10.1084/jem.20121762","journal":"The Journal of Experimental Medicine","publisher":"Rockefeller University Press","title":"Erythropoietin-directed erythropoiesis depends on serpin inhibition of erythroblast lysosomal cathepsins"}
+{
+  "retracted": false,
+  "timestamp": 1391990400000,
+  "updates": [
+    {
+      "timestamp": 1496016276307,
+      "identifier": {
+        "doi": "10.1084/jem.2012176201242014c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1084/jem.20121762"
+  },
+  "journal": "The Journal of Experimental Medicine",
+  "publisher": "Rockefeller University Press",
+  "title": "Erythropoietin-directed erythropoiesis depends on serpin inhibition of erythroblast lysosomal cathepsins"
+}

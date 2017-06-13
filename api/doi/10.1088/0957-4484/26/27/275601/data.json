@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1088/0957-4484/27/42/429501","type":"correction"},"doi":"10.1088/0957-4484/26/27/275601","journal":"Nanotechnology","publisher":"IOP Publishing","title":"Corrigendum: Ultraclean and large-area monolayer hexagonal boron nitride on Cu foil using chemical vapor deposition (2015Nanotechnology26 275601)"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639879552,
+      "identifier": {
+        "doi": "10.1088/0957-4484/27/42/429501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0957-4484/26/27/275601"
+  },
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Ultraclean and large-area monolayer hexagonal boron nitride on Cu foil using chemical vapor deposition (2015Nanotechnology26 275601)"
+}

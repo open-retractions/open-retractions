@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1136/openhrt-2016-000461corr1","type":"correction"},"doi":"10.1136/openhrt-2016-000461","journal":"Open Heart","publisher":"BMJ","title":"Erratum:Arm exercise stress testing: diagnostic options in stable coronary artery disease"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495717252210,
+      "identifier": {
+        "doi": "10.1136/openhrt-2016-000461corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/openhrt-2016-000461"
+  },
+  "journal": "Open Heart",
+  "publisher": "BMJ",
+  "title": "Erratum:Arm exercise stress testing: diagnostic options in stable coronary artery disease"
+}

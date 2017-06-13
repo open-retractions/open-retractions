@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1080/14794802.2016.1155294","type":"correction"},"doi":"10.1080/14794802.2015.1046476","journal":"Research in Mathematics Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647421088,
+      "identifier": {
+        "doi": "10.1080/14794802.2016.1155294"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14794802.2015.1046476"
+  },
+  "journal": "Research in Mathematics Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

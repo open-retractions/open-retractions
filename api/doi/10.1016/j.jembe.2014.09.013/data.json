@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jembe.2016.10.025","type":"erratum"},"doi":"10.1016/j.jembe.2014.09.013","journal":"Journal of Experimental Marine Biology and Ecology","publisher":"Elsevier BV","title":"Corrigendum to “Measurement of acoustic material properties of macroalgae (Ecklonia radiata)” [J. Exp. Mar. Biol. Ecol. 461 (2014) 430–440]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495652509486,
+      "identifier": {
+        "doi": "10.1016/j.jembe.2016.10.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jembe.2014.09.013"
+  },
+  "journal": "Journal of Experimental Marine Biology and Ecology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measurement of acoustic material properties of macroalgae (Ecklonia radiata)” [J. Exp. Mar. Biol. Ecol. 461 (2014) 430–440]"
+}

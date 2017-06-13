@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1288051200000,"doi":"10.1073/pnas.1101222108","type":"correction"},"doi":"10.1073/pnas.1004654107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for DeLisser et al., Vascular endothelial platelet endothelial cell adhesion molecule 1 (PECAM-1) regulates advanced metastatic progression"}
+{
+  "retracted": false,
+  "timestamp": 1288051200000,
+  "updates": [
+    {
+      "timestamp": 1495924217366,
+      "identifier": {
+        "doi": "10.1073/pnas.1101222108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1004654107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for DeLisser et al., Vascular endothelial platelet endothelial cell adhesion molecule 1 (PECAM-1) regulates advanced metastatic progression"
+}

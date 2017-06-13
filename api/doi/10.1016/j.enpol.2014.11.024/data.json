@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.enpol.2015.02.002","type":"err"},"doi":"10.1016/j.enpol.2014.11.024","journal":"Energy Policy","publisher":"Elsevier BV","title":"Corrigendum to “Invention profiles and uneven growth in the field of emerging nano-energy” [Energy Policy 76 (2014) 146–157]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496044189897,
+      "identifier": {
+        "doi": "10.1016/j.enpol.2015.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enpol.2014.11.024"
+  },
+  "journal": "Energy Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Invention profiles and uneven growth in the field of emerging nano-energy” [Energy Policy 76 (2014) 146–157]"
+}

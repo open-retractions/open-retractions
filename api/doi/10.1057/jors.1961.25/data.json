@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-255139200000,"doi":"10.1057/jors.1961.59","type":"correction"},"doi":"10.1057/jors.1961.25","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Linear Theory and Operational Research in British Transport"}
+{
+  "retracted": false,
+  "timestamp": -255139200000,
+  "updates": [
+    {
+      "timestamp": 1495887635105,
+      "identifier": {
+        "doi": "10.1057/jors.1961.59"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1961.25"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Linear Theory and Operational Research in British Transport"
+}

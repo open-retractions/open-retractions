@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369353600000,"doi":"10.1016/j.carres.2013.01.006","type":"err"},"doi":"10.1016/j.carres.2012.05.008","journal":"Carbohydrate Research","publisher":"Elsevier BV","title":"Corrigendum to “A high-yielding synthesis of allyl glycosides from peracetylated glycosyl donors” [Carbohydr. Res. 357 (2012) 147–150]"}
+{
+  "retracted": false,
+  "timestamp": 1369353600000,
+  "updates": [
+    {
+      "timestamp": 1496011302106,
+      "identifier": {
+        "doi": "10.1016/j.carres.2013.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carres.2012.05.008"
+  },
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A high-yielding synthesis of allyl glycosides from peracetylated glycosyl donors” [Carbohydr. Res. 357 (2012) 147–150]"
+}

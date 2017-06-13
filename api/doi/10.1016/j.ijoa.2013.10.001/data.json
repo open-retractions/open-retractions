@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.ijoa.2014.04.001","type":"err"},"doi":"10.1016/j.ijoa.2013.10.001","journal":"International Journal of Obstetric Anesthesia","publisher":"Elsevier BV","title":"Corrigendum to “External cephalic version – the bad, the good and the what now?” [Int J Obstet Anesth 2014;23:4–7]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496045904273,
+      "identifier": {
+        "doi": "10.1016/j.ijoa.2014.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijoa.2013.10.001"
+  },
+  "journal": "International Journal of Obstetric Anesthesia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “External cephalic version – the bad, the good and the what now?” [Int J Obstet Anesth 2014;23:4–7]"
+}

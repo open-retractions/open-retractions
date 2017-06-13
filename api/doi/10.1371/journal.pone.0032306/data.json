@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1334275200000,"doi":"10.1371/annotation/689ae222-9eb1-4f80-8ebe-6b80e8ad45ce","type":"correction"},"doi":"10.1371/journal.pone.0032306","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Combined Chromatin and Expression Analysis Reveals Specific Regulatory Mechanisms within Cytokine Genes in the Macrophage Early Immune Response"}
+{
+  "retracted": false,
+  "timestamp": 1334275200000,
+  "updates": [
+    {
+      "timestamp": 1495899481273,
+      "identifier": {
+        "doi": "10.1371/annotation/689ae222-9eb1-4f80-8ebe-6b80e8ad45ce"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032306"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Combined Chromatin and Expression Analysis Reveals Specific Regulatory Mechanisms within Cytokine Genes in the Macrophage Early Immune Response"
+}

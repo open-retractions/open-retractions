@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1007/s00284-014-0547-2","type":"correction"},"doi":"10.1007/s00284-013-0479-2","journal":"Current Microbiology","publisher":"Springer Nature","title":"Erratum to: Description of Geodermatophilus amargosae sp. nov., to Accommodate the Not Validly Named Geodermatophilus obscurus subsp. amargosae (Luedemann, 1968)"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496021618580,
+      "identifier": {
+        "doi": "10.1007/s00284-014-0547-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00284-013-0479-2"
+  },
+  "journal": "Current Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Description of Geodermatophilus amargosae sp. nov., to Accommodate the Not Validly Named Geodermatophilus obscurus subsp. amargosae (Luedemann, 1968)"
+}

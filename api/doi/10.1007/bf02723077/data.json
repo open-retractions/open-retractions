@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1202688000000,"doi":"10.1007/bf02759778","type":"correction"},"doi":"10.1007/bf02723077","journal":"Il Nuovo Cimento B","publisher":"Springer Nature","title":"Erratum to: WiZard: a program to measure cosmic-ray antiprotons and positrons, and search for primordial antimatter"}
+{
+  "retracted": false,
+  "timestamp": 1202688000000,
+  "updates": [
+    {
+      "timestamp": 1495827710108,
+      "identifier": {
+        "doi": "10.1007/bf02759778"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02723077"
+  },
+  "journal": "Il Nuovo Cimento B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: WiZard: a program to measure cosmic-ray antiprotons and positrons, and search for primordial antimatter"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1080/02702711.2016.1147817","type":"correction"},"doi":"10.1080/0270271860070403","journal":"Reading Psychology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647130854,
+      "identifier": {
+        "doi": "10.1080/02702711.2016.1147817"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0270271860070403"
+  },
+  "journal": "Reading Psychology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

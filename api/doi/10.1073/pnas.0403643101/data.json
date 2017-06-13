@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1128384000000,"doi":"10.1073/pnas.0507472102","type":"correction"},"doi":"10.1073/pnas.0403643101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Kohn et al., Random-coil behavior and the dimensions of chemically unfolded proteins, PNAS 2004 101:12491-12496"}
+{
+  "retracted": false,
+  "timestamp": 1128384000000,
+  "updates": [
+    {
+      "timestamp": 1495961730033,
+      "identifier": {
+        "doi": "10.1073/pnas.0507472102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0403643101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Kohn et al., Random-coil behavior and the dimensions of chemically unfolded proteins, PNAS 2004 101:12491-12496"
+}

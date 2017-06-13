@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.rse.2014.08.018","type":"err"},"doi":"10.1016/j.rse.2014.06.023","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Corrigendum to “Geographical gradients in boreal forest albedo and structure in Finland” [Remote Sens. Environ. 152 (2014) 526–535]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496005352006,
+      "identifier": {
+        "doi": "10.1016/j.rse.2014.08.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2014.06.023"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geographical gradients in boreal forest albedo and structure in Finland” [Remote Sens. Environ. 152 (2014) 526–535]"
+}

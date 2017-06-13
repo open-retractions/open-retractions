@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.mimet.2015.01.006","type":"err"},"doi":"10.1016/j.mimet.2012.04.014","journal":"Journal of Microbiological Methods","publisher":"Elsevier BV","title":"Corrigendum to “An alternative SEM drying method using hexamethyldisilazane (HMDS) for microbial cell attachment studies on sub-bituminous coal” [J. Microbiol. Methods 90 (2012) 96–99]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496036349113,
+      "identifier": {
+        "doi": "10.1016/j.mimet.2015.01.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mimet.2012.04.014"
+  },
+  "journal": "Journal of Microbiological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An alternative SEM drying method using hexamethyldisilazane (HMDS) for microbial cell attachment studies on sub-bituminous coal” [J. Microbiol. Methods 90 (2012) 96–99]"
+}

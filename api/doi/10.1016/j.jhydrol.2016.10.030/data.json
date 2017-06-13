@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jhydrol.2016.12.044","type":"erratum"},"doi":"10.1016/j.jhydrol.2016.10.030","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “On mass and momentum conservation in the variable-parameter Muskingum method” [J. Hydrol. 543 (2016) 562–576]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495673526843,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2016.12.044"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2016.10.030"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On mass and momentum conservation in the variable-parameter Muskingum method” [J. Hydrol. 543 (2016) 562–576]"
+}

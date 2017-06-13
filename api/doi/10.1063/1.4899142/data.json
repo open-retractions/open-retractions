@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446681600000,"doi":"10.1063/1.4935412","type":"correction"},"doi":"10.1063/1.4899142","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Structural consequences of hydrogen intercalation of epitaxial graphene on SiC(0001)” [Appl. Phys. Lett. 105, 161602 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1446681600000,
+  "updates": [
+    {
+      "timestamp": 1496043772702,
+      "identifier": {
+        "doi": "10.1063/1.4935412"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4899142"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Structural consequences of hydrogen intercalation of epitaxial graphene on SiC(0001)” [Appl. Phys. Lett. 105, 161602 (2014)]"
+}

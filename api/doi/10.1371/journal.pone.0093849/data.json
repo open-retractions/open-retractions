@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407888000000,"doi":"10.1371/journal.pone.0106021","type":"correction"},"doi":"10.1371/journal.pone.0093849","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Amplicon–Based Metagenomic Analysis of Mixed Fungal Samples Using Proton Release Amplicon Sequencing"}
+{
+  "retracted": false,
+  "timestamp": 1407888000000,
+  "updates": [
+    {
+      "timestamp": 1496000048496,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0106021"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0093849"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Amplicon–Based Metagenomic Analysis of Mixed Fungal Samples Using Proton Release Amplicon Sequencing"
+}

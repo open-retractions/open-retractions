@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489363200000,"doi":"10.1007/s00223-017-0262-7","type":"correction"},"doi":"10.1007/s00223-016-0230-7","journal":"Calcified Tissue International","publisher":"Springer Nature","title":"Erratum to: Assessing risk of osteoporotic fractures in primary care: development and validation of the FRA-HS algorithm"}
+{
+  "retracted": false,
+  "timestamp": 1489363200000,
+  "updates": [
+    {
+      "timestamp": 1495726255220,
+      "identifier": {
+        "doi": "10.1007/s00223-017-0262-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00223-016-0230-7"
+  },
+  "journal": "Calcified Tissue International",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Assessing risk of osteoporotic fractures in primary care: development and validation of the FRA-HS algorithm"
+}

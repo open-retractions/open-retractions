@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1174003200000,"update":{"timestamp":null,"doi":null,"pmid":17658946,"type":"retraction"},"doi":"10.1371/journal.pcbi.0030051","journal":"PLoS computational biology","publisher":null,"title":"Measures of clade confidence do not correlate with accuracy of phylogenetic trees."}
+{
+  "retracted": false,
+  "timestamp": 1184889600000,
+  "updates": [
+    {
+      "timestamp": 1495907667869,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.0030158"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.0030051"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Retraction: Measures of Clade Confidence Do Not Correlate with Accuracy of Phylogenetic Trees"
+}

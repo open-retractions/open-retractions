@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464134400000,"doi":"10.1016/j.cbi.2016.03.031","type":"erratum"},"doi":"10.1016/j.cbi.2015.10.006","journal":"Chemico-Biological Interactions","publisher":"Elsevier BV","title":"Corrigendum to “Exploring binding properties of sertraline with human serum albumin: Combination of spectroscopic and molecular modeling studies” [Chem. Biol. Interact. 242 (2015) 235–246]"}
+{
+  "retracted": false,
+  "timestamp": 1464134400000,
+  "updates": [
+    {
+      "timestamp": 1495663701531,
+      "identifier": {
+        "doi": "10.1016/j.cbi.2016.03.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cbi.2015.10.006"
+  },
+  "journal": "Chemico-Biological Interactions",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exploring binding properties of sertraline with human serum albumin: Combination of spectroscopic and molecular modeling studies” [Chem. Biol. Interact. 242 (2015) 235–246]"
+}

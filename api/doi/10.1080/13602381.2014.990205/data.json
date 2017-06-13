@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424044800000,"doi":"10.1080/13602381.2015.1013723","type":"correction"},"doi":"10.1080/13602381.2014.990205","journal":"Asia Pacific Business Review","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1424044800000,
+  "updates": [
+    {
+      "timestamp": 1496044184174,
+      "identifier": {
+        "doi": "10.1080/13602381.2015.1013723"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13602381.2014.990205"
+  },
+  "journal": "Asia Pacific Business Review",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

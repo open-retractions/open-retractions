@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452816000000,"doi":"10.1016/j.jde.2015.10.006","type":"erratum"},"doi":"10.1016/j.jde.2014.10.022","journal":"Journal of Differential Equations","publisher":"Elsevier BV","title":"Corrigendum to “The diffusive logistic equation with a free boundary and sign-changing coefficient” [J. Differential Equations 258 (4) (2015) 1252–1266]"}
+{
+  "retracted": false,
+  "timestamp": 1452816000000,
+  "updates": [
+    {
+      "timestamp": 1496041009828,
+      "identifier": {
+        "doi": "10.1016/j.jde.2015.10.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jde.2014.10.022"
+  },
+  "journal": "Journal of Differential Equations",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The diffusive logistic equation with a free boundary and sign-changing coefficient” [J. Differential Equations 258 (4) (2015) 1252–1266]"
+}

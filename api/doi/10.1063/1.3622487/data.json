@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1321228800000,"doi":"10.1063/1.3662975","type":"erratum"},"doi":"10.1063/1.3622487","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “The molecular kink paradigm for rubber elasticity: Numerical simulations of explicit polyisoprene networks at low to moderate tensile strains” [J. Chem. Phys. 135, 054902 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1321228800000,
+  "updates": [
+    {
+      "timestamp": 1495832676352,
+      "identifier": {
+        "doi": "10.1063/1.3662975"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3622487"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “The molecular kink paradigm for rubber elasticity: Numerical simulations of explicit polyisoprene networks at low to moderate tensile strains” [J. Chem. Phys. 135, 054902 (2011)]"
+}

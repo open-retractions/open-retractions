@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":581126400000,"doi":"10.1057/jors.1988.106","type":"correction"},"doi":"10.1057/jors.1988.3","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Setting Company Stock Levels"}
+{
+  "retracted": false,
+  "timestamp": 581126400000,
+  "updates": [
+    {
+      "timestamp": 1495887550861,
+      "identifier": {
+        "doi": "10.1057/jors.1988.106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1988.3"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Setting Company Stock Levels"
+}

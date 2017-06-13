@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413849600000,"doi":"10.1134/s1061934814150015","type":"correction"},"doi":"10.1134/s1061934814090111","journal":"Journal of Analytical Chemistry","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Evolution of new narcotic substances and methods of their determination”"}
+{
+  "retracted": false,
+  "timestamp": 1413849600000,
+  "updates": [
+    {
+      "timestamp": 1496010449118,
+      "identifier": {
+        "doi": "10.1134/s1061934814150015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1061934814090111"
+  },
+  "journal": "Journal of Analytical Chemistry",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Evolution of new narcotic substances and methods of their determination”"
+}

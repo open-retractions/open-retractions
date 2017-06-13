@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420848000000,"doi":"10.1007/s00464-014-4060-2","type":"correction"},"doi":"10.1007/s00464-014-3929-4","journal":"Surgical Endoscopy","publisher":"Springer Nature","title":"Erratum to: A cost evaluation methodology for surgical technologies"}
+{
+  "retracted": false,
+  "timestamp": 1420848000000,
+  "updates": [
+    {
+      "timestamp": 1496035762646,
+      "identifier": {
+        "doi": "10.1007/s00464-014-4060-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00464-014-3929-4"
+  },
+  "journal": "Surgical Endoscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A cost evaluation methodology for surgical technologies"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477872000000,"doi":"10.1186/s12866-016-0879-0","type":"correction"},"doi":"10.1186/s12866-016-0851-z","journal":"BMC Microbiology","publisher":"Springer Nature","title":"Erratum to: Intestinal microbiota could transfer host Gut characteristics from pigs to mice"}
+{
+  "retracted": false,
+  "timestamp": 1477872000000,
+  "updates": [
+    {
+      "timestamp": 1495653024126,
+      "identifier": {
+        "doi": "10.1186/s12866-016-0879-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12866-016-0851-z"
+  },
+  "journal": "BMC Microbiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intestinal microbiota could transfer host Gut characteristics from pigs to mice"
+}

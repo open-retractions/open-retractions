@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.prevetmed.2016.01.028","type":"err"},"doi":"10.1016/j.prevetmed.2015.10.008","journal":"Preventive Veterinary Medicine","publisher":"Elsevier BV","title":"Corrigendum to “A new compartmental model of Mycobacterium avium subsp. paratuberculosis infection dynamics in cattle” [Prev. Vet. Med. 122 (3) (2015) 298–305]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495672291240,
+      "identifier": {
+        "doi": "10.1016/j.prevetmed.2016.01.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.prevetmed.2015.10.008"
+  },
+  "journal": "Preventive Veterinary Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A new compartmental model of Mycobacterium avium subsp. paratuberculosis infection dynamics in cattle” [Prev. Vet. Med. 122 (3) (2015) 298–305]"
+}

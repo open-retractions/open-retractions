@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1347321600000,"doi":"10.1371/annotation/abf34a4d-e607-4859-a7bb-91f6cfff7549","type":"correction"},"doi":"10.1371/journal.pone.0038723","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Structure of a Murine Norovirus NS6 Protease-Product Complex Revealed by Adventitious Crystallisation"}
+{
+  "retracted": false,
+  "timestamp": 1347321600000,
+  "updates": [
+    {
+      "timestamp": 1495955772241,
+      "identifier": {
+        "doi": "10.1371/annotation/abf34a4d-e607-4859-a7bb-91f6cfff7549"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0038723"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Structure of a Murine Norovirus NS6 Protease-Product Complex Revealed by Adventitious Crystallisation"
+}

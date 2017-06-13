@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1128/iai.00728-15","type":"correction"},"doi":"10.1128/iai.02772-14","journal":"Infection and Immunity","publisher":"American Society for Microbiology","title":"Correction for Dreux et al., Ribonucleotide Reductase Repressor NrdR as a Novel Regulator for Motility and Chemotaxis during Adherent-Invasive Escherichia coli Infection"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496029408015,
+      "identifier": {
+        "doi": "10.1128/iai.00728-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/iai.02772-14"
+  },
+  "journal": "Infection and Immunity",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Dreux et al., Ribonucleotide Reductase Repressor NrdR as a Novel Regulator for Motility and Chemotaxis during Adherent-Invasive Escherichia coli Infection"
+}

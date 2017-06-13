@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.gca.2014.04.007","type":"err"},"doi":"10.1016/j.gca.2011.03.031","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “The rheology of crystal-bearing basaltic magmas from Stromboli and Etna” [Geochim. Cosmochim. Acta 75 (2011) 3214–3236]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496033098927,
+      "identifier": {
+        "doi": "10.1016/j.gca.2014.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2011.03.031"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The rheology of crystal-bearing basaltic magmas from Stromboli and Etna” [Geochim. Cosmochim. Acta 75 (2011) 3214–3236]"
+}

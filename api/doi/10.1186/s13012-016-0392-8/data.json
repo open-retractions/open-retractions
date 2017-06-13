@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460937600000,"doi":"10.1186/s13012-016-0415-5","type":"correction"},"doi":"10.1186/s13012-016-0392-8","journal":"Implementation Science","publisher":"Springer Nature","title":"Erratum to: ‘Toward the sustainability of health interventions implemented in sub-Saharan Africa: a systematic review and conceptual framework’"}
+{
+  "retracted": false,
+  "timestamp": 1460937600000,
+  "updates": [
+    {
+      "timestamp": 1495667279357,
+      "identifier": {
+        "doi": "10.1186/s13012-016-0415-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13012-016-0392-8"
+  },
+  "journal": "Implementation Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Toward the sustainability of health interventions implemented in sub-Saharan Africa: a systematic review and conceptual framework’"
+}

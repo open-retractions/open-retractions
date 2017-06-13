@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1007/s10811-015-0654-x","type":"correction"},"doi":"10.1007/s10811-014-0417-0","journal":"Journal of Applied Phycology","publisher":"Springer Nature","title":"Erratum to: Effect of increased seawater temperature on biomass, growth, and maturation of Saccharina japonica near its southern limit in northern Japan"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496019450536,
+      "identifier": {
+        "doi": "10.1007/s10811-015-0654-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10811-014-0417-0"
+  },
+  "journal": "Journal of Applied Phycology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Effect of increased seawater temperature on biomass, growth, and maturation of Saccharina japonica near its southern limit in northern Japan"
+}

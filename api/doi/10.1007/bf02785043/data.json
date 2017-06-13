@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200700800000,"doi":"10.1007/bf02799347","type":"correction"},"doi":"10.1007/bf02785043","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Radiative decays of mesons in a quark-loop model"}
+{
+  "retracted": false,
+  "timestamp": 1200700800000,
+  "updates": [
+    {
+      "timestamp": 1495822414905,
+      "identifier": {
+        "doi": "10.1007/bf02799347"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02785043"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiative decays of mesons in a quark-loop model"
+}

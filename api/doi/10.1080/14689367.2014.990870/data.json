@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427328000000,"doi":"10.1080/14689367.2015.1024500","type":"correction"},"doi":"10.1080/14689367.2014.990870","journal":"Dynamical Systems","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1427328000000,
+  "updates": [
+    {
+      "timestamp": 1496045372983,
+      "identifier": {
+        "doi": "10.1080/14689367.2015.1024500"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14689367.2014.990870"
+  },
+  "journal": "Dynamical Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

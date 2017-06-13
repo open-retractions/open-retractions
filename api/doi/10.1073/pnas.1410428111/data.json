@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1073/pnas.1419356111","type":"correction"},"doi":"10.1073/pnas.1410428111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Majithia et al., Rare variants inPPARGwith decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496016905483,
+      "identifier": {
+        "doi": "10.1073/pnas.1419356111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1410428111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Majithia et al., Rare variants inPPARGwith decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes"
+}

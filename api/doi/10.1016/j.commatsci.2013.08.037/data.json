@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.commatsci.2014.01.030","type":"err"},"doi":"10.1016/j.commatsci.2013.08.037","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “Ab initio interface configuration determination for β″ in Al–Mg–Si: Beyond the constraint of a preserved precipitate stoichiometry” [Comput. Mater. Sci. 81 (2014) 617–629]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496016111310,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2014.01.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2013.08.037"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ab initio interface configuration determination for β″ in Al–Mg–Si: Beyond the constraint of a preserved precipitate stoichiometry” [Comput. Mater. Sci. 81 (2014) 617–629]"
+}

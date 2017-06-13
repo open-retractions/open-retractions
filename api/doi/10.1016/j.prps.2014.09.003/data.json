@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.prps.2015.01.002","type":"err"},"doi":"10.1016/j.prps.2014.09.003","journal":"Pratiques Psychologiques","publisher":"Elsevier BV","title":"Erratum à l’article « Revue de littérature sur les techniques d’influence et de communication appliquées à la gestion des déchets » [Prat. Psychol. 4 (20) (2014) 211–30]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496044020859,
+      "identifier": {
+        "doi": "10.1016/j.prps.2015.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.prps.2014.09.003"
+  },
+  "journal": "Pratiques Psychologiques",
+  "publisher": "Elsevier BV",
+  "title": "Erratum à l’article « Revue de littérature sur les techniques d’influence et de communication appliquées à la gestion des déchets » [Prat. Psychol. 4 (20) (2014) 211–30]"
+}

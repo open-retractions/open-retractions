@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484352000000,"doi":"10.1007/s10067-016-3531-3","type":"correction"},"doi":"10.1007/s10067-016-3450-3","journal":"Clinical Rheumatology","publisher":"Springer Nature","title":"Erratum to: Musculoskeletal manifestations of primary hyperparathyroidism"}
+{
+  "retracted": false,
+  "timestamp": 1484352000000,
+  "updates": [
+    {
+      "timestamp": 1495671042703,
+      "identifier": {
+        "doi": "10.1007/s10067-016-3531-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10067-016-3450-3"
+  },
+  "journal": "Clinical Rheumatology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Musculoskeletal manifestations of primary hyperparathyroidism"
+}

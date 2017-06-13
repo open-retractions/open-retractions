@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446508800000,"doi":"10.1007/s11075-015-0071-x","type":"correction"},"doi":"10.1007/s11075-015-0037-z","journal":"Numerical Algorithms","publisher":"Springer Nature","title":"Erratum: “On the numerical stability of Floater-Hormann’s rational interpolant”"}
+{
+  "retracted": false,
+  "timestamp": 1446508800000,
+  "updates": [
+    {
+      "timestamp": 1496042921946,
+      "identifier": {
+        "doi": "10.1007/s11075-015-0071-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11075-015-0037-z"
+  },
+  "journal": "Numerical Algorithms",
+  "publisher": "Springer Nature",
+  "title": "Erratum: “On the numerical stability of Floater-Hormann’s rational interpolant”"
+}

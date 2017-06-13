@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396224000000,"doi":"10.1063/1.4870491","type":"correction"},"doi":"10.1063/1.4867359","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “A Fokker-Planck-Landau collision equation solver on two-dimensional velocity grid and its application to particle-in-cell simulation” [Phys. Plasmas 21, 032503 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1396224000000,
+  "updates": [
+    {
+      "timestamp": 1496030044855,
+      "identifier": {
+        "doi": "10.1063/1.4870491"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4867359"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A Fokker-Planck-Landau collision equation solver on two-dimensional velocity grid and its application to particle-in-cell simulation” [Phys. Plasmas 21, 032503 (2014)]"
+}

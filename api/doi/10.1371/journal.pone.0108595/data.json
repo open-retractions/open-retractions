@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418774400000,"doi":"10.1371/journal.pone.0116246","type":"correction"},"doi":"10.1371/journal.pone.0108595","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Expression of DP2 (CRTh2), a Prostaglandin D2 Receptor, in Human Mast Cells"}
+{
+  "retracted": false,
+  "timestamp": 1418774400000,
+  "updates": [
+    {
+      "timestamp": 1496031521901,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0116246"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0108595"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Expression of DP2 (CRTh2), a Prostaglandin D2 Receptor, in Human Mast Cells"
+}

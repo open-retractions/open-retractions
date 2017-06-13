@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397174400000,"doi":"10.1063/1.4871336","type":"correction"},"doi":"10.1063/1.4868333","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Magnetic, transport, and structural properties of SrRuO3 thin films” [J. Appl. Phys. 115, 17C735 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1397174400000,
+  "updates": [
+    {
+      "timestamp": 1496032569304,
+      "identifier": {
+        "doi": "10.1063/1.4871336"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4868333"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Magnetic, transport, and structural properties of SrRuO3 thin films” [J. Appl. Phys. 115, 17C735 (2014)]"
+}

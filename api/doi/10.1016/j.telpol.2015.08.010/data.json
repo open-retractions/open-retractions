@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.telpol.2016.01.005","type":"err"},"doi":"10.1016/j.telpol.2015.08.010","journal":"Telecommunications Policy","publisher":"Elsevier BV","title":"Corrigendum to: “The role of network effects and consumer heterogeneity in the adoption of mobile phones: Evidence from South Africa” [Telecommun. Policy 39 (11) (2015) 933–943]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495644613118,
+      "identifier": {
+        "doi": "10.1016/j.telpol.2016.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.telpol.2015.08.010"
+  },
+  "journal": "Telecommunications Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “The role of network effects and consumer heterogeneity in the adoption of mobile phones: Evidence from South Africa” [Telecommun. Policy 39 (11) (2015) 933–943]"
+}

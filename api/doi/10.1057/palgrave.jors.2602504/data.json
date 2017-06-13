@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225324800000,"doi":"10.1057/palgrave.jors.2602539","type":"correction"},"doi":"10.1057/palgrave.jors.2602504","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A guided tabu search for the heterogeneous vehicle routeing problem"}
+{
+  "retracted": false,
+  "timestamp": 1225324800000,
+  "updates": [
+    {
+      "timestamp": 1495873135671,
+      "identifier": {
+        "doi": "10.1057/palgrave.jors.2602539"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/palgrave.jors.2602504"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A guided tabu search for the heterogeneous vehicle routeing problem"
+}

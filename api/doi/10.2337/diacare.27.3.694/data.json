@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1088640000000,"doi":"10.2337/diacare.27.7.1855-a","type":"correction"},"doi":"10.2337/diacare.27.3.694","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Errata"}
+{
+  "retracted": false,
+  "timestamp": 1088640000000,
+  "updates": [
+    {
+      "timestamp": 1495890829540,
+      "identifier": {
+        "doi": "10.2337/diacare.27.7.1855-a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/diacare.27.3.694"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Errata"
+}

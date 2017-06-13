@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458777600000,"doi":"10.1063/1.4944729","type":"correction"},"doi":"10.1063/1.4942372","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Low-noise AlInAsSb avalanche photodiode” [Appl. Phys. Lett. 108, 081102 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1458777600000,
+  "updates": [
+    {
+      "timestamp": 1495659185240,
+      "identifier": {
+        "doi": "10.1063/1.4944729"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4942372"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Low-noise AlInAsSb avalanche photodiode” [Appl. Phys. Lett. 108, 081102 (2016)]"
+}

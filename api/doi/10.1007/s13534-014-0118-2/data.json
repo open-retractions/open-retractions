@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405123200000,"doi":"10.1007/s13534-014-0142-2","type":"correction"},"doi":"10.1007/s13534-014-0118-2","journal":"Biomedical Engineering Letters","publisher":"Springer Nature","title":"Erratum to: A fully automatic ocular artifact removal from EEG based on fourth-order tensor method"}
+{
+  "retracted": false,
+  "timestamp": 1405123200000,
+  "updates": [
+    {
+      "timestamp": 1496053119638,
+      "identifier": {
+        "doi": "10.1007/s13534-014-0142-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13534-014-0118-2"
+  },
+  "journal": "Biomedical Engineering Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A fully automatic ocular artifact removal from EEG based on fourth-order tensor method"
+}

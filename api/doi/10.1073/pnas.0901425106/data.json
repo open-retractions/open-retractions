@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1239062400000,"doi":"10.1073/pnas.0905399106","type":"correction"},"doi":"10.1073/pnas.0901425106","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Stewart-Jones et al., Rational development of high-affinity T-cell receptor-like antibodies"}
+{
+  "retracted": false,
+  "timestamp": 1239062400000,
+  "updates": [
+    {
+      "timestamp": 1495957759384,
+      "identifier": {
+        "doi": "10.1073/pnas.0905399106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0901425106"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Stewart-Jones et al., Rational development of high-affinity T-cell receptor-like antibodies"
+}

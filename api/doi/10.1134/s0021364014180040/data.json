@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424217600000,"doi":"10.1134/s0021364014220123","type":"correction"},"doi":"10.1134/s0021364014180040","journal":"JETP Letters","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Breakdown of the Fermi Arcs in Underdoped Cuprates by Incommensurate Charge Density Waves”"}
+{
+  "retracted": false,
+  "timestamp": 1424217600000,
+  "updates": [
+    {
+      "timestamp": 1496041575403,
+      "identifier": {
+        "doi": "10.1134/s0021364014220123"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0021364014180040"
+  },
+  "journal": "JETP Letters",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Breakdown of the Fermi Arcs in Underdoped Cuprates by Incommensurate Charge Density Waves”"
+}

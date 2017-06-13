@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.clon.2016.05.010","type":"err"},"doi":"10.1016/j.clon.2015.11.006","journal":"Clinical Oncology","publisher":"Elsevier BV","title":"Corrigendum to “Techniques and Outcome of Surgery for Locally Advanced and Local Recurrent Rectal Cancer” [Clinical Oncology 28 (2016) 103–115]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495720042367,
+      "identifier": {
+        "doi": "10.1016/j.clon.2016.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clon.2015.11.006"
+  },
+  "journal": "Clinical Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Techniques and Outcome of Surgery for Locally Advanced and Local Recurrent Rectal Cancer” [Clinical Oncology 28 (2016) 103–115]"
+}

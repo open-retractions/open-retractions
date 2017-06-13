@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430956800000,"doi":"10.1063/1.4919874","type":"correction"},"doi":"10.1063/1.4917561","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Significant mobility enhancement in extremely thin highly doped ZnO films” [Appl. Phys. Lett. 106, 152102 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1495998482945,
+      "identifier": {
+        "doi": "10.1063/1.4919874"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4917561"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Significant mobility enhancement in extremely thin highly doped ZnO films” [Appl. Phys. Lett. 106, 152102 (2015)]"
+}

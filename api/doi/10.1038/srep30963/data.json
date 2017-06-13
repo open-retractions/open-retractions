@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475193600000,"doi":"10.1038/srep33939","type":"correction"},"doi":"10.1038/srep30963","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Autophagy-associated alpha-arrestin signaling is required for conidiogenous cell development in Magnaporthe oryzae"}
+{
+  "retracted": false,
+  "timestamp": 1475193600000,
+  "updates": [
+    {
+      "timestamp": 1495644487918,
+      "identifier": {
+        "doi": "10.1038/srep33939"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep30963"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Autophagy-associated alpha-arrestin signaling is required for conidiogenous cell development in Magnaporthe oryzae"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1007/s10967-015-4514-6","type":"correction"},"doi":"10.1007/s10967-015-4023-7","journal":"Journal of Radioanalytical and Nuclear Chemistry","publisher":"Springer Nature","title":"Erratum to: Measurement of continuous degradation of a stripper foil during six months operation with 300 kW beam power in the 3-GeV RCS of J-PARC"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496038073900,
+      "identifier": {
+        "doi": "10.1007/s10967-015-4514-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10967-015-4023-7"
+  },
+  "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Measurement of continuous degradation of a stripper foil during six months operation with 300 kW beam power in the 3-GeV RCS of J-PARC"
+}

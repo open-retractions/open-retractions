@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472083200000,"doi":"10.1007/s11760-016-0968-4","type":"correction"},"doi":"10.1007/s11760-016-0936-z","journal":"Signal, Image and Video Processing","publisher":"Springer Nature","title":"Erratum to: Fingerprint liveness detection using gradient-based texture features"}
+{
+  "retracted": false,
+  "timestamp": 1472083200000,
+  "updates": [
+    {
+      "timestamp": 1495738820945,
+      "identifier": {
+        "doi": "10.1007/s11760-016-0968-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11760-016-0936-z"
+  },
+  "journal": "Signal, Image and Video Processing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Fingerprint liveness detection using gradient-based texture features"
+}

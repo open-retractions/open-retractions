@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1108425600000,"doi":"10.1371/journal.pbio.0030080","type":"correction"},"doi":"10.1371/journal.pbio.0020380","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Components of Coated Vesicles and Nuclear Pore Complexes Share a Common Molecular Architecture"}
+{
+  "retracted": false,
+  "timestamp": 1108425600000,
+  "updates": [
+    {
+      "timestamp": 1495919797172,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0030080"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0020380"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Components of Coated Vesicles and Nuclear Pore Complexes Share a Common Molecular Architecture"
+}

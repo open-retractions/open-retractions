@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.bone.2015.10.013","type":"err"},"doi":"10.1016/j.bone.2015.02.011","journal":"Bone","publisher":"Elsevier BV","title":"Corrigendum to novel approaches for two and three dimensional multiplexed imaging of osteocytes Bone 76 (2015) [129–140]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496041157548,
+      "identifier": {
+        "doi": "10.1016/j.bone.2015.10.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bone.2015.02.011"
+  },
+  "journal": "Bone",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to novel approaches for two and three dimensional multiplexed imaging of osteocytes Bone 76 (2015) [129–140]"
+}

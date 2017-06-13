@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389225600000,"doi":"10.1371/annotation/844c2e7b-2f5f-4982-85d2-b82debdeffb1","type":"correction"},"doi":"10.1371/journal.pone.0075111","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mice Lacking the p43 Mitochondrial T3 Receptor Become Glucose Intolerant and Insulin Resistant during Aging"}
+{
+  "retracted": false,
+  "timestamp": 1389225600000,
+  "updates": [
+    {
+      "timestamp": 1496011715718,
+      "identifier": {
+        "doi": "10.1371/annotation/844c2e7b-2f5f-4982-85d2-b82debdeffb1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075111"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mice Lacking the p43 Mitochondrial T3 Receptor Become Glucose Intolerant and Insulin Resistant during Aging"
+}

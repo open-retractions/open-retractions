@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1374796800000,"doi":"10.1016/j.jbiomech.2013.05.022","type":"err"},"doi":"10.1016/j.jbiomech.2012.06.001","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Erratum to “Effects of window size on ankle joint stiffness calculation during quiet standing: How the rule changes the result” [J. Biomech. 45(13) (2012) 2301—2305]"}
+{
+  "retracted": false,
+  "timestamp": 1374796800000,
+  "updates": [
+    {
+      "timestamp": 1496026059631,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2013.05.022"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2012.06.001"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Effects of window size on ankle joint stiffness calculation during quiet standing: How the rule changes the result” [J. Biomech. 45(13) (2012) 2301—2305]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.jpcs.2014.06.001","type":"err"},"doi":"10.1016/j.jpcs.2014.01.007","journal":"Journal of Physics and Chemistry of Solids","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of wurtzite CdSe single crystals surfaces” [J. Phys. Chem. Solids 75 (2014) 624–628]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496050325317,
+      "identifier": {
+        "doi": "10.1016/j.jpcs.2014.06.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpcs.2014.01.007"
+  },
+  "journal": "Journal of Physics and Chemistry of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of wurtzite CdSe single crystals surfaces” [J. Phys. Chem. Solids 75 (2014) 624–628]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1179187200000,"doi":"10.1371/journal.pbio.0050130","type":"correction"},"doi":"10.1371/journal.pbio.0050091","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Does Bacteriophage ϕ29 Pack Its DNA with a Twist?"}
+{
+  "retracted": false,
+  "timestamp": 1179187200000,
+  "updates": [
+    {
+      "timestamp": 1495951311473,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0050130"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0050091"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Does Bacteriophage ϕ29 Pack Its DNA with a Twist?"
+}

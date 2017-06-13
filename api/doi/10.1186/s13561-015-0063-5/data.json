@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452124800000,"doi":"10.1186/s13561-016-0080-z","type":"correction"},"doi":"10.1186/s13561-015-0063-5","journal":"Health Economics Review","publisher":"Springer Nature","title":"Erratum to: ‘Costs of treating cardiovascular events in Germany: a systematic literature review’"}
+{
+  "retracted": false,
+  "timestamp": 1452124800000,
+  "updates": [
+    {
+      "timestamp": 1496058416413,
+      "identifier": {
+        "doi": "10.1186/s13561-016-0080-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13561-015-0063-5"
+  },
+  "journal": "Health Economics Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Costs of treating cardiovascular events in Germany: a systematic literature review’"
+}

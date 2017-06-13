@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379548800000,"doi":"10.1007/s12015-013-9470-3","type":"correction"},"doi":"10.1007/s12015-011-9327-6","journal":"Stem Cell Reviews and Reports","publisher":"Springer Nature","title":"Erratum to: FGFR2 Mutation Confers a Less Drastic Gain of Function in Mesenchymal Stem Cells than in Fibroblasts"}
+{
+  "retracted": false,
+  "timestamp": 1379548800000,
+  "updates": [
+    {
+      "timestamp": 1496047000134,
+      "identifier": {
+        "doi": "10.1007/s12015-013-9470-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12015-011-9327-6"
+  },
+  "journal": "Stem Cell Reviews and Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: FGFR2 Mutation Confers a Less Drastic Gain of Function in Mesenchymal Stem Cells than in Fibroblasts"
+}

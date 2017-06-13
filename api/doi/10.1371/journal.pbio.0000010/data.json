@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1079395200000,"doi":"10.1371/journal.pbio.0020089","type":"correction"},"doi":"10.1371/journal.pbio.0000010","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Corrections: The Roles of APC and Axin Derived from Experimental and Theoretical Analysis of the Wnt Pathway"}
+{
+  "retracted": false,
+  "timestamp": 1079395200000,
+  "updates": [
+    {
+      "timestamp": 1495809437863,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0020089"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0000010"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Corrections: The Roles of APC and Axin Derived from Experimental and Theoretical Analysis of the Wnt Pathway"
+}

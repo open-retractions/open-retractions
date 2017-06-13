@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482364800000,"doi":"10.1038/srep39363","type":"correction"},"doi":"10.1038/srep31973","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: A ruthenium polypyridyl intercalator stalls DNA replication forks, radiosensitizes human cancer cells and is enhanced by Chk1 inhibition"}
+{
+  "retracted": false,
+  "timestamp": 1482364800000,
+  "updates": [
+    {
+      "timestamp": 1495668762318,
+      "identifier": {
+        "doi": "10.1038/srep39363"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31973"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: A ruthenium polypyridyl intercalator stalls DNA replication forks, radiosensitizes human cancer cells and is enhanced by Chk1 inhibition"
+}

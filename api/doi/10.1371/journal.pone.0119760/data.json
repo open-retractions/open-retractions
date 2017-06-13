@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432252800000,"doi":"10.1371/journal.pone.0128613","type":"correction"},"doi":"10.1371/journal.pone.0119760","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: In Silico Screening for Novel Inhibitors of DNA Polymerase III Alpha Subunit of Mycobacterium tuberculosis (MtbDnaE2, H37Rv)"}
+{
+  "retracted": false,
+  "timestamp": 1432252800000,
+  "updates": [
+    {
+      "timestamp": 1495998652054,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0128613"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0119760"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: In Silico Screening for Novel Inhibitors of DNA Polymerase III Alpha Subunit of Mycobacterium tuberculosis (MtbDnaE2, H37Rv)"
+}

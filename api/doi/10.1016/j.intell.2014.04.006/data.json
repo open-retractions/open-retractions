@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.intell.2014.10.008","type":"err"},"doi":"10.1016/j.intell.2014.04.006","journal":"Intelligence","publisher":"Elsevier BV","title":"Corrigendum to “The impact of low, average, and high IQ on economic growth and technological progress: Do all individuals contribute equally?” [Intelligence 46 (2014) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496020165930,
+      "identifier": {
+        "doi": "10.1016/j.intell.2014.10.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.intell.2014.04.006"
+  },
+  "journal": "Intelligence",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The impact of low, average, and high IQ on economic growth and technological progress: Do all individuals contribute equally?” [Intelligence 46 (2014) 1–8]"
+}

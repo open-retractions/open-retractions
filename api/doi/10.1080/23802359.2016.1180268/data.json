@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473120000000,"doi":"10.1080/23802359.2016.1224663","type":"correction"},"doi":"10.1080/23802359.2016.1180268","journal":"Mitochondrial DNA Part B","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1473120000000,
+  "updates": [
+    {
+      "timestamp": 1495639065349,
+      "identifier": {
+        "doi": "10.1080/23802359.2016.1224663"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/23802359.2016.1180268"
+  },
+  "journal": "Mitochondrial DNA Part B",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

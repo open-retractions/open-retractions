@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436227200000,"doi":"10.3103/s0025654415030140","type":"correction"},"doi":"10.3103/s002565441502003x","journal":"Mechanics of Solids","publisher":"Allerton Press","title":"Erratum to: “Refined gradient theory of scale-dependent superthin rods”"}
+{
+  "retracted": false,
+  "timestamp": 1436227200000,
+  "updates": [
+    {
+      "timestamp": 1496013613879,
+      "identifier": {
+        "doi": "10.3103/s0025654415030140"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s002565441502003x"
+  },
+  "journal": "Mechanics of Solids",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: “Refined gradient theory of scale-dependent superthin rods”"
+}

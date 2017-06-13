@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":382579200000,"doi":"10.1063/1.443585","type":"erratum"},"doi":"10.1063/1.431760","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: Reactions of ions in excited electronic states: (CO+)*+CO→C2O++O [J. Chem. Phys. 63, 3656 (1975)]"}
+{
+  "retracted": false,
+  "timestamp": 382579200000,
+  "updates": [
+    {
+      "timestamp": 1495896832503,
+      "identifier": {
+        "doi": "10.1063/1.443585"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.431760"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Reactions of ions in excited electronic states: (CO+)*+CO→C2O++O [J. Chem. Phys. 63, 3656 (1975)]"
+}

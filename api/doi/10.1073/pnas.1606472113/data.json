@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1073/pnas.1611412113","type":"correction"},"doi":"10.1073/pnas.1606472113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Keum et al., Phosphoinositide 5- and 3-phosphatase activities of a voltage-sensing phosphatase in living cells show identical voltage dependence"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495733625946,
+      "identifier": {
+        "doi": "10.1073/pnas.1611412113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1606472113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Keum et al., Phosphoinositide 5- and 3-phosphatase activities of a voltage-sensing phosphatase in living cells show identical voltage dependence"
+}

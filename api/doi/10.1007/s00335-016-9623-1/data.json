@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458691200000,"doi":"10.1007/s00335-016-9626-y","type":"correction"},"doi":"10.1007/s00335-016-9623-1","journal":"Mammalian Genome","publisher":"Springer Nature","title":"Erratum to: Evidence of selection signatures that shape the Persian cat breed"}
+{
+  "retracted": false,
+  "timestamp": 1458691200000,
+  "updates": [
+    {
+      "timestamp": 1495657600805,
+      "identifier": {
+        "doi": "10.1007/s00335-016-9626-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00335-016-9623-1"
+  },
+  "journal": "Mammalian Genome",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evidence of selection signatures that shape the Persian cat breed"
+}

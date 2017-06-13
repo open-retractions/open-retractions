@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1217980800000,"doi":"10.1098/rsif.2008.3000","type":"correction"},"doi":"10.1098/rsif.2007.1325","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction for Huber et al., Hard prey, soft jaws and the ontogeny of feeding mechanics in the spotted ratfish Hydrolagus colliei"}
+{
+  "retracted": false,
+  "timestamp": 1217980800000,
+  "updates": [
+    {
+      "timestamp": 1495943070964,
+      "identifier": {
+        "doi": "10.1098/rsif.2008.3000"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2007.1325"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction for Huber et al., Hard prey, soft jaws and the ontogeny of feeding mechanics in the spotted ratfish Hydrolagus colliei"
+}

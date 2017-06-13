@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.solmat.2014.03.009","type":"err"},"doi":"10.1016/j.solmat.2014.01.015","journal":"Solar Energy Materials and Solar Cells","publisher":"Elsevier BV","title":"Corrigendum to “Quantification of surface ZnSe in Cu2ZnSnSe4-based solar cells by analysis of the spectral response” [Sol. Energy Mater. Sol. Cells 123 (2014) 220–227]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496027153874,
+      "identifier": {
+        "doi": "10.1016/j.solmat.2014.03.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.solmat.2014.01.015"
+  },
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Quantification of surface ZnSe in Cu2ZnSnSe4-based solar cells by analysis of the spectral response” [Sol. Energy Mater. Sol. Cells 123 (2014) 220–227]"
+}

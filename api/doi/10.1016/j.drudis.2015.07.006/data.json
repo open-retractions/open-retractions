@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1016/j.drudis.2016.07.012","type":"erratum"},"doi":"10.1016/j.drudis.2015.07.006","journal":"Drug Discovery Today","publisher":"Elsevier BV","title":"Corrigendum to “Reactivating mutant p53 using small molecules as zinc metallochaperones: awakening a sleeping giant in cancer” [Drug Discov. Today 20 (11) (2015) 1391–1397]"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495733040529,
+      "identifier": {
+        "doi": "10.1016/j.drudis.2016.07.012"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.drudis.2015.07.006"
+  },
+  "journal": "Drug Discovery Today",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reactivating mutant p53 using small molecules as zinc metallochaperones: awakening a sleeping giant in cancer” [Drug Discov. Today 20 (11) (2015) 1391–1397]"
+}

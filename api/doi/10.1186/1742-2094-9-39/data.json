@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366329600000,"doi":"10.1186/1742-2094-10-48","type":"correction"},"doi":"10.1186/1742-2094-9-39","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Microglial TIR-domain-containing adapter-inducing interferon-β (TRIF) deficiency promotes retinal ganglion cell survival and axon regeneration via nuclear factor-κB"}
+{
+  "retracted": false,
+  "timestamp": 1366329600000,
+  "updates": [
+    {
+      "timestamp": 1496010184268,
+      "identifier": {
+        "doi": "10.1186/1742-2094-10-48"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1742-2094-9-39"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Microglial TIR-domain-containing adapter-inducing interferon-β (TRIF) deficiency promotes retinal ganglion cell survival and axon regeneration via nuclear factor-κB"
+}

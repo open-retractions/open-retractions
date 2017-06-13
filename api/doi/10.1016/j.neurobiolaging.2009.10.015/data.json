@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.neurobiolaging.2015.05.007","type":"err"},"doi":"10.1016/j.neurobiolaging.2009.10.015","journal":"Neurobiology of Aging","publisher":"Elsevier BV","title":"Erratum to “Dietary restriction delays aging, but not neuronal dysfunction, in Drosophila models of Alzheimer's disease.” [Neurobiol. Aging 32 (2011) 1977–1989]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1495993748862,
+      "identifier": {
+        "doi": "10.1016/j.neurobiolaging.2015.05.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neurobiolaging.2009.10.015"
+  },
+  "journal": "Neurobiology of Aging",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Dietary restriction delays aging, but not neuronal dysfunction, in Drosophila models of Alzheimer's disease.” [Neurobiol. Aging 32 (2011) 1977–1989]"
+}

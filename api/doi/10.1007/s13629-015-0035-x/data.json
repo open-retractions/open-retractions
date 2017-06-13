@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1007/s13629-015-0119-7","type":"correction"},"doi":"10.1007/s13629-015-0035-x","journal":"Tijdschrift voor Urologie","publisher":"Springer Nature","title":"Erratum: abstract Fransen van de Putte et al."}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1496909445139,
+      "identifier": {
+        "doi": "10.1007/s13629-015-0119-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13629-015-0035-x"
+  },
+  "journal": "Tijdschrift voor Urologie",
+  "publisher": "Springer Nature",
+  "title": "Erratum: abstract Fransen van de Putte et al."
+}

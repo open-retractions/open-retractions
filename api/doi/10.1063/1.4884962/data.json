@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405296000000,"doi":"10.1063/1.4890120","type":"correction"},"doi":"10.1063/1.4884962","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “An exploration of the ozone dimer potential energy surface” [J. Chem. Phys. 140, 244311 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1405296000000,
+  "updates": [
+    {
+      "timestamp": 1496053259144,
+      "identifier": {
+        "doi": "10.1063/1.4890120"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4884962"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “An exploration of the ozone dimer potential energy surface” [J. Chem. Phys. 140, 244311 (2014)]"
+}

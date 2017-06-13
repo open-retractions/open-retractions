@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.funbio.2014.03.005","type":"err"},"doi":"10.1016/j.funbio.2014.01.004","journal":"Fungal Biology","publisher":"Elsevier BV","title":"Corrigendum to “Bird's nest fungi (Nidulariales: Nidulariaceae) in Baltic and Dominican amber” [Fungal Biology 118 (2014) 325–329]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496031176129,
+      "identifier": {
+        "doi": "10.1016/j.funbio.2014.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.funbio.2014.01.004"
+  },
+  "journal": "Fungal Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bird's nest fungi (Nidulariales: Nidulariaceae) in Baltic and Dominican amber” [Fungal Biology 118 (2014) 325–329]"
+}

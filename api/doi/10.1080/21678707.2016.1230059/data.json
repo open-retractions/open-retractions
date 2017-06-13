@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474848000000,"doi":"10.1080/21678707.2016.1240936","type":"correction"},"doi":"10.1080/21678707.2016.1230059","journal":"Expert Opinion on Orphan Drugs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1474848000000,
+  "updates": [
+    {
+      "timestamp": 1495643117862,
+      "identifier": {
+        "doi": "10.1080/21678707.2016.1240936"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21678707.2016.1230059"
+  },
+  "journal": "Expert Opinion on Orphan Drugs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

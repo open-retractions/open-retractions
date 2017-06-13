@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1458086400000,"doi":"10.1039/c6ra90028c","type":"correction"},"doi":"10.1039/c5ra21631a","journal":"RSC Adv.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Ab initio simulations of defect-based magnetism: the case of CoSi nanowires"}
+{
+  "retracted": false,
+  "timestamp": 1458086400000,
+  "updates": [
+    {
+      "timestamp": 1495654265735,
+      "identifier": {
+        "doi": "10.1039/c6ra90028c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5ra21631a"
+  },
+  "journal": "RSC Adv.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Ab initio simulations of defect-based magnetism: the case of CoSi nanowires"
+}

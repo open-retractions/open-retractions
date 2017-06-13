@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443139200000,"doi":"10.1007/jhep09(2015)175","type":"correction"},"doi":"10.1007/jhep10(2014)019","journal":"Journal of High Energy Physics","publisher":"Springer Nature","title":"Erratum to: A hybrid strong/weak coupling approach to jet quenching"}
+{
+  "retracted": false,
+  "timestamp": 1443139200000,
+  "updates": [
+    {
+      "timestamp": 1496033428290,
+      "identifier": {
+        "doi": "10.1007/jhep09(2015)175"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/jhep10(2014)019"
+  },
+  "journal": "Journal of High Energy Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A hybrid strong/weak coupling approach to jet quenching"
+}

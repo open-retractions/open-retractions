@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.burns.2016.09.031","type":"err"},"doi":"10.1016/j.burns.2014.02.002","journal":"Burns","publisher":"Elsevier BV","title":"Corrigendum to “A clinical trial designed to evaluate the safety and effectiveness of a thermosensitive hydrogel-type cultured epidermal allograft for deep second-degree burns” [Burns 40 (December (8)) (2014) 1642–1649]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495650143743,
+      "identifier": {
+        "doi": "10.1016/j.burns.2016.09.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.burns.2014.02.002"
+  },
+  "journal": "Burns",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A clinical trial designed to evaluate the safety and effectiveness of a thermosensitive hydrogel-type cultured epidermal allograft for deep second-degree burns” [Burns 40 (December (8)) (2014) 1642–1649]"
+}

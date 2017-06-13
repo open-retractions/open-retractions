@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320883200000,"doi":"10.1371/annotation/dd83fe6c-b41e-4c8a-8430-7f2e6ea6b5de","type":"correction"},"doi":"10.1371/journal.pone.0026703","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Effects of Non-Local Diffusion on Structural MRI Preprocessing and Default Network Mapping: Statistical Comparisons with Isotropic/Anisotropic Diffusion"}
+{
+  "retracted": false,
+  "timestamp": 1320883200000,
+  "updates": [
+    {
+      "timestamp": 1495828408691,
+      "identifier": {
+        "doi": "10.1371/annotation/dd83fe6c-b41e-4c8a-8430-7f2e6ea6b5de"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0026703"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effects of Non-Local Diffusion on Structural MRI Preprocessing and Default Network Mapping: Statistical Comparisons with Isotropic/Anisotropic Diffusion"
+}

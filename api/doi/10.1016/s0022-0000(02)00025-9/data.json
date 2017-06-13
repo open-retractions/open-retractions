@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.jcss.2013.09.002","type":"err"},"doi":"10.1016/s0022-0000(02)00025-9","journal":"Journal of Computer and System Sciences","publisher":"Elsevier BV","title":"Corrigendum to “Uniform constant-depth threshold circuits for division and iterated multiplication” [J. Comput. System Sci. 65 (4) (2002) 695–716]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496047814128,
+      "identifier": {
+        "doi": "10.1016/j.jcss.2013.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0022-0000(02)00025-9"
+  },
+  "journal": "Journal of Computer and System Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Uniform constant-depth threshold circuits for division and iterated multiplication” [J. Comput. System Sci. 65 (4) (2002) 695–716]"
+}

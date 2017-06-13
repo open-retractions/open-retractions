@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":765158400000,"doi":"10.1063/1.870791","type":"erratum"},"doi":"10.1063/1.859755","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: ‘‘Collisionless two‐fluid theory of toroidal ηi stability’’ [Phys. Fluids B 3, 3248 (1991)]"}
+{
+  "retracted": false,
+  "timestamp": 765158400000,
+  "updates": [
+    {
+      "timestamp": 1495866531828,
+      "identifier": {
+        "doi": "10.1063/1.870791"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.859755"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘Collisionless two‐fluid theory of toroidal               ηi stability’’ [Phys. Fluids B 3, 3248           (1991)]"
+}

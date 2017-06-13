@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1333411200000,"doi":"10.1073/pnas.1206295109","type":"correction"},"doi":"10.1073/pnas.1119912109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Fernandez-Fueyo et al., Comparative genomics of Ceriporiopsis subvermispora and Phanerochaete chrysosporium provide insight into selective ligninolysis"}
+{
+  "retracted": false,
+  "timestamp": 1333411200000,
+  "updates": [
+    {
+      "timestamp": 1495902603841,
+      "identifier": {
+        "doi": "10.1073/pnas.1206295109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1119912109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Fernandez-Fueyo et al., Comparative genomics of Ceriporiopsis subvermispora and Phanerochaete chrysosporium provide insight into selective ligninolysis"
+}

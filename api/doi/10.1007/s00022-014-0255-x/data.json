@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1007/s00022-015-0297-8","type":"correction"},"doi":"10.1007/s00022-014-0255-x","journal":"Journal of Geometry","publisher":"Springer Nature","title":"Erratum to: Möbius photogrammetry"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496042056227,
+      "identifier": {
+        "doi": "10.1007/s00022-015-0297-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00022-014-0255-x"
+  },
+  "journal": "Journal of Geometry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Möbius photogrammetry"
+}

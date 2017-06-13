@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1016/j.phytochem.2014.12.001","type":"err"},"doi":"10.1016/j.phytochem.2014.06.018","journal":"Phytochemistry","publisher":"Elsevier BV","title":"Corrigendum to “Extracellular lipids of Camelina sativa: Characterization of chloroform-extractable waxes from aerial and subterranean surfaces” [Phytochemistry 106C (2014) 188–196]"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496035544625,
+      "identifier": {
+        "doi": "10.1016/j.phytochem.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phytochem.2014.06.018"
+  },
+  "journal": "Phytochemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Extracellular lipids of Camelina sativa: Characterization of chloroform-extractable waxes from aerial and subterranean surfaces” [Phytochemistry 106C (2014) 188–196]"
+}

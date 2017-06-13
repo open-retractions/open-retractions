@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.indcrop.2014.12.037","type":"err"},"doi":"10.1016/j.indcrop.2014.04.045","journal":"Industrial Crops and Products","publisher":"Elsevier BV","title":"Erratum to “Optimization of resin extraction from an Australian arid grass ‘Triodia pungens’ and its preliminary evaluation as an anti-termite timber coating” [Ind. Crops Prod. 59 (2014) 241–247]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496035243442,
+      "identifier": {
+        "doi": "10.1016/j.indcrop.2014.12.037"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.indcrop.2014.04.045"
+  },
+  "journal": "Industrial Crops and Products",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Optimization of resin extraction from an Australian arid grass ‘Triodia pungens’ and its preliminary evaluation as an anti-termite timber coating” [Ind. Crops Prod. 59 (2014) 241–247]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.chemosphere.2013.12.002","type":"err"},"doi":"10.1016/j.chemosphere.2013.09.113","journal":"Chemosphere","publisher":"Elsevier BV","title":"Corrigendum to “Trace elements in the pollen of Ambrosia artemisiifolia: What is the effect of soil concentrations?” [Chemosphere 95 (2014) 541–549]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496001643231,
+      "identifier": {
+        "doi": "10.1016/j.chemosphere.2013.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemosphere.2013.09.113"
+  },
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Trace elements in the pollen of Ambrosia artemisiifolia: What is the effect of soil concentrations?” [Chemosphere 95 (2014) 541–549]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1437782400000,"doi":"10.3109/14764172.2015.1073521","type":"correction"},"doi":"10.3109/14764172.2014.949273","journal":"Journal of Cosmetic and Laser Therapy","publisher":"Informa Healthcare","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1437782400000,
+  "updates": [
+    {
+      "timestamp": 1496025275215,
+      "identifier": {
+        "doi": "10.3109/14764172.2015.1073521"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/14764172.2014.949273"
+  },
+  "journal": "Journal of Cosmetic and Laser Therapy",
+  "publisher": "Informa Healthcare",
+  "title": "Corrigendum"
+}

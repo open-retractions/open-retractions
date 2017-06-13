@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455494400000,"doi":"10.1016/j.scitotenv.2015.12.066","type":"err"},"doi":"10.1016/j.scitotenv.2015.10.044","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “Spatiotemporal patterns of livestock manure nutrient production in the conterminous United States from 1930 to 2012” [Science of the Total Environment Vol <541>, <January 2016>, Pages 1592–1602]"}
+{
+  "retracted": false,
+  "timestamp": 1455494400000,
+  "updates": [
+    {
+      "timestamp": 1496057119318,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2015.12.066"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2015.10.044"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Spatiotemporal patterns of livestock manure nutrient production in the conterminous United States from 1930 to 2012” [Science of the Total Environment Vol <541>, <January 2016>, Pages 1592–1602]"
+}

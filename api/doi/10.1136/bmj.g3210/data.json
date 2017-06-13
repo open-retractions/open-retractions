@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400025600000,"doi":"10.1136/bmj.g3319","type":"correction"},"doi":"10.1136/bmj.g3210","journal":"BMJ","publisher":"BMJ","title":"Excellence in healthcare is celebrated at The BMJ Awards 2014"}
+{
+  "retracted": false,
+  "timestamp": 1400025600000,
+  "updates": [
+    {
+      "timestamp": 1496038530869,
+      "identifier": {
+        "doi": "10.1136/bmj.g3319"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g3210"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Excellence in healthcare is celebrated at The BMJ Awards 2014"
+}

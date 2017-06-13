@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459987200000,"doi":"10.1016/j.molcel.2016.03.015","type":"erratum"},"doi":"10.1016/j.molcel.2016.02.007","journal":"Molecular Cell","publisher":"Elsevier BV","title":"TRIM21 Ubiquitylates SQSTM1/p62 and Suppresses Protein Sequestration to Regulate Redox Homeostasis"}
+{
+  "retracted": false,
+  "timestamp": 1459987200000,
+  "updates": [
+    {
+      "timestamp": 1495663111236,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2016.03.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2016.02.007"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "TRIM21 Ubiquitylates SQSTM1/p62 and Suppresses Protein Sequestration to Regulate Redox Homeostasis"
+}

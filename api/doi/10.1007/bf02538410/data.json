@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390348800000,"doi":"10.1007/bf02538404","type":"correction"},"doi":"10.1007/bf02538410","journal":"Journal of Geodesy","publisher":"Springer Nature","title":"Erratum to: On separability for deformations and gross errors"}
+{
+  "retracted": false,
+  "timestamp": 1390348800000,
+  "updates": [
+    {
+      "timestamp": 1495924960599,
+      "identifier": {
+        "doi": "10.1007/bf02538404"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02538410"
+  },
+  "journal": "Journal of Geodesy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On separability for deformations and gross errors"
+}

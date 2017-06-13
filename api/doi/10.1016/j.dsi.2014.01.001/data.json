@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.dsi.2015.04.003","type":"err"},"doi":"10.1016/j.dsi.2014.01.001","journal":"Dermatologica Sinica","publisher":"Elsevier BV","title":"Corrigendum to “Ticlopidine-induced subacute cutaneous lupus erythematosus: A case report and literature review” [Dermatol. Sin. 32 (2014) 183–186]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496009688077,
+      "identifier": {
+        "doi": "10.1016/j.dsi.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsi.2014.01.001"
+  },
+  "journal": "Dermatologica Sinica",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ticlopidine-induced subacute cutaneous lupus erythematosus: A case report and literature review” [Dermatol. Sin. 32 (2014) 183–186]"
+}

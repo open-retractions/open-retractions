@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455667200000,"doi":"10.1186/s13045-016-0239-4","type":"correction"},"doi":"10.1186/s13045-015-0203-8","journal":"Journal of Hematology & Oncology","publisher":"Springer Nature","title":"Erratum to: NLK functions to maintain proliferation and stemness of NSCLC and is a target of metformin"}
+{
+  "retracted": false,
+  "timestamp": 1455667200000,
+  "updates": [
+    {
+      "timestamp": 1495645318668,
+      "identifier": {
+        "doi": "10.1186/s13045-016-0239-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13045-015-0203-8"
+  },
+  "journal": "Journal of Hematology & Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: NLK functions to maintain proliferation and stemness of NSCLC and is a target of metformin"
+}

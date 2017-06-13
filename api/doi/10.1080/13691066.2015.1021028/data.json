@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442534400000,"doi":"10.1080/13691066.2015.1087095","type":"correction"},"doi":"10.1080/13691066.2015.1021028","journal":"Venture Capital","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1442534400000,
+  "updates": [
+    {
+      "timestamp": 1496031404819,
+      "identifier": {
+        "doi": "10.1080/13691066.2015.1087095"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13691066.2015.1021028"
+  },
+  "journal": "Venture Capital",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

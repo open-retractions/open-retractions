@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.coms.2016.08.002","type":"err"},"doi":"10.1016/j.coms.2016.03.002","journal":"Oral and Maxillofacial Surgery Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495648767382,
+      "identifier": {
+        "doi": "10.1016/j.coms.2016.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coms.2016.03.002"
+  },
+  "journal": "Oral and Maxillofacial Surgery Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

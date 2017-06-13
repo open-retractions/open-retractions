@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491264000000,"doi":"10.1186/s12859-017-1618-8","type":"correction"},"doi":"10.1186/s12859-017-1581-4","journal":"BMC Bioinformatics","publisher":"Springer Nature","title":"Erratum to: Guide Picker is a comprehensive design tool for visualizing and selecting guides for CRISPR experiments"}
+{
+  "retracted": false,
+  "timestamp": 1491264000000,
+  "updates": [
+    {
+      "timestamp": 1495735811379,
+      "identifier": {
+        "doi": "10.1186/s12859-017-1618-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12859-017-1581-4"
+  },
+  "journal": "BMC Bioinformatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Guide Picker is a comprehensive design tool for visualizing and selecting guides for CRISPR experiments"
+}

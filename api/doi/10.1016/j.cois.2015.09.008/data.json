@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.cois.2016.01.008","type":"erratum"},"doi":"10.1016/j.cois.2015.09.008","journal":"Current Opinion in Insect Science","publisher":"Elsevier BV","title":"Corrigendum to “Future-proofing insect diversity” [Curr. Opin. Insect Sci. 12 (2015) 71-18]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495639220301,
+      "identifier": {
+        "doi": "10.1016/j.cois.2016.01.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cois.2015.09.008"
+  },
+  "journal": "Current Opinion in Insect Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Future-proofing insect diversity” [Curr. Opin. Insect Sci. 12 (2015) 71-18]"
+}

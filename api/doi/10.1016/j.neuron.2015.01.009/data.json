@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428451200000,"doi":"10.1016/j.neuron.2015.03.043","type":"err"},"doi":"10.1016/j.neuron.2015.01.009","journal":"Neuron","publisher":"Elsevier BV","title":"Lysophosphatidic Acid Signaling in the Nervous System"}
+{
+  "retracted": false,
+  "timestamp": 1428451200000,
+  "updates": [
+    {
+      "timestamp": 1496055678961,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2015.03.043"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2015.01.009"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Lysophosphatidic Acid Signaling in the Nervous System"
+}

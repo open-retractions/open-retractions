@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455753600000,"doi":"10.1007/s12410-016-9375-z","type":"correction"},"doi":"10.1007/s12410-015-9363-8","journal":"Current Cardiovascular Imaging Reports","publisher":"Springer Nature","title":"Erratum to: Nuclear Cardiology in the Management of Patients with Heart Failure"}
+{
+  "retracted": false,
+  "timestamp": 1455753600000,
+  "updates": [
+    {
+      "timestamp": 1495645881782,
+      "identifier": {
+        "doi": "10.1007/s12410-016-9375-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12410-015-9363-8"
+  },
+  "journal": "Current Cardiovascular Imaging Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nuclear Cardiology in the Management of Patients with Heart Failure"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1145923200000,"doi":"10.1371/journal.pbio.0040217","type":"correction"},"doi":"10.1371/journal.pbio.0040174","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Interphase Chromosomes Mingle with Their Peers"}
+{
+  "retracted": false,
+  "timestamp": 1145923200000,
+  "updates": [
+    {
+      "timestamp": 1495855618054,
+      "identifier": {
+        "doi": "10.1371/journal.pbio.0040217"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0040174"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Interphase Chromosomes Mingle with Their Peers"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1007/s10482-016-0739-9","type":"correction"},"doi":"10.1007/s10482-016-0717-2","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Abyssicoccus albus gen. nov., sp. nov., a novel member of the family Staphylococcaceae isolated from marine sediment of the Indian Ocean"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495735581987,
+      "identifier": {
+        "doi": "10.1007/s10482-016-0739-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-016-0717-2"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Abyssicoccus albus gen. nov., sp. nov., a novel member of the family Staphylococcaceae isolated from marine sediment of the Indian Ocean"
+}

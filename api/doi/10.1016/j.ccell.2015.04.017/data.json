@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439164800000,"doi":"10.1016/j.ccell.2015.07.009","type":"err"},"doi":"10.1016/j.ccell.2015.04.017","journal":"Cancer Cell","publisher":"Elsevier BV","title":"A Functional Role for VEGFR1 Expressed in Peripheral Sensory Neurons in Cancer Pain"}
+{
+  "retracted": false,
+  "timestamp": 1439164800000,
+  "updates": [
+    {
+      "timestamp": 1496021201157,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2015.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2015.04.017"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "A Functional Role for VEGFR1 Expressed in Peripheral Sensory Neurons in Cancer Pain"
+}

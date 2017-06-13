@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466035200000,"doi":"10.1080/10106049.2015.1133258","type":"correction"},"doi":"10.1080/10106049.2015.1094524","journal":"Geocarto International","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1466035200000,
+  "updates": [
+    {
+      "timestamp": 1495720809982,
+      "identifier": {
+        "doi": "10.1080/10106049.2015.1133258"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10106049.2015.1094524"
+  },
+  "journal": "Geocarto International",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

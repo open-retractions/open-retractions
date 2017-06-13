@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jss.2015.05.054","type":"err"},"doi":"10.1016/j.jss.2010.10.039","journal":"Journal of Surgical Research","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496009144217,
+      "identifier": {
+        "doi": "10.1016/j.jss.2015.05.054"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jss.2010.10.039"
+  },
+  "journal": "Journal of Surgical Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1007/s10845-015-1131-8","type":"correction"},"doi":"10.1007/s10845-015-1120-y","journal":"Journal of Intelligent Manufacturing","publisher":"Springer Nature","title":"Erratum to: Implementation of QFD method in quality analysis of confectionery products"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496018998448,
+      "identifier": {
+        "doi": "10.1007/s10845-015-1131-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10845-015-1120-y"
+  },
+  "journal": "Journal of Intelligent Manufacturing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Implementation of QFD method in quality analysis of confectionery products"
+}

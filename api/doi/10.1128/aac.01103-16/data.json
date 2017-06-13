@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1128/aac.01353-16","type":"correction"},"doi":"10.1128/aac.01103-16","journal":"Antimicrobial Agents and Chemotherapy","publisher":"American Society for Microbiology","title":"Erratum for McGann et al., Escherichia coli Harboringmcr-1andblaCTX-Mon a Novel IncF Plasmid: First Report ofmcr-1in the United States"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495731432093,
+      "identifier": {
+        "doi": "10.1128/aac.01353-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/aac.01103-16"
+  },
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "title": "Erratum for McGann et al., Escherichia coli Harboringmcr-1andblaCTX-Mon a Novel IncF Plasmid: First Report ofmcr-1in the United States"
+}

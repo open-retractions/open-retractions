@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403049600000,"doi":"10.1080/1350486x.2013.833371","type":"correction"},"doi":"10.1080/1350486x.2013.820524","journal":"Applied Mathematical Finance","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1403049600000,
+  "updates": [
+    {
+      "timestamp": 1496038664281,
+      "identifier": {
+        "doi": "10.1080/1350486x.2013.833371"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1350486x.2013.820524"
+  },
+  "journal": "Applied Mathematical Finance",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

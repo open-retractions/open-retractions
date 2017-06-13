@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395619200000,"doi":"10.1080/10255842.2014.899813","type":"correction"},"doi":"10.1080/10255842.2014.881475","journal":"Computer Methods in Biomechanics and Biomedical Engineering","publisher":"Informa UK Limited","title":"Corrigendum to ‘An orthotropic viscoelastic material model for passive myocardium: theory and algorithmic treatment’"}
+{
+  "retracted": false,
+  "timestamp": 1395619200000,
+  "updates": [
+    {
+      "timestamp": 1496027974542,
+      "identifier": {
+        "doi": "10.1080/10255842.2014.899813"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10255842.2014.881475"
+  },
+  "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum to ‘An orthotropic viscoelastic material model for passive myocardium: theory and algorithmic treatment’"
+}

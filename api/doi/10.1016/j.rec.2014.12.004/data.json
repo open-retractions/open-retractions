@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.rec.2015.02.002","type":"err"},"doi":"10.1016/j.rec.2014.12.004","journal":"Revista Española de Cardiología (English Edition)","publisher":"Elsevier BV","title":"Correction in article “Comments on the 2014 ESC/EACTS Guidelines on Myocardial Revascularization”"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496046430209,
+      "identifier": {
+        "doi": "10.1016/j.rec.2015.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rec.2014.12.004"
+  },
+  "journal": "Revista Española de Cardiología (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Correction in article “Comments on the 2014 ESC/EACTS Guidelines on Myocardial Revascularization”"
+}

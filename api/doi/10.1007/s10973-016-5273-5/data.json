@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1007/s10973-016-5403-0","type":"correction"},"doi":"10.1007/s10973-016-5273-5","journal":"Journal of Thermal Analysis and Calorimetry","publisher":"Springer Nature","title":"Erratum to: Thermal diffusivity identification by 2nd derivative analysis of transient temperature profile"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495658368017,
+      "identifier": {
+        "doi": "10.1007/s10973-016-5403-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10973-016-5273-5"
+  },
+  "journal": "Journal of Thermal Analysis and Calorimetry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Thermal diffusivity identification by 2nd derivative analysis of transient temperature profile"
+}

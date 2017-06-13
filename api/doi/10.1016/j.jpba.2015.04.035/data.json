@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1016/j.jpba.2016.02.002","type":"err"},"doi":"10.1016/j.jpba.2015.04.035","journal":"Journal of Pharmaceutical and Biomedical Analysis","publisher":"Elsevier BV","title":"Corrigendum to “GC–MS based metabolomics study of stems and roots of Ephedra sinica” [J. Pharm. Biomed. Anal. 114 (2015) 49–52]"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495643852415,
+      "identifier": {
+        "doi": "10.1016/j.jpba.2016.02.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpba.2015.04.035"
+  },
+  "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “GC–MS based metabolomics study of stems and roots of Ephedra sinica” [J. Pharm. Biomed. Anal. 114 (2015) 49–52]"
+}

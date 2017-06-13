@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.margeo.2015.02.015","type":"err"},"doi":"10.1016/j.margeo.2014.11.007","journal":"Marine Geology","publisher":"Elsevier BV","title":"Corrigendum to “Geochemical constraints on the provenance of surface sediments of radial sand ridges off the Jiangsu coastal zone, East China” [Mar. Geol. 359 (2015) 35–49]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496047564710,
+      "identifier": {
+        "doi": "10.1016/j.margeo.2015.02.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.margeo.2014.11.007"
+  },
+  "journal": "Marine Geology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Geochemical constraints on the provenance of surface sediments of radial sand ridges off the Jiangsu coastal zone, East China” [Mar. Geol. 359 (2015) 35–49]"
+}

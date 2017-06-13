@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451001600000,"doi":"10.1016/j.bbrc.2015.11.049","type":"err"},"doi":"10.1016/j.bbrc.2015.08.017","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Human RNA polymerase II associated factor 1 complex promotes tumorigenesis by activating c-MYC transcription in non-small cell lung cancer” [YBBRC 465 (4) (2015) 685–690]"}
+{
+  "retracted": false,
+  "timestamp": 1451001600000,
+  "updates": [
+    {
+      "timestamp": 1496047821730,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.11.049"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2015.08.017"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Human RNA polymerase II associated factor 1 complex promotes tumorigenesis by activating c-MYC transcription in non-small cell lung cancer” [YBBRC 465 (4) (2015) 685–690]"
+}

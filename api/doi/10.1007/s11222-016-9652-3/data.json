@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1007/s11222-016-9686-6","type":"correction"},"doi":"10.1007/s11222-016-9652-3","journal":"Statistics and Computing","publisher":"Springer Nature","title":"Erratum to: Computationally tractable approximate and smoothed Polya trees"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649337678,
+      "identifier": {
+        "doi": "10.1007/s11222-016-9686-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11222-016-9652-3"
+  },
+  "journal": "Statistics and Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Computationally tractable approximate and smoothed Polya trees"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1073/pnas.1703146114","type":"correction"},"doi":"10.1073/pnas.1700616114","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Nielsen et al., Opinion: Gender diversity leads to better science"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495728712889,
+      "identifier": {
+        "doi": "10.1073/pnas.1703146114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1700616114"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Nielsen et al., Opinion: Gender diversity leads to better science"
+}

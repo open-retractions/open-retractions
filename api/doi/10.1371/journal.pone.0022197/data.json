@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1349913600000,"doi":"10.1371/annotation/5aa90741-1a8a-4443-83b1-c5abcb59bb51","type":"correction"},"doi":"10.1371/journal.pone.0022197","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Reprogrammed Transcriptome in Rhesus-Bovine Interspecies Somatic Cell Nuclear Transfer Embryos"}
+{
+  "retracted": false,
+  "timestamp": 1349913600000,
+  "updates": [
+    {
+      "timestamp": 1495962402857,
+      "identifier": {
+        "doi": "10.1371/annotation/5aa90741-1a8a-4443-83b1-c5abcb59bb51"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0022197"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Reprogrammed Transcriptome in Rhesus-Bovine Interspecies Somatic Cell Nuclear Transfer Embryos"
+}

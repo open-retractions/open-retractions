@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.2337/dc14-er02c","type":"correction"},"doi":"10.2337/dc12-0679","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Reduction in Carotid Intima-Media Thickness After Pancreatic Islet Transplantation in Patients With Type 1 Diabetes. Diabetes Care 2013;36:450-456"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496014968612,
+      "identifier": {
+        "doi": "10.2337/dc14-er02c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc12-0679"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Reduction in Carotid Intima-Media Thickness After Pancreatic Islet Transplantation in Patients With Type 1 Diabetes. Diabetes Care 2013;36:450-456"
+}

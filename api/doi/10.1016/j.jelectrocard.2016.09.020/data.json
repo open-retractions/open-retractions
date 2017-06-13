@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jelectrocard.2017.01.003","type":"erratum"},"doi":"10.1016/j.jelectrocard.2016.09.020","journal":"Journal of Electrocardiology","publisher":"Elsevier BV","title":"Corrigendum to “QTc prolongation may be a late biomarker of orthotopic heart transplantation (OHT) rejection” [J Electrocardiol 49 (2016) 928–929]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495730575632,
+      "identifier": {
+        "doi": "10.1016/j.jelectrocard.2017.01.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jelectrocard.2016.09.020"
+  },
+  "journal": "Journal of Electrocardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “QTc prolongation may be a late biomarker of orthotopic heart transplantation (OHT) rejection” [J Electrocardiol 49 (2016) 928–929]"
+}

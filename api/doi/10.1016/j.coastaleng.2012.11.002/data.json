@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367366400000,"doi":"10.1016/j.coastaleng.2013.01.005","type":"err"},"doi":"10.1016/j.coastaleng.2012.11.002","journal":"Coastal Engineering","publisher":"Elsevier BV","title":"Corrigendum to “A simple equilibrium model for predicting shoreline change” [Coast. Eng. 73 (2013) 191–202]"}
+{
+  "retracted": false,
+  "timestamp": 1367366400000,
+  "updates": [
+    {
+      "timestamp": 1495994456357,
+      "identifier": {
+        "doi": "10.1016/j.coastaleng.2013.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.coastaleng.2012.11.002"
+  },
+  "journal": "Coastal Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A simple equilibrium model for predicting shoreline change” [Coast. Eng. 73 (2013) 191–202]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1389571200000,"doi":"10.1063/1.4861731","type":"correction"},"doi":"10.1063/1.4847495","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Applications of electrostatic capacitance and charging” [J. Appl. Phys. 114, 224904 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1389571200000,
+  "updates": [
+    {
+      "timestamp": 1496009924267,
+      "identifier": {
+        "doi": "10.1063/1.4861731"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4847495"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Applications of electrostatic capacitance and charging” [J. Appl. Phys. 114, 224904 (2013)]"
+}

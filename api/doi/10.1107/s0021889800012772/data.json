@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":980985600000,"doi":"10.1107/s0021889800020203","type":"correction"},"doi":"10.1107/s0021889800012772","journal":"Journal of Applied Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"A new version of the method for analysing peak broadening caused by local tilt distribution in double-crystal X-ray diffraction measurements. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 980985600000,
+  "updates": [
+    {
+      "timestamp": 1495915865311,
+      "identifier": {
+        "doi": "10.1107/s0021889800020203"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0021889800012772"
+  },
+  "journal": "Journal of Applied Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "A new version of the method for analysing peak broadening caused by local tilt distribution in double-crystal X-ray diffraction measurements. Erratum"
+}

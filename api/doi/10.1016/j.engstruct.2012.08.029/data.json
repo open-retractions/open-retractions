@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372636800000,"doi":"10.1016/j.engstruct.2013.02.025","type":"err"},"doi":"10.1016/j.engstruct.2012.08.029","journal":"Engineering Structures","publisher":"Elsevier BV","title":"Corrigendum to “Simple numerical model with second order effects for out-of-plane loaded masonry walls” [Eng Struct 48 (2013) 98–120]"}
+{
+  "retracted": false,
+  "timestamp": 1372636800000,
+  "updates": [
+    {
+      "timestamp": 1496005296687,
+      "identifier": {
+        "doi": "10.1016/j.engstruct.2013.02.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.engstruct.2012.08.029"
+  },
+  "journal": "Engineering Structures",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simple numerical model with second order effects for out-of-plane loaded masonry walls” [Eng Struct 48 (2013) 98–120]"
+}

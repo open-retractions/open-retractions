@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366675200000,"doi":"10.1063/1.4803125","type":"correction"},"doi":"10.1063/1.4795768","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Grain boundary diffusivity of Ni in Au thin films and the associated degradation in electrical contact resistance due to surface oxide film formation” [J. Appl. Phys. 113, 114906 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1366675200000,
+  "updates": [
+    {
+      "timestamp": 1496014351705,
+      "identifier": {
+        "doi": "10.1063/1.4803125"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4795768"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Grain boundary diffusivity of Ni in Au thin films and the associated degradation in electrical contact resistance due to surface oxide film formation” [J. Appl. Phys. 113, 114906 (2013)]"
+}

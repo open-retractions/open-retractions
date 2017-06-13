@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1388534400000,"update":{"timestamp":null,"doi":null,"pmid":26866068,"type":"retraction"},"doi":"10.1016/j.envres.2013.11.001","journal":"Environmental research","publisher":null,"title":"Submicrometer particles and their effects on the association between air temperature and mortality in Brisbane, Australia."}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496041454102,
+      "identifier": {
+        "doi": "10.1016/j.envres.2015.09.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.envres.2013.11.001"
+  },
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Submicrometer particles and their effects on the association between air temperature and mortality in Brisbane, Australia” [Environ. Res. 128 (2014) 853–860]"
+}

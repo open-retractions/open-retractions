@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":975628800000,"doi":"10.1107/s090744490001739x","type":"correction"},"doi":"10.1107/s0907444900011501","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"The atomic resolution structure of bucandin, a novel toxin isolated from the Malayan krait, determined by direct methods. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 975628800000,
+  "updates": [
+    {
+      "timestamp": 1495878227430,
+      "identifier": {
+        "doi": "10.1107/s090744490001739x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444900011501"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "The atomic resolution structure of bucandin, a novel toxin isolated from the Malayan krait, determined by direct methods. Erratum"
+}

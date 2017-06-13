@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.jhydrol.2015.04.031","type":"err"},"doi":"10.1016/j.jhydrol.2015.01.069","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Change in event-scale hydrologic response in two urbanizing watersheds of the Great Lakes St Lawrence Basin 1969–2010"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496001993111,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2015.04.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2015.01.069"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Change in event-scale hydrologic response in two urbanizing watersheds of the Great Lakes St Lawrence Basin 1969–2010"
+}

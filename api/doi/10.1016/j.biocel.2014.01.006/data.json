@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.biocel.2014.05.005","type":"err"},"doi":"10.1016/j.biocel.2014.01.006","journal":"The International Journal of Biochemistry & Cell Biology","publisher":"Elsevier BV","title":"Erratum to “Ribosomal protein deficiency causes Tp53-independenterythropoiesis failure in zebrafish” [Int. J. Biochem. Cell Biol. 49 (2014) 1–7]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496037944150,
+      "identifier": {
+        "doi": "10.1016/j.biocel.2014.05.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biocel.2014.01.006"
+  },
+  "journal": "The International Journal of Biochemistry & Cell Biology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Ribosomal protein deficiency causes Tp53-independenterythropoiesis failure in zebrafish” [Int. J. Biochem. Cell Biol. 49 (2014) 1–7]"
+}

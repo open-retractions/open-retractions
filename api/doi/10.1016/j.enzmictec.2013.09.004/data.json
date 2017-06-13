@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391558400000,"doi":"10.1016/j.enzmictec.2013.11.002","type":"err"},"doi":"10.1016/j.enzmictec.2013.09.004","journal":"Enzyme and Microbial Technology","publisher":"Elsevier BV","title":"Corrigendum to “Thermostabilization of extremophilic Dictyoglomus thermophilum GH11 xylanase by an N-terminal disulfide bridge and the effect of ionic liquid [emim]OAc on the enzymatic performance” [Enzyme Microb. Technol. 53 (2013) 414–419]"}
+{
+  "retracted": false,
+  "timestamp": 1391558400000,
+  "updates": [
+    {
+      "timestamp": 1496000365969,
+      "identifier": {
+        "doi": "10.1016/j.enzmictec.2013.11.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enzmictec.2013.09.004"
+  },
+  "journal": "Enzyme and Microbial Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Thermostabilization of extremophilic Dictyoglomus thermophilum GH11 xylanase by an N-terminal disulfide bridge and the effect of ionic liquid [emim]OAc on the enzymatic performance” [Enzyme Microb. Technol. 53 (2013) 414–419]"
+}

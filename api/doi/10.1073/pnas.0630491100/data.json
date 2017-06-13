@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1045526400000,"doi":"10.1073/pnas.1206993109","type":"correction"},"doi":"10.1073/pnas.0630491100","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Journal Editors and Authors Group, Uncensored exchange of scientific results"}
+{
+  "retracted": false,
+  "timestamp": 1045526400000,
+  "updates": [
+    {
+      "timestamp": 1495904584025,
+      "identifier": {
+        "doi": "10.1073/pnas.1206993109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0630491100"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Journal Editors and Authors Group, Uncensored exchange of scientific results"
+}

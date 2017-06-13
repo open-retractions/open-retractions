@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1312502400000,"doi":"10.1371/annotation/ba9082c9-69ee-43ac-81f0-5d71c3a01028","type":"correction"},"doi":"10.1371/journal.pone.0022856","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Comprehensive Gene Expression Analysis of Human Embryonic Stem Cells during Differentiation into Neural Cells"}
+{
+  "retracted": false,
+  "timestamp": 1312502400000,
+  "updates": [
+    {
+      "timestamp": 1495974066324,
+      "identifier": {
+        "doi": "10.1371/annotation/ba9082c9-69ee-43ac-81f0-5d71c3a01028"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0022856"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Comprehensive Gene Expression Analysis of Human Embryonic Stem Cells during Differentiation into Neural Cells"
+}

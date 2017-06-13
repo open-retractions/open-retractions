@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":725155200000,"update":{"timestamp":null,"doi":null,"pmid":8152468,"type":"retraction"},"doi":"10.1038/360745a0","journal":"Nature","publisher":null,"title":"Formation of haematopoietic microenvironment and haematopoietic stem cells from single human bone marrow stem cells."}
+{
+  "retracted": false,
+  "timestamp": 766281600000,
+  "updates": [
+    {
+      "timestamp": 1497058808188,
+      "identifier": {
+        "doi": "10.1038/368664a0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/360745a0"
+  },
+  "journal": "Nature",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Formation of haematopoietic micro-environment and haematopoietic stem cells from single human bone marrow stem cells\n"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474848000000,"doi":"10.1080/00207721.2017.1237406","type":"correction"},"doi":"10.1080/00207721.2016.1218092","journal":"International Journal of Systems Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1474848000000,
+  "updates": [
+    {
+      "timestamp": 1495643402623,
+      "identifier": {
+        "doi": "10.1080/00207721.2017.1237406"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00207721.2016.1218092"
+  },
+  "journal": "International Journal of Systems Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

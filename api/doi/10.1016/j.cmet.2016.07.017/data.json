@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473724800000,"doi":"10.1016/j.cmet.2016.08.007","type":"erratum"},"doi":"10.1016/j.cmet.2016.07.017","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Sex and Gender: Critical Variables in Pre-Clinical and Clinical Medical Research"}
+{
+  "retracted": false,
+  "timestamp": 1473724800000,
+  "updates": [
+    {
+      "timestamp": 1495639687681,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2016.08.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2016.07.017"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Sex and Gender: Critical Variables in Pre-Clinical and Clinical Medical Research"
+}

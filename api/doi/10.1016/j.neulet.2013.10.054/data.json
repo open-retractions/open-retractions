@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395273600000,"doi":"10.1016/j.neulet.2014.01.044","type":"erratum"},"doi":"10.1016/j.neulet.2013.10.054","journal":"Neuroscience Letters","publisher":"Elsevier BV","title":"Corrigendum to “Retinal nerve fiber layer thickness profiles associated with ocular laterality and dominance” [Neurosci. Lett. 558 (2013) 197–202]"}
+{
+  "retracted": false,
+  "timestamp": 1395273600000,
+  "updates": [
+    {
+      "timestamp": 1496016100763,
+      "identifier": {
+        "doi": "10.1016/j.neulet.2014.01.044"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neulet.2013.10.054"
+  },
+  "journal": "Neuroscience Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Retinal nerve fiber layer thickness profiles associated with ocular laterality and dominance” [Neurosci. Lett. 558 (2013) 197–202]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1142812800000,"doi":"10.1063/1.2187399","type":"erratum"},"doi":"10.1063/1.1872219","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Magnetocapacitance probing of the many-particle states in InAs dots” [Appl. Phys. Lett. 86, 092104 (2005)]"}
+{
+  "retracted": false,
+  "timestamp": 1142812800000,
+  "updates": [
+    {
+      "timestamp": 1495977653417,
+      "identifier": {
+        "doi": "10.1063/1.2187399"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1872219"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Magnetocapacitance probing of the many-particle states in               InAs dots” [Appl. Phys. Lett. 86, 092104           (2005)]"
+}

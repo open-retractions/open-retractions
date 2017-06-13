@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456876800000,"doi":"10.1088/0953-8984/28/12/129502","type":"correction"},"doi":"10.1088/0953-8984/27/50/505401","journal":"Journal of Physics: Condensed Matter","publisher":"IOP Publishing","title":"Erratum: Monte Carlo simulation of diffusion and ionic conductivity in a simple cubic random alloy via the interstitialcy mechanism (2015J. Phys.: Condens. Matter27505401)"}
+{
+  "retracted": false,
+  "timestamp": 1456876800000,
+  "updates": [
+    {
+      "timestamp": 1495650107249,
+      "identifier": {
+        "doi": "10.1088/0953-8984/28/12/129502"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0953-8984/27/50/505401"
+  },
+  "journal": "Journal of Physics: Condensed Matter",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Monte Carlo simulation of diffusion and ionic conductivity in a simple cubic random alloy via the interstitialcy mechanism (2015J. Phys.: Condens. Matter27505401)"
+}

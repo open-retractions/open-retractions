@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1254960000000,"doi":"10.1371/annotation/a7ab5bb8-c3bb-4f01-aa34-65cc53af065d","type":"correction"},"doi":"10.1371/journal.pmed.1000048","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: A World Malaria Map: Plasmodium falciparum Endemicity in 2007"}
+{
+  "retracted": false,
+  "timestamp": 1254960000000,
+  "updates": [
+    {
+      "timestamp": 1497021752101,
+      "identifier": {
+        "doi": "10.1371/annotation/a7ab5bb8-c3bb-4f01-aa34-65cc53af065d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.1000048"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A World Malaria Map: Plasmodium falciparum Endemicity in 2007"
+}

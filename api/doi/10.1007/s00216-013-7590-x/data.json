@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395446400000,"doi":"10.1007/s00216-014-7737-4","type":"correction"},"doi":"10.1007/s00216-013-7590-x","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Quantification of micafungin in human plasma by liquid chromatography-tandem mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1395446400000,
+  "updates": [
+    {
+      "timestamp": 1496027081875,
+      "identifier": {
+        "doi": "10.1007/s00216-014-7737-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-013-7590-x"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantification of micafungin in human plasma by liquid chromatography-tandem mass spectrometry"
+}

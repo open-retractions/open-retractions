@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1378684800000,"doi":"10.1063/1.4820790","type":"correction"},"doi":"10.1063/1.3559719","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Moments of the distribution of distance” [J. Math. Phys. 52, 033505 (2011)]"}
+{
+  "retracted": false,
+  "timestamp": 1378684800000,
+  "updates": [
+    {
+      "timestamp": 1496045342614,
+      "identifier": {
+        "doi": "10.1063/1.4820790"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3559719"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Moments of the distribution of distance” [J. Math. Phys. 52, 033505 (2011)]"
+}

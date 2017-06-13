@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457654400000,"doi":"10.1371/journal.pcbi.1004835","type":"correction"},"doi":"10.1371/journal.pcbi.1004736","journal":"PLOS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Inferring Neuronal Dynamics from Calcium Imaging Data Using Biophysical Models and Bayesian Inference"}
+{
+  "retracted": false,
+  "timestamp": 1457654400000,
+  "updates": [
+    {
+      "timestamp": 1495652032514,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004835"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1004736"
+  },
+  "journal": "PLOS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Inferring Neuronal Dynamics from Calcium Imaging Data Using Biophysical Models and Bayesian Inference"
+}

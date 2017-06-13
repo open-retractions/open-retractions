@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1201132800000,"doi":"10.1007/bf02799090","type":"correction"},"doi":"10.1007/bf02745324","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Simple tests for proposed interior Kerr metrics"}
+{
+  "retracted": false,
+  "timestamp": 1201132800000,
+  "updates": [
+    {
+      "timestamp": 1495823575848,
+      "identifier": {
+        "doi": "10.1007/bf02799090"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02745324"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simple tests for proposed interior Kerr metrics"
+}

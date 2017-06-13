@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395964800000,"doi":"10.1016/j.cplett.2014.02.045","type":"err"},"doi":"10.1016/j.cplett.2013.08.050","journal":"Chemical Physics Letters","publisher":"Elsevier BV","title":"Corrigendum to “Parallel low-memory quasi-Newton optimization algorithm for molecular structure” [Chem. Phys. Lett. 584 (2013) 10–13]"}
+{
+  "retracted": false,
+  "timestamp": 1395964800000,
+  "updates": [
+    {
+      "timestamp": 1496025209304,
+      "identifier": {
+        "doi": "10.1016/j.cplett.2014.02.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cplett.2013.08.050"
+  },
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Parallel low-memory quasi-Newton optimization algorithm for molecular structure” [Chem. Phys. Lett. 584 (2013) 10–13]"
+}

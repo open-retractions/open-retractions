@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.actatropica.2015.03.001","type":"err"},"doi":"10.1016/j.actatropica.2014.04.034","journal":"Acta Tropica","publisher":"Elsevier BV","title":"Corrigendum to “Ecology of phlebotomine sand flies and Leishmania infantum infection in a rural area of southern Italy” [Acta Trop. 137 (2014) 67–73]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496049585153,
+      "identifier": {
+        "doi": "10.1016/j.actatropica.2015.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actatropica.2014.04.034"
+  },
+  "journal": "Acta Tropica",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ecology of phlebotomine sand flies and Leishmania infantum infection in a rural area of southern Italy” [Acta Trop. 137 (2014) 67–73]"
+}

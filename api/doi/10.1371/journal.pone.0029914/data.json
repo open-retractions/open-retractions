@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1379980800000,"doi":"10.1371/annotation/f84663e3-0a2c-4243-8f97-3a58133c1b0f","type":"correction"},"doi":"10.1371/journal.pone.0029914","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection"}
+{
+  "retracted": false,
+  "timestamp": 1379980800000,
+  "updates": [
+    {
+      "timestamp": 1496052002766,
+      "identifier": {
+        "doi": "10.1371/annotation/f84663e3-0a2c-4243-8f97-3a58133c1b0f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029914"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Persistence of Borrelia burgdorferi in Rhesus Macaques following Antibiotic Treatment of Disseminated Infection"
+}

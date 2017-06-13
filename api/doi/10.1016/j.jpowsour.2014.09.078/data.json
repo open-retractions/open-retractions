@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.jpowsour.2016.09.072","type":"err"},"doi":"10.1016/j.jpowsour.2014.09.078","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “A techno-economic analysis and optimization of Li-ion batteries for light-duty passenger vehicle electrification” [J. Power Sources 273 (2015) 966–980]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495642077276,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2016.09.072"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2014.09.078"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A techno-economic analysis and optimization of Li-ion batteries for light-duty passenger vehicle electrification” [J. Power Sources 273 (2015) 966–980]"
+}

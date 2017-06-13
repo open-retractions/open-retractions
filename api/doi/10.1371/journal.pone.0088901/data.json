@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406073600000,"doi":"10.1371/journal.pone.0103051","type":"correction"},"doi":"10.1371/journal.pone.0088901","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: QuickProbs—A Fast Multiple Sequence Alignment Algorithm Designed for Graphics Processors"}
+{
+  "retracted": false,
+  "timestamp": 1406073600000,
+  "updates": [
+    {
+      "timestamp": 1496056162061,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0103051"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0088901"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: QuickProbs—A Fast Multiple Sequence Alignment Algorithm Designed for Graphics Processors"
+}

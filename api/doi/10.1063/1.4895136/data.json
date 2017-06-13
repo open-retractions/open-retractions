@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413936000000,"doi":"10.1063/1.4899320","type":"correction"},"doi":"10.1063/1.4895136","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “A method to determine fault vectors in 4H-SiC from stacking sequences observed on high resolution transmission electron microscopy images” [J. Appl. Phys. 116, 104905 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1413936000000,
+  "updates": [
+    {
+      "timestamp": 1496016395559,
+      "identifier": {
+        "doi": "10.1063/1.4899320"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4895136"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “A method to determine fault vectors in 4H-SiC from stacking sequences observed on high resolution transmission electron microscopy images” [J. Appl. Phys. 116, 104905 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395187200000,"doi":"10.1016/j.neuron.2014.03.005","type":"err"},"doi":"10.1016/j.neuron.2014.01.032","journal":"Neuron","publisher":"Elsevier BV","title":"Retinal Input Directs the Recruitment of Inhibitory Interneurons into Thalamic Visual Circuits"}
+{
+  "retracted": false,
+  "timestamp": 1395187200000,
+  "updates": [
+    {
+      "timestamp": 1496027361529,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.01.032"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Retinal Input Directs the Recruitment of Inhibitory Interneurons into Thalamic Visual Circuits"
+}

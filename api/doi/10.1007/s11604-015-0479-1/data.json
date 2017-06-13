@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450051200000,"doi":"10.1007/s11604-015-0512-4","type":"correction"},"doi":"10.1007/s11604-015-0479-1","journal":"Japanese Journal of Radiology","publisher":"Springer Nature","title":"Erratum to: History note: tragedy of Thorotrast"}
+{
+  "retracted": false,
+  "timestamp": 1450051200000,
+  "updates": [
+    {
+      "timestamp": 1496052874533,
+      "identifier": {
+        "doi": "10.1007/s11604-015-0512-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11604-015-0479-1"
+  },
+  "journal": "Japanese Journal of Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: History note: tragedy of Thorotrast"
+}

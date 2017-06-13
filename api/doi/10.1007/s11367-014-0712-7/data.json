@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478217600000,"doi":"10.1007/s11367-016-1211-9","type":"correction"},"doi":"10.1007/s11367-014-0712-7","journal":"The International Journal of Life Cycle Assessment","publisher":"Springer Nature","title":"Erratum to: Updated and harmonised greenhouse gas emissions for crop inventories"}
+{
+  "retracted": false,
+  "timestamp": 1478217600000,
+  "updates": [
+    {
+      "timestamp": 1495654120108,
+      "identifier": {
+        "doi": "10.1007/s11367-016-1211-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11367-014-0712-7"
+  },
+  "journal": "The International Journal of Life Cycle Assessment",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Updated and harmonised greenhouse gas emissions for crop inventories"
+}

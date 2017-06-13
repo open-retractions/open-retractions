@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.micromeso.2014.05.027","type":"err"},"doi":"10.1016/j.micromeso.2013.09.016","journal":"Microporous and Mesoporous Materials","publisher":"Elsevier BV","title":"Corrigendum to “Air separation at cryogenic temperature using MFI membranes” [Micropor. Mesopor. Mater. 192 (2014) 14–17]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496045964438,
+      "identifier": {
+        "doi": "10.1016/j.micromeso.2014.05.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.micromeso.2013.09.016"
+  },
+  "journal": "Microporous and Mesoporous Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Air separation at cryogenic temperature using MFI membranes” [Micropor. Mesopor. Mater. 192 (2014) 14–17]"
+}

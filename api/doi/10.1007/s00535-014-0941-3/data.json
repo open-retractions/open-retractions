@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400630400000,"doi":"10.1007/s00535-014-0962-y","type":"correction"},"doi":"10.1007/s00535-014-0941-3","journal":"Journal of Gastroenterology","publisher":"Springer Nature","title":"Erratum to: Evaluation of serum HER2-ECD levels in patients with gastric cancer"}
+{
+  "retracted": false,
+  "timestamp": 1400630400000,
+  "updates": [
+    {
+      "timestamp": 1496039792369,
+      "identifier": {
+        "doi": "10.1007/s00535-014-0962-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00535-014-0941-3"
+  },
+  "journal": "Journal of Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evaluation of serum HER2-ECD levels in patients with gastric cancer"
+}

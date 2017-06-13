@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jmps.2017.01.013","type":"erratum"},"doi":"10.1016/j.jmps.2016.10.002","journal":"Journal of the Mechanics and Physics of Solids","publisher":"Elsevier BV","title":"Erratum to “Elastic wave propagation in finitely deformed layered materials” [J. Mech. Phys. Solids 98 (2017) 390–410]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495677971075,
+      "identifier": {
+        "doi": "10.1016/j.jmps.2017.01.013"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmps.2016.10.002"
+  },
+  "journal": "Journal of the Mechanics and Physics of Solids",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Elastic wave propagation in finitely deformed layered materials” [J. Mech. Phys. Solids 98 (2017) 390–410]"
+}

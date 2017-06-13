@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394668800000,"doi":"10.1080/00927872.2013.869147","type":"correction"},"doi":"10.1080/00927872.2012.718822","journal":"Communications in Algebra","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1394668800000,
+  "updates": [
+    {
+      "timestamp": 1496025506598,
+      "identifier": {
+        "doi": "10.1080/00927872.2013.869147"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00927872.2012.718822"
+  },
+  "journal": "Communications in Algebra",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1149638400000,"doi":"10.1063/1.2207623","type":"erratum"},"doi":"10.1063/1.2173244","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Efficient computation of the exchange-correlation contribution in the density functional theory through multiresolution” [J. Chem. Phys. 124, 094109 (2006)]"}
+{
+  "retracted": false,
+  "timestamp": 1149638400000,
+  "updates": [
+    {
+      "timestamp": 1495827677661,
+      "identifier": {
+        "doi": "10.1063/1.2207623"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2173244"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Efficient computation of the exchange-correlation contribution in the density functional theory through multiresolution”  [J. Chem. Phys. 124, 094109 (2006)]"
+}

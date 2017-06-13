@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.mib.2015.03.008","type":"err"},"doi":"10.1016/j.mib.2014.10.001","journal":"Current Opinion in Microbiology","publisher":"Elsevier BV","title":"Erratum to “The bacterial nucleoid: nature, dynamics and sister segregation” [Curr. Opin. Microbiol. 22 (2014) 127–137]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496045728271,
+      "identifier": {
+        "doi": "10.1016/j.mib.2015.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mib.2014.10.001"
+  },
+  "journal": "Current Opinion in Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The bacterial nucleoid: nature, dynamics and sister segregation” [Curr. Opin. Microbiol. 22 (2014) 127–137]"
+}

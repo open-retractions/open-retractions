@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453852800000,"doi":"10.1063/1.4940716","type":"correction"},"doi":"10.1063/1.4938536","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Limited-view light sheet fluorescence microscopy for three dimensional volume imaging” [Appl. Phys. Lett. 107, 263701 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1453852800000,
+  "updates": [
+    {
+      "timestamp": 1495640324651,
+      "identifier": {
+        "doi": "10.1063/1.4940716"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4938536"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Limited-view light sheet fluorescence microscopy for three dimensional volume imaging” [Appl. Phys. Lett. 107, 263701 (2015)]"
+}

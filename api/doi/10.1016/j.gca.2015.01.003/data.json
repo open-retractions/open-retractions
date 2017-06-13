@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.gca.2015.04.041","type":"err"},"doi":"10.1016/j.gca.2015.01.003","journal":"Geochimica et Cosmochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Equilibrium isotope fractionation and isotope exchange kinetics between Cr(III) and Cr(VI)” [Geochim. Cosmochim. Acta 153 (2015) 72–90]"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1495998636543,
+      "identifier": {
+        "doi": "10.1016/j.gca.2015.04.041"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gca.2015.01.003"
+  },
+  "journal": "Geochimica et Cosmochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Equilibrium isotope fractionation and isotope exchange kinetics between Cr(III) and Cr(VI)” [Geochim. Cosmochim. Acta 153 (2015) 72–90]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405641600000,"doi":"10.1007/s13300-014-0074-y","type":"correction"},"doi":"10.1007/s13300-014-0055-1","journal":"Diabetes Therapy","publisher":"Springer Nature","title":"Erratum to: Albiglutide Does Not Prolong QTc Interval in Healthy Subjects: A Thorough ECG Study"}
+{
+  "retracted": false,
+  "timestamp": 1405641600000,
+  "updates": [
+    {
+      "timestamp": 1496054613655,
+      "identifier": {
+        "doi": "10.1007/s13300-014-0074-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13300-014-0055-1"
+  },
+  "journal": "Diabetes Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Albiglutide Does Not Prolong QTc Interval in Healthy Subjects: A Thorough ECG Study"
+}

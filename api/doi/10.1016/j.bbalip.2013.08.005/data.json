@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.bbalip.2014.02.007","type":"err"},"doi":"10.1016/j.bbalip.2013.08.005","journal":"Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids","publisher":"Elsevier BV","title":"Corrigendum to “The role of lipoxygenases in epidermis” [Biochim. Biophys. Acta 1841 (2014) 390–400]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496026080207,
+      "identifier": {
+        "doi": "10.1016/j.bbalip.2014.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbalip.2013.08.005"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The role of lipoxygenases in epidermis” [Biochim. Biophys. Acta 1841 (2014) 390–400]"
+}

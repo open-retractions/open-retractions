@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.wavemoti.2015.12.002","type":"err"},"doi":"10.1016/j.wavemoti.2014.11.003","journal":"Wave Motion","publisher":"Elsevier BV","title":"Corrigendum to “A closed form solution method for rapid calculation of guided wave dispersion curves for pipes” [Wave Motion 53 (2015) 40–50]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1496055445987,
+      "identifier": {
+        "doi": "10.1016/j.wavemoti.2015.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wavemoti.2014.11.003"
+  },
+  "journal": "Wave Motion",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A closed form solution method for rapid calculation of guided wave dispersion curves for pipes” [Wave Motion 53 (2015) 40–50]"
+}

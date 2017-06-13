@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425600000000,"doi":"10.1080/03054985.2015.1007758","type":"correction"},"doi":"10.1080/03054985.2014.953921","journal":"Oxford Review of Education","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1425600000000,
+  "updates": [
+    {
+      "timestamp": 1496049035305,
+      "identifier": {
+        "doi": "10.1080/03054985.2015.1007758"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03054985.2014.953921"
+  },
+  "journal": "Oxford Review of Education",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

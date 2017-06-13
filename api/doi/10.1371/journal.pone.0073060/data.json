@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1371/annotation/fff74def-44d5-4eab-9d92-39fae778bd36","type":"correction"},"doi":"10.1371/journal.pone.0073060","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Novel Bayesian Seamless Phase I/II Design"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496013625001,
+      "identifier": {
+        "doi": "10.1371/annotation/fff74def-44d5-4eab-9d92-39fae778bd36"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073060"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Novel Bayesian Seamless Phase I/II Design"
+}

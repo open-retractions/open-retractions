@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.lungcan.2014.12.001","type":"err"},"doi":"10.1016/j.lungcan.2014.07.006","journal":"Lung Cancer","publisher":"Elsevier BV","title":"Corrigendum to “Randomized open-label non-comparative multicenter phase II trial of sequential erlotinib and docetaxel versus docetaxel alone in patients with non-small-cell lung cancer after failure of first-line chemotherapy: GFPC 10.02 study” [Lung Cancer 85 (2014) 415–419]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496030161211,
+      "identifier": {
+        "doi": "10.1016/j.lungcan.2014.12.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.lungcan.2014.07.006"
+  },
+  "journal": "Lung Cancer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Randomized open-label non-comparative multicenter phase II trial of sequential erlotinib and docetaxel versus docetaxel alone in patients with non-small-cell lung cancer after failure of first-line chemotherapy: GFPC 10.02 study” [Lung Cancer 85 (2014) 415–419]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.cageo.2013.07.009","type":"err"},"doi":"10.1016/j.cageo.2013.04.011","journal":"Computers & Geosciences","publisher":"Elsevier BV","title":"Corrigendum to ‘Segmentation of sandstone thin section images with separation of touching grains using optimum path forest operators’ [Computers & Geosciences (2013) 146–157]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1496037163497,
+      "identifier": {
+        "doi": "10.1016/j.cageo.2013.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cageo.2013.04.011"
+  },
+  "journal": "Computers & Geosciences",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Segmentation of sandstone thin section images with separation of touching grains using optimum path forest operators’ [Computers & Geosciences (2013) 146–157]"
+}

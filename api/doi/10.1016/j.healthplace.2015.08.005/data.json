@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.healthplace.2016.04.007","type":"err"},"doi":"10.1016/j.healthplace.2015.08.005","journal":"Health & Place","publisher":"Elsevier BV","title":"Corrigendum to “Public transit generates new physical activity: Evidence from individual GPS and accelerometer data before and after light rail construction in a neighborhood of Salt Lake City, Utah, USA” [Health Place 36 (2015) 8–17]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495672067484,
+      "identifier": {
+        "doi": "10.1016/j.healthplace.2016.04.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.healthplace.2015.08.005"
+  },
+  "journal": "Health & Place",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Public transit generates new physical activity: Evidence from individual GPS and accelerometer data before and after light rail construction in a neighborhood of Salt Lake City, Utah, USA” [Health Place 36 (2015) 8–17]"
+}

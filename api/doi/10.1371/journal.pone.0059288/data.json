@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1372377600000,"doi":"10.1371/annotation/0bbd3579-5212-4dcf-a5ef-dd3d8e26f287","type":"correction"},"doi":"10.1371/journal.pone.0059288","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Systematic In Silico Search for Target Similarity Identifies Several Approved Drugs with Potential Activity against the Plasmodium falciparum Apicoplast"}
+{
+  "retracted": false,
+  "timestamp": 1372377600000,
+  "updates": [
+    {
+      "timestamp": 1496039104640,
+      "identifier": {
+        "doi": "10.1371/annotation/0bbd3579-5212-4dcf-a5ef-dd3d8e26f287"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059288"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Systematic In Silico Search for Target Similarity Identifies Several Approved Drugs with Potential Activity against the Plasmodium falciparum Apicoplast"
+}

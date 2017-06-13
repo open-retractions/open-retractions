@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1450742400000,"doi":"10.2514/1.c033766","type":"correction"},"doi":"10.2514/1.c031933","journal":"Journal of Aircraft","publisher":"American Institute of Aeronautics and Astronautics (AIAA)","title":"Roll Stall for Low-Aspect-Ratio Wings"}
+{
+  "retracted": false,
+  "timestamp": 1450742400000,
+  "updates": [
+    {
+      "timestamp": 1496055705255,
+      "identifier": {
+        "doi": "10.2514/1.c033766"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2514/1.c031933"
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "title": "Roll Stall for Low-Aspect-Ratio Wings"
+}

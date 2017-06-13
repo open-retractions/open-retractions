@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478563200000,"doi":"10.1038/srep35699","type":"correction"},"doi":"10.1038/srep31703","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Safety and anti-hyperglycemic efficacy of various tea types in mice"}
+{
+  "retracted": false,
+  "timestamp": 1478563200000,
+  "updates": [
+    {
+      "timestamp": 1495654416006,
+      "identifier": {
+        "doi": "10.1038/srep35699"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep31703"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Safety and anti-hyperglycemic efficacy of various tea types in mice"
+}

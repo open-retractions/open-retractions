@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396915200000,"doi":"10.1007/s00213-014-3559-5","type":"correction"},"doi":"10.1007/s00213-014-3533-2","journal":"Psychopharmacology","publisher":"Springer Nature","title":"Erratum to: Dose-dependent sigma-1 receptor occupancy by donepezil in rat brain can be assessed with 11C-SA4503 and microPET"}
+{
+  "retracted": false,
+  "timestamp": 1396915200000,
+  "updates": [
+    {
+      "timestamp": 1496028865303,
+      "identifier": {
+        "doi": "10.1007/s00213-014-3559-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00213-014-3533-2"
+  },
+  "journal": "Psychopharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Dose-dependent sigma-1 receptor occupancy by donepezil in rat brain can be assessed with 11C-SA4503 and microPET"
+}

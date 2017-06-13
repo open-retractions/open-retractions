@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1481673600000,"doi":"10.1016/j.tecto.2016.10.010","type":"err"},"doi":"10.1016/j.tecto.2016.03.040","journal":"Tectonophysics","publisher":"Elsevier BV","title":"Corrigendum to “Seismic discontinuities beneath the Southwestern United States from S receiver functions” [Tectonophysics 677–678 (2016) 153–159]"}
+{
+  "retracted": false,
+  "timestamp": 1481673600000,
+  "updates": [
+    {
+      "timestamp": 1495651039674,
+      "identifier": {
+        "doi": "10.1016/j.tecto.2016.10.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tecto.2016.03.040"
+  },
+  "journal": "Tectonophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Seismic discontinuities beneath the Southwestern United States from S receiver functions” [Tectonophysics 677–678 (2016) 153–159]"
+}

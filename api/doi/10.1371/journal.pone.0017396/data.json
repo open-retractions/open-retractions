@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1300665600000,"doi":"10.1371/annotation/938a4e59-a5d1-448c-b7c1-632bf9e7e8ef","type":"correction"},"doi":"10.1371/journal.pone.0017396","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Evolution of Acetylcholinesterase and Butyrylcholinesterase in the Vertebrates: An Atypical Butyrylcholinesterase from the Medaka Oryzias latipes"}
+{
+  "retracted": false,
+  "timestamp": 1300665600000,
+  "updates": [
+    {
+      "timestamp": 1495926615551,
+      "identifier": {
+        "doi": "10.1371/annotation/938a4e59-a5d1-448c-b7c1-632bf9e7e8ef"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0017396"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Evolution of Acetylcholinesterase and Butyrylcholinesterase in the Vertebrates: An Atypical Butyrylcholinesterase from the Medaka Oryzias latipes"
+}

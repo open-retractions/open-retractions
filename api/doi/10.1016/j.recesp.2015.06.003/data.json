@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.rec.2015.06.003","type":"err"},"doi":"10.1016/j.recesp.2015.06.003","journal":"Revista Española de Cardiología (English Edition)","publisher":"Elsevier BV","title":"Correction in article by Avanzas et al “Summary of the Clinical Studies Reported in the Annual Scientific Sessions of the American College of Cardiology (San Diego, United States, March 14-16, 2015)”"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496011412221,
+      "identifier": {
+        "doi": "10.1016/j.rec.2015.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.recesp.2015.06.003"
+  },
+  "journal": "Revista Española de Cardiología (English Edition)",
+  "publisher": "Elsevier BV",
+  "title": "Correction in article by Avanzas et al “Summary of the Clinical Studies Reported in the Annual Scientific Sessions of the American College of Cardiology (San Diego, United States, March 14-16, 2015)”"
+}

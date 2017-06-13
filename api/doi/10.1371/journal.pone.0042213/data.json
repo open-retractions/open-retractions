@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344470400000,"doi":"10.1371/annotation/b52d7ab3-3099-49e1-b4b5-30b76cf153b5","type":"correction"},"doi":"10.1371/journal.pone.0042213","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Earliest Matches"}
+{
+  "retracted": false,
+  "timestamp": 1344470400000,
+  "updates": [
+    {
+      "timestamp": 1495926386377,
+      "identifier": {
+        "doi": "10.1371/annotation/b52d7ab3-3099-49e1-b4b5-30b76cf153b5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0042213"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Earliest Matches"
+}

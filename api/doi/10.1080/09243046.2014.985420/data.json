@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428883200000,"doi":"10.1080/09243046.2015.1032502","type":"correction"},"doi":"10.1080/09243046.2014.985420","journal":"Advanced Composite Materials","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1428883200000,
+  "updates": [
+    {
+      "timestamp": 1496057425962,
+      "identifier": {
+        "doi": "10.1080/09243046.2015.1032502"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09243046.2014.985420"
+  },
+  "journal": "Advanced Composite Materials",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

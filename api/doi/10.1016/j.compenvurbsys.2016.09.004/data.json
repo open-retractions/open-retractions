@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.compenvurbsys.2016.12.001","type":"erratum"},"doi":"10.1016/j.compenvurbsys.2016.09.004","journal":"Computers, Environment and Urban Systems","publisher":"Elsevier BV","title":"Corrigendum to “Predicting residential burglaries based on building elements and offender behavior: Study of a row house area in Seoul, Korea” [Computers, Environment and Urban Systems 61 (Part A) (2017) 94–107]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495668753561,
+      "identifier": {
+        "doi": "10.1016/j.compenvurbsys.2016.12.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compenvurbsys.2016.09.004"
+  },
+  "journal": "Computers, Environment and Urban Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Predicting residential burglaries based on building elements and offender behavior: Study of a row house area in Seoul, Korea” [Computers, Environment and Urban Systems 61 (Part A) (2017) 94–107]"
+}

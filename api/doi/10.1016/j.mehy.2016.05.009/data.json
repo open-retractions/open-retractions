@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.mehy.2016.12.014","type":"erratum"},"doi":"10.1016/j.mehy.2016.05.009","journal":"Medical Hypotheses","publisher":"Elsevier BV","title":"Corrigendum to “Molecules in seminal plasma related to platelets in preeclampsia” [Med. Hypotheses 93 (2016) 27–29]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495676695983,
+      "identifier": {
+        "doi": "10.1016/j.mehy.2016.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mehy.2016.05.009"
+  },
+  "journal": "Medical Hypotheses",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Molecules in seminal plasma related to platelets in preeclampsia” [Med. Hypotheses 93 (2016) 27–29]"
+}

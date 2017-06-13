@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.abb.2016.05.015","type":"err"},"doi":"10.1016/j.abb.2016.03.019","journal":"Archives of Biochemistry and Biophysics","publisher":"Elsevier BV","title":"Corrigendum to “Nuclear factor-κB-dependent microRNA-130a upregulation promotes cervical cancer cell growth by targeting phosphatase and tensin homolog” [Arch. Biochem. Biophys. 598 (2016) 57–65]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495725025928,
+      "identifier": {
+        "doi": "10.1016/j.abb.2016.05.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.abb.2016.03.019"
+  },
+  "journal": "Archives of Biochemistry and Biophysics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nuclear factor-κB-dependent microRNA-130a upregulation promotes cervical cancer cell growth by targeting phosphatase and tensin homolog” [Arch. Biochem. Biophys. 598 (2016) 57–65]"
+}

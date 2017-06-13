@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446163200000,"doi":"10.1016/j.tsf.2015.09.031","type":"err"},"doi":"10.1016/j.tsf.2013.03.121","journal":"Thin Solid Films","publisher":"Elsevier BV","title":"Erratum to “Determination of Young's modulus and Poisson's ratio of thin films by X-Ray Methods” [Thin Solid Films 544C (2015) 201–205]"}
+{
+  "retracted": false,
+  "timestamp": 1446163200000,
+  "updates": [
+    {
+      "timestamp": 1496034900003,
+      "identifier": {
+        "doi": "10.1016/j.tsf.2015.09.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tsf.2013.03.121"
+  },
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Determination of Young's modulus and Poisson's ratio of thin films by X-Ray Methods” [Thin Solid Films 544C (2015) 201–205]"
+}

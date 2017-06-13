@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1098/rsif.2014.1231","type":"correction"},"doi":"10.1098/rsif.2010.0010.focus","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Magnetoreception"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496027700974,
+      "identifier": {
+        "doi": "10.1098/rsif.2014.1231"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2010.0010.focus"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Magnetoreception"
+}

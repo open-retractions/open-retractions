@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409961600000,"doi":"10.1136/vr.g5421","type":"correction"},"doi":"10.1136/vr.g5343","journal":"Veterinary Record","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1409961600000,
+  "updates": [
+    {
+      "timestamp": 1496004952705,
+      "identifier": {
+        "doi": "10.1136/vr.g5421"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/vr.g5343"
+  },
+  "journal": "Veterinary Record",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

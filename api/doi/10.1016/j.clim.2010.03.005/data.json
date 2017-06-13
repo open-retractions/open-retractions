@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.clim.2015.02.004","type":"err"},"doi":"10.1016/j.clim.2010.03.005","journal":"Clinical Immunology","publisher":"Elsevier BV","title":"Corrigendum to “CD161 receptor participates in both impairing NK cell cytotoxicity and the response to glycans and vimentin in patients with rheumatoid arthritis” [Clin. Immunol. 136 (2010) 139–147]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496046062422,
+      "identifier": {
+        "doi": "10.1016/j.clim.2015.02.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clim.2010.03.005"
+  },
+  "journal": "Clinical Immunology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “CD161 receptor participates in both impairing NK cell cytotoxicity and the response to glycans and vimentin in patients with rheumatoid arthritis” [Clin. Immunol. 136 (2010) 139–147]"
+}

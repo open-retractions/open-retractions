@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.1007/s00112-016-0107-x","type":"correction"},"doi":"10.1007/s00112-016-0048-4","journal":"Monatsschrift Kinderheilkunde","publisher":"Springer Nature","title":"Erratum zu: Kawasaki-Syndrom"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495731598476,
+      "identifier": {
+        "doi": "10.1007/s00112-016-0107-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00112-016-0048-4"
+  },
+  "journal": "Monatsschrift Kinderheilkunde",
+  "publisher": "Springer Nature",
+  "title": "Erratum zu: Kawasaki-Syndrom"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403568000000,"doi":"10.1016/j.vaccine.2014.05.048","type":"err"},"doi":"10.1016/j.vaccine.2013.08.037","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to: “A novel method for purification of Vi capsular polysaccharide produced by Salmonella enterica subspecies enterica serovar Typhi” [Vaccine 31 (2013) 4714–4719]"}
+{
+  "retracted": false,
+  "timestamp": 1403568000000,
+  "updates": [
+    {
+      "timestamp": 1496039488719,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2014.05.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2013.08.037"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “A novel method for purification of Vi capsular polysaccharide produced by Salmonella enterica subspecies enterica serovar Typhi” [Vaccine 31 (2013) 4714–4719]"
+}

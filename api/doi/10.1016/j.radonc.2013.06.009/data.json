@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.radonc.2013.10.016","type":"err"},"doi":"10.1016/j.radonc.2013.06.009","journal":"Radiotherapy and Oncology","publisher":"Elsevier BV","title":"Erratum to “A new survival score for patients with brain metastases who received whole-brain radiotherapy (WBRT) alone” [Radiother Oncol 108 (2013) 123–127]"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1495993956444,
+      "identifier": {
+        "doi": "10.1016/j.radonc.2013.10.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.radonc.2013.06.009"
+  },
+  "journal": "Radiotherapy and Oncology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A new survival score for patients with brain metastases who received whole-brain radiotherapy (WBRT) alone” [Radiother Oncol 108 (2013) 123–127]"
+}

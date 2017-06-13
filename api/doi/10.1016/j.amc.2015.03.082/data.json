@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1494806400000,"doi":"10.1016/j.amc.2016.12.029","type":"erratum"},"doi":"10.1016/j.amc.2015.03.082","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Corrigendum to “A biomechanical approach to study the effect of body acceleration and slip velocity through stenotic artery” [Applied Mathematics and Computation, 261(2015) 148–155]"}
+{
+  "retracted": false,
+  "timestamp": 1494806400000,
+  "updates": [
+    {
+      "timestamp": 1495670086036,
+      "identifier": {
+        "doi": "10.1016/j.amc.2016.12.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2015.03.082"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A biomechanical approach to study the effect of body acceleration and slip velocity through stenotic artery” [Applied Mathematics and Computation, 261(2015) 148–155]"
+}

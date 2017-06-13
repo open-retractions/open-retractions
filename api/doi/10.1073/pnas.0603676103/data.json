@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1165881600000,"doi":"10.1073/pnas.0609705103","type":"correction"},"doi":"10.1073/pnas.0603676103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wang et al., A functional SNP in the promoter of the SERPINH1 gene increases risk of preterm premature rupture of membranes in African Americans"}
+{
+  "retracted": false,
+  "timestamp": 1165881600000,
+  "updates": [
+    {
+      "timestamp": 1495917990919,
+      "identifier": {
+        "doi": "10.1073/pnas.0609705103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0603676103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wang et al., A functional SNP in the promoter of the SERPINH1 gene increases risk of preterm premature rupture of membranes in African Americans"
+}

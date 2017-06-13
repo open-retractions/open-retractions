@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456358400000,"doi":"10.1038/srep21813","type":"correction"},"doi":"10.1038/srep19517","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: Lactate Chemical Exchange Saturation Transfer (LATEST) Imaging in vivo: A Biomarker for LDH Activity"}
+{
+  "retracted": false,
+  "timestamp": 1456358400000,
+  "updates": [
+    {
+      "timestamp": 1495648229435,
+      "identifier": {
+        "doi": "10.1038/srep21813"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep19517"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: Lactate Chemical Exchange Saturation Transfer (LATEST) Imaging in vivo: A Biomarker for LDH Activity"
+}

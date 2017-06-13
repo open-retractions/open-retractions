@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491523200000,"doi":"10.1007/s00726-017-2416-3","type":"correction"},"doi":"10.1007/s00726-016-2344-7","journal":"Amino Acids","publisher":"Springer Nature","title":"Erratum to: Human splanchnic amino-acid metabolism"}
+{
+  "retracted": false,
+  "timestamp": 1491523200000,
+  "updates": [
+    {
+      "timestamp": 1495736999383,
+      "identifier": {
+        "doi": "10.1007/s00726-017-2416-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00726-016-2344-7"
+  },
+  "journal": "Amino Acids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Human splanchnic amino-acid metabolism"
+}

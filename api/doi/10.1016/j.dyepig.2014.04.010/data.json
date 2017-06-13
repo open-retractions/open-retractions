@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.dyepig.2014.08.013","type":"err"},"doi":"10.1016/j.dyepig.2014.04.010","journal":"Dyes and Pigments","publisher":"Elsevier BV","title":"Corrigendum to “Selecting pyrazole-based silver complexes for efficient liquid crystal and luminescent materials”"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496003419518,
+      "identifier": {
+        "doi": "10.1016/j.dyepig.2014.08.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dyepig.2014.04.010"
+  },
+  "journal": "Dyes and Pigments",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Selecting pyrazole-based silver complexes for efficient liquid crystal and luminescent materials”"
+}

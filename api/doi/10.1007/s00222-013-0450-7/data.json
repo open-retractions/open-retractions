@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1007/s00222-014-0529-9","type":"correction"},"doi":"10.1007/s00222-013-0450-7","journal":"Inventiones mathematicae","publisher":"Springer Nature","title":"Erratum to: Lê cycles and Milnor classes"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496049706146,
+      "identifier": {
+        "doi": "10.1007/s00222-014-0529-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00222-013-0450-7"
+  },
+  "journal": "Inventiones mathematicae",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Lê cycles and Milnor classes"
+}

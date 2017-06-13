@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443571200000,"doi":"10.1007/s40506-015-0060-6","type":"correction"},"doi":"10.1007/s40506-015-0053-5","journal":"Current Treatment Options in Infectious Diseases","publisher":"Springer Nature","title":"Erratum to: Clinical Management of Ebola Virus Disease Patients"}
+{
+  "retracted": false,
+  "timestamp": 1443571200000,
+  "updates": [
+    {
+      "timestamp": 1496033795642,
+      "identifier": {
+        "doi": "10.1007/s40506-015-0060-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40506-015-0053-5"
+  },
+  "journal": "Current Treatment Options in Infectious Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical Management of Ebola Virus Disease Patients"
+}

@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1295913600000,"doi":"10.1073/pnas.1316144110","type":"correction"},"doi":"10.1073/pnas.1017729108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Su et al., 14-3-3  regulates B-cell homeostasis through stabilization of FOXO1"}
+{
+  "retracted": false,
+  "timestamp": 1295913600000,
+  "updates": [
+    {
+      "timestamp": 1496045728910,
+      "identifier": {
+        "doi": "10.1073/pnas.1316144110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1017729108"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Su et al., 14-3-3  regulates B-cell homeostasis through stabilization of FOXO1"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490227200000,"doi":"10.1080/02640414.2017.1309846","type":"correction"},"doi":"10.1080/02640414.2016.1221519","journal":"Journal of Sports Sciences","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1490227200000,
+  "updates": [
+    {
+      "timestamp": 1495728521179,
+      "identifier": {
+        "doi": "10.1080/02640414.2017.1309846"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/02640414.2016.1221519"
+  },
+  "journal": "Journal of Sports Sciences",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

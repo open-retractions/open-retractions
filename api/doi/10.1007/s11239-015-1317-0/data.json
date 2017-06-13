@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457136000000,"doi":"10.1007/s11239-016-1345-4","type":"correction"},"doi":"10.1007/s11239-015-1317-0","journal":"Journal of Thrombosis and Thrombolysis","publisher":"Springer Nature","title":"Erratum to: Guidance for the treatment of deep vein thrombosis and pulmonary embolism"}
+{
+  "retracted": false,
+  "timestamp": 1457136000000,
+  "updates": [
+    {
+      "timestamp": 1495651141886,
+      "identifier": {
+        "doi": "10.1007/s11239-016-1345-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11239-015-1317-0"
+  },
+  "journal": "Journal of Thrombosis and Thrombolysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Guidance for the treatment of deep vein thrombosis and pulmonary embolism"
+}

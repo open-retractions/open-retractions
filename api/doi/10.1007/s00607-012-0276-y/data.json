@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394928000000,"doi":"10.1007/s00607-014-0389-6","type":"correction"},"doi":"10.1007/s00607-012-0276-y","journal":"Computing","publisher":"Springer Nature","title":"Erratum to: Algebraic flux correction for nonconforming finite element discretizations of scalar transport problems"}
+{
+  "retracted": false,
+  "timestamp": 1394928000000,
+  "updates": [
+    {
+      "timestamp": 1496026395452,
+      "identifier": {
+        "doi": "10.1007/s00607-014-0389-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00607-012-0276-y"
+  },
+  "journal": "Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Algebraic flux correction for nonconforming finite element discretizations of scalar transport problems"
+}

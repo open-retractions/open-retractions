@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466726400000,"doi":"10.1088/0953-8984/28/32/329501","type":"correction"},"doi":"10.1088/0953-8984/27/32/325401","journal":"Journal of Physics: Condensed Matter","publisher":"IOP Publishing","title":"Corrigendum: Permanently densified SiO2glasses: a structural approach (2015J. Phys.: Condens. Matter27325401)"}
+{
+  "retracted": false,
+  "timestamp": 1466726400000,
+  "updates": [
+    {
+      "timestamp": 1495722827131,
+      "identifier": {
+        "doi": "10.1088/0953-8984/28/32/329501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0953-8984/27/32/325401"
+  },
+  "journal": "Journal of Physics: Condensed Matter",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Permanently densified SiO2glasses: a structural approach (2015J. Phys.: Condens. Matter27325401)"
+}

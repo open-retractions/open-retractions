@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487289600000,"doi":"10.1080/03078698.2017.1296243","type":"correction"},"doi":"10.1080/03078698.2015.1059634","journal":"Ringing & Migration","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487289600000,
+  "updates": [
+    {
+      "timestamp": 1495721852334,
+      "identifier": {
+        "doi": "10.1080/03078698.2017.1296243"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03078698.2015.1059634"
+  },
+  "journal": "Ringing & Migration",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

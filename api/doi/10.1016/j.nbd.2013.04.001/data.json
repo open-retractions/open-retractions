@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.nbd.2013.05.001","type":"err"},"doi":"10.1016/j.nbd.2013.04.001","journal":"Neurobiology of Disease","publisher":"Elsevier BV","title":"Erratum to “CXCL12/SDF-1 facilitates optic nerve regeneration” [Neurobiol. Dis. 55 (2013) 76–86]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496019173774,
+      "identifier": {
+        "doi": "10.1016/j.nbd.2013.05.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nbd.2013.04.001"
+  },
+  "journal": "Neurobiology of Disease",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “CXCL12/SDF-1 facilitates optic nerve regeneration” [Neurobiol. Dis. 55 (2013) 76–86]"
+}

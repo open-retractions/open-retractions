@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332806400000,"doi":"10.1073/pnas.1208592109","type":"correction"},"doi":"10.1073/pnas.1202452109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Takenaka et al., Multiple organellar RNA editing factor (MORF) family proteins are required for RNA editing in mitochondria and plastids of plants"}
+{
+  "retracted": false,
+  "timestamp": 1332806400000,
+  "updates": [
+    {
+      "timestamp": 1495912239391,
+      "identifier": {
+        "doi": "10.1073/pnas.1208592109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1202452109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Takenaka et al., Multiple organellar RNA editing factor (MORF) family proteins are required for RNA editing in mitochondria and plastids of plants"
+}

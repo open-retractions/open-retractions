@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":936921600000,"doi":"10.1007/s002109900140","type":"correction"},"doi":"10.1007/s002109900081","journal":"Naunyn-Schmiedeberg's Archives of Pharmacology","publisher":"Springer Nature","title":"Erratum: The mechanisms underlying the relaxant effect of methyl and ethyl gallates in the guinea pig trachea in vitro: contribution of potassium channels"}
+{
+  "retracted": false,
+  "timestamp": 936921600000,
+  "updates": [
+    {
+      "timestamp": 1495920990855,
+      "identifier": {
+        "doi": "10.1007/s002109900140"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s002109900081"
+  },
+  "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "publisher": "Springer Nature",
+  "title": "Erratum: The mechanisms underlying the relaxant effect of methyl and ethyl gallates in the guinea pig trachea in vitro: contribution of potassium channels"
+}

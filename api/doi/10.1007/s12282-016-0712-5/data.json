@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476144000000,"doi":"10.1007/s12282-016-0724-1","type":"correction"},"doi":"10.1007/s12282-016-0712-5","journal":"Breast Cancer","publisher":"Springer Nature","title":"Erratum to: Genetic variants of ESR1 and SGSM3 are associated with the susceptibility of breast cancer in the Chinese population"}
+{
+  "retracted": false,
+  "timestamp": 1476144000000,
+  "updates": [
+    {
+      "timestamp": 1495647727358,
+      "identifier": {
+        "doi": "10.1007/s12282-016-0724-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12282-016-0712-5"
+  },
+  "journal": "Breast Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Genetic variants of ESR1 and SGSM3 are associated with the susceptibility of breast cancer in the Chinese population"
+}

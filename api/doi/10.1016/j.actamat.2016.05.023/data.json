@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.actamat.2016.10.001","type":"err"},"doi":"10.1016/j.actamat.2016.05.023","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Corrigendum to “Mechanical stress and stress release channels in 10–350 nm palladium hydrogen thin films with different micro-structures” [Acta Mater. 114 (2016) 116–125]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495649075457,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2016.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2016.05.023"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mechanical stress and stress release channels in 10–350 nm palladium hydrogen thin films with different micro-structures” [Acta Mater. 114 (2016) 116–125]"
+}

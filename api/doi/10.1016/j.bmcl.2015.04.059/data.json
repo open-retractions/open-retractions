@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.bmcl.2016.06.068","type":"err"},"doi":"10.1016/j.bmcl.2015.04.059","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Assessing the oral bioavailability of difluorosialic acid prodrugs, potent viral neuraminidase inhibitors, using a snapshot PK screening assay” [Bioorg. Med. Chem. Lett. 25 (2015) 2505–2509]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495724371840,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2016.06.068"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2015.04.059"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Assessing the oral bioavailability of difluorosialic acid prodrugs, potent viral neuraminidase inhibitors, using a snapshot PK screening assay” [Bioorg. Med. Chem. Lett. 25 (2015) 2505–2509]"
+}

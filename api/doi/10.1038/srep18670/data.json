@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1038/srep22205","type":"correction"},"doi":"10.1038/srep18670","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Natural History of Non-Small-Cell Lung Cancer with Bone Metastases"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495664218859,
+      "identifier": {
+        "doi": "10.1038/srep22205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep18670"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Natural History of Non-Small-Cell Lung Cancer with Bone Metastases"
+}

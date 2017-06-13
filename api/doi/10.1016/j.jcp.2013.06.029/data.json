@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.jcp.2014.04.040","type":"err"},"doi":"10.1016/j.jcp.2013.06.029","journal":"Journal of Computational Physics","publisher":"Elsevier BV","title":"Corrigendum to “Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method” [J. Comput. Phys. 252 (2013) 275–289]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496039922980,
+      "identifier": {
+        "doi": "10.1016/j.jcp.2014.04.040"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcp.2013.06.029"
+  },
+  "journal": "Journal of Computational Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Constructing analysis-suitable parameterization of computational domain from CAD boundary by variational harmonic method” [J. Comput. Phys. 252 (2013) 275–289]"
+}

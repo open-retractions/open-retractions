@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1063/1.4907560","type":"correction"},"doi":"10.1063/1.2874556","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “General nonlocality in quantum fields” [J. Math. Phys. 49, 033513 (2008)]"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496041787711,
+      "identifier": {
+        "doi": "10.1063/1.4907560"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.2874556"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “General nonlocality in quantum fields” [J. Math. Phys. 49, 033513 (2008)]"
+}

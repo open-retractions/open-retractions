@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466467200000,"doi":"10.1186/s13027-016-0084-7","type":"correction"},"doi":"10.1186/s13027-016-0074-9","journal":"Infectious Agents and Cancer","publisher":"Springer Nature","title":"Erratum to: Frequency and typing of Propionibacterium acnes in prostate tissue obtained from men with and without prostate cancer"}
+{
+  "retracted": false,
+  "timestamp": 1466467200000,
+  "updates": [
+    {
+      "timestamp": 1495722184275,
+      "identifier": {
+        "doi": "10.1186/s13027-016-0084-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13027-016-0074-9"
+  },
+  "journal": "Infectious Agents and Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Frequency and typing of Propionibacterium acnes in prostate tissue obtained from men with and without prostate cancer"
+}

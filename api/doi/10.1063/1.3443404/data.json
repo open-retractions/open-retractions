@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1330560000000,"doi":"10.1063/1.3684987","type":"erratum"},"doi":"10.1063/1.3443404","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: Piezoelectric thin-film super-lattices without using piezoelectric materials [J. Appl. Phys. 108, 024304 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1330560000000,
+  "updates": [
+    {
+      "timestamp": 1495881380966,
+      "identifier": {
+        "doi": "10.1063/1.3684987"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3443404"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Piezoelectric thin-film super-lattices without using piezoelectric           materials [J. Appl. Phys. 108, 024304 (2010)]"
+}

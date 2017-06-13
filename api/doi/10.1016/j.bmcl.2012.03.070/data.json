@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.bmcl.2014.02.050","type":"err"},"doi":"10.1016/j.bmcl.2012.03.070","journal":"Bioorganic & Medicinal Chemistry Letters","publisher":"Elsevier BV","title":"Corrigendum to “Preclinical metabolism of LB42908, a novel farnesyl transferase inhibitor, and its effects on the cytochrome P450 isozyme activities” [Bioorg. Med. Chem. Lett. 22 (2012), 3067–3071]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496026070259,
+      "identifier": {
+        "doi": "10.1016/j.bmcl.2014.02.050"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bmcl.2012.03.070"
+  },
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preclinical metabolism of LB42908, a novel farnesyl transferase inhibitor, and its effects on the cytochrome P450 isozyme activities” [Bioorg. Med. Chem. Lett. 22 (2012), 3067–3071]"
+}

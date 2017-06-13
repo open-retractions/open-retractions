@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488412800000,"doi":"10.1016/j.tet.2017.01.040","type":"erratum"},"doi":"10.1016/j.tet.2016.07.033","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis of hybrid natural product analogues with anti-tumour properties” [Tetrahedron 72 (2016) 5433–5443]"}
+{
+  "retracted": false,
+  "timestamp": 1488412800000,
+  "updates": [
+    {
+      "timestamp": 1495678678255,
+      "identifier": {
+        "doi": "10.1016/j.tet.2017.01.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2016.07.033"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis of hybrid natural product analogues with anti-tumour properties” [Tetrahedron 72 (2016) 5433–5443]"
+}

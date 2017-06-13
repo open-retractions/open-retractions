@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485216000000,"doi":"10.1063/1.4975029","type":"erratum"},"doi":"10.1063/1.4942995","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Porosity as a function of stoichiometry and implantation temperature in Ge/Si1-xGex alloys” [J. Appl. Phys. 119, 094303 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1485216000000,
+  "updates": [
+    {
+      "timestamp": 1495678417948,
+      "identifier": {
+        "doi": "10.1063/1.4975029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4942995"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Porosity as a function of stoichiometry and implantation temperature in Ge/Si1-xGex alloys” [J. Appl. Phys. 119, 094303 (2016)]"
+}

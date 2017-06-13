@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1092700800000,"doi":"10.1073/pnas.0404478101","type":"correction"},"doi":"10.1073/pnas.0402488101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Sievers et al., From the Cover: The ribosome as an entropy trap, PNAS 2004 101:7897-7901"}
+{
+  "retracted": false,
+  "timestamp": 1092700800000,
+  "updates": [
+    {
+      "timestamp": 1495830139240,
+      "identifier": {
+        "doi": "10.1073/pnas.0404478101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0402488101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Sievers et al., From the Cover: The ribosome as an entropy trap, PNAS 2004 101:7897-7901"
+}

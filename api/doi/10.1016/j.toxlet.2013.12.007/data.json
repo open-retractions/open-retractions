@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396828800000,"doi":"10.1016/j.toxlet.2014.01.046","type":"err"},"doi":"10.1016/j.toxlet.2013.12.007","journal":"Toxicology Letters","publisher":"Elsevier BV","title":"Corrigendum to “Method for detecting the reactivity of chemicals towards peptides as an alternative test method for assessing skin sensitization potential” [Toxicol. Lett. 225 (1) (2014) 185–191]"}
+{
+  "retracted": false,
+  "timestamp": 1396828800000,
+  "updates": [
+    {
+      "timestamp": 1496018019874,
+      "identifier": {
+        "doi": "10.1016/j.toxlet.2014.01.046"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.toxlet.2013.12.007"
+  },
+  "journal": "Toxicology Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Method for detecting the reactivity of chemicals towards peptides as an alternative test method for assessing skin sensitization potential” [Toxicol. Lett. 225 (1) (2014) 185–191]"
+}

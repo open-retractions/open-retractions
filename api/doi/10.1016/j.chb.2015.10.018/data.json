@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.chb.2016.03.017","type":"err"},"doi":"10.1016/j.chb.2015.10.018","journal":"Computers in Human Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Medical students' attitudes towards electronic learning and their opinion for an example of distance learning application” [55 (Part B) (February 2016), 932–939]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495654349356,
+      "identifier": {
+        "doi": "10.1016/j.chb.2016.03.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chb.2015.10.018"
+  },
+  "journal": "Computers in Human Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Medical students' attitudes towards electronic learning and their opinion for an example of distance learning application” [55 (Part B) (February 2016), 932–939]"
+}

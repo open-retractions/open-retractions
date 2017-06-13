@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478131200000,"doi":"10.1134/s0021364016160116","type":"correction"},"doi":"10.1134/s0021364016030127","journal":"JETP Letters","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Nonlinear generation of vorticity in thin smectic films”"}
+{
+  "retracted": false,
+  "timestamp": 1478131200000,
+  "updates": [
+    {
+      "timestamp": 1495653477910,
+      "identifier": {
+        "doi": "10.1134/s0021364016160116"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0021364016030127"
+  },
+  "journal": "JETP Letters",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Nonlinear generation of vorticity in thin smectic films”"
+}

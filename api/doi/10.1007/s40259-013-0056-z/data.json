@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395446400000,"doi":"10.1007/s40259-014-0093-2","type":"correction"},"doi":"10.1007/s40259-013-0056-z","journal":"BioDrugs","publisher":"Springer Nature","title":"Erratum to: Second-Generation Tyrosine Kinase Inhibitors in First-Line Treatment of Chronic Myeloid Leukaemia (CML)"}
+{
+  "retracted": false,
+  "timestamp": 1395446400000,
+  "updates": [
+    {
+      "timestamp": 1496027169709,
+      "identifier": {
+        "doi": "10.1007/s40259-014-0093-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40259-013-0056-z"
+  },
+  "journal": "BioDrugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Second-Generation Tyrosine Kinase Inhibitors in First-Line Treatment of Chronic Myeloid Leukaemia (CML)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1186/s12967-016-0813-0","type":"correction"},"doi":"10.1186/s12967-015-0708-5","journal":"Journal of Translational Medicine","publisher":"Springer Nature","title":"Erratum to: Radiation treatment monitoring using multimodal functional imaging: PET/CT (18F-Fluoromisonidazole & 18F-Fluorocholine) and DCE-US"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647530035,
+      "identifier": {
+        "doi": "10.1186/s12967-016-0813-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12967-015-0708-5"
+  },
+  "journal": "Journal of Translational Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Radiation treatment monitoring using multimodal functional imaging: PET/CT (18F-Fluoromisonidazole & 18F-Fluorocholine) and DCE-US"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1363910400000,"doi":"10.1098/rspb.2013.0381","type":"correction"},"doi":"10.1098/rspb.2012.2889","journal":"Proceedings of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Major histocompatibility complex peptide ligands as olfactory cues in human body odour assessment"}
+{
+  "retracted": false,
+  "timestamp": 1363910400000,
+  "updates": [
+    {
+      "timestamp": 1496001081132,
+      "identifier": {
+        "doi": "10.1098/rspb.2013.0381"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rspb.2012.2889"
+  },
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Major histocompatibility complex peptide ligands as olfactory cues in human body odour assessment"
+}

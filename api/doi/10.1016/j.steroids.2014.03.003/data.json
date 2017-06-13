@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1401580800000,"update":{"timestamp":null,"doi":null,"pmid":27280269,"type":"retraction"},"doi":"10.1016/j.steroids.2014.03.003","journal":"Steroids","publisher":null,"title":"Predictive and prognostic value of ER-α36 expression in breast cancer patients treated with chemotherapy."}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1495642981315,
+      "identifier": {
+        "doi": "10.1016/j.steroids.2016.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.steroids.2014.03.003"
+  },
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Predictive and prognostic value of ER-α36 expression in breast cancer patients treated with chemotherapy” [Steroids 84 (2014) 11–16]"
+}

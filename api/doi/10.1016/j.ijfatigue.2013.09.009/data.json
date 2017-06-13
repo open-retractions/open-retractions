@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.ijfatigue.2014.06.005","type":"err"},"doi":"10.1016/j.ijfatigue.2013.09.009","journal":"International Journal of Fatigue","publisher":"Elsevier BV","title":"Corrigendum to “Finite element analysis of the fatigue strength of copper power conductors exposed to tension and bending loads” [Int. J. Fatigue 59 (2014) 114–128]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496049050056,
+      "identifier": {
+        "doi": "10.1016/j.ijfatigue.2014.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijfatigue.2013.09.009"
+  },
+  "journal": "International Journal of Fatigue",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Finite element analysis of the fatigue strength of copper power conductors exposed to tension and bending loads” [Int. J. Fatigue 59 (2014) 114–128]"
+}

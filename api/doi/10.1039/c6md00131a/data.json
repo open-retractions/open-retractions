@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476921600000,"doi":"10.1039/c6md90048h","type":"correction"},"doi":"10.1039/c6md00131a","journal":"Med. Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: A new class of radiopeptides for PET imaging of neuromedin-B receptor: 68Ga-ranatensin analogs"}
+{
+  "retracted": false,
+  "timestamp": 1476921600000,
+  "updates": [
+    {
+      "timestamp": 1495650672212,
+      "identifier": {
+        "doi": "10.1039/c6md90048h"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6md00131a"
+  },
+  "journal": "Med. Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: A new class of radiopeptides for PET imaging of neuromedin-B receptor: 68Ga-ranatensin analogs"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.phrs.2014.09.002","type":"err"},"doi":"10.1016/j.phrs.2011.06.009","journal":"Pharmacological Research","publisher":"Elsevier BV","title":"Erratum to “Muscarinic receptors stimulate cell proliferation in the human urothelium-derived cell line UROtsa” [Pharmacol. Res. 64 (2011) 420–425]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496015979756,
+      "identifier": {
+        "doi": "10.1016/j.phrs.2014.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phrs.2011.06.009"
+  },
+  "journal": "Pharmacological Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Muscarinic receptors stimulate cell proliferation in the human urothelium-derived cell line UROtsa” [Pharmacol. Res. 64 (2011) 420–425]"
+}

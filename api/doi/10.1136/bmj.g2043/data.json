@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401667200000,"doi":"10.1136/bmj.g3501","type":"correction"},"doi":"10.1136/bmj.g2043","journal":"BMJ","publisher":"BMJ","title":"When and how to treat patients who refuse treatment"}
+{
+  "retracted": false,
+  "timestamp": 1401667200000,
+  "updates": [
+    {
+      "timestamp": 1496043080853,
+      "identifier": {
+        "doi": "10.1136/bmj.g3501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g2043"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "When and how to treat patients who refuse treatment"
+}

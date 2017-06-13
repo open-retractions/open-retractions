@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422835200000,"doi":"10.1136/bmj.h575","type":"correction"},"doi":"10.1136/bmj.g7827","journal":"BMJ","publisher":"BMJ","title":"The prevention and management of rabies"}
+{
+  "retracted": false,
+  "timestamp": 1422835200000,
+  "updates": [
+    {
+      "timestamp": 1496041191594,
+      "identifier": {
+        "doi": "10.1136/bmj.h575"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g7827"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "The prevention and management of rabies"
+}

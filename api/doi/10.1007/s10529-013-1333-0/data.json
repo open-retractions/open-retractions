@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1382659200000,"doi":"10.1007/s10529-013-1383-3","type":"correction"},"doi":"10.1007/s10529-013-1333-0","journal":"Biotechnology Letters","publisher":"Springer Nature","title":"Erratum to: Production of isobutanol from crude glycerol by a genetically-engineered Klebsiella pneumoniae strain"}
+{
+  "retracted": false,
+  "timestamp": 1382659200000,
+  "updates": [
+    {
+      "timestamp": 1495992084262,
+      "identifier": {
+        "doi": "10.1007/s10529-013-1383-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10529-013-1333-0"
+  },
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Production of isobutanol from crude glycerol by a genetically-engineered Klebsiella pneumoniae strain"
+}

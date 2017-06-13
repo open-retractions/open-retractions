@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446508800000,"doi":"10.1080/21670811.2015.1111968","type":"correction"},"doi":"10.1080/21670811.2015.1093271","journal":"Digital Journalism","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1446508800000,
+  "updates": [
+    {
+      "timestamp": 1496043089174,
+      "identifier": {
+        "doi": "10.1080/21670811.2015.1111968"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21670811.2015.1093271"
+  },
+  "journal": "Digital Journalism",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

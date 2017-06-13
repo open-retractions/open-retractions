@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1306972800000,"doi":"10.1371/annotation/700dcb3b-3475-49a1-9064-d9d070cda7be","type":"correction"},"doi":"10.1371/journal.ppat.1001125","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Molecular and Evolutionary Bases of Within-Patient Genotypic and Phenotypic Diversity in Escherichia coli Extraintestinal Infections"}
+{
+  "retracted": false,
+  "timestamp": 1306972800000,
+  "updates": [
+    {
+      "timestamp": 1495960218958,
+      "identifier": {
+        "doi": "10.1371/annotation/700dcb3b-3475-49a1-9064-d9d070cda7be"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1001125"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Molecular and Evolutionary Bases of Within-Patient Genotypic and Phenotypic Diversity in Escherichia coli Extraintestinal Infections"
+}

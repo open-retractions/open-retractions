@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.bbamcr.2015.05.003","type":"err"},"doi":"10.1016/j.bbamcr.2015.04.002","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “Determination of the Topology of Endoplasmic Reticulum Membrane Proteins Using Redox-sensitive Green-fluorescence Protein Fusions” [Biochim. Biophys. Acta 1853/7 (2015) 1672–1682]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1495999128038,
+      "identifier": {
+        "doi": "10.1016/j.bbamcr.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamcr.2015.04.002"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Determination of the Topology of Endoplasmic Reticulum Membrane Proteins Using Redox-sensitive Green-fluorescence Protein Fusions” [Biochim. Biophys. Acta 1853/7 (2015) 1672–1682]"
+}

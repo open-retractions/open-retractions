@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1136/bmj.g6765","type":"correction"},"doi":"10.1136/bmj.g5999","journal":"BMJ","publisher":"BMJ","title":"Syed Mohibur Rab"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496020339689,
+      "identifier": {
+        "doi": "10.1136/bmj.g6765"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g5999"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Syed Mohibur Rab"
+}

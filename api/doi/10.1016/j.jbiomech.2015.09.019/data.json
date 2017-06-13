@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.1016/j.jbiomech.2016.01.013","type":"err"},"doi":"10.1016/j.jbiomech.2015.09.019","journal":"Journal of Biomechanics","publisher":"Elsevier BV","title":"Corrigendum to “A soft-contact and wrench based approach to study grasp planning and execution” [J. Biomech. 48 (2015) 3961–3967]"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495640436440,
+      "identifier": {
+        "doi": "10.1016/j.jbiomech.2016.01.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiomech.2015.09.019"
+  },
+  "journal": "Journal of Biomechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A soft-contact and wrench based approach to study grasp planning and execution” [J. Biomech. 48 (2015) 3961–3967]"
+}

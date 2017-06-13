@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.soildyn.2013.07.001","type":"err"},"doi":"10.1016/j.soildyn.2013.02.016","journal":"Soil Dynamics and Earthquake Engineering","publisher":"Elsevier BV","title":"Corrigendum to “The reflection of P-waves in a poroelastic half-space saturated with viscous fluid” [Soil Dyn. Earthquake Eng. 49C (2013) 218–230]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496034721485,
+      "identifier": {
+        "doi": "10.1016/j.soildyn.2013.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.soildyn.2013.02.016"
+  },
+  "journal": "Soil Dynamics and Earthquake Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The reflection of P-waves in a poroelastic half-space saturated with viscous fluid” [Soil Dyn. Earthquake Eng. 49C (2013) 218–230]"
+}

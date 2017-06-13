@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410480000000,"doi":"10.1007/s11639-014-0087-3","type":"correction"},"doi":"10.1007/s11639-014-0072-x","journal":"LO SCALPELLO-OTODI Educational","publisher":"Springer Nature","title":"Erratum to: Editoriale"}
+{
+  "retracted": false,
+  "timestamp": 1410480000000,
+  "updates": [
+    {
+      "timestamp": 1496005786699,
+      "identifier": {
+        "doi": "10.1007/s11639-014-0087-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11639-014-0072-x"
+  },
+  "journal": "LO SCALPELLO-OTODI Educational",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Editoriale"
+}

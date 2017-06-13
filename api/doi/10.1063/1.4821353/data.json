@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1063/1.4875701","type":"correction"},"doi":"10.1063/1.4821353","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Efficiency at maximum power of a chemical engine” [J. Chem. Phys. 139, 134111 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496039853787,
+      "identifier": {
+        "doi": "10.1063/1.4875701"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4821353"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Efficiency at maximum power of a chemical engine” [J. Chem. Phys. 139, 134111 (2013)]"
+}

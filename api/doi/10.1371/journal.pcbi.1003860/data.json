@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415664000000,"doi":"10.1371/journal.pcbi.1004015","type":"correction"},"doi":"10.1371/journal.pcbi.1003860","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Exploring the miRNA Regulatory Network Using Evolutionary Correlations"}
+{
+  "retracted": false,
+  "timestamp": 1415664000000,
+  "updates": [
+    {
+      "timestamp": 1496020383007,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1004015"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003860"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Exploring the miRNA Regulatory Network Using Evolutionary Correlations"
+}

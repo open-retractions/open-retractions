@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1215561600000,"doi":"10.1007/s00254-008-1456-0","type":"correction"},"doi":"10.1007/s00254-008-1363-4","journal":"Environmental Geology","publisher":"Springer Nature","title":"Erratum to: Subsidence and uplift of Sidoarjo (East Java) due to the eruption of the Lusi mud volcano (2006–present)"}
+{
+  "retracted": false,
+  "timestamp": 1215561600000,
+  "updates": [
+    {
+      "timestamp": 1495864502970,
+      "identifier": {
+        "doi": "10.1007/s00254-008-1456-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00254-008-1363-4"
+  },
+  "journal": "Environmental Geology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Subsidence and uplift of Sidoarjo (East Java) due to the eruption of the Lusi mud volcano (2006–present)"
+}

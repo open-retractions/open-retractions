@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.tibs.2014.04.005","type":"err"},"doi":"10.1016/j.tibs.2013.11.001","journal":"Trends in Biochemical Sciences","publisher":"Elsevier BV","title":"Erratum to: “The universality of enzymatic rate–temperature dependency”"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496038779214,
+      "identifier": {
+        "doi": "10.1016/j.tibs.2014.04.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tibs.2013.11.001"
+  },
+  "journal": "Trends in Biochemical Sciences",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: “The universality of enzymatic rate–temperature dependency”"
+}

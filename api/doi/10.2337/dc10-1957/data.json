@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1296518400000,"update":{"timestamp":null,"doi":null,"pmid":21868785,"type":"retraction"},"doi":"10.2337/dc10-1957","journal":"Diabetes care","publisher":null,"title":"Glycemic response to ingested dreamfields pasta compared with traditional pasta."}
+{
+  "retracted": false,
+  "timestamp": 1314835200000,
+  "updates": [
+    {
+      "timestamp": 1495988987129,
+      "identifier": {
+        "doi": "10.2337/dc11-wd09"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc10-1957"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Withdrawn"
+}

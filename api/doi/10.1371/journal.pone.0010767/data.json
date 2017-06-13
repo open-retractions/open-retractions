@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1303862400000,"doi":"10.1371/annotation/9b9cc4ae-ad56-464f-ab97-59f096b5c0eb","type":"correction"},"doi":"10.1371/journal.pone.0010767","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Targeting EGFR Induced Oxidative Stress by PARP1 Inhibition in Glioblastoma Therapy"}
+{
+  "retracted": false,
+  "timestamp": 1303862400000,
+  "updates": [
+    {
+      "timestamp": 1495953862009,
+      "identifier": {
+        "doi": "10.1371/annotation/9b9cc4ae-ad56-464f-ab97-59f096b5c0eb"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0010767"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Targeting EGFR Induced Oxidative Stress by PARP1 Inhibition in Glioblastoma Therapy"
+}

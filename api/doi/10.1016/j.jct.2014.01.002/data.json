@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jct.2015.05.010","type":"err"},"doi":"10.1016/j.jct.2014.01.002","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Contribution to study of the thermodynamics properties of mixtures containing 2-methoxy-methylpropane, alkanol, alkane” [J. Chem. Thermodyn. 73 (2014) 224–231]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496003155308,
+      "identifier": {
+        "doi": "10.1016/j.jct.2015.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2014.01.002"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Contribution to study of the thermodynamics properties of mixtures containing 2-methoxy-methylpropane, alkanol, alkane” [J. Chem. Thermodyn. 73 (2014) 224–231]"
+}

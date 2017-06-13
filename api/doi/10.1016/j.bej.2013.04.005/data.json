@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1016/j.bej.2014.11.012","type":"err"},"doi":"10.1016/j.bej.2013.04.005","journal":"Biochemical Engineering Journal","publisher":"Elsevier BV","title":"Corrigendum to “Purification and characterization of fluorinated ketone reductase from Geotrichum candidum NBRC 5767” [Biochem. Eng. J. 76 (2013) 13–16]"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496027143980,
+      "identifier": {
+        "doi": "10.1016/j.bej.2014.11.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bej.2013.04.005"
+  },
+  "journal": "Biochemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Purification and characterization of fluorinated ketone reductase from Geotrichum candidum NBRC 5767” [Biochem. Eng. J. 76 (2013) 13–16]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460505600000,"doi":"10.1007/s10915-016-0202-0","type":"correction"},"doi":"10.1007/s10915-016-0173-1","journal":"Journal of Scientific Computing","publisher":"Springer Nature","title":"Erratum to: An Integrated Linear Reconstruction for Finite Volume Scheme on Unstructured Grids"}
+{
+  "retracted": false,
+  "timestamp": 1460505600000,
+  "updates": [
+    {
+      "timestamp": 1495666571201,
+      "identifier": {
+        "doi": "10.1007/s10915-016-0202-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10915-016-0173-1"
+  },
+  "journal": "Journal of Scientific Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: An Integrated Linear Reconstruction for Finite Volume Scheme on Unstructured Grids"
+}

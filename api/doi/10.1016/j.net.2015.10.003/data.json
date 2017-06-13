@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.net.2016.03.006","type":"err"},"doi":"10.1016/j.net.2015.10.003","journal":"Nuclear Engineering and Technology","publisher":"Elsevier BV","title":"Corrigendum to “Carbon Contained Ammonium Diuranate Gel Particles Preparation in Mid-Process of High-Temperature Gas-Cooled Reactor Fuel Fabrication” [Nucl. Eng. Technol. 48 (2016) 175–181]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495668084587,
+      "identifier": {
+        "doi": "10.1016/j.net.2016.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.net.2015.10.003"
+  },
+  "journal": "Nuclear Engineering and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Carbon Contained Ammonium Diuranate Gel Particles Preparation in Mid-Process of High-Temperature Gas-Cooled Reactor Fuel Fabrication” [Nucl. Eng. Technol. 48 (2016) 175–181]"
+}

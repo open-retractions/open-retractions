@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348704000000,"doi":"10.1063/1.4757116","type":"correction"},"doi":"10.1063/1.3491110","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: “Gyrokinetic simulations including the centrifugal force in a rotating tokamak plasma” [Phys. Plasmas 17, 102305 (2010)]"}
+{
+  "retracted": false,
+  "timestamp": 1348704000000,
+  "updates": [
+    {
+      "timestamp": 1495955697678,
+      "identifier": {
+        "doi": "10.1063/1.4757116"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3491110"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Gyrokinetic simulations including the centrifugal force in a rotating tokamak plasma” [Phys. Plasmas 17, 102305 (2010)]"
+}

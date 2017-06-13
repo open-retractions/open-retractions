@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.jcat.2016.02.016","type":"err"},"doi":"10.1016/j.jcat.2015.08.014","journal":"Journal of Catalysis","publisher":"Elsevier BV","title":"Corrigendum to “Low temperature CO oxidation over unsupported nanoporous gold catalysts with “active” or “inert” oxide residues” [J. Catal. 332 (2015) 31–37]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495646747016,
+      "identifier": {
+        "doi": "10.1016/j.jcat.2016.02.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcat.2015.08.014"
+  },
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low temperature CO oxidation over unsupported nanoporous gold catalysts with “active” or “inert” oxide residues” [J. Catal. 332 (2015) 31–37]"
+}

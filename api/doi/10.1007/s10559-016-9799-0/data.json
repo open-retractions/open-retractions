@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1007/s10559-016-9833-2","type":"correction"},"doi":"10.1007/s10559-016-9799-0","journal":"Cybernetics and Systems Analysis","publisher":"Springer Nature","title":"Erratum to: Using the Monte Carlo Method for Fast Simulation of the Number of “Good” Permutations on the SCIT-4 Multiprocessor Computer Complex"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495661085315,
+      "identifier": {
+        "doi": "10.1007/s10559-016-9833-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10559-016-9799-0"
+  },
+  "journal": "Cybernetics and Systems Analysis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Using the Monte Carlo Method for Fast Simulation of the Number of “Good” Permutations on the SCIT-4 Multiprocessor Computer Complex"
+}

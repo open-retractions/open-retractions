@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.fgb.2016.06.005","type":"err"},"doi":"10.1016/j.fgb.2016.04.004","journal":"Fungal Genetics and Biology","publisher":"Elsevier BV","title":"Corrigendum to “Oxygen-independent FbFP: Fluorescent sentinel and oxygen sensor component in Saccharomyces cerevisiae and Candida albicans” [Fungal Genet. Biol. 92 (2016) 14–25]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495724133630,
+      "identifier": {
+        "doi": "10.1016/j.fgb.2016.06.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fgb.2016.04.004"
+  },
+  "journal": "Fungal Genetics and Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Oxygen-independent FbFP: Fluorescent sentinel and oxygen sensor component in Saccharomyces cerevisiae and Candida albicans” [Fungal Genet. Biol. 92 (2016) 14–25]"
+}

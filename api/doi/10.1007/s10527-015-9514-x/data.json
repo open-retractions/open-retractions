@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447459200000,"doi":"10.1007/s10527-015-9540-8","type":"correction"},"doi":"10.1007/s10527-015-9514-x","journal":"Biomedical Engineering","publisher":"Springer Nature","title":"Erratum to: Scanning Probe Nanotomograph: Features of Engineering Solutions for Low-Temperature Analysis of Biomedical Materials"}
+{
+  "retracted": false,
+  "timestamp": 1447459200000,
+  "updates": [
+    {
+      "timestamp": 1496045839310,
+      "identifier": {
+        "doi": "10.1007/s10527-015-9540-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10527-015-9514-x"
+  },
+  "journal": "Biomedical Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Scanning Probe Nanotomograph: Features of Engineering Solutions for Low-Temperature Analysis of Biomedical Materials"
+}

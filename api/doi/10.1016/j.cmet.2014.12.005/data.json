@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422921600000,"doi":"10.1016/j.cmet.2015.01.017","type":"err"},"doi":"10.1016/j.cmet.2014.12.005","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Pyruvate Kinase M2 Regulates Hif-1α Activity and IL-1β Induction and Is a Critical Determinant of the Warburg Effect in LPS-Activated Macrophages"}
+{
+  "retracted": false,
+  "timestamp": 1422921600000,
+  "updates": [
+    {
+      "timestamp": 1496041772341,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2015.01.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2014.12.005"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Pyruvate Kinase M2 Regulates Hif-1α Activity and IL-1β Induction and Is a Critical Determinant of the Warburg Effect in LPS-Activated Macrophages"
+}

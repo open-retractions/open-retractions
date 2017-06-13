@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397174400000,"doi":"10.1007/s00221-014-3923-z","type":"correction"},"doi":"10.1007/s00221-014-3888-y","journal":"Experimental Brain Research","publisher":"Springer Nature","title":"Erratum to: Phosphene-guided transcranial magnetic stimulation of occipital but not parietal cortex suppresses stimulus visibility"}
+{
+  "retracted": false,
+  "timestamp": 1397174400000,
+  "updates": [
+    {
+      "timestamp": 1496031825337,
+      "identifier": {
+        "doi": "10.1007/s00221-014-3923-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00221-014-3888-y"
+  },
+  "journal": "Experimental Brain Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Phosphene-guided transcranial magnetic stimulation of occipital but not parietal cortex suppresses stimulus visibility"
+}

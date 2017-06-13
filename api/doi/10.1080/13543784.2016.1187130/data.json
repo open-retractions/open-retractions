@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476921600000,"doi":"10.1080/13543784.2016.1249147","type":"correction"},"doi":"10.1080/13543784.2016.1187130","journal":"Expert Opinion on Investigational Drugs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1476921600000,
+  "updates": [
+    {
+      "timestamp": 1495650667101,
+      "identifier": {
+        "doi": "10.1080/13543784.2016.1249147"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13543784.2016.1187130"
+  },
+  "journal": "Expert Opinion on Investigational Drugs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

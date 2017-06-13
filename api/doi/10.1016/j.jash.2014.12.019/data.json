@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jash.2015.11.007","type":"err"},"doi":"10.1016/j.jash.2014.12.019","journal":"Journal of the American Society of Hypertension","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496051726322,
+      "identifier": {
+        "doi": "10.1016/j.jash.2015.11.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jash.2014.12.019"
+  },
+  "journal": "Journal of the American Society of Hypertension",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

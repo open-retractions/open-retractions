@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1366848000000,"doi":"10.1371/annotation/d8a41471-71e5-45a2-bb57-5f565258142f","type":"correction"},"doi":"10.1371/journal.pone.0045331","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: SIRT1 Regulates Endothelial Notch Signaling in Lung Cancer"}
+{
+  "retracted": false,
+  "timestamp": 1366848000000,
+  "updates": [
+    {
+      "timestamp": 1491912774031,
+      "identifier": {
+        "doi": "10.1371/annotation/d8a41471-71e5-45a2-bb57-5f565258142f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045331"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: SIRT1 Regulates Endothelial Notch Signaling in Lung Cancer"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.matlet.2015.06.080","type":"err"},"doi":"10.1016/j.matlet.2013.03.069","journal":"Materials Letters","publisher":"Elsevier BV","title":"Retraction notice to “Modification of spontaneous emission from fluorescent spheres by partially disordered photonic crystals” [Mater. Lett. 101 (2013) 44–46]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496025052761,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2015.06.080"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matlet.2013.03.069"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Modification of spontaneous emission from fluorescent spheres by partially disordered photonic crystals” [Mater. Lett. 101 (2013) 44–46]"
+}

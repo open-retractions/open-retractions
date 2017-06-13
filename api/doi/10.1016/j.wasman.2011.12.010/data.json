@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.wasman.2016.03.014","type":"erratum"},"doi":"10.1016/j.wasman.2011.12.010","journal":"Waste Management","publisher":"Elsevier BV","title":"Corrigendum to “Projecting the environmental profile of Singapore’s landfill activities: Comparisons of present and future scenarios based on LCA” [Waste Manage. 32 (2012) 890–900]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495653578792,
+      "identifier": {
+        "doi": "10.1016/j.wasman.2016.03.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wasman.2011.12.010"
+  },
+  "journal": "Waste Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Projecting the environmental profile of Singapore’s landfill activities: Comparisons of present and future scenarios based on LCA” [Waste Manage. 32 (2012) 890–900]"
+}

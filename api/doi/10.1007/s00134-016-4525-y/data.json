@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1474588800000,"doi":"10.1007/s00134-016-4557-3","type":"correction"},"doi":"10.1007/s00134-016-4525-y","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: Visit to intensive care of 2050"}
+{
+  "retracted": false,
+  "timestamp": 1474588800000,
+  "updates": [
+    {
+      "timestamp": 1495642364054,
+      "identifier": {
+        "doi": "10.1007/s00134-016-4557-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-016-4525-y"
+  },
+  "journal": "Intensive Care Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Visit to intensive care of 2050"
+}

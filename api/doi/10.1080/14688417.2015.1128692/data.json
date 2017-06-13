@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461628800000,"doi":"10.1080/14688417.2016.1173399","type":"correction"},"doi":"10.1080/14688417.2015.1128692","journal":"Green Letters","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1461628800000,
+  "updates": [
+    {
+      "timestamp": 1495668927321,
+      "identifier": {
+        "doi": "10.1080/14688417.2016.1173399"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14688417.2015.1128692"
+  },
+  "journal": "Green Letters",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

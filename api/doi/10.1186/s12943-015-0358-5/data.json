@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438300800000,"doi":"10.1186/s12943-015-0401-6","type":"correction"},"doi":"10.1186/s12943-015-0358-5","journal":"Molecular Cancer","publisher":"Springer Nature","title":"Erratum to: Next-generation sequencing reveals novel differentially regulated mRNAs, lncRNAs, miRNAs, sdRNAs and a piRNA in pancreatic cancer"}
+{
+  "retracted": false,
+  "timestamp": 1438300800000,
+  "updates": [
+    {
+      "timestamp": 1496019094041,
+      "identifier": {
+        "doi": "10.1186/s12943-015-0401-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12943-015-0358-5"
+  },
+  "journal": "Molecular Cancer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Next-generation sequencing reveals novel differentially regulated mRNAs, lncRNAs, miRNAs, sdRNAs and a piRNA in pancreatic cancer"
+}

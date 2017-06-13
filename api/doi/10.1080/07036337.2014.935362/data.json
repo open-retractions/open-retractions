@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410307200000,"doi":"10.1080/07036337.2014.959752","type":"correction"},"doi":"10.1080/07036337.2014.935362","journal":"Journal of European Integration","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1410307200000,
+  "updates": [
+    {
+      "timestamp": 1496006617637,
+      "identifier": {
+        "doi": "10.1080/07036337.2014.959752"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07036337.2014.935362"
+  },
+  "journal": "Journal of European Integration",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

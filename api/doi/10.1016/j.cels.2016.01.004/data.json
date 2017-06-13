@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456272000000,"doi":"10.1016/j.cels.2016.02.010","type":"erratum"},"doi":"10.1016/j.cels.2016.01.004","journal":"Cell Systems","publisher":"Elsevier BV","title":"Antithetic Integral Feedback Ensures Robust Perfect Adaptation in Noisy Biomolecular Networks"}
+{
+  "retracted": false,
+  "timestamp": 1456272000000,
+  "updates": [
+    {
+      "timestamp": 1495647552848,
+      "identifier": {
+        "doi": "10.1016/j.cels.2016.02.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cels.2016.01.004"
+  },
+  "journal": "Cell Systems",
+  "publisher": "Elsevier BV",
+  "title": "Antithetic Integral Feedback Ensures Robust Perfect Adaptation in Noisy Biomolecular Networks"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434067200000,"doi":"10.1007/s11548-015-1227-9","type":"correction"},"doi":"10.1007/s11548-015-1186-1","journal":"International Journal of Computer Assisted Radiology and Surgery","publisher":"Springer Nature","title":"Erratum to: Data-driven spatio-temporal RGBD feature encoding for action recognition in operating rooms"}
+{
+  "retracted": false,
+  "timestamp": 1434067200000,
+  "updates": [
+    {
+      "timestamp": 1496006639722,
+      "identifier": {
+        "doi": "10.1007/s11548-015-1227-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11548-015-1186-1"
+  },
+  "journal": "International Journal of Computer Assisted Radiology and Surgery",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Data-driven spatio-temporal RGBD feature encoding for action recognition in operating rooms"
+}

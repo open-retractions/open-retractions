@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405382400000,"doi":"10.1016/j.jchromb.2014.05.033","type":"err"},"doi":"10.1016/j.jchromb.2013.10.034","journal":"Journal of Chromatography B","publisher":"Elsevier BV","title":"Corrigendum to: “Determination of trichothecenes A (T-2 toxin, HT-2 toxin, and diacetoxyscirpenol) in the tissues of broilers using liquid chromatography coupled to tandem mass spectrometry” [J. Chromatogr. B 942–943 (2013) 88–97]"}
+{
+  "retracted": false,
+  "timestamp": 1405382400000,
+  "updates": [
+    {
+      "timestamp": 1496042939716,
+      "identifier": {
+        "doi": "10.1016/j.jchromb.2014.05.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jchromb.2013.10.034"
+  },
+  "journal": "Journal of Chromatography B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Determination of trichothecenes A (T-2 toxin, HT-2 toxin, and diacetoxyscirpenol) in the tissues of broilers using liquid chromatography coupled to tandem mass spectrometry” [J. Chromatogr. B 942–943 (2013) 88–97]"
+}

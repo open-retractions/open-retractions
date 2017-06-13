@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.pnucene.2014.12.012","type":"err"},"doi":"10.1016/j.pnucene.2014.11.014","journal":"Progress in Nuclear Energy","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of candidate materials for SCWR turbine and balance of plant shielding” [Prog. Nucl. Energy, 79, 136–141]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496035243604,
+      "identifier": {
+        "doi": "10.1016/j.pnucene.2014.12.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pnucene.2014.11.014"
+  },
+  "journal": "Progress in Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of candidate materials for SCWR turbine and balance of plant shielding” [Prog. Nucl. Energy, 79, 136–141]"
+}

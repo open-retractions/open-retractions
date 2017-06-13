@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1346112000000,"doi":"10.1073/pnas.1214319109","type":"correction"},"doi":"10.1073/pnas.1203834109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Breiderhoff et al., Deletion of claudin-10 (Cldn10) in the thick ascending limb impairs paracellular sodium permeability and leads to hypermagnesemia and nephrocalcinosis"}
+{
+  "retracted": false,
+  "timestamp": 1346112000000,
+  "updates": [
+    {
+      "timestamp": 1495945462580,
+      "identifier": {
+        "doi": "10.1073/pnas.1214319109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1203834109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Breiderhoff et al., Deletion of claudin-10 (Cldn10) in the thick ascending limb impairs paracellular sodium permeability and leads to hypermagnesemia and nephrocalcinosis"
+}

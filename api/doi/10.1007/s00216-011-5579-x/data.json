@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1328313600000,"doi":"10.1007/s00216-012-5786-0","type":"correction"},"doi":"10.1007/s00216-011-5579-x","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: A review of recent developments in the speciation and location of arsenic and selenium in rice grain"}
+{
+  "retracted": false,
+  "timestamp": 1328313600000,
+  "updates": [
+    {
+      "timestamp": 1495867858793,
+      "identifier": {
+        "doi": "10.1007/s00216-012-5786-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-011-5579-x"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A review of recent developments in the speciation and location of arsenic and selenium in rice grain"
+}

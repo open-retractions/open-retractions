@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226707200000,"doi":"10.1007/bf02950497","type":"correction"},"doi":"10.1007/bf02950489","journal":"The Irish Journal of Medical Science","publisher":"Springer Nature","title":"Erratum to: Vagotomy"}
+{
+  "retracted": false,
+  "timestamp": 1226707200000,
+  "updates": [
+    {
+      "timestamp": 1496013023749,
+      "identifier": {
+        "doi": "10.1007/bf02950497"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02950489"
+  },
+  "journal": "The Irish Journal of Medical Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Vagotomy"
+}

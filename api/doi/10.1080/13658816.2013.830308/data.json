@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412812800000,"doi":"10.1080/13658816.2014.938079","type":"correction"},"doi":"10.1080/13658816.2013.830308","journal":"International Journal of Geographical Information Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1412812800000,
+  "updates": [
+    {
+      "timestamp": 1496004972596,
+      "identifier": {
+        "doi": "10.1080/13658816.2014.938079"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13658816.2013.830308"
+  },
+  "journal": "International Journal of Geographical Information Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

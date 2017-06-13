@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.brainresbull.2016.12.014","type":"erratum"},"doi":"10.1016/j.brainresbull.2016.08.013","journal":"Brain Research Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Colocalization of neurotransmitter transporters on the plasma membrane of the same nerve terminal may reflect cotransmission” [Brain Res. Bull. 127 (2016) 100–110]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495665100131,
+      "identifier": {
+        "doi": "10.1016/j.brainresbull.2016.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainresbull.2016.08.013"
+  },
+  "journal": "Brain Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Colocalization of neurotransmitter transporters on the plasma membrane of the same nerve terminal may reflect cotransmission” [Brain Res. Bull. 127 (2016) 100–110]"
+}

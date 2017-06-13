@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.matdes.2014.04.065","type":"err"},"doi":"10.1016/j.matdes.2011.02.049","journal":"Materials & Design","publisher":"Elsevier BV","title":"Corrigendum to “Application of neural network and genetic algorithm to powder metallurgy of pure iron” [Mater. Des. 32 (6) (2011) 3183–3188]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496056686708,
+      "identifier": {
+        "doi": "10.1016/j.matdes.2014.04.065"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matdes.2011.02.049"
+  },
+  "journal": "Materials & Design",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Application of neural network and genetic algorithm to powder metallurgy of pure iron” [Mater. Des. 32 (6) (2011) 3183–3188]"
+}

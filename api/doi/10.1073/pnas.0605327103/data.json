@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1159833600000,"doi":"10.1073/pnas.0607610103","type":"correction"},"doi":"10.1073/pnas.0605327103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Stiller et al., Patterns of nucleotide misincorporations during enzymatic amplification and direct large-scale sequencing of ancient DNA"}
+{
+  "retracted": false,
+  "timestamp": 1159833600000,
+  "updates": [
+    {
+      "timestamp": 1495866858766,
+      "identifier": {
+        "doi": "10.1073/pnas.0607610103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0605327103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Stiller et al., Patterns of nucleotide misincorporations during enzymatic amplification and direct large-scale sequencing of ancient DNA"
+}

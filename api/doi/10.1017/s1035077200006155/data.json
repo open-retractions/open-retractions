@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456704000000,"doi":"10.1017/s1035077200010750","type":"correction"},"doi":"10.1017/s1035077200006155","journal":"Children Australia","publisher":"Cambridge University Press (CUP)","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456704000000,
+  "updates": [
+    {
+      "timestamp": 1495723410716,
+      "identifier": {
+        "doi": "10.1017/s1035077200010750"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1017/s1035077200006155"
+  },
+  "journal": "Children Australia",
+  "publisher": "Cambridge University Press (CUP)",
+  "title": "Erratum"
+}

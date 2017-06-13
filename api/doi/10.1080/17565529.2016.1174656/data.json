@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467072000000,"doi":"10.1080/17565529.2016.1203625","type":"correction"},"doi":"10.1080/17565529.2016.1174656","journal":"Climate and Development","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1467072000000,
+  "updates": [
+    {
+      "timestamp": 1495723077330,
+      "identifier": {
+        "doi": "10.1080/17565529.2016.1203625"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17565529.2016.1174656"
+  },
+  "journal": "Climate and Development",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385856000000,"doi":"10.1016/j.jct.2013.06.017","type":"err"},"doi":"10.1016/j.jct.2011.11.020","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Erratum to “Combined effects of salinity and temperature on the solubility of organic compounds” [J. Chem. Thermodyn. 48 (2012) 54–64]"}
+{
+  "retracted": false,
+  "timestamp": 1385856000000,
+  "updates": [
+    {
+      "timestamp": 1496031959902,
+      "identifier": {
+        "doi": "10.1016/j.jct.2013.06.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2011.11.020"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Combined effects of salinity and temperature on the solubility of organic compounds” [J. Chem. Thermodyn. 48 (2012) 54–64]"
+}

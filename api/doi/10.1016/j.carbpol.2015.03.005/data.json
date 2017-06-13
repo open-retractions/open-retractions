@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468108800000,"doi":"10.1016/j.carbpol.2016.03.069","type":"err"},"doi":"10.1016/j.carbpol.2015.03.005","journal":"Carbohydrate Polymers","publisher":"Elsevier BV","title":"Corrigendum to “Manipulation of cellulose nanocrystal surface sulfate groups toward biomimetic nanostructures in aqueous media” [Carbohydr. Polym. 126 (2015) 23–31]"}
+{
+  "retracted": false,
+  "timestamp": 1468108800000,
+  "updates": [
+    {
+      "timestamp": 1495663638183,
+      "identifier": {
+        "doi": "10.1016/j.carbpol.2016.03.069"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbpol.2015.03.005"
+  },
+  "journal": "Carbohydrate Polymers",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Manipulation of cellulose nanocrystal surface sulfate groups toward biomimetic nanostructures in aqueous media” [Carbohydr. Polym. 126 (2015) 23–31]"
+}

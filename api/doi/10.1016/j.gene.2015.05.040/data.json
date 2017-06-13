@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461542400000,"doi":"10.1016/j.gene.2016.01.045","type":"err"},"doi":"10.1016/j.gene.2015.05.040","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to “Lack of relationship between the P413L chromogranin B variant and a SALS Italian cohort” [GENE 568/2 (2015) 186–189]"}
+{
+  "retracted": false,
+  "timestamp": 1461542400000,
+  "updates": [
+    {
+      "timestamp": 1495641793462,
+      "identifier": {
+        "doi": "10.1016/j.gene.2016.01.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2015.05.040"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lack of relationship between the P413L chromogranin B variant and a SALS Italian cohort” [GENE 568/2 (2015) 186–189]"
+}

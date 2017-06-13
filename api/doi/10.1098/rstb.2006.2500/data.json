@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1167350400000,"doi":"10.1098/rstb.2010.0375","type":"correction"},"doi":"10.1098/rstb.2006.2500","journal":"Philosophical Transactions of the Royal Society B: Biological Sciences","publisher":"The Royal Society","title":"Erratum to Implications of a 3.472-3.333-Gyr-old subaerial microbial mat from the Barberton greenstone belt, South Africa for the UV environmental conditions on the early Earth"}
+{
+  "retracted": false,
+  "timestamp": 1167350400000,
+  "updates": [
+    {
+      "timestamp": 1495897701936,
+      "identifier": {
+        "doi": "10.1098/rstb.2010.0375"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rstb.2006.2500"
+  },
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "publisher": "The Royal Society",
+  "title": "Erratum to Implications of a 3.472-3.333-Gyr-old subaerial microbial mat from the Barberton greenstone belt, South Africa for the UV environmental conditions on the early Earth"
+}

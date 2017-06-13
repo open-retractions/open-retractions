@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bbr.2014.12.048","type":"err"},"doi":"10.1016/j.bbr.2011.04.034","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Corrigendum to “Accurate performance of a rat model of schizophrenia in the water maze depends on visual cue availability and stability: A distortion in cognitive mapping abilities?” [Behav. Brain Res. 223 (2011) 145–153]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496033529842,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2014.12.048"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2011.04.034"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Accurate performance of a rat model of schizophrenia in the water maze depends on visual cue availability and stability: A distortion in cognitive mapping abilities?” [Behav. Brain Res. 223 (2011) 145–153]"
+}

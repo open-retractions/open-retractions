@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456876800000,"doi":"10.1371/journal.pone.0150778","type":"correction"},"doi":"10.1371/journal.pone.0143377","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Bioinformatics Analysis of the Effects of Tobacco Smoke on Gene Expression"}
+{
+  "retracted": false,
+  "timestamp": 1456876800000,
+  "updates": [
+    {
+      "timestamp": 1495649679539,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0150778"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0143377"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Bioinformatics Analysis of the Effects of Tobacco Smoke on Gene Expression"
+}

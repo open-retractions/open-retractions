@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395792000000,"doi":"10.1063/1.4869979","type":"correction"},"doi":"10.1063/1.3679385","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “On the influence of a patterned substrate on crystallization in suspensions of hard spheres” [J. Chem. Phys. 136, 044702 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1395792000000,
+  "updates": [
+    {
+      "timestamp": 1496028607613,
+      "identifier": {
+        "doi": "10.1063/1.4869979"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3679385"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On the influence of a patterned substrate on crystallization in suspensions of hard spheres” [J. Chem. Phys. 136, 044702 (2012)]"
+}

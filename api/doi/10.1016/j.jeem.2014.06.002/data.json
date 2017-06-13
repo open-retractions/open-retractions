@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.jeem.2014.10.001","type":"err"},"doi":"10.1016/j.jeem.2014.06.002","journal":"Journal of Environmental Economics and Management","publisher":"Elsevier BV","title":"Corrigendum to: “Do EPA regulations affect labor demand? Evidence from the pulp and paper industry” [J. Environ. Econ. Manag. 68(1) (2014) 188–202]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496018336507,
+      "identifier": {
+        "doi": "10.1016/j.jeem.2014.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jeem.2014.06.002"
+  },
+  "journal": "Journal of Environmental Economics and Management",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Do EPA regulations affect labor demand? Evidence from the pulp and paper industry” [J. Environ. Econ. Manag. 68(1) (2014) 188–202]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200614400000,"doi":"10.1007/bf02742991","type":"correction"},"doi":"10.1007/bf02743056","journal":"La Rivista del Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: Quantum mechanics: Then and since"}
+{
+  "retracted": false,
+  "timestamp": 1200614400000,
+  "updates": [
+    {
+      "timestamp": 1495822306775,
+      "identifier": {
+        "doi": "10.1007/bf02742991"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02743056"
+  },
+  "journal": "La Rivista del Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Quantum mechanics: Then and since"
+}

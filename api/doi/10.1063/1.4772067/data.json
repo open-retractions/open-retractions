@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387756800000,"doi":"10.1063/1.4853995","type":"correction"},"doi":"10.1063/1.4772067","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “On shear-coupled migration of grain boundaries in nanocrystalline materials” [Appl. Phys. Lett. 101, 241915 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1387756800000,
+  "updates": [
+    {
+      "timestamp": 1496007056830,
+      "identifier": {
+        "doi": "10.1063/1.4853995"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4772067"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “On shear-coupled migration of grain boundaries in nanocrystalline materials” [Appl. Phys. Lett. 101, 241915 (2012)]"
+}

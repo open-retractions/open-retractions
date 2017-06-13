@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1405296000000,"doi":"10.1016/j.devcel.2014.06.030","type":"err"},"doi":"10.1016/j.devcel.2013.11.022","journal":"Developmental Cell","publisher":"Elsevier BV","title":"The C. elegans LC3 Acts Downstream of GABARAP to Degrade Autophagosomes by Interacting with the HOPS Subunit VPS39"}
+{
+  "retracted": false,
+  "timestamp": 1405296000000,
+  "updates": [
+    {
+      "timestamp": 1496053542793,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2014.06.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2013.11.022"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "The C. elegans LC3 Acts Downstream of GABARAP to Degrade Autophagosomes by Interacting with the HOPS Subunit VPS39"
+}

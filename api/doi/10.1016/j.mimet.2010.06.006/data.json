@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1325376000000,"doi":"10.1016/j.mimet.2011.11.010","type":"err"},"doi":"10.1016/j.mimet.2010.06.006","journal":"Journal of Microbiological Methods","publisher":"Elsevier BV","title":"Corrigendum to Development of a real-time SYBRGreen PCR assay for rapid detection of acquired AmpC in Enterobacteriaceae [J. Microbiol. Methods. 82 (2010) 229–233]"}
+{
+  "retracted": false,
+  "timestamp": 1325376000000,
+  "updates": [
+    {
+      "timestamp": 1495845352873,
+      "identifier": {
+        "doi": "10.1016/j.mimet.2011.11.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mimet.2010.06.006"
+  },
+  "journal": "Journal of Microbiological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Development of a real-time SYBRGreen PCR assay for rapid detection of acquired AmpC in Enterobacteriaceae [J. Microbiol. Methods. 82 (2010) 229–233]"
+}

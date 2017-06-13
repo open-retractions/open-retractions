@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489017600000,"doi":"10.1186/s12906-017-1661-z","type":"correction"},"doi":"10.1186/s12906-016-1531-0","journal":"BMC Complementary and Alternative Medicine","publisher":"Springer Nature","title":"Erratum to: Wild carrot pentane-based fractions suppress proliferation of human HaCaT keratinocytes and protect against chemically-induced skin cancer"}
+{
+  "retracted": false,
+  "timestamp": 1489017600000,
+  "updates": [
+    {
+      "timestamp": 1495727620471,
+      "identifier": {
+        "doi": "10.1186/s12906-017-1661-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12906-016-1531-0"
+  },
+  "journal": "BMC Complementary and Alternative Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Wild carrot pentane-based fractions suppress proliferation of human HaCaT keratinocytes and protect against chemically-induced skin cancer"
+}

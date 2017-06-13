@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476921600000,"doi":"10.1186/s12864-016-2811-2","type":"correction"},"doi":"10.1186/s12864-016-2604-7","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: ‘Consensus pan-genome assembly of the specialised wine bacterium Oenococcus oeni’"}
+{
+  "retracted": false,
+  "timestamp": 1476921600000,
+  "updates": [
+    {
+      "timestamp": 1495650579103,
+      "identifier": {
+        "doi": "10.1186/s12864-016-2811-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12864-016-2604-7"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ‘Consensus pan-genome assembly of the specialised wine bacterium Oenococcus oeni’"
+}

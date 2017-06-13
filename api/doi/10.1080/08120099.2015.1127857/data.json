@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455062400000,"doi":"10.1080/08120099.2016.1150239","type":"correction"},"doi":"10.1080/08120099.2015.1127857","journal":"Australian Journal of Earth Sciences","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1455062400000,
+  "updates": [
+    {
+      "timestamp": 1495644035075,
+      "identifier": {
+        "doi": "10.1080/08120099.2016.1150239"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08120099.2015.1127857"
+  },
+  "journal": "Australian Journal of Earth Sciences",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

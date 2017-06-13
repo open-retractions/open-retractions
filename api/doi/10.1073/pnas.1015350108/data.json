@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1295913600000,"doi":"10.1073/pnas.1104040108","type":"correction"},"doi":"10.1073/pnas.1015350108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Cao et al., Irradiation induces bone injury by damaging bone marrow microenvironment for stem cells"}
+{
+  "retracted": false,
+  "timestamp": 1295913600000,
+  "updates": [
+    {
+      "timestamp": 1495943688316,
+      "identifier": {
+        "doi": "10.1073/pnas.1104040108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1015350108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Cao et al., Irradiation induces bone injury by damaging bone marrow microenvironment for stem cells"
+}

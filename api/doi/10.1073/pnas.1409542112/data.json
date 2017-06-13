@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429574400000,"doi":"10.1073/pnas.1505858112","type":"correction"},"doi":"10.1073/pnas.1409542112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Hoboth et al., Aged insulin granules display reduced microtubule-dependent mobility and are disposed within actin-positive multigranular bodies"}
+{
+  "retracted": false,
+  "timestamp": 1429574400000,
+  "updates": [
+    {
+      "timestamp": 1496054291166,
+      "identifier": {
+        "doi": "10.1073/pnas.1505858112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1409542112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Hoboth et al., Aged insulin granules display reduced microtubule-dependent mobility and are disposed within actin-positive multigranular bodies"
+}

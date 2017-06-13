@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432857600000,"doi":"10.1016/j.tsf.2015.04.006","type":"erratum"},"doi":"10.1016/j.tsf.2014.12.011","journal":"Thin Solid Films","publisher":"Elsevier BV","title":"Corrigendum to “Ferroelectric and dielectric properties in Li-doped ZnO nanorods” [Thin Solid Films 574 (2015) 152–155]"}
+{
+  "retracted": false,
+  "timestamp": 1432857600000,
+  "updates": [
+    {
+      "timestamp": 1496058588368,
+      "identifier": {
+        "doi": "10.1016/j.tsf.2015.04.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tsf.2014.12.011"
+  },
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ferroelectric and dielectric properties in Li-doped ZnO nanorods” [Thin Solid Films 574 (2015) 152–155]"
+}

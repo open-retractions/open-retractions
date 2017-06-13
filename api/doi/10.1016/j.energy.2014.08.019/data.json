@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.energy.2015.07.066","type":"err"},"doi":"10.1016/j.energy.2014.08.019","journal":"Energy","publisher":"Elsevier BV","title":"Corrigendum to “The simple hourly method of EN ISO 13790 standard in Matlab/Simulink: A comparative study for the climatic conditions of Poland” [Energy 75 (2015) 568–578]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496019757527,
+      "identifier": {
+        "doi": "10.1016/j.energy.2015.07.066"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.energy.2014.08.019"
+  },
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The simple hourly method of EN ISO 13790 standard in Matlab/Simulink: A comparative study for the climatic conditions of Poland” [Energy 75 (2015) 568–578]"
+}

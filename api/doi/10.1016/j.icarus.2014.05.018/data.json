@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.icarus.2016.01.029","type":"erratum"},"doi":"10.1016/j.icarus.2014.05.018","journal":"Icarus","publisher":"Elsevier BV","title":"Corrigendum to ‘Pluto's atmospheric structure from the July 2007 stellar occultation’ [Icarus 239 (2014) 15-22]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495650427333,
+      "identifier": {
+        "doi": "10.1016/j.icarus.2016.01.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.icarus.2014.05.018"
+  },
+  "journal": "Icarus",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Pluto's atmospheric structure from the July 2007 stellar occultation’ [Icarus 239 (2014) 15-22]"
+}

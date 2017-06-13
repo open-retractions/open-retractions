@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417651200000,"doi":"10.1016/j.molcel.2014.11.017","type":"err"},"doi":"10.1016/j.molcel.2014.09.024","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Regulation of Substrate Utilization by the Mitochondrial Pyruvate Carrier"}
+{
+  "retracted": false,
+  "timestamp": 1417651200000,
+  "updates": [
+    {
+      "timestamp": 1496027270807,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2014.11.017"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2014.09.024"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Regulation of Substrate Utilization by the Mitochondrial Pyruvate Carrier"
+}

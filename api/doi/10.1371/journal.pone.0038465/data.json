@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348790400000,"doi":"10.1371/annotation/0d7595f1-c719-4ed9-bef0-8308f4cac7e3","type":"correction"},"doi":"10.1371/journal.pone.0038465","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: γ-H2AX Kinetics as a Novel Approach to High Content Screening for Small Molecule Radiosensitizers"}
+{
+  "retracted": false,
+  "timestamp": 1348790400000,
+  "updates": [
+    {
+      "timestamp": 1496816554745,
+      "identifier": {
+        "doi": "10.1371/annotation/0d7595f1-c719-4ed9-bef0-8308f4cac7e3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0038465"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: γ-H2AX Kinetics as a Novel Approach to High Content Screening for Small Molecule Radiosensitizers"
+}

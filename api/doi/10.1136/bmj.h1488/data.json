@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427068800000,"doi":"10.1136/bmj.h1612","type":"correction"},"doi":"10.1136/bmj.h1488","journal":"BMJ","publisher":"BMJ","title":"Only the mother of all reorganisations can save the NHS"}
+{
+  "retracted": false,
+  "timestamp": 1427068800000,
+  "updates": [
+    {
+      "timestamp": 1496052002490,
+      "identifier": {
+        "doi": "10.1136/bmj.h1612"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h1488"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Only the mother of all reorganisations can save the NHS"
+}

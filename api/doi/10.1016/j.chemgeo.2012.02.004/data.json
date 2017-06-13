@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453248000000,"doi":"10.1016/j.chemgeo.2015.05.003","type":"err"},"doi":"10.1016/j.chemgeo.2012.02.004","journal":"Chemical Geology","publisher":"Elsevier BV","title":"Corrigendum to “Oxygen isotopic fractionation between drip water and speleothem calcite: A 10-year monitoring study, central Texas, USA” [Chem. Geol. 304–305 (2012) 53–67]"}
+{
+  "retracted": false,
+  "timestamp": 1453248000000,
+  "updates": [
+    {
+      "timestamp": 1496046012548,
+      "identifier": {
+        "doi": "10.1016/j.chemgeo.2015.05.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemgeo.2012.02.004"
+  },
+  "journal": "Chemical Geology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Oxygen isotopic fractionation between drip water and speleothem calcite: A 10-year monitoring study, central Texas, USA” [Chem. Geol. 304–305 (2012) 53–67]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414454400000,"doi":"10.1007/s11060-014-1643-7","type":"correction"},"doi":"10.1007/s11060-013-1316-y","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Efficacy of erlotinib in patients with relapsed gliobastoma multiforme who expressed EGFRVIII and PTEN determined by immunohistochemistry"}
+{
+  "retracted": false,
+  "timestamp": 1414454400000,
+  "updates": [
+    {
+      "timestamp": 1496016817068,
+      "identifier": {
+        "doi": "10.1007/s11060-014-1643-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-013-1316-y"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Efficacy of erlotinib in patients with relapsed gliobastoma multiforme who expressed EGFRVIII and PTEN determined by immunohistochemistry"
+}

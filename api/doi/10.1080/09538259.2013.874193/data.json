@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1400630400000,"doi":"10.1080/09538259.2014.910389","type":"correction"},"doi":"10.1080/09538259.2013.874193","journal":"Review of Political Economy","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1400630400000,
+  "updates": [
+    {
+      "timestamp": 1496031822204,
+      "identifier": {
+        "doi": "10.1080/09538259.2014.910389"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09538259.2013.874193"
+  },
+  "journal": "Review of Political Economy",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

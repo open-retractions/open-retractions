@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388102400000,"doi":"10.1063/1.4858978","type":"correction"},"doi":"10.1063/1.4813598","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Dependence of the Mg-related acceptor ionization energy with the acceptor concentration in p-type GaN layers grown by molecular beam epitaxy” [Appl. Phys. Lett. 103, 032102 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1388102400000,
+  "updates": [
+    {
+      "timestamp": 1496007800587,
+      "identifier": {
+        "doi": "10.1063/1.4858978"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4813598"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Dependence of the Mg-related acceptor ionization energy with the acceptor concentration in p-type GaN layers grown by molecular beam epitaxy” [Appl. Phys. Lett. 103, 032102 (2013)]"
+}

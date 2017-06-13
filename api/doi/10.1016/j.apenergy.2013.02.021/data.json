@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.apenergy.2015.02.080","type":"err"},"doi":"10.1016/j.apenergy.2013.02.021","journal":"Applied Energy","publisher":"Elsevier BV","title":"Corrigendum to “Energetic and environmental performance of three biomass upgrading processes integrated with a CHP plant” [Appl. Energy 107 (2013) 124–134]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049280264,
+      "identifier": {
+        "doi": "10.1016/j.apenergy.2015.02.080"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apenergy.2013.02.021"
+  },
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Energetic and environmental performance of three biomass upgrading processes integrated with a CHP plant” [Appl. Energy 107 (2013) 124–134]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387756800000,"doi":"10.1080/20445911.2013.872329","type":"correction"},"doi":"10.1080/20445911.2013.854248","journal":"Journal of Cognitive Psychology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1387756800000,
+  "updates": [
+    {
+      "timestamp": 1496004030358,
+      "identifier": {
+        "doi": "10.1080/20445911.2013.872329"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/20445911.2013.854248"
+  },
+  "journal": "Journal of Cognitive Psychology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

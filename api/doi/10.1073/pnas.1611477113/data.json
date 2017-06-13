@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1073/pnas.1700593114","type":"correction"},"doi":"10.1073/pnas.1611477113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Eremina et al., Brassinosteroids participate in the control of basal and acquired freezing tolerance of plants"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1495679787210,
+      "identifier": {
+        "doi": "10.1073/pnas.1700593114"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1611477113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Eremina et al., Brassinosteroids participate in the control of basal and acquired freezing tolerance of plants"
+}

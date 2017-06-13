@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457049600000,"doi":"10.1007/s13277-016-4992-3","type":"correction"},"doi":"10.1007/s13277-016-4794-7","journal":"Tumor Biology","publisher":"Springer Nature","title":"Erratum to: Total tumor volume predicts survival following liver resection in patients with hepatocellular carcinoma"}
+{
+  "retracted": false,
+  "timestamp": 1457049600000,
+  "updates": [
+    {
+      "timestamp": 1495650588443,
+      "identifier": {
+        "doi": "10.1007/s13277-016-4992-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13277-016-4794-7"
+  },
+  "journal": "Tumor Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Total tumor volume predicts survival following liver resection in patients with hepatocellular carcinoma"
+}

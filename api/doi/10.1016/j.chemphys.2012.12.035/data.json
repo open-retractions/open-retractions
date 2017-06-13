@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1371686400000,"doi":"10.1016/j.chemphys.2013.02.013","type":"err"},"doi":"10.1016/j.chemphys.2012.12.035","journal":"Chemical Physics","publisher":"Elsevier BV","title":"Erratum to “γ-Ray radiolysis and theoretical study on radical ions of star-shaped oligofluorenes having a truxene or isotruxene as a core” [http://dx.doi.org/10.1016/j.chemphys.2012.12.035]"}
+{
+  "retracted": false,
+  "timestamp": 1371686400000,
+  "updates": [
+    {
+      "timestamp": 1496004437357,
+      "identifier": {
+        "doi": "10.1016/j.chemphys.2013.02.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemphys.2012.12.035"
+  },
+  "journal": "Chemical Physics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “γ-Ray radiolysis and theoretical study on radical ions of star-shaped oligofluorenes having a truxene or isotruxene as a core” [http://dx.doi.org/10.1016/j.chemphys.2012.12.035]"
+}

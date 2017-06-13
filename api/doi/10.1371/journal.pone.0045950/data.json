@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367971200000,"doi":"10.1371/annotation/27807b78-9c79-414a-a47e-fb3eca621be4","type":"correction"},"doi":"10.1371/journal.pone.0045950","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: SNP Array Analysis Reveals Novel Genomic Abnormalities Including Copy Neutral Loss of Heterozygosity in Anaplastic Oligodendrogliomas"}
+{
+  "retracted": false,
+  "timestamp": 1367971200000,
+  "updates": [
+    {
+      "timestamp": 1496023930204,
+      "identifier": {
+        "doi": "10.1371/annotation/27807b78-9c79-414a-a47e-fb3eca621be4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045950"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: SNP Array Analysis Reveals Novel Genomic Abnormalities Including Copy Neutral Loss of Heterozygosity in Anaplastic Oligodendrogliomas"
+}

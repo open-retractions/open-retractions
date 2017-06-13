@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422489600000,"doi":"10.1007/s11240-015-0723-5","type":"correction"},"doi":"10.1007/s11240-014-0640-z","journal":"Plant Cell, Tissue and Organ Culture (PCTOC)","publisher":"Springer Nature","title":"Erratum to: Current status of tissue culture and genetic transformation research in cotton (Gossypium spp.)"}
+{
+  "retracted": false,
+  "timestamp": 1422489600000,
+  "updates": [
+    {
+      "timestamp": 1496040296916,
+      "identifier": {
+        "doi": "10.1007/s11240-015-0723-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11240-014-0640-z"
+  },
+  "journal": "Plant Cell, Tissue and Organ Culture (PCTOC)",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Current status of tissue culture and genetic transformation research in cotton (Gossypium spp.)"
+}

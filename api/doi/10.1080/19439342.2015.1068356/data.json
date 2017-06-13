@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1459123200000,"doi":"10.1080/19439342.2016.1145379","type":"correction"},"doi":"10.1080/19439342.2015.1068356","journal":"Journal of Development Effectiveness","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1459123200000,
+  "updates": [
+    {
+      "timestamp": 1495659790564,
+      "identifier": {
+        "doi": "10.1080/19439342.2016.1145379"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19439342.2015.1068356"
+  },
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

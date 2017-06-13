@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1305244800000,"doi":"10.1007/s10838-011-9155-z","type":"correction"},"doi":"10.1007/s10838-007-9052-7","journal":"Journal for General Philosophy of Science","publisher":"Springer Nature","title":"Erratum to: Books Received in 2007"}
+{
+  "retracted": false,
+  "timestamp": 1305244800000,
+  "updates": [
+    {
+      "timestamp": 1495956238788,
+      "identifier": {
+        "doi": "10.1007/s10838-011-9155-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10838-007-9052-7"
+  },
+  "journal": "Journal for General Philosophy of Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Books Received in 2007"
+}

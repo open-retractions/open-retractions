@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1397174400000,"doi":"10.1016/j.nima.2014.01.024","type":"err"},"doi":"10.1016/j.nima.2013.03.048","journal":"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment","publisher":"Elsevier BV","title":"Corrigendum to “Bi-spectral extraction through elliptic neutron guides” [Nucl. Instr. and Meth. A 717 (2013) 69–76]"}
+{
+  "retracted": false,
+  "timestamp": 1397174400000,
+  "updates": [
+    {
+      "timestamp": 1496016052111,
+      "identifier": {
+        "doi": "10.1016/j.nima.2014.01.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nima.2013.03.048"
+  },
+  "journal": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Bi-spectral extraction through elliptic neutron guides” [Nucl. Instr. and Meth. A 717 (2013) 69–76]"
+}

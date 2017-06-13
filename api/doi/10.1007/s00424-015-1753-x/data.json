@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1007/s00424-016-1824-7","type":"correction"},"doi":"10.1007/s00424-015-1753-x","journal":"Pflügers Archiv - European Journal of Physiology","publisher":"Springer Nature","title":"Erratum to: Intracellular spermine blocks TRPC4 channel via electrostatic interaction with C-terminal negative amino acids"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495675205074,
+      "identifier": {
+        "doi": "10.1007/s00424-016-1824-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00424-015-1753-x"
+  },
+  "journal": "Pflügers Archiv - European Journal of Physiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Intracellular spermine blocks TRPC4 channel via electrostatic interaction with C-terminal negative amino acids"
+}

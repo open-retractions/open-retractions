@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430179200000,"doi":"10.1136/bmj.h2289","type":"correction"},"doi":"10.1136/bmj.h2238","journal":"BMJ","publisher":"BMJ","title":"Drug firms must cut price of pneumonia vaccine, says MSF"}
+{
+  "retracted": false,
+  "timestamp": 1430179200000,
+  "updates": [
+    {
+      "timestamp": 1495996381062,
+      "identifier": {
+        "doi": "10.1136/bmj.h2289"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h2238"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Drug firms must cut price of pneumonia vaccine, says MSF"
+}

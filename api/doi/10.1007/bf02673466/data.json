@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487376000000,"doi":"10.1007/s10512-017-0189-0","type":"correction"},"doi":"10.1007/bf02673466","journal":"Atomic Energy","publisher":"Springer Nature","title":"Erratum to: Experimental-Computational Investigation of the Energy-Release Field and Field Burnup in IRT"}
+{
+  "retracted": false,
+  "timestamp": 1487376000000,
+  "updates": [
+    {
+      "timestamp": 1495722048597,
+      "identifier": {
+        "doi": "10.1007/s10512-017-0189-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02673466"
+  },
+  "journal": "Atomic Energy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Experimental-Computational Investigation of the Energy-Release Field and Field Burnup in IRT"
+}

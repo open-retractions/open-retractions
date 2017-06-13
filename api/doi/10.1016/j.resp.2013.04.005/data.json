@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402790400000,"doi":"10.1016/j.resp.2014.03.008","type":"err"},"doi":"10.1016/j.resp.2013.04.005","journal":"Respiratory Physiology & Neurobiology","publisher":"Elsevier BV","title":"Corrigendum to ‘Acute high-altitude exposure reduces lung diffusion: Data from the HIGHCARE Alps Project’ [Respir. Physiol. Neurobiol. 188 (2013) 223–228]"}
+{
+  "retracted": false,
+  "timestamp": 1402790400000,
+  "updates": [
+    {
+      "timestamp": 1496030337663,
+      "identifier": {
+        "doi": "10.1016/j.resp.2014.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.resp.2013.04.005"
+  },
+  "journal": "Respiratory Physiology & Neurobiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Acute high-altitude exposure reduces lung diffusion: Data from the HIGHCARE Alps Project’ [Respir. Physiol. Neurobiol. 188 (2013) 223–228]"
+}

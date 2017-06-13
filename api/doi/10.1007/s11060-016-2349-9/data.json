@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486425600000,"doi":"10.1007/s11060-017-2376-1","type":"correction"},"doi":"10.1007/s11060-016-2349-9","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: The role of histone modifications and telomere alterations in the pathogenesis of diffuse gliomas in adults and children"}
+{
+  "retracted": false,
+  "timestamp": 1486425600000,
+  "updates": [
+    {
+      "timestamp": 1494718841552,
+      "identifier": {
+        "doi": "10.1007/s11060-017-2376-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-016-2349-9"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The role of histone modifications and telomere alterations in the pathogenesis of diffuse gliomas in adults and children"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1395100800000,"doi":"10.1371/journal.pone.0093201","type":"correction"},"doi":"10.1371/journal.pone.0085047","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Quilt Plots: A Simple Tool for the Visualisation of Large Epidemiological Data"}
+{
+  "retracted": false,
+  "timestamp": 1395100800000,
+  "updates": [
+    {
+      "timestamp": 1496026611937,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0093201"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0085047"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Quilt Plots: A Simple Tool for the Visualisation of Large Epidemiological Data"
+}

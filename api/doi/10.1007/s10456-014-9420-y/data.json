@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401840000000,"doi":"10.1007/s10456-014-9426-5","type":"correction"},"doi":"10.1007/s10456-014-9420-y","journal":"Angiogenesis","publisher":"Springer Nature","title":"Erratum to: Anti-angiogenic therapy for cancer: current progress, unresolved questions and future directions"}
+{
+  "retracted": false,
+  "timestamp": 1401840000000,
+  "updates": [
+    {
+      "timestamp": 1496043247080,
+      "identifier": {
+        "doi": "10.1007/s10456-014-9426-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10456-014-9420-y"
+  },
+  "journal": "Angiogenesis",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Anti-angiogenic therapy for cancer: current progress, unresolved questions and future directions"
+}

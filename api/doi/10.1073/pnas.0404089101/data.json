@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1102982400000,"doi":"10.1073/pnas.0408124101","type":"correction"},"doi":"10.1073/pnas.0404089101","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Wan et al., Large-scale cDNA transfection screening for genes related to cancer development and progression, PNAS 2004 101:15724-15729"}
+{
+  "retracted": false,
+  "timestamp": 1102982400000,
+  "updates": [
+    {
+      "timestamp": 1495841906277,
+      "identifier": {
+        "doi": "10.1073/pnas.0408124101"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0404089101"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Wan et al., Large-scale cDNA transfection screening for genes related to cancer development and progression, PNAS 2004 101:15724-15729"
+}

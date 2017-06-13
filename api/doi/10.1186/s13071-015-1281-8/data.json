@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452643200000,"doi":"10.1186/s13071-016-1297-8","type":"correction"},"doi":"10.1186/s13071-015-1281-8","journal":"Parasites & Vectors","publisher":"Springer Nature","title":"Erratum to: Analysis of the mitochondrial maxicircle of Trypanosoma lewisi, a neglected human pathogen"}
+{
+  "retracted": false,
+  "timestamp": 1452643200000,
+  "updates": [
+    {
+      "timestamp": 1496047049312,
+      "identifier": {
+        "doi": "10.1186/s13071-016-1297-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13071-015-1281-8"
+  },
+  "journal": "Parasites & Vectors",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Analysis of the mitochondrial maxicircle of Trypanosoma lewisi, a neglected human pathogen"
+}

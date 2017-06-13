@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1369785600000,"doi":"10.1371/annotation/35a1ab77-2ece-4fc7-9f1e-11c276f9d7c8","type":"correction"},"doi":"10.1371/journal.pone.0059591","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: HCMV Activates the IL-6-JAK-STAT3 Axis in HepG2 Cells and Primary Human Hepatocytes"}
+{
+  "retracted": false,
+  "timestamp": 1369785600000,
+  "updates": [
+    {
+      "timestamp": 1496022210382,
+      "identifier": {
+        "doi": "10.1371/annotation/35a1ab77-2ece-4fc7-9f1e-11c276f9d7c8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059591"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: HCMV Activates the IL-6-JAK-STAT3 Axis in HepG2 Cells and Primary Human Hepatocytes"
+}

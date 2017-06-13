@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433808000000,"doi":"10.1080/10402659.2015.1043834","type":"correction"},"doi":"10.1080/10402659.2015.1000184","journal":"Peace Review","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1433808000000,
+  "updates": [
+    {
+      "timestamp": 1496006473427,
+      "identifier": {
+        "doi": "10.1080/10402659.2015.1043834"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10402659.2015.1000184"
+  },
+  "journal": "Peace Review",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

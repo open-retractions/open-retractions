@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.msard.2014.06.004","type":"err"},"doi":"10.1016/j.msard.2012.12.008","journal":"Multiple Sclerosis and Related Disorders","publisher":"Elsevier BV","title":"Corrigendum to “The case for vitamin D supplementation in multiple sclerosis” [Mult. Scler. Relat. Disord. 2 (2013) 281–306]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496055136494,
+      "identifier": {
+        "doi": "10.1016/j.msard.2014.06.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msard.2012.12.008"
+  },
+  "journal": "Multiple Sclerosis and Related Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The case for vitamin D supplementation in multiple sclerosis” [Mult. Scler. Relat. Disord. 2 (2013) 281–306]"
+}

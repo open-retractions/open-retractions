@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404691200000,"doi":"10.1371/journal.pone.0102630","type":"correction"},"doi":"10.1371/journal.pone.0098322","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Towards User-Friendly Spelling with an Auditory Brain-Computer Interface: The CharStreamer Paradigm"}
+{
+  "retracted": false,
+  "timestamp": 1404691200000,
+  "updates": [
+    {
+      "timestamp": 1496051639451,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0102630"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0098322"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Towards User-Friendly Spelling with an Auditory Brain-Computer Interface: The CharStreamer Paradigm"
+}

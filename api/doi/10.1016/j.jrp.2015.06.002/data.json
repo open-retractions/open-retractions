@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.jrp.2015.10.003","type":"err"},"doi":"10.1016/j.jrp.2015.06.002","journal":"Journal of Research in Personality","publisher":"Elsevier BV","title":"Erratum to “Personality predicts musical sophistication” [J. Res. Person. 58 (2015) 154–158]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496046006264,
+      "identifier": {
+        "doi": "10.1016/j.jrp.2015.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jrp.2015.06.002"
+  },
+  "journal": "Journal of Research in Personality",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Personality predicts musical sophistication” [J. Res. Person. 58 (2015) 154–158]"
+}

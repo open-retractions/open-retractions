@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1303776000000,"doi":"10.1371/annotation/9952526f-2f1f-47f3-af0f-1a7cf6f0abc1","type":"correction"},"doi":"10.1371/journal.pgen.1001333","journal":"PLoS Genetics","publisher":"Public Library of Science (PLoS)","title":"Correction: A Genome-Wide Association Study of Upper Aerodigestive Tract Cancers Conducted within the INHANCE Consortium"}
+{
+  "retracted": false,
+  "timestamp": 1303776000000,
+  "updates": [
+    {
+      "timestamp": 1495953638517,
+      "identifier": {
+        "doi": "10.1371/annotation/9952526f-2f1f-47f3-af0f-1a7cf6f0abc1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pgen.1001333"
+  },
+  "journal": "PLoS Genetics",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Genome-Wide Association Study of Upper Aerodigestive Tract Cancers Conducted within the INHANCE Consortium"
+}

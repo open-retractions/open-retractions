@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468540800000,"doi":"10.1016/j.jde.2016.04.010","type":"erratum"},"doi":"10.1016/j.jde.2008.06.005","journal":"Journal of Differential Equations","publisher":"Elsevier BV","title":"Corrigendum to “Smooth zero-contact-angle solutions to a thin-film equation around the steady state” [J. Differential Equations 245 (2008) 1454–1506]"}
+{
+  "retracted": false,
+  "timestamp": 1468540800000,
+  "updates": [
+    {
+      "timestamp": 1495670032498,
+      "identifier": {
+        "doi": "10.1016/j.jde.2016.04.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jde.2008.06.005"
+  },
+  "journal": "Journal of Differential Equations",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Smooth zero-contact-angle solutions to a thin-film equation around the steady state” [J. Differential Equations 245 (2008) 1454–1506]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1225152000000,"doi":"10.1073/pnas.0811217106","type":"correction"},"doi":"10.1073/pnas.0808750105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Okazaki et al., Prolonged signaling at the parathyroid hormone receptor by peptide ligands targeted to a specific receptor conformation"}
+{
+  "retracted": false,
+  "timestamp": 1225152000000,
+  "updates": [
+    {
+      "timestamp": 1495906536286,
+      "identifier": {
+        "doi": "10.1073/pnas.0811217106"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0808750105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Okazaki et al., Prolonged signaling at the parathyroid hormone receptor by peptide ligands targeted to a specific receptor conformation"
+}

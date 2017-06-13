@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jmr.2017.01.019","type":"erratum"},"doi":"10.1016/j.jmr.2013.08.005","journal":"Journal of Magnetic Resonance","publisher":"Elsevier BV","title":"Corrigendum to “Multiple-quantum spin counting in magic-angle-spinning NMR via low-power symmetry-based dipolar recoupling” [J. Magn. Reson. 236 (2013) 31–40]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495773613571,
+      "identifier": {
+        "doi": "10.1016/j.jmr.2017.01.019"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmr.2013.08.005"
+  },
+  "journal": "Journal of Magnetic Resonance",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multiple-quantum spin counting in magic-angle-spinning NMR via low-power symmetry-based dipolar recoupling” [J. Magn. Reson. 236 (2013) 31–40]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1428364800000,"doi":"10.1007/s00253-015-6568-3","type":"correction"},"doi":"10.1007/s00253-015-6389-4","journal":"Applied Microbiology and Biotechnology","publisher":"Springer Nature","title":"Erratum to: Mismatch discrimination in fluorescent in situ hybridization using different types of nucleic acids"}
+{
+  "retracted": false,
+  "timestamp": 1428364800000,
+  "updates": [
+    {
+      "timestamp": 1496055371420,
+      "identifier": {
+        "doi": "10.1007/s00253-015-6568-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00253-015-6389-4"
+  },
+  "journal": "Applied Microbiology and Biotechnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mismatch discrimination in fluorescent in situ hybridization using different types of nucleic acids"
+}

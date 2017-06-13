@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.jpedsurg.2014.09.077","type":"err"},"doi":"10.1016/j.jpedsurg.2013.03.073","journal":"Journal of Pediatric Surgery","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496020541166,
+      "identifier": {
+        "doi": "10.1016/j.jpedsurg.2014.09.077"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpedsurg.2013.03.073"
+  },
+  "journal": "Journal of Pediatric Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

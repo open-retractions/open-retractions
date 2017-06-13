@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1424131200000,"doi":"10.1039/c5cc90091c","type":"correction"},"doi":"10.1039/b810447f","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: The first synthesis of N-acetylneuraminic acid 1,7-lactone"}
+{
+  "retracted": false,
+  "timestamp": 1424131200000,
+  "updates": [
+    {
+      "timestamp": 1496041766337,
+      "identifier": {
+        "doi": "10.1039/c5cc90091c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/b810447f"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: The first synthesis of N-acetylneuraminic acid 1,7-lactone"
+}

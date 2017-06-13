@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416787200000,"doi":"10.3109/15569527.2014.944429","type":"correction"},"doi":"10.3109/15569527.2013.781616","journal":"Cutaneous and Ocular Toxicology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1416787200000,
+  "updates": [
+    {
+      "timestamp": 1496055653623,
+      "identifier": {
+        "doi": "10.3109/15569527.2014.944429"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/15569527.2013.781616"
+  },
+  "journal": "Cutaneous and Ocular Toxicology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

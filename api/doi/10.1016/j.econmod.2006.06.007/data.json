@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.econmod.2013.10.030","type":"err"},"doi":"10.1016/j.econmod.2006.06.007","journal":"Economic Modelling","publisher":"Elsevier BV","title":"Retraction notice to “Analysis of nonlinear duopoly game with heterogeneous players” [Econ. Modell. 24 (2007) 138–148]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496050713132,
+      "identifier": {
+        "doi": "10.1016/j.econmod.2013.10.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.econmod.2006.06.007"
+  },
+  "journal": "Economic Modelling",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Analysis of nonlinear duopoly game with heterogeneous players” [Econ. Modell. 24 (2007) 138–148]"
+}

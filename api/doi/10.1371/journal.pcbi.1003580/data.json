@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414368000000,"doi":"10.1371/journal.pcbi.1003989","type":"correction"},"doi":"10.1371/journal.pcbi.1003580","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Evaluation of Methods for Integration of Transcriptomic Data into Constraint-Based Models of Metabolism"}
+{
+  "retracted": false,
+  "timestamp": 1414368000000,
+  "updates": [
+    {
+      "timestamp": 1496016816269,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003989"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003580"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Evaluation of Methods for Integration of Transcriptomic Data into Constraint-Based Models of Metabolism"
+}

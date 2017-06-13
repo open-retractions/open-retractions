@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452556800000,"doi":"10.1039/c6mb90004f","type":"correction"},"doi":"10.1039/c5mb00391a","journal":"Mol. BioSyst.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Division time-based amplifiers for stochastic gene expression"}
+{
+  "retracted": false,
+  "timestamp": 1452556800000,
+  "updates": [
+    {
+      "timestamp": 1496059752612,
+      "identifier": {
+        "doi": "10.1039/c6mb90004f"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5mb00391a"
+  },
+  "journal": "Mol. BioSyst.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Division time-based amplifiers for stochastic gene expression"
+}

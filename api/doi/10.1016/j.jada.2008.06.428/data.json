@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jand.2016.05.006","type":"err"},"doi":"10.1016/j.jada.2008.06.428","journal":"Journal of the Academy of Nutrition and Dietetics","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495715962533,
+      "identifier": {
+        "doi": "10.1016/j.jand.2016.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jada.2008.06.428"
+  },
+  "journal": "Journal of the Academy of Nutrition and Dietetics",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

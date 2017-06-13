@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386892800000,"doi":"10.1016/j.bbrc.2013.11.076","type":"err"},"doi":"10.1016/j.bbrc.2012.05.105","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Single-chain variable fragment intrabody impairs LPS-induced inflammatory responses by interfering with the interaction between the WASP N-terminal domain and Btk in macrophages” [Biochem. Biophys. Res. Commun. 423 (2012) 164–169]"}
+{
+  "retracted": false,
+  "timestamp": 1386892800000,
+  "updates": [
+    {
+      "timestamp": 1496000322813,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2013.11.076"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2012.05.105"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Single-chain variable fragment intrabody impairs LPS-induced inflammatory responses by interfering with the interaction between the WASP N-terminal domain and Btk in macrophages” [Biochem. Biophys. Res. Commun. 423 (2012) 164–169]"
+}

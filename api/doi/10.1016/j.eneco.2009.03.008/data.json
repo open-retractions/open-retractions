@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383264000000,"doi":"10.1016/j.eneco.2013.07.001","type":"err"},"doi":"10.1016/j.eneco.2009.03.008","journal":"Energy Economics","publisher":"Elsevier BV","title":"A note on allowing negative energy prices in a discretely constrained MPEC"}
+{
+  "retracted": false,
+  "timestamp": 1383264000000,
+  "updates": [
+    {
+      "timestamp": 1496036515244,
+      "identifier": {
+        "doi": "10.1016/j.eneco.2013.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eneco.2009.03.008"
+  },
+  "journal": "Energy Economics",
+  "publisher": "Elsevier BV",
+  "title": "A note on allowing negative energy prices in a discretely constrained MPEC"
+}

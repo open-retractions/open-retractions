@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417046400000,"doi":"10.1007/s00415-014-7579-1","type":"correction"},"doi":"10.1007/s00415-014-7542-1","journal":"Journal of Neurology","publisher":"Springer Nature","title":"Erratum to: Long-term outcome of epilepsy in patients with Prader–Willi syndrome"}
+{
+  "retracted": false,
+  "timestamp": 1417046400000,
+  "updates": [
+    {
+      "timestamp": 1496025744410,
+      "identifier": {
+        "doi": "10.1007/s00415-014-7579-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00415-014-7542-1"
+  },
+  "journal": "Journal of Neurology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Long-term outcome of epilepsy in patients with Prader–Willi syndrome"
+}

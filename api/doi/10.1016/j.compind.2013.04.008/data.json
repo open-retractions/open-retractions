@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.compind.2013.07.001","type":"err"},"doi":"10.1016/j.compind.2013.04.008","journal":"Computers in Industry","publisher":"Elsevier BV","title":"Corrigendum to “Simulation of cross-border competition of free internet content providers” [Comput. Ind. 64 (6) (2013) 754–764]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496034137461,
+      "identifier": {
+        "doi": "10.1016/j.compind.2013.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.compind.2013.04.008"
+  },
+  "journal": "Computers in Industry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simulation of cross-border competition of free internet content providers” [Comput. Ind. 64 (6) (2013) 754–764]"
+}

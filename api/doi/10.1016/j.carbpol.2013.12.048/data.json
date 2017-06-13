@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425600000000,"doi":"10.1016/j.carbpol.2014.10.043","type":"erratum"},"doi":"10.1016/j.carbpol.2013.12.048","journal":"Carbohydrate Polymers","publisher":"Elsevier BV","title":"Corrigendum to “Structural characterization and immunomodulatory effect of a polysaccharide HCP-2 from Houttuynia cordata ” [Carbohydr. Polym. 103 (2014) 244–249]"}
+{
+  "retracted": false,
+  "timestamp": 1425600000000,
+  "updates": [
+    {
+      "timestamp": 1496019283167,
+      "identifier": {
+        "doi": "10.1016/j.carbpol.2014.10.043"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.carbpol.2013.12.048"
+  },
+  "journal": "Carbohydrate Polymers",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structural characterization and immunomodulatory effect of a polysaccharide HCP-2 from  Houttuynia cordata ” [Carbohydr. Polym. 103 (2014) 244–249]"
+}

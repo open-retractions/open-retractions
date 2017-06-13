@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":617932800000,"doi":"10.1007/bf01061463","type":"correction"},"doi":"10.1007/bf01059092","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Estimation of noncompartmental parameters: A technical note"}
+{
+  "retracted": false,
+  "timestamp": 617932800000,
+  "updates": [
+    {
+      "timestamp": 1495879814782,
+      "identifier": {
+        "doi": "10.1007/bf01061463"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01059092"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Estimation of noncompartmental parameters: A technical note"
+}

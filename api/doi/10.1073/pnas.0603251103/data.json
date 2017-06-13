@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1156204800000,"doi":"10.1073/pnas.0605877103","type":"correction"},"doi":"10.1073/pnas.0603251103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Yanai et al. Amplification of the entire kanamycin biosynthetic gene cluster during empirical strain improvement of Streptomyces kanamyceticus"}
+{
+  "retracted": false,
+  "timestamp": 1156204800000,
+  "updates": [
+    {
+      "timestamp": 1495861978404,
+      "identifier": {
+        "doi": "10.1073/pnas.0605877103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0603251103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Yanai et al. Amplification of the entire kanamycin biosynthetic gene cluster during empirical strain improvement of Streptomyces kanamyceticus"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476835200000,"doi":"10.1080/10304312.2016.1250334","type":"correction"},"doi":"10.1080/10304312.2016.1239066","journal":"Continuum","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1476835200000,
+  "updates": [
+    {
+      "timestamp": 1495650342448,
+      "identifier": {
+        "doi": "10.1080/10304312.2016.1250334"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10304312.2016.1239066"
+  },
+  "journal": "Continuum",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.tins.2014.02.001","type":"err"},"doi":"10.1016/j.tins.2013.10.001","journal":"Trends in Neurosciences","publisher":"Elsevier BV","title":"Correction: Manipulating sleep spindles – expanding views on sleep, memory, and disease"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496021123342,
+      "identifier": {
+        "doi": "10.1016/j.tins.2014.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tins.2013.10.001"
+  },
+  "journal": "Trends in Neurosciences",
+  "publisher": "Elsevier BV",
+  "title": "Correction: Manipulating sleep spindles – expanding views on sleep, memory, and disease"
+}

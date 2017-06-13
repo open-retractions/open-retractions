@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1118/1.4865176","type":"erratum"},"doi":"10.1118/1.4820367","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “Molecular radiotherapy: The NUKFIT software for calculating the time-integrated activity coefficient” [Med. Phys. 40, 102504 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496019228799,
+      "identifier": {
+        "doi": "10.1118/1.4865176"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.4820367"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “Molecular radiotherapy: The NUKFIT software for calculating the time-integrated activity coefficient” [Med. Phys. 40, 102504 (2013)]"
+}

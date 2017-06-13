@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.atmosenv.2017.01.039","type":"erratum"},"doi":"10.1016/j.atmosenv.2016.12.009","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Corrigendum to “Simulating ozone concentrations using precursor emission inventories in Delhi – National Capital Region of India” [Atmos. Environ. 151 (2017) 117–132]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495716595186,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2017.01.039"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2016.12.009"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Simulating ozone concentrations using precursor emission inventories in Delhi – National Capital Region of India” [Atmos. Environ. 151 (2017) 117–132]"
+}

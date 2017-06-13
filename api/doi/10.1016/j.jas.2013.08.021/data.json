@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.jas.2015.05.009","type":"err"},"doi":"10.1016/j.jas.2013.08.021","journal":"Journal of Archaeological Science","publisher":"Elsevier BV","title":"Corrigendum to “Species identification of archaeological marine mammals using collagen fingerprinting” [YJASC 41 (2014) 631–641]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496011412685,
+      "identifier": {
+        "doi": "10.1016/j.jas.2015.05.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jas.2013.08.021"
+  },
+  "journal": "Journal of Archaeological Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Species identification of archaeological marine mammals using collagen fingerprinting” [YJASC 41 (2014) 631–641]"
+}

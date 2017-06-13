@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430179200000,"doi":"10.1073/pnas.1506041112","type":"correction"},"doi":"10.1073/pnas.1310106111","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chikwana et al., Structural basis for 2′-phosphate incorporation into glycogen by glycogen synthase: Fig. 3."}
+{
+  "retracted": false,
+  "timestamp": 1430179200000,
+  "updates": [
+    {
+      "timestamp": 1496058579442,
+      "identifier": {
+        "doi": "10.1073/pnas.1506041112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1310106111"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chikwana et al., Structural basis for 2′-phosphate incorporation into glycogen by glycogen synthase: Fig. 3."
+}

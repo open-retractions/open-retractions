@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409270400000,"doi":"10.1128/mbio.01645-14","type":"correction"},"doi":"10.1128/mbio.01070-14","journal":"mBio","publisher":"American Society for Microbiology","title":"Correction for Koel et al., Antigenic Variation of Clade 2.1 H5N1 Virus Is Determined by a Few Amino Acid Substitutions Immediately Adjacent to the Receptor Binding Site"}
+{
+  "retracted": false,
+  "timestamp": 1409270400000,
+  "updates": [
+    {
+      "timestamp": 1495999887248,
+      "identifier": {
+        "doi": "10.1128/mbio.01645-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mbio.01070-14"
+  },
+  "journal": "mBio",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Koel et al., Antigenic Variation of Clade 2.1 H5N1 Virus Is Determined by a Few Amino Acid Substitutions Immediately Adjacent to the Receptor Binding Site"
+}

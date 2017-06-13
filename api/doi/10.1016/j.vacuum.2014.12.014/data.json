@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.vacuum.2015.02.028","type":"err"},"doi":"10.1016/j.vacuum.2014.12.014","journal":"Vacuum","publisher":"Elsevier BV","title":"Corrigendum to “Charging effects of plasma impact on microconductor structures on an insulator in plasma processing technologies” [Vacuum, 113, (2015), 59–63]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496052423586,
+      "identifier": {
+        "doi": "10.1016/j.vacuum.2015.02.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vacuum.2014.12.014"
+  },
+  "journal": "Vacuum",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Charging effects of plasma impact on microconductor structures on an insulator in plasma processing technologies” [Vacuum, 113, (2015), 59–63]"
+}

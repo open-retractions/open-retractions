@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.jallcom.2015.12.229","type":"err"},"doi":"10.1016/j.jallcom.2015.10.236","journal":"Journal of Alloys and Compounds","publisher":"Elsevier BV","title":"Corrigendum to “Luminescence properties of magneto-optical glasses containing Tb3+ ions”[J. Alloys and Compd. 658 (2016) 967–972]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1496060013457,
+      "identifier": {
+        "doi": "10.1016/j.jallcom.2015.12.229"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jallcom.2015.10.236"
+  },
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Luminescence properties of magneto-optical glasses containing Tb3+ ions”[J. Alloys and Compd. 658 (2016) 967–972]"
+}

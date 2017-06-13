@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453161600000,"doi":"10.1007/s10812-016-0232-2","type":"correction"},"doi":"10.1007/s10812-015-0190-0","journal":"Journal of Applied Spectroscopy","publisher":"Springer Nature","title":"Erratum to: A Simple Spectrofluorimetric Method for the Determination of Losartan in Some Tablet Dosage Forms"}
+{
+  "retracted": false,
+  "timestamp": 1453161600000,
+  "updates": [
+    {
+      "timestamp": 1495637635203,
+      "identifier": {
+        "doi": "10.1007/s10812-016-0232-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10812-015-0190-0"
+  },
+  "journal": "Journal of Applied Spectroscopy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Simple Spectrofluorimetric Method for the Determination of Losartan in Some Tablet Dosage Forms"
+}

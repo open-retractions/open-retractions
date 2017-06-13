@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451606400000,"doi":"10.1016/j.gexplo.2015.11.007","type":"err"},"doi":"10.1016/j.gexplo.2015.09.016","journal":"Journal of Geochemical Exploration","publisher":"Elsevier BV","title":"Corrigendum to A methodology for wavelength dispersive electron probe microanalysis of unpolished silicate minerals [J. Geochem. Explor. 159 (2015) 243–251]"}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049651510,
+      "identifier": {
+        "doi": "10.1016/j.gexplo.2015.11.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gexplo.2015.09.016"
+  },
+  "journal": "Journal of Geochemical Exploration",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to A methodology for wavelength dispersive electron probe microanalysis of unpolished silicate minerals [J. Geochem. Explor. 159 (2015) 243–251]"
+}

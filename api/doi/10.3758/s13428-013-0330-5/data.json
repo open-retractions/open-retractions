@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409356800000,"doi":"10.3758/s13428-014-0508-5","type":"correction"},"doi":"10.3758/s13428-013-0330-5","journal":"Behavior Research Methods","publisher":"Springer Nature","title":"Erratum to: BootES: An R package for bootstrap confidence intervals on effect sizes"}
+{
+  "retracted": false,
+  "timestamp": 1409356800000,
+  "updates": [
+    {
+      "timestamp": 1496003821873,
+      "identifier": {
+        "doi": "10.3758/s13428-014-0508-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3758/s13428-013-0330-5"
+  },
+  "journal": "Behavior Research Methods",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: BootES: An R package for bootstrap confidence intervals on effect sizes"
+}

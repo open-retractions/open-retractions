@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1385424000000,"doi":"10.1063/1.4833397","type":"correction"},"doi":"10.1063/1.4820918","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Note: A new angle-resolved proton energy spectrometer” [Rev. Sci. Instrum. 84, 096103 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1385424000000,
+  "updates": [
+    {
+      "timestamp": 1496000163828,
+      "identifier": {
+        "doi": "10.1063/1.4833397"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4820918"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Note: A new angle-resolved proton energy spectrometer” [Rev. Sci. Instrum. 84, 096103 (2013)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1360108800000,"doi":"10.1016/j.neuron.2013.01.028","type":"err"},"doi":"10.1016/j.neuron.2012.05.032","journal":"Neuron","publisher":"Elsevier BV","title":"Normalization Regulates Competition for Visual Awareness"}
+{
+  "retracted": false,
+  "timestamp": 1360108800000,
+  "updates": [
+    {
+      "timestamp": 1495994050877,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.01.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.05.032"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Normalization Regulates Competition for Visual Awareness"
+}

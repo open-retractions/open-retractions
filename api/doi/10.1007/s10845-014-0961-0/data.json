@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423008000000,"doi":"10.1007/s10845-015-1038-4","type":"correction"},"doi":"10.1007/s10845-014-0961-0","journal":"Journal of Intelligent Manufacturing","publisher":"Springer Nature","title":"Erratum to: Research on closed loop supply chain with reference price effect"}
+{
+  "retracted": false,
+  "timestamp": 1423008000000,
+  "updates": [
+    {
+      "timestamp": 1496041613482,
+      "identifier": {
+        "doi": "10.1007/s10845-015-1038-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10845-014-0961-0"
+  },
+  "journal": "Journal of Intelligent Manufacturing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Research on closed loop supply chain with reference price effect"
+}

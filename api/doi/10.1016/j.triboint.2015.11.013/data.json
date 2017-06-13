@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.triboint.2016.01.001","type":"erratum"},"doi":"10.1016/j.triboint.2015.11.013","journal":"Tribology International","publisher":"Elsevier BV","title":"Corrigendum to “Virtual material parameter acquisition based on the basic characteristics of the bolt joint interfaces” [Tribol. Int. 95 (2016) 109–117]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495642187224,
+      "identifier": {
+        "doi": "10.1016/j.triboint.2016.01.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.triboint.2015.11.013"
+  },
+  "journal": "Tribology International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Virtual material parameter acquisition based on the basic characteristics of the bolt joint interfaces” [Tribol. Int. 95 (2016) 109–117]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462579200000,"doi":"10.1016/j.jtbi.2016.03.023","type":"err"},"doi":"10.1016/j.jtbi.2016.02.010","journal":"Journal of Theoretical Biology","publisher":"Elsevier BV","title":"Corrigendum for “Modelling biochemical reaction systems by stochastic differential equations with reflection”"}
+{
+  "retracted": false,
+  "timestamp": 1462579200000,
+  "updates": [
+    {
+      "timestamp": 1495657547186,
+      "identifier": {
+        "doi": "10.1016/j.jtbi.2016.03.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jtbi.2016.02.010"
+  },
+  "journal": "Journal of Theoretical Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum for “Modelling biochemical reaction systems by stochastic differential equations with reflection”"
+}

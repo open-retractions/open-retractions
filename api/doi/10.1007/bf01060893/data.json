@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":386467200000,"doi":"10.1007/bf01062337","type":"correction"},"doi":"10.1007/bf01060893","journal":"Journal of Pharmacokinetics and Biopharmaceutics","publisher":"Springer Nature","title":"Erratum to: Some suggestions for measuring predictive performance"}
+{
+  "retracted": false,
+  "timestamp": 386467200000,
+  "updates": [
+    {
+      "timestamp": 1495880069734,
+      "identifier": {
+        "doi": "10.1007/bf01062337"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01060893"
+  },
+  "journal": "Journal of Pharmacokinetics and Biopharmaceutics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Some suggestions for measuring predictive performance"
+}

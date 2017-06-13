@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451952000000,"doi":"10.1016/j.ijhydene.2015.11.009","type":"erratum"},"doi":"10.1016/j.ijhydene.2013.09.013","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “Pressurized PEM water electrolysis: Efficiency and gas crossover” [Int J Hydrogen Energy 38 (2013) 14921–14933]"}
+{
+  "retracted": false,
+  "timestamp": 1451952000000,
+  "updates": [
+    {
+      "timestamp": 1496049526790,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2015.11.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2013.09.013"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Pressurized PEM water electrolysis: Efficiency and gas crossover” [Int J Hydrogen Energy 38 (2013) 14921–14933]"
+}

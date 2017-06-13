@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.agee.2016.01.011","type":"err"},"doi":"10.1016/j.agee.2015.09.013","journal":"Agriculture, Ecosystems & Environment","publisher":"Elsevier BV","title":"Erratum to “The Myth that no-till can mitigate global climate change” [Agric. Ecosyst. Environ. 216 (2016) 98–99]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495638615877,
+      "identifier": {
+        "doi": "10.1016/j.agee.2016.01.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agee.2015.09.013"
+  },
+  "journal": "Agriculture, Ecosystems & Environment",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The Myth that no-till can mitigate global climate change” [Agric. Ecosyst. Environ. 216 (2016) 98–99]"
+}

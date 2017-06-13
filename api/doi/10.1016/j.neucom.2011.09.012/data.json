@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387929600000,"doi":"10.1016/j.neucom.2013.04.001","type":"err"},"doi":"10.1016/j.neucom.2011.09.012","journal":"Neurocomputing","publisher":"Elsevier BV","title":"Erratum to “A hybrid of multiobjective Evolutionary Algorithm and HMM-Fuzzy model for time series prediction” [Neurocomputing, 81 (2012) (1–11)]"}
+{
+  "retracted": false,
+  "timestamp": 1387929600000,
+  "updates": [
+    {
+      "timestamp": 1496029967169,
+      "identifier": {
+        "doi": "10.1016/j.neucom.2013.04.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neucom.2011.09.012"
+  },
+  "journal": "Neurocomputing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A hybrid of multiobjective Evolutionary Algorithm and HMM-Fuzzy model for time series prediction” [Neurocomputing, 81 (2012) (1–11)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1293667200000,"doi":"10.1371/annotation/ca448e7c-fbbc-43e9-9981-108c9bfa8bce","type":"correction"},"doi":"10.1371/journal.pmed.1000362","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: Efficacy of Oseltamivir-Zanamivir Combination Compared to Each Monotherapy for Seasonal Influenza: A Randomized Placebo-Controlled Trial"}
+{
+  "retracted": false,
+  "timestamp": 1293667200000,
+  "updates": [
+    {
+      "timestamp": 1496025196110,
+      "identifier": {
+        "doi": "10.1371/annotation/ca448e7c-fbbc-43e9-9981-108c9bfa8bce"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.1000362"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Efficacy of Oseltamivir-Zanamivir Combination Compared to Each Monotherapy for Seasonal Influenza: A Randomized Placebo-Controlled Trial"
+}

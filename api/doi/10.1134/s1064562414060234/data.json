@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420848000000,"doi":"10.1134/s1064562414070370","type":"correction"},"doi":"10.1134/s1064562414060234","journal":"Doklady Mathematics","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “The multiple de la Vallé-Poussin problem on convex domains in the kernel of the convolution operator”"}
+{
+  "retracted": false,
+  "timestamp": 1420848000000,
+  "updates": [
+    {
+      "timestamp": 1496035581203,
+      "identifier": {
+        "doi": "10.1134/s1064562414070370"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s1064562414060234"
+  },
+  "journal": "Doklady Mathematics",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “The multiple de la Vallé-Poussin problem on convex domains in the kernel of the convolution operator”"
+}

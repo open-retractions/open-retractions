@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401148800000,"doi":"10.1080/07315171.2014.867149","type":"correction"},"doi":"10.1080/07315171.2007.830059","journal":"Ferroelectrics Letters Section","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1401148800000,
+  "updates": [
+    {
+      "timestamp": 1496042086275,
+      "identifier": {
+        "doi": "10.1080/07315171.2014.867149"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07315171.2007.830059"
+  },
+  "journal": "Ferroelectrics Letters Section",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

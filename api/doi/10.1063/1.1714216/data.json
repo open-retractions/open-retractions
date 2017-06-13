@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-134179200000,"doi":"10.1063/1.1702996","type":"erratum"},"doi":"10.1063/1.1714216","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: Determination of Third‐Order Elastic Coefficients in Crystals"}
+{
+  "retracted": false,
+  "timestamp": -134179200000,
+  "updates": [
+    {
+      "timestamp": 1495891094532,
+      "identifier": {
+        "doi": "10.1063/1.1702996"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.1714216"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: Determination of Third‐Order Elastic Coefficients in Crystals"
+}

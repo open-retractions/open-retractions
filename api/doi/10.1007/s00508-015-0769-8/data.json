@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447372800000,"doi":"10.1007/s00508-015-0894-4","type":"correction"},"doi":"10.1007/s00508-015-0769-8","journal":"Wiener klinische Wochenschrift","publisher":"Springer Nature","title":"Erratum to: Killer-cell immunoglobulin-like receptor and human leukocyte antigen-C genes in common variable immunodeficiency"}
+{
+  "retracted": false,
+  "timestamp": 1447372800000,
+  "updates": [
+    {
+      "timestamp": 1496045741066,
+      "identifier": {
+        "doi": "10.1007/s00508-015-0894-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00508-015-0769-8"
+  },
+  "journal": "Wiener klinische Wochenschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Killer-cell immunoglobulin-like receptor and human leukocyte antigen-C genes in common variable immunodeficiency"
+}

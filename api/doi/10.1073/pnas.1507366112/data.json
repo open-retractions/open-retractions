@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1073/pnas.1512971112","type":"correction"},"doi":"10.1073/pnas.1507366112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Suweis et al., Resilience and reactivity of global food security: Fig. 3."}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496015223589,
+      "identifier": {
+        "doi": "10.1073/pnas.1512971112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1507366112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Suweis et al., Resilience and reactivity of global food security: Fig. 3."
+}

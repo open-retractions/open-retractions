@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490659200000,"doi":"10.1080/15389588.2017.1310541","type":"correction"},"doi":"10.1080/15389588.2015.1066499","journal":"Traffic Injury Prevention","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1490659200000,
+  "updates": [
+    {
+      "timestamp": 1495733241227,
+      "identifier": {
+        "doi": "10.1080/15389588.2017.1310541"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15389588.2015.1066499"
+  },
+  "journal": "Traffic Injury Prevention",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

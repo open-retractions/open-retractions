@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448928000000,"doi":"10.1016/j.jcyt.2015.09.009","type":"err"},"doi":"10.1016/j.jcyt.2015.05.001","journal":"Cytotherapy","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1448928000000,
+  "updates": [
+    {
+      "timestamp": 1496039401541,
+      "identifier": {
+        "doi": "10.1016/j.jcyt.2015.09.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcyt.2015.05.001"
+  },
+  "journal": "Cytotherapy",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

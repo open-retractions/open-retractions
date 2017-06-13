@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1415577600000,"doi":"10.1063/1.4901827","type":"correction"},"doi":"10.1063/1.4898688","journal":"Journal of Applied Physics","publisher":"AIP Publishing","title":"Erratum: “Effects of impurity-band conduction on thermoelectric properties of lightly doped p-type CoSb3” [J. Appl. Phys. 116, 153710 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1415577600000,
+  "updates": [
+    {
+      "timestamp": 1496020251910,
+      "identifier": {
+        "doi": "10.1063/1.4901827"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4898688"
+  },
+  "journal": "Journal of Applied Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Effects of impurity-band conduction on thermoelectric properties of lightly doped p-type CoSb3” [J. Appl. Phys. 116, 153710 (2014)]"
+}

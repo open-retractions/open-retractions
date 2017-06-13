@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.ceramint.2016.09.165","type":"err"},"doi":"10.1016/j.ceramint.2012.01.021","journal":"Ceramics International","publisher":"Elsevier BV","title":"Corrigendum to “An investigation of the titanium effect on the structural and magnetic properties of BaNi2 based W-type hexaferrites” [Ceram. Int. (2012) 3757–3762]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495647251192,
+      "identifier": {
+        "doi": "10.1016/j.ceramint.2016.09.165"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ceramint.2012.01.021"
+  },
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An investigation of the titanium effect on the structural and magnetic properties of BaNi2 based W-type hexaferrites” [Ceram. Int. (2012) 3757–3762]"
+}

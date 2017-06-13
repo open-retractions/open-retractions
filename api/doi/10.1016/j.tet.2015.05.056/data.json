@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439942400000,"doi":"10.1016/j.tet.2015.06.048","type":"erratum"},"doi":"10.1016/j.tet.2015.05.056","journal":"Tetrahedron","publisher":"Elsevier BV","title":"Corrigendum to “Selective mono-amination of dichlorodiazines” [Tetrahedron 71 (2015) 4859–4867]"}
+{
+  "retracted": false,
+  "timestamp": 1439942400000,
+  "updates": [
+    {
+      "timestamp": 1496009906924,
+      "identifier": {
+        "doi": "10.1016/j.tet.2015.06.048"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tet.2015.05.056"
+  },
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Selective mono-amination of dichlorodiazines” [Tetrahedron 71 (2015) 4859–4867]"
+}

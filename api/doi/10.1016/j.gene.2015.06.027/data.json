@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.gene.2015.07.076","type":"err"},"doi":"10.1016/j.gene.2015.06.027","journal":"Gene","publisher":"Elsevier BV","title":"Corrigendum to: “Functions of myosin light chain-2 (MYL2) in cardiac muscle and disease” [Gene 569 (2015) 14–20]"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496019380656,
+      "identifier": {
+        "doi": "10.1016/j.gene.2015.07.076"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gene.2015.06.027"
+  },
+  "journal": "Gene",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Functions of myosin light chain-2 (MYL2) in cardiac muscle and disease” [Gene 569 (2015) 14–20]"
+}

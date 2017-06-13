@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.actbio.2015.05.029","type":"err"},"doi":"10.1016/j.actbio.2014.11.051","journal":"Acta Biomaterialia","publisher":"Elsevier BV","title":"Corrigendum to “The role of calcitonin receptor signalling in polyethylene particle-induced osteolysis” [Acta Biomater. 14 (2015) 125–132]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496004357604,
+      "identifier": {
+        "doi": "10.1016/j.actbio.2015.05.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actbio.2014.11.051"
+  },
+  "journal": "Acta Biomaterialia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The role of calcitonin receptor signalling in polyethylene particle-induced osteolysis” [Acta Biomater. 14 (2015) 125–132]"
+}

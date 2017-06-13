@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404086400000,"doi":"10.1122/1.4874160","type":"correction"},"doi":"10.1122/1.4843957","journal":"Journal of Rheology","publisher":"Society of Rheology","title":"Erratum: “Convective constraint release (CCR) revisited” [J. Rheol. 58, 89–102 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1404086400000,
+  "updates": [
+    {
+      "timestamp": 1496050578068,
+      "identifier": {
+        "doi": "10.1122/1.4874160"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1122/1.4843957"
+  },
+  "journal": "Journal of Rheology",
+  "publisher": "Society of Rheology",
+  "title": "Erratum: “Convective constraint release (CCR) revisited” [J. Rheol. 58, 89–102 (2014)]"
+}

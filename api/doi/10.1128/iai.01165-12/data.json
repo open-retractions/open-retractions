@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1128/iai.00541-15","type":"correction"},"doi":"10.1128/iai.01165-12","journal":"Infection and Immunity","publisher":"American Society for Microbiology","title":"Correction for Blondel et al., The Type VI Secretion System Encoded in Salmonella Pathogenicity Island 19 Is Required for Salmonella enterica Serotype Gallinarum Survival within Infected Macrophages"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496029408041,
+      "identifier": {
+        "doi": "10.1128/iai.00541-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/iai.01165-12"
+  },
+  "journal": "Infection and Immunity",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Blondel et al., The Type VI Secretion System Encoded in Salmonella Pathogenicity Island 19 Is Required for Salmonella enterica Serotype Gallinarum Survival within Infected Macrophages"
+}

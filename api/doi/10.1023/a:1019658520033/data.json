@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1449446400000,"doi":"10.1007/s11207-015-0826-5","type":"correction"},"doi":"10.1023/a:1019658520033","journal":"Solar Physics","publisher":"Springer Nature","title":"Erratum to: The Magnetic Helicity Budget of a CME-Prolific Active Region"}
+{
+  "retracted": false,
+  "timestamp": 1449446400000,
+  "updates": [
+    {
+      "timestamp": 1496051723294,
+      "identifier": {
+        "doi": "10.1007/s11207-015-0826-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1023/a:1019658520033"
+  },
+  "journal": "Solar Physics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The Magnetic Helicity Budget of a CME-Prolific Active Region"
+}

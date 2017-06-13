@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1016/j.talanta.2016.08.025","type":"err"},"doi":"10.1016/j.talanta.2016.05.079","journal":"Talanta","publisher":"Elsevier BV","title":"Corrigendum to “The use of graphene nanoribbons as efficient electrochemical sensing material for nitrite determination” [Talanta 159 (2016) 34–39]"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495735748538,
+      "identifier": {
+        "doi": "10.1016/j.talanta.2016.08.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.talanta.2016.05.079"
+  },
+  "journal": "Talanta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The use of graphene nanoribbons as efficient electrochemical sensing material for nitrite determination” [Talanta 159 (2016) 34–39]"
+}

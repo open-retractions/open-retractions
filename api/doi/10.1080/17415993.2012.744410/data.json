@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387152000000,"doi":"10.1080/17415993.2012.757440","type":"correction"},"doi":"10.1080/17415993.2012.744410","journal":"Journal of Sulfur Chemistry","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1387152000000,
+  "updates": [
+    {
+      "timestamp": 1495984883565,
+      "identifier": {
+        "doi": "10.1080/17415993.2012.757440"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17415993.2012.744410"
+  },
+  "journal": "Journal of Sulfur Chemistry",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

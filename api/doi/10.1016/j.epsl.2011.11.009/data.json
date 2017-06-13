@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.epsl.2015.01.011","type":"err"},"doi":"10.1016/j.epsl.2011.11.009","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to ‘The influence of temperature-dependent thermal diffusivity on the conductive cooling rates of plutons and temperature-time paths in contact aureoles’ [Earth Planet. Sci. Lett. 317–318 (2012) 157–164]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496037413220,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2015.01.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2011.11.009"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘The influence of temperature-dependent thermal diffusivity on the conductive cooling rates of plutons and temperature-time paths in contact aureoles’ [Earth Planet. Sci. Lett. 317–318 (2012) 157–164]"
+}

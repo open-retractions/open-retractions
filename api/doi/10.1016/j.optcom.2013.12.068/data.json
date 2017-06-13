@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.optcom.2014.07.056","type":"err"},"doi":"10.1016/j.optcom.2013.12.068","journal":"Optics Communications","publisher":"Elsevier BV","title":"Corrigendum to “Performance investigation on clipping and RIN induced degradation for a single- and two-tone IM-DD SCM optical link” [Opt. Commun. 319 (2014) 178–187]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496002625529,
+      "identifier": {
+        "doi": "10.1016/j.optcom.2014.07.056"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.optcom.2013.12.068"
+  },
+  "journal": "Optics Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Performance investigation on clipping and RIN induced degradation for a single- and two-tone IM-DD SCM optical link” [Opt. Commun. 319 (2014) 178–187]"
+}

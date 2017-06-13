@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1416009600000,"doi":"10.1016/j.surfcoat.2014.09.033","type":"err"},"doi":"10.1016/j.surfcoat.2013.06.106","journal":"Surface and Coatings Technology","publisher":"Elsevier BV","title":"Corrigendum to “Studies of technological parameters influencing the nitriding behavior of spray-formed Al alloys” J. Surf. Coat. Technol. 236 (2013) 63–69"}
+{
+  "retracted": false,
+  "timestamp": 1416009600000,
+  "updates": [
+    {
+      "timestamp": 1496009163329,
+      "identifier": {
+        "doi": "10.1016/j.surfcoat.2014.09.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.surfcoat.2013.06.106"
+  },
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Studies of technological parameters influencing the nitriding behavior of spray-formed Al alloys” J. Surf. Coat. Technol. 236 (2013) 63–69"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435708800000,"doi":"10.1080/00107514.2015.1060742","type":"correction"},"doi":"10.1080/00107514.2015.1026557","journal":"Contemporary Physics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1435708800000,
+  "updates": [
+    {
+      "timestamp": 1496012832102,
+      "identifier": {
+        "doi": "10.1080/00107514.2015.1060742"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00107514.2015.1026557"
+  },
+  "journal": "Contemporary Physics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

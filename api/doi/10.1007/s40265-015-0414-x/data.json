@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461888000000,"doi":"10.1007/s40265-016-0580-5","type":"correction"},"doi":"10.1007/s40265-015-0414-x","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Management Strategies for Clopidogrel Hypersensitivity"}
+{
+  "retracted": false,
+  "timestamp": 1461888000000,
+  "updates": [
+    {
+      "timestamp": 1495669993584,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0580-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-015-0414-x"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Management Strategies for Clopidogrel Hypersensitivity"
+}

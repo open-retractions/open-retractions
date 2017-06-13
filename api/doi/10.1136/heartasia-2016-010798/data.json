@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1136/heartasia-2016-010798corr1","type":"correction"},"doi":"10.1136/heartasia-2016-010798","journal":"Heart Asia","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495669184104,
+      "identifier": {
+        "doi": "10.1136/heartasia-2016-010798corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/heartasia-2016-010798"
+  },
+  "journal": "Heart Asia",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

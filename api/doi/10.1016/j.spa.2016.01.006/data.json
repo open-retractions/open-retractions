@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.spa.2016.12.004","type":"erratum"},"doi":"10.1016/j.spa.2016.01.006","journal":"Stochastic Processes and their Applications","publisher":"Elsevier BV","title":"Erratum to “Simulation of BSDEs with jumps by Wiener Chaos expansion” [Stochastic Process. Appl. 126 (2016) 2123–2162]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495667289858,
+      "identifier": {
+        "doi": "10.1016/j.spa.2016.12.004"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.spa.2016.01.006"
+  },
+  "journal": "Stochastic Processes and their Applications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Simulation of BSDEs with jumps by Wiener Chaos expansion” [Stochastic Process. Appl. 126 (2016) 2123–2162]"
+}

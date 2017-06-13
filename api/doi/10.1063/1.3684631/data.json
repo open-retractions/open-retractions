@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384992000000,"doi":"10.1063/1.4834037","type":"correction"},"doi":"10.1063/1.3684631","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “State-to-state reaction probabilities within the quantum transition state framework” [J. Chem. Phys. 136, 064117 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1384992000000,
+  "updates": [
+    {
+      "timestamp": 1495999352682,
+      "identifier": {
+        "doi": "10.1063/1.4834037"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3684631"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “State-to-state reaction probabilities within the quantum transition state framework” [J. Chem. Phys. 136, 064117 (2012)]"
+}

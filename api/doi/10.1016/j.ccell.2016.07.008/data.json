@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1016/j.ccell.2016.08.010","type":"err"},"doi":"10.1016/j.ccell.2016.07.008","journal":"Cancer Cell","publisher":"Elsevier BV","title":"IDH1, Histone Methylation, and So Forth"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1497276175127,
+      "identifier": {
+        "doi": "10.1016/j.ccell.2016.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ccell.2016.07.008"
+  },
+  "journal": "Cancer Cell",
+  "publisher": "Elsevier BV",
+  "title": "IDH1, Histone Methylation, and So Forth"
+}

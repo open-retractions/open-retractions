@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379203200000,"doi":"10.1016/j.ejphar.2013.08.010","type":"err"},"doi":"10.1016/j.ejphar.2013.03.001","journal":"European Journal of Pharmacology","publisher":"Elsevier BV","title":"Erratum to ‘‘Axonal voltage-gated ion channels as pharmacological targets for pain’’ [Eur. J. Pharmacol. 708 (1–3) 105–112]"}
+{
+  "retracted": false,
+  "timestamp": 1379203200000,
+  "updates": [
+    {
+      "timestamp": 1496050419040,
+      "identifier": {
+        "doi": "10.1016/j.ejphar.2013.08.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejphar.2013.03.001"
+  },
+  "journal": "European Journal of Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘‘Axonal voltage-gated ion channels as pharmacological targets for pain’’ [Eur. J. Pharmacol. 708 (1–3) 105–112]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1494806400000,"doi":"10.1016/j.jorganchem.2017.03.029","type":"erratum"},"doi":"10.1016/j.jorganchem.2016.05.009","journal":"Journal of Organometallic Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Synthesis and anodic electrochemistry of cymanquine and related complexes” [J. Organomet. Chem. 817 (15 August 2016) 15–20]"}
+{
+  "retracted": false,
+  "timestamp": 1494806400000,
+  "updates": [
+    {
+      "timestamp": 1496769135754,
+      "identifier": {
+        "doi": "10.1016/j.jorganchem.2017.03.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jorganchem.2016.05.009"
+  },
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Synthesis and anodic electrochemistry of cymanquine and related complexes” [J. Organomet. Chem. 817 (15 August 2016) 15–20]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384473600000,"doi":"10.1016/j.aquatox.2013.09.020","type":"err"},"doi":"10.1016/j.aquatox.2010.01.007","journal":"Aquatic Toxicology","publisher":"Elsevier BV","title":"Corrigendum to “Controlling and maintaining exposure of hydrophobic organic compounds in aquatic toxicity tests by passive dosing” [Aquat. Toxicol. 98 (1) (2010) 15–24]"}
+{
+  "retracted": false,
+  "timestamp": 1384473600000,
+  "updates": [
+    {
+      "timestamp": 1496054109995,
+      "identifier": {
+        "doi": "10.1016/j.aquatox.2013.09.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquatox.2010.01.007"
+  },
+  "journal": "Aquatic Toxicology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Controlling and maintaining exposure of hydrophobic organic compounds in aquatic toxicity tests by passive dosing” [Aquat. Toxicol. 98 (1) (2010) 15–24]"
+}

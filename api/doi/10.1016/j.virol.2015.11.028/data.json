@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.virol.2016.01.014","type":"erratum"},"doi":"10.1016/j.virol.2015.11.028","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Cytorhabdovirus P3 genes encode 30K-like cell-to-cell movement proteins” [Virology 489 (2016) 20–33]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495648804475,
+      "identifier": {
+        "doi": "10.1016/j.virol.2016.01.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2015.11.028"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cytorhabdovirus P3 genes encode 30K-like cell-to-cell movement proteins” [Virology 489 (2016) 20–33]"
+}

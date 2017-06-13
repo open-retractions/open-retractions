@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460419200000,"doi":"10.1080/09298215.2016.1167996","type":"correction"},"doi":"10.1080/09298215.2015.1133655","journal":"Journal of New Music Research","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1460419200000,
+  "updates": [
+    {
+      "timestamp": 1495664004607,
+      "identifier": {
+        "doi": "10.1080/09298215.2016.1167996"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09298215.2015.1133655"
+  },
+  "journal": "Journal of New Music Research",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":65750400000,"doi":"10.1007/bf01394501","type":"correction"},"doi":"10.1007/bf01379781","journal":"Zeitschrift für Physik A Hadrons and nuclei","publisher":"Springer Nature","title":"Erratum to: Influence of atom-atom collisions on the collisional-radiative ionization and recombination coefficients of helium plasmas"}
+{
+  "retracted": false,
+  "timestamp": 65750400000,
+  "updates": [
+    {
+      "timestamp": 1495889394105,
+      "identifier": {
+        "doi": "10.1007/bf01394501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01379781"
+  },
+  "journal": "Zeitschrift für Physik A Hadrons and nuclei",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Influence of atom-atom collisions on the collisional-radiative ionization and recombination coefficients of helium plasmas"
+}

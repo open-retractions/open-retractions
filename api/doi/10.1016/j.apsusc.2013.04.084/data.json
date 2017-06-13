@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.apsusc.2013.06.071","type":"err"},"doi":"10.1016/j.apsusc.2013.04.084","journal":"Applied Surface Science","publisher":"Elsevier BV","title":"Corrigendum to “Characterization of ZnO coated polyester fabrics for UV protection” [Appl. Surf. Sci. 279 (2013) 272–278]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496030283350,
+      "identifier": {
+        "doi": "10.1016/j.apsusc.2013.06.071"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apsusc.2013.04.084"
+  },
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Characterization of ZnO coated polyester fabrics for UV protection” [Appl. Surf. Sci. 279 (2013) 272–278]"
+}

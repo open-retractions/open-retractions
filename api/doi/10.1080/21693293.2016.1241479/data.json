@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477353600000,"doi":"10.1080/21693293.2016.1250980","type":"correction"},"doi":"10.1080/21693293.2016.1241479","journal":"Resilience","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1477353600000,
+  "updates": [
+    {
+      "timestamp": 1495651464286,
+      "identifier": {
+        "doi": "10.1080/21693293.2016.1250980"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21693293.2016.1241479"
+  },
+  "journal": "Resilience",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

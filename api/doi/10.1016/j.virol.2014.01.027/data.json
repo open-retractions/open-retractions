@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409529600000,"doi":"10.1016/j.virol.2014.07.028","type":"err"},"doi":"10.1016/j.virol.2014.01.027","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Antibody neutralization of retargeted measles viruses” [Virology 454–455 (2014) 237–246]"}
+{
+  "retracted": false,
+  "timestamp": 1409529600000,
+  "updates": [
+    {
+      "timestamp": 1496000140512,
+      "identifier": {
+        "doi": "10.1016/j.virol.2014.07.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2014.01.027"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Antibody neutralization of retargeted measles viruses” [Virology 454–455 (2014) 237–246]"
+}

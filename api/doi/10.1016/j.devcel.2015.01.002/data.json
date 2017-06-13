@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429488000000,"doi":"10.1016/j.devcel.2015.04.003","type":"err"},"doi":"10.1016/j.devcel.2015.01.002","journal":"Developmental Cell","publisher":"Elsevier BV","title":"Weaning Triggers a Maturation Step of Pancreatic β Cells"}
+{
+  "retracted": false,
+  "timestamp": 1429488000000,
+  "updates": [
+    {
+      "timestamp": 1496059081762,
+      "identifier": {
+        "doi": "10.1016/j.devcel.2015.04.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.devcel.2015.01.002"
+  },
+  "journal": "Developmental Cell",
+  "publisher": "Elsevier BV",
+  "title": "Weaning Triggers a Maturation Step of Pancreatic β Cells"
+}

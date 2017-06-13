@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444867200000,"doi":"10.1016/j.chemolab.2015.07.011","type":"erratum"},"doi":"10.1016/j.chemolab.2015.06.007","journal":"Chemometrics and Intelligent Laboratory Systems","publisher":"Elsevier BV","title":"Corrigendum to “Classification of oestrogen receptor selective compounds with benzopyranskeleton using counterpropagation artificial neural networks optimised by genetic algorithms” [Chemom. Intell. Lab. Syst. (2015) 385–395]"}
+{
+  "retracted": false,
+  "timestamp": 1444867200000,
+  "updates": [
+    {
+      "timestamp": 1496011049477,
+      "identifier": {
+        "doi": "10.1016/j.chemolab.2015.07.011"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chemolab.2015.06.007"
+  },
+  "journal": "Chemometrics and Intelligent Laboratory Systems",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Classification of oestrogen receptor selective compounds with benzopyranskeleton using counterpropagation artificial neural networks optimised by genetic algorithms” [Chemom. Intell. Lab. Syst. (2015) 385–395]"
+}

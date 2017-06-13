@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1120521600000,"doi":"10.1073/pnas.0504625102","type":"correction"},"doi":"10.1073/pnas.0501526102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"errata for Cox et al., Diverse taxa of cyanobacteria produce  -N-methylamino-L-alanine, a neurotoxic amino acid, PNAS 2005 102:5074-5078"}
+{
+  "retracted": false,
+  "timestamp": 1120521600000,
+  "updates": [
+    {
+      "timestamp": 1495944177822,
+      "identifier": {
+        "doi": "10.1073/pnas.0504625102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0501526102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "errata for Cox et al., Diverse taxa of cyanobacteria produce  -N-methylamino-L-alanine, a neurotoxic amino acid, PNAS 2005 102:5074-5078"
+}

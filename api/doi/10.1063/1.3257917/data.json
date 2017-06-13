@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1270080000000,"doi":"10.1063/1.3376658","type":"erratum"},"doi":"10.1063/1.3257917","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Generalized log-likelihood functions and Bregman divergences” [J. Math. Phys. 80, 113301 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1270080000000,
+  "updates": [
+    {
+      "timestamp": 1495829690898,
+      "identifier": {
+        "doi": "10.1063/1.3376658"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.3257917"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Generalized log-likelihood functions and Bregman divergences” [J. Math. Phys. 80, 113301 (2009)]"
+}

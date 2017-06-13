@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454284800000,"doi":"10.1016/j.atmosres.2015.09.003","type":"erratum"},"doi":"10.1016/j.atmosres.2015.04.003","journal":"Atmospheric Research","publisher":"Elsevier BV","title":"Corrigendum to “Variation Characteristics of Water Vapor distribution during 2000–2008 over Hefei (31.9°N, 117.2°E) observed by L625 Lidar” [Atmos. Res. 164-165C (2015) 1–8]"}
+{
+  "retracted": false,
+  "timestamp": 1454284800000,
+  "updates": [
+    {
+      "timestamp": 1496033085035,
+      "identifier": {
+        "doi": "10.1016/j.atmosres.2015.09.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosres.2015.04.003"
+  },
+  "journal": "Atmospheric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Variation Characteristics of Water Vapor distribution during 2000–2008 over Hefei (31.9°N, 117.2°E) observed by L625 Lidar” [Atmos. Res. 164-165C (2015) 1–8]"
+}

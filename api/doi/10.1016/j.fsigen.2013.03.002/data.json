@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.1016/j.fsigen.2013.06.002","type":"err"},"doi":"10.1016/j.fsigen.2013.03.002","journal":"Forensic Science International: Genetics","publisher":"Elsevier BV","title":"Corrigendum to “Relatedness calculations for linked loci incorporating subpopulation effects” [Forensic Sci. Int: Genet., 7 (2013), 380–383]"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496028894303,
+      "identifier": {
+        "doi": "10.1016/j.fsigen.2013.06.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.fsigen.2013.03.002"
+  },
+  "journal": "Forensic Science International: Genetics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Relatedness calculations for linked loci incorporating subpopulation effects” [Forensic Sci. Int: Genet., 7 (2013), 380–383]"
+}

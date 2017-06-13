@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1000425600000,"update":{"timestamp":null,"doi":null,"pmid":25741541,"type":"retraction"},"doi":"10.1006/bbrc.2001.5537","journal":"Biochemical and biophysical research communications","publisher":null,"title":"Toward an optimal oligosaccharide ligand for rat natural killer cell activation receptor NKR-P1."}
+{
+  "retracted": false,
+  "timestamp": 1422057600000,
+  "updates": [
+    {
+      "timestamp": 1496037143361,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2014.10.099"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1006/bbrc.2001.5537"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Toward an optimal oligosaccharide ligand for rat natural killer cell activation receptor NKR-P1” [Biochem. Biophys. Res. Commun. 287 (2001) 11–20]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.math.2015.03.002","type":"err"},"doi":"10.1016/j.math.2014.07.007","journal":"Manual Therapy","publisher":"Elsevier BV","title":"Corrigendum to “Age and side-related morphometric MRI evaluation of trunk muscles in people without back pain” [Manual Ther 20 (2015) 90–95]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495730412348,
+      "identifier": {
+        "doi": "10.1016/j.math.2015.03.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.math.2014.07.007"
+  },
+  "journal": "Manual Therapy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Age and side-related morphometric MRI evaluation of trunk muscles in people without back pain” [Manual Ther 20 (2015) 90–95]"
+}

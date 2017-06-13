@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362528000000,"doi":"10.1016/j.neuron.2013.02.019","type":"err"},"doi":"10.1016/j.neuron.2012.12.026","journal":"Neuron","publisher":"Elsevier BV","title":"A Sip of GABA for the Cerebral Cortex"}
+{
+  "retracted": false,
+  "timestamp": 1362528000000,
+  "updates": [
+    {
+      "timestamp": 1496003422767,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.02.019"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.12.026"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "A Sip of GABA for the Cerebral Cortex"
+}

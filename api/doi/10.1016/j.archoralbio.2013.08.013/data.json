@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.archoralbio.2013.10.008","type":"err"},"doi":"10.1016/j.archoralbio.2013.08.013","journal":"Archives of Oral Biology","publisher":"Elsevier BV","title":"Corrigendum to “Survival of Enterococcus faecalis during alkaline stress: Changes in morphology, ultrastructure, physiochemical properties of the cell wall and specific gene transcripts” [AOB 58/11 (2013) 1667–1676]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495995506886,
+      "identifier": {
+        "doi": "10.1016/j.archoralbio.2013.10.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.archoralbio.2013.08.013"
+  },
+  "journal": "Archives of Oral Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Survival of Enterococcus faecalis during alkaline stress: Changes in morphology, ultrastructure, physiochemical properties of the cell wall and specific gene transcripts” [AOB 58/11 (2013) 1667–1676]"
+}

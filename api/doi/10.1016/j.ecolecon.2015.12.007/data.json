@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.ecolecon.2016.02.002","type":"err"},"doi":"10.1016/j.ecolecon.2015.12.007","journal":"Ecological Economics","publisher":"Elsevier BV","title":"Corrigendum to “Global patterns of metal extractivism, 1950–2010: Providing the bones for the industrial society's skeleton” [Ecol. Econ., Volume 122, February 2016, Pages 101–110]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495645027681,
+      "identifier": {
+        "doi": "10.1016/j.ecolecon.2016.02.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ecolecon.2015.12.007"
+  },
+  "journal": "Ecological Economics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Global patterns of metal extractivism, 1950–2010: Providing the bones for the industrial society's skeleton” [Ecol. Econ., Volume 122, February 2016, Pages 101–110]"
+}

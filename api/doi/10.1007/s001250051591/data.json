@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398816000000,"doi":"10.1007/s001250100676","type":"correction"},"doi":"10.1007/s001250051591","journal":"Diabetologia","publisher":"Springer Nature","title":"Erratum to: Advanced glycation end-products: a review"}
+{
+  "retracted": false,
+  "timestamp": 1398816000000,
+  "updates": [
+    {
+      "timestamp": 1495986139710,
+      "identifier": {
+        "doi": "10.1007/s001250100676"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s001250051591"
+  },
+  "journal": "Diabetologia",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Advanced glycation end-products: a review"
+}

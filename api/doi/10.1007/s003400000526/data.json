@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1007/s003400100602","type":"correction"},"doi":"10.1007/s003400000526","journal":"Applied Physics B","publisher":"Springer Nature","title":"Erratum to: Few-cycle optical waveform synthesis"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1495921069743,
+      "identifier": {
+        "doi": "10.1007/s003400100602"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s003400000526"
+  },
+  "journal": "Applied Physics B",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Few-cycle optical waveform synthesis"
+}

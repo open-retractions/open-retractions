@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1078099200000,"doi":"10.1107/s0907444904002951","type":"correction"},"doi":"10.1107/s0907444903028439","journal":"Acta Crystallographica Section D Biological Crystallography","publisher":"International Union of Crystallography (IUCr)","title":"Structure of the saccharide-binding domain of the human natural killer cell inhibitory receptor p75/AIRM1. Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1078099200000,
+  "updates": [
+    {
+      "timestamp": 1495808850172,
+      "identifier": {
+        "doi": "10.1107/s0907444904002951"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s0907444903028439"
+  },
+  "journal": "Acta Crystallographica Section D Biological Crystallography",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Structure of the saccharide-binding domain of the human natural killer cell inhibitory receptor p75/AIRM1. Erratum"
+}

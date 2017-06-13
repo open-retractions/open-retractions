@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473638400000,"doi":"10.1080/10408444.2016.1232554","type":"correction"},"doi":"10.1080/10408444.2016.1214676","journal":"Critical Reviews in Toxicology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1473638400000,
+  "updates": [
+    {
+      "timestamp": 1495639466488,
+      "identifier": {
+        "doi": "10.1080/10408444.2016.1232554"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10408444.2016.1214676"
+  },
+  "journal": "Critical Reviews in Toxicology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

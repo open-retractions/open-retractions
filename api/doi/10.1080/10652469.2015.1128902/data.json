@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1080/10652469.2016.1161971","type":"correction"},"doi":"10.1080/10652469.2015.1128902","journal":"Integral Transforms and Special Functions","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495660597422,
+      "identifier": {
+        "doi": "10.1080/10652469.2016.1161971"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10652469.2015.1128902"
+  },
+  "journal": "Integral Transforms and Special Functions",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

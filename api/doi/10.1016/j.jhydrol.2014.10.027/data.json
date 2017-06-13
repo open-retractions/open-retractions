@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.jhydrol.2015.04.042","type":"erratum"},"doi":"10.1016/j.jhydrol.2014.10.027","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Exact analytical solution of the convolution integral for classical hydrogeological lumped-parameter models and typical input tracer functions in natural gradient systems” [J. Hydrol. 519 (2014) 3275–3289]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1495997521783,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2015.04.042"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2014.10.027"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Exact analytical solution of the convolution integral for classical hydrogeological lumped-parameter models and typical input tracer functions in natural gradient systems” [J. Hydrol. 519 (2014) 3275–3289]"
+}

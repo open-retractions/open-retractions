@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.ijmm.2015.02.006","type":"err"},"doi":"10.1016/j.ijmm.2009.04.003","journal":"International Journal of Medical Microbiology","publisher":"Elsevier BV","title":"Corrigendum to “The inhibition of lipopolysaccharide-induced tumor necrosis factor-α and nitric oxide production by Clostridium perfringens α-toxin and its relation to α-toxin-induced intracellular ceramide generation” [Int. J. Med. Microbiol. 299 (8) (2009) 554–562]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496048010665,
+      "identifier": {
+        "doi": "10.1016/j.ijmm.2015.02.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijmm.2009.04.003"
+  },
+  "journal": "International Journal of Medical Microbiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The inhibition of lipopolysaccharide-induced tumor necrosis factor-α and nitric oxide production by Clostridium perfringens α-toxin and its relation to α-toxin-induced intracellular ceramide generation” [Int. J. Med. Microbiol. 299 (8) (2009) 554–562]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402444800000,"doi":"10.1007/s13351-014-2048-4","type":"correction"},"doi":"10.1007/s13351-013-0506-z","journal":"Journal of Meteorological Research","publisher":"Springer Nature","title":"Erratum to: Numerical simulation of changes in tropical cyclone intensity using a coupled air-sea model"}
+{
+  "retracted": false,
+  "timestamp": 1402444800000,
+  "updates": [
+    {
+      "timestamp": 1496044986866,
+      "identifier": {
+        "doi": "10.1007/s13351-014-2048-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13351-013-0506-z"
+  },
+  "journal": "Journal of Meteorological Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Numerical simulation of changes in tropical cyclone intensity using a coupled air-sea model"
+}

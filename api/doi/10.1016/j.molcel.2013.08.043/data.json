@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383782400000,"doi":"10.1016/j.molcel.2013.10.027","type":"err"},"doi":"10.1016/j.molcel.2013.08.043","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Metabolic Activation of CaMKII by Coenzyme A"}
+{
+  "retracted": false,
+  "timestamp": 1383782400000,
+  "updates": [
+    {
+      "timestamp": 1495995537840,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2013.10.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2013.08.043"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Metabolic Activation of CaMKII by Coenzyme A"
+}

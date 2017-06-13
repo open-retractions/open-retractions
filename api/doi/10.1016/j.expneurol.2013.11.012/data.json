@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.expneurol.2013.12.018","type":"err"},"doi":"10.1016/j.expneurol.2013.11.012","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “Knockdown of Lingo1b protein promotes myelination and oligodendrocyte differentiation in zebrafish” [Experimental Neurology 251 (2014) 72–83]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496010006798,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2013.12.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2013.11.012"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Knockdown of Lingo1b protein promotes myelination and oligodendrocyte differentiation in zebrafish” [Experimental Neurology 251 (2014) 72–83]"
+}

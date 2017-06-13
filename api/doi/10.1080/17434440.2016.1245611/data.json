@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477958400000,"doi":"10.1080/17434440.2016.1255472","type":"correction"},"doi":"10.1080/17434440.2016.1245611","journal":"Expert Review of Medical Devices","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1477958400000,
+  "updates": [
+    {
+      "timestamp": 1495653214688,
+      "identifier": {
+        "doi": "10.1080/17434440.2016.1255472"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17434440.2016.1245611"
+  },
+  "journal": "Expert Review of Medical Devices",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

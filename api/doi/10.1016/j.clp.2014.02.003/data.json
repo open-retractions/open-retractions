@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.clp.2016.01.015","type":"err"},"doi":"10.1016/j.clp.2014.02.003","journal":"Clinics in Perinatology","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495644267934,
+      "identifier": {
+        "doi": "10.1016/j.clp.2016.01.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.clp.2014.02.003"
+  },
+  "journal": "Clinics in Perinatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

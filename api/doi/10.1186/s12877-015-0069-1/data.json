@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440028800000,"doi":"10.1186/s12877-015-0084-2","type":"correction"},"doi":"10.1186/s12877-015-0069-1","journal":"BMC Geriatrics","publisher":"Springer Nature","title":"Erratum to: A comprehensive grid to evaluate case management’s expected effectiveness for community-dwelling frail older people: results from a multiple, embedded case study"}
+{
+  "retracted": false,
+  "timestamp": 1440028800000,
+  "updates": [
+    {
+      "timestamp": 1496022416830,
+      "identifier": {
+        "doi": "10.1186/s12877-015-0084-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12877-015-0069-1"
+  },
+  "journal": "BMC Geriatrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A comprehensive grid to evaluate case management’s expected effectiveness for community-dwelling frail older people: results from a multiple, embedded case study"
+}

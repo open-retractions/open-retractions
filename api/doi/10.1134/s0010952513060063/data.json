@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1134/s0010952514030083","type":"correction"},"doi":"10.1134/s0010952513060063","journal":"Cosmic Research","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Space Experiments aboard the Lomonosov MSU Satellite”"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496042885124,
+      "identifier": {
+        "doi": "10.1134/s0010952514030083"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0010952513060063"
+  },
+  "journal": "Cosmic Research",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Space Experiments aboard the Lomonosov MSU Satellite”"
+}

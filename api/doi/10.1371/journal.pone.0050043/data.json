@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1370563200000,"doi":"10.1371/annotation/919e5cc0-39bb-4465-babe-d2bdf12e89ff","type":"correction"},"doi":"10.1371/journal.pone.0050043","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Antiproliferative Effects of Fluoxetine on Colon Cancer Cells and in a Colonic Carcinogen Mouse Model"}
+{
+  "retracted": false,
+  "timestamp": 1370563200000,
+  "updates": [
+    {
+      "timestamp": 1496024873809,
+      "identifier": {
+        "doi": "10.1371/annotation/919e5cc0-39bb-4465-babe-d2bdf12e89ff"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050043"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Antiproliferative Effects of Fluoxetine on Colon Cancer Cells and in a Colonic Carcinogen Mouse Model"
+}

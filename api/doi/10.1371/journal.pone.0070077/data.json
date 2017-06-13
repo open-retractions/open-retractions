@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386633600000,"doi":"10.1371/annotation/d090733e-1f34-43c5-a06a-255456946303","type":"correction"},"doi":"10.1371/journal.pone.0070077","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Lysine-Specific Demethylase 1 (LSD1/KDM1A) Contributes to Colorectal Tumorigenesis via Activation of the Wnt/Β-Catenin Pathway by Down-Regulating Dickkopf-1 (DKK1)"}
+{
+  "retracted": false,
+  "timestamp": 1386633600000,
+  "updates": [
+    {
+      "timestamp": 1496005344886,
+      "identifier": {
+        "doi": "10.1371/annotation/d090733e-1f34-43c5-a06a-255456946303"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0070077"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Lysine-Specific Demethylase 1 (LSD1/KDM1A) Contributes to Colorectal Tumorigenesis via Activation of the Wnt/Β-Catenin Pathway by Down-Regulating Dickkopf-1 (DKK1)"
+}

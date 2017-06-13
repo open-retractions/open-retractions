@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470700800000,"doi":"10.1007/s00261-016-0857-x","type":"correction"},"doi":"10.1007/s00261-016-0688-9","journal":"Abdominal Radiology","publisher":"Springer Nature","title":"Erratum to: The ‘‘abdominal whirlpool’’ sign"}
+{
+  "retracted": false,
+  "timestamp": 1470700800000,
+  "updates": [
+    {
+      "timestamp": 1495736136974,
+      "identifier": {
+        "doi": "10.1007/s00261-016-0857-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00261-016-0688-9"
+  },
+  "journal": "Abdominal Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The ‘‘abdominal whirlpool’’ sign"
+}

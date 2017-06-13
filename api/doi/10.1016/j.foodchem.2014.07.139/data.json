@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.foodchem.2014.12.014","type":"err"},"doi":"10.1016/j.foodchem.2014.07.139","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “A multiplex real-time PCR method for the quantification of beef and pork fractions in minced meat” [Food Chem. 169 (2015) 305–313]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496030359452,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2014.12.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2014.07.139"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A multiplex real-time PCR method for the quantification of beef and pork fractions in minced meat” [Food Chem. 169 (2015) 305–313]"
+}

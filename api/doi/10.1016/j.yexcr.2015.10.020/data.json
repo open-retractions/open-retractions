@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.yexcr.2016.02.007","type":"err"},"doi":"10.1016/j.yexcr.2015.10.020","journal":"Experimental Cell Research","publisher":"Elsevier BV","title":"Corrigendum to: “Proteomic investigation of embryonic rat heart-derived H9c2 cell line sheds new light on the molecular phenotype of the popular cell model” [Exp. Cell Res. 339 2 (2015) 174–186]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495662170275,
+      "identifier": {
+        "doi": "10.1016/j.yexcr.2016.02.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.yexcr.2015.10.020"
+  },
+  "journal": "Experimental Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Proteomic investigation of embryonic rat heart-derived H9c2 cell line sheds new light on the molecular phenotype of the popular cell model” [Exp. Cell Res. 339 2 (2015) 174–186]"
+}

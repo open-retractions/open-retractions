@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365984000000,"doi":"10.1016/j.amc.2013.02.072","type":"err"},"doi":"10.1016/j.amc.2008.01.027","journal":"Applied Mathematics and Computation","publisher":"Elsevier BV","title":"Corrigendum to “Solving multi-term linear and non-linear diffusion-wave equations of fractional order by Adomian decomposition method” [Applied Mathematics and Computation 202 (2008) 113–120]"}
+{
+  "retracted": false,
+  "timestamp": 1365984000000,
+  "updates": [
+    {
+      "timestamp": 1496009053038,
+      "identifier": {
+        "doi": "10.1016/j.amc.2013.02.072"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.amc.2008.01.027"
+  },
+  "journal": "Applied Mathematics and Computation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Solving multi-term linear and non-linear diffusion-wave equations of fractional order by Adomian decomposition method” [Applied Mathematics and Computation 202 (2008) 113–120]"
+}

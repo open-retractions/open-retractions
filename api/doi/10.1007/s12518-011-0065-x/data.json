@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414195200000,"doi":"10.1007/s12518-014-0142-z","type":"correction"},"doi":"10.1007/s12518-011-0065-x","journal":"Applied Geomatics","publisher":"Springer Nature","title":"Erratum to: Test of a building vulnerability model for L’Aquila earthquake"}
+{
+  "retracted": false,
+  "timestamp": 1414195200000,
+  "updates": [
+    {
+      "timestamp": 1496016387596,
+      "identifier": {
+        "doi": "10.1007/s12518-014-0142-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12518-011-0065-x"
+  },
+  "journal": "Applied Geomatics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Test of a building vulnerability model for L’Aquila earthquake"
+}

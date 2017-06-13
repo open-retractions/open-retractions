@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1392422400000,"doi":"10.1136/2012-303403","type":"correction"},"doi":"10.1136/heartjnl-2012-303403","journal":"Heart","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1392422400000,
+  "updates": [
+    {
+      "timestamp": 1491927066678,
+      "identifier": {
+        "doi": "10.1136/2012-303403"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/heartjnl-2012-303403"
+  },
+  "journal": "Heart",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1098/rsif.2016.0272","type":"correction"},"doi":"10.1098/rsif.2015.0249","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Punctuated equilibrium in the large-scale evolution of programming languages'"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495669148193,
+      "identifier": {
+        "doi": "10.1098/rsif.2016.0272"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2015.0249"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Punctuated equilibrium in the large-scale evolution of programming languages'"
+}

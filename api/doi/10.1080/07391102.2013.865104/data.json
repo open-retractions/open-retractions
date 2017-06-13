@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414713600000,"doi":"10.1080/07391102.2014.895589","type":"correction"},"doi":"10.1080/07391102.2013.865104","journal":"Journal of Biomolecular Structure and Dynamics","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1414713600000,
+  "updates": [
+    {
+      "timestamp": 1496025144991,
+      "identifier": {
+        "doi": "10.1080/07391102.2014.895589"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07391102.2013.865104"
+  },
+  "journal": "Journal of Biomolecular Structure and Dynamics",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

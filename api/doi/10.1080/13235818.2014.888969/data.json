@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401235200000,"doi":"10.1080/13235818.2014.918168","type":"correction"},"doi":"10.1080/13235818.2014.888969","journal":"Molluscan Research","publisher":"Informa UK Limited","title":"ERRATUM"}
+{
+  "retracted": false,
+  "timestamp": 1401235200000,
+  "updates": [
+    {
+      "timestamp": 1496037516271,
+      "identifier": {
+        "doi": "10.1080/13235818.2014.918168"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13235818.2014.888969"
+  },
+  "journal": "Molluscan Research",
+  "publisher": "Informa UK Limited",
+  "title": "ERRATUM"
+}

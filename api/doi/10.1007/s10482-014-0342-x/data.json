@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1448409600000,"doi":"10.1007/s10482-015-0623-z","type":"correction"},"doi":"10.1007/s10482-014-0342-x","journal":"Antonie van Leeuwenhoek","publisher":"Springer Nature","title":"Erratum to: Erysipelothrix larvae sp. nov., isolated from the larval gut of the rhinoceros beetle, Trypoxylus dichotomus (Coleoptera: Scarabaeidae)"}
+{
+  "retracted": false,
+  "timestamp": 1448409600000,
+  "updates": [
+    {
+      "timestamp": 1496048547780,
+      "identifier": {
+        "doi": "10.1007/s10482-015-0623-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10482-014-0342-x"
+  },
+  "journal": "Antonie van Leeuwenhoek",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Erysipelothrix larvae sp. nov., isolated from the larval gut of the rhinoceros beetle, Trypoxylus dichotomus (Coleoptera: Scarabaeidae)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1348790400000,"doi":"10.1371/annotation/753d15c8-2321-4dc5-9b84-c47bd1bd1639","type":"correction"},"doi":"10.1371/journal.pone.0030207","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Selective Small Molecule Stat3 Inhibitor Reduces Breast Cancer Tumor-Initiating Cells and Improves Recurrence Free Survival in a Human-Xenograft Model"}
+{
+  "retracted": false,
+  "timestamp": 1348790400000,
+  "updates": [
+    {
+      "timestamp": 1495959502258,
+      "identifier": {
+        "doi": "10.1371/annotation/753d15c8-2321-4dc5-9b84-c47bd1bd1639"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030207"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Selective Small Molecule Stat3 Inhibitor Reduces Breast Cancer Tumor-Initiating Cells and Improves Recurrence Free Survival in a Human-Xenograft Model"
+}

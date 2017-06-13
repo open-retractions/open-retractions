@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455062400000,"doi":"10.1007/s12206-016-0152-3","type":"correction"},"doi":"10.1007/s12206-015-0445-y","journal":"Journal of Mechanical Science and Technology","publisher":"Springer Nature","title":"Erratum to “Experimental study on heat transfer characteristics of water-spray-bed heat exchanger” [29 (5) (2015) 2243~2247]"}
+{
+  "retracted": false,
+  "timestamp": 1455062400000,
+  "updates": [
+    {
+      "timestamp": 1495643553171,
+      "identifier": {
+        "doi": "10.1007/s12206-016-0152-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12206-015-0445-y"
+  },
+  "journal": "Journal of Mechanical Science and Technology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to “Experimental study on heat transfer characteristics of water-spray-bed heat exchanger” [29 (5) (2015) 2243~2247]"
+}

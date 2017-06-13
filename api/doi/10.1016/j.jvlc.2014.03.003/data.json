@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.jvlc.2014.09.001","type":"err"},"doi":"10.1016/j.jvlc.2014.03.003","journal":"Journal of Visual Languages & Computing","publisher":"Elsevier BV","title":"Erratum to “A Reactive Extension of the OpenMusic Visual Programming Language” Journal of Visual Languages and Computing (2014) pp. 363–375."}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496007415609,
+      "identifier": {
+        "doi": "10.1016/j.jvlc.2014.09.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jvlc.2014.03.003"
+  },
+  "journal": "Journal of Visual Languages & Computing",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A Reactive Extension of the OpenMusic Visual Programming Language” Journal of Visual Languages and Computing (2014) pp. 363–375."
+}

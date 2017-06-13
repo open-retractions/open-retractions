@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476748800000,"doi":"10.1007/s10552-016-0809-3","type":"correction"},"doi":"10.1007/s10552-016-0792-8","journal":"Cancer Causes & Control","publisher":"Springer Nature","title":"Erratum to: Association of sugary beverages with survival among patients with cancers of the upper aerodigestive tract"}
+{
+  "retracted": false,
+  "timestamp": 1476748800000,
+  "updates": [
+    {
+      "timestamp": 1495649599705,
+      "identifier": {
+        "doi": "10.1007/s10552-016-0809-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10552-016-0792-8"
+  },
+  "journal": "Cancer Causes & Control",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Association of sugary beverages with survival among patients with cancers of the upper aerodigestive tract"
+}

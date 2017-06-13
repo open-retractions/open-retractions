@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.jsps.2016.03.001","type":"erratum"},"doi":"10.1016/j.jsps.2015.01.008","journal":"Saudi Pharmaceutical Journal","publisher":"Elsevier BV","title":"Corrigendum to “Mycosynthesis of silver nanoparticles bearing antibacterial activity” [Saudi Pharm. J. 24 (2016) 140–146]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495666048602,
+      "identifier": {
+        "doi": "10.1016/j.jsps.2016.03.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsps.2015.01.008"
+  },
+  "journal": "Saudi Pharmaceutical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Mycosynthesis of silver nanoparticles bearing antibacterial activity” [Saudi Pharm. J. 24 (2016) 140–146]"
+}

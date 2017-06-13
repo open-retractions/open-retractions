@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404259200000,"doi":"10.1016/j.neuron.2014.05.025","type":"err"},"doi":"10.1016/j.neuron.2014.04.003","journal":"Neuron","publisher":"Elsevier BV","title":"Calcium-Dependent PKC Isoforms Have Specialized Roles in Short-Term Synaptic Plasticity"}
+{
+  "retracted": false,
+  "timestamp": 1404259200000,
+  "updates": [
+    {
+      "timestamp": 1496050951777,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2014.05.025"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2014.04.003"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Calcium-Dependent PKC Isoforms Have Specialized Roles in Short-Term Synaptic Plasticity"
+}

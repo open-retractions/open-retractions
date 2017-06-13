@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1136/sextrans-2013-051020corr1","type":"correction"},"doi":"10.1136/sextrans-2013-051020","journal":"Sexually Transmitted Infections","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496053402554,
+      "identifier": {
+        "doi": "10.1136/sextrans-2013-051020corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/sextrans-2013-051020"
+  },
+  "journal": "Sexually Transmitted Infections",
+  "publisher": "BMJ",
+  "title": "Correction"
+}

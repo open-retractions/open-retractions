@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364774400000,"doi":"10.1016/j.jastp.2013.03.001","type":"err"},"doi":"10.1016/j.jastp.2012.12.013","journal":"Journal of Atmospheric and Solar-Terrestrial Physics","publisher":"Elsevier BV","title":"Corrigendum to “Lower stratospheric gravity wave activity over Gadanki (13.5°N, 79.2°E) during the stratospheric sudden warming of 2009: Link with potential vorticity intrusion near Indian sector” [J. Atmos. Sol.–Terr. Phys. 94 (2013) 54–64"}
+{
+  "retracted": false,
+  "timestamp": 1364774400000,
+  "updates": [
+    {
+      "timestamp": 1496005272632,
+      "identifier": {
+        "doi": "10.1016/j.jastp.2013.03.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jastp.2012.12.013"
+  },
+  "journal": "Journal of Atmospheric and Solar-Terrestrial Physics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Lower stratospheric gravity wave activity over Gadanki (13.5°N, 79.2°E) during the stratospheric sudden warming of 2009: Link with potential vorticity intrusion near Indian sector” [J. Atmos. Sol.–Terr. Phys. 94 (2013) 54–64"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1256256000000,"doi":"10.1098/rsbl.2010.0102","type":"correction"},"doi":"10.1098/rsbl.2009.0599","journal":"Biology Letters","publisher":"The Royal Society","title":"Sexual conflict and sex allocation"}
+{
+  "retracted": false,
+  "timestamp": 1256256000000,
+  "updates": [
+    {
+      "timestamp": 1495823159094,
+      "identifier": {
+        "doi": "10.1098/rsbl.2010.0102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsbl.2009.0599"
+  },
+  "journal": "Biology Letters",
+  "publisher": "The Royal Society",
+  "title": "Sexual conflict and sex allocation"
+}

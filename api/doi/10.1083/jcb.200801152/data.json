@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1340582400000,"doi":"10.1083/jcb.2008011521977c","type":"correction"},"doi":"10.1083/jcb.200801152","journal":"The Journal of Cell Biology","publisher":"Rockefeller University Press","title":"Cardiolipin defines the interactome of the major ADP/ATP carrier protein of the mitochondrial inner membrane"}
+{
+  "retracted": false,
+  "timestamp": 1340582400000,
+  "updates": [
+    {
+      "timestamp": 1495916689650,
+      "identifier": {
+        "doi": "10.1083/jcb.2008011521977c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1083/jcb.200801152"
+  },
+  "journal": "The Journal of Cell Biology",
+  "publisher": "Rockefeller University Press",
+  "title": "Cardiolipin defines the interactome of the major ADP/ATP carrier protein of the mitochondrial inner membrane"
+}

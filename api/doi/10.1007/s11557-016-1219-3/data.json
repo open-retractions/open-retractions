@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473724800000,"doi":"10.1007/s11557-016-1226-4","type":"correction"},"doi":"10.1007/s11557-016-1219-3","journal":"Mycological Progress","publisher":"Springer Nature","title":"Erratum to: Isolation and molecular characterization of the fungal endophytic microbiome from conventionally and organically grown avocado trees in South Florida"}
+{
+  "retracted": false,
+  "timestamp": 1473724800000,
+  "updates": [
+    {
+      "timestamp": 1495639573199,
+      "identifier": {
+        "doi": "10.1007/s11557-016-1226-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11557-016-1219-3"
+  },
+  "journal": "Mycological Progress",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isolation and molecular characterization of the fungal endophytic microbiome from conventionally and organically grown avocado trees in South Florida"
+}

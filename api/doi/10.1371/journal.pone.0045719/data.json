@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1353888000000,"doi":"10.1371/annotation/4e090015-ac60-4afc-b4a3-e2008063bdec","type":"correction"},"doi":"10.1371/journal.pone.0045719","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Effect of Surface Plasma Treatments on the Adhesion of Mars JSC 1 Simulant Dust to RTV 655, RTV 615, and Sylgard 184"}
+{
+  "retracted": false,
+  "timestamp": 1353888000000,
+  "updates": [
+    {
+      "timestamp": 1497012201898,
+      "identifier": {
+        "doi": "10.1371/annotation/4e090015-ac60-4afc-b4a3-e2008063bdec"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0045719"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Effect of Surface Plasma Treatments on the Adhesion of Mars JSC 1 Simulant Dust to RTV 655, RTV 615, and Sylgard 184"
+}

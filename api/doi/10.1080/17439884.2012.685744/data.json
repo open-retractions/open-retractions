@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339372800000,"doi":"10.1080/17439884.2012.695977","type":"correction"},"doi":"10.1080/17439884.2012.685744","journal":"Learning, Media and Technology","publisher":"Informa UK Limited","title":"CORRIGENDUM"}
+{
+  "retracted": false,
+  "timestamp": 1339372800000,
+  "updates": [
+    {
+      "timestamp": 1495912437693,
+      "identifier": {
+        "doi": "10.1080/17439884.2012.695977"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17439884.2012.685744"
+  },
+  "journal": "Learning, Media and Technology",
+  "publisher": "Informa UK Limited",
+  "title": "CORRIGENDUM"
+}

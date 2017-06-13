@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440979200000,"doi":"10.1016/j.tsf.2015.05.044","type":"erratum"},"doi":"10.1016/j.tsf.2014.12.013","journal":"Thin Solid Films","publisher":"Elsevier BV","title":"Corrigendum to “Effect of thickness on structural and electrical properties of Al-doped ZnO films” [Thin Solid Films] 574 (2015) 162–168"}
+{
+  "retracted": false,
+  "timestamp": 1440979200000,
+  "updates": [
+    {
+      "timestamp": 1496003742639,
+      "identifier": {
+        "doi": "10.1016/j.tsf.2015.05.044"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tsf.2014.12.013"
+  },
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of thickness on structural and electrical properties of Al-doped ZnO films” [Thin Solid Films] 574 (2015) 162–168"
+}

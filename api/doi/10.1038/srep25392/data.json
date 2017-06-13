@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466985600000,"doi":"10.1038/srep28412","type":"correction"},"doi":"10.1038/srep25392","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Improved Drain Current Saturation and Voltage Gain in Graphene–on–Silicon Field Effect Transistors"}
+{
+  "retracted": false,
+  "timestamp": 1466985600000,
+  "updates": [
+    {
+      "timestamp": 1495722814084,
+      "identifier": {
+        "doi": "10.1038/srep28412"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep25392"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Improved Drain Current Saturation and Voltage Gain in Graphene–on–Silicon Field Effect Transistors"
+}

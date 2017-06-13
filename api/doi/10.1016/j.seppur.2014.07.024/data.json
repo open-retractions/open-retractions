@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444953600000,"doi":"10.1016/j.seppur.2015.01.029","type":"err"},"doi":"10.1016/j.seppur.2014.07.024","journal":"Separation and Purification Technology","publisher":"Elsevier BV","title":"Corrigendum to “Effect of electrode types on simultaneous anaerobic sulfide and nitrate removal in microbial fuel cell” [Sep. Purif. Technol. 134 (2014) 20–25]"}
+{
+  "retracted": false,
+  "timestamp": 1444953600000,
+  "updates": [
+    {
+      "timestamp": 1496042778906,
+      "identifier": {
+        "doi": "10.1016/j.seppur.2015.01.029"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.seppur.2014.07.024"
+  },
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effect of electrode types on simultaneous anaerobic sulfide and nitrate removal in microbial fuel cell” [Sep. Purif. Technol. 134 (2014) 20–25]"
+}

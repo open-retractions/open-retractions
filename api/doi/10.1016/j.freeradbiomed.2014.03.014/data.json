@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.freeradbiomed.2014.11.008","type":"err"},"doi":"10.1016/j.freeradbiomed.2014.03.014","journal":"Free Radical Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Involvement of oxidative stress in 4-vinylcyclohexene-induced toxicity in Drosophila melanogaster” [Free Radic. Biol. Med. 71 (2014) 99–108]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496029488229,
+      "identifier": {
+        "doi": "10.1016/j.freeradbiomed.2014.11.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.freeradbiomed.2014.03.014"
+  },
+  "journal": "Free Radical Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Involvement of oxidative stress in 4-vinylcyclohexene-induced toxicity in Drosophila melanogaster” [Free Radic. Biol. Med. 71 (2014) 99–108]"
+}

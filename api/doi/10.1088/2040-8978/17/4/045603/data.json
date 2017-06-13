@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486166400000,"doi":"10.1088/2040-8978/17/6/069501","type":"correction"},"doi":"10.1088/2040-8978/17/4/045603","journal":"Journal of Optics","publisher":"IOP Publishing","title":"Corrigendum: A differentiated plane wave as an electromagnetic vortex (2015 J. Opt. 17 045603)"}
+{
+  "retracted": false,
+  "timestamp": 1486166400000,
+  "updates": [
+    {
+      "timestamp": 1495997106226,
+      "identifier": {
+        "doi": "10.1088/2040-8978/17/6/069501"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/2040-8978/17/4/045603"
+  },
+  "journal": "Journal of Optics",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: A differentiated plane wave as an electromagnetic vortex (2015 J. Opt. 17 045603)"
+}

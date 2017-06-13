@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.molmet.2014.09.002","type":"err"},"doi":"10.1016/j.molmet.2013.10.005","journal":"Molecular Metabolism","publisher":"Elsevier BV","title":"Erratum to “Muscle insulin sensitivity and glucose metabolism are controlled by the intrinsic muscle clock” [Mol Metab 3 (2014) 29–41]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496006424509,
+      "identifier": {
+        "doi": "10.1016/j.molmet.2014.09.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molmet.2013.10.005"
+  },
+  "journal": "Molecular Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Muscle insulin sensitivity and glucose metabolism are controlled by the intrinsic muscle clock” [Mol Metab 3 (2014) 29–41]"
+}

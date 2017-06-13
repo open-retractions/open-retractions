@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469750400000,"doi":"10.1186/s12886-016-0259-4","type":"correction"},"doi":"10.1186/s12886-016-0225-1","journal":"BMC Ophthalmology","publisher":"Springer Nature","title":"Erratum to: Worldwide Argus II implantation: recommendations to optimize patient outcomes"}
+{
+  "retracted": false,
+  "timestamp": 1469750400000,
+  "updates": [
+    {
+      "timestamp": 1495732920326,
+      "identifier": {
+        "doi": "10.1186/s12886-016-0259-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12886-016-0225-1"
+  },
+  "journal": "BMC Ophthalmology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Worldwide Argus II implantation: recommendations to optimize patient outcomes"
+}

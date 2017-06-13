@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338422400000,"doi":"10.1371/annotation/272940da-34b6-4cd7-8794-ecb5df8d7cc2","type":"correction"},"doi":"10.1371/journal.pone.0027226","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A New Piece of the Shigella Pathogenicity Puzzle: Spermidine Accumulationby Silencing of the speG Gene"}
+{
+  "retracted": false,
+  "timestamp": 1338422400000,
+  "updates": [
+    {
+      "timestamp": 1495912223983,
+      "identifier": {
+        "doi": "10.1371/annotation/272940da-34b6-4cd7-8794-ecb5df8d7cc2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027226"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A New Piece of the Shigella Pathogenicity Puzzle: Spermidine Accumulationby Silencing of the speG Gene"
+}

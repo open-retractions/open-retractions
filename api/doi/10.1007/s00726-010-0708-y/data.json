@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1329436800000,"doi":"10.1007/s00726-012-1227-9","type":"correction"},"doi":"10.1007/s00726-010-0708-y","journal":"Amino Acids","publisher":"Springer Nature","title":"Erratum to: Preliminary kinetic characterization of a copper amine oxidase from rat liver mitochondria matrix"}
+{
+  "retracted": false,
+  "timestamp": 1329436800000,
+  "updates": [
+    {
+      "timestamp": 1495870254583,
+      "identifier": {
+        "doi": "10.1007/s00726-012-1227-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00726-010-0708-y"
+  },
+  "journal": "Amino Acids",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Preliminary kinetic characterization of a copper amine oxidase from rat liver mitochondria matrix"
+}

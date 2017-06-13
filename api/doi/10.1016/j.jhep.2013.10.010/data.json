@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.jhep.2014.02.018","type":"err"},"doi":"10.1016/j.jhep.2013.10.010","journal":"Journal of Hepatology","publisher":"Elsevier BV","title":"Erratum to “A method for establishing allocation equity among patients with and without hepatocellular carcinoma on a common liver transplant waiting list” [J Hepatol 2013;60:290–297]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496027432967,
+      "identifier": {
+        "doi": "10.1016/j.jhep.2014.02.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhep.2013.10.010"
+  },
+  "journal": "Journal of Hepatology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A method for establishing allocation equity among patients with and without hepatocellular carcinoma on a common liver transplant waiting list” [J Hepatol 2013;60:290–297]"
+}

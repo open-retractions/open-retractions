@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.acme.2016.08.005","type":"err"},"doi":"10.1016/j.acme.2016.02.008","journal":"Archives of Civil and Mechanical Engineering","publisher":"Elsevier BV","title":"Corrigendum to: “Cellular automata model for prediction of crack initiation and propagation in hot forging tools” [Arch. Civil Mech. Eng. 16 (3) (2016) 437–447]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495638550027,
+      "identifier": {
+        "doi": "10.1016/j.acme.2016.08.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.acme.2016.02.008"
+  },
+  "journal": "Archives of Civil and Mechanical Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: “Cellular automata model for prediction of crack initiation and propagation in hot forging tools” [Arch. Civil Mech. Eng. 16 (3) (2016) 437–447]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466467200000,"doi":"10.1073/pnas.1608342113","type":"correction"},"doi":"10.1073/pnas.1516321113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Itoh et al., PDK1–Akt pathway regulates radial neuronal migration and microtubules in the developing mouse neocortex"}
+{
+  "retracted": false,
+  "timestamp": 1466467200000,
+  "updates": [
+    {
+      "timestamp": 1495720306093,
+      "identifier": {
+        "doi": "10.1073/pnas.1608342113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1516321113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Itoh et al., PDK1–Akt pathway regulates radial neuronal migration and microtubules in the developing mouse neocortex"
+}

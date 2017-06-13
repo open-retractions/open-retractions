@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381363200000,"doi":"10.1016/j.cell.2013.09.040","type":"erratum"},"doi":"10.1016/j.cell.2013.08.021","journal":"Cell","publisher":"Elsevier BV","title":"Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity"}
+{
+  "retracted": false,
+  "timestamp": 1381363200000,
+  "updates": [
+    {
+      "timestamp": 1496052807615,
+      "identifier": {
+        "doi": "10.1016/j.cell.2013.09.040"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2013.08.021"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1128/mcb.00086-16","type":"correction"},"doi":"10.1128/mcb.00930-12","journal":"Molecular and Cellular Biology","publisher":"American Society for Microbiology","title":"Correction for Parr et al., Glycogen Synthase Kinase 3 Inhibition Promotes Lysosomal Biogenesis and Autophagic Degradation of the Amyloid-β Precursor Protein"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495655673754,
+      "identifier": {
+        "doi": "10.1128/mcb.00086-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mcb.00930-12"
+  },
+  "journal": "Molecular and Cellular Biology",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Parr et al., Glycogen Synthase Kinase 3 Inhibition Promotes Lysosomal Biogenesis and Autophagic Degradation of the Amyloid-β Precursor Protein"
+}

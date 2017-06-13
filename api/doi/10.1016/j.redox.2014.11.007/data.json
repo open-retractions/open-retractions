@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.redox.2015.02.005","type":"erratum"},"doi":"10.1016/j.redox.2014.11.007","journal":"Redox Biology","publisher":"Elsevier BV","title":"Corrigendum to “Redox-active cerium oxide nanoparticles protect human dermal fibroblasts from PQ-induced damage” [Redox Biol. 4 (2015) 1–5]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496053737521,
+      "identifier": {
+        "doi": "10.1016/j.redox.2015.02.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.redox.2014.11.007"
+  },
+  "journal": "Redox Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Redox-active cerium oxide nanoparticles protect human dermal fibroblasts from PQ-induced damage” [Redox Biol. 4 (2015) 1–5]"
+}

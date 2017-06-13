@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1413331200000,"doi":"10.1016/j.jde.2014.07.018","type":"err"},"doi":"10.1016/j.jde.2014.02.009","journal":"Journal of Differential Equations","publisher":"Elsevier BV","title":"Corrigendum to “The evolution of traveling waves in a simple isothermal chemical system modeling quadratic autocatalysis with strong decay” [J. Differential Equations 256 (10) (2014) 3335–3364]"}
+{
+  "retracted": false,
+  "timestamp": 1413331200000,
+  "updates": [
+    {
+      "timestamp": 1495999833402,
+      "identifier": {
+        "doi": "10.1016/j.jde.2014.07.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jde.2014.02.009"
+  },
+  "journal": "Journal of Differential Equations",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The evolution of traveling waves in a simple isothermal chemical system modeling quadratic autocatalysis with strong decay” [J. Differential Equations 256 (10) (2014) 3335–3364]"
+}

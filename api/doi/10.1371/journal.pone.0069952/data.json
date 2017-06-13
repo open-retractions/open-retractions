@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375833600000,"doi":"10.1371/annotation/7f6b65d9-a88d-4bdf-a174-48b1bc99b192","type":"correction"},"doi":"10.1371/journal.pone.0069952","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: How Lateral Connections and Spiking Dynamics May Separate Multiple Objects Moving Together"}
+{
+  "retracted": false,
+  "timestamp": 1375833600000,
+  "updates": [
+    {
+      "timestamp": 1496039167632,
+      "identifier": {
+        "doi": "10.1371/annotation/7f6b65d9-a88d-4bdf-a174-48b1bc99b192"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0069952"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: How Lateral Connections and Spiking Dynamics May Separate Multiple Objects Moving Together"
+}

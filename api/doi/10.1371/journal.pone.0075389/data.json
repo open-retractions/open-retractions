@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1371/annotation/40be2093-f3d0-41ca-a8d7-02fecd051942","type":"correction"},"doi":"10.1371/journal.pone.0075389","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Transcriptional Regulator Np20 Is the Zinc Uptake Regulator in Pseudomonas aeruginosa"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1495994183621,
+      "identifier": {
+        "doi": "10.1371/annotation/40be2093-f3d0-41ca-a8d7-02fecd051942"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0075389"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Transcriptional Regulator Np20 Is the Zinc Uptake Regulator in Pseudomonas aeruginosa"
+}

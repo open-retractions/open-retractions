@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419897600000,"doi":"10.1134/s0001434614110200","type":"correction"},"doi":"10.1134/s0001434613030061","journal":"Mathematical Notes","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Regularized trace of the perturbed Laplace-Beltrami operator on two-dimensional manifolds with closed geodesics”"}
+{
+  "retracted": false,
+  "timestamp": 1419897600000,
+  "updates": [
+    {
+      "timestamp": 1496033283390,
+      "identifier": {
+        "doi": "10.1134/s0001434614110200"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0001434613030061"
+  },
+  "journal": "Mathematical Notes",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Regularized trace of the perturbed Laplace-Beltrami operator on two-dimensional manifolds with closed geodesics”"
+}

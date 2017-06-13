@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1038/srep19321","type":"correction"},"doi":"10.1038/srep09876","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: Thermal invisibility based on scattering cancellation and mantle cloaking"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638519067,
+      "identifier": {
+        "doi": "10.1038/srep19321"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep09876"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: Thermal invisibility based on scattering cancellation and mantle cloaking"
+}

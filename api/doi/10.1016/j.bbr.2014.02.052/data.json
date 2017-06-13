@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1423958400000,"update":{"timestamp":null,"doi":null,"pmid":26754916,"type":"retraction"},"doi":"10.1016/j.bbr.2014.02.052","journal":"Behavioural brain research","publisher":null,"title":"Retracted: Involvement of insulin-like growth factor-1 in chemotherapy-related cognitive impairment."}
+{
+  "retracted": false,
+  "timestamp": 1451606400000,
+  "updates": [
+    {
+      "timestamp": 1496049227063,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2015.10.042"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2014.02.052"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice"
+}

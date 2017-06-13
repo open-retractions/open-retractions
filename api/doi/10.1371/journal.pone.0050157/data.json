@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377043200000,"doi":"10.1371/annotation/bca273e5-7448-4773-a4e4-fe538be554da","type":"correction"},"doi":"10.1371/journal.pone.0050157","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: cAMP/Protein Kinase A Activates Cystic Fibrosis Transmembrane Conductance Regulator for ATP Release from Rat Skeletal Muscle during Low pH or Contractions"}
+{
+  "retracted": false,
+  "timestamp": 1377043200000,
+  "updates": [
+    {
+      "timestamp": 1496048528569,
+      "identifier": {
+        "doi": "10.1371/annotation/bca273e5-7448-4773-a4e4-fe538be554da"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050157"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: cAMP/Protein Kinase A Activates Cystic Fibrosis Transmembrane Conductance Regulator for ATP Release from Rat Skeletal Muscle during Low pH or Contractions"
+}

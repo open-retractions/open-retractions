@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407801600000,"doi":"10.1080/00455091.2014.941560","type":"correction"},"doi":"10.1080/00455091.2014.897479","journal":"Canadian Journal of Philosophy","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1407801600000,
+  "updates": [
+    {
+      "timestamp": 1495999721412,
+      "identifier": {
+        "doi": "10.1080/00455091.2014.941560"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00455091.2014.897479"
+  },
+  "journal": "Canadian Journal of Philosophy",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

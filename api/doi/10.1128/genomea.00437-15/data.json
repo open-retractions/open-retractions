@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440633600000,"doi":"10.1128/genomea.01043-15","type":"correction"},"doi":"10.1128/genomea.00437-15","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"Correction for Vega-Alvarado et al., High-Quality Draft Genome Sequence ofCandida apicolaNRRL Y-50540"}
+{
+  "retracted": false,
+  "timestamp": 1440633600000,
+  "updates": [
+    {
+      "timestamp": 1496025885437,
+      "identifier": {
+        "doi": "10.1128/genomea.01043-15"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00437-15"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "Correction for Vega-Alvarado et al., High-Quality Draft Genome Sequence ofCandida apicolaNRRL Y-50540"
+}

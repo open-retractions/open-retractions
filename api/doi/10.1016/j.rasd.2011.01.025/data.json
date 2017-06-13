@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.rasd.2016.01.008","type":"err"},"doi":"10.1016/j.rasd.2011.01.025","journal":"Research in Autism Spectrum Disorders","publisher":"Elsevier BV","title":"Corrigendum to “Cognitive flexibility in autism spectrum disorder: Explaining the inconsistencies?” [Res. Autism Spectr. Disord. 5 (2011) 1390–1401]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495640549067,
+      "identifier": {
+        "doi": "10.1016/j.rasd.2016.01.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rasd.2011.01.025"
+  },
+  "journal": "Research in Autism Spectrum Disorders",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cognitive flexibility in autism spectrum disorder: Explaining the inconsistencies?” [Res. Autism Spectr. Disord. 5 (2011) 1390–1401]"
+}

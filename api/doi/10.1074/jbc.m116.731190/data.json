@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1490313600000,"doi":"10.1074/jbc.a116.731190","type":"correction"},"doi":"10.1074/jbc.m116.731190","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Substrate recognition by the Cdh1 destruction box receptor is a general requirement for APC/CCdh1-mediated proteolysis."}
+{
+  "retracted": false,
+  "timestamp": 1490313600000,
+  "updates": [
+    {
+      "timestamp": 1495731936323,
+      "identifier": {
+        "doi": "10.1074/jbc.a116.731190"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m116.731190"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Substrate recognition by the Cdh1 destruction box receptor is a general requirement for APC/CCdh1-mediated proteolysis."
+}

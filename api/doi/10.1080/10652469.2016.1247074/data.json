@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488499200000,"doi":"10.1080/10652469.2017.1298592","type":"correction"},"doi":"10.1080/10652469.2016.1247074","journal":"Integral Transforms and Special Functions","publisher":"Informa UK Limited","title":"Corrigendum to our paper ‘The Markov–Stieltjes transform on Hardy and Lebesgue spaces’"}
+{
+  "retracted": false,
+  "timestamp": 1488499200000,
+  "updates": [
+    {
+      "timestamp": 1495729564112,
+      "identifier": {
+        "doi": "10.1080/10652469.2017.1298592"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10652469.2016.1247074"
+  },
+  "journal": "Integral Transforms and Special Functions",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum to our paper ‘The Markov–Stieltjes transform on Hardy and Lebesgue spaces’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418688000000,"doi":"10.1007/s13246-014-0323-4","type":"correction"},"doi":"10.1007/s13246-014-0304-7","journal":"Australasian Physical & Engineering Sciences in Medicine","publisher":"Springer Nature","title":"Erratum to: Capture and analysis of radiation dose reports for radiology"}
+{
+  "retracted": false,
+  "timestamp": 1418688000000,
+  "updates": [
+    {
+      "timestamp": 1496028146889,
+      "identifier": {
+        "doi": "10.1007/s13246-014-0323-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13246-014-0304-7"
+  },
+  "journal": "Australasian Physical & Engineering Sciences in Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Capture and analysis of radiation dose reports for radiology"
+}

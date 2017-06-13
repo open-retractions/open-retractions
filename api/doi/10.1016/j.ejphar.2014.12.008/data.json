@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441411200000,"doi":"10.1016/j.ejphar.2015.08.009","type":"err"},"doi":"10.1016/j.ejphar.2014.12.008","journal":"European Journal of Pharmacology","publisher":"Elsevier BV","title":"Corrigendum to “Telmisartan ameliorates cisplatin-induced nephrotoxicity by inhibiting MAPK mediated inflammation and apoptosis” [Eur. J. Pharmachol. 748 (2015) 50–60]"}
+{
+  "retracted": false,
+  "timestamp": 1441411200000,
+  "updates": [
+    {
+      "timestamp": 1496023669838,
+      "identifier": {
+        "doi": "10.1016/j.ejphar.2015.08.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejphar.2014.12.008"
+  },
+  "journal": "European Journal of Pharmacology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Telmisartan ameliorates cisplatin-induced nephrotoxicity by inhibiting MAPK mediated inflammation and apoptosis” [Eur. J. Pharmachol. 748 (2015) 50–60]"
+}

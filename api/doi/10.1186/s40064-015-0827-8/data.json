@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442793600000,"doi":"10.1186/s40064-015-1233-y","type":"correction"},"doi":"10.1186/s40064-015-0827-8","journal":"SpringerPlus","publisher":"Springer Nature","title":"Erratum to: Patient costs of breast cancer endocrine therapy agents under Medicare Part D vs with generic formulations"}
+{
+  "retracted": false,
+  "timestamp": 1442793600000,
+  "updates": [
+    {
+      "timestamp": 1496028518314,
+      "identifier": {
+        "doi": "10.1186/s40064-015-1233-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40064-015-0827-8"
+  },
+  "journal": "SpringerPlus",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Patient costs of breast cancer endocrine therapy agents under Medicare Part D vs with generic formulations"
+}

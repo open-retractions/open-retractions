@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430352000000,"doi":"10.1080/00480169.2015.1041785","type":"correction"},"doi":"10.1080/00480169.2014.981314","journal":"New Zealand Veterinary Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1430352000000,
+  "updates": [
+    {
+      "timestamp": 1495997025798,
+      "identifier": {
+        "doi": "10.1080/00480169.2015.1041785"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00480169.2014.981314"
+  },
+  "journal": "New Zealand Veterinary Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

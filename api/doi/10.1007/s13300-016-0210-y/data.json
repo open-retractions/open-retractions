@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480464000000,"doi":"10.1007/s13300-016-0216-5","type":"correction"},"doi":"10.1007/s13300-016-0210-y","journal":"Diabetes Therapy","publisher":"Springer Nature","title":"Erratum to: Simvastatin Rapidly and Reversibly Inhibits Insulin Secretion in Intact Single-Islet Cultures"}
+{
+  "retracted": false,
+  "timestamp": 1480464000000,
+  "updates": [
+    {
+      "timestamp": 1495662189621,
+      "identifier": {
+        "doi": "10.1007/s13300-016-0216-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13300-016-0210-y"
+  },
+  "journal": "Diabetes Therapy",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Simvastatin Rapidly and Reversibly Inhibits Insulin Secretion in Intact Single-Islet Cultures"
+}

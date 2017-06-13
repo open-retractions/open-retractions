@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1335484800000,"update":{"timestamp":null,"doi":null,"pmid":25984577,"type":"retraction"},"doi":"10.1016/j.cell.2012.02.055","journal":"Cell","publisher":null,"title":"A self-produced trigger for biofilm disassembly that targets exopolysaccharide."}
+{
+  "retracted": false,
+  "timestamp": 1430956800000,
+  "updates": [
+    {
+      "timestamp": 1495998456297,
+      "identifier": {
+        "doi": "10.1016/j.cell.2015.04.039"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cell.2012.02.055"
+  },
+  "journal": "Cell",
+  "publisher": "Elsevier BV",
+  "title": "Retraction Notice to: A Self-Produced Trigger for Biofilm Disassembly that Targets Exopolysaccharide"
+}

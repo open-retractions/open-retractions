@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476230400000,"doi":"10.1080/1828051x.2016.1242457","type":"correction"},"doi":"10.1080/1828051x.2016.1222246","journal":"Italian Journal of Animal Science","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1476230400000,
+  "updates": [
+    {
+      "timestamp": 1495648094823,
+      "identifier": {
+        "doi": "10.1080/1828051x.2016.1242457"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1828051x.2016.1222246"
+  },
+  "journal": "Italian Journal of Animal Science",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

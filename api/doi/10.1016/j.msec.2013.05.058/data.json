@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.msec.2013.12.002","type":"err"},"doi":"10.1016/j.msec.2013.05.058","journal":"Materials Science and Engineering: C","publisher":"Elsevier BV","title":"Corrigendum to Electrospun adherent-antiadherent bilayered membranes based on crosslinked hyaluronic acid for advanced tissue engineering applications"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496008832193,
+      "identifier": {
+        "doi": "10.1016/j.msec.2013.12.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msec.2013.05.058"
+  },
+  "journal": "Materials Science and Engineering: C",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to Electrospun adherent-antiadherent bilayered membranes based on crosslinked hyaluronic acid for advanced tissue engineering applications"
+}

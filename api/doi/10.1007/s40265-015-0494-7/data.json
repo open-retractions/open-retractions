@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1454457600000,"doi":"10.1007/s40265-016-0547-6","type":"correction"},"doi":"10.1007/s40265-015-0494-7","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Cariprazine: First Global Approval"}
+{
+  "retracted": false,
+  "timestamp": 1454457600000,
+  "updates": [
+    {
+      "timestamp": 1495642126600,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0547-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-015-0494-7"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Cariprazine: First Global Approval"
+}

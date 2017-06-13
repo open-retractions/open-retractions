@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491177600000,"doi":"10.1080/10549811.2017.1308194","type":"correction"},"doi":"10.1080/10549811.2016.1275700","journal":"Journal of Sustainable Forestry","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1491177600000,
+  "updates": [
+    {
+      "timestamp": 1495735470792,
+      "identifier": {
+        "doi": "10.1080/10549811.2017.1308194"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10549811.2016.1275700"
+  },
+  "journal": "Journal of Sustainable Forestry",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

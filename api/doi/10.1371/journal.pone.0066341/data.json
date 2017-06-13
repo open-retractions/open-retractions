@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377561600000,"doi":"10.1371/annotation/0c88e0d5-dade-4376-8ee1-49ed4ff238e2","type":"correction"},"doi":"10.1371/journal.pone.0066341","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Computational Phenotype Discovery Using Unsupervised Feature Learning over Noisy, Sparse, and Irregular Clinical Data"}
+{
+  "retracted": false,
+  "timestamp": 1377561600000,
+  "updates": [
+    {
+      "timestamp": 1496039759286,
+      "identifier": {
+        "doi": "10.1371/annotation/0c88e0d5-dade-4376-8ee1-49ed4ff238e2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0066341"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Computational Phenotype Discovery Using Unsupervised Feature Learning over Noisy, Sparse, and Irregular Clinical Data"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453507200000,"doi":"10.1007/s11434-016-0998-x","type":"correction"},"doi":"10.1007/s11434-015-0971-0","journal":"Science Bulletin","publisher":"Elsevier BV","title":"Erratum to: Recent advances for the production of hydrocarbon biofuel via deoxygenation progress"}
+{
+  "retracted": false,
+  "timestamp": 1453507200000,
+  "updates": [
+    {
+      "timestamp": 1495639091629,
+      "identifier": {
+        "doi": "10.1007/s11434-016-0998-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11434-015-0971-0"
+  },
+  "journal": "Science Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Recent advances for the production of hydrocarbon biofuel via deoxygenation progress"
+}

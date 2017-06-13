@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.atherosclerosis.2014.08.039","type":"err"},"doi":"10.1016/j.atherosclerosis.2009.04.013","journal":"Atherosclerosis","publisher":"Elsevier BV","title":"‘Corrigendum to “Lower levels of ADAMTS13 are associated with cardiovascular disease in young patients” [Atherosclerosis 207 (2009) 250–4]’"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496004322509,
+      "identifier": {
+        "doi": "10.1016/j.atherosclerosis.2014.08.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atherosclerosis.2009.04.013"
+  },
+  "journal": "Atherosclerosis",
+  "publisher": "Elsevier BV",
+  "title": "‘Corrigendum to “Lower levels of ADAMTS13 are associated with cardiovascular disease in young patients” [Atherosclerosis 207 (2009) 250–4]’"
+}

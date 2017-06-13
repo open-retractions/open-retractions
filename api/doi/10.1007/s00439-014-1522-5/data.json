@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421884800000,"doi":"10.1007/s00439-015-1530-0","type":"correction"},"doi":"10.1007/s00439-014-1522-5","journal":"Human Genetics","publisher":"Springer Nature","title":"Erratum to: Autosomal recessive lissencephaly with cerebellar hypoplasia is associated with a loss-of-function mutation in CDK5"}
+{
+  "retracted": false,
+  "timestamp": 1421884800000,
+  "updates": [
+    {
+      "timestamp": 1496038230135,
+      "identifier": {
+        "doi": "10.1007/s00439-015-1530-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00439-014-1522-5"
+  },
+  "journal": "Human Genetics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Autosomal recessive lissencephaly with cerebellar hypoplasia is associated with a loss-of-function mutation in CDK5"
+}

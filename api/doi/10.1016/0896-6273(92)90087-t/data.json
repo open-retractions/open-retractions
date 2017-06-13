@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379462400000,"doi":"10.1016/j.neuron.2013.07.039","type":"err"},"doi":"10.1016/0896-6273(92)90087-t","journal":"Neuron","publisher":"Elsevier BV","title":"Nitric Oxide-Induced Blockade of NMDA Receptors"}
+{
+  "retracted": false,
+  "timestamp": 1379462400000,
+  "updates": [
+    {
+      "timestamp": 1496047082706,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.07.039"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/0896-6273(92)90087-t"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Nitric Oxide-Induced Blockade of NMDA Receptors"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1463702400000,"doi":"10.1038/srep24688","type":"correction"},"doi":"10.1038/srep20506","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: The heterogeneous energy landscape expression of KWW relaxation"}
+{
+  "retracted": false,
+  "timestamp": 1463702400000,
+  "updates": [
+    {
+      "timestamp": 1495679411025,
+      "identifier": {
+        "doi": "10.1038/srep24688"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep20506"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: The heterogeneous energy landscape expression of KWW relaxation"
+}

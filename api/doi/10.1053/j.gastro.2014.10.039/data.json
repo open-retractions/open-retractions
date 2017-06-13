@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1053/j.gastro.2015.01.005","type":"err"},"doi":"10.1053/j.gastro.2014.10.039","journal":"Gastroenterology","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496037131534,
+      "identifier": {
+        "doi": "10.1053/j.gastro.2015.01.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1053/j.gastro.2014.10.039"
+  },
+  "journal": "Gastroenterology",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

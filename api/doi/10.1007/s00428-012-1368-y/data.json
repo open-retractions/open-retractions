@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366329600000,"doi":"10.1007/s00428-013-1407-3","type":"correction"},"doi":"10.1007/s00428-012-1368-y","journal":"Virchows Archiv","publisher":"Springer Nature","title":"Erratum to: Validation of the BRCA1 antibody MS110 and the utility of BRCA1 as a patient selection biomarker in immunohistochemical analysis of breast and ovarian tumours"}
+{
+  "retracted": false,
+  "timestamp": 1366329600000,
+  "updates": [
+    {
+      "timestamp": 1496013344890,
+      "identifier": {
+        "doi": "10.1007/s00428-013-1407-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00428-012-1368-y"
+  },
+  "journal": "Virchows Archiv",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Validation of the BRCA1 antibody MS110 and the utility of BRCA1 as a patient selection biomarker in immunohistochemical analysis of breast and ovarian tumours"
+}

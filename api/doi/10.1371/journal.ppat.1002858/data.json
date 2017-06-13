@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1345507200000,"doi":"10.1371/annotation/913cb443-4033-4841-8666-1d348949a010","type":"correction"},"doi":"10.1371/journal.ppat.1002858","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Arrest of Nuclear Division in Plasmodium through Blockage of Erythrocyte Surface Exposed Ribosomal Protein P2"}
+{
+  "retracted": false,
+  "timestamp": 1345507200000,
+  "updates": [
+    {
+      "timestamp": 1495948966087,
+      "identifier": {
+        "doi": "10.1371/annotation/913cb443-4033-4841-8666-1d348949a010"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002858"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Arrest of Nuclear Division in Plasmodium through Blockage of Erythrocyte Surface Exposed Ribosomal Protein P2"
+}

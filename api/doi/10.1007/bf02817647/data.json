@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1200700800000,"doi":"10.1007/bf02818712","type":"correction"},"doi":"10.1007/bf02817647","journal":"Folia Microbiologica","publisher":"Springer Nature","title":"Erratum to: Mycoremediation of PAH-contaminated soil"}
+{
+  "retracted": false,
+  "timestamp": 1200700800000,
+  "updates": [
+    {
+      "timestamp": 1495842059330,
+      "identifier": {
+        "doi": "10.1007/bf02818712"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02817647"
+  },
+  "journal": "Folia Microbiologica",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mycoremediation of PAH-contaminated soil"
+}

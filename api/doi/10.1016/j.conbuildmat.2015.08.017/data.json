@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1450137600000,"doi":"10.1016/j.conbuildmat.2015.09.041","type":"erratum"},"doi":"10.1016/j.conbuildmat.2015.08.017","journal":"Construction and Building Materials","publisher":"Elsevier BV","title":"Corrigendum to “Evaluation of the GPR frequency spectra in asphalt pavement assessment” [Constr. Build. Mater. 96 (2015) 181–188]"}
+{
+  "retracted": false,
+  "timestamp": 1450137600000,
+  "updates": [
+    {
+      "timestamp": 1496036679303,
+      "identifier": {
+        "doi": "10.1016/j.conbuildmat.2015.09.041"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.conbuildmat.2015.08.017"
+  },
+  "journal": "Construction and Building Materials",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Evaluation of the GPR frequency spectra in asphalt pavement assessment” [Constr. Build. Mater. 96 (2015) 181–188]"
+}

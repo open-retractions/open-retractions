@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1216080000000,"doi":"10.1107/s1600536808017091","type":"correction"},"doi":"10.1107/s1600536807038792","journal":"Acta Crystallographica Section E Structure Reports Online","publisher":"International Union of Crystallography (IUCr)","title":"Poly[μ2-chlorido-nonamethyl-μ3-nitrato-tritin(IV)]. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1216080000000,
+  "updates": [
+    {
+      "timestamp": 1495863084621,
+      "identifier": {
+        "doi": "10.1107/s1600536808017091"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1600536807038792"
+  },
+  "journal": "Acta Crystallographica Section E Structure Reports Online",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Poly[μ2-chlorido-nonamethyl-μ3-nitrato-tritin(IV)]. Corrigendum"
+}

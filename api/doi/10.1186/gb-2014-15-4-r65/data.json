@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1444780800000,"doi":"10.1186/s13059-015-0789-8","type":"correction"},"doi":"10.1186/gb-2014-15-4-r65","journal":"Genome Biology","publisher":"Springer Nature","title":"Erratum to: Chronic cocaine-regulated epigenomic changes in mouse nucleus accumbens"}
+{
+  "retracted": false,
+  "timestamp": 1444780800000,
+  "updates": [
+    {
+      "timestamp": 1496037452665,
+      "identifier": {
+        "doi": "10.1186/s13059-015-0789-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/gb-2014-15-4-r65"
+  },
+  "journal": "Genome Biology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chronic cocaine-regulated epigenomic changes in mouse nucleus accumbens"
+}

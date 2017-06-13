@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.cnsns.2014.07.009","type":"err"},"doi":"10.1016/j.cnsns.2013.11.022","journal":"Communications in Nonlinear Science and Numerical Simulation","publisher":"Elsevier BV","title":"Corrigendum to “Fractional differential equations solved by using Mellin transform” [Commun Nonlinear Sci Numer Simul 19(7) (2014) 2220–2227]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1495998915034,
+      "identifier": {
+        "doi": "10.1016/j.cnsns.2014.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cnsns.2013.11.022"
+  },
+  "journal": "Communications in Nonlinear Science and Numerical Simulation",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fractional differential equations solved by using Mellin transform” [Commun Nonlinear Sci Numer Simul 19(7) (2014) 2220–2227]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.1016/j.hal.2014.11.004","type":"err"},"doi":"10.1016/j.hal.2014.09.005","journal":"Harmful Algae","publisher":"Elsevier BV","title":"Corrigendum to ‘Positive feedbacks between bottom-up and top-down controls promote the formation and toxicity of ecosystem disruptive algal blooms: A modeling study’ [Harmful Algae 39 (2014) 342–356]"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496025915992,
+      "identifier": {
+        "doi": "10.1016/j.hal.2014.11.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hal.2014.09.005"
+  },
+  "journal": "Harmful Algae",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Positive feedbacks between bottom-up and top-down controls promote the formation and toxicity of ecosystem disruptive algal blooms: A modeling study’ [Harmful Algae 39 (2014) 342–356]"
+}

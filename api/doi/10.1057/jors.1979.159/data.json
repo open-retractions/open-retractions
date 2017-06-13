@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":307584000000,"doi":"10.1057/jors.1979.218","type":"correction"},"doi":"10.1057/jors.1979.159","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: A Case Study on the Use of Intervention Analysis Applied to Traffic Accidents"}
+{
+  "retracted": false,
+  "timestamp": 307584000000,
+  "updates": [
+    {
+      "timestamp": 1495887724203,
+      "identifier": {
+        "doi": "10.1057/jors.1979.218"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jors.1979.159"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: A Case Study on the Use of Intervention Analysis Applied to Traffic Accidents"
+}

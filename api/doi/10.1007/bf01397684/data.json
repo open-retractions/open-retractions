@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":-139449600000,"doi":"10.1007/bf01436530","type":"correction"},"doi":"10.1007/bf01397684","journal":"Numerische Mathematik","publisher":"Springer Nature","title":"Erratum to: Algorithms in unnormalized arithmetic. I. Recurrence relations"}
+{
+  "retracted": false,
+  "timestamp": -139449600000,
+  "updates": [
+    {
+      "timestamp": 1495934241352,
+      "identifier": {
+        "doi": "10.1007/bf01436530"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf01397684"
+  },
+  "journal": "Numerische Mathematik",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Algorithms in unnormalized arithmetic. I. Recurrence relations"
+}

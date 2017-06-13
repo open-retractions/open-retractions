@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379203200000,"doi":"10.1016/j.jmaa.2013.04.066","type":"err"},"doi":"10.1016/j.jmaa.2012.05.048","journal":"Journal of Mathematical Analysis and Applications","publisher":"Elsevier BV","title":"Corrigendum to “Sharp bound of the maximal Bochner–Riesz operator in weighted Lebesgue space” [J. Math. Anal. Appl. 395 (2012) 385–392]"}
+{
+  "retracted": false,
+  "timestamp": 1379203200000,
+  "updates": [
+    {
+      "timestamp": 1496018578870,
+      "identifier": {
+        "doi": "10.1016/j.jmaa.2013.04.066"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jmaa.2012.05.048"
+  },
+  "journal": "Journal of Mathematical Analysis and Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Sharp bound of the maximal Bochner–Riesz operator in weighted Lebesgue space” [J. Math. Anal. Appl. 395 (2012) 385–392]"
+}

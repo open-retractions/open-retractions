@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479686400000,"doi":"10.1038/srep37365","type":"correction"},"doi":"10.1038/srep35534","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: SparRec: An effective matrix completion framework of missing data imputation for GWAS"}
+{
+  "retracted": false,
+  "timestamp": 1479686400000,
+  "updates": [
+    {
+      "timestamp": 1495658236851,
+      "identifier": {
+        "doi": "10.1038/srep37365"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep35534"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: SparRec: An effective matrix completion framework of missing data imputation for GWAS"
+}

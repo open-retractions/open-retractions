@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337299200000,"doi":"10.1111/j.1742-1241.2012.02957.x","type":"correction"},"doi":"10.1111/j.1742-1241.2011.02838.x","journal":"International Journal of Clinical Practice","publisher":"Wiley-Blackwell","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1337299200000,
+  "updates": [
+    {
+      "timestamp": 1495907027908,
+      "identifier": {
+        "doi": "10.1111/j.1742-1241.2012.02957.x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1111/j.1742-1241.2011.02838.x"
+  },
+  "journal": "International Journal of Clinical Practice",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum"
+}

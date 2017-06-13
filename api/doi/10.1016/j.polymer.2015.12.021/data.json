@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.polymer.2016.03.051","type":"err"},"doi":"10.1016/j.polymer.2015.12.021","journal":"Polymer","publisher":"Elsevier BV","title":"Corrigendum to “Nonlinear stress–strain behavior of elastomer foams investigated by various types of deformation” [Polymer 83 (2016) 190–198]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495658034872,
+      "identifier": {
+        "doi": "10.1016/j.polymer.2016.03.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.polymer.2015.12.021"
+  },
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nonlinear stress–strain behavior of elastomer foams investigated by various types of deformation” [Polymer 83 (2016) 190–198]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1286236800000,"doi":"10.1073/pnas.1313550110","type":"correction"},"doi":"10.1073/pnas.1012568107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Li et al., Soluble amyloid precursor protein (APP) regulates transthyretin and Klotho gene expression without rescuing the essential function of APP"}
+{
+  "retracted": false,
+  "timestamp": 1286236800000,
+  "updates": [
+    {
+      "timestamp": 1496034686599,
+      "identifier": {
+        "doi": "10.1073/pnas.1313550110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1012568107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Li et al., Soluble amyloid precursor protein (APP) regulates transthyretin and Klotho gene expression without rescuing the essential function of APP"
+}

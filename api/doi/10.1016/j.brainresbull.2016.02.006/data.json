@@ -1,1 +1,19 @@
-{"retracted":true,"timestamp":1456790400000,"update":{"timestamp":null,"doi":null,"pmid":27544299,"type":"retraction"},"doi":"10.1016/j.brainresbull.2016.02.006","journal":"Brain research bulletin","publisher":null,"title":"Retraction. Clc-2 knockout attenuated experimental temporal lobe epilepsy in mice by tonic inhibition mediated by GABAA receptors."}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495738969234,
+      "identifier": {
+        "doi": "10.1016/j.brainresbull.2016.08.005"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.brainresbull.2016.02.006"
+  },
+  "journal": "Brain Research Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Clc-2 knockout attenuated experimental temporal lobe epilepsy in mice by tonic inhibition mediated by GABA A  receptors”"
+}

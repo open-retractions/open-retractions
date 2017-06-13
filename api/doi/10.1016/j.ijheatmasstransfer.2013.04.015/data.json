@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422748800000,"doi":"10.1016/j.ijheatmasstransfer.2014.10.063","type":"err"},"doi":"10.1016/j.ijheatmasstransfer.2013.04.015","journal":"International Journal of Heat and Mass Transfer","publisher":"Elsevier BV","title":"Corrigendum to “On heat transfer in tubes” [International Journal of Heat and Mass Transfer 63 (2013) 134–140]"}
+{
+  "retracted": false,
+  "timestamp": 1422748800000,
+  "updates": [
+    {
+      "timestamp": 1496021874261,
+      "identifier": {
+        "doi": "10.1016/j.ijheatmasstransfer.2014.10.063"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijheatmasstransfer.2013.04.015"
+  },
+  "journal": "International Journal of Heat and Mass Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On heat transfer in tubes” [International Journal of Heat and Mass Transfer 63 (2013) 134–140]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439164800000,"doi":"10.1136/bmj.h4355","type":"correction"},"doi":"10.1136/bmj.h4172","journal":"BMJ","publisher":"BMJ","title":"Blindness to institutional betrayal by the APA"}
+{
+  "retracted": false,
+  "timestamp": 1439164800000,
+  "updates": [
+    {
+      "timestamp": 1496022786186,
+      "identifier": {
+        "doi": "10.1136/bmj.h4355"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h4172"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Blindness to institutional betrayal by the APA"
+}

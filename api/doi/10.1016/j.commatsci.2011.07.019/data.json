@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.commatsci.2015.08.027","type":"err"},"doi":"10.1016/j.commatsci.2011.07.019","journal":"Computational Materials Science","publisher":"Elsevier BV","title":"Retraction notice to “The effect of temperature on the grain growth of nanocrystalline metals and its simulation by molecular dynamics method” [Comput. Mater. Sci. 51 (1) (2012) 233–240]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496024892350,
+      "identifier": {
+        "doi": "10.1016/j.commatsci.2015.08.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.commatsci.2011.07.019"
+  },
+  "journal": "Computational Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “The effect of temperature on the grain growth of nanocrystalline metals and its simulation by molecular dynamics method” [Comput. Mater. Sci. 51 (1) (2012) 233–240]"
+}

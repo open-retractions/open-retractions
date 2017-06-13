@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.neuropsychologia.2016.02.008","type":"erratum"},"doi":"10.1016/j.neuropsychologia.2012.10.027","journal":"Neuropsychologia","publisher":"Elsevier BV","title":"Corrigendum to ‘Action blind: Disturbed self-other integration in schizophrenia [Neuropsychologia 50 (2012), 3775–3780]’"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495648595326,
+      "identifier": {
+        "doi": "10.1016/j.neuropsychologia.2016.02.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuropsychologia.2012.10.027"
+  },
+  "journal": "Neuropsychologia",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Action blind: Disturbed self-other integration in schizophrenia [Neuropsychologia 50 (2012), 3775–3780]’"
+}

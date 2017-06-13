@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.aquabot.2014.02.010","type":"err"},"doi":"10.1016/j.aquabot.2011.09.011","journal":"Aquatic Botany","publisher":"Elsevier BV","title":"Corrigendum to “Low genetic diversity within Caribbean patches of Pelliciera rhizophorae, a Neotropical mangrove species with reduced distribution” [Aquat. Bot. 96, 48–51]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496024622583,
+      "identifier": {
+        "doi": "10.1016/j.aquabot.2014.02.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.aquabot.2011.09.011"
+  },
+  "journal": "Aquatic Botany",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Low genetic diversity within Caribbean patches of Pelliciera rhizophorae, a Neotropical mangrove species with reduced distribution” [Aquat. Bot. 96, 48–51]"
+}

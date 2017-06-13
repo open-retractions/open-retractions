@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.sna.2013.11.029","type":"erratum"},"doi":"10.1016/j.sna.2013.08.010","journal":"Sensors and Actuators A: Physical","publisher":"Elsevier BV","title":"Corrigendum to “Flexible PDMS electrode for one-point wearable wireless bio-potential acquisition” [Sens. Actuators A: Phys. 203 (2013) 20–28]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496007534855,
+      "identifier": {
+        "doi": "10.1016/j.sna.2013.11.029"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.sna.2013.08.010"
+  },
+  "journal": "Sensors and Actuators A: Physical",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Flexible PDMS electrode for one-point wearable wireless bio-potential acquisition” [Sens. Actuators A: Phys. 203 (2013) 20–28]"
+}

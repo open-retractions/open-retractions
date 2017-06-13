@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421971200000,"doi":"10.1080/10572317.2014.983001","type":"correction"},"doi":"10.1080/10572317.2014.922858","journal":"International Information & Library Review","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1421971200000,
+  "updates": [
+    {
+      "timestamp": 1496042673408,
+      "identifier": {
+        "doi": "10.1080/10572317.2014.983001"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10572317.2014.922858"
+  },
+  "journal": "International Information & Library Review",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

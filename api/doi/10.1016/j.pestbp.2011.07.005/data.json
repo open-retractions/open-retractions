@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.pestbp.2014.11.001","type":"err"},"doi":"10.1016/j.pestbp.2011.07.005","journal":"Pesticide Biochemistry and Physiology","publisher":"Elsevier BV","title":"Corrigendum to “Metabolic resistance mechanism to phosalone in the common pistachio psyllid, Agonoscina pistaciae (Hem.: Psyllidae)” [Pestic. Biochem. Physiol. 101 (2011) 59–64]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496021795409,
+      "identifier": {
+        "doi": "10.1016/j.pestbp.2014.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pestbp.2011.07.005"
+  },
+  "journal": "Pesticide Biochemistry and Physiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Metabolic resistance mechanism to phosalone in the common pistachio psyllid, Agonoscina pistaciae (Hem.: Psyllidae)” [Pestic. Biochem. Physiol. 101 (2011) 59–64]"
+}

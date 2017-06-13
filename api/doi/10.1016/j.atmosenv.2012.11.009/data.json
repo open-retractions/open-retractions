@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.atmosenv.2013.12.027","type":"err"},"doi":"10.1016/j.atmosenv.2012.11.009","journal":"Atmospheric Environment","publisher":"Elsevier BV","title":"Clarifications and Corrigendum to “Critical review and meta-analysis of ambient particulate matter source apportionment using receptor models in Europe” [Atmos. Environ. 69 (2013) 94–108]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496009782413,
+      "identifier": {
+        "doi": "10.1016/j.atmosenv.2013.12.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosenv.2012.11.009"
+  },
+  "journal": "Atmospheric Environment",
+  "publisher": "Elsevier BV",
+  "title": "Clarifications and Corrigendum to “Critical review and meta-analysis of ambient particulate matter source apportionment using receptor models in Europe” [Atmos. Environ. 69 (2013) 94–108]"
+}

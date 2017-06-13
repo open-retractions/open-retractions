@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439596800000,"doi":"10.1016/j.ijcard.2014.11.220","type":"err"},"doi":"10.1016/j.ijcard.2014.04.203","journal":"International Journal of Cardiology","publisher":"Elsevier BV","title":"Corrigendum to exercise training for chronic heart failure (ExTraMATCH II): Protocol for an individual participant data meta-analysis Int J Cardiol. 2014 Jul 1;174(3):683-7"}
+{
+  "retracted": false,
+  "timestamp": 1439596800000,
+  "updates": [
+    {
+      "timestamp": 1496032580207,
+      "identifier": {
+        "doi": "10.1016/j.ijcard.2014.11.220"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijcard.2014.04.203"
+  },
+  "journal": "International Journal of Cardiology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to exercise training for chronic heart failure (ExTraMATCH II): Protocol for an individual participant data meta-analysis Int J Cardiol. 2014 Jul 1;174(3):683-7"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484092800000,"doi":"10.1080/15567265.2017.1281027","type":"correction"},"doi":"10.1080/15567265.2016.1248804","journal":"Nanoscale and Microscale Thermophysical Engineering","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484092800000,
+  "updates": [
+    {
+      "timestamp": 1495675087929,
+      "identifier": {
+        "doi": "10.1080/15567265.2017.1281027"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15567265.2016.1248804"
+  },
+  "journal": "Nanoscale and Microscale Thermophysical Engineering",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

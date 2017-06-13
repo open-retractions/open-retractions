@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376524800000,"doi":"10.1016/j.memsci.2013.04.011","type":"err"},"doi":"10.1016/j.memsci.2013.01.045","journal":"Journal of Membrane Science","publisher":"Elsevier BV","title":"Corrigendum to “Impact of pH on ultrafiltration membrane selectivity during electrodialysis with ultrafiltration membrane (EDUF) purification of soy peptides from a complex matrix”[J. Membr. Sci. 435(2013) 207-217]"}
+{
+  "retracted": false,
+  "timestamp": 1376524800000,
+  "updates": [
+    {
+      "timestamp": 1496018944338,
+      "identifier": {
+        "doi": "10.1016/j.memsci.2013.04.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.memsci.2013.01.045"
+  },
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Impact of pH on ultrafiltration membrane selectivity during electrodialysis with ultrafiltration membrane (EDUF) purification of soy peptides from a complex matrix”[J. Membr. Sci. 435(2013) 207-217]"
+}

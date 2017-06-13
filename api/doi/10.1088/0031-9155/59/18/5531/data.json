@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468800000000,"doi":"10.1088/0031-9155/61/15/5883","type":"correction"},"doi":"10.1088/0031-9155/59/18/5531","journal":"Physics in Medicine and Biology","publisher":"IOP Publishing","title":"Corrigendum: Cluster pattern analysis of energy deposition sites for the brachytherapy sources103Pd,125I,192Ir,137Cs and60Co (2014Phys. Med. Biol.595531–43)"}
+{
+  "retracted": false,
+  "timestamp": 1468800000000,
+  "updates": [
+    {
+      "timestamp": 1495729723584,
+      "identifier": {
+        "doi": "10.1088/0031-9155/61/15/5883"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0031-9155/59/18/5531"
+  },
+  "journal": "Physics in Medicine and Biology",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Cluster pattern analysis of energy deposition sites for the brachytherapy sources103Pd,125I,192Ir,137Cs and60Co (2014Phys. Med. Biol.595531–43)"
+}

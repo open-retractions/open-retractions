@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.nano.2014.04.007","type":"err"},"doi":"10.1016/j.nano.2006.12.001","journal":"Nanomedicine: Nanotechnology, Biology and Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Antimicrobial effects of silver nanoparticles” [Nanomed Nanotechnol Biol Med. 2007;1:95-101]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496038406822,
+      "identifier": {
+        "doi": "10.1016/j.nano.2014.04.007"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nano.2006.12.001"
+  },
+  "journal": "Nanomedicine: Nanotechnology, Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Antimicrobial effects of silver nanoparticles” [Nanomed Nanotechnol Biol Med. 2007;1:95-101]"
+}

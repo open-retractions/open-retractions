@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.neurobiolaging.2014.08.027","type":"err"},"doi":"10.1016/j.neurobiolaging.2014.04.011","journal":"Neurobiology of Aging","publisher":"Elsevier BV","title":"Erratum to “A novel mutation in the PSEN2 gene (N141Y) associated with early-onset autosomal dominant Alzheimer's disease in a Chinese Han family” [Neurobiol. Aging 35 (2014) 2420.e1–2420.e5]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496005049599,
+      "identifier": {
+        "doi": "10.1016/j.neurobiolaging.2014.08.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neurobiolaging.2014.04.011"
+  },
+  "journal": "Neurobiology of Aging",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “A novel mutation in the PSEN2 gene (N141Y) associated with early-onset autosomal dominant Alzheimer's disease in a Chinese Han family” [Neurobiol. Aging 35 (2014) 2420.e1–2420.e5]"
+}

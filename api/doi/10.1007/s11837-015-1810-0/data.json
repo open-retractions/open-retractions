@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1007/s11837-016-1901-6","type":"correction"},"doi":"10.1007/s11837-015-1810-0","journal":"JOM","publisher":"Springer Nature","title":"Erratum to: Overview of Materials Qualification Needs for Metal Additive Manufacturing"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495658489189,
+      "identifier": {
+        "doi": "10.1007/s11837-016-1901-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11837-015-1810-0"
+  },
+  "journal": "JOM",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Overview of Materials Qualification Needs for Metal Additive Manufacturing"
+}

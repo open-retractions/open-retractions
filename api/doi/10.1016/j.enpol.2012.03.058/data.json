@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.enpol.2014.07.014","type":"err"},"doi":"10.1016/j.enpol.2012.03.058","journal":"Energy Policy","publisher":"Elsevier BV","title":"Corrigendum to “Capturing spatial effects, technology interactions, and uncertainty in urban energy and carbon models: Retrofitting Newcastle as a case-study” [Energy Policy 46 (2012) 253–267]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496056398970,
+      "identifier": {
+        "doi": "10.1016/j.enpol.2014.07.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.enpol.2012.03.058"
+  },
+  "journal": "Energy Policy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Capturing spatial effects, technology interactions, and uncertainty in urban energy and carbon models: Retrofitting Newcastle as a case-study” [Energy Policy 46 (2012) 253–267]"
+}

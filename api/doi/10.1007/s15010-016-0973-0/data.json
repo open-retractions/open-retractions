@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1486512000000,"doi":"10.1007/s15010-017-0983-6","type":"correction"},"doi":"10.1007/s15010-016-0973-0","journal":"Infection","publisher":"Springer Nature","title":"Erratum to: Management of HCV infection in the penitentiary setting in the direct-acting antivirals era: practical recommendations from an expert panel"}
+{
+  "retracted": false,
+  "timestamp": 1486512000000,
+  "updates": [
+    {
+      "timestamp": 1495719190309,
+      "identifier": {
+        "doi": "10.1007/s15010-017-0983-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s15010-016-0973-0"
+  },
+  "journal": "Infection",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Management of HCV infection in the penitentiary setting in the direct-acting antivirals era: practical recommendations from an expert panel"
+}

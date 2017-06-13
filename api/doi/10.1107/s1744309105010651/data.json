@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1151712000000,"doi":"10.1107/s1744309106020665","type":"correction"},"doi":"10.1107/s1744309105010651","journal":"Acta Crystallographica Section F Structural Biology and Crystallization Communications","publisher":"International Union of Crystallography (IUCr)","title":"Crystallization and preliminary X-ray crystallographic analysis of yeast NAD+-specific isocitrate dehydrogenase. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1151712000000,
+  "updates": [
+    {
+      "timestamp": 1495855648645,
+      "identifier": {
+        "doi": "10.1107/s1744309106020665"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1744309105010651"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology and Crystallization Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Crystallization and preliminary X-ray crystallographic analysis of yeast NAD+-specific isocitrate dehydrogenase. Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1422489600000,"doi":"10.1063/1.4906873","type":"correction"},"doi":"10.1063/1.4905222","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Temperature dependence of the acoustoelectric current in graphene” [Appl. Phys. Lett. 105, 263106 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1422489600000,
+  "updates": [
+    {
+      "timestamp": 1496040643516,
+      "identifier": {
+        "doi": "10.1063/1.4906873"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4905222"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Temperature dependence of the acoustoelectric current in graphene” [Appl. Phys. Lett. 105, 263106 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375142400000,"doi":"10.1016/j.electacta.2013.05.076","type":"err"},"doi":"10.1016/j.electacta.2012.05.100","journal":"Electrochimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Effects of synthesis condition on formation of desired crystal structures of doped-TiO2/carbon composite supports for ORR electrocatalysts” [Electrochim. Acta 77 (2012) 225–231]"}
+{
+  "retracted": false,
+  "timestamp": 1375142400000,
+  "updates": [
+    {
+      "timestamp": 1496025036089,
+      "identifier": {
+        "doi": "10.1016/j.electacta.2013.05.076"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.electacta.2012.05.100"
+  },
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Effects of synthesis condition on formation of desired crystal structures of doped-TiO2/carbon composite supports for ORR electrocatalysts” [Electrochim. Acta 77 (2012) 225–231]"
+}

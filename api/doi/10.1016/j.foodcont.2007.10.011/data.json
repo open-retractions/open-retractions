@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1483228800000,"doi":"10.1016/j.foodcont.2016.06.034","type":"err"},"doi":"10.1016/j.foodcont.2007.10.011","journal":"Food Control","publisher":"Elsevier BV","title":"Corrigendum to “Aflatoxin M1 contamination in winter and summer milk in 14 states in Iran” [Food Control 19 (11) (2008) 1033–1036]"}
+{
+  "retracted": false,
+  "timestamp": 1483228800000,
+  "updates": [
+    {
+      "timestamp": 1495725798588,
+      "identifier": {
+        "doi": "10.1016/j.foodcont.2016.06.034"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodcont.2007.10.011"
+  },
+  "journal": "Food Control",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Aflatoxin M1 contamination in winter and summer milk in 14 states in Iran” [Food Control 19 (11) (2008) 1033–1036]"
+}

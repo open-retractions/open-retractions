@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":185241600000,"doi":"10.1063/1.431143","type":"erratum"},"doi":"10.1063/1.431055","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Errata: On the theory of the relaxation matrix and its application to microwave transient phenomena"}
+{
+  "retracted": false,
+  "timestamp": 185241600000,
+  "updates": [
+    {
+      "timestamp": 1495948135307,
+      "identifier": {
+        "doi": "10.1063/1.431143"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.431055"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Errata: On the theory of the relaxation matrix and its application to microwave transient phenomena"
+}

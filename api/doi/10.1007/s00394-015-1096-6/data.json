@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459123200000,"doi":"10.1007/s00394-016-1174-4","type":"correction"},"doi":"10.1007/s00394-015-1096-6","journal":"European Journal of Nutrition","publisher":"Springer Nature","title":"Erratum to: Increased dietary levels of α-linolenic acid inhibit mammary tumor growth and metastasis"}
+{
+  "retracted": false,
+  "timestamp": 1459123200000,
+  "updates": [
+    {
+      "timestamp": 1495658044433,
+      "identifier": {
+        "doi": "10.1007/s00394-016-1174-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00394-015-1096-6"
+  },
+  "journal": "European Journal of Nutrition",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Increased dietary levels of α-linolenic acid inhibit mammary tumor growth and metastasis"
+}

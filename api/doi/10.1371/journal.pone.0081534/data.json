@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388620800000,"doi":"10.1371/annotation/3b445e95-4f8c-4238-9895-e05f49949f20","type":"correction"},"doi":"10.1371/journal.pone.0081534","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Subunit Organisation of In Vitro Reconstituted HOPS and CORVET Multisubunit Membrane Tethering Complexes"}
+{
+  "retracted": false,
+  "timestamp": 1388620800000,
+  "updates": [
+    {
+      "timestamp": 1496009431835,
+      "identifier": {
+        "doi": "10.1371/annotation/3b445e95-4f8c-4238-9895-e05f49949f20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0081534"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Subunit Organisation of In Vitro Reconstituted HOPS and CORVET Multisubunit Membrane Tethering Complexes"
+}

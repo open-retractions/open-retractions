@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jqsrt.2013.10.015","type":"err"},"doi":"10.1016/j.jqsrt.2013.06.015","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Erratum to “Efficient computation of some speed-dependent isolated line profiles” [J. Quant. Spectrosc. Radiat. Transfer 129 (2013) 199–203]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495994198887,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2013.10.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2013.06.015"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Efficient computation of some speed-dependent isolated line profiles” [J. Quant. Spectrosc. Radiat. Transfer 129 (2013) 199–203]"
+}

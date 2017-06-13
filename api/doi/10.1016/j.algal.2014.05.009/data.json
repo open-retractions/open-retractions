@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1016/j.algal.2016.02.012","type":"err"},"doi":"10.1016/j.algal.2014.05.009","journal":"Algal Research","publisher":"Elsevier BV","title":"Corrigendum to “Fast hydrothermal liquefaction of a Norwegian macro-alga: Screening Tests” [Algal Res. 2014, 6, Part B (0), 271–276]"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495650218714,
+      "identifier": {
+        "doi": "10.1016/j.algal.2016.02.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.algal.2014.05.009"
+  },
+  "journal": "Algal Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Fast hydrothermal liquefaction of a Norwegian macro-alga: Screening Tests” [Algal Res. 2014, 6, Part B (0), 271–276]"
+}

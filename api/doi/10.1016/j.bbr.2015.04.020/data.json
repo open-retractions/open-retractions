@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bbr.2015.12.036","type":"erratum"},"doi":"10.1016/j.bbr.2015.04.020","journal":"Behavioural Brain Research","publisher":"Elsevier BV","title":"Erratum to “Acute caffeine administration affects zebrafish response to a robotic stimulus” [Behav. Brain Res. 289 (2015) 48–54]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495638389391,
+      "identifier": {
+        "doi": "10.1016/j.bbr.2015.12.036"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbr.2015.04.020"
+  },
+  "journal": "Behavioural Brain Research",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Acute caffeine administration affects zebrafish response to a robotic stimulus” [Behav. Brain Res. 289 (2015) 48–54]"
+}

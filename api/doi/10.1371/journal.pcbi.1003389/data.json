@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393545600000,"doi":"10.1371/journal.pcbi.1003536","type":"correction"},"doi":"10.1371/journal.pcbi.1003389","journal":"PLoS Computational Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: Mathematical Modeling of Heterogeneous Electrophysiological Responses in Human β-Cells"}
+{
+  "retracted": false,
+  "timestamp": 1393545600000,
+  "updates": [
+    {
+      "timestamp": 1496021705084,
+      "identifier": {
+        "doi": "10.1371/journal.pcbi.1003536"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pcbi.1003389"
+  },
+  "journal": "PLoS Computational Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mathematical Modeling of Heterogeneous Electrophysiological Responses in Human β-Cells"
+}

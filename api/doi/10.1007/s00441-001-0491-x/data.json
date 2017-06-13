@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1010448000000,"doi":"10.1007/s00441-001-0505-8","type":"correction"},"doi":"10.1007/s00441-001-0491-x","journal":"Cell and Tissue Research","publisher":"Springer Nature","title":"Erratum to: Bovine trophoblastic cell differentiation on collagen substrata: formation of binucleate cells expressing placental lactogen"}
+{
+  "retracted": false,
+  "timestamp": 1010448000000,
+  "updates": [
+    {
+      "timestamp": 1495806233049,
+      "identifier": {
+        "doi": "10.1007/s00441-001-0505-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00441-001-0491-x"
+  },
+  "journal": "Cell and Tissue Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bovine trophoblastic cell differentiation on collagen substrata: formation of binucleate cells expressing placental lactogen"
+}

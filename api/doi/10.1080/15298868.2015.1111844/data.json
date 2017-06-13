@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459296000000,"doi":"10.1080/15298868.2016.1157389","type":"correction"},"doi":"10.1080/15298868.2015.1111844","journal":"Self and Identity","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1459296000000,
+  "updates": [
+    {
+      "timestamp": 1495658350562,
+      "identifier": {
+        "doi": "10.1080/15298868.2016.1157389"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/15298868.2015.1111844"
+  },
+  "journal": "Self and Identity",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

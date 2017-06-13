@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426032000000,"doi":"10.1007/s00343-015-4551-6","type":"correction"},"doi":"10.1007/s00343-014-3338-5","journal":"Chinese Journal of Oceanology and Limnology","publisher":"Springer Nature","title":"Erratum to: Preliminary validation of SMOS sea surface salinity measurements in the South China Sea"}
+{
+  "retracted": false,
+  "timestamp": 1426032000000,
+  "updates": [
+    {
+      "timestamp": 1496049631657,
+      "identifier": {
+        "doi": "10.1007/s00343-015-4551-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00343-014-3338-5"
+  },
+  "journal": "Chinese Journal of Oceanology and Limnology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Preliminary validation of SMOS sea surface salinity measurements in the South China Sea"
+}

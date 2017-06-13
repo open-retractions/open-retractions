@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1418342400000,"doi":"10.1136/bmj.g7644","type":"correction"},"doi":"10.1136/bmj.g7540","journal":"BMJ","publisher":"BMJ","title":"How MSF is mapping the world's medical emergency zones"}
+{
+  "retracted": false,
+  "timestamp": 1418342400000,
+  "updates": [
+    {
+      "timestamp": 1496030213478,
+      "identifier": {
+        "doi": "10.1136/bmj.g7644"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.g7540"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "How MSF is mapping the world's medical emergency zones"
+}

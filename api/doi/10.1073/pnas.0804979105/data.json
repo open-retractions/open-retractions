@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1219104000000,"doi":"10.1073/pnas.0808811105","type":"correction"},"doi":"10.1073/pnas.0804979105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Chang et al., Expression of Globo H and SSEA3 in breast cancer stem cells and the involvement of fucosyl transferases 1 and 2 in Globo H synthesis"}
+{
+  "retracted": false,
+  "timestamp": 1219104000000,
+  "updates": [
+    {
+      "timestamp": 1495886390115,
+      "identifier": {
+        "doi": "10.1073/pnas.0808811105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0804979105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Chang et al., Expression of Globo H and SSEA3 in breast cancer stem cells and the involvement of fucosyl transferases 1 and 2 in Globo H synthesis"
+}

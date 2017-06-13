@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436486400000,"doi":"10.1074/jbc.a115.647636","type":"correction"},"doi":"10.1074/jbc.m115.647636","journal":"Journal of Biological Chemistry","publisher":"American Society for Biochemistry & Molecular Biology (ASBMB)","title":"Domain organization and conformational plasticity of the G protein effector, PDE6."}
+{
+  "retracted": false,
+  "timestamp": 1436486400000,
+  "updates": [
+    {
+      "timestamp": 1496014558370,
+      "identifier": {
+        "doi": "10.1074/jbc.a115.647636"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1074/jbc.m115.647636"
+  },
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
+  "title": "Domain organization and conformational plasticity of the G protein effector, PDE6."
+}

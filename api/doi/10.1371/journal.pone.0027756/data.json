@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1334707200000,"doi":"10.1371/annotation/fd1d120c-ff3d-4873-85e1-ee70bf010241","type":"correction"},"doi":"10.1371/journal.pone.0027756","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Development of Phage-Based Single Chain Fv Antibody Reagents for Detection of Yersinia pestis"}
+{
+  "retracted": false,
+  "timestamp": 1334707200000,
+  "updates": [
+    {
+      "timestamp": 1495893757098,
+      "identifier": {
+        "doi": "10.1371/annotation/fd1d120c-ff3d-4873-85e1-ee70bf010241"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0027756"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Development of Phage-Based Single Chain Fv Antibody Reagents for Detection of Yersinia pestis"
+}

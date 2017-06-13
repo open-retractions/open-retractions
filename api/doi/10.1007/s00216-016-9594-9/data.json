@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1473465600000,"doi":"10.1007/s00216-016-9877-1","type":"correction"},"doi":"10.1007/s00216-016-9594-9","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Microscopic visualization of testosterone in mouse testis by use of imaging mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1473465600000,
+  "updates": [
+    {
+      "timestamp": 1495638809546,
+      "identifier": {
+        "doi": "10.1007/s00216-016-9877-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-016-9594-9"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Microscopic visualization of testosterone in mouse testis by use of imaging mass spectrometry"
+}

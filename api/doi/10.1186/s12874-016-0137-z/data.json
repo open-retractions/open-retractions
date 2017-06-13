@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465948800000,"doi":"10.1186/s12874-016-0154-y","type":"correction"},"doi":"10.1186/s12874-016-0137-z","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: Bias and precision of methods for estimating the difference in restricted mean survival time from an individual patient data meta-analysis"}
+{
+  "retracted": false,
+  "timestamp": 1465948800000,
+  "updates": [
+    {
+      "timestamp": 1495720816979,
+      "identifier": {
+        "doi": "10.1186/s12874-016-0154-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12874-016-0137-z"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Bias and precision of methods for estimating the difference in restricted mean survival time from an individual patient data meta-analysis"
+}

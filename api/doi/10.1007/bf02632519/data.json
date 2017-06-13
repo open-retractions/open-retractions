@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":194486400000,"doi":"10.1007/bf02635961","type":"correction"},"doi":"10.1007/bf02632519","journal":"Journal of the American Oil Chemists Society","publisher":"Springer Nature","title":"Erratum to: Moulton actual chairman of fats and oils symposium"}
+{
+  "retracted": false,
+  "timestamp": 194486400000,
+  "updates": [
+    {
+      "timestamp": 1495955774278,
+      "identifier": {
+        "doi": "10.1007/bf02635961"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02632519"
+  },
+  "journal": "Journal of the American Oil Chemists Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Moulton actual chairman of fats and oils symposium"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1265414400000,"doi":"10.1245/s10434-009-0828-3","type":"correction"},"doi":"10.1245/s10434-009-0629-8","journal":"Annals of Surgical Oncology","publisher":"Springer Nature","title":"Erratum to: S-100B Concentrations Predict Disease-Free Survival in Stage III Melanoma Patients"}
+{
+  "retracted": false,
+  "timestamp": 1265414400000,
+  "updates": [
+    {
+      "timestamp": 1495818739460,
+      "identifier": {
+        "doi": "10.1245/s10434-009-0828-3"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1245/s10434-009-0629-8"
+  },
+  "journal": "Annals of Surgical Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: S-100B Concentrations Predict Disease-Free Survival in Stage III Melanoma Patients"
+}

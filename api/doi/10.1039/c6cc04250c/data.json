@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1471392000000,"doi":"10.1039/c6cc90376b","type":"correction"},"doi":"10.1039/c6cc04250c","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Three-dimensional protein assemblies directed by orthogonal non-covalent interactions"}
+{
+  "retracted": false,
+  "timestamp": 1471392000000,
+  "updates": [
+    {
+      "timestamp": 1495736267626,
+      "identifier": {
+        "doi": "10.1039/c6cc90376b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c6cc04250c"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Three-dimensional protein assemblies directed by orthogonal non-covalent interactions"
+}

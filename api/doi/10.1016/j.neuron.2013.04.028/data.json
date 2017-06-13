@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373414400000,"doi":"10.1016/j.neuron.2013.06.030","type":"err"},"doi":"10.1016/j.neuron.2013.04.028","journal":"Neuron","publisher":"Elsevier BV","title":"Directional Hearing by Linear Summation of Binaural Inputs at the Medial Superior Olive"}
+{
+  "retracted": false,
+  "timestamp": 1373414400000,
+  "updates": [
+    {
+      "timestamp": 1496032096162,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2013.06.030"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2013.04.028"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Directional Hearing by Linear Summation of Binaural Inputs at the Medial Superior Olive"
+}

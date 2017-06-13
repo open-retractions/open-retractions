@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1387324800000,"doi":"10.1136/bmj.f7680","type":"correction"},"doi":"10.1136/bmj.f7543","journal":"BMJ","publisher":"BMJ","title":"What's in a name?"}
+{
+  "retracted": false,
+  "timestamp": 1387324800000,
+  "updates": [
+    {
+      "timestamp": 1496006662833,
+      "identifier": {
+        "doi": "10.1136/bmj.f7680"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f7543"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "What's in a name?"
+}

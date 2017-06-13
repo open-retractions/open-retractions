@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1390348800000,"doi":"10.1371/annotation/bc9e89f0-b44c-49a7-8ea0-845a3dbd9594","type":"correction"},"doi":"10.1371/journal.pone.0073919","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: UVB Radiation as a Potential Selective Factor Favoring Microcystin Producing Bloom Forming Cyanobacteria"}
+{
+  "retracted": false,
+  "timestamp": 1390348800000,
+  "updates": [
+    {
+      "timestamp": 1496014104555,
+      "identifier": {
+        "doi": "10.1371/annotation/bc9e89f0-b44c-49a7-8ea0-845a3dbd9594"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0073919"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: UVB Radiation as a Potential Selective Factor Favoring Microcystin Producing Bloom Forming Cyanobacteria"
+}

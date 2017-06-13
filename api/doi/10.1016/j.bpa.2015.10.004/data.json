@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.bpa.2016.01.004","type":"err"},"doi":"10.1016/j.bpa.2015.10.004","journal":"Best Practice & Research Clinical Anaesthesiology","publisher":"Elsevier BV","title":"Erratum to “Post-operative pulmonary complications: Understanding definitions and risk assessment” [Best Pract Res Clin Anaesthesiol 29 (2015) 315–330]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1495660153387,
+      "identifier": {
+        "doi": "10.1016/j.bpa.2016.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpa.2015.10.004"
+  },
+  "journal": "Best Practice & Research Clinical Anaesthesiology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Post-operative pulmonary complications: Understanding definitions and risk assessment” [Best Pract Res Clin Anaesthesiol 29 (2015) 315–330]"
+}

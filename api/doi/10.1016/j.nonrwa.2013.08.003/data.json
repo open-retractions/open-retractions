@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412121600000,"doi":"10.1016/j.nonrwa.2014.02.003","type":"err"},"doi":"10.1016/j.nonrwa.2013.08.003","journal":"Nonlinear Analysis: Real World Applications","publisher":"Elsevier BV","title":"Corrigendum to “Gevrey regularity for solutions of the non-cutoff Boltzmann equation: Spatially inhomogeneous case” [Nonlinear Anal. RWA 15 (2014) 246–261]"}
+{
+  "retracted": false,
+  "timestamp": 1412121600000,
+  "updates": [
+    {
+      "timestamp": 1496030043773,
+      "identifier": {
+        "doi": "10.1016/j.nonrwa.2014.02.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.nonrwa.2013.08.003"
+  },
+  "journal": "Nonlinear Analysis: Real World Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Gevrey regularity for solutions of the non-cutoff Boltzmann equation: Spatially inhomogeneous case” [Nonlinear Anal. RWA 15 (2014) 246–261]"
+}

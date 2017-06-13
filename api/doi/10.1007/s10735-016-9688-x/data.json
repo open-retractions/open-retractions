@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479945600000,"doi":"10.1007/s10735-016-9704-1","type":"correction"},"doi":"10.1007/s10735-016-9688-x","journal":"Journal of Molecular Histology","publisher":"Springer Nature","title":"Erratum to: A zebrafish mosaic assay to study mammalian stem cells in real time in vivo"}
+{
+  "retracted": false,
+  "timestamp": 1479945600000,
+  "updates": [
+    {
+      "timestamp": 1495661137074,
+      "identifier": {
+        "doi": "10.1007/s10735-016-9704-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10735-016-9688-x"
+  },
+  "journal": "Journal of Molecular Histology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A zebrafish mosaic assay to study mammalian stem cells in real time in vivo"
+}

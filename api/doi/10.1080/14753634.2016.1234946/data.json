@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479772800000,"doi":"10.1080/14753634.2016.1262570","type":"correction"},"doi":"10.1080/14753634.2016.1234946","journal":"Psychodynamic Practice","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1479772800000,
+  "updates": [
+    {
+      "timestamp": 1495658333390,
+      "identifier": {
+        "doi": "10.1080/14753634.2016.1262570"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14753634.2016.1234946"
+  },
+  "journal": "Psychodynamic Practice",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

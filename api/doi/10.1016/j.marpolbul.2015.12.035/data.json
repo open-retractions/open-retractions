@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460678400000,"doi":"10.1016/j.marpolbul.2016.02.062","type":"erratum"},"doi":"10.1016/j.marpolbul.2015.12.035","journal":"Marine Pollution Bulletin","publisher":"Elsevier BV","title":"Corrigendum to “Are we eating plastic-ingesting fish?” [Mar. Pollut. Bull. 103 (2016) 109–114]"}
+{
+  "retracted": false,
+  "timestamp": 1460678400000,
+  "updates": [
+    {
+      "timestamp": 1495648935497,
+      "identifier": {
+        "doi": "10.1016/j.marpolbul.2016.02.062"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.marpolbul.2015.12.035"
+  },
+  "journal": "Marine Pollution Bulletin",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Are we eating plastic-ingesting fish?” [Mar. Pollut. Bull. 103 (2016) 109–114]"
+}

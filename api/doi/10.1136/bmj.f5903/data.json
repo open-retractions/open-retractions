@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1381795200000,"doi":"10.1136/bmj.f6810","type":"correction"},"doi":"10.1136/bmj.f5903","journal":"BMJ","publisher":"BMJ","title":"Post-mastectomy breast reconstruction"}
+{
+  "retracted": false,
+  "timestamp": 1381795200000,
+  "updates": [
+    {
+      "timestamp": 1495996138802,
+      "identifier": {
+        "doi": "10.1136/bmj.f6810"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5903"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Post-mastectomy breast reconstruction"
+}

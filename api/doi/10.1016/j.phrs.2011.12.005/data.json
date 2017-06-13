@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388534400000,"doi":"10.1016/j.phrs.2013.10.003","type":"err"},"doi":"10.1016/j.phrs.2011.12.005","journal":"Pharmacological Research","publisher":"Elsevier BV","title":"Corrigendum to “Preventive and therapeutic effects of oleuropein against carbon tetrachloride-induced liver damage in mice” [Pharmacol. Res. 65 (4) (2012) 451–464]"}
+{
+  "retracted": false,
+  "timestamp": 1388534400000,
+  "updates": [
+    {
+      "timestamp": 1495999749923,
+      "identifier": {
+        "doi": "10.1016/j.phrs.2013.10.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.phrs.2011.12.005"
+  },
+  "journal": "Pharmacological Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Preventive and therapeutic effects of oleuropein against carbon tetrachloride-induced liver damage in mice” [Pharmacol. Res. 65 (4) (2012) 451–464]"
+}

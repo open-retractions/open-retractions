@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430352000000,"doi":"10.1136/bmj.h1812","type":"correction"},"doi":"10.1136/bmj.h1332","journal":"BMJ","publisher":"BMJ","title":"Rates of caesarean vary widely across Europe"}
+{
+  "retracted": false,
+  "timestamp": 1430352000000,
+  "updates": [
+    {
+      "timestamp": 1495997125676,
+      "identifier": {
+        "doi": "10.1136/bmj.h1812"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h1332"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Rates of caesarean vary widely across Europe"
+}

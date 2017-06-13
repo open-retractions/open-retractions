@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439942400000,"doi":"10.1016/j.neuron.2015.06.009","type":"err"},"doi":"10.1016/j.neuron.2012.08.033","journal":"Neuron","publisher":"Elsevier BV","title":"Transient Sodium Current at Subthreshold Voltages: Activation by EPSP Waveforms"}
+{
+  "retracted": false,
+  "timestamp": 1439942400000,
+  "updates": [
+    {
+      "timestamp": 1496024216919,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2015.06.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2012.08.033"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Transient Sodium Current at Subthreshold Voltages: Activation by EPSP Waveforms"
+}

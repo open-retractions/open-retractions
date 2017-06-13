@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488240000000,"doi":"10.1088/1361-6498/aa5c57","type":"correction"},"doi":"10.1088/1361-6498/37/1/1","journal":"Journal of Radiological Protection","publisher":"IOP Publishing","title":"Corrigendum: Individual external dose monitoring of all citizens of Date City by passive dosimeter 5–51 months after the Fukushima NPP Accident (series): I. Comparison of individual dose with ambient dose rate monitored by aircraft surveys (2016 J. Radiat. Prot. 37 1)"}
+{
+  "retracted": false,
+  "timestamp": 1488240000000,
+  "updates": [
+    {
+      "timestamp": 1495724837579,
+      "identifier": {
+        "doi": "10.1088/1361-6498/aa5c57"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/1361-6498/37/1/1"
+  },
+  "journal": "Journal of Radiological Protection",
+  "publisher": "IOP Publishing",
+  "title": "Corrigendum: Individual external dose monitoring of all citizens of Date City by passive dosimeter 5–51 months after the Fukushima NPP Accident (series): I. Comparison of individual dose with ambient dose rate monitored by aircraft surveys (2016 J. Radiat. Prot. 37 1)"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443744000000,"doi":"10.1063/1.4932216","type":"correction"},"doi":"10.1063/1.4864168","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Generation, transmission and detection of terahertz photons on an electrically driven single chip” [Appl. Phys. Lett. 104, 052112 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1443744000000,
+  "updates": [
+    {
+      "timestamp": 1496034600176,
+      "identifier": {
+        "doi": "10.1063/1.4932216"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4864168"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Generation, transmission and detection of terahertz photons on an electrically driven single chip” [Appl. Phys. Lett. 104, 052112 (2014)]"
+}

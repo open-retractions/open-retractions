@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1186/s13024-016-0120-5","type":"correction"},"doi":"10.1186/s13024-016-0113-4","journal":"Molecular Neurodegeneration","publisher":"Springer Nature","title":"Erratum to: Transmission of α-synucleinopathy from olfactory structures deep into the temporal lobe"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495729262623,
+      "identifier": {
+        "doi": "10.1186/s13024-016-0120-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13024-016-0113-4"
+  },
+  "journal": "Molecular Neurodegeneration",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Transmission of α-synucleinopathy from olfactory structures deep into the temporal lobe"
+}

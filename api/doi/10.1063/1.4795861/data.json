@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1365465600000,"doi":"10.1063/1.4801925","type":"correction"},"doi":"10.1063/1.4795861","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Publisher's Note: “Role of graphene defects in corrosion of graphene-coated Cu(111) surface” [Appl. Phys. Lett. 102, 111601 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1365465600000,
+  "updates": [
+    {
+      "timestamp": 1496011436418,
+      "identifier": {
+        "doi": "10.1063/1.4801925"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4795861"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Role of graphene defects in corrosion of graphene-coated Cu(111) surface” [Appl. Phys. Lett. 102, 111601 (2013)]"
+}

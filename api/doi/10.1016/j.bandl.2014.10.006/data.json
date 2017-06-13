@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.bandl.2015.05.010","type":"err"},"doi":"10.1016/j.bandl.2014.10.006","journal":"Brain and Language","publisher":"Elsevier BV","title":"Erratum to “The ERP response to the amount of information conveyed by words in sentences” [Brain and Language 140 (2015) 1–11]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496025582595,
+      "identifier": {
+        "doi": "10.1016/j.bandl.2015.05.010"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bandl.2014.10.006"
+  },
+  "journal": "Brain and Language",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “The ERP response to the amount of information conveyed by words in sentences” [Brain and Language 140 (2015) 1–11]"
+}

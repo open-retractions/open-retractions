@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368144000000,"doi":"10.1371/annotation/c8ed61a9-dcbf-4e20-8525-9da07ec92517","type":"correction"},"doi":"10.1371/journal.pone.0048999","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: An Aptamer-Based Biosensor for Colorimetric Detection of Escherichia coli O157:H7"}
+{
+  "retracted": false,
+  "timestamp": 1368144000000,
+  "updates": [
+    {
+      "timestamp": 1496019999681,
+      "identifier": {
+        "doi": "10.1371/annotation/c8ed61a9-dcbf-4e20-8525-9da07ec92517"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0048999"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: An Aptamer-Based Biosensor for Colorimetric Detection of Escherichia coli O157:H7"
+}

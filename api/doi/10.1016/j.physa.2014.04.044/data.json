@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1426377600000,"doi":"10.1016/j.physa.2014.10.059","type":"err"},"doi":"10.1016/j.physa.2014.04.044","journal":"Physica A: Statistical Mechanics and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Completely-positive quantum operations generating thermostatistical states: A comparative study” [Physica A 409 (2014) 130–137]"}
+{
+  "retracted": false,
+  "timestamp": 1426377600000,
+  "updates": [
+    {
+      "timestamp": 1496015262337,
+      "identifier": {
+        "doi": "10.1016/j.physa.2014.10.059"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physa.2014.04.044"
+  },
+  "journal": "Physica A: Statistical Mechanics and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Completely-positive quantum operations generating thermostatistical states: A comparative study” [Physica A 409 (2014) 130–137]"
+}

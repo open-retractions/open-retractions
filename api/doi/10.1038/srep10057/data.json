@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436918400000,"doi":"10.1038/srep12125","type":"correction"},"doi":"10.1038/srep10057","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Corrigendum: A Network Flow-based Analysis of Cognitive Reserve in Normal Ageing and Alzheimer’s Disease"}
+{
+  "retracted": false,
+  "timestamp": 1436918400000,
+  "updates": [
+    {
+      "timestamp": 1496015617752,
+      "identifier": {
+        "doi": "10.1038/srep12125"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10057"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum: A Network Flow-based Analysis of Cognitive Reserve in Normal Ageing and Alzheimer’s Disease"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1421280000000,"doi":"10.1007/s00209-015-1427-6","type":"correction"},"doi":"10.1007/s00209-007-0113-8","journal":"Mathematische Zeitschrift","publisher":"Springer Nature","title":"Erratum to: Pseudo-Anosov extensions and degree one maps between hyperbolic surface bundles"}
+{
+  "retracted": false,
+  "timestamp": 1421280000000,
+  "updates": [
+    {
+      "timestamp": 1496037136283,
+      "identifier": {
+        "doi": "10.1007/s00209-015-1427-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00209-007-0113-8"
+  },
+  "journal": "Mathematische Zeitschrift",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Pseudo-Anosov extensions and degree one maps between hyperbolic surface bundles"
+}

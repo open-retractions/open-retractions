@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.jda.2014.01.002","type":"err"},"doi":"10.1016/j.jda.2013.10.003","journal":"Journal of Discrete Algorithms","publisher":"Elsevier BV","title":"Corrections to “Finding dominators via disjoint set union” [J. Discrete Algorithms 23 (2013) 2–20]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496016201374,
+      "identifier": {
+        "doi": "10.1016/j.jda.2014.01.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jda.2013.10.003"
+  },
+  "journal": "Journal of Discrete Algorithms",
+  "publisher": "Elsevier BV",
+  "title": "Corrections to “Finding dominators via disjoint set union” [J. Discrete Algorithms 23 (2013) 2–20]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399334400000,"doi":"10.1007/s10518-014-9624-y","type":"correction"},"doi":"10.1007/s10518-013-9537-1","journal":"Bulletin of Earthquake Engineering","publisher":"Springer Nature","title":"Erratum to: Compatible ground-motion prediction equations for damping scaling factors and vertical-to-horizontal spectral amplitude ratios for the broader Europe region"}
+{
+  "retracted": false,
+  "timestamp": 1399334400000,
+  "updates": [
+    {
+      "timestamp": 1496036677597,
+      "identifier": {
+        "doi": "10.1007/s10518-014-9624-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10518-013-9537-1"
+  },
+  "journal": "Bulletin of Earthquake Engineering",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Compatible ground-motion prediction equations for damping scaling factors and vertical-to-horizontal spectral amplitude ratios for the broader Europe region"
+}

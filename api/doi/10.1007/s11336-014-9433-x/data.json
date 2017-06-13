@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470614400000,"doi":"10.1007/s11336-016-9502-4","type":"correction"},"doi":"10.1007/s11336-014-9433-x","journal":"Psychometrika","publisher":"Springer Nature","title":"Erratum to: KSC-N: Clustering of Hierarchical Time Profile Data"}
+{
+  "retracted": false,
+  "timestamp": 1470614400000,
+  "updates": [
+    {
+      "timestamp": 1495735844541,
+      "identifier": {
+        "doi": "10.1007/s11336-016-9502-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11336-014-9433-x"
+  },
+  "journal": "Psychometrika",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: KSC-N: Clustering of Hierarchical Time Profile Data"
+}

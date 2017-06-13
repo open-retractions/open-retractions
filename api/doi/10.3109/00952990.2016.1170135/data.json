@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484870400000,"doi":"10.1080/00952990.2016.1277105","type":"correction"},"doi":"10.3109/00952990.2016.1170135","journal":"The American Journal of Drug and Alcohol Abuse","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1484870400000,
+  "updates": [
+    {
+      "timestamp": 1495677608345,
+      "identifier": {
+        "doi": "10.1080/00952990.2016.1277105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3109/00952990.2016.1170135"
+  },
+  "journal": "The American Journal of Drug and Alcohol Abuse",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

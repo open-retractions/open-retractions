@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427500800000,"doi":"10.1007/s11661-015-2858-8","type":"correction"},"doi":"10.1007/s11661-014-2440-9","journal":"Metallurgical and Materials Transactions A","publisher":"Springer Nature","title":"Erratum to: Experimental Investigation and Thermodynamic Modeling of the Ni-Rich Part of the Ni-N Phase Diagram"}
+{
+  "retracted": false,
+  "timestamp": 1427500800000,
+  "updates": [
+    {
+      "timestamp": 1496045479054,
+      "identifier": {
+        "doi": "10.1007/s11661-015-2858-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11661-014-2440-9"
+  },
+  "journal": "Metallurgical and Materials Transactions A",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Experimental Investigation and Thermodynamic Modeling of the Ni-Rich Part of the Ni-N Phase Diagram"
+}

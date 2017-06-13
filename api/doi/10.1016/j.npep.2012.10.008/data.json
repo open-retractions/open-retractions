@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.npep.2013.05.002","type":"err"},"doi":"10.1016/j.npep.2012.10.008","journal":"Neuropeptides","publisher":"Elsevier BV","title":"Erratum to: Influences of calcitonin gene-related peptide on mu opioid receptors in nucleus accumbens neurons of rats"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496023950578,
+      "identifier": {
+        "doi": "10.1016/j.npep.2013.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.npep.2012.10.008"
+  },
+  "journal": "Neuropeptides",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to: Influences of calcitonin gene-related peptide on mu opioid receptors in nucleus accumbens neurons of rats"
+}

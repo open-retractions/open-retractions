@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.atmosres.2015.02.001","type":"err"},"doi":"10.1016/j.atmosres.2010.05.010","journal":"Atmospheric Research","publisher":"Elsevier BV","title":"Corrigendum to “Measurements of Ultrafine Particle Size Distribution near Rome” [Atmos. Res. 98/1 (2010) 69–77]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496049002169,
+      "identifier": {
+        "doi": "10.1016/j.atmosres.2015.02.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.atmosres.2010.05.010"
+  },
+  "journal": "Atmospheric Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measurements of Ultrafine Particle Size Distribution near Rome” [Atmos. Res. 98/1 (2010) 69–77]"
+}

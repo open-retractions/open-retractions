@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1332115200000,"doi":"10.1371/annotation/f743434e-a6bf-4c6c-a836-ae5af66035a4","type":"correction"},"doi":"10.1371/journal.pone.0016706","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Resistance to MPTP-Neurotoxicity in α-Synuclein Knockout Mice Is Complemented by Human α-Synuclein and Associated with Increased β-Synuclein and Akt Activation"}
+{
+  "retracted": false,
+  "timestamp": 1332115200000,
+  "updates": [
+    {
+      "timestamp": 1495884323356,
+      "identifier": {
+        "doi": "10.1371/annotation/f743434e-a6bf-4c6c-a836-ae5af66035a4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0016706"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Resistance to MPTP-Neurotoxicity in α-Synuclein Knockout Mice Is Complemented by Human α-Synuclein and Associated with Increased β-Synuclein and Akt Activation"
+}

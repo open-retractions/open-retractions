@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.2337/dc17-er04a","type":"correction"},"doi":"10.2337/dc13-2096","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Erratum. The Use of Anthropometric Measures for Cardiometabolic Risk Identification in a Rural African Population. Diabetes Care 2013;37:e64–e65"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495679963850,
+      "identifier": {
+        "doi": "10.2337/dc17-er04a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc13-2096"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Erratum. The Use of Anthropometric Measures for Cardiometabolic Risk Identification in a Rural African Population. Diabetes Care 2013;37:e64–e65"
+}

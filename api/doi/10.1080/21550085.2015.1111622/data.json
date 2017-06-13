@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465257600000,"doi":"10.1080/21550085.2016.1192801","type":"correction"},"doi":"10.1080/21550085.2015.1111622","journal":"Ethics, Policy & Environment","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1465257600000,
+  "updates": [
+    {
+      "timestamp": 1495718871391,
+      "identifier": {
+        "doi": "10.1080/21550085.2016.1192801"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/21550085.2015.1111622"
+  },
+  "journal": "Ethics, Policy & Environment",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

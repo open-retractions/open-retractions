@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1423440000000,"doi":"10.1016/j.ijhydene.2014.12.061","type":"err"},"doi":"10.1016/j.ijhydene.2014.10.138","journal":"International Journal of Hydrogen Energy","publisher":"Elsevier BV","title":"Corrigendum to “CFD analysis of fast filling strategies for hydrogen tanks and their effects on key-parameters” [Int J Hydrogen Energy 40 (2015) 735–745]"}
+{
+  "retracted": false,
+  "timestamp": 1423440000000,
+  "updates": [
+    {
+      "timestamp": 1496035711799,
+      "identifier": {
+        "doi": "10.1016/j.ijhydene.2014.12.061"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijhydene.2014.10.138"
+  },
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “CFD analysis of fast filling strategies for hydrogen tanks and their effects on key-parameters” [Int J Hydrogen Energy 40 (2015) 735–745]"
+}

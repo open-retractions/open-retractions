@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467936000000,"doi":"10.1007/s40265-016-0617-9","type":"correction"},"doi":"10.1007/s40265-016-0606-z","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Olmutinib: First Global Approval"}
+{
+  "retracted": false,
+  "timestamp": 1467936000000,
+  "updates": [
+    {
+      "timestamp": 1495725798875,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0617-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-016-0606-z"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Olmutinib: First Global Approval"
+}

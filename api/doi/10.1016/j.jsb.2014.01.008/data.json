@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1396310400000,"doi":"10.1016/j.jsb.2014.03.005","type":"err"},"doi":"10.1016/j.jsb.2014.01.008","journal":"Journal of Structural Biology","publisher":"Elsevier BV","title":"Corrigendum to “Structure of MST2 SARAH domain provides insights into its interaction with RAPL” [J. Struct. Biol. 185 (2014) 366–374]"}
+{
+  "retracted": false,
+  "timestamp": 1396310400000,
+  "updates": [
+    {
+      "timestamp": 1496024607889,
+      "identifier": {
+        "doi": "10.1016/j.jsb.2014.03.005"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jsb.2014.01.008"
+  },
+  "journal": "Journal of Structural Biology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Structure of MST2 SARAH domain provides insights into its interaction with RAPL” [J. Struct. Biol. 185 (2014) 366–374]"
+}

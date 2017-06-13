@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jct.2015.05.018","type":"err"},"doi":"10.1016/j.jct.2013.04.004","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Standard molar enthalpy of formation of Bi2WO6(s) and Bi2W2O9(s) compounds” [J. Chem. Thermodyn. 63 (2013) 74–77]"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496009458382,
+      "identifier": {
+        "doi": "10.1016/j.jct.2015.05.018"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.04.004"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Standard molar enthalpy of formation of Bi2WO6(s) and Bi2W2O9(s) compounds” [J. Chem. Thermodyn. 63 (2013) 74–77]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1383091200000,"doi":"10.1371/annotation/e4c527e6-4b6f-4c12-970c-a9e2e6ed8f79","type":"correction"},"doi":"10.1371/journal.pone.0059499","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: ITS1 Copy Number Varies among Batrachochytrium dendrobatidis Strains: Implications for qPCR Estimates of Infection Intensity from Field-Collected Amphibian Skin Swabs"}
+{
+  "retracted": false,
+  "timestamp": 1383091200000,
+  "updates": [
+    {
+      "timestamp": 1495994513472,
+      "identifier": {
+        "doi": "10.1371/annotation/e4c527e6-4b6f-4c12-970c-a9e2e6ed8f79"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0059499"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: ITS1 Copy Number Varies among Batrachochytrium dendrobatidis Strains: Implications for qPCR Estimates of Infection Intensity from Field-Collected Amphibian Skin Swabs"
+}

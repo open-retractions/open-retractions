@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488240000000,"doi":"10.1134/s0021364016230156","type":"correction"},"doi":"10.1134/s0021364016140034","journal":"JETP Letters","publisher":"Pleiades Publishing Ltd","title":"Erratum to: “Scroll Wave dynamics in a model of the heterogeneous heart”"}
+{
+  "retracted": false,
+  "timestamp": 1488240000000,
+  "updates": [
+    {
+      "timestamp": 1495723553368,
+      "identifier": {
+        "doi": "10.1134/s0021364016230156"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0021364016140034"
+  },
+  "journal": "JETP Letters",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum to: “Scroll Wave dynamics in a model of the heterogeneous heart”"
+}

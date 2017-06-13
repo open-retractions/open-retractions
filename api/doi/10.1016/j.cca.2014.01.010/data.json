@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407196800000,"doi":"10.1016/j.cca.2014.04.021","type":"err"},"doi":"10.1016/j.cca.2014.01.010","journal":"Clinica Chimica Acta","publisher":"Elsevier BV","title":"Corrigendum to “Increased detection rate of melamine-containing calcium urolithiasis by using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry technique in clinical practice” [Clin. Chim. Acta 431C (2014) 294–298]"}
+{
+  "retracted": false,
+  "timestamp": 1407196800000,
+  "updates": [
+    {
+      "timestamp": 1496035896456,
+      "identifier": {
+        "doi": "10.1016/j.cca.2014.04.021"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cca.2014.01.010"
+  },
+  "journal": "Clinica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Increased detection rate of melamine-containing calcium urolithiasis by using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry technique in clinical practice” [Clin. Chim. Acta 431C (2014) 294–298]"
+}

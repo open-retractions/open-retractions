@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453939200000,"doi":"10.1007/s00134-016-4232-8","type":"correction"},"doi":"10.1007/s00134-015-4161-y","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: Is this critically ill patient immunocompromised?"}
+{
+  "retracted": false,
+  "timestamp": 1453939200000,
+  "updates": [
+    {
+      "timestamp": 1495640632310,
+      "identifier": {
+        "doi": "10.1007/s00134-016-4232-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-015-4161-y"
+  },
+  "journal": "Intensive Care Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Is this critically ill patient immunocompromised?"
+}

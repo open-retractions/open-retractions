@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417046400000,"doi":"10.1016/j.jhydrol.2014.09.006","type":"err"},"doi":"10.1016/j.jhydrol.2013.05.050","journal":"Journal of Hydrology","publisher":"Elsevier BV","title":"Corrigendum to “Patterns and scaling properties of surface soil moisture in an agricultural landscape: An ecohydrological modeling study” [J. Hydrol. 498 (2013) 89–102]"}
+{
+  "retracted": false,
+  "timestamp": 1417046400000,
+  "updates": [
+    {
+      "timestamp": 1496011402010,
+      "identifier": {
+        "doi": "10.1016/j.jhydrol.2014.09.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jhydrol.2013.05.050"
+  },
+  "journal": "Journal of Hydrology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Patterns and scaling properties of surface soil moisture in an agricultural landscape: An ecohydrological modeling study” [J. Hydrol. 498 (2013) 89–102]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484784000000,"doi":"10.1128/genomea.01453-16","type":"correction"},"doi":"10.1128/genomea.00840-16","journal":"Genome Announcements","publisher":"American Society for Microbiology","title":"n Correction for Mirajkar et al., Complete Genome Sequence ofn Brachyspira hyodysenteriaen Type Strain B78 (ATCC 27164)n "}
+{
+  "retracted": false,
+  "timestamp": 1484784000000,
+  "updates": [
+    {
+      "timestamp": 1495677373027,
+      "identifier": {
+        "doi": "10.1128/genomea.01453-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/genomea.00840-16"
+  },
+  "journal": "Genome Announcements",
+  "publisher": "American Society for Microbiology",
+  "title": "\n            Correction for Mirajkar et al., Complete Genome Sequence of\n            Brachyspira hyodysenteriae\n            Type Strain B78 (ATCC 27164)\n          "
+}

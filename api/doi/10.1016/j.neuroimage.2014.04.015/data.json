@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.neuroimage.2014.12.051","type":"err"},"doi":"10.1016/j.neuroimage.2014.04.015","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Event time analysis of longitudinal neuroimage data” [NeuroImage 97 (15 August 2014) 9–18]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496028822989,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2014.12.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2014.04.015"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Event time analysis of longitudinal neuroimage data” [NeuroImage 97 (15 August 2014) 9–18]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447200000000,"doi":"10.1016/j.msea.2015.09.038","type":"err"},"doi":"10.1016/j.msea.2015.05.072","journal":"Materials Science and Engineering: A","publisher":"Elsevier BV","title":"Corrigendum to ‘Mechanical behavior of periodical microstructure induced by friction stir welding on Al–Cu–Li 2050 alloy’ [MSA volume 644, pages 69–75]"}
+{
+  "retracted": false,
+  "timestamp": 1447200000000,
+  "updates": [
+    {
+      "timestamp": 1496032603818,
+      "identifier": {
+        "doi": "10.1016/j.msea.2015.09.038"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.msea.2015.05.072"
+  },
+  "journal": "Materials Science and Engineering: A",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Mechanical behavior of periodical microstructure induced by friction stir welding on Al–Cu–Li 2050 alloy’ [MSA volume 644, pages 69–75]"
+}

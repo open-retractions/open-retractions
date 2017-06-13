@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443139200000,"doi":"10.1063/1.4932060","type":"correction"},"doi":"10.1063/1.4930013","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher’s Note: “Anisotropic time-resolved solution X-ray scattering patterns from explicit-solvent molecular dynamics” [J. Chem. Phys. 143, 104108 (2015)]"}
+{
+  "retracted": false,
+  "timestamp": 1443139200000,
+  "updates": [
+    {
+      "timestamp": 1496032769569,
+      "identifier": {
+        "doi": "10.1063/1.4932060"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4930013"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher’s Note: “Anisotropic time-resolved solution X-ray scattering patterns from explicit-solvent molecular dynamics” [J. Chem. Phys. 143, 104108 (2015)]"
+}

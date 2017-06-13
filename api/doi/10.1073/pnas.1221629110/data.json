@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1376352000000,"doi":"10.1073/pnas.1314549110","type":"correction"},"doi":"10.1073/pnas.1221629110","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gushchin et al., Structural insights into the proton pumping by unusual proteorhodopsin from nonmarine bacteria"}
+{
+  "retracted": false,
+  "timestamp": 1376352000000,
+  "updates": [
+    {
+      "timestamp": 1496039549466,
+      "identifier": {
+        "doi": "10.1073/pnas.1314549110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1221629110"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gushchin et al., Structural insights into the proton pumping by unusual proteorhodopsin from nonmarine bacteria"
+}

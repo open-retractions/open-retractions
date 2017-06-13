@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1344556800000,"doi":"10.1371/annotation/7a3d2279-0f96-433c-bb3f-d7fda1759633","type":"correction"},"doi":"10.1371/journal.pone.0031282","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Informatics Enhanced SNP Microarray Analysis of 30 Miscarriage Samples Compared to Routine Cytogenetics"}
+{
+  "retracted": false,
+  "timestamp": 1344556800000,
+  "updates": [
+    {
+      "timestamp": 1495943870526,
+      "identifier": {
+        "doi": "10.1371/annotation/7a3d2279-0f96-433c-bb3f-d7fda1759633"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031282"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Informatics Enhanced SNP Microarray Analysis of 30 Miscarriage Samples Compared to Routine Cytogenetics"
+}

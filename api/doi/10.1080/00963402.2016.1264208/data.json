@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1080/00963402.2017.1290934","type":"correction"},"doi":"10.1080/00963402.2016.1264208","journal":"Bulletin of the Atomic Scientists","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495722374859,
+      "identifier": {
+        "doi": "10.1080/00963402.2017.1290934"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/00963402.2016.1264208"
+  },
+  "journal": "Bulletin of the Atomic Scientists",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

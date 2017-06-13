@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1338854400000,"doi":"10.1073/pnas.1209739109","type":"correction"},"doi":"10.1073/pnas.1207022109","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Frieden and Garai, Structural differences between apoE3 and apoE4 may be useful in developing therapeutic agents for Alzheimer's disease"}
+{
+  "retracted": false,
+  "timestamp": 1338854400000,
+  "updates": [
+    {
+      "timestamp": 1495898428780,
+      "identifier": {
+        "doi": "10.1073/pnas.1209739109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1207022109"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Frieden and Garai, Structural differences between apoE3 and apoE4 may be useful in developing therapeutic agents for Alzheimer's disease"
+}

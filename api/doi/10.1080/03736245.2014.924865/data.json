@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455062400000,"doi":"10.1080/03736245.2016.1139323","type":"correction"},"doi":"10.1080/03736245.2014.924865","journal":"South African Geographical Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1455062400000,
+  "updates": [
+    {
+      "timestamp": 1495644672888,
+      "identifier": {
+        "doi": "10.1080/03736245.2016.1139323"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03736245.2014.924865"
+  },
+  "journal": "South African Geographical Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.dsr.2013.06.003","type":"err"},"doi":"10.1016/j.dsr.2013.01.001","journal":"Deep Sea Research Part I: Oceanographic Research Papers","publisher":"Elsevier BV","title":"Erratum to ‘Micro-grazer biomass, composition and distribution across prey resource and dissolved oxygen gradients in the far eastern tropical north Pacific Ocean’"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496032216004,
+      "identifier": {
+        "doi": "10.1016/j.dsr.2013.06.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.dsr.2013.01.001"
+  },
+  "journal": "Deep Sea Research Part I: Oceanographic Research Papers",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to ‘Micro-grazer biomass, composition and distribution across prey resource and dissolved oxygen gradients in the far eastern tropical north Pacific Ocean’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1312416000000,"doi":"10.1007/s00467-011-1979-6","type":"correction"},"doi":"10.1007/s00467-011-1939-1","journal":"Pediatric Nephrology","publisher":"Springer Nature","title":"Erratum to: Epidemiology of chronic kidney disease in children"}
+{
+  "retracted": false,
+  "timestamp": 1312416000000,
+  "updates": [
+    {
+      "timestamp": 1495982565576,
+      "identifier": {
+        "doi": "10.1007/s00467-011-1979-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00467-011-1939-1"
+  },
+  "journal": "Pediatric Nephrology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Epidemiology of chronic kidney disease in children"
+}

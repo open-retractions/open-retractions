@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453680000000,"doi":"10.1186/s13023-015-0354-2","type":"correction"},"doi":"10.1186/s13023-015-0270-5","journal":"Orphanet Journal of Rare Diseases","publisher":"Springer Nature","title":"Erratum to: CMTX1 patients’ cells present genomic instability corrected by CamKII inhibitors"}
+{
+  "retracted": false,
+  "timestamp": 1453680000000,
+  "updates": [
+    {
+      "timestamp": 1495639273605,
+      "identifier": {
+        "doi": "10.1186/s13023-015-0354-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13023-015-0270-5"
+  },
+  "journal": "Orphanet Journal of Rare Diseases",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: CMTX1 patients’ cells present genomic instability corrected by CamKII inhibitors"
+}

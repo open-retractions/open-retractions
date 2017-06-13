@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468195200000,"doi":"10.1088/0963-0252/25/4/049601","type":"correction"},"doi":"10.1088/0963-0252/25/4/043002","journal":"Plasma Sources Science and Technology","publisher":"IOP Publishing","title":"Erratum: Kinetics of plasma-assisted combustion: effect of non-equilibrium excitation on the ignition and oxidation of combustible mixtures"}
+{
+  "retracted": false,
+  "timestamp": 1468195200000,
+  "updates": [
+    {
+      "timestamp": 1495726421743,
+      "identifier": {
+        "doi": "10.1088/0963-0252/25/4/049601"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1088/0963-0252/25/4/043002"
+  },
+  "journal": "Plasma Sources Science and Technology",
+  "publisher": "IOP Publishing",
+  "title": "Erratum: Kinetics of plasma-assisted combustion: effect of non-equilibrium excitation on the ignition and oxidation of combustible mixtures"
+}

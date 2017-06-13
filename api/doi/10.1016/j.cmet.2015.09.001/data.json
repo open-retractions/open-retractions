@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446508800000,"doi":"10.1016/j.cmet.2015.10.004","type":"err"},"doi":"10.1016/j.cmet.2015.09.001","journal":"Cell Metabolism","publisher":"Elsevier BV","title":"Global Phosphoproteomic Analysis of Human Skeletal Muscle Reveals a Network of Exercise-Regulated Kinases and AMPK Substrates"}
+{
+  "retracted": false,
+  "timestamp": 1446508800000,
+  "updates": [
+    {
+      "timestamp": 1496043076935,
+      "identifier": {
+        "doi": "10.1016/j.cmet.2015.10.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cmet.2015.09.001"
+  },
+  "journal": "Cell Metabolism",
+  "publisher": "Elsevier BV",
+  "title": "Global Phosphoproteomic Analysis of Human Skeletal Muscle Reveals a Network of Exercise-Regulated Kinases and AMPK Substrates"
+}

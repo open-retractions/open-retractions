@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452038400000,"doi":"10.1016/j.neuron.2015.12.010","type":"erratum"},"doi":"10.1016/j.neuron.2009.02.005","journal":"Neuron","publisher":"Elsevier BV","title":"Balanced Amplification: A New Mechanism of Selective Amplification of Neural Activity Patterns"}
+{
+  "retracted": false,
+  "timestamp": 1452038400000,
+  "updates": [
+    {
+      "timestamp": 1496058264526,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2015.12.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2009.02.005"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Balanced Amplification: A New Mechanism of Selective Amplification of Neural Activity Patterns"
+}

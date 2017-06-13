@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375228800000,"doi":"10.1371/annotation/ae27d48b-025f-47ce-8427-4af59f821ad7","type":"correction"},"doi":"10.1371/journal.pntd.0002311","journal":"PLoS Neglected Tropical Diseases","publisher":"Public Library of Science (PLoS)","title":"Correction: Analytical and Clinical Performance of the CDC Real Time RT-PCR Assay for Detection and Typing of Dengue Virus"}
+{
+  "retracted": false,
+  "timestamp": 1375228800000,
+  "updates": [
+    {
+      "timestamp": 1496928218388,
+      "identifier": {
+        "doi": "10.1371/annotation/ae27d48b-025f-47ce-8427-4af59f821ad7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pntd.0002311"
+  },
+  "journal": "PLoS Neglected Tropical Diseases",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Analytical and Clinical Performance of the CDC Real Time RT-PCR Assay for Detection and Typing of Dengue Virus"
+}

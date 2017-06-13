@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466380800000,"doi":"10.1080/07317131.2016.1169865","type":"correction"},"doi":"10.1080/07317131.2013.759833","journal":"Technical Services Quarterly","publisher":"Informa UK Limited","title":"Corrigenda"}
+{
+  "retracted": false,
+  "timestamp": 1466380800000,
+  "updates": [
+    {
+      "timestamp": 1495721930972,
+      "identifier": {
+        "doi": "10.1080/07317131.2016.1169865"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/07317131.2013.759833"
+  },
+  "journal": "Technical Services Quarterly",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigenda"
+}

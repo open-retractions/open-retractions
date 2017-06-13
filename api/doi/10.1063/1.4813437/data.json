@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377129600000,"doi":"10.1063/1.4819494","type":"correction"},"doi":"10.1063/1.4813437","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Quantum tomography of a molecular bond in ice” [J. Chem. Phys. 139, 034201 (2013)]"}
+{
+  "retracted": false,
+  "timestamp": 1377129600000,
+  "updates": [
+    {
+      "timestamp": 1496041597661,
+      "identifier": {
+        "doi": "10.1063/1.4819494"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4813437"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Quantum tomography of a molecular bond in ice” [J. Chem. Phys. 139, 034201 (2013)]"
+}

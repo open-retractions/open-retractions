@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417046400000,"doi":"10.1007/s40265-014-0336-z","type":"correction"},"doi":"10.1007/s40265-014-0298-1","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: Empagliflozin: A Review of Its Use in Patients with Type 2 Diabetes Mellitus"}
+{
+  "retracted": false,
+  "timestamp": 1417046400000,
+  "updates": [
+    {
+      "timestamp": 1496025744022,
+      "identifier": {
+        "doi": "10.1007/s40265-014-0336-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-014-0298-1"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Empagliflozin: A Review of Its Use in Patients with Type 2 Diabetes Mellitus"
+}

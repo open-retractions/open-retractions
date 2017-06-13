@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462060800000,"doi":"10.1016/j.biopsycho.2016.01.004","type":"err"},"doi":"10.1016/j.biopsycho.2015.06.010","journal":"Biological Psychology","publisher":"Elsevier BV","title":"Corrigendum to “Reduced intrasubject variability with reinforcement in boys, but not girls, with ADHD: Associations with prefrontal anatomy” [Biol. Psychol. 110 (2015) 12–23]"}
+{
+  "retracted": false,
+  "timestamp": 1462060800000,
+  "updates": [
+    {
+      "timestamp": 1495639032024,
+      "identifier": {
+        "doi": "10.1016/j.biopsycho.2016.01.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.biopsycho.2015.06.010"
+  },
+  "journal": "Biological Psychology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Reduced intrasubject variability with reinforcement in boys, but not girls, with ADHD: Associations with prefrontal anatomy” [Biol. Psychol. 110 (2015) 12–23]"
+}

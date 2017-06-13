@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1407283200000,"doi":"10.1007/s00371-014-1004-8","type":"correction"},"doi":"10.1007/s00371-014-0962-1","journal":"The Visual Computer","publisher":"Springer Nature","title":"Erratum to: Color face image decomposition under complex lighting conditions"}
+{
+  "retracted": false,
+  "timestamp": 1407283200000,
+  "updates": [
+    {
+      "timestamp": 1495995212846,
+      "identifier": {
+        "doi": "10.1007/s00371-014-1004-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00371-014-0962-1"
+  },
+  "journal": "The Visual Computer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Color face image decomposition under complex lighting conditions"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1229990400000,"doi":"10.1073/pnas.1110993108","type":"correction"},"doi":"10.1073/pnas.0810589105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Grishok et al., RNA interference and retinoblastoma-related genes are required for repression of endogenous siRNA targets in Caenorhabditis elegans"}
+{
+  "retracted": false,
+  "timestamp": 1229990400000,
+  "updates": [
+    {
+      "timestamp": 1495981380932,
+      "identifier": {
+        "doi": "10.1073/pnas.1110993108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0810589105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Grishok et al., RNA interference and retinoblastoma-related genes are required for repression of endogenous siRNA targets in Caenorhabditis elegans"
+}

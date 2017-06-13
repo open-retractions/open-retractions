@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408838400000,"doi":"10.1007/s12274-014-1047-1","type":"correction"},"doi":"10.1007/s12274-014-0451-x","journal":"Nano Research","publisher":"Springer Nature","title":"Erratum to: Growth of silicon nanowires in aqueous solution under atmospheric pressure"}
+{
+  "retracted": false,
+  "timestamp": 1408838400000,
+  "updates": [
+    {
+      "timestamp": 1496000614797,
+      "identifier": {
+        "doi": "10.1007/s12274-014-1047-1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s12274-014-0451-x"
+  },
+  "journal": "Nano Research",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Growth of silicon nanowires in aqueous solution under atmospheric pressure"
+}

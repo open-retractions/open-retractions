@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401408000000,"doi":"10.1063/1.4879844","type":"correction"},"doi":"10.1063/1.4875748","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Total ionizing dose effect of γ-ray radiation on the switching characteristics and filament stability of HfOx resistive random access memory” [Appl. Phys. Lett. 104, 183507 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1401408000000,
+  "updates": [
+    {
+      "timestamp": 1496042905290,
+      "identifier": {
+        "doi": "10.1063/1.4879844"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4875748"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Total ionizing dose effect of γ-ray radiation on the switching characteristics and filament stability of HfOx resistive random access memory” [Appl. Phys. Lett. 104, 183507 (2014)]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1379980800000,"doi":"10.1136/bmj.f6205","type":"correction"},"doi":"10.1136/bmj.f5526","journal":"BMJ","publisher":"BMJ","title":"Testicular germ cell tumours"}
+{
+  "retracted": false,
+  "timestamp": 1379980800000,
+  "updates": [
+    {
+      "timestamp": 1496053320698,
+      "identifier": {
+        "doi": "10.1136/bmj.f6205"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.f5526"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Testicular germ cell tumours"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459382400000,"doi":"10.1007/s00134-016-4313-8","type":"correction"},"doi":"10.1007/s00134-014-3448-8","journal":"Intensive Care Medicine","publisher":"Springer Nature","title":"Erratum to: Authors’ response: Origin of the 24-h rest arm"}
+{
+  "retracted": false,
+  "timestamp": 1459382400000,
+  "updates": [
+    {
+      "timestamp": 1495660734081,
+      "identifier": {
+        "doi": "10.1007/s00134-016-4313-8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00134-014-3448-8"
+  },
+  "journal": "Intensive Care Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Authors’ response: Origin of the 24-h rest arm"
+}

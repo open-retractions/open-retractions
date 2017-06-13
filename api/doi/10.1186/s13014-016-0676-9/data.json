@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475020800000,"doi":"10.1186/s13014-016-0708-5","type":"correction"},"doi":"10.1186/s13014-016-0676-9","journal":"Radiation Oncology","publisher":"Springer Nature","title":"Erratum to: Low-dose brachytherapy for early stage penile cancer: a 20-year single-institution study (73 patients)"}
+{
+  "retracted": false,
+  "timestamp": 1475020800000,
+  "updates": [
+    {
+      "timestamp": 1495643681257,
+      "identifier": {
+        "doi": "10.1186/s13014-016-0708-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s13014-016-0676-9"
+  },
+  "journal": "Radiation Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Low-dose brachytherapy for early stage penile cancer: a 20-year single-institution study (73 patients)"
+}

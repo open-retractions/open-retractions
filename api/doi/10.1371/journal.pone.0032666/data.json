@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1339545600000,"doi":"10.1371/annotation/e240f425-0375-4c32-b0a7-85fa586d0f40","type":"correction"},"doi":"10.1371/journal.pone.0032666","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Modeling Trap-Awareness and Related Phenomena in Capture-Recapture Studies"}
+{
+  "retracted": false,
+  "timestamp": 1339545600000,
+  "updates": [
+    {
+      "timestamp": 1495915609154,
+      "identifier": {
+        "doi": "10.1371/annotation/e240f425-0375-4c32-b0a7-85fa586d0f40"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0032666"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Modeling Trap-Awareness and Related Phenomena in Capture-Recapture Studies"
+}

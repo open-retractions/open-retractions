@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1401580800000,"doi":"10.1016/j.eujim.2014.05.002","type":"err"},"doi":"10.1016/j.eujim.2013.11.003","journal":"European Journal of Integrative Medicine","publisher":"Elsevier BV","title":"Corrigendum to “Clinical guidelines in the UK: Do they mention Complementary and alternative medicine (CAM) – Are CAM professional bodies aware?” [Eur. J. Integr. Med. 6 (2) (2014) 164–175]"}
+{
+  "retracted": false,
+  "timestamp": 1401580800000,
+  "updates": [
+    {
+      "timestamp": 1496043458112,
+      "identifier": {
+        "doi": "10.1016/j.eujim.2014.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.eujim.2013.11.003"
+  },
+  "journal": "European Journal of Integrative Medicine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Clinical guidelines in the UK: Do they mention Complementary and alternative medicine (CAM) – Are CAM professional bodies aware?” [Eur. J. Integr. Med. 6 (2) (2014) 164–175]"
+}

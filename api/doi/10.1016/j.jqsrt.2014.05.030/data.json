@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.jqsrt.2016.12.014","type":"erratum"},"doi":"10.1016/j.jqsrt.2014.05.030","journal":"Journal of Quantitative Spectroscopy and Radiative Transfer","publisher":"Elsevier BV","title":"Erratum to “Rayleigh scattering cross-section measurements of nitrogen, argon, oxygen and air” J Quant Spectrosc Radiat Transf 147 (2014) 171–177"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495666194958,
+      "identifier": {
+        "doi": "10.1016/j.jqsrt.2016.12.014"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jqsrt.2014.05.030"
+  },
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Rayleigh scattering cross-section measurements of nitrogen, argon, oxygen and air” J Quant Spectrosc Radiat Transf 147 (2014) 171–177"
+}

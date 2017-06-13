@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1491004800000,"doi":"10.1016/j.bbamcr.2017.01.002","type":"erratum"},"doi":"10.1016/j.bbamcr.2016.03.016","journal":"Biochimica et Biophysica Acta (BBA) - Molecular Cell Research","publisher":"Elsevier BV","title":"Corrigendum to “GIT1/<beta>PIX signaling proteins and PAK1 kinase regulate microtubule nucleation” [Biochim. Biophys. Acta 1863/6PA (2016) 1282–1297]"}
+{
+  "retracted": false,
+  "timestamp": 1491004800000,
+  "updates": [
+    {
+      "timestamp": 1495671073623,
+      "identifier": {
+        "doi": "10.1016/j.bbamcr.2017.01.002"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbamcr.2016.03.016"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “GIT1/<beta>PIX signaling proteins and PAK1 kinase regulate microtubule nucleation” [Biochim. Biophys. Acta 1863/6PA (2016) 1282–1297]"
+}

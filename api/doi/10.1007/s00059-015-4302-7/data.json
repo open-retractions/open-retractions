@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436572800000,"doi":"10.1007/s00059-015-4333-0","type":"correction"},"doi":"10.1007/s00059-015-4302-7","journal":"Herz","publisher":"Springer Nature","title":"Erratum to: Left ventricular pseudoaneurysm after mitral valve replacement"}
+{
+  "retracted": false,
+  "timestamp": 1436572800000,
+  "updates": [
+    {
+      "timestamp": 1496014692128,
+      "identifier": {
+        "doi": "10.1007/s00059-015-4333-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00059-015-4302-7"
+  },
+  "journal": "Herz",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Left ventricular pseudoaneurysm after mitral valve replacement"
+}

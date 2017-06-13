@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1461110400000,"doi":"10.1063/1.4947068","type":"correction"},"doi":"10.1063/1.4935642","journal":"Review of Scientific Instruments","publisher":"AIP Publishing","title":"Erratum: “Mixed Pierce-two-stream instability development in an extraction system of a negative ion source” [Rev. Sci. Instrum. 87, 02A509 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1461110400000,
+  "updates": [
+    {
+      "timestamp": 1495664483498,
+      "identifier": {
+        "doi": "10.1063/1.4947068"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4935642"
+  },
+  "journal": "Review of Scientific Instruments",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Mixed Pierce-two-stream instability development in an extraction system of a negative ion source” [Rev. Sci. Instrum. 87, 02A509 (2016)]"
+}

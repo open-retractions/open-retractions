@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1435276800000,"doi":"10.1057/fr.2015.20","type":"correction"},"doi":"10.1057/fr.2014.58","journal":"Feminist Review","publisher":"Springer Nature","title":"Erratum: Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1435276800000,
+  "updates": [
+    {
+      "timestamp": 1496011787428,
+      "identifier": {
+        "doi": "10.1057/fr.2015.20"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/fr.2014.58"
+  },
+  "journal": "Feminist Review",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Corrigendum"
+}

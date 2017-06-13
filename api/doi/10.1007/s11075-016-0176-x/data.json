@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1479427200000,"doi":"10.1007/s11075-016-0232-6","type":"correction"},"doi":"10.1007/s11075-016-0176-x","journal":"Numerical Algorithms","publisher":"Springer Nature","title":"Erratum to: Convergence analysis for column-action methods in image reconstruction"}
+{
+  "retracted": false,
+  "timestamp": 1479427200000,
+  "updates": [
+    {
+      "timestamp": 1495659718570,
+      "identifier": {
+        "doi": "10.1007/s11075-016-0232-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11075-016-0176-x"
+  },
+  "journal": "Numerical Algorithms",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Convergence analysis for column-action methods in image reconstruction"
+}

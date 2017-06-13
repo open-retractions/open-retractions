@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.ejpb.2015.09.015","type":"err"},"doi":"10.1016/j.ejpb.2013.03.003","journal":"European Journal of Pharmaceutics and Biopharmaceutics","publisher":"Elsevier BV","title":"Corrigendum to “Protamine nanoparticles with CpG-oligodeoxynucleotide prevent an allergen-induced Th2-response in BALB/c mice” [Eur. J. Pharm. Biopharm. 85 (2013) 656–664]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496036634633,
+      "identifier": {
+        "doi": "10.1016/j.ejpb.2015.09.015"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ejpb.2013.03.003"
+  },
+  "journal": "European Journal of Pharmaceutics and Biopharmaceutics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Protamine nanoparticles with CpG-oligodeoxynucleotide prevent an allergen-induced Th2-response in BALB/c mice” [Eur. J. Pharm. Biopharm. 85 (2013) 656–664]"
+}

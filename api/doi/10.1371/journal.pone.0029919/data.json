@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1340841600000,"doi":"10.1371/annotation/5dd084b1-20e6-4e1f-88e0-dfe05289da08","type":"correction"},"doi":"10.1371/journal.pone.0029919","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: γ-Tubulin 2 Nucleates Microtubules and Is Downregulated in Mouse Early Embryogenesis"}
+{
+  "retracted": false,
+  "timestamp": 1340841600000,
+  "updates": [
+    {
+      "timestamp": 1495919310678,
+      "identifier": {
+        "doi": "10.1371/annotation/5dd084b1-20e6-4e1f-88e0-dfe05289da08"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0029919"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: γ-Tubulin 2 Nucleates Microtubules and Is Downregulated in Mouse Early Embryogenesis"
+}

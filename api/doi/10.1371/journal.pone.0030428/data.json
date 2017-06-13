@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1337040000000,"doi":"10.1371/annotation/cd6e2d3b-4888-4231-a13d-6ef6170b79d6","type":"correction"},"doi":"10.1371/journal.pone.0030428","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Biodiversity of Indigenous Saccharomyces Populations from Old Wineries of South-Eastern Sicily (Italy): Preservation and Economic Potential"}
+{
+  "retracted": false,
+  "timestamp": 1337040000000,
+  "updates": [
+    {
+      "timestamp": 1495906849307,
+      "identifier": {
+        "doi": "10.1371/annotation/cd6e2d3b-4888-4231-a13d-6ef6170b79d6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0030428"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Biodiversity of Indigenous Saccharomyces Populations from Old Wineries of South-Eastern Sicily (Italy): Preservation and Economic Potential"
+}

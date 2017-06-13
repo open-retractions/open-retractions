@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1388448000000,"doi":"10.1016/j.tetasy.2013.09.013","type":"err"},"doi":"10.1016/j.tetasy.2013.07.003","journal":"Tetrahedron: Asymmetry","publisher":"Elsevier BV","title":"Corrigendum to “Stereoselective total synthesis of Jaspine B (Pachastrissamine) utilizing iodocyclization and an investigation of its cytotoxic activity” [Tetrahedron: Asymmetry 24 (2013) 903–908]"}
+{
+  "retracted": false,
+  "timestamp": 1388448000000,
+  "updates": [
+    {
+      "timestamp": 1495999043965,
+      "identifier": {
+        "doi": "10.1016/j.tetasy.2013.09.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetasy.2013.07.003"
+  },
+  "journal": "Tetrahedron: Asymmetry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Stereoselective total synthesis of Jaspine B (Pachastrissamine) utilizing iodocyclization and an investigation of its cytotoxic activity” [Tetrahedron: Asymmetry 24 (2013) 903–908]"
+}

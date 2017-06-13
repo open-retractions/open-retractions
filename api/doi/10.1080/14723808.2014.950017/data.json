@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408579200000,"doi":"10.1080/14723808.2014.951551","type":"correction"},"doi":"10.1080/14723808.2014.950017","journal":"Royal Musical Association Research Chronicle","publisher":"Informa UK Limited","title":"Publisher's Note"}
+{
+  "retracted": false,
+  "timestamp": 1408579200000,
+  "updates": [
+    {
+      "timestamp": 1496001919245,
+      "identifier": {
+        "doi": "10.1080/14723808.2014.951551"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/14723808.2014.950017"
+  },
+  "journal": "Royal Musical Association Research Chronicle",
+  "publisher": "Informa UK Limited",
+  "title": "Publisher's Note"
+}

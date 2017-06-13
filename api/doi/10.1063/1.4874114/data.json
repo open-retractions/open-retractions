@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1403481600000,"doi":"10.1063/1.4884128","type":"correction"},"doi":"10.1063/1.4874114","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Publisher's Note: “Photofragmentation spectra of halogenated methanes in the VUV photon energy range” [J. Chem. Phys. 140, 184307 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1403481600000,
+  "updates": [
+    {
+      "timestamp": 1496048132183,
+      "identifier": {
+        "doi": "10.1063/1.4884128"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4874114"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Publisher's Note: “Photofragmentation spectra of halogenated methanes in the VUV photon energy range” [J. Chem. Phys. 140, 184307 (2014)]"
+}

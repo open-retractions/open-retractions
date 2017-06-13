@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1016/j.jcpa.2016.08.002","type":"err"},"doi":"10.1016/j.jcpa.2016.05.003","journal":"Journal of Comparative Pathology","publisher":"Elsevier BV","title":"Corrigendum to “Histopathological Characterization of Tail Injury and Traumatic Neuroma Development after Tail Docking in Piglets” [J Comp Pathol 155 (1) (2016) 40–49]"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495741636526,
+      "identifier": {
+        "doi": "10.1016/j.jcpa.2016.08.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jcpa.2016.05.003"
+  },
+  "journal": "Journal of Comparative Pathology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Histopathological Characterization of Tail Injury and Traumatic Neuroma Development after Tail Docking in Piglets” [J Comp Pathol 155 (1) (2016) 40–49]"
+}

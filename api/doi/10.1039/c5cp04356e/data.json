@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1445299200000,"doi":"10.1039/c5cp90186c","type":"correction"},"doi":"10.1039/c5cp04356e","journal":"Phys. Chem. Chem. Phys.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Oxygen reduction and oxygen evolution in DMSO based electrolytes: the role of the electrocatalyst"}
+{
+  "retracted": false,
+  "timestamp": 1445299200000,
+  "updates": [
+    {
+      "timestamp": 1496038976968,
+      "identifier": {
+        "doi": "10.1039/c5cp90186c"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cp04356e"
+  },
+  "journal": "Phys. Chem. Chem. Phys.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Oxygen reduction and oxygen evolution in DMSO based electrolytes: the role of the electrocatalyst"
+}

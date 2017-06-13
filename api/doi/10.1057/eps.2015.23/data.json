@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439769600000,"doi":"10.1057/eps.2015.51","type":"correction"},"doi":"10.1057/eps.2015.23","journal":"European Political Science","publisher":"Springer Nature","title":"Erratum: Addendum"}
+{
+  "retracted": false,
+  "timestamp": 1439769600000,
+  "updates": [
+    {
+      "timestamp": 1496022063283,
+      "identifier": {
+        "doi": "10.1057/eps.2015.51"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/eps.2015.23"
+  },
+  "journal": "European Political Science",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Addendum"
+}

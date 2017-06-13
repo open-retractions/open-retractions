@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1311120000000,"doi":"10.1371/annotation/0931760c-95fa-441c-a797-7b410a4c9326","type":"correction"},"doi":"10.1371/journal.pmed.1001045","journal":"PLoS Medicine","publisher":"Public Library of Science (PLoS)","title":"Correction: More and Better Information to Tackle HIV Epidemics: Towards Improved HIV Incidence Assays"}
+{
+  "retracted": false,
+  "timestamp": 1311120000000,
+  "updates": [
+    {
+      "timestamp": 1496023932944,
+      "identifier": {
+        "doi": "10.1371/annotation/0931760c-95fa-441c-a797-7b410a4c9326"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pmed.1001045"
+  },
+  "journal": "PLoS Medicine",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: More and Better Information to Tackle HIV Epidemics: Towards Improved HIV Incidence Assays"
+}

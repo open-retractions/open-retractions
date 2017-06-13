@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.bbabio.2015.01.008","type":"erratum"},"doi":"10.1016/j.bbabio.2009.03.013","journal":"Biochimica et Biophysica Acta (BBA) - Bioenergetics","publisher":"Elsevier BV","title":"Corrigendum to “Postconditioning induces an anti-apoptotic effect and preserves mitochondrial integrity in isolated rat hearts” [Biochim. Biophys. Acta. 1787 (2009) 794–801]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496038851414,
+      "identifier": {
+        "doi": "10.1016/j.bbabio.2015.01.008"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbabio.2009.03.013"
+  },
+  "journal": "Biochimica et Biophysica Acta (BBA) - Bioenergetics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Postconditioning induces an anti-apoptotic effect and preserves mitochondrial integrity in isolated rat hearts” [Biochim. Biophys. Acta. 1787 (2009) 794–801]"
+}

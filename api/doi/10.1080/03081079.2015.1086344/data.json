@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1460332800000,"doi":"10.1080/03081079.2016.1165493","type":"correction"},"doi":"10.1080/03081079.2015.1086344","journal":"International Journal of General Systems","publisher":"Informa UK Limited","title":"Correction to: Ait Sahed et al., An efficient artificial bee colony algorithm with application to nonlinear predictive control"}
+{
+  "retracted": false,
+  "timestamp": 1460332800000,
+  "updates": [
+    {
+      "timestamp": 1495665653502,
+      "identifier": {
+        "doi": "10.1080/03081079.2016.1165493"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03081079.2015.1086344"
+  },
+  "journal": "International Journal of General Systems",
+  "publisher": "Informa UK Limited",
+  "title": "Correction to: Ait Sahed et al., An efficient artificial bee colony algorithm with application to nonlinear predictive control"
+}

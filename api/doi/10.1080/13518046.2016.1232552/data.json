@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485129600000,"doi":"10.1080/13518046.2017.1270061","type":"correction"},"doi":"10.1080/13518046.2016.1232552","journal":"The Journal of Slavic Military Studies","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1485129600000,
+  "updates": [
+    {
+      "timestamp": 1495678148847,
+      "identifier": {
+        "doi": "10.1080/13518046.2017.1270061"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/13518046.2016.1232552"
+  },
+  "journal": "The Journal of Slavic Military Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

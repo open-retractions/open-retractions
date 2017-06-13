@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1145923200000,"doi":"10.1073/pnas.1300338110","type":"correction"},"doi":"10.1073/pnas.0601989103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gururaj et al., MTA1, a transcriptional activator of breast cancer amplified sequence 3"}
+{
+  "retracted": false,
+  "timestamp": 1145923200000,
+  "updates": [
+    {
+      "timestamp": 1495991376249,
+      "identifier": {
+        "doi": "10.1073/pnas.1300338110"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0601989103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gururaj et al., MTA1, a transcriptional activator of breast cancer amplified sequence 3"
+}

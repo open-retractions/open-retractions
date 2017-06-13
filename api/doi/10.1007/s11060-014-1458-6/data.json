@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1402012800000,"doi":"10.1007/s11060-014-1491-5","type":"correction"},"doi":"10.1007/s11060-014-1458-6","journal":"Journal of Neuro-Oncology","publisher":"Springer Nature","title":"Erratum to: Overexpression and constitutive nuclear localization of cohesin protease Separase protein correlates with high incidence of relapse and reduced overall survival in glioblastoma multiforme"}
+{
+  "retracted": false,
+  "timestamp": 1402012800000,
+  "updates": [
+    {
+      "timestamp": 1496043948320,
+      "identifier": {
+        "doi": "10.1007/s11060-014-1491-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11060-014-1458-6"
+  },
+  "journal": "Journal of Neuro-Oncology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Overexpression and constitutive nuclear localization of cohesin protease Separase protein correlates with high incidence of relapse and reduced overall survival in glioblastoma multiforme"
+}

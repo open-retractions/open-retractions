@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1262304000000,"doi":"10.1118/1.3266686","type":"erratum"},"doi":"10.1118/1.3121505","journal":"Medical Physics","publisher":"Wiley-Blackwell","title":"Erratum: “An exposure indicator for digital radiography: AAPM Task Group 116 (Executive Summary)” [Med. Phys. 36, 2898-2914 (2009)]"}
+{
+  "retracted": false,
+  "timestamp": 1262304000000,
+  "updates": [
+    {
+      "timestamp": 1495810989650,
+      "identifier": {
+        "doi": "10.1118/1.3266686"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1118/1.3121505"
+  },
+  "journal": "Medical Physics",
+  "publisher": "Wiley-Blackwell",
+  "title": "Erratum: “An exposure indicator for digital radiography: AAPM Task Group 116 (Executive Summary)” [Med. Phys. 36, 2898-2914 (2009)]"
+}

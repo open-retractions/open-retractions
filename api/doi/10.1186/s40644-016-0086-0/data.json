@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1476835200000,"doi":"10.1186/s40644-016-0094-0","type":"correction"},"doi":"10.1186/s40644-016-0086-0","journal":"Cancer Imaging","publisher":"Springer Nature","title":"Erratum to: A method to assess image quality for Low-dose PET: analysis of SNR, CNR, bias and image noise"}
+{
+  "retracted": false,
+  "timestamp": 1476835200000,
+  "updates": [
+    {
+      "timestamp": 1495649709388,
+      "identifier": {
+        "doi": "10.1186/s40644-016-0094-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40644-016-0086-0"
+  },
+  "journal": "Cancer Imaging",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A method to assess image quality for Low-dose PET: analysis of SNR, CNR, bias and image noise"
+}

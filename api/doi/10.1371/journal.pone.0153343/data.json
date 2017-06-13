@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1465776000000,"doi":"10.1371/journal.pone.0157804","type":"correction"},"doi":"10.1371/journal.pone.0153343","journal":"PLOS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Biokinetic Spectrum for Temperature"}
+{
+  "retracted": false,
+  "timestamp": 1465776000000,
+  "updates": [
+    {
+      "timestamp": 1495720228143,
+      "identifier": {
+        "doi": "10.1371/journal.pone.0157804"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0153343"
+  },
+  "journal": "PLOS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Biokinetic Spectrum for Temperature"
+}

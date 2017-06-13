@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1127779200000,"doi":"10.1073/pnas.0507239102","type":"correction"},"doi":"10.1073/pnas.0408482102","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for du Roure et al., Force mapping in epithelial cell migration, PNAS 2005 102:2390-2395"}
+{
+  "retracted": false,
+  "timestamp": 1127779200000,
+  "updates": [
+    {
+      "timestamp": 1495960589932,
+      "identifier": {
+        "doi": "10.1073/pnas.0507239102"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0408482102"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for du Roure et al., Force mapping in epithelial cell migration, PNAS 2005 102:2390-2395"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1408579200000,"doi":"10.1007/s00216-014-8046-7","type":"correction"},"doi":"10.1007/s00216-014-7990-6","journal":"Analytical and Bioanalytical Chemistry","publisher":"Springer Nature","title":"Erratum to: Evaluation of the operating parameters of the liquid sampling-atmospheric pressure glow discharge (LS-APGD) ionization source for elemental mass spectrometry"}
+{
+  "retracted": false,
+  "timestamp": 1408579200000,
+  "updates": [
+    {
+      "timestamp": 1496001664139,
+      "identifier": {
+        "doi": "10.1007/s00216-014-8046-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00216-014-7990-6"
+  },
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Evaluation of the operating parameters of the liquid sampling-atmospheric pressure glow discharge (LS-APGD) ionization source for elemental mass spectrometry"
+}

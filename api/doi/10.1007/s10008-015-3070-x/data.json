@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1484611200000,"doi":"10.1007/s10008-017-3510-x","type":"correction"},"doi":"10.1007/s10008-015-3070-x","journal":"Journal of Solid State Electrochemistry","publisher":"Springer Nature","title":"Erratum to: Chemical and electrochemical grafting of polythiophene onto poly(vinyl chloride): synthesis, characterization, and materials properties"}
+{
+  "retracted": false,
+  "timestamp": 1484611200000,
+  "updates": [
+    {
+      "timestamp": 1495676571358,
+      "identifier": {
+        "doi": "10.1007/s10008-017-3510-x"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10008-015-3070-x"
+  },
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Chemical and electrochemical grafting of polythiophene onto poly(vinyl chloride): synthesis, characterization, and materials properties"
+}

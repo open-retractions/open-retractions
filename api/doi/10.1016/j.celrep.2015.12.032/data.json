@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482192000000,"doi":"10.1016/j.celrep.2016.12.031","type":"erratum"},"doi":"10.1016/j.celrep.2015.12.032","journal":"Cell Reports","publisher":"Elsevier BV","title":"Cancer-Specific Synthetic Lethality between ATR and CHK1 Kinase Activities"}
+{
+  "retracted": false,
+  "timestamp": 1482192000000,
+  "updates": [
+    {
+      "timestamp": 1495668687354,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2016.12.031"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2015.12.032"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Cancer-Specific Synthetic Lethality between ATR and CHK1 Kinase Activities"
+}

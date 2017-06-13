@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1466726400000,"doi":"10.1007/s10600-016-1775-4","type":"correction"},"doi":"10.1007/s10600-016-1715-3","journal":"Chemistry of Natural Compounds","publisher":"Springer Nature","title":"Erratum to: Isolation of Biologically Active Constituents from Fruit of Elaeagnus angustifolia"}
+{
+  "retracted": false,
+  "timestamp": 1466726400000,
+  "updates": [
+    {
+      "timestamp": 1495722354871,
+      "identifier": {
+        "doi": "10.1007/s10600-016-1775-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s10600-016-1715-3"
+  },
+  "journal": "Chemistry of Natural Compounds",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Isolation of Biologically Active Constituents from Fruit of Elaeagnus angustifolia"
+}

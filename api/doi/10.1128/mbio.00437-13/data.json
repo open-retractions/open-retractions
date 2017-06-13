@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1128/mbio.01307-14","type":"correction"},"doi":"10.1128/mbio.00437-13","journal":"mBio","publisher":"American Society for Microbiology","title":"A Dysfunctional Tricarboxylic Acid Cycle Enhances Fitness of Staphylococcus epidermidis during  -Lactam Stress"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496043630217,
+      "identifier": {
+        "doi": "10.1128/mbio.01307-14"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1128/mbio.00437-13"
+  },
+  "journal": "mBio",
+  "publisher": "American Society for Microbiology",
+  "title": "A Dysfunctional Tricarboxylic Acid Cycle Enhances Fitness of Staphylococcus epidermidis during  -Lactam Stress"
+}

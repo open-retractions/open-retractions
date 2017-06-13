@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446076800000,"doi":"10.1080/08839514.2015.1104162","type":"correction"},"doi":"10.1080/08839514.2015.1071092","journal":"Applied Artificial Intelligence","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1446076800000,
+  "updates": [
+    {
+      "timestamp": 1496042281133,
+      "identifier": {
+        "doi": "10.1080/08839514.2015.1104162"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/08839514.2015.1071092"
+  },
+  "journal": "Applied Artificial Intelligence",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

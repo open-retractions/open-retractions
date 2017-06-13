@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1079568000000,"doi":"10.1186/1471-230x-4-6","type":"correction"},"doi":"10.1186/1471-230x-3-34","journal":"BMC Gastroenterology","publisher":"Springer Nature","title":"Erratum to: A novel mutation of the calcium sensing receptor gene is associated with chronic pancreatitis in a family with heterozygous SPINK1 mutations"}
+{
+  "retracted": false,
+  "timestamp": 1079568000000,
+  "updates": [
+    {
+      "timestamp": 1495810273160,
+      "identifier": {
+        "doi": "10.1186/1471-230x-4-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-230x-3-34"
+  },
+  "journal": "BMC Gastroenterology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A novel mutation of the calcium sensing receptor gene is associated with chronic pancreatitis in a family with heterozygous SPINK1 mutations"
+}

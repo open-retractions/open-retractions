@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1014768000000,"doi":"10.1007/s00330-002-1390-6","type":"correction"},"doi":"10.1007/s00330-001-1283-0","journal":"European Radiology","publisher":"Springer Nature","title":"Erratum to: Clinical evaluation of digital radiography based on a large-area cesium iodide-amorphous silicon flat-panel detector compared with screen-film radiography for skeletal system and abdomen"}
+{
+  "retracted": false,
+  "timestamp": 1014768000000,
+  "updates": [
+    {
+      "timestamp": 1495809284663,
+      "identifier": {
+        "doi": "10.1007/s00330-002-1390-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00330-001-1283-0"
+  },
+  "journal": "European Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Clinical evaluation of digital radiography based on a large-area cesium iodide-amorphous silicon flat-panel detector compared with screen-film radiography for skeletal system and abdomen"
+}

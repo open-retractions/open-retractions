@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1419033600000,"doi":"10.1186/s13029-014-0028-9","type":"correction"},"doi":"10.1186/1751-0473-9-9","journal":"Source Code for Biology and Medicine","publisher":"Springer Nature","title":"Erratum to: BatTool: an R package with GUI for assessing the effect of white-nose syndrome and other take events on Myotis spp. of bats"}
+{
+  "retracted": false,
+  "timestamp": 1419033600000,
+  "updates": [
+    {
+      "timestamp": 1496031980002,
+      "identifier": {
+        "doi": "10.1186/s13029-014-0028-9"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1751-0473-9-9"
+  },
+  "journal": "Source Code for Biology and Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: BatTool: an R package with GUI for assessing the effect of white-nose syndrome and other take events on Myotis spp. of bats"
+}

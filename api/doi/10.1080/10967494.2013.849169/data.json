@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393286400000,"doi":"10.1080/10967494.2014.872395","type":"correction"},"doi":"10.1080/10967494.2013.849169","journal":"International Public Management Journal","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1393286400000,
+  "updates": [
+    {
+      "timestamp": 1496017637535,
+      "identifier": {
+        "doi": "10.1080/10967494.2014.872395"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10967494.2013.849169"
+  },
+  "journal": "International Public Management Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

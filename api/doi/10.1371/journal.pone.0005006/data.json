@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1240963200000,"doi":"10.1371/annotation/657cd713-aaac-4ebb-80ad-3ec8dfb12b42","type":"correction"},"doi":"10.1371/journal.pone.0005006","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Phospholipid Scramblases 1 and 4 Are Cellular Receptors for the Secretory Leukocyte Protease Inhibitor and Interact with CD4 at the Plasma Membrane"}
+{
+  "retracted": false,
+  "timestamp": 1240963200000,
+  "updates": [
+    {
+      "timestamp": 1496025196304,
+      "identifier": {
+        "doi": "10.1371/annotation/657cd713-aaac-4ebb-80ad-3ec8dfb12b42"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0005006"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Phospholipid Scramblases 1 and 4 Are Cellular Receptors for the Secretory Leukocyte Protease Inhibitor and Interact with CD4 at the Plasma Membrane"
+}

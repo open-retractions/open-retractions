@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1364860800000,"doi":"10.1016/j.febslet.2013.02.026","type":"err"},"doi":"10.1016/j.febslet.2012.12.030","journal":"FEBS Letters","publisher":"Wiley-Blackwell","title":"Corrigendum to “Genome-wide characterization of the relationship between essential and TATA-containing genes” [FEBS Lett. 587(5) 2013 444-451]"}
+{
+  "retracted": false,
+  "timestamp": 1364860800000,
+  "updates": [
+    {
+      "timestamp": 1496000068142,
+      "identifier": {
+        "doi": "10.1016/j.febslet.2013.02.026"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.febslet.2012.12.030"
+  },
+  "journal": "FEBS Letters",
+  "publisher": "Wiley-Blackwell",
+  "title": "Corrigendum to “Genome-wide characterization of the relationship between essential and TATA-containing genes” [FEBS Lett. 587(5) 2013 444-451]"
+}

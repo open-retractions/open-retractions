@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.spl.2013.04.028","type":"err"},"doi":"10.1016/j.spl.2008.01.008","journal":"Statistics & Probability Letters","publisher":"Elsevier BV","title":"Corrigendum to “A note on scale mixtures of skew normal distribution” [Statist. Probab. Lett. 78 (2008) 1694–1701]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496018588968,
+      "identifier": {
+        "doi": "10.1016/j.spl.2013.04.028"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.spl.2008.01.008"
+  },
+  "journal": "Statistics & Probability Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A note on scale mixtures of skew normal distribution” [Statist. Probab. Lett. 78 (2008) 1694–1701]"
+}

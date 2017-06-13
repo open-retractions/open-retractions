@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443398400000,"doi":"10.1007/s00365-015-9309-z","type":"correction"},"doi":"10.1007/s00365-013-9192-4","journal":"Constructive Approximation","publisher":"Springer Nature","title":"Erratum to: On 2D Newest Vertex Bisection: Optimality of Mesh-Closure and $$H^1$$ H 1 -Stability of $$L_2$$ L 2 -Projection"}
+{
+  "retracted": false,
+  "timestamp": 1443398400000,
+  "updates": [
+    {
+      "timestamp": 1496033269302,
+      "identifier": {
+        "doi": "10.1007/s00365-015-9309-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00365-013-9192-4"
+  },
+  "journal": "Constructive Approximation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On 2D Newest Vertex Bisection: Optimality of Mesh-Closure and $$H^1$$ H 1 -Stability of $$L_2$$ L 2 -Projection"
+}

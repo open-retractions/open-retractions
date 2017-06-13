@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1290470400000,"doi":"10.1073/pnas.1106609108","type":"correction"},"doi":"10.1073/pnas.1011686107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ta et al., Structure-based development of a receptor activator of nuclear factor- B ligand (RANKL) inhibitor peptide and molecular basis for osteopetrosis"}
+{
+  "retracted": false,
+  "timestamp": 1290470400000,
+  "updates": [
+    {
+      "timestamp": 1495930742718,
+      "identifier": {
+        "doi": "10.1073/pnas.1106609108"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1011686107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ta et al., Structure-based development of a receptor activator of nuclear factor- B ligand (RANKL) inhibitor peptide and molecular basis for osteopetrosis"
+}

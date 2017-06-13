@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1447286400000,"doi":"10.1016/j.physletb.2015.09.007","type":"erratum"},"doi":"10.1016/s0370-2693(00)01251-x","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Determination of the superstring moduli from the higher-derivative terms” [Phys. Lett. B 495 (3–4) (2000) 401–406]"}
+{
+  "retracted": false,
+  "timestamp": 1447286400000,
+  "updates": [
+    {
+      "timestamp": 1496029084825,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2015.09.007"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0370-2693(00)01251-x"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Determination of the superstring moduli from the higher-derivative terms” [Phys. Lett. B 495 (3–4) (2000) 401–406]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1386892800000,"doi":"10.1371/annotation/bbb4d24d-2854-4be3-ab6b-5a2ac4c5ca8b","type":"correction"},"doi":"10.1371/journal.pone.0058804","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: A Small Set of Succinct Signature Patterns Distinguishes Chinese and Non-Chinese HIV-1 Genomes"}
+{
+  "retracted": false,
+  "timestamp": 1386892800000,
+  "updates": [
+    {
+      "timestamp": 1496004590974,
+      "identifier": {
+        "doi": "10.1371/annotation/bbb4d24d-2854-4be3-ab6b-5a2ac4c5ca8b"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0058804"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: A Small Set of Succinct Signature Patterns Distinguishes Chinese and Non-Chinese HIV-1 Genomes"
+}

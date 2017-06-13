@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462838400000,"doi":"10.1073/pnas.1605597113","type":"correction"},"doi":"10.1073/pnas.1518952113","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Beeby et al., Diverse high-torque bacterial flagellar motors assemble wider stator rings using a conserved protein scaffold"}
+{
+  "retracted": false,
+  "timestamp": 1462838400000,
+  "updates": [
+    {
+      "timestamp": 1495672593547,
+      "identifier": {
+        "doi": "10.1073/pnas.1605597113"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1518952113"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Beeby et al., Diverse high-torque bacterial flagellar motors assemble wider stator rings using a conserved protein scaffold"
+}

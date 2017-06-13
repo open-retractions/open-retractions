@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488326400000,"doi":"10.1016/j.tetlet.2017.01.050","type":"erratum"},"doi":"10.1016/j.tetlet.2017.01.004","journal":"Tetrahedron Letters","publisher":"Elsevier BV","title":"Corrigendum to “Copper-catalyzed chemoselective cross-coupling reaction of thioamides and α-diazocarbonyl compounds: Synthesis of enaminones” [Tetrahedron Lett. 58 (2017) 586–589]"}
+{
+  "retracted": false,
+  "timestamp": 1488326400000,
+  "updates": [
+    {
+      "timestamp": 1495678810736,
+      "identifier": {
+        "doi": "10.1016/j.tetlet.2017.01.050"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.tetlet.2017.01.004"
+  },
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Copper-catalyzed chemoselective cross-coupling reaction of thioamides and α-diazocarbonyl compounds: Synthesis of enaminones” [Tetrahedron Lett. 58 (2017) 586–589]"
+}

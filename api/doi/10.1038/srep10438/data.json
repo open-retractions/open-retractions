@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441152000000,"doi":"10.1038/srep13505","type":"correction"},"doi":"10.1038/srep10438","journal":"Scientific Reports","publisher":"Springer Nature","title":"Erratum: Erratum: A cross comparison of technologies for the detection of microRNAs in clinical FFPE samples of hepatoblastoma patients"}
+{
+  "retracted": false,
+  "timestamp": 1441152000000,
+  "updates": [
+    {
+      "timestamp": 1496026800205,
+      "identifier": {
+        "doi": "10.1038/srep13505"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1038/srep10438"
+  },
+  "journal": "Scientific Reports",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Erratum: A cross comparison of technologies for the detection of microRNAs in clinical FFPE samples of hepatoblastoma patients"
+}

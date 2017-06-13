@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453334400000,"doi":"10.1080/17415349.2016.1131382","type":"correction"},"doi":"10.1080/17415349.2015.1101358","journal":"Veterinary Nursing Journal","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1453334400000,
+  "updates": [
+    {
+      "timestamp": 1495638469032,
+      "identifier": {
+        "doi": "10.1080/17415349.2016.1131382"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/17415349.2015.1101358"
+  },
+  "journal": "Veterinary Nursing Journal",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

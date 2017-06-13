@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.actamat.2014.04.017","type":"erratum"},"doi":"10.1016/j.actamat.2012.08.032","journal":"Acta Materialia","publisher":"Elsevier BV","title":"Retraction notice to “Atomic scale interfacial and compositional characteristics of the σ and γ phases of Ni-based single crystal superalloys” [Acta Materialia 60 (2012) 6631–6640]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496037893771,
+      "identifier": {
+        "doi": "10.1016/j.actamat.2014.04.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.actamat.2012.08.032"
+  },
+  "journal": "Acta Materialia",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Atomic scale interfacial and compositional characteristics of the σ and γ phases of Ni-based single crystal superalloys” [Acta Materialia 60 (2012) 6631–6640]"
+}

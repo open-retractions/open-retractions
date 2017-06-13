@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478131200000,"doi":"10.1080/0028825x.2016.1252237","type":"correction"},"doi":"10.1080/0028825x.2016.1229343","journal":"New Zealand Journal of Botany","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1478131200000,
+  "updates": [
+    {
+      "timestamp": 1495654003462,
+      "identifier": {
+        "doi": "10.1080/0028825x.2016.1252237"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0028825x.2016.1229343"
+  },
+  "journal": "New Zealand Journal of Botany",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

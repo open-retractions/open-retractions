@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.jpedsurg.2014.08.023","type":"err"},"doi":"10.1016/j.jpedsurg.2014.08.008","journal":"Journal of Pediatric Surgery","publisher":"Elsevier BV","title":"Helicopter overtriage in pediatric trauma"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496011595240,
+      "identifier": {
+        "doi": "10.1016/j.jpedsurg.2014.08.023"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpedsurg.2014.08.008"
+  },
+  "journal": "Journal of Pediatric Surgery",
+  "publisher": "Elsevier BV",
+  "title": "Helicopter overtriage in pediatric trauma"
+}

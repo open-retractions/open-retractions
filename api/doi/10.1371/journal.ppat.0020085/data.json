@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1159488000000,"doi":"10.1371/journal.ppat.0020103","type":"correction"},"doi":"10.1371/journal.ppat.0020085","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Alpha-Herpesvirus Infection Induces the Formation of Nuclear Actin Filaments"}
+{
+  "retracted": false,
+  "timestamp": 1159488000000,
+  "updates": [
+    {
+      "timestamp": 1495867004163,
+      "identifier": {
+        "doi": "10.1371/journal.ppat.0020103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.0020085"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Alpha-Herpesvirus Infection Induces the Formation of Nuclear Actin Filaments"
+}

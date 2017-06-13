@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1249257600000,"doi":"10.1057/jors.2009.8","type":"correction"},"doi":"10.1057/palgrave.jors.2602198","journal":"Journal of the Operational Research Society","publisher":"Springer Nature","title":"Erratum: Forecasting both time varying MTBF of fighter aircraft module and expected demand of minor parts"}
+{
+  "retracted": false,
+  "timestamp": 1249257600000,
+  "updates": [
+    {
+      "timestamp": 1495932791235,
+      "identifier": {
+        "doi": "10.1057/jors.2009.8"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/palgrave.jors.2602198"
+  },
+  "journal": "Journal of the Operational Research Society",
+  "publisher": "Springer Nature",
+  "title": "Erratum: Forecasting both time varying MTBF of fighter aircraft module and expected demand of minor parts"
+}

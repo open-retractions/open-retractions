@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1201564800000,"doi":"10.1073/pnas.0809757105","type":"correction"},"doi":"10.1073/pnas.0710643105","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Meyer et al., Enzyme structure and dynamics affect hydrogen tunneling: The impact of a remote side chain (I553) in soybean lipoxygenase-1"}
+{
+  "retracted": false,
+  "timestamp": 1201564800000,
+  "updates": [
+    {
+      "timestamp": 1495893560634,
+      "identifier": {
+        "doi": "10.1073/pnas.0809757105"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0710643105"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Meyer et al., Enzyme structure and dynamics affect hydrogen tunneling: The impact of a remote side chain (I553) in soybean lipoxygenase-1"
+}

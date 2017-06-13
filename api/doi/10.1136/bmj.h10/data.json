@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420502400000,"doi":"10.1136/bmj.h67","type":"correction"},"doi":"10.1136/bmj.h10","journal":"BMJ","publisher":"BMJ","title":"Newborns in England are screened for four extra genetic conditions"}
+{
+  "retracted": false,
+  "timestamp": 1420502400000,
+  "updates": [
+    {
+      "timestamp": 1496034806399,
+      "identifier": {
+        "doi": "10.1136/bmj.h67"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/bmj.h10"
+  },
+  "journal": "BMJ",
+  "publisher": "BMJ",
+  "title": "Newborns in England are screened for four extra genetic conditions"
+}

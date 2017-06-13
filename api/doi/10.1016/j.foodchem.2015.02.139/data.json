@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.foodchem.2016.03.090","type":"err"},"doi":"10.1016/j.foodchem.2015.02.139","journal":"Food Chemistry","publisher":"Elsevier BV","title":"Corrigendum to “Novel liquid chromatography–mass spectrometry method for sensitive determination of the mustard allergen Sin a 1 in food” [Food Chem. 183 (2015) 58–63]"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495661062465,
+      "identifier": {
+        "doi": "10.1016/j.foodchem.2016.03.090"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.foodchem.2015.02.139"
+  },
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Novel liquid chromatography–mass spectrometry method for sensitive determination of the mustard allergen Sin a 1 in food” [Food Chem. 183 (2015) 58–63]"
+}

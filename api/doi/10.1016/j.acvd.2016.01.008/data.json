@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.acvd.2016.10.001","type":"err"},"doi":"10.1016/j.acvd.2016.01.008","journal":"Archives of Cardiovascular Diseases","publisher":"Elsevier BV","title":"Erratum to “Direct oral anticoagulant use and stent thrombosis following an acute coronary syndrome: A potential new pharmacological option?” [Arch. Cardiol. Dis. 109 (5) (2016) 359–369]"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495659944469,
+      "identifier": {
+        "doi": "10.1016/j.acvd.2016.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.acvd.2016.01.008"
+  },
+  "journal": "Archives of Cardiovascular Diseases",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Direct oral anticoagulant use and stent thrombosis following an acute coronary syndrome: A potential new pharmacological option?” [Arch. Cardiol. Dis. 109 (5) (2016) 359–369]"
+}

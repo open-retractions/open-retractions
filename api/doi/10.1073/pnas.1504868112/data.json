@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436832000000,"doi":"10.1073/pnas.1511770112","type":"correction"},"doi":"10.1073/pnas.1504868112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Gursoy-Yuzugullu et al., Histone chaperone Anp32e removes H2A.Z from DNA double-strand breaks and promotes nucleosome reorganization and DNA repair"}
+{
+  "retracted": false,
+  "timestamp": 1436832000000,
+  "updates": [
+    {
+      "timestamp": 1496010548621,
+      "identifier": {
+        "doi": "10.1073/pnas.1511770112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1504868112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Gursoy-Yuzugullu et al., Histone chaperone Anp32e removes H2A.Z from DNA double-strand breaks and promotes nucleosome reorganization and DNA repair"
+}

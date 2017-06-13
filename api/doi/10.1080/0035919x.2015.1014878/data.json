@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1080/0035919x.2015.1092261","type":"correction"},"doi":"10.1080/0035919x.2015.1014878","journal":"Transactions of the Royal Society of South Africa","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496034262017,
+      "identifier": {
+        "doi": "10.1080/0035919x.2015.1092261"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/0035919x.2015.1014878"
+  },
+  "journal": "Transactions of the Royal Society of South Africa",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1427846400000,"doi":"10.1016/j.cossms.2014.09.004","type":"err"},"doi":"10.1016/j.cossms.2013.09.003","journal":"Current Opinion in Solid State and Materials Science","publisher":"Elsevier BV","title":"Corrigendum to “On the current role of atom probe tomography in materials characterization and materials science” [Current Opinion Solid State Mater. Sci. 17/5 (2014) 217–223]"}
+{
+  "retracted": false,
+  "timestamp": 1427846400000,
+  "updates": [
+    {
+      "timestamp": 1496013233539,
+      "identifier": {
+        "doi": "10.1016/j.cossms.2014.09.004"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cossms.2013.09.003"
+  },
+  "journal": "Current Opinion in Solid State and Materials Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “On the current role of atom probe tomography in materials characterization and materials science” [Current Opinion Solid State Mater. Sci. 17/5 (2014) 217–223]"
+}

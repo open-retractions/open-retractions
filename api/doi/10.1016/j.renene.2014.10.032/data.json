@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1433116800000,"doi":"10.1016/j.renene.2015.01.051","type":"err"},"doi":"10.1016/j.renene.2014.10.032","journal":"Renewable Energy","publisher":"Elsevier BV","title":"Corrigendum to “Results of fly ash quality for disposal options from high thermal shares up to pure biomass combustion in a pilot-scale and large scale pulverized fuel power plants” [Renew Energy 75 (2015) 899–910]"}
+{
+  "retracted": false,
+  "timestamp": 1433116800000,
+  "updates": [
+    {
+      "timestamp": 1496044106174,
+      "identifier": {
+        "doi": "10.1016/j.renene.2015.01.051"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.renene.2014.10.032"
+  },
+  "journal": "Renewable Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Results of fly ash quality for disposal options from high thermal shares up to pure biomass combustion in a pilot-scale and large scale pulverized fuel power plants” [Renew Energy 75 (2015) 899–910]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1294617600000,"doi":"10.1186/1471-2164-12-16","type":"correction"},"doi":"10.1186/1471-2164-11-620","journal":"BMC Genomics","publisher":"Springer Nature","title":"Erratum to: Identification and analysis of the germin-like gene family in soybean"}
+{
+  "retracted": false,
+  "timestamp": 1294617600000,
+  "updates": [
+    {
+      "timestamp": 1495919885095,
+      "identifier": {
+        "doi": "10.1186/1471-2164-12-16"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2164-11-620"
+  },
+  "journal": "BMC Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Identification and analysis of the germin-like gene family in soybean"
+}

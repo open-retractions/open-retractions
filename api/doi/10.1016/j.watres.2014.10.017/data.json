@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1425168000000,"doi":"10.1016/j.watres.2014.12.045","type":"err"},"doi":"10.1016/j.watres.2014.10.017","journal":"Water Research","publisher":"Elsevier BV","title":"Corrigendum to “Ozonation of indigo enhanced by carboxylated carbon nanotubes: Performance optimization, degradation products, catalytic mechanism and toxicity evaluation” [Water Res. 68 (2014) 316–327]"}
+{
+  "retracted": false,
+  "timestamp": 1425168000000,
+  "updates": [
+    {
+      "timestamp": 1496035811637,
+      "identifier": {
+        "doi": "10.1016/j.watres.2014.12.045"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.watres.2014.10.017"
+  },
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ozonation of indigo enhanced by carboxylated carbon nanotubes: Performance optimization, degradation products, catalytic mechanism and toxicity evaluation” [Water Res. 68 (2014) 316–327]"
+}

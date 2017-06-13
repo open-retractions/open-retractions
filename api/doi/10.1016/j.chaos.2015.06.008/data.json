@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1441065600000,"doi":"10.1016/j.chaos.2015.07.010","type":"erratum"},"doi":"10.1016/j.chaos.2015.06.008","journal":"Chaos, Solitons & Fractals","publisher":"Elsevier BV","title":"Corrigendum to “Investigation of positive solution to a coupled system of impulsive boundary value problems for nonlinear fractional order differential equations” [Chaos, Solitons & Fractals Volume 77, August 2015, Pages 240–246]"}
+{
+  "retracted": false,
+  "timestamp": 1441065600000,
+  "updates": [
+    {
+      "timestamp": 1496021080278,
+      "identifier": {
+        "doi": "10.1016/j.chaos.2015.07.010"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chaos.2015.06.008"
+  },
+  "journal": "Chaos, Solitons & Fractals",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Investigation of positive solution to a coupled system of impulsive boundary value problems for nonlinear fractional order differential equations” [Chaos, Solitons & Fractals Volume 77, August 2015, Pages 240–246]"
+}

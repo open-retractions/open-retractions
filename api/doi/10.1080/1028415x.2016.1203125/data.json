@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469404800000,"doi":"10.1080/1028415x.2016.1214398","type":"correction"},"doi":"10.1080/1028415x.2016.1203125","journal":"Nutritional Neuroscience","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1469404800000,
+  "updates": [
+    {
+      "timestamp": 1495731690447,
+      "identifier": {
+        "doi": "10.1080/1028415x.2016.1214398"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/1028415x.2016.1203125"
+  },
+  "journal": "Nutritional Neuroscience",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

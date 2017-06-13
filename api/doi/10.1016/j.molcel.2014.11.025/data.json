@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434585600000,"doi":"10.1016/j.molcel.2015.06.015","type":"erratum"},"doi":"10.1016/j.molcel.2014.11.025","journal":"Molecular Cell","publisher":"Elsevier BV","title":"Erratum: Adaptive Regulation of Testis Gene Expression and Control of Male Fertility by the Drosophila Hairpin RNA Pathway"}
+{
+  "retracted": false,
+  "timestamp": 1434585600000,
+  "updates": [
+    {
+      "timestamp": 1496008933542,
+      "identifier": {
+        "doi": "10.1016/j.molcel.2015.06.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.molcel.2014.11.025"
+  },
+  "journal": "Molecular Cell",
+  "publisher": "Elsevier BV",
+  "title": "Erratum: Adaptive Regulation of Testis Gene Expression and Control of Male Fertility by the Drosophila Hairpin RNA Pathway"
+}

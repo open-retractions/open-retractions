@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1409184000000,"doi":"10.1016/j.tcs.2014.06.011","type":"err"},"doi":"10.1016/s0304-3975(98)00252-7","journal":"Theoretical Computer Science","publisher":"Elsevier BV","title":"Corrigendum to “The exact number of squares in Fibonacci words” [Theoret. Comput. Sci. 218 (1) (1999) 95–106]"}
+{
+  "retracted": false,
+  "timestamp": 1409184000000,
+  "updates": [
+    {
+      "timestamp": 1496047247931,
+      "identifier": {
+        "doi": "10.1016/j.tcs.2014.06.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/s0304-3975(98)00252-7"
+  },
+  "journal": "Theoretical Computer Science",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “The exact number of squares in Fibonacci words” [Theoret. Comput. Sci. 218 (1) (1999) 95–106]"
+}

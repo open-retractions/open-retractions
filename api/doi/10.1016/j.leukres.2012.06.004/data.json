@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.leukres.2013.07.031","type":"err"},"doi":"10.1016/j.leukres.2012.06.004","journal":"Leukemia Research","publisher":"Elsevier BV","title":"Corrigendum to “Atypical presentation of anaplastic large T-cell lymphoma mimicking an articular relapse of rheumatoid arthritis in a patient treated with etanercept. A case report and literature review” [Leuk. Res. 36 (2012) e199–e201]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496040802162,
+      "identifier": {
+        "doi": "10.1016/j.leukres.2013.07.031"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.leukres.2012.06.004"
+  },
+  "journal": "Leukemia Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Atypical presentation of anaplastic large T-cell lymphoma mimicking an articular relapse of rheumatoid arthritis in a patient treated with etanercept. A case report and literature review” [Leuk. Res. 36 (2012) e199–e201]"
+}

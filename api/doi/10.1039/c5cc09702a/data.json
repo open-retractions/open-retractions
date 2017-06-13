@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1453420800000,"doi":"10.1039/c6cc90043g","type":"correction"},"doi":"10.1039/c5cc09702a","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: An ambipolar organic field-effect transistor based on an AIE-active single crystal with a high mobility level of 2.0 cm2V−1s−1"}
+{
+  "retracted": false,
+  "timestamp": 1453420800000,
+  "updates": [
+    {
+      "timestamp": 1495638866817,
+      "identifier": {
+        "doi": "10.1039/c6cc90043g"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cc09702a"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: An ambipolar organic field-effect transistor based on an AIE-active single crystal with a high mobility level of 2.0 cm2V−1s−1"
+}

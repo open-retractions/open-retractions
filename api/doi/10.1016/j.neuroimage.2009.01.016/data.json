@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1373846400000,"doi":"10.1016/j.neuroimage.2012.12.027","type":"err"},"doi":"10.1016/j.neuroimage.2009.01.016","journal":"NeuroImage","publisher":"Elsevier BV","title":"Corrigendum to “Tuning down the emotional brain: An fMRI study of the effects of cognitive load on the processing of affective images” [NeuroImage 45/4(May 1, 2009) 1212–1219]"}
+{
+  "retracted": false,
+  "timestamp": 1373846400000,
+  "updates": [
+    {
+      "timestamp": 1495982106817,
+      "identifier": {
+        "doi": "10.1016/j.neuroimage.2012.12.027"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuroimage.2009.01.016"
+  },
+  "journal": "NeuroImage",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Tuning down the emotional brain: An fMRI study of the effects of cognitive load on the processing of affective images” [NeuroImage 45/4(May 1, 2009) 1212–1219]"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393545600000,"doi":"10.1080/03066150.2014.899075","type":"correction"},"doi":"10.1080/03066150.2013.801341","journal":"The Journal of Peasant Studies","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1393545600000,
+  "updates": [
+    {
+      "timestamp": 1496021762281,
+      "identifier": {
+        "doi": "10.1080/03066150.2014.899075"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/03066150.2013.801341"
+  },
+  "journal": "The Journal of Peasant Studies",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

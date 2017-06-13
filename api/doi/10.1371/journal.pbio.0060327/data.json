@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1244160000000,"doi":"10.1371/annotation/897f96fc-db2e-4ee5-b77b-4ad95768da47","type":"correction"},"doi":"10.1371/journal.pbio.0060327","journal":"PLoS Biology","publisher":"Public Library of Science (PLoS)","title":"Correction: BEAF Regulates Cell-Cycle Genes through the Controlled Deposition of H3K9 Methylation Marks into Its Conserved Dual-Core Binding Sites"}
+{
+  "retracted": false,
+  "timestamp": 1244160000000,
+  "updates": [
+    {
+      "timestamp": 1496023930166,
+      "identifier": {
+        "doi": "10.1371/annotation/897f96fc-db2e-4ee5-b77b-4ad95768da47"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pbio.0060327"
+  },
+  "journal": "PLoS Biology",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: BEAF Regulates Cell-Cycle Genes through the Controlled Deposition of H3K9 Methylation Marks into Its Conserved Dual-Core Binding Sites"
+}

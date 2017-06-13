@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1440460800000,"doi":"10.1186/s12888-015-0581-z","type":"correction"},"doi":"10.1186/1471-244x-13-237","journal":"BMC Psychiatry","publisher":"Springer Nature","title":"Erratum to: Long-acting methylphenidate formulations in the treatment of attention-deficit/hyperactivity disorder: a systematic review of head-to-head studies"}
+{
+  "retracted": false,
+  "timestamp": 1440460800000,
+  "updates": [
+    {
+      "timestamp": 1496024956762,
+      "identifier": {
+        "doi": "10.1186/s12888-015-0581-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-244x-13-237"
+  },
+  "journal": "BMC Psychiatry",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Long-acting methylphenidate formulations in the treatment of attention-deficit/hyperactivity disorder: a systematic review of head-to-head studies"
+}

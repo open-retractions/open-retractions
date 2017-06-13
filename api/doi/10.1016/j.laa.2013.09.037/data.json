@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.laa.2014.03.044","type":"err"},"doi":"10.1016/j.laa.2013.09.037","journal":"Linear Algebra and its Applications","publisher":"Elsevier BV","title":"Corrigendum to “Jordan homomorphisms of upper triangular matrix rings” [Linear Algebra Appl. 439 (12) (2013) 4063–4069]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496035028687,
+      "identifier": {
+        "doi": "10.1016/j.laa.2014.03.044"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.laa.2013.09.037"
+  },
+  "journal": "Linear Algebra and its Applications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Jordan homomorphisms of upper triangular matrix rings” [Linear Algebra Appl. 439 (12) (2013) 4063–4069]"
+}

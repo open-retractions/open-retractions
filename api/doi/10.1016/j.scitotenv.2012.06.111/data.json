@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1393632000000,"doi":"10.1016/j.scitotenv.2013.12.117","type":"err"},"doi":"10.1016/j.scitotenv.2012.06.111","journal":"Science of The Total Environment","publisher":"Elsevier BV","title":"Corrigendum to “36year trends in dissolved organic carbon export from Finnish rivers to the Baltic Sea” [Sci. Total Environ. 435–436(2012) 188–201]"}
+{
+  "retracted": false,
+  "timestamp": 1393632000000,
+  "updates": [
+    {
+      "timestamp": 1496012067099,
+      "identifier": {
+        "doi": "10.1016/j.scitotenv.2013.12.117"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.scitotenv.2012.06.111"
+  },
+  "journal": "Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “36year trends in dissolved organic carbon export from Finnish rivers to the Baltic Sea” [Sci. Total Environ. 435–436(2012) 188–201]"
+}

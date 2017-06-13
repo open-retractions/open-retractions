@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1442275200000,"doi":"10.1016/j.wear.2015.07.001","type":"err"},"doi":"10.1016/j.wear.2015.01.043","journal":"Wear","publisher":"Elsevier BV","title":"Corrigendum to ‘Erosion-corrosion behaviour of cold-spray nanostructured Ni–20Cr coatings in actual boiler environment’ [Wear 332–333 (2015) 1035–1043]"}
+{
+  "retracted": false,
+  "timestamp": 1442275200000,
+  "updates": [
+    {
+      "timestamp": 1496016394422,
+      "identifier": {
+        "doi": "10.1016/j.wear.2015.07.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.wear.2015.01.043"
+  },
+  "journal": "Wear",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘Erosion-corrosion behaviour of cold-spray nanostructured Ni–20Cr coatings in actual boiler environment’ [Wear 332–333 (2015) 1035–1043]"
+}

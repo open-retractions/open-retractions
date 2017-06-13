@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1456790400000,"doi":"10.1016/j.chb.2015.06.033","type":"err"},"doi":"10.1016/j.chb.2015.03.071","journal":"Computers in Human Behavior","publisher":"Elsevier BV","title":"Corrigendum to “Multidimensional modelling of quality of experience for mobile Web browsing” [Comput. Hum. Behav. 50 (2015) 314–332]"}
+{
+  "retracted": false,
+  "timestamp": 1456790400000,
+  "updates": [
+    {
+      "timestamp": 1496013548081,
+      "identifier": {
+        "doi": "10.1016/j.chb.2015.06.033"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.chb.2015.03.071"
+  },
+  "journal": "Computers in Human Behavior",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Multidimensional modelling of quality of experience for mobile Web browsing” [Comput. Hum. Behav. 50 (2015) 314–332]"
+}

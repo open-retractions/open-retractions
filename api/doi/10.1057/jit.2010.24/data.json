@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1291161600000,"doi":"10.1057/jit.2010.35","type":"correction"},"doi":"10.1057/jit.2010.24","journal":"Journal of Information Technology","publisher":"Springer Nature","title":"Retrospect and prospect: information systems in the last and next 25 years: response and extension"}
+{
+  "retracted": false,
+  "timestamp": 1291161600000,
+  "updates": [
+    {
+      "timestamp": 1495896130390,
+      "identifier": {
+        "doi": "10.1057/jit.2010.35"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1057/jit.2010.24"
+  },
+  "publisher": "Springer Nature",
+  "title": "Retrospect and prospect: information systems in the last and next 25 years: response and extension"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446681600000,"doi":"10.1080/19336950.2015.1089118","type":"correction"},"doi":"10.1080/19336950.2015.1050163","journal":"Channels","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1446681600000,
+  "updates": [
+    {
+      "timestamp": 1496043902218,
+      "identifier": {
+        "doi": "10.1080/19336950.2015.1089118"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/19336950.2015.1050163"
+  },
+  "journal": "Channels",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1446336000000,"doi":"10.1016/j.mcn.2015.11.001","type":"err"},"doi":"10.1016/j.mcn.2015.09.002","journal":"Molecular and Cellular Neuroscience","publisher":"Elsevier BV","title":"Corrigendum to “Nicotine recruits glutamate receptors to postsynaptic sites” [Molecular and Cellular Neuroscience (68) (2015) 340–349]"}
+{
+  "retracted": false,
+  "timestamp": 1446336000000,
+  "updates": [
+    {
+      "timestamp": 1496044754167,
+      "identifier": {
+        "doi": "10.1016/j.mcn.2015.11.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mcn.2015.09.002"
+  },
+  "journal": "Molecular and Cellular Neuroscience",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nicotine recruits glutamate receptors to postsynaptic sites” [Molecular and Cellular Neuroscience (68) (2015) 340–349]"
+}

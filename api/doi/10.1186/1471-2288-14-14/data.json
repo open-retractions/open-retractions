@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1478649600000,"doi":"10.1186/s12874-016-0256-6","type":"correction"},"doi":"10.1186/1471-2288-14-14","journal":"BMC Medical Research Methodology","publisher":"Springer Nature","title":"Erratum to: A Monte Carlo simulation study comparing linear regression, beta regression, variable-dispersion beta regression and fractional logit regression at recovering average difference measures in a two sample design"}
+{
+  "retracted": false,
+  "timestamp": 1478649600000,
+  "updates": [
+    {
+      "timestamp": 1495656034893,
+      "identifier": {
+        "doi": "10.1186/s12874-016-0256-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/1471-2288-14-14"
+  },
+  "journal": "BMC Medical Research Methodology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A Monte Carlo simulation study comparing linear regression, beta regression, variable-dispersion beta regression and fractional logit regression at recovering average difference measures in a two sample design"
+}

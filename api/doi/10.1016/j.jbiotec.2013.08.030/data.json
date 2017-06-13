@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452384000000,"doi":"10.1016/j.jbiotec.2015.11.020","type":"err"},"doi":"10.1016/j.jbiotec.2013.08.030","journal":"Journal of Biotechnology","publisher":"Elsevier BV","title":"Corrigendum to “Enantiopure dihalocyclopropyl alcohols and esters by lipase catalyzed kinetic resolution’’ [J. Biotechnol. 168 (2013) 284–288]"}
+{
+  "retracted": false,
+  "timestamp": 1452384000000,
+  "updates": [
+    {
+      "timestamp": 1496052611949,
+      "identifier": {
+        "doi": "10.1016/j.jbiotec.2015.11.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jbiotec.2013.08.030"
+  },
+  "journal": "Journal of Biotechnology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Enantiopure dihalocyclopropyl alcohols and esters by lipase catalyzed kinetic resolution’’ [J. Biotechnol. 168 (2013) 284–288]"
+}

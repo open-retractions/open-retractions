@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1199145600000,"doi":"10.1107/s1744309107065566","type":"correction"},"doi":"10.1107/s1744309106039844","journal":"Acta Crystallographica Section F Structural Biology and Crystallization Communications","publisher":"International Union of Crystallography (IUCr)","title":"Cloning, expression, purification, crystallization and preliminary X-ray diffraction analysis of DapA (Rv2753c) fromMycobacterium tuberculosis. Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1199145600000,
+  "updates": [
+    {
+      "timestamp": 1495813537170,
+      "identifier": {
+        "doi": "10.1107/s1744309107065566"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1107/s1744309106039844"
+  },
+  "journal": "Acta Crystallographica Section F Structural Biology and Crystallization Communications",
+  "publisher": "International Union of Crystallography (IUCr)",
+  "title": "Cloning, expression, purification, crystallization and preliminary X-ray diffraction analysis of DapA (Rv2753c) fromMycobacterium tuberculosis. Corrigendum"
+}

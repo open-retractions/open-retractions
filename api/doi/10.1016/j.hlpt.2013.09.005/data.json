@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1417392000000,"doi":"10.1016/j.hlpt.2014.08.011","type":"err"},"doi":"10.1016/j.hlpt.2013.09.005","journal":"Health Policy and Technology","publisher":"Elsevier BV","title":"Erratum to “Pharmaceutical innovation and longevity growth in 30 developing and high-income countries, 2000–2009” [Health Policy Technol. 3 (2014) 36–58]"}
+{
+  "retracted": false,
+  "timestamp": 1417392000000,
+  "updates": [
+    {
+      "timestamp": 1496005611434,
+      "identifier": {
+        "doi": "10.1016/j.hlpt.2014.08.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.hlpt.2013.09.005"
+  },
+  "journal": "Health Policy and Technology",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Pharmaceutical innovation and longevity growth in 30 developing and high-income countries, 2000–2009” [Health Policy Technol. 3 (2014) 36–58]"
+}

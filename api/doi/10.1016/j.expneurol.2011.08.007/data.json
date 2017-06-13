@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1414800000000,"doi":"10.1016/j.expneurol.2014.08.008","type":"err"},"doi":"10.1016/j.expneurol.2011.08.007","journal":"Experimental Neurology","publisher":"Elsevier BV","title":"Corrigendum to “Nitro-oleic acid targets transient receptor potential (TRP) channels in capsaicin sensitive afferent nerves of rat urinary bladder” [Exp. Neurol. 232 (2011) 90–99]"}
+{
+  "retracted": false,
+  "timestamp": 1414800000000,
+  "updates": [
+    {
+      "timestamp": 1496001675865,
+      "identifier": {
+        "doi": "10.1016/j.expneurol.2014.08.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.expneurol.2011.08.007"
+  },
+  "journal": "Experimental Neurology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Nitro-oleic acid targets transient receptor potential (TRP) channels in capsaicin sensitive afferent nerves of rat urinary bladder” [Exp. Neurol. 232 (2011) 90–99]"
+}

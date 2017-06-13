@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459468800000,"doi":"10.1186/s12974-016-0535-5","type":"correction"},"doi":"10.1186/s12974-015-0449-7","journal":"Journal of Neuroinflammation","publisher":"Springer Nature","title":"Erratum to: Leucine-rich repeat kinase 2 positively regulates inflammation and down-regulates NF-κB p50 signaling in cultured microglia cells"}
+{
+  "retracted": false,
+  "timestamp": 1459468800000,
+  "updates": [
+    {
+      "timestamp": 1495661329089,
+      "identifier": {
+        "doi": "10.1186/s12974-016-0535-5"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12974-015-0449-7"
+  },
+  "journal": "Journal of Neuroinflammation",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Leucine-rich repeat kinase 2 positively regulates inflammation and down-regulates NF-κB p50 signaling in cultured microglia cells"
+}

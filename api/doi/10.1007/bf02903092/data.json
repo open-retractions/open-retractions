@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":589075200000,"doi":"10.1007/bf02712160","type":"correction"},"doi":"10.1007/bf02903092","journal":"Journal of Biosciences","publisher":"Springer Nature","title":"Erratum to: Glycogen metabolism in human fetal testes"}
+{
+  "retracted": false,
+  "timestamp": 589075200000,
+  "updates": [
+    {
+      "timestamp": 1495988701050,
+      "identifier": {
+        "doi": "10.1007/bf02712160"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02903092"
+  },
+  "journal": "Journal of Biosciences",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Glycogen metabolism in human fetal testes"
+}

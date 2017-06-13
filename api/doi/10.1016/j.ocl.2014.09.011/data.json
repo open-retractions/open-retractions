@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.ocl.2016.04.002","type":"err"},"doi":"10.1016/j.ocl.2014.09.011","journal":"Orthopedic Clinics of North America","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495716738415,
+      "identifier": {
+        "doi": "10.1016/j.ocl.2016.04.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ocl.2014.09.011"
+  },
+  "journal": "Orthopedic Clinics of North America",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

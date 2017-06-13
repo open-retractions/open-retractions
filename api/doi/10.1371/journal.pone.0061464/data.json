@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1384214400000,"doi":"10.1371/annotation/5d4b57ee-38c3-4979-b1bd-b257302550bc","type":"correction"},"doi":"10.1371/journal.pone.0061464","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Mutations Disrupting Histone Methylation Have Different Effects on Replication Timing in S. pombe Centromere"}
+{
+  "retracted": false,
+  "timestamp": 1384214400000,
+  "updates": [
+    {
+      "timestamp": 1495991636043,
+      "identifier": {
+        "doi": "10.1371/annotation/5d4b57ee-38c3-4979-b1bd-b257302550bc"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0061464"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Mutations Disrupting Histone Methylation Have Different Effects on Replication Timing in S. pombe Centromere"
+}

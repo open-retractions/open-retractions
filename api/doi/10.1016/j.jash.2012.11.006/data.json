@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1443657600000,"doi":"10.1016/j.jash.2015.08.012","type":"err"},"doi":"10.1016/j.jash.2012.11.006","journal":"Journal of the American Society of Hypertension","publisher":"Elsevier BV","title":"Retraction notice to “Variation of some inflammatory markers in hypertensive patients after 1 year of olmesartan/amlodipine single-pill combination compared with olmesartan or amlodipine monotherapies”"}
+{
+  "retracted": false,
+  "timestamp": 1443657600000,
+  "updates": [
+    {
+      "timestamp": 1496040840620,
+      "identifier": {
+        "doi": "10.1016/j.jash.2015.08.012"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jash.2012.11.006"
+  },
+  "journal": "Journal of the American Society of Hypertension",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Variation of some inflammatory markers in hypertensive patients after 1 year of olmesartan/amlodipine single-pill combination compared with olmesartan or amlodipine monotherapies”"
+}

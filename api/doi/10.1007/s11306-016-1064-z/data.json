@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469836800000,"doi":"10.1007/s11306-016-1078-6","type":"correction"},"doi":"10.1007/s11306-016-1064-z","journal":"Metabolomics","publisher":"Springer Nature","title":"Erratum to: Urinary antihypertensive drug metabolite screening using molecular networking coupled to high-resolution mass spectrometry fragmentation"}
+{
+  "retracted": false,
+  "timestamp": 1469836800000,
+  "updates": [
+    {
+      "timestamp": 1495733029531,
+      "identifier": {
+        "doi": "10.1007/s11306-016-1078-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11306-016-1064-z"
+  },
+  "journal": "Metabolomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Urinary antihypertensive drug metabolite screening using molecular networking coupled to high-resolution mass spectrometry fragmentation"
+}

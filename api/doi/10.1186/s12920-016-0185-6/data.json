@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1468454400000,"doi":"10.1186/s12920-016-0209-2","type":"correction"},"doi":"10.1186/s12920-016-0185-6","journal":"BMC Medical Genomics","publisher":"Springer Nature","title":"Erratum to: Breast cancer subtype predictors revisited: from consensus to concordance?"}
+{
+  "retracted": false,
+  "timestamp": 1468454400000,
+  "updates": [
+    {
+      "timestamp": 1495728524663,
+      "identifier": {
+        "doi": "10.1186/s12920-016-0209-2"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s12920-016-0185-6"
+  },
+  "journal": "BMC Medical Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Breast cancer subtype predictors revisited: from consensus to concordance?"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.rse.2013.02.014","type":"err"},"doi":"10.1016/j.rse.2012.11.013","journal":"Remote Sensing of Environment","publisher":"Elsevier BV","title":"Errata of the paper “Upstream satellite remote sensing for river discharge forecasting: Application to major rivers in South Asia” [Remote Sens. Environ., 131, 140–151]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496017505358,
+      "identifier": {
+        "doi": "10.1016/j.rse.2013.02.014"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.rse.2012.11.013"
+  },
+  "journal": "Remote Sensing of Environment",
+  "publisher": "Elsevier BV",
+  "title": "Errata of the paper “Upstream satellite remote sensing for river discharge forecasting: Application to major rivers in South Asia” [Remote Sens. Environ., 131, 140–151]"
+}

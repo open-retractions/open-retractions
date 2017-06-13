@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1317081600000,"doi":"10.1073/pnas.1120107109","type":"correction"},"doi":"10.1073/pnas.1104533108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Ribas et al., Myeloid-specific estrogen receptor   deficiency impairs metabolic homeostasis and accelerates atherosclerotic lesion development"}
+{
+  "retracted": false,
+  "timestamp": 1317081600000,
+  "updates": [
+    {
+      "timestamp": 1495850976809,
+      "identifier": {
+        "doi": "10.1073/pnas.1120107109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1104533108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Ribas et al., Myeloid-specific estrogen receptor   deficiency impairs metabolic homeostasis and accelerates atherosclerotic lesion development"
+}

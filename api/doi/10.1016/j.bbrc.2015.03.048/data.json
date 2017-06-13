@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438905600000,"doi":"10.1016/j.bbrc.2015.06.009","type":"erratum"},"doi":"10.1016/j.bbrc.2015.03.048","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Erratum to “Salinity-induced expression of HKT may be crucial for Na+ exclusion in the leaf blade of huckleberry (Solanum scabrum Mill.), but not of eggplant (Solanum melongena L.)” [460/2 (1 May 2015) 416–421]"}
+{
+  "retracted": false,
+  "timestamp": 1438905600000,
+  "updates": [
+    {
+      "timestamp": 1496007720013,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.06.009"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2015.03.048"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Salinity-induced expression of HKT may be crucial for Na+ exclusion in the leaf blade of huckleberry (Solanum scabrum Mill.), but not of eggplant (Solanum melongena L.)” [460/2 (1 May 2015) 416–421]"
+}

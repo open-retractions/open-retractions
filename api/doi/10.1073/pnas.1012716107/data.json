@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394496000000,"doi":"10.1073/pnas.1402733111","type":"correction"},"doi":"10.1073/pnas.1012716107","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Roosild et al., Mechanism of ligand-gated potassium efflux in bacterial pathogens"}
+{
+  "retracted": false,
+  "timestamp": 1394496000000,
+  "updates": [
+    {
+      "timestamp": 1496021095600,
+      "identifier": {
+        "doi": "10.1073/pnas.1402733111"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1012716107"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Roosild et al., Mechanism of ligand-gated potassium efflux in bacterial pathogens"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1327622400000,"doi":"10.1371/annotation/5dc1b3a6-ac3c-4c63-951d-cf355ffe7b48","type":"correction"},"doi":"10.1371/journal.pone.0026317","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Absence of Colony Stimulation Factor-1 Receptor Results in Loss of Microglia, Disrupted Brain Development and Olfactory Deficits"}
+{
+  "retracted": false,
+  "timestamp": 1327622400000,
+  "updates": [
+    {
+      "timestamp": 1495866976877,
+      "identifier": {
+        "doi": "10.1371/annotation/5dc1b3a6-ac3c-4c63-951d-cf355ffe7b48"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0026317"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Absence of Colony Stimulation Factor-1 Receptor Results in Loss of Microglia, Disrupted Brain Development and Olfactory Deficits"
+}

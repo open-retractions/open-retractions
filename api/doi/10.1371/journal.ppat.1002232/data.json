@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1315958400000,"doi":"10.1371/annotation/952387a7-96a0-44f6-98a6-2d7c7b472b0a","type":"correction"},"doi":"10.1371/journal.ppat.1002232","journal":"PLoS Pathogens","publisher":"Public Library of Science (PLoS)","title":"Correction: Old World Arenaviruses Enter the Host Cell via the Multivesicular Body and Depend on the Endosomal Sorting Complex Required for Transport"}
+{
+  "retracted": false,
+  "timestamp": 1315958400000,
+  "updates": [
+    {
+      "timestamp": 1495805787429,
+      "identifier": {
+        "doi": "10.1371/annotation/952387a7-96a0-44f6-98a6-2d7c7b472b0a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.ppat.1002232"
+  },
+  "journal": "PLoS Pathogens",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Old World Arenaviruses Enter the Host Cell via the Multivesicular Body and Depend on the Endosomal Sorting Complex Required for Transport"
+}

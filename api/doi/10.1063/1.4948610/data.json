@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1063/1.4953045","type":"correction"},"doi":"10.1063/1.4948610","journal":"The Journal of Chemical Physics","publisher":"AIP Publishing","title":"Erratum: “Dissociative adsorption of H2O on LiCoO2 (00l) surfaces: Co reduction induced by electron transfer from intrinsic defects” [J. Chem. Phys. 144, 184706 (2016)]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495717441066,
+      "identifier": {
+        "doi": "10.1063/1.4953045"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4948610"
+  },
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Dissociative adsorption of H2O on LiCoO2 (00l) surfaces: Co reduction induced by electron transfer from intrinsic defects” [J. Chem. Phys. 144, 184706 (2016)]"
+}

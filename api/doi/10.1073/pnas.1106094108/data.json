@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1320710400000,"doi":"10.1073/pnas.1207617109","type":"correction"},"doi":"10.1073/pnas.1106094108","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Nilmeier et al., Nonequilibrium candidate Monte Carlo is an efficient tool for equilibrium simulation"}
+{
+  "retracted": false,
+  "timestamp": 1320710400000,
+  "updates": [
+    {
+      "timestamp": 1495907583673,
+      "identifier": {
+        "doi": "10.1073/pnas.1207617109"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1106094108"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Nilmeier et al., Nonequilibrium candidate Monte Carlo is an efficient tool for equilibrium simulation"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1485907200000,"doi":"10.1016/j.spl.2016.10.017","type":"erratum"},"doi":"10.1016/j.spl.2015.11.007","journal":"Statistics & Probability Letters","publisher":"Elsevier BV","title":"Corrigendum to “A central limit theorem for quadruple-wise independent arrays of random variables” [Statist. Probab. Lett. 110 (2016) 58–61]"}
+{
+  "retracted": false,
+  "timestamp": 1485907200000,
+  "updates": [
+    {
+      "timestamp": 1495655773324,
+      "identifier": {
+        "doi": "10.1016/j.spl.2016.10.017"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.spl.2015.11.007"
+  },
+  "journal": "Statistics & Probability Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A central limit theorem for quadruple-wise independent arrays of random variables” [Statist. Probab. Lett. 110 (2016) 58–61]"
+}

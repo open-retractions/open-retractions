@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1404172800000,"doi":"10.1016/j.mimet.2014.05.002","type":"err"},"doi":"10.1016/j.mimet.2013.11.013","journal":"Journal of Microbiological Methods","publisher":"Elsevier BV","title":"Corrigendum to “A universal cloning method based on yeast homologous recombination that is simple, efficient, and versatile” [J. Microbiol. Methods 100 C (2014) 46–51]"}
+{
+  "retracted": false,
+  "timestamp": 1404172800000,
+  "updates": [
+    {
+      "timestamp": 1496037727496,
+      "identifier": {
+        "doi": "10.1016/j.mimet.2014.05.002"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.mimet.2013.11.013"
+  },
+  "journal": "Journal of Microbiological Methods",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A universal cloning method based on yeast homologous recombination that is simple, efficient, and versatile” [J. Microbiol. Methods 100 C (2014) 46–51]"
+}

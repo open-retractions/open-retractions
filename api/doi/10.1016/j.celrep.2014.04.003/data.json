@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406160000000,"doi":"10.1016/j.celrep.2014.07.009","type":"err"},"doi":"10.1016/j.celrep.2014.04.003","journal":"Cell Reports","publisher":"Elsevier BV","title":"Growth of the Developing Cerebral Cortex Is Controlled by MicroRNA-7 through the p53 Pathway"}
+{
+  "retracted": false,
+  "timestamp": 1406160000000,
+  "updates": [
+    {
+      "timestamp": 1496056297417,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2014.07.009"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.04.003"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Growth of the Developing Cerebral Cortex Is Controlled by MicroRNA-7 through the p53 Pathway"
+}

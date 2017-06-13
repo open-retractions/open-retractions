@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1451433600000,"doi":"10.3103/s1067821215660013","type":"correction"},"doi":"10.3103/s1067821215050053","journal":"Russian Journal of Non-Ferrous Metals","publisher":"Allerton Press","title":"Erratum to: Laser thermal treatment of annular lugs made of powder copper steel (Steel—copper pseudoalloy)"}
+{
+  "retracted": false,
+  "timestamp": 1451433600000,
+  "updates": [
+    {
+      "timestamp": 1496056820156,
+      "identifier": {
+        "doi": "10.3103/s1067821215660013"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.3103/s1067821215050053"
+  },
+  "journal": "Russian Journal of Non-Ferrous Metals",
+  "publisher": "Allerton Press",
+  "title": "Erratum to: Laser thermal treatment of annular lugs made of powder copper steel (Steel—copper pseudoalloy)"
+}

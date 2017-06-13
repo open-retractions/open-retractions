@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1432598400000,"doi":"10.1073/pnas.1506997112","type":"correction"},"doi":"10.1073/pnas.1502285112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Zhang et al., Hemoglobin βCys93 is essential for cardiovascular function and integrated response to hypoxia"}
+{
+  "retracted": false,
+  "timestamp": 1432598400000,
+  "updates": [
+    {
+      "timestamp": 1495997429241,
+      "identifier": {
+        "doi": "10.1073/pnas.1506997112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1502285112"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Zhang et al., Hemoglobin βCys93 is essential for cardiovascular function and integrated response to hypoxia"
+}

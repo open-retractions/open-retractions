@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1482796800000,"doi":"10.1007/s13258-016-0503-6","type":"correction"},"doi":"10.1007/s13258-016-0470-y","journal":"Genes & Genomics","publisher":"Springer Nature","title":"Erratum to: A de novo 3p13 deletion induced by a complex chromosomal rearrangement combined with a pericentric inversion of chromosome 3, inv(3)(p13q12), and a translocation between chromosome 3 and 8, t(3;8)(q13.1;q24.2), in a child with developmental delay"}
+{
+  "retracted": false,
+  "timestamp": 1482796800000,
+  "updates": [
+    {
+      "timestamp": 1495669534320,
+      "identifier": {
+        "doi": "10.1007/s13258-016-0503-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s13258-016-0470-y"
+  },
+  "journal": "Genes & Genomics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A de novo 3p13 deletion induced by a complex chromosomal rearrangement combined with a pericentric inversion of chromosome 3, inv(3)(p13q12), and a translocation between chromosome 3 and 8, t(3;8)(q13.1;q24.2), in a child with developmental delay"
+}

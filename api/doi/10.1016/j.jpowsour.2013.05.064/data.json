@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jpowsour.2013.10.001","type":"err"},"doi":"10.1016/j.jpowsour.2013.05.064","journal":"Journal of Power Sources","publisher":"Elsevier BV","title":"Corrigendum to “Ultrahigh methanol electro-oxidation activity of PtRu nanoparticles prepared on TiO2-embedded carbon nanofiber support” [J. Power Sources 242 (2013) 280–288]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1496053155327,
+      "identifier": {
+        "doi": "10.1016/j.jpowsour.2013.10.001"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jpowsour.2013.05.064"
+  },
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Ultrahigh methanol electro-oxidation activity of PtRu nanoparticles prepared on TiO2-embedded carbon nanofiber support” [J. Power Sources 242 (2013) 280–288]"
+}

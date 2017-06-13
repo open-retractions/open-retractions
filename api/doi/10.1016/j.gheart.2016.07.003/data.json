@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480550400000,"doi":"10.1016/j.gheart.2016.11.003","type":"erratum"},"doi":"10.1016/j.gheart.2016.07.003","journal":"Global Heart","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1480550400000,
+  "updates": [
+    {
+      "timestamp": 1495665645522,
+      "identifier": {
+        "doi": "10.1016/j.gheart.2016.11.003"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.gheart.2016.07.003"
+  },
+  "journal": "Global Heart",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

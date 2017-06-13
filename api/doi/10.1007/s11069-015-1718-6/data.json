@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1429228800000,"doi":"10.1007/s11069-015-1744-4","type":"correction"},"doi":"10.1007/s11069-015-1718-6","journal":"Natural Hazards","publisher":"Springer Nature","title":"Erratum to: Extreme storm surge hazard estimation in lower Manhattan"}
+{
+  "retracted": false,
+  "timestamp": 1429228800000,
+  "updates": [
+    {
+      "timestamp": 1496058310904,
+      "identifier": {
+        "doi": "10.1007/s11069-015-1744-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11069-015-1718-6"
+  },
+  "journal": "Natural Hazards",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Extreme storm surge hazard estimation in lower Manhattan"
+}

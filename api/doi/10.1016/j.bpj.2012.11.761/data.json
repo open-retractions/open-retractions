@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1366070400000,"doi":"10.1016/j.bpj.2013.03.003","type":"err"},"doi":"10.1016/j.bpj.2012.11.761","journal":"Biophysical Journal","publisher":"Elsevier BV","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1366070400000,
+  "updates": [
+    {
+      "timestamp": 1491905419784,
+      "identifier": {
+        "doi": "10.1016/j.bpj.2013.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bpj.2012.11.761"
+  },
+  "journal": "Biophysical Journal",
+  "publisher": "Elsevier BV",
+  "title": "Correction"
+}

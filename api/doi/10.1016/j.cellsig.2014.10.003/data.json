@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1430438400000,"doi":"10.1016/j.cellsig.2015.02.011","type":"err"},"doi":"10.1016/j.cellsig.2014.10.003","journal":"Cellular Signalling","publisher":"Elsevier BV","title":"Corrigendum to “HCdc14A is involved in cell cycle regulation of human brain vascular endothelial cells following injury induced by high glucose, free fatty acids and hypoxia” [Cell. Signal. 27/1 (2015) 47–60]"}
+{
+  "retracted": false,
+  "timestamp": 1430438400000,
+  "updates": [
+    {
+      "timestamp": 1496046300569,
+      "identifier": {
+        "doi": "10.1016/j.cellsig.2015.02.011"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.cellsig.2014.10.003"
+  },
+  "journal": "Cellular Signalling",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “HCdc14A is involved in cell cycle regulation of human brain vascular endothelial cells following injury induced by high glucose, free fatty acids and hypoxia” [Cell. Signal. 27/1 (2015) 47–60]"
+}

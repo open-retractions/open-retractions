@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1412035200000,"doi":"10.1080/01691864.2014.943342","type":"correction"},"doi":"10.1080/01691864.2013.797139","journal":"Advanced Robotics","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1412035200000,
+  "updates": [
+    {
+      "timestamp": 1495998970291,
+      "identifier": {
+        "doi": "10.1080/01691864.2014.943342"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/01691864.2013.797139"
+  },
+  "journal": "Advanced Robotics",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

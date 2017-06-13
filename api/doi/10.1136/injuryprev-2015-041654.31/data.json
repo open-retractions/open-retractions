@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1136/injuryprev-2015-041654.78corr1","type":"correction"},"doi":"10.1136/injuryprev-2015-041654.31","journal":"Injury Prevention","publisher":"BMJ","title":"Correction"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1496017179542,
+      "identifier": {
+        "doi": "10.1136/injuryprev-2015-041654.78corr1"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1136/injuryprev-2015-041654.31"
+  },
+  "publisher": "BMJ",
+  "title": "Correction"
+}

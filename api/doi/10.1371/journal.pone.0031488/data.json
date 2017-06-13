@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1335398400000,"doi":"10.1371/annotation/8101d38a-2e75-480d-8d1c-016ba5360d5d","type":"correction"},"doi":"10.1371/journal.pone.0031488","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: The Drosophila TRPP Cation Channel, PKD2 and Dmel/Ced-12 Act in Genetically Distinct Pathways during Apoptotic Cell Clearance"}
+{
+  "retracted": false,
+  "timestamp": 1335398400000,
+  "updates": [
+    {
+      "timestamp": 1495940105738,
+      "identifier": {
+        "doi": "10.1371/annotation/8101d38a-2e75-480d-8d1c-016ba5360d5d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0031488"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: The Drosophila TRPP Cation Channel, PKD2 and Dmel/Ced-12 Act in Genetically Distinct Pathways during Apoptotic Cell Clearance"
+}

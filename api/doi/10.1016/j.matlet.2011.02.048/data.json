@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1380585600000,"doi":"10.1016/j.matlet.2013.08.013","type":"err"},"doi":"10.1016/j.matlet.2011.02.048","journal":"Materials Letters","publisher":"Elsevier BV","title":"Retraction notice to “Electronic structure and magnetization correlations in Ni doped ZnO” [MLBLUE 65 (10) (2011) 1485–1487]"}
+{
+  "retracted": false,
+  "timestamp": 1380585600000,
+  "updates": [
+    {
+      "timestamp": 1496041343849,
+      "identifier": {
+        "doi": "10.1016/j.matlet.2013.08.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.matlet.2011.02.048"
+  },
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "title": "Retraction notice to “Electronic structure and magnetization correlations in Ni doped ZnO” [MLBLUE 65 (10) (2011) 1485–1487]"
+}

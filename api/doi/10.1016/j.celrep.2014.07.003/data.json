@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1410393600000,"doi":"10.1016/j.celrep.2014.08.032","type":"err"},"doi":"10.1016/j.celrep.2014.07.003","journal":"Cell Reports","publisher":"Elsevier BV","title":"Evidence against a Stem Cell Origin of New Hepatocytes in a Common Mouse Model of Chronic Liver Injury"}
+{
+  "retracted": false,
+  "timestamp": 1410393600000,
+  "updates": [
+    {
+      "timestamp": 1496006229859,
+      "identifier": {
+        "doi": "10.1016/j.celrep.2014.08.032"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.celrep.2014.07.003"
+  },
+  "journal": "Cell Reports",
+  "publisher": "Elsevier BV",
+  "title": "Evidence against a Stem Cell Origin of New Hepatocytes in a Common Mouse Model of Chronic Liver Injury"
+}

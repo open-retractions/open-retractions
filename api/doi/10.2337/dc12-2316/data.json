@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1377993600000,"doi":"10.2337/dc13-er09","type":"correction"},"doi":"10.2337/dc12-2316","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Role of chromium in human health and in diabetes. Diabetes Care 2004;27:2741–2751"}
+{
+  "retracted": false,
+  "timestamp": 1377993600000,
+  "updates": [
+    {
+      "timestamp": 1496041183537,
+      "identifier": {
+        "doi": "10.2337/dc13-er09"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc12-2316"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Role of chromium in human health and in diabetes. Diabetes Care 2004;27:2741–2751"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1226620800000,"doi":"10.1371/annotation/c8902b4c-30fc-42e7-b506-fc756a3cdd4e","type":"correction"},"doi":"10.1371/journal.pone.0002126","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Systematic Identification of mRNAs Recruited to Argonaute 2 by Specific microRNAs and Corresponding Changes in Transcript Abundance"}
+{
+  "retracted": false,
+  "timestamp": 1226620800000,
+  "updates": [
+    {
+      "timestamp": 1496025197454,
+      "identifier": {
+        "doi": "10.1371/annotation/c8902b4c-30fc-42e7-b506-fc756a3cdd4e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002126"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Systematic Identification of mRNAs Recruited to Argonaute 2 by Specific microRNAs and Corresponding Changes in Transcript Abundance"
+}

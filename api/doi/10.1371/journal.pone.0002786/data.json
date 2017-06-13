@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1221523200000,"doi":"10.1371/annotation/4d3f48de-5ff4-4442-a041-0e9c78c2049d","type":"correction"},"doi":"10.1371/journal.pone.0002786","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Regulating Factors of PrPres Glycosylation in Creutzfeldt-Jakob Disease - Implications for the Dissemination and the Diagnosis of Human Prion Strains"}
+{
+  "retracted": false,
+  "timestamp": 1221523200000,
+  "updates": [
+    {
+      "timestamp": 1496025196250,
+      "identifier": {
+        "doi": "10.1371/annotation/4d3f48de-5ff4-4442-a041-0e9c78c2049d"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0002786"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Regulating Factors of PrPres Glycosylation in Creutzfeldt-Jakob Disease - Implications for the Dissemination and the Diagnosis of Human Prion Strains"
+}

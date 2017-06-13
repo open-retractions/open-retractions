@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1472688000000,"doi":"10.1016/j.pop.2016.07.013","type":"err"},"doi":"10.1016/j.pop.2016.01.007","journal":"Primary Care: Clinics in Office Practice","publisher":"Elsevier BV","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1472688000000,
+  "updates": [
+    {
+      "timestamp": 1495736504302,
+      "identifier": {
+        "doi": "10.1016/j.pop.2016.07.013"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.pop.2016.01.007"
+  },
+  "journal": "Primary Care: Clinics in Office Practice",
+  "publisher": "Elsevier BV",
+  "title": "Erratum"
+}

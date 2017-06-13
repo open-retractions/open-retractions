@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.jdermsci.2016.03.008","type":"err"},"doi":"10.1016/j.jdermsci.2016.01.001","journal":"Journal of Dermatological Science","publisher":"Elsevier BV","title":"Erratum to “Integrative analyses of leprosy susceptibility genes indicate a common autoimmune profile” [J. Dermatol. Sci. 82 (2016) 18–27."}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495657421976,
+      "identifier": {
+        "doi": "10.1016/j.jdermsci.2016.03.008"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jdermsci.2016.01.001"
+  },
+  "journal": "Journal of Dermatological Science",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “Integrative analyses of leprosy susceptibility genes indicate a common autoimmune profile” [J. Dermatol. Sci. 82 (2016) 18–27."
+}

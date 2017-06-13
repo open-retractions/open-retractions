@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1436486400000,"doi":"10.1063/1.4914944","type":"correction"},"doi":"10.1063/1.4902936","journal":"Journal of Mathematical Physics","publisher":"AIP Publishing","title":"Erratum: “Boundary conditions for the one-dimensional nonlinear nonstationary Boltzmann’s moment system equations” [J. Math. Phys. 55, 123507 (2014)]"}
+{
+  "retracted": false,
+  "timestamp": 1436486400000,
+  "updates": [
+    {
+      "timestamp": 1496014745421,
+      "identifier": {
+        "doi": "10.1063/1.4914944"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4902936"
+  },
+  "journal": "Journal of Mathematical Physics",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Boundary conditions for the one-dimensional nonlinear nonstationary Boltzmann’s moment system equations” [J. Math. Phys. 55, 123507 (2014)]"
+}

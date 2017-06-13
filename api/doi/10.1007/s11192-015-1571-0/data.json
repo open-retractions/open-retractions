@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1452556800000,"doi":"10.1007/s11192-016-1832-6","type":"correction"},"doi":"10.1007/s11192-015-1571-0","journal":"Scientometrics","publisher":"Springer Nature","title":"Erratum to: A new method for automatically constructing domain-oriented term taxonomy based on weighted word co-occurrence analysis"}
+{
+  "retracted": false,
+  "timestamp": 1452556800000,
+  "updates": [
+    {
+      "timestamp": 1496059753156,
+      "identifier": {
+        "doi": "10.1007/s11192-016-1832-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11192-015-1571-0"
+  },
+  "journal": "Scientometrics",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: A new method for automatically constructing domain-oriented term taxonomy based on weighted word co-occurrence analysis"
+}

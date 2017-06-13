@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1368748800000,"doi":"10.1371/annotation/0668e8de-97ae-4a04-ac61-8afa9c79bbdd","type":"correction"},"doi":"10.1371/journal.pone.0050628","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Whole-Exome Sequencing Efficiently Detects Rare Mutations in Autosomal Recessive Nonsyndromic Hearing Loss"}
+{
+  "retracted": false,
+  "timestamp": 1368748800000,
+  "updates": [
+    {
+      "timestamp": 1496017546657,
+      "identifier": {
+        "doi": "10.1371/annotation/0668e8de-97ae-4a04-ac61-8afa9c79bbdd"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0050628"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Whole-Exome Sequencing Efficiently Detects Rare Mutations in Autosomal Recessive Nonsyndromic Hearing Loss"
+}

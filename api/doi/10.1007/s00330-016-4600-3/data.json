@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480896000000,"doi":"10.1007/s00330-016-4656-0","type":"correction"},"doi":"10.1007/s00330-016-4600-3","journal":"European Radiology","publisher":"Springer Nature","title":"Erratum to: ESUR recommendations for MR imaging of the sonographically indeterminate adnexal mass: an update"}
+{
+  "retracted": false,
+  "timestamp": 1480896000000,
+  "updates": [
+    {
+      "timestamp": 1495663503183,
+      "identifier": {
+        "doi": "10.1007/s00330-016-4656-0"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00330-016-4600-3"
+  },
+  "journal": "European Radiology",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: ESUR recommendations for MR imaging of the sonographically indeterminate adnexal mass: an update"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1467331200000,"doi":"10.1016/j.jct.2016.03.006","type":"err"},"doi":"10.1016/j.jct.2013.10.026","journal":"The Journal of Chemical Thermodynamics","publisher":"Elsevier BV","title":"Corrigendum to “Measurement of activity coefficients at infinite dilution of organic solutes in the ionic liquid 1-Hexyl-1,4-diaza[2.2.2]bicyclooctanium bis(trifluoromethylsulfonyl)imide using Gas-Liquid Chromatography” [J. Chem. Thermodyn. 71 (2014) 84–90]"}
+{
+  "retracted": false,
+  "timestamp": 1467331200000,
+  "updates": [
+    {
+      "timestamp": 1495654742431,
+      "identifier": {
+        "doi": "10.1016/j.jct.2016.03.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jct.2013.10.026"
+  },
+  "journal": "The Journal of Chemical Thermodynamics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Measurement of activity coefficients at infinite dilution of organic solutes in the ionic liquid 1-Hexyl-1,4-diaza[2.2.2]bicyclooctanium bis(trifluoromethylsulfonyl)imide using Gas-Liquid Chromatography” [J. Chem. Thermodyn. 71 (2014) 84–90]"
+}

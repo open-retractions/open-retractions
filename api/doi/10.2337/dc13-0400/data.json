@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1420070400000,"doi":"10.2337/dc15-er01","type":"correction"},"doi":"10.2337/dc13-0400","journal":"Diabetes Care","publisher":"American Diabetes Association","title":"Liver Transplantation: A Potential Cure for Hepatogenous Diabetes? Diabetes Care 2013;36:e97"}
+{
+  "retracted": false,
+  "timestamp": 1420070400000,
+  "updates": [
+    {
+      "timestamp": 1496032627538,
+      "identifier": {
+        "doi": "10.2337/dc15-er01"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.2337/dc13-0400"
+  },
+  "journal": "Diabetes Care",
+  "publisher": "American Diabetes Association",
+  "title": "Liver Transplantation: A Potential Cure for Hepatogenous Diabetes? Diabetes Care 2013;36:e97"
+}

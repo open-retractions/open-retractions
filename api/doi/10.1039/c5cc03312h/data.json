@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1439510400000,"doi":"10.1039/c5cc90368h","type":"correction"},"doi":"10.1039/c5cc03312h","journal":"Chem. Commun.","publisher":"Royal Society of Chemistry (RSC)","title":"Correction: Thymidylate synthase inspired biomodel reagent for the conversion of uracil to thymine"}
+{
+  "retracted": false,
+  "timestamp": 1439510400000,
+  "updates": [
+    {
+      "timestamp": 1496023485932,
+      "identifier": {
+        "doi": "10.1039/c5cc90368h"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1039/c5cc03312h"
+  },
+  "journal": "Chem. Commun.",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "title": "Correction: Thymidylate synthase inspired biomodel reagent for the conversion of uracil to thymine"
+}

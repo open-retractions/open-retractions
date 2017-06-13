@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1464739200000,"doi":"10.1016/j.ijnonlinmec.2016.03.003","type":"err"},"doi":"10.1016/j.ijnonlinmec.2013.02.006","journal":"International Journal of Non-Linear Mechanics","publisher":"Elsevier BV","title":"Corrigendum to “A model for lipid membranes with tilt and distension based on three-dimensional liquid crystal theory” [Int. J. Non-linear Mech. 56 (2013) 61–70]"}
+{
+  "retracted": false,
+  "timestamp": 1464739200000,
+  "updates": [
+    {
+      "timestamp": 1495660326999,
+      "identifier": {
+        "doi": "10.1016/j.ijnonlinmec.2016.03.003"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.ijnonlinmec.2013.02.006"
+  },
+  "journal": "International Journal of Non-Linear Mechanics",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “A model for lipid membranes with tilt and distension based on three-dimensional liquid crystal theory” [Int. J. Non-linear Mech. 56 (2013) 61–70]"
+}

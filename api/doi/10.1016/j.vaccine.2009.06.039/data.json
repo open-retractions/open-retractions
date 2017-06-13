@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1398902400000,"doi":"10.1016/j.vaccine.2014.03.006","type":"erratum"},"doi":"10.1016/j.vaccine.2009.06.039","journal":"Vaccine","publisher":"Elsevier BV","title":"Corrigendum to: Cost-effectiveness analysis of human papillomavirus-vaccination programs to prevent cervical cancer in Austria [Vaccine 27 (2009) 5133–5141]"}
+{
+  "retracted": false,
+  "timestamp": 1398902400000,
+  "updates": [
+    {
+      "timestamp": 1496027149241,
+      "identifier": {
+        "doi": "10.1016/j.vaccine.2014.03.006"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.vaccine.2009.06.039"
+  },
+  "journal": "Vaccine",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to: Cost-effectiveness analysis of human papillomavirus-vaccination programs to prevent cervical cancer in Austria [Vaccine 27 (2009) 5133–5141]"
+}

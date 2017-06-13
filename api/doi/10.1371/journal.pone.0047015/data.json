@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1369353600000,"doi":"10.1371/annotation/ee2d5478-c871-4c0e-859a-b6d4cde77a3a","type":"correction"},"doi":"10.1371/journal.pone.0047015","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Structural Characterization of the Complex of SecB and Metallothionein-Labeled proOmpA by Cryo-Electron Microscopy"}
+{
+  "retracted": false,
+  "timestamp": 1369353600000,
+  "updates": [
+    {
+      "timestamp": 1491882080218,
+      "identifier": {
+        "doi": "10.1371/annotation/ee2d5478-c871-4c0e-859a-b6d4cde77a3a"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0047015"
+  },
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Structural Characterization of the Complex of SecB and Metallothionein-Labeled proOmpA by Cryo-Electron Microscopy"
+}

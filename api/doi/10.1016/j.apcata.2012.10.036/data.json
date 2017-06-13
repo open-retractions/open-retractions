@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1399248000000,"doi":"10.1016/j.apcata.2014.03.015","type":"erratum"},"doi":"10.1016/j.apcata.2012.10.036","journal":"Applied Catalysis A: General","publisher":"Elsevier BV","title":"Corrigendum to “N2O catalytic decomposition over nano-sized particles of Co-substituted Fe3O4 substrates” [Appl. Catal. A: Gen 450 (2013) 253–260]"}
+{
+  "retracted": false,
+  "timestamp": 1399248000000,
+  "updates": [
+    {
+      "timestamp": 1496030766904,
+      "identifier": {
+        "doi": "10.1016/j.apcata.2014.03.015"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apcata.2012.10.036"
+  },
+  "journal": "Applied Catalysis A: General",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “N2O catalytic decomposition over nano-sized particles of Co-substituted Fe3O4 substrates” [Appl. Catal. A: Gen 450 (2013) 253–260]"
+}

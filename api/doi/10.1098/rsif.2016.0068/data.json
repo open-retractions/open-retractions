@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1470009600000,"doi":"10.1098/rsif.2016.0585","type":"correction"},"doi":"10.1098/rsif.2016.0068","journal":"Journal of The Royal Society Interface","publisher":"The Royal Society","title":"Correction to ‘Fish larvae exploit edge vortices along their dorsal and ventral fin folds to propel themselves’"}
+{
+  "retracted": false,
+  "timestamp": 1470009600000,
+  "updates": [
+    {
+      "timestamp": 1495738800529,
+      "identifier": {
+        "doi": "10.1098/rsif.2016.0585"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1098/rsif.2016.0068"
+  },
+  "journal": "Journal of The Royal Society Interface",
+  "publisher": "The Royal Society",
+  "title": "Correction to ‘Fish larvae exploit edge vortices along their dorsal and ventral fin folds to propel themselves’"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1455753600000,"doi":"10.1007/s00283-015-9617-y","type":"correction"},"doi":"10.1007/s00283-014-9463-3","journal":"The Mathematical Intelligencer","publisher":"Springer Nature","title":"Erratum to: On Morley’s Trisector Theorem"}
+{
+  "retracted": false,
+  "timestamp": 1455753600000,
+  "updates": [
+    {
+      "timestamp": 1495645981081,
+      "identifier": {
+        "doi": "10.1007/s00283-015-9617-y"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00283-014-9463-3"
+  },
+  "journal": "The Mathematical Intelligencer",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: On Morley’s Trisector Theorem"
+}

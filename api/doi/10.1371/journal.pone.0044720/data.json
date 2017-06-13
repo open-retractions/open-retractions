@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1358380800000,"doi":"10.1371/annotation/c69de5f4-dd02-4f92-9fc7-9a6a660a075e","type":"correction"},"doi":"10.1371/journal.pone.0044720","journal":"PLoS ONE","publisher":"Public Library of Science (PLoS)","title":"Correction: Metabolic Rate Regulates L1 Longevity in C. elegans"}
+{
+  "retracted": false,
+  "timestamp": 1358380800000,
+  "updates": [
+    {
+      "timestamp": 1496021282367,
+      "identifier": {
+        "doi": "10.1371/annotation/c69de5f4-dd02-4f92-9fc7-9a6a660a075e"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1371/journal.pone.0044720"
+  },
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science (PLoS)",
+  "title": "Correction: Metabolic Rate Regulates L1 Longevity in C. elegans"
+}

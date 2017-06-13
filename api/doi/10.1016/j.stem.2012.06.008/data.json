@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1367452800000,"doi":"10.1016/j.stem.2013.04.020","type":"err"},"doi":"10.1016/j.stem.2012.06.008","journal":"Cell Stem Cell","publisher":"Elsevier BV","title":"Esrrb Is a Pivotal Target of the Gsk3/Tcf3 Axis Regulating Embryonic Stem Cell Self-Renewal"}
+{
+  "retracted": false,
+  "timestamp": 1367452800000,
+  "updates": [
+    {
+      "timestamp": 1496016576400,
+      "identifier": {
+        "doi": "10.1016/j.stem.2013.04.020"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.stem.2012.06.008"
+  },
+  "journal": "Cell Stem Cell",
+  "publisher": "Elsevier BV",
+  "title": "Esrrb Is a Pivotal Target of the Gsk3/Tcf3 Axis Regulating Embryonic Stem Cell Self-Renewal"
+}

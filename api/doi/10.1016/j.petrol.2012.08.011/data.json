@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1375315200000,"doi":"10.1016/j.petrol.2013.05.006","type":"err"},"doi":"10.1016/j.petrol.2012.08.011","journal":"Journal of Petroleum Science and Engineering","publisher":"Elsevier BV","title":"Corrigendum to “Neural network based swarm concept for prediction asphaltene precipitation due to natural depletion” [J. Pet. Sci. Eng. 98–99 (2012) 40–49]"}
+{
+  "retracted": false,
+  "timestamp": 1375315200000,
+  "updates": [
+    {
+      "timestamp": 1496033408834,
+      "identifier": {
+        "doi": "10.1016/j.petrol.2013.05.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.petrol.2012.08.011"
+  },
+  "journal": "Journal of Petroleum Science and Engineering",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Neural network based swarm concept for prediction asphaltene precipitation due to natural depletion” [J. Pet. Sci. Eng. 98–99 (2012) 40–49]"
+}

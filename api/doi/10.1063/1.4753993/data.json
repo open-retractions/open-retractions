@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1362441600000,"doi":"10.1063/1.4794848","type":"correction"},"doi":"10.1063/1.4753993","journal":"Applied Physics Letters","publisher":"AIP Publishing","title":"Erratum: “Polarization induced pn-junction without dopant in graded AlGaN coherently strained on GaN” [Appl. Phys. Lett. 101, 122103 (2012)]"}
+{
+  "retracted": false,
+  "timestamp": 1362441600000,
+  "updates": [
+    {
+      "timestamp": 1496003188337,
+      "identifier": {
+        "doi": "10.1063/1.4794848"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.4753993"
+  },
+  "journal": "Applied Physics Letters",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: “Polarization induced pn-junction without dopant in graded AlGaN coherently strained on GaN” [Appl. Phys. Lett. 101, 122103 (2012)]"
+}

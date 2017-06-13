@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488844800000,"doi":"10.1080/09513590.2017.1301370","type":"correction"},"doi":"10.1080/09513590.2016.1252743","journal":"Gynecological Endocrinology","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1488844800000,
+  "updates": [
+    {
+      "timestamp": 1495725541391,
+      "identifier": {
+        "doi": "10.1080/09513590.2017.1301370"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/09513590.2016.1252743"
+  },
+  "journal": "Gynecological Endocrinology",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

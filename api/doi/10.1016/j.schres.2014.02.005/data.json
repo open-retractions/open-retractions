@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1406851200000,"doi":"10.1016/j.schres.2014.06.006","type":"err"},"doi":"10.1016/j.schres.2014.02.005","journal":"Schizophrenia Research","publisher":"Elsevier BV","title":"Corrigendum to “Cytokine alterations in first-episode schizophrenia patients before and after antipsychotic treatment” [Schizophr. Res. 154 (1–3) (2014) 23–29]"}
+{
+  "retracted": false,
+  "timestamp": 1406851200000,
+  "updates": [
+    {
+      "timestamp": 1496049672011,
+      "identifier": {
+        "doi": "10.1016/j.schres.2014.06.006"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.schres.2014.02.005"
+  },
+  "journal": "Schizophrenia Research",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Cytokine alterations in first-episode schizophrenia patients before and after antipsychotic treatment” [Schizophr. Res. 154 (1–3) (2014) 23–29]"
+}

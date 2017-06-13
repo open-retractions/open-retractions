@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1394841600000,"doi":"10.1016/j.epsl.2013.09.047","type":"err"},"doi":"10.1016/j.epsl.2012.09.005","journal":"Earth and Planetary Science Letters","publisher":"Elsevier BV","title":"Corrigendum to “An unusually large ULVZ at the base of the mantle near Hawaii” [Earth Planet. Sci. Lett. 355–356 (2012) 213–222]"}
+{
+  "retracted": false,
+  "timestamp": 1394841600000,
+  "updates": [
+    {
+      "timestamp": 1496018780535,
+      "identifier": {
+        "doi": "10.1016/j.epsl.2013.09.047"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.epsl.2012.09.005"
+  },
+  "journal": "Earth and Planetary Science Letters",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “An unusually large ULVZ at the base of the mantle near Hawaii” [Earth Planet. Sci. Lett. 355–356 (2012) 213–222]"
+}

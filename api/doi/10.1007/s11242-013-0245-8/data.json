@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1475280000000,"doi":"10.1007/s11242-016-0774-z","type":"correction"},"doi":"10.1007/s11242-013-0245-8","journal":"Transport in Porous Media","publisher":"Springer Nature","title":"Erratum to: Three-Dimensional Simulations for Convection in a Porous Medium with Internal Heat Source and Variable Gravity Effects"}
+{
+  "retracted": false,
+  "timestamp": 1475280000000,
+  "updates": [
+    {
+      "timestamp": 1495644815249,
+      "identifier": {
+        "doi": "10.1007/s11242-016-0774-z"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11242-013-0245-8"
+  },
+  "journal": "Transport in Porous Media",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Three-Dimensional Simulations for Convection in a Porous Medium with Internal Heat Source and Variable Gravity Effects"
+}

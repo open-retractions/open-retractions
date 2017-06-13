@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1459987200000,"doi":"10.1007/s40265-016-0563-6","type":"correction"},"doi":"10.1007/s40265-015-0519-2","journal":"Drugs","publisher":"Springer Nature","title":"Erratum to: What to Do, and What Not to Do, When Diagnosing and Treating Breakthrough Cancer Pain (BTcP): Expert Opinion"}
+{
+  "retracted": false,
+  "timestamp": 1459987200000,
+  "updates": [
+    {
+      "timestamp": 1495662785761,
+      "identifier": {
+        "doi": "10.1007/s40265-016-0563-6"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s40265-015-0519-2"
+  },
+  "journal": "Drugs",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: What to Do, and What Not to Do, When Diagnosing and Treating Breakthrough Cancer Pain (BTcP): Expert Opinion"
+}

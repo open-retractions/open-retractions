@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1457913600000,"doi":"10.1007/s00109-016-1405-4","type":"correction"},"doi":"10.1007/s00109-016-1390-7","journal":"Journal of Molecular Medicine","publisher":"Springer Nature","title":"Erratum to: Hypoxemia as a model for high altitude and cardiovascular risk reduction"}
+{
+  "retracted": false,
+  "timestamp": 1457913600000,
+  "updates": [
+    {
+      "timestamp": 1495653529709,
+      "identifier": {
+        "doi": "10.1007/s00109-016-1405-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s00109-016-1390-7"
+  },
+  "journal": "Journal of Molecular Medicine",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Hypoxemia as a model for high altitude and cardiovascular risk reduction"
+}

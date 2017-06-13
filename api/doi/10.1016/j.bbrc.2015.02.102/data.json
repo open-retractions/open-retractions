@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1434067200000,"doi":"10.1016/j.bbrc.2015.04.101","type":"err"},"doi":"10.1016/j.bbrc.2015.02.102","journal":"Biochemical and Biophysical Research Communications","publisher":"Elsevier BV","title":"Corrigendum to “Procyanidin trimer C1 derived from Theobroma cacao reactivates latent human immunodeficiency virus type 1 provirus” [Biochem. Biophys. Res. Commun. 459 (2) (3 April 2015) 288–293]"}
+{
+  "retracted": false,
+  "timestamp": 1434067200000,
+  "updates": [
+    {
+      "timestamp": 1495997556898,
+      "identifier": {
+        "doi": "10.1016/j.bbrc.2015.04.101"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.bbrc.2015.02.102"
+  },
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Procyanidin trimer C1 derived from Theobroma cacao reactivates latent human immunodeficiency virus type 1 provirus” [Biochem. Biophys. Res. Commun. 459 (2) (3 April 2015) 288–293]"
+}

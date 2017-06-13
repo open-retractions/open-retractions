@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1391212800000,"doi":"10.1016/j.jclepro.2013.10.024","type":"err"},"doi":"10.1016/j.jclepro.2013.05.004","journal":"Journal of Cleaner Production","publisher":"Elsevier BV","title":"Erratum to “An evaluation of the theoretical potential and practical opportunity for using recycled greywater for domestic purposes in Ghana” [J. Clean. Prod. vol. 60 (2013) 195–200]"}
+{
+  "retracted": false,
+  "timestamp": 1391212800000,
+  "updates": [
+    {
+      "timestamp": 1495995971867,
+      "identifier": {
+        "doi": "10.1016/j.jclepro.2013.10.024"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.jclepro.2013.05.004"
+  },
+  "journal": "Journal of Cleaner Production",
+  "publisher": "Elsevier BV",
+  "title": "Erratum to “An evaluation of the theoretical potential and practical opportunity for using recycled greywater for domestic purposes in Ghana” [J. Clean. Prod. vol. 60 (2013) 195–200]"
+}

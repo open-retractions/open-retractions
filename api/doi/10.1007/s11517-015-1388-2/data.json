@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1477526400000,"doi":"10.1007/s11517-016-1588-4","type":"correction"},"doi":"10.1007/s11517-015-1388-2","journal":"Medical & Biological Engineering & Computing","publisher":"Springer Nature","title":"Erratum to: Nasal pressure recordings for automatic snoring detection"}
+{
+  "retracted": false,
+  "timestamp": 1477526400000,
+  "updates": [
+    {
+      "timestamp": 1495652142441,
+      "identifier": {
+        "doi": "10.1007/s11517-016-1588-4"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/s11517-015-1388-2"
+  },
+  "journal": "Medical & Biological Engineering & Computing",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Nasal pressure recordings for automatic snoring detection"
+}

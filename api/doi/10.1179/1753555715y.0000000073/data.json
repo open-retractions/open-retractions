@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1469577600000,"doi":"10.1080/10667857.2016.1198146","type":"correction"},"doi":"10.1179/1753555715y.0000000073","journal":"Materials Technology","publisher":"Informa UK Limited","title":"Erratum"}
+{
+  "retracted": false,
+  "timestamp": 1469577600000,
+  "updates": [
+    {
+      "timestamp": 1495732295056,
+      "identifier": {
+        "doi": "10.1080/10667857.2016.1198146"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1179/1753555715y.0000000073"
+  },
+  "journal": "Materials Technology",
+  "publisher": "Informa UK Limited",
+  "title": "Erratum"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1487721600000,"doi":"10.1186/s40478-017-0419-7","type":"correction"},"doi":"10.1186/s40478-016-0404-6","journal":"Acta Neuropathologica Communications","publisher":"Springer Nature","title":"Erratum to: Mitochondrial DNA point mutations and relative copy number in 1363 disease and control human brains"}
+{
+  "retracted": false,
+  "timestamp": 1487721600000,
+  "updates": [
+    {
+      "timestamp": 1495714702654,
+      "identifier": {
+        "doi": "10.1186/s40478-017-0419-7"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1186/s40478-016-0404-6"
+  },
+  "journal": "Acta Neuropathologica Communications",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: Mitochondrial DNA point mutations and relative copy number in 1363 disease and control human brains"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1488931200000,"doi":"10.1080/10220461.2017.1294725","type":"correction"},"doi":"10.1080/10220461.2016.1221771","journal":"South African Journal of International Affairs","publisher":"Informa UK Limited","title":"Corrigendum"}
+{
+  "retracted": false,
+  "timestamp": 1488931200000,
+  "updates": [
+    {
+      "timestamp": 1495727495218,
+      "identifier": {
+        "doi": "10.1080/10220461.2017.1294725"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1080/10220461.2016.1221771"
+  },
+  "journal": "South African Journal of International Affairs",
+  "publisher": "Informa UK Limited",
+  "title": "Corrigendum"
+}

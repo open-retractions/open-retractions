@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1480982400000,"doi":"10.1134/s1234567816050177","type":"correction"},"doi":"10.1134/s0022093016040037","journal":"Journal of Evolutionary Biochemistry and Physiology","publisher":"Pleiades Publishing Ltd","title":"Erratum: “Regulation of antimicrobial peptide synthesis in larvae of Calliphora vicina (Diptera, Calliphoridae): a dose-dependent effect of ecdysteroids”"}
+{
+  "retracted": false,
+  "timestamp": 1480982400000,
+  "updates": [
+    {
+      "timestamp": 1495663404372,
+      "identifier": {
+        "doi": "10.1134/s1234567816050177"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1134/s0022093016040037"
+  },
+  "journal": "Journal of Evolutionary Biochemistry and Physiology",
+  "publisher": "Pleiades Publishing Ltd",
+  "title": "Erratum: “Regulation of antimicrobial peptide synthesis in larvae of Calliphora vicina (Diptera, Calliphoridae): a dose-dependent effect of ecdysteroids”"
+}

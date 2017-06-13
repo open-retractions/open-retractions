@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1462320000000,"doi":"10.1016/j.neuron.2016.04.025","type":"err"},"doi":"10.1016/j.neuron.2015.05.005","journal":"Neuron","publisher":"Elsevier BV","title":"Robust Axonal Regeneration Occurs in the Injured CAST/Ei Mouse CNS"}
+{
+  "retracted": false,
+  "timestamp": 1462320000000,
+  "updates": [
+    {
+      "timestamp": 1495674004107,
+      "identifier": {
+        "doi": "10.1016/j.neuron.2016.04.025"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.neuron.2015.05.005"
+  },
+  "journal": "Neuron",
+  "publisher": "Elsevier BV",
+  "title": "Robust Axonal Regeneration Occurs in the Injured CAST/Ei Mouse CNS"
+}

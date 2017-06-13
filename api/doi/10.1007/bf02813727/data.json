@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1210118400000,"doi":"10.1007/bf02813753","type":"correction"},"doi":"10.1007/bf02813727","journal":"Lettere al Nuovo Cimento","publisher":"Springer Nature","title":"Erratum to: The efficiency of the penrose process"}
+{
+  "retracted": false,
+  "timestamp": 1210118400000,
+  "updates": [
+    {
+      "timestamp": 1495850360963,
+      "identifier": {
+        "doi": "10.1007/bf02813753"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1007/bf02813727"
+  },
+  "journal": "Lettere al Nuovo Cimento",
+  "publisher": "Springer Nature",
+  "title": "Erratum to: The efficiency of the penrose process"
+}

@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431302400000,"doi":"10.1016/j.physletb.2015.03.035","type":"erratum"},"doi":"10.1016/j.physletb.2013.06.051","journal":"Physics Letters B","publisher":"Elsevier BV","title":"Corrigendum to “Top quark spin correlations and polarization at the LHC: Standard model predictions and effects of anomalous top chromo moments” [Phys. Lett. B 725 (2013) 115–122]"}
+{
+  "retracted": false,
+  "timestamp": 1431302400000,
+  "updates": [
+    {
+      "timestamp": 1495996656816,
+      "identifier": {
+        "doi": "10.1016/j.physletb.2015.03.035"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.physletb.2013.06.051"
+  },
+  "journal": "Physics Letters B",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Top quark spin correlations and polarization at the LHC: Standard model predictions and effects of anomalous top chromo moments” [Phys. Lett. B 725 (2013) 115–122]"
+}

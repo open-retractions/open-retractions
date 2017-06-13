@@ -1,1 +1,18 @@
-{"retracted":false,"update":{"timestamp":1447718400000,"doi":"10.1073/pnas.1520071112","type":"correction"},"doi":"10.1073/pnas.1502134112","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Futrell et al., Large-scale evidence of dependency length minimization in 37 languages"}
+{
+  "retracted": false,
+  "timestamp": 1447718400000,
+  "updates": [
+    {
+      "timestamp": 1496042920855,
+      "identifier": {
+        "doi": "10.1073/pnas.1520071112"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.1502134112"
+  },
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Futrell et al., Large-scale evidence of dependency length minimization in 37 languages"
+}

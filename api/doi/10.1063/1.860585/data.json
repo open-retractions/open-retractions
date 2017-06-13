@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":762480000000,"doi":"10.1063/1.870780","type":"erratum"},"doi":"10.1063/1.860585","journal":"Physics of Plasmas","publisher":"AIP Publishing","title":"Erratum: ‘‘Nonsingular linear theory for stimulated microwave emission in crossed‐field devices’’ [Phys. Fluids B 5, 4162 (1993)]"}
+{
+  "retracted": false,
+  "timestamp": 762480000000,
+  "updates": [
+    {
+      "timestamp": 1495868049392,
+      "identifier": {
+        "doi": "10.1063/1.870780"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1063/1.860585"
+  },
+  "journal": "Physics of Plasmas",
+  "publisher": "AIP Publishing",
+  "title": "Erratum: ‘‘Nonsingular linear theory for stimulated microwave emission in           crossed‐field devices’’ [Phys. Fluids B 5, 4162 (1993)]"
+}

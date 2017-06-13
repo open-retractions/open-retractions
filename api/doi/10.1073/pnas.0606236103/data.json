@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1162857600000,"doi":"10.1073/pnas.0608836103","type":"correction"},"doi":"10.1073/pnas.0606236103","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Street et al., A molecular mechanism for osmolyte-induced protein stability"}
+{
+  "retracted": false,
+  "timestamp": 1162857600000,
+  "updates": [
+    {
+      "timestamp": 1495910459239,
+      "identifier": {
+        "doi": "10.1073/pnas.0608836103"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0606236103"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Street et al., A molecular mechanism for osmolyte-induced protein stability"
+}

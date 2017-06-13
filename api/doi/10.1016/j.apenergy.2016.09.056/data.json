@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1489536000000,"doi":"10.1016/j.apenergy.2017.01.094","type":"erratum"},"doi":"10.1016/j.apenergy.2016.09.056","journal":"Applied Energy","publisher":"Elsevier BV","title":"Corrigendum to ‘A plant-level analysis of the spill-over effects of the German Energiewende’ [Appl. Energy 183 (2016) 1259–1271]"}
+{
+  "retracted": false,
+  "timestamp": 1489536000000,
+  "updates": [
+    {
+      "timestamp": 1495718256627,
+      "identifier": {
+        "doi": "10.1016/j.apenergy.2017.01.094"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.apenergy.2016.09.056"
+  },
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to ‘A plant-level analysis of the spill-over effects of the German Energiewende’ [Appl. Energy 183 (2016) 1259–1271]"
+}

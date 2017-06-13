@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1431648000000,"doi":"10.1016/j.agrformet.2015.01.016","type":"err"},"doi":"10.1016/j.agrformet.2014.01.015","journal":"Agricultural and Forest Meteorology","publisher":"Elsevier BV","title":"Corrigendum to “Modeled and measured fPAR in a boreal forest: Validation and application of a new model” [Agric. For. Meteorol. 189–190 (2014) 118–124]"}
+{
+  "retracted": false,
+  "timestamp": 1431648000000,
+  "updates": [
+    {
+      "timestamp": 1496042472093,
+      "identifier": {
+        "doi": "10.1016/j.agrformet.2015.01.016"
+      },
+      "type": "err"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.agrformet.2014.01.015"
+  },
+  "journal": "Agricultural and Forest Meteorology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Modeled and measured fPAR in a boreal forest: Validation and application of a new model” [Agric. For. Meteorol. 189–190 (2014) 118–124]"
+}

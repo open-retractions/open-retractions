@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1172534400000,"doi":"10.1073/pnas.0700294104","type":"correction"},"doi":"10.1073/pnas.0607450104","journal":"Proceedings of the National Academy of Sciences","publisher":"Proceedings of the National Academy of Sciences","title":"Correction for Borodinsky and Spitzer, Activity-dependent neurotransmitter-receptor matching at the neuromuscular junction"}
+{
+  "retracted": false,
+  "timestamp": 1172534400000,
+  "updates": [
+    {
+      "timestamp": 1495932940213,
+      "identifier": {
+        "doi": "10.1073/pnas.0700294104"
+      },
+      "type": "correction"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1073/pnas.0607450104"
+  },
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "Proceedings of the National Academy of Sciences",
+  "title": "Correction for Borodinsky and Spitzer, Activity-dependent neurotransmitter-receptor matching at the neuromuscular junction"
+}

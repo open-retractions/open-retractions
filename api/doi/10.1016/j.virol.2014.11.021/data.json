@@ -1,1 +1,19 @@
-{"retracted":false,"update":{"timestamp":1438387200000,"doi":"10.1016/j.virol.2015.04.001","type":"err"},"doi":"10.1016/j.virol.2014.11.021","journal":"Virology","publisher":"Elsevier BV","title":"Corrigendum to “Identification of a polyomavirus microRNA highly expressed in tumors” [Virology 476C (2015) 43–53]"}
+{
+  "retracted": false,
+  "timestamp": 1438387200000,
+  "updates": [
+    {
+      "timestamp": 1495998970873,
+      "identifier": {
+        "doi": "10.1016/j.virol.2015.04.001"
+      },
+      "type": "erratum"
+    }
+  ],
+  "identifier": {
+    "doi": "10.1016/j.virol.2014.11.021"
+  },
+  "journal": "Virology",
+  "publisher": "Elsevier BV",
+  "title": "Corrigendum to “Identification of a polyomavirus microRNA highly expressed in tumors” [Virology 476C (2015) 43–53]"
+}
