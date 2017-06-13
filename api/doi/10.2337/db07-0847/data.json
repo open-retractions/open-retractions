@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1414800000000,
+  "retracted": true,
+  "timestamp": 1496275200000,
   "updates": [
     {
-      "timestamp": 1496016337886,
+      "timestamp": 1495733900776,
       "identifier": {
-        "doi": "10.2337/db14-er11"
+        "doi": "10.2337/db17-rt06a"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.2337/db07-0847"
   },
-  "journal": "Diabetes",
   "publisher": "American Diabetes Association",
-  "title": "Transcription Factor 7-Like 2 Regulates β-Cell Survival and Function in Human Pancreatic Islets. Diabetes 2008;57:645–653"
+  "title": "Statement of Retraction. Transcription Factor 7-Like 2 Regulates β-Cell Survival and Function in Human Pancreatic Islets. Diabetes 2008;57:645–653. DOI: 10.2337/db07-0847; and erratum. Diabetes 2014:63:3974. DOI: 10.2337/db14-er11"
 }

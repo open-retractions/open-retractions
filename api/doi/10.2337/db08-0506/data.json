@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1491004800000,
+  "retracted": true,
+  "timestamp": 1493251200000,
   "updates": [
     {
-      "timestamp": 1495681161566,
+      "timestamp": 1495743203726,
       "identifier": {
-        "doi": "10.2337/db17-ec04a"
+        "doi": "10.2337/db17-rt07a"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.2337/db08-0506"
   },
-  "journal": "Diabetes",
   "publisher": "American Diabetes Association",
-  "title": "Expression of Concern. EGFR Tyrosine Kinase Inhibitor (PD153035) Improves Glucose Tolerance and Insulin Action in High-Fat Diet–Fed Mice. Diabetes 2009;58:2910–2919. DOI: 10.2337/db08-0506. PMID: 19696185"
+  "title": "Statement of Retraction. EGFR Tyrosine Kinase Inhibitor (PD153035) Improves Glucose Tolerance and Insulin Action in High-Fat Diet–Fed Mice. Diabetes 2009;58:2910–2919. DOI: 10.2337/db08-0506. PMID: 19696185"
 }

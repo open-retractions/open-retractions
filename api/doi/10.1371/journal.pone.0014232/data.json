@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1425340800000,
+  "retracted": true,
+  "timestamp": 1467936000000,
   "updates": [
     {
-      "timestamp": 1496048223974,
+      "timestamp": 1495725157013,
       "identifier": {
-        "doi": "10.1371/journal.pone.0118383"
+        "doi": "10.1371/journal.pone.0159283"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0014232"
   },
-  "journal": "PLOS ONE",
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Atorvastatin Improves Survival in Septic Rats: Effect on Tissue Inflammatory Pathway and on Insulin Signaling"
+  "title": "Retraction: Atorvastatin Improves Survival in Septic Rats: Effect on Tissue Inflammatory Pathway and on Insulin Signaling"
 }

@@ -1,19 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1409961600000,
   "updates": [
     {
-      "timestamp": 1496054199757,
+      "timestamp": 1496001673989,
       "identifier": {
-        "doi": "10.1098/rsif.2014.0700"
+        "doi": "10.1098/rsif.2014.0854"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1098/rsif.2011.0323"
   },
-  "journal": "Journal of The Royal Society Interface",
   "publisher": "The Royal Society",
   "title": "What makes an accurate and reliable subject-specific finite element model? A case study of an elephant femur"
 }

@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1447891200000,
+  "retracted": true,
+  "timestamp": 1466985600000,
   "updates": [
     {
-      "timestamp": 1496047282430,
+      "timestamp": 1495722831699,
       "identifier": {
-        "doi": "10.1039/c5md90056e"
+        "doi": "10.1039/c6md90032a"
       },
-      "type": "expression_of_concern"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1039/c5md00142k"
   },
-  "journal": "Med. Chem. Commun.",
   "publisher": "Royal Society of Chemistry (RSC)",
-  "title": "Expression of concern: Identifying the inhibitory mechanism of apigenin on the insulin ligand–receptor binding"
+  "title": "Retraction: Identifying the inhibitory mechanism of apigenin on the insulin ligand–receptor binding"
 }

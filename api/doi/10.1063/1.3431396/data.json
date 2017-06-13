@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1380499200000,
+  "retracted": true,
+  "timestamp": 1408060800000,
   "updates": [
     {
-      "timestamp": 1496049608634,
+      "timestamp": 1496001128923,
       "identifier": {
-        "doi": "10.1063/1.4824175"
+        "doi": "10.1063/1.4881078"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1063/1.3431396"
   },
-  "journal": "Journal of Applied Physics",
   "publisher": "AIP Publishing",
-  "title": "Erratum: “Study of defect-induced ferromagnetism in hydrogenated anatase TiO2:Co” [J. Appl. Phys. 107, 113916 (2010)]"
+  "title": "Retraction: “Study of defect-induced ferromagnetism in hydrogenated anatase TiO2:Co” [J. Appl. Phys. 107, 113916 (2010)]"
 }

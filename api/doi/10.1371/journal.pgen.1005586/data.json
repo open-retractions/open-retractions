@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1456444800000,
+  "retracted": true,
+  "timestamp": 1492992000000,
   "updates": [
     {
-      "timestamp": 1495648712146,
+      "timestamp": 1495742334586,
       "identifier": {
-        "doi": "10.1371/journal.pgen.1005911"
+        "doi": "10.1371/journal.pgen.1006747"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pgen.1005586"
   },
-  "journal": "PLOS Genetics",
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Loss of a Conserved tRNA Anticodon Modification Perturbs Plant Immunity"
+  "title": "Retraction: Loss of a Conserved tRNA Anticodon Modification Perturbs Plant Immunity"
 }

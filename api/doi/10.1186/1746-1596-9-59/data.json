@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1473379200000,
+  "retracted": true,
+  "timestamp": 1478044800000,
   "updates": [
     {
-      "timestamp": 1495638608777,
+      "timestamp": 1495652010633,
       "identifier": {
-        "doi": "10.1186/s13000-016-0534-y"
+        "doi": "10.1186/s13000-016-0573-4"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1186/1746-1596-9-59"
   },
-  "journal": "Diagnostic Pathology",
   "publisher": "Springer Nature",
-  "title": "Erratum to: Histopathological features of bone regeneration in a canine segmental ulnar defect model"
+  "title": "Retraction note: Histopathological features of bone regeneration in a canine segmental ulnar defect model"
 }

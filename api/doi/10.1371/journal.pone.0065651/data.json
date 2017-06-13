@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1377475200000,
+  "retracted": true,
+  "timestamp": 1469491200000,
   "updates": [
     {
-      "timestamp": 1496048536834,
+      "timestamp": 1495731990342,
       "identifier": {
-        "doi": "10.1371/annotation/9e4eacfb-5de5-44f5-b027-b694f35e370e"
+        "doi": "10.1371/journal.pone.0160298"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0065651"
   },
-  "journal": "PLoS ONE",
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Association of Polymorphism rs198977 in Human Kallikrein-2 Gene (KLK2) with Susceptibility of Prostate Cancer: A Meta-Analysis"
+  "title": "Retraction: Association of Polymorphism rs198977 in Human Kallikrein-2 Gene (KLK2) with Susceptibility of Prostate Cancer: A Meta-Analysis"
 }

@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1415059200000,
+  "retracted": true,
+  "timestamp": 1482796800000,
   "updates": [
     {
-      "timestamp": 1496014641657,
+      "timestamp": 1495668227792,
       "identifier": {
-        "doi": "10.1073/pnas.1419095111"
+        "doi": "10.1073/pnas.1619713114"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1073/pnas.0911570106"
   },
-  "journal": "Proceedings of the National Academy of Sciences",
   "publisher": "Proceedings of the National Academy of Sciences",
-  "title": "Correction for Wenz et al., Increased muscle PGC-1  expression protects from sarcopenia and metabolic disease during aging"
+  "title": "Retraction for Wenz et al., Increased muscle PGC-1α expression protects from sarcopenia and metabolic disease during aging"
 }

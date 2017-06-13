@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1327276800000,
+  "retracted": true,
+  "timestamp": 1494288000000,
   "updates": [
     {
-      "timestamp": 1495854125571,
+      "timestamp": 1495743681290,
       "identifier": {
-        "doi": "10.1186/1742-2094-9-19"
+        "doi": "10.1186/s12974-017-0872-z"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1186/1742-2094-8-101"
   },
-  "journal": "Journal of Neuroinflammation",
   "publisher": "Springer Nature",
-  "title": "Erratum to: Increased neuroinflammatory and arachidonic acid cascade markers, and reduced synaptic proteins, in brain of HIV-1 transgenic rats"
+  "title": "Retraction Note to: Increased neuroinflammatory and arachidonic acid cascade markers, and reduced synaptic proteins, in brain of HIV-1 transgenic rats"
 }

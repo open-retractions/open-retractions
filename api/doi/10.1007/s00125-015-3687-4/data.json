@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1443052800000,
+  "retracted": true,
+  "timestamp": 1452124800000,
   "updates": [
     {
-      "timestamp": 1496032475737,
+      "timestamp": 1496058504539,
       "identifier": {
-        "doi": "10.1007/s00125-015-3765-7"
+        "doi": "10.1007/s00125-015-3851-x"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s00125-015-3687-4"
   },
-  "journal": "Diabetologia",
   "publisher": "Springer Nature",
-  "title": "Erratum to: Abstracts of the 51st Annual Meeting of the EASD, Stockholm 2015. ‘Dapagliflozin reduces albuminuria on top of renin-angiotensin system blockade in hypertensive patients with diabetes’"
+  "title": "Retraction Note: Abstracts of 51st EASD Annual Meeting"
 }

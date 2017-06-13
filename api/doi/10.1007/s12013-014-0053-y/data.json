@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1407283200000,
+  "retracted": true,
+  "timestamp": 1495238400000,
   "updates": [
     {
-      "timestamp": 1496002024302,
+      "timestamp": 1495746404420,
       "identifier": {
-        "doi": "10.1007/s12013-014-0171-6"
+        "doi": "10.1007/s12013-017-0802-9"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s12013-014-0053-y"
   },
-  "journal": "Cell Biochemistry and Biophysics",
   "publisher": "Springer Nature",
-  "title": "Erratum to: Oolong Tea Drinking Could Help Prevent Bone Loss in Postmenopausal Han Chinese Women"
+  "title": "Retraction Note to: Oolong Tea Drinking Could Help Prevent Bone Loss in Postmenopausal Han Chinese Women"
 }

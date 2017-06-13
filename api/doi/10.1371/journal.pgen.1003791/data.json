@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1435536000000,
+  "retracted": true,
+  "timestamp": 1441238400000,
   "updates": [
     {
-      "timestamp": 1496012302766,
+      "timestamp": 1496027090110,
       "identifier": {
-        "doi": "10.1371/journal.pgen.1005377"
+        "doi": "10.1371/journal.pgen.1005519"
       },
-      "type": "expression-of-concern"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pgen.1003791"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Expression of Concern: RNAi-Dependent and Independent Control of LINE1 Accumulation and Mobility in Mouse Embryonic Stem Cells"
+  "title": "Retraction: RNAi-Dependent and Independent Control of LINE1 Accumulation and Mobility in Mouse Embryonic Stem Cells"
 }

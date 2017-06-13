@@ -1,6 +1,6 @@
 {
-  "retracted": false,
-  "timestamp": 1330992000000,
+  "retracted": true,
+  "timestamp": 1344297600000,
   "updates": [
     {
       "timestamp": 1495881088523,
@@ -13,7 +13,6 @@
   "identifier": {
     "doi": "10.1371/journal.pcbi.1002308"
   },
-  "journal": "PLoS Computational Biology",
   "publisher": "Public Library of Science (PLoS)",
   "title": "Correction: Multi-scale Inference of Interaction Rules in Animal Groups Using Bayesian Model Selection"
 }

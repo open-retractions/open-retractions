@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1416873600000,
+  "retracted": true,
+  "timestamp": 1429574400000,
   "updates": [
     {
-      "timestamp": 1496023154342,
+      "timestamp": 1496059204162,
       "identifier": {
-        "doi": "10.1039/c4sc90048k"
+        "doi": "10.1039/c5sc90019k"
       },
-      "type": "expression_of_concern"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1039/c2sc20639k"
   },
-  "journal": "Chem. Sci.",
   "publisher": "Royal Society of Chemistry (RSC)",
-  "title": "Expression of concern: Homonuclear bond activation using a stable N,N′-diamidocarbene"
+  "title": "Retraction: Homonuclear bond activation using a stable N,N′-diamidocarbene"
 }
