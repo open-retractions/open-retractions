@@ -1,18 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1454284800000,
   "updates": [
     {
-      "timestamp": 1495643722402,
+      "timestamp": 1567194046120,
       "identifier": {
-        "doi": "10.1016/j.oceaneng.2016.02.002"
+        "doi": "10.1016/j.oceaneng.2015.08.020"
       },
-      "type": "erratum"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.oceaneng.2015.08.020"
   },
   "publisher": "Elsevier BV",
-  "title": "Erratum to “The resistance of ice breaking ship using the regression analysis of model tests” [Ocean Eng. 108C (2015) 692–703]"
+  "title": "RETRACTED: The resistance of ice breaking ship using the regression analysis of model tests"
 }

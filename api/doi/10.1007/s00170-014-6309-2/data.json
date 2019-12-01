@@ -1,18 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1490745600000,
   "updates": [
     {
-      "timestamp": 1495733595200,
+      "timestamp": 1550368480151,
       "identifier": {
         "doi": "10.1007/s00170-017-0314-1"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s00170-014-6309-2"
   },
   "publisher": "Springer Nature",
-  "title": "Erratum to: Cuckoo optimization algorithm for unit production cost in multi-pass turning operations"
+  "title": "Retraction Note: Erratum to: Cuckoo optimization algorithm for unit production cost in multi-pass turning operations"
 }

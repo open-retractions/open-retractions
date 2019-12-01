@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1437004800000,
+  "retracted": true,
+  "timestamp": 1543449600000,
   "updates": [
     {
-      "timestamp": 1496015580262,
+      "timestamp": 1574988034979,
       "identifier": {
-        "doi": "10.1007/s00382-015-2730-y"
+        "doi": "10.1007/s00382-018-4550-3"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s00382-015-2682-2"
   },
-  "publisher": "Springer Nature",
-  "title": "Erratum to: Application of extreme learning machine for estimation of wind speed distribution"
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Retraction Note to: Application of extreme learning machine for estimation of wind speed distribution"
 }

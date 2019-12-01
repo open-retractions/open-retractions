@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1468540800000,
+  "retracted": true,
+  "timestamp": 1568505600000,
   "updates": [
     {
-      "timestamp": 1495721470985,
+      "timestamp": 1567068062802,
       "identifier": {
-        "doi": "10.1016/j.lfs.2016.05.038"
+        "doi": "10.1016/j.lfs.2019.116691"
       },
-      "type": "err"
+      "type": "erratum"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.lfs.2007.11.006"
   },
   "publisher": "Elsevier BV",
-  "title": "Erratum to “Resveratrol induces apoptosis involving mitochondrial pathways in mouse skin tumorigenesis” [Life Sciences (2008) 348–358]"
+  "title": "Retraction notice to “Resveratrol induces apoptosis involving mitochondrial pathways in mouse skin tumorigenesis” [Life Sci. 82/7–8 (2008) 348–358]"
 }

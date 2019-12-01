@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1484265600000,
+  "retracted": true,
+  "timestamp": 1528156800000,
   "updates": [
     {
-      "timestamp": 1495676016623,
+      "timestamp": 1574842851165,
       "identifier": {
-        "doi": "10.1371/journal.pone.0170156"
+        "doi": "10.1371/journal.pone.0198763"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0105555"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Intermittent Hypoxia Effect on Osteoclastogenesis Stimulated by Neuroblastoma Cells"
+  "title": "Retraction: Intermittent Hypoxia Effect on Osteoclastogenesis Stimulated by Neuroblastoma Cells"
 }

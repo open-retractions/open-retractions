@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1486944000000,
+  "retracted": true,
+  "timestamp": 1520380800000,
   "updates": [
     {
-      "timestamp": 1495720209874,
+      "timestamp": 1574807283246,
       "identifier": {
-        "doi": "10.1007/s11235-017-0288-1"
+        "doi": "10.1007/s11235-018-0442-4"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s11235-016-0183-1"
   },
-  "publisher": "Springer Nature",
-  "title": "Erratum to: Improved fast handover method for multiple node by using mobile nodes guide"
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Retraction Note to: Improved fast handover method for multiple node by using mobile nodes guide"
 }

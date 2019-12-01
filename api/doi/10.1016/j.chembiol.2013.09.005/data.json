@@ -1,18 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1410998400000,
   "updates": [
     {
-      "timestamp": 1496006991821,
+      "timestamp": 1574555625230,
       "identifier": {
-        "doi": "10.1016/j.chembiol.2014.08.012"
+        "doi": "10.1016/j.chembiol.2013.09.005"
       },
-      "type": "err"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.chembiol.2013.09.005"
   },
   "publisher": "Elsevier BV",
-  "title": "Peptide-Based Inhibitors of Plk1 Polo-box Domain Containing Mono-anionic Phosphothreonine Esters and Their Pivaloyloxymethyl Prodrugs"
+  "title": "RETRACTED: Peptide-Based Inhibitors of Plk1 Polo-box Domain Containing Mono-anionic Phosphothreonine Esters and Their Pivaloyloxymethyl Prodrugs"
 }

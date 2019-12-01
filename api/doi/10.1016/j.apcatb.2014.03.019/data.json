@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1443657600000,
+  "retracted": true,
+  "timestamp": 1554076800000,
   "updates": [
     {
-      "timestamp": 1496059323613,
+      "timestamp": 1574702940054,
       "identifier": {
-        "doi": "10.1016/j.apcatb.2015.04.028"
+        "doi": "10.1016/j.apcatb.2014.03.019"
       },
-      "type": "err"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.apcatb.2014.03.019"
   },
   "publisher": "Elsevier BV",
-  "title": "Corrigendum to “Decahedral TiO2 with exposed facets: synthesis, properties, photoactivity and applications. A review” [Appl. Catal. B: Environ., 156–157, (2014), 213–235]"
+  "title": "RETRACTED: Decahedral TiO2 with exposed facets: Synthesis, properties, photoactivity and applications"
 }

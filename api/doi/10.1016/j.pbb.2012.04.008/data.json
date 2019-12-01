@@ -1,18 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1412121600000,
   "updates": [
     {
-      "timestamp": 1496008462536,
+      "timestamp": 1561693207027,
       "identifier": {
-        "doi": "10.1016/j.pbb.2014.05.020"
+        "doi": "10.1016/j.pbb.2012.04.008"
       },
-      "type": "err"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.pbb.2012.04.008"
   },
   "publisher": "Elsevier BV",
-  "title": "WITHDRAWN: Retraction notice to: “Acute ethanol administration affects memory reactivation: a look at the neuronal density and apoptosis in the rat hippocampus” [Pharmacology, Biochemistry and Behavior 102/2 (2012) 321 - 328 of retracted article]"
+  "title": "RETRACTED: Acute ethanol administration affects memory reactivation: A look at the neuronal density and apoptosis in the rat hippocampus"
 }

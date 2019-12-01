@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1087257600000,
+  "retracted": true,
+  "timestamp": 1531785600000,
   "updates": [
     {
-      "timestamp": 1495828027331,
+      "timestamp": 1574861743777,
       "identifier": {
-        "doi": "10.1073/pnas.1003210107"
+        "doi": "10.1073/pnas.1806429115"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1073/pnas.0400744101"
   },
   "publisher": "Proceedings of the National Academy of Sciences",
-  "title": "Editorial Expression of Concern for multiple articles"
+  "title": "Retraction for Ganesh et al., Structure of vaccinia complement protein in complex with heparin and potential implications for complement regulation"
 }
