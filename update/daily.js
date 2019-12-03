@@ -24,15 +24,15 @@ let last_crossref
 
 try {
   const entry = JSON.parse(fs.readFileSync('./last_crossref.json', 'utf8'))
-  last_crossref = entry.timestamp
-  console.log('Getting CrossRef since', timestamp)
+  last_crossref = new Date(entry.timestamp).toISOString().split('T')[0]
+  console.log('Getting CrossRef since', last_crossref)
 } catch (e) {
   console.log('Getting all CrossRef')
   fs.writeJsonSync('./last_crossref.json', { timestamp: (new Date()).getTime() })
 }
 
 pumpify(
-  crossref(),
+  crossref(date = last_crossref),
   retraction.crossref.stream(),
   writedoi()
 )
