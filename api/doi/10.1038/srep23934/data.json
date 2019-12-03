@@ -1,11 +1,11 @@
 {
-  "retracted": false,
-  "timestamp": 1481068800000,
+  "retracted": true,
+  "timestamp": 1521504000000,
   "updates": [
     {
-      "timestamp": 1495665461717,
+      "timestamp": 1574811902365,
       "identifier": {
-        "doi": "10.1038/srep35331"
+        "doi": "10.1038/srep46940"
       },
       "type": "correction"
     }
@@ -13,6 +13,6 @@
   "identifier": {
     "doi": "10.1038/srep23934"
   },
-  "publisher": "Springer Nature",
-  "title": "Erratum: Corrigendum: Recombination spot identification Based on gapped k-mers"
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Retraction Note: Recombination spot identification Based on gapped k-mers"
 }

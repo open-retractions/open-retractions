@@ -1,18 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1440115200000,
   "updates": [
     {
-      "timestamp": 1496024323910,
+      "timestamp": 1566045643023,
       "identifier": {
-        "doi": "10.1007/s12197-015-9335-5"
+        "doi": "10.1007/s12197-014-9307-1"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1007/s12197-014-9307-1"
   },
-  "publisher": "Springer Nature",
-  "title": "Erratum to: The role of circuit breakers in the oil futures market"
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "RETRACTED ARTICLE: The role of circuit breakers in the oil futures market"
 }

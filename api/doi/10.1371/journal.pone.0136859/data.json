@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1444867200000,
+  "retracted": true,
+  "timestamp": 1568246400000,
   "updates": [
     {
-      "timestamp": 1496037909611,
+      "timestamp": 1568313634630,
       "identifier": {
-        "doi": "10.1371/journal.pone.0141027"
+        "doi": "10.1371/journal.pone.0222416"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0136859"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Human Cystathionine-β-Synthase Phosphorylation on Serine227 Modulates Hydrogen Sulfide Production in Human Urothelium"
+  "title": "Retraction: Human Cystathionine-β-Synthase Phosphorylation on Serine227 Modulates Hydrogen Sulfide Production in Human Urothelium"
 }

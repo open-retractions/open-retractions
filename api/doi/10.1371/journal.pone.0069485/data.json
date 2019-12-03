@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1416873600000,
+  "retracted": true,
+  "timestamp": 1538438400000,
   "updates": [
     {
-      "timestamp": 1496024798829,
+      "timestamp": 1550512103097,
       "identifier": {
-        "doi": "10.1371/journal.pone.0114346"
+        "doi": "10.1371/journal.pone.0205288"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0069485"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Mitochondrial Dysfunction Promotes Breast Cancer Cell Migration and Invasion through HIF1α Accumulation via Increased Production of Reactive Oxygen Species"
+  "title": "Retraction: Mitochondrial Dysfunction Promotes Breast Cancer Cell Migration and Invasion through HIF1α Accumulation via Increased Production of Reactive Oxygen Species"
 }

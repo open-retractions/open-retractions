@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1462060800000,
+  "retracted": true,
+  "timestamp": 1515974400000,
   "updates": [
     {
-      "timestamp": 1495668948759,
+      "timestamp": 1574778091082,
       "identifier": {
-        "doi": "10.1016/j.lfs.2016.03.050"
+        "doi": "10.1016/j.lfs.2017.12.028"
       },
-      "type": "err"
+      "type": "erratum"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.lfs.2012.08.002"
   },
   "publisher": "Elsevier BV",
-  "title": "Corrigendum to “Reversion of hepatic steatosis by exercise training in obese mice: The role of sterol regulatory element-binding protein-1c” [Life Sci. 91(11–12) (2012) 395–401]"
+  "title": "Retraction notice to \"Reversion of hepatic steatosis by exercise training in obese mice: The role of sterol regulatory element-binding protein-1c\" [Life Sci. Title 91/11–12 (2012) 395-401]"
 }

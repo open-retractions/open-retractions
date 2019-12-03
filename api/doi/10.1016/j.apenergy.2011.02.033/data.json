@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1446336000000,
+  "retracted": true,
+  "timestamp": 1552608000000,
   "updates": [
     {
-      "timestamp": 1496040844480,
+      "timestamp": 1574884696198,
       "identifier": {
-        "doi": "10.1016/j.apenergy.2015.09.060"
+        "doi": "10.1016/j.apenergy.2019.02.026"
       },
-      "type": "err"
+      "type": "erratum"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.apenergy.2011.02.033"
   },
   "publisher": "Elsevier BV",
-  "title": "Erratum to “Efficient preparation of biodiesel from rapeseed oil over modified CaO” [Appl. Energy 88 (8) (2011) 2593–2916]"
+  "title": "Retraction notice to \"Efficient preparation of biodiesel from rapeseed oil over modified CaO\" Appl Energ 88 (2011) 2735–2739"
 }

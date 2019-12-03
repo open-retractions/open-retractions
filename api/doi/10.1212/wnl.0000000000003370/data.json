@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1494892800000,
+  "retracted": true,
+  "timestamp": 1505779200000,
   "updates": [
     {
-      "timestamp": 1495745611323,
+      "timestamp": 1550489273103,
       "identifier": {
-        "doi": "10.1212/wnl.0000000000003978"
+        "doi": "10.1212/wnl.0000000000004439"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1212/wnl.0000000000003370"
   },
   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
-  "title": "\n            Mystery Case:\n            CSF-1R\n            mutation is a cause of intracranial cerebral calcifications, cysts, and leukoencephalopathy\n          "
+  "title": "Mystery Case:\n            CSF-1R\n            mutation is a cause of intracranial cerebral calcifications, cysts, and leukoencephalopathy"
 }

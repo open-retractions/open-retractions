@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1475280000000,
+  "retracted": true,
+  "timestamp": 1517443200000,
   "updates": [
     {
-      "timestamp": 1495733669352,
+      "timestamp": 1574774951145,
       "identifier": {
-        "doi": "10.1016/j.canlet.2016.07.026"
+        "doi": "10.1016/j.canlet.2017.11.029"
       },
-      "type": "err"
+      "type": "erratum"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.canlet.2013.10.022"
   },
   "publisher": "Elsevier BV",
-  "title": "Corrigendum to ‘Ca2+/calmodulin-dependent protein kinase IIγ, a critical mediator of the NF-κB network, is a novel therapeutic target in non-small cell lung cancer’ [Cancer Lett. 344 (1), 119–128; March 1, 2014]"
+  "title": "Retraction notice to “Ca2+/Calmodulin-dependent protein kinase IIγ, a critical mediator of the NF-κB network, is a novel therapeutic target in non-small cell lung cancer” [Cancer Lett. 344(1) (2014) 119–128]"
 }

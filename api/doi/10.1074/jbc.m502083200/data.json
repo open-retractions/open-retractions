@@ -1,19 +1,18 @@
 {
-  "retracted": false,
+  "retracted": true,
   "timestamp": 1486080000000,
   "updates": [
     {
-      "timestamp": 1495680923101,
+      "timestamp": 1571829856990,
       "identifier": {
         "doi": "10.1074/jbc.a117.502083"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1074/jbc.m502083200"
   },
-  "journal": "Journal of Biological Chemistry",
   "publisher": "American Society for Biochemistry & Molecular Biology (ASBMB)",
   "title": "Nuclear import and export signals in control of Nrf2."
 }
