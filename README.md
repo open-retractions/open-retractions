@@ -6,6 +6,7 @@
 </div>
 
 <div align="center">
+    <img src="https://travis-ci.org/fathomlabs/open-retractions.svg?branch=master" alt="Travis CI build" />
   <a href="https://github.com/fathomlabs/crossref-cli/blob/master/LICENSE" alt="MIT license">
     <img src="https://img.shields.io/badge/code_license-MIT-green.svg?style=flat-square" />
   </a>&nbsp;
