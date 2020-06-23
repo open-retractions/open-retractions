@@ -3,7 +3,7 @@ const path = require('path')
 const retraction = require('open-retractions-datum')
 
 module.exports = () => require('through2').obj((data, enc, done) => {
-  const doipath = path.join(__dirname, '..', 'api', 'doi', data.identifier.doi)
+  const doipath = path.join(__dirname, '..', 'api', 'doi', data.identifier.doi.toLowerCase())
   fs.ensureDirSync(doipath)
   const jsonpath = path.join(doipath, 'data.json')
 
