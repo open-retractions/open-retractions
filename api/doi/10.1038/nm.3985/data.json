@@ -1,19 +1,18 @@
 {
   "retracted": false,
-  "timestamp": 1459900800000,
+  "timestamp": 1590105600000,
   "updates": [
     {
-      "timestamp": 1555589472777,
+      "timestamp": 1590145838953,
       "identifier": {
-        "doi": "10.1038/nm0416-446d"
+        "doi": "10.1038/s41591-020-0924-2"
       },
-      "type": "erratum"
+      "type": "correction"
     }
   ],
   "identifier": {
     "doi": "10.1038/nm.3985"
   },
-  "journal": "Nature Medicine",
-  "publisher": "Springer Nature",
-  "title": "Erratum: Corrigendum: A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence"
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Author Correction: A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence"
 }

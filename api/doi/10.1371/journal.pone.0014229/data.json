@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1294704000000,
+  "retracted": true,
+  "timestamp": 1577404800000,
   "updates": [
     {
-      "timestamp": 1574371770683,
+      "timestamp": 1591716548517,
       "identifier": {
-        "doi": "10.1371/annotation/07419a37-33f1-4e4a-adc9-b186f305bae5"
+        "doi": "10.1371/journal.pone.0227376"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0014229"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Epigenetic Silencing of Peroxisome Proliferator-Activated Receptor γ Is a Biomarker for Colorectal Cancer Progression and Adverse Patients' Outcome"
+  "title": "Retraction: Epigenetic Silencing of Peroxisome Proliferator-Activated Receptor γ Is a Biomarker for Colorectal Cancer Progression and Adverse Patients’ Outcome"
 }

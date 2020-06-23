@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1388620800000,
+  "retracted": true,
+  "timestamp": 1580256000000,
   "updates": [
     {
-      "timestamp": 1574584231515,
+      "timestamp": 1591735365465,
       "identifier": {
-        "doi": "10.1371/annotation/bb2f92ec-2ac1-4952-b744-0519aeb10d1c"
+        "doi": "10.1371/journal.pone.0228688"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0013731"
   },
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Correction: Downregulation of uPAR and Cathepsin B Induces Apoptosis via Regulation of Bcl-2 and Bax and Inhibition of the PI3K/Akt Pathway in Gliomas"
+  "title": "Retraction: Downregulation of uPAR and Cathepsin B Induces Apoptosis via Regulation of Bcl-2 and Bax and Inhibition of the PI3K/Akt Pathway in Gliomas"
 }

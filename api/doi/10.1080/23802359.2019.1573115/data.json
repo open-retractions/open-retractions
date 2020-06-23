@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1556582400000,
+  "retracted": true,
+  "timestamp": 1576627200000,
   "updates": [
     {
-      "timestamp": 1562764241176,
+      "timestamp": 1591712016271,
       "identifier": {
-        "doi": "10.1080/23802359.2019.1603877"
+        "doi": "10.1080/23802359.2019.1701829"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1080/23802359.2019.1573115"
   },
-  "journal": "Mitochondrial DNA Part B",
   "publisher": "Informa UK Limited",
-  "title": "Correction"
+  "title": "Retraction: The complete mitochondrial genomes of the nematode-trapping fungus Dactylellina cionopaga."
 }

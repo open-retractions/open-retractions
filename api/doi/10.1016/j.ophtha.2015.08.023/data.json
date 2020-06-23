@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1462060800000,
+  "retracted": true,
+  "timestamp": 1585699200000,
   "updates": [
     {
-      "timestamp": 1557263508988,
+      "timestamp": 1592839424620,
       "identifier": {
-        "doi": "10.1016/j.ophtha.2016.03.007"
+        "doi": "10.1016/j.ophtha.2015.08.023"
       },
-      "type": "erratum"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1016/j.ophtha.2015.08.023"
   },
   "publisher": "Elsevier BV",
-  "title": "Corrigendum"
+  "title": "Retraction notice to: Endophthalmitis Occurring after Cataract Surgery"
 }

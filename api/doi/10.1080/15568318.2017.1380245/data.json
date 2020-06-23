@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1562284800000,
+  "retracted": true,
+  "timestamp": 1586736000000,
   "updates": [
     {
-      "timestamp": 1562337642466,
+      "timestamp": 1591786365234,
       "identifier": {
-        "doi": "10.1080/15568318.2019.1637049"
+        "doi": "10.1080/15568318.2020.1753423"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1080/15568318.2017.1380245"
   },
-  "journal": "International Journal of Sustainable Transportation",
   "publisher": "Informa UK Limited",
-  "title": "Correction"
+  "title": "Retraction: Estimating walking access levels incorporating distance thresholds of built environment features"
 }

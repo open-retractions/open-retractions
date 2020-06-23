@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1560816000000,
+  "retracted": true,
+  "timestamp": 1585612800000,
   "updates": [
     {
-      "timestamp": 1560858032036,
+      "timestamp": 1591773518694,
       "identifier": {
-        "doi": "10.1039/c9ra90049g"
+        "doi": "10.1039/d0ra90026e"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1039/c9ra00093c"
   },
-  "journal": "RSC Advances",
   "publisher": "Royal Society of Chemistry (RSC)",
-  "title": "Correction: Facile preparation of bithiazole-based material for inkjet printed light-emitting electrochemical cell"
+  "title": "Retraction: Facile preparation of bithiazole-based material for inkjet printed light-emitting electrochemical cell"
 }

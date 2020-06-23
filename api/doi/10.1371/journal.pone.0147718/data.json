@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1548720000000,
+  "retracted": true,
+  "timestamp": 1576108800000,
   "updates": [
     {
-      "timestamp": 1574873357542,
+      "timestamp": 1591707464642,
       "identifier": {
-        "doi": "10.1371/journal.pone.0211655"
+        "doi": "10.1371/journal.pone.0226703"
       },
-      "type": "expression_of_concern"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1371/journal.pone.0147718"
   },
-  "journal": "PLOS ONE",
   "publisher": "Public Library of Science (PLoS)",
-  "title": "Expression of Concern: Ramentaceone, a Naphthoquinone Derived from Drosera sp., Induces Apoptosis by Suppressing PI3K/Akt Signaling in Breast Cancer Cells"
+  "title": "Retraction: Ramentaceone, a Naphthoquinone Derived from Drosera sp., Induces Apoptosis by Suppressing PI3K/Akt Signaling in Breast Cancer Cells"
 }

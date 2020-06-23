@@ -1,18 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1469059200000,
+  "retracted": true,
+  "timestamp": 1585785600000,
   "updates": [
     {
-      "timestamp": 1550306523161,
+      "timestamp": 1589800230800,
       "identifier": {
-        "doi": "10.1080/14620316.2016.1210387"
+        "doi": "10.1080/14620316.2020.1728984"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1080/14620316.2014.11513109"
   },
   "publisher": "Informa UK Limited",
-  "title": "Corrigendum"
+  "title": "Statement of Retraction"
 }

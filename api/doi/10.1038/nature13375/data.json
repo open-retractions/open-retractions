@@ -1,19 +1,18 @@
 {
-  "retracted": false,
-  "timestamp": 1558656000000,
+  "retracted": true,
+  "timestamp": 1590969600000,
   "updates": [
     {
-      "timestamp": 1560948077847,
+      "timestamp": 1591197040574,
       "identifier": {
-        "doi": "10.1038/s41586-019-1266-4"
+        "doi": "10.1038/s41586-020-2273-1"
       },
-      "type": "correction"
+      "type": "retraction"
     }
   ],
   "identifier": {
     "doi": "10.1038/nature13375"
   },
-  "journal": "Nature",
   "publisher": "Springer Science and Business Media LLC",
-  "title": "Author Correction: miR-34a blocks osteoporosis and bone metastasis by inhibiting osteoclastogenesis and Tgif2"
+  "title": "Retraction Note: miR-34a blocks osteoporosis and bone metastasis by inhibiting osteoclastogenesis and Tgif2"
 }
